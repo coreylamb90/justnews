@@ -8,6 +8,9 @@ FEEDS = [
   "https://www.theguardian.com/world/rss",
   "https://www.reuters.com/world/rss",
   "https://feeds.npr.org/1001/rss.xml",
+  "https://www.theverge.com/rss/index.xml",
+  "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+  "https://www.sciencedaily.com/rss/top/science.xml",
 ]
 
 MAX_ARTICLES_TOTAL = 12        # keep small while testing
