@@ -1,5 +1,8 @@
 name: Build & Publish Summaries
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes (UTC)
@@ -29,7 +32,23 @@ jobs:
           mkdir -p public
           python build_json.py
 
-      - name: Publish /backend/public to gh-pages
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build web (Vite)
+        working-directory: web/unbiased-web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Bundle site + api to gh-pages folder
+        run: |
+          mkdir -p backend/public/app
+          cp -r web/unbiased-web/dist/* backend/public/app/
+
+      - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
