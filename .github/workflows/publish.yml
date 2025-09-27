@@ -1,12 +1,18 @@
-name: Build & Publish Summaries
-
-permissions:
-  contents: write
+name: Build & Publish Summaries & App
 
 on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes (UTC)
   workflow_dispatch:          # manual run button
+  push:                       # also publish on relevant pushes
+    branches: [ main ]
+    paths:
+      - "backend/**"
+      - "web/**"
+      - ".github/workflows/publish.yml"
+
+permissions:
+  contents: write   # allow pushing to gh-pages
 
 jobs:
   build:
@@ -16,6 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # ---------- BACKEND: build summaries.json ----------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -24,30 +31,43 @@ jobs:
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser trafilatura transformers torch requests tqdm
+          pip install feedparser trafilatura transformers torch requests tqdm accelerate
 
       - name: Build JSON (backend/build_json.py)
         working-directory: backend
         run: |
           mkdir -p public
           python build_json.py
+          echo "----- backend/public -----"
+          ls -la public || true
 
+      # ---------- FRONTEND: build Vite app into /app ----------
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "npm"
+          cache-dependency-path: web/unbiased-web/package-lock.json
 
       - name: Build web (Vite)
         working-directory: web/unbiased-web
         run: |
           npm ci
           npm run build
+          echo "----- dist contents -----"
+          ls -la dist || true
 
       - name: Bundle site + api to gh-pages folder
         run: |
+          echo "----- repo root -----"; pwd; ls -la
+          echo "----- ensure backend/public/app exists -----"
           mkdir -p backend/public/app
-          cp -r web/unbiased-web/dist/* backend/public/app/
+          echo "----- copy dist -> backend/public/app -----"
+          rsync -av --delete web/unbiased-web/dist/ backend/public/app/
+          echo "----- list backend/public/app -----"
+          ls -la backend/public/app
 
+      # ---------- PUBLISH ----------
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
