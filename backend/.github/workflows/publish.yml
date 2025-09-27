@@ -1,34 +1,30 @@
+# .github/workflows/publish.yml
 name: Build & Publish Summaries
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
-  workflow_dispatch:          # manual run button
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- allow pushing to branches
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install Python deps
-        run: |
+      - run: |
           python -m pip install --upgrade pip
-          pip install feedparser trafilatura transformers torch requests tqdm
-
+          pip install -r backend/requirements.txt
       - name: Build JSON (backend/build_json.py)
         working-directory: backend
         run: |
           mkdir -p public
           python build_json.py
-
       - name: Publish /backend/public to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:

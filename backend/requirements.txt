@@ -1,0 +1,14 @@
+# Core RSS parsing & requests
+feedparser
+requests
+
+# Content extraction
+trafilatura>=1.8.0
+lxml[html_clean]
+
+# Summarization (Hugging Face Transformers + Torch)
+transformers>=4.30.0
+torch>=2.0.0
+
+# Progress bars
+tqdm
