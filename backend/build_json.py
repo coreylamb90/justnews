@@ -17,7 +17,7 @@ MIN_TEXT_LEN = 500             # skip very short pages
 EXCERPT_LEN = 1500             # trim long articles for speed
 
 print("Loading summarizer (DistilBART)…", flush=True)
-summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6", device_map="cpu")
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6", device=-1)
 print("Summarizer ready.", flush=True)
 
 def fetch_html(url: str) -> str | None:
