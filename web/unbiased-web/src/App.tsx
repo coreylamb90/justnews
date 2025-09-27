@@ -44,7 +44,7 @@ export default function App() {
       {/* Top bar */}
       <header className="sticky top-0 z-10 border-b bg-white/80 dark:bg-neutral-900/80 backdrop-blur px-6 py-4">
         <div className="mx-auto max-w-6xl flex items-center justify-between">
-          <h1 className="text-xl font-semibold">Unbiased News</h1>
+          <h1 className="text-xl font-semibold">JustNews</h1>
           <span className="text-sm text-gray-500 dark:text-neutral-400">
             Updated {generatedAt ? timeAgo(generatedAt) : "…"}
           </span>
