@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T16:33:12Z",
+  "generated_at": "2025-09-28T16:50:11Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,56 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "88617c3cebd1",
+      "title": "GOP leaders say Obamacare tax credit fight can wait until after government shutdown is averted",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/government-shutdown-trump-democrats-republicans-health-care.html",
+      "published_at": "Sun, 28 Sep 2025 16:44:06 GMT",
+      "bullets": [
+        "• House Speaker Mike Johnson, R-La., said the Obamacare subsidies are a policy debate that has to be determined by the end of the year",
+        "• Senate Majority Leader John Thune called Obamacare a program \"in desperate need of reform\" President Donald Trump is set to meet with the top four congressional leaders on Monday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "b00ac9a6aef0",
+      "title": "Several injured in shooting and fire at Michigan Mormon church",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 16:39:06 GMT",
+      "bullets": [
+        "• Several injured in shooting and fire at Mormon church in Michigan",
+        "• US Attorney General Pam Bondi: \"Such violence at a place of worship is heartbreaking and chilling\" Grand Blanc Township Police Department said there was no further threat to the public",
+        "• FBI and Bureau of Alcohol, Tobacco, Firearms and Explosives are on the scene "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "3eaf559da55e",
+      "title": "Trump to meet with US congressional leaders in last-ditch effort to avoid shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/trump-congress-leaders-government-shutdown",
+      "published_at": "Sun, 28 Sep 2025 16:32:33 GMT",
+      "bullets": [
+        "• Donald Trump to hold talks with Democratic leaders in Washington on Monday afternoon",
+        "• Meeting comes days after he met with Hakeem Jeffries and Chuck Schumer to discuss government shutdown",
+        "• Trump said he was 'hopeful' they would be able to find a way to avoid the shutdown "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.983
       }
     },
     {
@@ -172,24 +222,6 @@
       }
     },
     {
-      "id": "310f507e01b9",
-      "title": "Crunch time: Democrats ready for shutdown standoff over Republican health cuts",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/democrats-government-shutdown-republican-healthcare-cuts",
-      "published_at": "Sun, 28 Sep 2025 13:00:13 GMT",
-      "bullets": [
-        "• Democrats have refused to back President Trump’s demands to keep government funded",
-        "• They want to strip funding for foreign aid and downsize Medicaid",
-        "• The White House has threatened to shut down the federal government for the first time in six years",
-        "• Democrats have found rare leverage on the issue of health care "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.958
-      }
-    },
-    {
       "id": "8de100c95479",
       "title": "Multiple people shot at Mormon church in Michigan and shooter is down, police say",
       "outlet": "NPR Topics: News",
@@ -275,24 +307,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "baa615acfd47",
-      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
-      "published_at": "Sun, 28 Sep 2025 11:45:51 GMT",
-      "bullets": [
-        "• The Pentagon took an equity stake in MP Materials, the largest U.S",
-        "• rare earth miner, in July",
-        "• The White House is \"not ruling out other deals with equity stakes or price floors,\" a White House official says",
-        "• Rare earths are key inputs in weapons platforms such as the F-35 warplane "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.551
       }
     },
     {
@@ -483,24 +497,6 @@
       }
     },
     {
-      "id": "63007025c94d",
-      "title": "Argentines demand justice at protest against brutal killings of young women",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 02:56:21 GMT",
-      "bullets": [
-        "• Two girls and two women were found dead in Buenos Aires last week",
-        "• Police say they were part of a drug-related plot to 'punish' the victims",
-        "• A video of the incident shows the victims being attacked by a gang",
-        "• The bodies of the victims were found five days after the attack "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
       "id": "b613d704f91c",
       "title": "Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40",
       "outlet": "NPR Topics: Politics",
@@ -572,7 +568,7 @@
     },
     {
       "id": "2584e1916ba0",
-      "title": "Southeast U.S. braces for heavy rains from a potential tropical storm",
+      "title": "A potential tropical storm is expected to batter parts of the southeastern U.S.",
       "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane",
       "published_at": "Sat, 27 Sep 2025 15:02:50 -0400",
@@ -586,7 +582,7 @@
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.948
+        "score": 0.831
       }
     },
     {
