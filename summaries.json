@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T08:51:15Z",
+  "generated_at": "2025-09-28T09:29:05Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -58,7 +58,7 @@
       "bullets": [
         "• Russia launched nearly 600 drones and missiles toward seven regions of Ukraine, its air force said",
         "• President Volodymyr Zelensky said the deaths occurred in the capital, Kyiv, and the victims included a 12-year-old girl",
-        "• At least 16 people were injured in the Zaporizhzhia region, including three children "
+        "• At least 16 people were injured in Zaporizhzhia region, including three children "
       ],
       "category": "World",
       "sentiment": {
@@ -98,6 +98,58 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.594
+      }
+    },
+    {
+      "id": "051d2864675b",
+      "title": "Why friends are teaming up to buy homes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability",
+      "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Housing prices are up 56% since February 2020, according to data from the National Association of Realtors",
+        "• Hayley Currier and Tammy Kremer are longtime friends who bonded over their mutual passions for open-water swimming, Jewish rituals and political organizing "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "9406786501f9",
+      "title": "DACA has bipartisan support in Congress. Still, Republicans are following Trump's lead",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5534436/daca-dream-act-congress-republicans-trump",
+      "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Deferred Action for Childhood Arrivals program created in 2012 to protect children from deportation",
+        "• Republican lawmakers are open to a permanent solution to the problem",
+        "• Nearly 20 DACA recipients have been caught in the cross-fire of the program this year",
+        "• The program has bipartisan support in Congress "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "e088b85932e3",
+      "title": "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5555885/russian-drone-attack-kyiv-kills-4",
+      "published_at": "Sun, 28 Sep 2025 04:52:23 -0400",
+      "bullets": [
+        "• Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10 people",
+        "• A 12-year-old girl was among the dead, head of the Kyiv City Administration says",
+        "• First major bombardment since 21 killed at least 21 people last month",
+        "• Ukrainian President Volodymyr Zelenskyy says attack involved \"nearly 500 strike drones and more than 40 missiles\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
       }
     },
     {
@@ -238,24 +290,6 @@
       }
     },
     {
-      "id": "94b41c98b89c",
-      "title": "Wyoming town erects new monument to violent, anti-immigrant history",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5519752/wyoming-town-erects-new-monument-to-violent-anti-immigrant-history",
-      "published_at": "Sun, 28 Sep 2025 00:01:00 -0400",
-      "bullets": [
-        "• Six Grinnell College researchers spent the summer digging, scraping and screening the soil in Rock Springs, Wyoming",
-        "• They are looking for artifacts from when a mob burned down what was once the Rock Springs Chinatown",
-        "• In 1885, labor tensions boiled over in the Union Pacific Railroad's coal mines",
-        "• The mob, many of them European migrants, blamed the Chinese "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.898
-      }
-    },
-    {
       "id": "eb57e9ca09a9",
       "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -289,25 +323,6 @@
       }
     },
     {
-      "id": "25aa6c41dd74",
-      "title": "George E. Hardy, Tuskegee Airman, dies at 100",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5555412/george-hardy-tuskegee-airman-obit",
-      "published_at": "Sat, 27 Sep 2025 22:29:41 -0400",
-      "bullets": [
-        "• Lt",
-        "• Col",
-        "• George E",
-        "• Hardy was the last surviving member of the Tuskegee Airmen",
-        "• He was part of the 332nd Fighter Group at Ramitelli Air Base, Italy"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.791
-      }
-    },
-    {
       "id": "1b6a32bd0599",
       "title": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
       "outlet": "BBC News",
@@ -327,7 +342,7 @@
     {
       "id": "43daa926197c",
       "title": "Marc Maron, Human Rights Watch and others slam Saudi comedy festival",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/27/nx-s1-5555462/saudi-comedy-festival-chappelle-hart-maron",
       "published_at": "Sat, 27 Sep 2025 21:38:31 -0400",
       "bullets": [
@@ -337,7 +352,7 @@
         "• Marc Maron, Shane Gillis and Stavros Halkias have criticized the festival",
         "• Human Rights Watch: Saudi government is using the festival to deflect attention from repression "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.988
@@ -425,24 +440,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "7a270a72a697",
-      "title": "Comey's indictment marks a dramatic escalation in Trump's political retribution efforts",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5554448/comeys-indictment-marks-a-dramatic-escalation-in-trumps-political-retribution-efforts",
-      "published_at": "Sat, 27 Sep 2025 17:15:27 -0400",
-      "bullets": [
-        "• Former FBI director James Comey has been indicted after push by President Trump",
-        "• Move marks escalation in effort to go after his political opponents",
-        "• Tension among federal prosecutors has been building since Trump took office",
-        "• NPR senior political editor and correspondent Domenico Montanaro joins Andrew Limbong to talk about what's happening "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.935
       }
     },
     {
@@ -563,22 +560,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.941
-      }
-    },
-    {
-      "id": "37ffb8d624a7",
-      "title": "Trump says he will send troops to Portland to deal with 'domestic terrorists'",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5555381/trump-sending-troops-portland",
-      "published_at": "Sat, 27 Sep 2025 11:12:33 -0400",
-      "bullets": [
-        "• Trump says he will send troops to Portland, Oregon, to deal with 'domestic terrorists' Earlier this week, a gunman attacked a detention facility in Dallas, Texas, killing a detainee",
-        "• The president's directive comes amid a reported influx of federal officials in Portland "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.898
       }
     },
     {
@@ -850,6 +831,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
+      }
+    },
+    {
+      "id": "bff3bbb6ccff",
+      "title": "The Axe Files with David Axelrod",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/axe-files",
+      "published_at": null,
+      "bullets": [
+        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
+        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
+        "• Scott Jennings is well known as a conservative firebrand on CNN "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
       }
     }
   ]
