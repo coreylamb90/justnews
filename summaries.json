@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T19:25:07Z",
+  "generated_at": "2025-09-28T19:46:22Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "b00ac9a6aef0",
+      "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 19:23:11 GMT",
+      "bullets": [
+        "• At least two dead and several injured in shooting at Mormon church in Michigan",
+        "• Gunman drove a vehicle into the church and opened fire, police say",
+        "• Suspect, a 40-year-old male, also set part of the building on fire before being shot dead "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
       }
     },
     {
@@ -36,23 +53,6 @@
       }
     },
     {
-      "id": "b00ac9a6aef0",
-      "title": "At least one dead and nine injured in shooting at Mormon church in Michigan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 19:17:06 GMT",
-      "bullets": [
-        "• At least one dead and nine injured in shooting at Mormon church in Michigan",
-        "• Gunman drove a vehicle into the church and opened fire, police say",
-        "• Suspect, a 40-year-old male, also set part of the building on fire before being shot dead "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      }
-    },
-    {
       "id": "972e227689f7",
       "title": "Eric Adams drops out of New York City mayoral race",
       "outlet": "US news | The Guardian",
@@ -60,13 +60,13 @@
       "published_at": "Sun, 28 Sep 2025 18:12:42 GMT",
       "bullets": [
         "• Eric Adams announced on Sunday that he is abandoning his faltering bid to win re-election",
-        "• The mayor was indicted on federal corruption charges but dropped by the Trump administration in exchange for his cooperation on immigration raids",
-        "• The withdrawal of Adams narrows the race to lead the country’s largest city to a three-way contest "
+        "• The mayor will serve the remainder of his term in office, and his name remains on the ballot for the November election since the deadline to remove it has passed",
+        "• Adams was indicted on corruption charges but dropped by the Trump administration in exchange for his cooperation on immigration raids "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
       }
     },
     {
@@ -571,16 +571,16 @@
       "url": "https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane",
       "published_at": "Sat, 27 Sep 2025 15:02:50 -0400",
       "bullets": [
-        "• Tropical Depression 9 is expected to impact parts of the U.S",
-        "• east coast this week",
-        "• The storm system is currently tracking across the Caribbean",
-        "• Parts of the Bahamas and the United States are bracing for the storm",
-        "• It is also expected to affect the Dominican Republic, Haiti and the Bahamas "
+        "• Parts of the U.S",
+        "• are expected to be hit by Tropical Storm I-Bahamas",
+        "• The storm is expected to bring heavy rain to parts of the country",
+        "• Parts of South Carolina, Florida and Georgia are in the path of the storm",
+        "• The hurricane is a tropical depression "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.831
+        "label": "negative",
+        "score": 0.971
       }
     },
     {
@@ -753,6 +753,23 @@
       }
     },
     {
+      "id": "e5c2388046b3",
+      "title": "Larry Ellison’s quest to run the world",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world",
+      "published_at": "2025-09-28T15:32:05-04:00",
+      "bullets": [
+        "• Larry Ellison has begun a second act shifting from Silicon Valley pioneer, to media mogul",
+        "• Ellison has developed a reputation for ruthless and sometimes ethically dubious behavior as head of Oracle",
+        "• The company's biggest products are cloud computing and database products that it sells to enterprise customers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.546
+      }
+    },
+    {
       "id": "6157ddaf8eb8",
       "title": "Trump posts, then pulls bizarre AI video promoting MedBed conspiracy",
       "outlet": "The Verge",
@@ -818,22 +835,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.994
-      }
-    },
-    {
-      "id": "7bc0b722892b",
-      "title": "How generative AI boosters are trying to break into Hollywood",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/column/785975/hollywood-ai-stepback",
-      "published_at": "2025-09-28T08:00:00-04:00",
-      "bullets": [
-        "• Some of Hollywood’s biggest studios have signaled that they are ready to start riding the gen AI wave",
-        "• Even with all of the obvious concerns about copyright infringement and job displacement that generative AI presents, a steady chorus of voices has been insisting that this technology is going to be the future of filmmaking "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
       }
     },
     {
