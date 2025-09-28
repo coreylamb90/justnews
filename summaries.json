@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T03:36:04Z",
+  "generated_at": "2025-09-28T03:46:51Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -11,7 +11,11 @@
         "• Peter Mutharika got 56.8% of the vote compared with 33% for Lazarus Chakwera",
         "• The 85-year-old former leader presided over a multi-year economic crisis, high inflation, essential goods shortages, climate disasters and international aid cuts "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.978
+      }
     },
     {
       "id": "9f9dab6cae60",
@@ -24,7 +28,11 @@
         "• Lawyers for 11 said they were held in dire conditions in a military camp in Ghana",
         "• The 11 men filed a legal case seeking to be released but most had already been deported "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
     },
     {
       "id": "d4ef1131cdc6",
@@ -36,7 +44,11 @@
         "• First time a former head of state has been sent to prison in modern French history",
         "• Sentence follows trial in which he and his aides were accused of making a corruption pact with the late Libyan dictator Muammar Gaddafi to receive funding for the 2007 French presidential election campaign "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      }
     },
     {
       "id": "62e9ad194d6f",
@@ -48,7 +60,11 @@
         "• President Trump linked Tylenol to autism despite little medical evidence",
         "• How are Americans meant to make important decisions about their health at this confusing moment? NPR's food and health correspondent Allison Aubrey discusses it with Consider This host Juana Summers "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.948
+      }
     },
     {
       "id": "63007025c94d",
@@ -62,7 +78,11 @@
         "• The victims were lured into a van thinking they were going to a party, police say",
         "• Police discovered a video after one of detainees revealed it under questioning "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
     },
     {
       "id": "2b80ae15eb01",
@@ -76,7 +96,11 @@
         "• The Iranian government says it has no obligation to stop the sanctions against Iran",
         "• Iran has been accused of using its own nuclear weapons to launch attacks on the country "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.936
+      }
     },
     {
       "id": "3482274dcb25",
@@ -88,7 +112,11 @@
         "• Donald Trump orders deployment of national guard to ‘war ravaged’ Portland",
         "• Officials in Portland have pushed back against the announcement, saying there is ‘no need for military troops’ – key US politics stories from Saturday 27 September "
       ],
-      "category": "US"
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.869
+      }
     },
     {
       "id": "eb57e9ca09a9",
@@ -101,7 +129,11 @@
         "• President Barack Obama and his staff are working on a bipartisan agenda",
         "• They say it's important to keep the public eye on what's happening in the U.S"
       ],
-      "category": "Politics"
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      }
     },
     {
       "id": "361ff7de4d91",
@@ -113,7 +145,11 @@
         "• Donald Trump falsely declared Portland, Oregon, ‘war ravaged’ by antifascists and “other domestic terrorists” The US president’s impression of the city, apparently shaped by misleading conservative media reports, is entirely divorced from reality",
         "• There were just four protesters outside the Immigration and Customs Enforcement field office "
       ],
-      "category": "US"
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
     },
     {
       "id": "25aa6c41dd74",
@@ -128,7 +164,11 @@
         "• Hardy was the last surviving member of the Tuskegee Airmen",
         "• He was part of the 332nd Fighter Group at Ramitelli Air Base, Italy"
       ],
-      "category": "General"
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.791
+      }
     },
     {
       "id": "1b6a32bd0599",
@@ -142,7 +182,11 @@
         "• Democratic lawmakers say there is no need for federal troops to be deployed to the city",
         "• Oregon Governor Tina Kotek: \"There is no national security threat in Portland\""
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.925
+      }
     },
     {
       "id": "43daa926197c",
@@ -157,7 +201,11 @@
         "• Marc Maron, Shane Gillis and Stavros Halkias have criticized the festival",
         "• Human Rights Watch: Saudi government is using the festival to deflect attention from repression "
       ],
-      "category": "General"
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
     },
     {
       "id": "d4fb0e3c41c5",
@@ -170,7 +218,11 @@
         "• The image appears to be \"AI-generated or digitally illustrated,\" according to visual analysis",
         "• Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell\""
       ],
-      "category": "Business"
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
     },
     {
       "id": "79bbe940a468",
@@ -183,7 +235,11 @@
         "• Founded in 2016 in Buena Vista, Colorado, the company assembles modular homes inside a 110,000-square-foot factory",
         "• The company claims lean manufacturing principles reduce costs by up to 20% and delivers a finished house in half the time "
       ],
-      "category": "Business"
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      }
     },
     {
       "id": "d8085d06e9cb",
@@ -196,7 +252,11 @@
         "• Searchers looked for people missing all night, and more help arrived on Saturday to continue the search",
         "• North Carolina’s governor, Josh Stein, declared a state of emergency in advance of the system that is being identified by the National Hurricane Center in Miami as Tropical Depression Nine "
       ],
-      "category": "US"
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
     },
     {
       "id": "d9b1ff3b09a6",
@@ -209,7 +269,11 @@
         "• Death toll includes at least 16 women, nine men and six children, state health minister says",
         "• Actor-turned-politician Vijay says his heart is \"broken\" and he is in \"unbearable, indescribable pain\""
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
     },
     {
       "id": "44612bbd1bb8",
@@ -223,7 +287,11 @@
         "• without legal status",
         "• He's on life support after being arrested for driving under the influence "
       ],
-      "category": "General"
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
     },
     {
       "id": "3d1f7b5a02fb",
@@ -237,7 +305,11 @@
         "• Kennedy was often the \"swing justice\" whose vote was determinative in controversial cases",
         "• Kennedy and Sandra Day O'Connor represented the ideological center of the court at a time when it became increasingly conservative "
       ],
-      "category": "General"
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.973
+      }
     },
     {
       "id": "780fb0ef5208",
@@ -249,7 +321,11 @@
         "• US president’s determination to break from his predecessors includes willingness to shout from rooftops of misconduct past presidents would have strained every sinew to conceal",
         "• Brazen approach earns him perverse credit for authenticity and takes sting out of scandals that used to be career-ending "
       ],
-      "category": "US"
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.909
+      }
     },
     {
       "id": "83070628fabf",
@@ -261,7 +337,11 @@
         "• Joshua Cole allegedly threatened to shoot people at a pro-LGBTQ+ parade in Abilene, Texas, to avenge the murder of Charlie Kirk",
         "• Cole allegedly used a Facebook account under the name “Jay Dubya” where he “threatened to commit a shooting” at a Pride parade on 20 September "
       ],
-      "category": "US"
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
     },
     {
       "id": "ac5d309ec7f5",
@@ -274,7 +354,11 @@
         "• More than 35 people have been killed in Israeli strikes and gunfire since early hours of Saturday morning, hospital sources say",
         "• Israeli air force says it has hit approximately 120 targets across the Strip since Friday "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
     },
     {
       "id": "7a270a72a697",
@@ -288,7 +372,11 @@
         "• Tension among federal prosecutors has been building since Trump took office",
         "• NPR senior political editor and correspondent Domenico Montanaro joins Andrew Limbong to talk about what's happening "
       ],
-      "category": "General"
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.935
+      }
     },
     {
       "id": "aba21f953f5a",
@@ -301,7 +389,11 @@
         "• Jenny told her she'd found pictures on Ben's computer of more than 80 women whose social media photos were used to create deepfake pornography",
         "• Most of the women in Ben's images lived in the Minneapolis area "
       ],
-      "category": "Business"
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
     },
     {
       "id": "2584e1916ba0",
@@ -316,7 +408,11 @@
         "• South Carolina Gov",
         "• Henry McMaster put residents under a state of emergency in preparation"
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.878
+      }
     },
     {
       "id": "25a03c3e0c39",
@@ -329,7 +425,11 @@
         "• Consumer spending in August was stronger than expected and income was higher than expected",
         "• The narrative now is shifting towards the ever-popular wealth effect coming from Wall Street and a succession of new highs in major stock indexes "
       ],
-      "category": "Business"
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.787
+      }
     },
     {
       "id": "82860586b43b",
@@ -342,7 +442,11 @@
         "• Cocoa extract has been shown in previous, smaller studies to reduce inflammatory biomarkers",
         "• The findings reinforce the value of flavanol-rich, plant-based foods for healthier aging "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      }
     },
     {
       "id": "209ee02c1d20",
@@ -355,7 +459,11 @@
         "• The National Transportation Safety Board and other safety experts have urged more advanced cockpit alerts",
         "• Runway incursions, when a plane, person or vehicle is on the runway when they shouldn't be, averaged 4.5 a day last year "
       ],
-      "category": "Business"
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.837
+      }
     },
     {
       "id": "4ac6be26ba9e",
@@ -368,7 +476,11 @@
         "• This could help explain why we recall certain details surrounding big events and may lead to new ways of boosting learning and treating memory disorders",
         "• The findings, published in Science Advances, could potentially lead to improved treatments "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      }
     },
     {
       "id": "aa84b81b2f42",
@@ -380,7 +492,11 @@
         "• Michael Mann is a climate scientist at the University of Pennsylvania who, in 1998, developed the notorious hockey stick graph",
         "• Peter Hotez is a microbiologist and pediatrician at Baylor College of Medicine whose group developed a low-cost, patent-free vaccine using public funds "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.941
+      }
     },
     {
       "id": "37ffb8d624a7",
@@ -392,7 +508,11 @@
         "• Trump says he will send troops to Portland, Oregon, to deal with 'domestic terrorists' Earlier this week, a gunman attacked a detention facility in Dallas, Texas, killing a detainee",
         "• The president's directive comes amid a reported influx of federal officials in Portland "
       ],
-      "category": "Politics"
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.898
+      }
     },
     {
       "id": "0a2fb1c8fbc5",
@@ -405,7 +525,11 @@
         "• In the U.S., UPFs account for about 60% of daily calorie intake",
         "• High consumption of these foods has been linked to greater risks of obesity, cancer, metabolic and cardiovascular diseases, mental health issues, and premature death "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
     },
     {
       "id": "b2b520a20d68",
@@ -419,7 +543,11 @@
         "• The instant response from many fans and media outlets to the idea was not kind",
         "• The CEO of the parent company behind the event urged critics to come see the hologram for themselves "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
     },
     {
       "id": "8302356d8684",
@@ -432,7 +560,11 @@
         "• The siege, progressively tightened by the Rapid Support Forces (RSF), has transformed the city",
         "• Civilians move block by block in search of safety, while self-defence groups fight alongside entrenched garrisons "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.73
+      }
     },
     {
       "id": "ed454250bb08",
@@ -445,7 +577,11 @@
         "• On Thursday, prosecutors secured a criminal indictment against James Comey for false statements and obstruction",
         "• NPR Justice correspondent Ryan Lucas joins us to examine the indictment of former FBI Director James Comey "
       ],
-      "category": "Politics"
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      }
     },
     {
       "id": "4642be50d920",
@@ -457,7 +593,11 @@
         "• Wisconsin Republican Sen",
         "• Ron Johnson explains his proposed 'Eliminate Shutdowns Act' Johnson: \"I'm suggesting passing a bill that gets rid of this for all time, ends taunting of shutdowns\" House Republicans have passed a short-term extension, but Democrats hold out for more than $1 trillion in spending "
       ],
-      "category": "Politics"
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.968
+      }
     },
     {
       "id": "920b8c67f3e7",
@@ -471,7 +611,11 @@
         "• Tylenol could play a role in ongoing legal cases against the company that makes it",
         "• NPR's pharmaceuticals correspondent, Sydney Lupkin, joins us in the comments "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
     },
     {
       "id": "f5efe52e2a82",
@@ -483,7 +627,11 @@
         "• Meteorite collectors gather in Cincinnati this weekend for 'Meet a Meteorite' The rocks that hurtle from outer space and make it to Earth get a moment to shine",
         "• At the Cincinnati Observatory later today, collectors will be showing off some of their treasures "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
     },
     {
       "id": "7d10d2e59770",
@@ -496,7 +644,11 @@
         "• Researchers have discovered an unusual \"quantum echoes\" in superconductor materials",
         "• This phenomenon arises from the interplay between Higgs modes and quasiparticles, producing distinctive signals unlike conventional echoes "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      }
     },
     {
       "id": "a2eb3955ca6a",
@@ -509,7 +661,11 @@
         "• Using advanced microscopy, they discovered spores preserved in situ",
         "• The breakthrough reshapes knowledge of Permian ecosystems and highlights the power of revisiting classic fossils with new tools "
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
     },
     {
       "id": "28d65d9f6170",
@@ -523,7 +679,11 @@
         "• She voted against her party more than almost any other member of Congress",
         "• Now, the Democratic caucus has 48 Democrats and three independents "
       ],
-      "category": "Politics"
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      }
     },
     {
       "id": "73d5b8b33c74",
@@ -536,7 +696,11 @@
         "• European hedgehog populations have declined by roughly 30 to 50 percent over the past decade",
         "• Traditional hedgehog surveys require nighttime fieldwork, specialized equipment, or citizen scientists reporting sightings "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
     },
     {
       "id": "97e3694ddcda",
@@ -549,7 +713,11 @@
         "• The doctors started doing lab tests and imaging, and they admitted her to the hospital",
         "• They found bile duct enlargement and a swollen stomach that seemed to be full of a semi-solid mass "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
     },
     {
       "id": "59d5ab2fb379",
@@ -562,7 +730,11 @@
         "• One of the features that LG has included in attempts to appeal to this demographic is a remote control with numbers",
         "• The Easy TV’s remote has all of those buttons, plus mute, zoom, and bigger labels "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
     },
     {
       "id": "1a620ada42f2",
@@ -573,7 +745,11 @@
       "bullets": [
         "• Malaysian foreign minister Mohamad Hasan said the international community has a legal and moral duty to deny Israel ‘the tools of genocide’ The Hague Group is a growing alliance of countries dedicated to coordinating practical economic and legal steps to isolate Israel over the war in Gaza "
       ],
-      "category": "World"
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      }
     },
     {
       "id": "4d4139755f5b",
@@ -586,7 +762,11 @@
         "• Medical experts have strongly pushed back on the guidance, arguing that such claims are misleading",
         "• The Food and Drug Administration later clarified that \"while an association between acetaminophen and autism has been described in many studies\""
       ],
-      "category": "Science"
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
     },
     {
       "id": "bbb67e14e14e",
@@ -598,7 +778,11 @@
         "• Martin Shkreli will have to face a lawsuit for making copies of the Wu-Tang Clan’s Once Upon a Time in Shaolin",
         "• US District Judge Pamela Chen dismissed some claims by the album's current owners, PleasrDAO, but will allow the suit alleging “misappropriation of trade secrets to continue "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      }
     },
     {
       "id": "19459cb41af8",
@@ -611,7 +795,11 @@
         "• Thankfully, a controller I’ve been testing recently, which is nearly as good despite lacking a 3.5mm audio jack, is currently on sale for $40 less",
         "• The EasySMX S10 is comfortable to use for long gaming sessions, and it has features that aren't commonly built into third-party gamepads "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.948
+      }
     },
     {
       "id": "d2eb82dd50e9",
@@ -624,7 +812,11 @@
         "• There are FMV shows with human actors, covering everything from dramas to cooking",
         "• At various points, you'll have to adjust the picture so you can see things clearly "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.733
+      }
     },
     {
       "id": "fcb028008a16",
@@ -637,7 +829,11 @@
         "• Google employees allegedly used chat messages to avoid leaving a paper trail for discovery",
         "• Google’s remedies proposal involves a court order banning specific busin "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
     },
     {
       "id": "2580a0286a69",
@@ -650,7 +846,11 @@
         "• Thousands of Ocean owners have organized into their own makeshift car company",
         "• The Fiskers Owners Association (FOA) is a nonprofit that's launched third-party apps, built a global parts supply chain, and came together around a future for orphaned vehicles "
       ],
-      "category": "Technology"
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.707
+      }
     }
   ]
 }
