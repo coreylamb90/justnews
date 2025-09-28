@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T10:48:04Z",
+  "generated_at": "2025-09-28T11:24:58Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -31,6 +31,57 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "8106492e502f",
+      "title": "‘It’s incredibly exciting’: ancient canoe unearthed after Hurricane Ian stormed through Florida",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/florida-ancient-canoes",
+      "published_at": "Sun, 28 Sep 2025 11:00:11 GMT",
+      "bullets": [
+        "• The canoe is believed to be the first to be made of this type of wood",
+        "• It is believed it was made in the 16th century and dates back to when Europeans arrived in the Americas",
+        "• The canoe was made of wood and is thought to date back to the 17th century "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "51943e2bc381",
+      "title": "US set for largest mass resignation in history as Trump continues deep cuts",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/us-mass-resignation-federal-workers",
+      "published_at": "Sun, 28 Sep 2025 11:00:10 GMT",
+      "bullets": [
+        "• More than 100,000 federal workers set to formally quit as part of the latest resignation program",
+        "• The total resignation program is set to cost $14.8bn, with 200,000 paid their full salary and benefits while on administrative leave for up to eight months",
+        "• The White House has also ordered federal agencies to draw up plans for large-scale firings "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "2b80ae15eb01",
+      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 10:49:28 GMT",
+      "bullets": [
+        "• Sanctions reimposed on Iran 10 years after landmark nuclear deal was struck",
+        "• UK, France and Germany activate the so-called \"snapback\" mechanism",
+        "• Iran suspended inspections of its nuclear facilities in June after Israel and the US pulled out of the deal "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
       }
     },
     {
@@ -68,21 +119,20 @@
       }
     },
     {
-      "id": "2b80ae15eb01",
-      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 07:36:53 GMT",
+      "id": "82959e76609e",
+      "title": "Maine's food pantries stare down volunteer shortage while anticipating cuts",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5555911/maines-food-pantries-stare-down-volunteer-shortage-while-anticipating-cuts",
+      "published_at": "Sun, 28 Sep 2025 06:55:21 -0400",
       "bullets": [
-        "• Sanctions reimposed on Iran 10 years after landmark nuclear deal",
-        "• UK, France and Germany activate the so-called \"snapback\" mechanism",
-        "• Iran suspended inspections of its nuclear facilities after Israel and US bombed them in June",
-        "• President Masoud Pezeshkian insists Iran has no intention of developing nuclear weapons "
+        "• Phylis Allen, 78, searches for eggs at Sam's Club, cheap beets and ginger at Walmart",
+        "• Maine has long been one of the most food insecure states in New England",
+        "• Directors of food pantries say the task of making sure people are fed is getting harder because of diminishing food supplies "
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.999
       }
     },
     {
@@ -191,7 +241,7 @@
     {
       "id": "b613d704f91c",
       "title": "Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555871/stampede-political-rally-actor-vijay-india-kills-36",
       "published_at": "Sun, 28 Sep 2025 02:39:53 -0400",
       "bullets": [
@@ -200,7 +250,7 @@
         "• The incident occurred during a speech by Vijay Patel",
         "• The crowd began to fall in the middle of the rally "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -409,38 +459,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
-      }
-    },
-    {
-      "id": "780fb0ef5208",
-      "title": "Trump is flaunting his corruption. Is it changing what the US thinks of scandal?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/trump-flaunting-corruption",
-      "published_at": "Sat, 27 Sep 2025 18:33:34 GMT",
-      "bullets": [
-        "• US president’s determination to break from his predecessors includes willingness to shout from rooftops of misconduct past presidents would have strained every sinew to conceal",
-        "• Brazen approach earns him perverse credit for authenticity and takes sting out of scandals that used to be career-ending "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.909
-      }
-    },
-    {
-      "id": "83070628fabf",
-      "title": "FBI arrest man who allegedly threatened to shoot people at Texas Pride parade",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/fbi-arrest-man-texas-pride-parade",
-      "published_at": "Sat, 27 Sep 2025 18:06:29 GMT",
-      "bullets": [
-        "• Joshua Cole allegedly threatened to shoot people at a pro-LGBTQ+ parade in Abilene, Texas, to avenge the murder of Charlie Kirk",
-        "• Cole allegedly used a Facebook account under the name “Jay Dubya” where he “threatened to commit a shooting” at a Pride parade on 20 September "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -832,23 +850,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
