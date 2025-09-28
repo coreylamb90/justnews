@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T21:30:52Z",
+  "generated_at": "2025-09-28T21:46:35Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -18,19 +18,38 @@
       }
     },
     {
-      "id": "94163a2250e1",
-      "title": "Pro-EU party in Moldova takes lead in election mired in claims of interference",
+      "id": "b00ac9a6aef0",
+      "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
       "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 21:18:21 GMT",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 21:27:11 GMT",
       "bullets": [
-        "• Pro-EU party in Moldova takes lead in election mired in claims of Russian interference",
-        "• President Maia Sandu's Party of Action and Solidarity (PAS) was on 45%, well ahead of the pro-Russian Patriotic Electoral Bloc on 27.6% Turnout was over 52%, higher than in recent years "
+        "• At least two dead and several injured in shooting at Mormon church in Michigan",
+        "• Gunman drove a vehicle into the church and opened fire, police say",
+        "• Suspect identified as 40-year-old Thomas Jacob Sanford from nearby Burton, Michigan",
+        "• He was killed at 10:33 local time, seven minutes after the shooting "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 0.992
+      }
+    },
+    {
+      "id": "94163a2250e1",
+      "title": "Pro-EU party in Moldova takes lead in election mired in claims of interference",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 21:26:43 GMT",
+      "bullets": [
+        "• Pro-EU party in Moldova takes lead in election mired in claims of Russian interference",
+        "• Opposition leader Igor Dodon had claimed victory before results started coming in",
+        "• Moldovan President Maia Sandu's Party of Action and Solidarity (PAS) was on 45.8%, well ahead of pro-Russian Patriotic Electoral Bloc "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
       }
     },
     {
@@ -74,30 +93,14 @@
       "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
       "published_at": "Sun, 28 Sep 2025 20:10:23 GMT",
       "bullets": [
-        "• Police chief says 40-year-old male suspect drove a vehicle through the front door of the Church of Jesus Christ of Latter-day Saints in Grand Blanc Township, Michigan, on Sunday morning",
-        "• Suspect, 40, was killed by local police, police chief William Renye said "
+        "• At least two victims are dead and eight others are injured after a shooting and a fire at a Mormon church in Grand Blanc, Michigan",
+        "• The suspect was later identified by officials as Thomas Jacob Sanford, from the nearby city of Burton",
+        "• The 40-year-old male suspect drove a vehicle through the front door of the Church of Jesus Christ of Latter-day Saints "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
-      "id": "b00ac9a6aef0",
-      "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 19:23:11 GMT",
-      "bullets": [
-        "• At least two dead and several injured in shooting at Mormon church in Michigan",
-        "• Gunman drove a vehicle into the church and opened fire, police say",
-        "• Suspect, a 40-year-old male, also set part of the building on fire before being shot dead "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
+        "score": 0.994
       }
     },
     {
@@ -499,15 +502,14 @@
       "url": "https://www.npr.org/2025/09/28/nx-s1-5535767/mexico-endangered-cactus-mexican-food",
       "published_at": "Sun, 28 Sep 2025 06:00:00 -0400",
       "bullets": [
-        "• Even though it's illegal, bars of acitrón are stacked in nearly every stall at the Merced market in Mexico City",
-        "• They're pieces of barrel cactus that have been chopped up and then seeped in vats of sugar until they're crystalized",
-        "• The Mexican government began banning the sale in the early 2000s",
-        "• The endangered cactus was in danger of extinction due to overexploitation "
+        "• Barches of barrel cactus have been chopped up and seeped in vats of sugar until they're crystalized",
+        "• The Mexican government began banning the sale of acitrón in the early 2000s",
+        "• The biznaga cactus was found to be in danger of extinction due to overexploitation "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.986
       }
     },
     {
