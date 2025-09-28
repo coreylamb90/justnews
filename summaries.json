@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T21:46:35Z",
+  "generated_at": "2025-09-28T22:28:48Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -18,6 +18,23 @@
       }
     },
     {
+      "id": "94163a2250e1",
+      "title": "Pro-EU party in Moldova leads in election mired in claims of interference",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 22:21:55 GMT",
+      "bullets": [
+        "• Pro-EU party in Moldova leads in election mired in claims of interference by Russia",
+        "• President Maia Sandu's Party of Action and Solidarity (PAS) is on 47.6%, well ahead of the pro-Russian Patriotic Electoral Bloc",
+        "• Opposition leader Igor Dodon had claimed victory before results started coming in "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      }
+    },
+    {
       "id": "b00ac9a6aef0",
       "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
       "outlet": "BBC News",
@@ -33,23 +50,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "94163a2250e1",
-      "title": "Pro-EU party in Moldova takes lead in election mired in claims of interference",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 21:26:43 GMT",
-      "bullets": [
-        "• Pro-EU party in Moldova takes lead in election mired in claims of Russian interference",
-        "• Opposition leader Igor Dodon had claimed victory before results started coming in",
-        "• Moldovan President Maia Sandu's Party of Action and Solidarity (PAS) was on 45.8%, well ahead of pro-Russian Patriotic Electoral Bloc "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -155,19 +155,38 @@
       }
     },
     {
-      "id": "1fed7bf52fe5",
-      "title": "JD Vance ‘confident' the U.S. has 'successfully separated' TikTok from China parent company ByteDance",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/jd-vance-trump-tiktok-china-bytedance.html",
-      "published_at": "Sun, 28 Sep 2025 17:58:23 GMT",
+      "id": "e94d9e8b32e6",
+      "title": "Stowaway found dead in landing gear of American Airlines flight in Charlotte",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5556028/stowaway-american-airlines-flight-charlotte",
+      "published_at": "Sun, 28 Sep 2025 17:48:33 -0400",
       "bullets": [
-        "• Vice President JD Vance says he is optimistic about TikTok's future in the U.S",
-        "• Vance: \"I feel very confident that we have successfully separated this company from TikTok global and actually made it so that we can control people's data security\" The popular social media platform has long faced concerns about its data collection practices "
+        "• Stowaway found dead in landing gear of American Airlines flight in Charlotte, N.C., police say",
+        "• Police say they are investigating the death of a stowaway",
+        "• American Airlines says it is \"working with law enforcement on its investigation\""
       ],
-      "category": "Business",
+      "category": "General",
       "sentiment": {
-        "label": "positive",
-        "score": 0.997
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "991ea67479e1",
+      "title": "Suspect held in waterfront bar shooting that left 3 dead in North Carolina",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5556033/north-carolina-shooting-southport-american-fish-company",
+      "published_at": "Sun, 28 Sep 2025 17:44:39 -0400",
+      "bullets": [
+        "• Police say they believe the suspect acted alone and that there is no ongoing threat",
+        "• The attack took place at the American Fish Company, a bar in Southport, North Carolina",
+        "• Police are asking anyone who witnessed the attack to contact them",
+        "• The suspect was \"known to law enforcement,\" the district attorney says "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
       }
     },
     {
@@ -256,20 +275,20 @@
     },
     {
       "id": "8de100c95479",
-      "title": "Attack at a Mormon church in Michigan leaves at least 1 dead, 9 injured",
+      "title": "Attack at a Mormon church in Michigan leaves 2 dead, 8 injured",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down",
       "published_at": "Sun, 28 Sep 2025 12:15:31 -0400",
       "bullets": [
-        "• Attack at a Mormon church in Michigan leaves at least 1 dead, 9 injured, police say",
-        "• President Trump vows full support of the \"horrendous\" attack",
-        "• Police say they expect to find additional victims in the church who were unable to escape due to the fire",
-        "• The 40-year-old male suspect was killed by police "
+        "• Attack at a Mormon church in Grand Blanc Township, Michigan, leaves 2 dead, 8 injured",
+        "• Police say the gunman rammed his vehicle through the front doors of the church before opening fire with an assault rifle",
+        "• The 40-year-old suspect, Thomas Jacob Sanford, was killed by police, police say",
+        "• President Trump vows the full support of the FBI "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.998
       }
     },
     {
@@ -479,26 +498,9 @@
       }
     },
     {
-      "id": "82959e76609e",
-      "title": "Maine's food pantries stare down volunteer shortage while anticipating cuts",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5555911/maines-food-pantries-stare-down-volunteer-shortage-while-anticipating-cuts",
-      "published_at": "Sun, 28 Sep 2025 06:55:21 -0400",
-      "bullets": [
-        "• Phylis Allen, 78, searches for eggs at Sam's Club, cheap beets and ginger at Walmart",
-        "• Maine has long been one of the most food insecure states in New England",
-        "• Directors of food pantries say the task of making sure people are fed is getting harder because of diminishing food supplies "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "1f3333f667a0",
       "title": "The endangered cactus behind Mexico's sweet secret",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5535767/mexico-endangered-cactus-mexican-food",
       "published_at": "Sun, 28 Sep 2025 06:00:00 -0400",
       "bullets": [
@@ -506,7 +508,7 @@
         "• The Mexican government began banning the sale of acitrón in the early 2000s",
         "• The biznaga cactus was found to be in danger of extinction due to overexploitation "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
         "score": 0.986
@@ -597,6 +599,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
+      }
+    },
+    {
+      "id": "aba21f953f5a",
+      "title": "How a 'nudify' site turned a group of friends into key figures in a fight against AI-generated porn",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/27/nudify-ai-generated-deepfake-fbi.html",
+      "published_at": "Sat, 27 Sep 2025 16:52:15 GMT",
+      "bullets": [
+        "• Jessica Guistolise received a text message from an acquaintance who said she had urgent information to share about her estranged husband, Ben",
+        "• Jenny told her she'd found pictures on Ben's computer of more than 80 women whose social media photos were used to create deepfake pornography",
+        "• Most of the women in Ben's images lived in the Minneapolis area "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
       }
     },
     {
@@ -701,24 +720,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
-      }
-    },
-    {
-      "id": "28d65d9f6170",
-      "title": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
-      "published_at": "Sat, 10 Dec 2022 17:24:17 GMT",
-      "bullets": [
-        "• Arizona Sen",
-        "• Kyrsten Sinema has always been a thorn in the Democrats side during her time in Congress",
-        "• She voted against her party more than almost any other member of Congress",
-        "• Now, the Democratic caucus has 48 Democrats and three independents "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
       }
     },
     {
