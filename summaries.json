@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T15:28:14Z",
+  "generated_at": "2025-09-28T15:46:25Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -18,20 +18,37 @@
       }
     },
     {
+      "id": "16c6b6327883",
+      "title": "Swiss voters approve plan for electronic identity cards",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 15:21:52 GMT",
+      "bullets": [
+        "• 50.4% of those who voted said yes to the proposal, while 49.6% rejected it",
+        "• Data will be stored only on the smartphones of individual users",
+        "• It marks the second time Swiss voters have had a nationwide vote on digital IDs "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      }
+    },
+    {
       "id": "78a368e95d35",
       "title": "EU industry fears ever-expanding list of ‘derivative’ goods subject to steel tariffs",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/sep/28/eu-industry-fears-ever-expanding-list-of-derivative-goods-subject-to-steel-tariffs",
       "published_at": "Sun, 28 Sep 2025 15:02:47 GMT",
       "bullets": [
-        "• The US has opened the possibility of a rolling list of ‘derivative’ products that could be subject to tariffs",
+        "• US opens possibility of a rolling list of ‘derivative’ products that could be subject to tariffs",
         "• The list includes wind turbines, mobile cranes and bulldozers",
-        "• But EU business leaders and a leading German MEP have raised concerns that the list will continue to grow "
+        "• The EU steel industry said the consultation was clearly “to expand, not to cut”"
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.722
+        "score": 0.982
       }
     },
     {
@@ -224,6 +241,23 @@
       }
     },
     {
+      "id": "dc177d3ed79f",
+      "title": "Fruit might be the surprising key to healthier lungs",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
+      "published_at": "Sun, 28 Sep 2025 11:21:31 EDT",
+      "bullets": [
+        "• Researchers point to antioxidants and anti-inflammatory compounds in fruit as possible defenses against harmful airborne particles",
+        "• The study was presented at the European Respiratory Society Congress in Amsterdam, the Netherlands",
+        "• Over 90% of the global population is exposed to air pollution levels that exceed WHO guidelines "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.608
+      }
+    },
+    {
       "id": "34e1fd405b96",
       "title": "30 years later, I’m still obliterating planets in Master of Orion II—and you can, too",
       "outlet": "Ars Technica - All content",
@@ -275,20 +309,36 @@
       }
     },
     {
-      "id": "d2c59aa4966f",
-      "title": "Selena Gomez marries music producer Benny Blanco",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgq5jzxx77o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 08:05:20 GMT",
+      "id": "711d28808aa3",
+      "title": "The accidental discovery that forged the Iron Age",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031245.htm",
+      "published_at": "Sun, 28 Sep 2025 09:45:34 EDT",
       "bullets": [
-        "• Selena Gomez marries music producer Benny Blanco in a ceremony in California",
-        "• The couple exchanged vows in Santa Barbara on Saturday in front of around 170 guests, including Taylor Swift, Paul Rudd, Steve Martin and Martin Short",
-        "• Gomez posted pictures to Instagram of her and Blanco on Saturday "
+        "• The accidental discovery that forged the Iron Age reveals how ancient curiosity paved the way for one of humanity’s most transformative materials",
+        "• Researchers reanalyzed metallurgical remains from a 3,000-year-old smelting workshop in Georgia "
       ],
-      "category": "World",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.868
+        "score": 0.999
+      }
+    },
+    {
+      "id": "8702b64af83f",
+      "title": "Why “dry” oil wells aren’t really empty",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031239.htm",
+      "published_at": "Sun, 28 Sep 2025 09:18:32 EDT",
+      "bullets": [
+        "• Researchers harnessed PSC's Bridges-2 supercomputer, adding a time dimension and amplitude analysis to traditional seismic data",
+        "• Their findings revealed hidden rock structures blocking oil flow, meaning reserves weren’t gone—they were trapped",
+        "• Breakthrough could lead to smarter drilling, unlocking overlooked oil and reducing waste in energy production "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.827
       }
     },
     {
@@ -431,40 +481,6 @@
       }
     },
     {
-      "id": "47d28ddd8bdd",
-      "title": "Four strange secrets scientists just found in beer and wine",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031219.htm",
-      "published_at": "Sun, 28 Sep 2025 00:36:50 EDT",
-      "bullets": [
-        "• Recent research highlights how yeast extracts can cloud lagers, gluten can be quickly detected with a simple test strip",
-        "• Tannins give red wine its lip-puckering edge, and sulfites alter gut bacteria in unexpected ways",
-        "• These discoveries not only deepen our understanding of these drinks’ sensory qualities but also hint at implications for health and brewing innovation "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "069117e13e44",
-      "title": "Hidden Alzheimer’s warning signs found in Parkinson’s patients without dementia",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031217.htm",
-      "published_at": "Sun, 28 Sep 2025 00:23:03 EDT",
-      "bullets": [
-        "• Researchers in Japan found Parkinson's patients diagnosed in their 80s are far more likely to show signs of amyloid buildup, a hallmark of Alzheimer's, even without dementia symptoms",
-        "• The study compared younger and older patients, finding that older individuals had three times the rate of amyoid positivity",
-        "• Surprisingly, Parkinson’s patients overall showed lower levels of buildup than healthy people "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      }
-    },
-    {
       "id": "eb57e9ca09a9",
       "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -550,23 +566,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.837
-      }
-    },
-    {
-      "id": "4ac6be26ba9e",
-      "title": "How the brain decides which moments you’ll never forget",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031214.htm",
-      "published_at": "Sat, 27 Sep 2025 11:55:18 EDT",
-      "bullets": [
-        "• BU study finds memories of mundane incidents can be strengthened when they get attached to a memory of an emotionally charged event",
-        "• This could help explain why we recall certain details surrounding big events and may lead to new ways of boosting learning and treating memory disorders",
-        "• The findings, published in Science Advances, could potentially lead to improved treatments "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
       }
     },
     {
