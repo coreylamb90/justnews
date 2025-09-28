@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T13:47:12Z",
+  "generated_at": "2025-09-28T15:15:17Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,57 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "6bd2ebd85c6c",
+      "title": "A Universal-DreamWorks movie is bringing the winning formula of kids content frenzy to the big screen",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/gabbys-dollhouse-movie-kid-content-frenzy.html",
+      "published_at": "Sun, 28 Sep 2025 14:56:15 GMT",
+      "bullets": [
+        "• Universal and DreamWorks Animation's \"Gabby's Dollhouse: The Movie\" is the latest kid's TV show to head to the box office",
+        "• It's been the most-viewed streaming original series for kids this year, according to Nielsen",
+        "• The movie follows in the footsteps of Paw Patrol and SpongeBob SquarePants "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "d9b1ff3b09a6",
+      "title": "At least 40 dead in crush at political rally in India",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 14:45:15 GMT",
+      "bullets": [
+        "• At least 40 dead in crush at political rally in southern Indian state of Tamil Nadu",
+        "• Victims included nine children, at least 17 women, and 13 men, officials say",
+        "• Police have filed a case against three senior members of Vijay's TVK party "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "6ce2b48e73c7",
+      "title": "US on watch as impending Tropical Storm Imelda threatens south-east",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/tropical-storm-imelda-hurricane-humberto",
+      "published_at": "Sun, 28 Sep 2025 14:13:34 GMT",
+      "bullets": [
+        "• System is forecast to become Tropical Storm Imelda later on Sunday before approaching the coast of South Carolina as a hurricane",
+        "• North Carolina governor has declared a state of emergency in advance of the system",
+        "• Meanwhile, Hurricane Humberto weakened slightly but remained a strong category 4 storm in the Atlantic "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.969
       }
     },
     {
@@ -42,13 +93,13 @@
       "published_at": "Sun, 28 Sep 2025 13:09:11 GMT",
       "bullets": [
         "• Namibia has begun deploying hundreds of soldiers to fight a fire that has burned through a third of Etosha national park",
-        "• The park is home to 114 species of mammals, notably the critically endangered black rhinoceros",
-        "• The fire had been burning since 22 September and has caused extensive ecological damage "
+        "• The park in the north of the largely desert country is home to 114 species of mammals, notably the critically endangered black rhinoceros",
+        "• The fire had been burning since 22 September and had caused extensive ecological damage "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.985
       }
     },
     {
@@ -121,22 +172,6 @@
       }
     },
     {
-      "id": "580a2fd2f0a4",
-      "title": "Children left short of clean water and sleep amid ‘prolonged’ detention by Ice, watchdog groups allege",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/ice-detention-texas-children",
-      "published_at": "Sun, 28 Sep 2025 12:00:10 GMT",
-      "bullets": [
-        "• Children and their parents described a ‘prison-like environment’ where guards reportedly call them ‘inmates’ despite them not being criminals",
-        "• The South Texas Family Residential Center is run on behalf of Ice by the private corrections and detention company CoreCivic "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
       "id": "dc557ecb8b1a",
       "title": "A look at OpenAI's tangled web of dealmaking",
       "outlet": "US Top News and Analysis",
@@ -151,23 +186,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.995
-      }
-    },
-    {
-      "id": "6bd2ebd85c6c",
-      "title": "A Universal-DreamWorks movie is bringing the winning formula of kids content frenzy to the big screen",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/gabbys-dollhouse-movie-kid-content-frenzy.html",
-      "published_at": "Sun, 28 Sep 2025 12:00:01 GMT",
-      "bullets": [
-        "• Universal and DreamWorks Animation's \"Gabby's Dollhouse: The Movie\" is the latest kid's TV show to head to the box office",
-        "• It's been the most-viewed streaming original series for kids this year, according to Nielsen",
-        "• The movie follows in the footsteps of Paw Patrol and SpongeBob SquarePants "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
       }
     },
     {
@@ -461,23 +479,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "1b6a32bd0599",
-      "title": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 27 Sep 2025 21:42:04 GMT",
-      "bullets": [
-        "• Trump orders deployment of troops to Portland, Oregon, authorising use of 'full force' to suppress protests",
-        "• Move is part of wider crackdown on illegal immigration",
-        "• Democratic lawmakers say there is no need for federal troops to be deployed to the city "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.861
       }
     },
     {
