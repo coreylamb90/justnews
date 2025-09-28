@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T20:48:09Z",
+  "generated_at": "2025-09-28T21:30:52Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,39 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "94163a2250e1",
+      "title": "Pro-EU party in Moldova takes lead in election mired in claims of interference",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 21:18:21 GMT",
+      "bullets": [
+        "• Pro-EU party in Moldova takes lead in election mired in claims of Russian interference",
+        "• President Maia Sandu's Party of Action and Solidarity (PAS) was on 45%, well ahead of the pro-Russian Patriotic Electoral Bloc on 27.6% Turnout was over 52%, higher than in recent years "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
+    },
+    {
+      "id": "6ce2b48e73c7",
+      "title": "Tropical Storm Imelda forming and expected to become hurricane",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/tropical-storm-imelda-hurricane-humberto",
+      "published_at": "Sun, 28 Sep 2025 20:35:59 GMT",
+      "bullets": [
+        "• Tropical Storm Imelda is now a category 4 storm with maximum sustained winds of 40mph",
+        "• The storm is expected to move east-northeastward from Florida to the Bahamas",
+        "• A tropical storm watch is in effect for parts of the Florida coast "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.754
       }
     },
     {
@@ -48,23 +81,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "94163a2250e1",
-      "title": "Moldovans await pivotal election result as leader warns of Russian interference",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 20:06:59 GMT",
-      "bullets": [
-        "• Pro-EU President Maia Sandu warns of 'massive Russian interference' in Moldova's elections",
-        "• Pro-Russian forces seen as almost neck and neck in the race for the presidency",
-        "• Moldova has a pro-Russian breakaway enclave called Transnistria along its border with Ukraine "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.961
       }
     },
     {
@@ -182,23 +198,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.965
-      }
-    },
-    {
-      "id": "3eaf559da55e",
-      "title": "Trump to meet with US congressional leaders in last-ditch effort to avoid shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/trump-congress-leaders-government-shutdown",
-      "published_at": "Sun, 28 Sep 2025 16:32:33 GMT",
-      "bullets": [
-        "• Donald Trump to hold talks with Democratic leaders in Washington on Monday afternoon",
-        "• Meeting comes days after he met with Hakeem Jeffries and Chuck Schumer to discuss government shutdown",
-        "• Trump said he was 'hopeful' they would be able to find a way to avoid the shutdown "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.983
       }
     },
     {
@@ -500,14 +499,15 @@
       "url": "https://www.npr.org/2025/09/28/nx-s1-5535767/mexico-endangered-cactus-mexican-food",
       "published_at": "Sun, 28 Sep 2025 06:00:00 -0400",
       "bullets": [
-        "• Barches of barrel cactus have been chopped up and seeped in vats of sugar until they're crystalized",
-        "• The Mexican government began banning the sale of acitrón in the early 2000s",
-        "• The biznaga cactus was found to be in danger of extinction due to overexploitation "
+        "• Even though it's illegal, bars of acitrón are stacked in nearly every stall at the Merced market in Mexico City",
+        "• They're pieces of barrel cactus that have been chopped up and then seeped in vats of sugar until they're crystalized",
+        "• The Mexican government began banning the sale in the early 2000s",
+        "• The endangered cactus was in danger of extinction due to overexploitation "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.994
       }
     },
     {
@@ -769,6 +769,23 @@
       }
     },
     {
+      "id": "c69870e42b89",
+      "title": "Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
+      "published_at": "2025-09-28T17:01:41-04:00",
+      "bullets": [
+        "• According to Bloomberg’s Mark Gurman Apple is testing an internal chatbot called Veritas",
+        "• The next-gen Siri has been delayed multiple times and the debut of Apple Intelligence was met with a tepid response",
+        "• According to Gurman Veritas resembles other chatbot apps like ChatGPT and Gemini "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
       "id": "e5c2388046b3",
       "title": "Larry Ellison’s quest to run the world",
       "outlet": "The Verge",
@@ -834,23 +851,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "2d52fe7b4750",
-      "title": "How the voice of Silksong&#8217;s Hornet brought her to life through gibberish",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish",
-      "published_at": "2025-09-28T08:30:00-04:00",
-      "bullets": [
-        "• The voice of Silksong’s Hornet was voiced by Makoto Koji in the original Hollow Knight",
-        "• Koji made up a lot of her own words for the character",
-        "• She says she's been surprised with how the Hollow Knight community has taken to some of the gibberish she made up "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
       }
     }
   ]
