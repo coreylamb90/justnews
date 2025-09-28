@@ -83,31 +83,27 @@ export default function App() {
     <div className="min-h-dvh bg-gray-50 text-gray-900 dark:bg-neutral-900 dark:text-neutral-100">
       {/* Top bar */}
       <header className="sticky top-0 z-10 border-b bg-white/80 dark:bg-neutral-900/80 backdrop-blur supports-[backdrop-filter]:bg-white/60 dark:supports-[backdrop-filter]:bg-neutral-900/60">
-        <div className="mx-auto max-w-6xl px-4 py-3 flex items-center gap-3 justify-between">
-          <div className="flex items-center gap-3">
-            <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-black text-white dark:bg-white dark:text-black">UN</span>
-            <div>
-              <h1 className="text-lg font-semibold">Unbiased News</h1>
-              <p className="text-xs text-gray-500 dark:text-neutral-400">Updated {generatedAt ? timeAgo(generatedAt) : "…"}</p>
-            </div>
-          </div>
-          <div className="flex gap-2">
-            <select
-              value={category}
-              onChange={(e) => setCategory(e.target.value)}
-              className="rounded-lg border bg-white px-3 py-2 text-sm shadow-sm dark:bg-neutral-800 dark:border-neutral-700"
-            >
-              {categories.map(c => <option key={c} value={c}>{c}</option>)}
-            </select>
-            <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search…"
-              className="w-44 md:w-64 rounded-lg border bg-white px-3 py-2 text-sm shadow-sm dark:bg-neutral-800 dark:border-neutral-700"
-            />
-          </div>
-        </div>
-      </header>
+  	<div className="mx-auto max-w-4xl px-4 py-3 flex items-center justify-between">
+    	<div>
+      	<h1 className="text-lg font-semibold">JustNews</h1>
+      	<p className="text-xs text-gray-500 dark:text-neutral-400">
+        	Updated {generatedAt ? timeAgo(generatedAt) : "…"}
+      	</p>
+    	</div>
+    	<div>
+      	<select
+        	value={category}
+        	onChange={(e) => setCategory(e.target.value)}
+        	className="rounded-lg border bg-white px-3 py-2 text-sm shadow-sm dark:bg-neutral-800 dark:border-neutral-700"
+      	>
+        	{categories.map(c => (
+          	<option key={c} value={c}>{c}</option>
+        	))}
+      	</select>
+    	</div>
+  	</div>
+	</header>
+
 
       <main className="mx-auto max-w-6xl px-4 py-6">
         {filtered.length === 0 ? (
