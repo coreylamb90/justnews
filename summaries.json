@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T06:40:55Z",
+  "generated_at": "2025-09-28T07:27:13Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -67,6 +67,41 @@
       }
     },
     {
+      "id": "d359adb02d97",
+      "title": "Kyiv hit by 'massive' Russian attack, mayor says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 07:12:34 GMT",
+      "bullets": [
+        "• Drones hit several regions overnight, including Zaporizhzhia, where at least 16 people, including three children, were injured",
+        "• Ukraine's foreign minister said hundreds of drones and missiles had been used in the latest attacks",
+        "• Russia has not commented "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
+    },
+    {
+      "id": "2b80ae15eb01",
+      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 07:10:19 GMT",
+      "bullets": [
+        "• Sanctions reimposed on Iran 10 years after landmark nuclear deal",
+        "• UK, France and Germany activate the so-called \"snapback\" mechanism",
+        "• Iran suspended inspections of its nuclear facilities after Israel and US bombed them in June",
+        "• President Masoud Pezeshkian insists Iran has no intention of developing nuclear weapons "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
       "id": "03d891d00ad3",
       "title": "Trump's H-1B visa fee could have one big winner: The Middle East",
       "outlet": "US Top News and Analysis",
@@ -91,12 +126,12 @@
       "bullets": [
         "• At least 39 dead in crush at political rally in southern Indian state of Tamil Nadu",
         "• Death toll includes at least 17 women, 13 men and nine children, officials say",
-        "• Actor-turned-politician Vijay says his heart is \"broken\" and he is in \"unbearable, indescribable pain and sorrow\""
+        "• A further 51 people are receiving treatment in hospital, local media reports "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.993
       }
     },
     {
@@ -115,6 +150,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
+      }
+    },
+    {
+      "id": "b613d704f91c",
+      "title": "Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5555871/stampede-political-rally-actor-vijay-india-kills-36",
+      "published_at": "Sun, 28 Sep 2025 02:39:53 -0400",
+      "bullets": [
+        "• At least 36 people are killed in a stampede at a rally in India",
+        "• The victims were trying to get close to the stage",
+        "• The incident occurred during a speech by Vijay Patel",
+        "• The crowd began to fall in the middle of the rally "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -149,23 +202,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "2b80ae15eb01",
-      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 01:26:29 GMT",
-      "bullets": [
-        "• Sanctions reimposed on Iran 10 years after they were lifted in landmark nuclear deal",
-        "• UK, France and Germany accuse Iran of \"continued nuclear escalation\" and lack of co-operation",
-        "• Iran stepped up its banned nuclear activity after the US quit the deal in 2016 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
       }
     },
     {
@@ -359,24 +395,6 @@
       }
     },
     {
-      "id": "44612bbd1bb8",
-      "title": "'I want his name to be known:' Wife of immigrant injured at ICE facility shooting speaks out",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5555467/wife-of-immigrant-injured-at-dallas-ice-facility-shooting-speaks-out",
-      "published_at": "Sat, 27 Sep 2025 19:06:05 -0400",
-      "bullets": [
-        "• \"It hurts to think like, what if he never even gets to meet him,\" says wife of Miguel Angel Garcia-Hernandez",
-        "• He is in the U.S",
-        "• without legal status",
-        "• He's on life support after being arrested for driving under the influence "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "780fb0ef5208",
       "title": "Trump is flaunting his corruption. Is it changing what the US thinks of scandal?",
       "outlet": "US news | The Guardian",
@@ -406,23 +424,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "ac5d309ec7f5",
-      "title": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 27 Sep 2025 18:06:21 GMT",
-      "bullets": [
-        "• Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-        "• More than 35 people have been killed in Israeli strikes and gunfire since early hours of Saturday morning, hospital sources say",
-        "• Israeli air force says it has hit approximately 120 targets across the Strip since Friday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
       }
     },
     {
@@ -612,23 +613,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.73
-      }
-    },
-    {
-      "id": "ed454250bb08",
-      "title": "A look at former FBI Director James Comey's indictment",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5554421/a-look-at-former-fbi-director-james-comeys-indictment",
-      "published_at": "Sat, 27 Sep 2025 07:45:26 -0400",
-      "bullets": [
-        "• A week ago, President Trump publicly called on the DOJ to prosecute his perceived political enemies",
-        "• On Thursday, prosecutors secured a criminal indictment against James Comey for false statements and obstruction",
-        "• NPR Justice correspondent Ryan Lucas joins us to examine the indictment of former FBI Director James Comey "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
       }
     },
     {
@@ -848,6 +832,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.707
+      }
+    },
+    {
+      "id": "c41ff758b36a",
+      "title": "CNN Political Briefing",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
+      "published_at": null,
+      "bullets": [
+        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
+        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
+        "• The race for New Jersey governor could be the sleeper contest of the year "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     }
   ]
