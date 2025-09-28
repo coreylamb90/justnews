@@ -1,22 +1,6 @@
 {
-  "generated_at": "2025-09-28T12:53:07Z",
+  "generated_at": "2025-09-28T13:33:08Z",
   "items": [
-    {
-      "id": "d05d3d7c1c3e",
-      "title": "Malawi’s 85-year-old ex-leader returns to power in presidential election",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/sep/24/former-president-peter-mutharika-defeats-incumbent-in-malawi-presidential-election",
-      "published_at": "Wed, 24 Sep 2025 20:40:45 GMT",
-      "bullets": [
-        "• Peter Mutharika got 56.8% of the vote compared with 33% for Lazarus Chakwera",
-        "• The 85-year-old former leader presided over a multi-year economic crisis, high inflation, essential goods shortages, climate disasters and international aid cuts "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.978
-      }
-    },
     {
       "id": "d4ef1131cdc6",
       "title": "Sarkozy says he will ‘sleep in jail but with head held high’ after conviction",
@@ -31,6 +15,93 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "39ac998f19c4",
+      "title": "5 takeaways from CNBC’s investigation into 'nudify' apps and sites",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/5-takeaways-from-cnbcs-investigation-into-nudify-apps-and-sites.html",
+      "published_at": "Sun, 28 Sep 2025 13:16:23 GMT",
+      "bullets": [
+        "• A group of women in the Minneapolis area learned that a male friend used their Facebook photos mixed with artificial intelligence to create sexualized images and videos",
+        "• The discovery created emotional trauma and led the group to seek the help of a sympathetic state senator",
+        "• Because the women weren't underage and the man who created the deepfakes never distributed the content, there was no apparent crime "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      }
+    },
+    {
+      "id": "c9026a904af6",
+      "title": "Namibia deploys army to fight wildfire burning third of Etosha game reserve",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/sep/28/namibia-army-wildfire-etosha-game-reserve",
+      "published_at": "Sun, 28 Sep 2025 13:09:11 GMT",
+      "bullets": [
+        "• Namibia has begun deploying hundreds of soldiers to fight a fire that has burned through a third of Etosha national park",
+        "• The park is home to 114 species of mammals, notably the critically endangered black rhinoceros",
+        "• The fire had been burning since 22 September and has caused extensive ecological damage "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
+      "id": "e7f159651b1a",
+      "title": "A Trump ally in California is fighting redistricting. Is that what his constituents want?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/doug-lamalfa-california-redistricting",
+      "published_at": "Sun, 28 Sep 2025 13:00:15 GMT",
+      "bullets": [
+        "• Rep",
+        "• LaMalfa faced angry crowds at a town hall in Chico, California, in August",
+        "• Some called for his resignation, others said: 'No fascism in America' It came just days before a proposal to redraw the state’s voting map was announced "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      }
+    },
+    {
+      "id": "310f507e01b9",
+      "title": "Crunch time: Democrats ready for shutdown standoff over Republican health cuts",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/democrats-government-shutdown-republican-healthcare-cuts",
+      "published_at": "Sun, 28 Sep 2025 13:00:13 GMT",
+      "bullets": [
+        "• Democrats have refused to back President Trump’s demands to keep government funded",
+        "• They want to strip funding for foreign aid and downsize Medicaid",
+        "• The White House has threatened to shut down the federal government for the first time in six years",
+        "• Democrats have found rare leverage on the issue of health care "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.958
+      }
+    },
+    {
+      "id": "db133fc7ec5f",
+      "title": "Deadly mass shootings take place in North Carolina, Texas and New Orleans",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
+      "published_at": "Sun, 28 Sep 2025 12:56:36 GMT",
+      "bullets": [
+        "• Three people were killed and at least eight others wounded in a shooting in North Carolina",
+        "• It was one of multiple mass shootings in the US in public places heading into Sunday morning",
+        "• Authorities have not identified the suspect or said what might have led to the attack",
+        "• In New Orleans, one woman was killed and three other people were wounded on Bourbon Street "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -80,23 +151,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.995
-      }
-    },
-    {
-      "id": "39ac998f19c4",
-      "title": "5 takeaways from CNBC’s investigation into 'nudify' apps and sites",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/5-takeaways-from-cnbcs-investigation-into-nudify-apps-and-sites.html",
-      "published_at": "Sun, 28 Sep 2025 12:00:01 GMT",
-      "bullets": [
-        "• A group of women in the Minneapolis area learned that a male friend used their Facebook photos mixed with artificial intelligence to create sexualized images and videos",
-        "• The discovery created emotional trauma and led the group to seek the help of a sympathetic state senator",
-        "• Because the women weren't underage and the man who created the deepfakes never distributed the content, there was no apparent crime "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
       }
     },
     {
@@ -166,40 +220,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.962
-      }
-    },
-    {
-      "id": "8106492e502f",
-      "title": "‘It’s incredibly exciting’: ancient canoe unearthed after Hurricane Ian stormed through Florida",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/florida-ancient-canoes",
-      "published_at": "Sun, 28 Sep 2025 11:00:11 GMT",
-      "bullets": [
-        "• The canoe is believed to be the first to be made of this type of wood",
-        "• It is believed it was made in the 16th century and dates back to when Europeans arrived in the Americas",
-        "• The canoe was made of wood and is thought to date back to the 17th century "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "51943e2bc381",
-      "title": "US set for largest mass resignation in history as Trump continues deep cuts",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/us-mass-resignation-federal-workers",
-      "published_at": "Sun, 28 Sep 2025 11:00:10 GMT",
-      "bullets": [
-        "• More than 100,000 federal workers set to formally quit as part of the latest resignation program",
-        "• The total resignation program is set to cost $14.8bn, with 200,000 paid their full salary and benefits while on administrative leave for up to eight months",
-        "• The White House has also ordered federal agencies to draw up plans for large-scale firings "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     },
     {
@@ -390,22 +410,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.995
-      }
-    },
-    {
-      "id": "3482274dcb25",
-      "title": "Trump news at a glance: Trump orders deployment of national guard to ‘war ravaged’ Portland",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/trump-administration-news-updates-today",
-      "published_at": "Sun, 28 Sep 2025 00:58:27 GMT",
-      "bullets": [
-        "• Donald Trump orders deployment of national guard to ‘war ravaged’ Portland",
-        "• Officials in Portland have pushed back against the announcement, saying there is ‘no need for military troops’ – key US politics stories from Saturday 27 September "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.869
       }
     },
     {
@@ -717,6 +721,40 @@
       }
     },
     {
+      "id": "2f577256adc5",
+      "title": "I spent three months with Telly, the free TV that&#8217;s always showing ads",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads",
+      "published_at": "2025-09-28T09:00:00-04:00",
+      "bullets": [
+        "• Free TV has a built-in screen that shows ads in the middle of the screen",
+        "• The screen stays on at all times, even if you turn off the power button",
+        "• This is the first time I've seen a free TV with ads in it, and the last few months it's free "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      }
+    },
+    {
+      "id": "1e96c977a01b",
+      "title": "Good news: TechWoven is fine",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro",
+      "published_at": "2025-09-28T09:00:00-04:00",
+      "bullets": [
+        "• Apple’s follow-up to FineWoven holds up a lot better than its predecessor",
+        "• The TechWoven case for the iPhone 17 Pro is less silky, more rugged, and much more difficult to scratch",
+        "• Apple introduced the material in 2023 when the company discontinued its leather cases and accessories "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      }
+    },
+    {
       "id": "2d52fe7b4750",
       "title": "How the voice of Silksong&#8217;s Hornet brought her to life through gibberish",
       "outlet": "The Verge",
@@ -764,39 +802,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "bbb67e14e14e",
-      "title": "Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record",
-      "published_at": "2025-09-27T17:27:30-04:00",
-      "bullets": [
-        "• Martin Shkreli will have to face a lawsuit for making copies of the Wu-Tang Clan’s Once Upon a Time in Shaolin",
-        "• US District Judge Pamela Chen dismissed some claims by the album's current owners, PleasrDAO, but will allow the suit alleging “misappropriation of trade secrets to continue "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      }
-    },
-    {
-      "id": "19459cb41af8",
-      "title": "Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale",
-      "published_at": "2025-09-27T12:09:15-04:00",
-      "bullets": [
-        "• Nintendo’s first-party Switch 2 Pro Controller can’t be beaten when it comes to its breadth of features and comfort",
-        "• Thankfully, a controller I’ve been testing recently, which is nearly as good despite lacking a 3.5mm audio jack, is currently on sale for $40 less",
-        "• The EasySMX S10 is comfortable to use for long gaming sessions, and it has features that aren't commonly built into third-party gamepads "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.948
       }
     },
     {
