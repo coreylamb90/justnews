@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T11:46:39Z",
+  "generated_at": "2025-09-28T12:53:07Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -34,19 +34,121 @@
       }
     },
     {
+      "id": "cdec6f5aae14",
+      "title": "US Latinos mobilize to monitor – and improve – local air quality: ‘We have to fix it’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/latino-communites-air-quality",
+      "published_at": "Sun, 28 Sep 2025 12:30:11 GMT",
+      "bullets": [
+        "• Growing number of Latinos across the US have installed air quality sensors outside their homes, businesses and churches to better understand the air they’re breathing and advocate for change in their communities",
+        "• More than half of the US population resides in areas with unhealthy air quality "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.945
+      }
+    },
+    {
+      "id": "580a2fd2f0a4",
+      "title": "Children left short of clean water and sleep amid ‘prolonged’ detention by Ice, watchdog groups allege",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/ice-detention-texas-children",
+      "published_at": "Sun, 28 Sep 2025 12:00:10 GMT",
+      "bullets": [
+        "• Children and their parents described a ‘prison-like environment’ where guards reportedly call them ‘inmates’ despite them not being criminals",
+        "• The South Texas Family Residential Center is run on behalf of Ice by the private corrections and detention company CoreCivic "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
+      "id": "dc557ecb8b1a",
+      "title": "A look at OpenAI's tangled web of dealmaking",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html",
+      "published_at": "Sun, 28 Sep 2025 12:00:01 GMT",
+      "bullets": [
+        "• Artificial intelligence startup OpenAI is now valued at $500 billion",
+        "• The company has been inking deals worth hundreds of billions of dollars with infrastructure partners",
+        "• The Nasdaq and S&P 500 rose to record highs this week after Nvidia agreed to invest $100 billion in OpenAI "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "39ac998f19c4",
+      "title": "5 takeaways from CNBC’s investigation into 'nudify' apps and sites",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/5-takeaways-from-cnbcs-investigation-into-nudify-apps-and-sites.html",
+      "published_at": "Sun, 28 Sep 2025 12:00:01 GMT",
+      "bullets": [
+        "• A group of women in the Minneapolis area learned that a male friend used their Facebook photos mixed with artificial intelligence to create sexualized images and videos",
+        "• The discovery created emotional trauma and led the group to seek the help of a sympathetic state senator",
+        "• Because the women weren't underage and the man who created the deepfakes never distributed the content, there was no apparent crime "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      }
+    },
+    {
+      "id": "6bd2ebd85c6c",
+      "title": "A Universal-DreamWorks movie is bringing the winning formula of kids content frenzy to the big screen",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/gabbys-dollhouse-movie-kid-content-frenzy.html",
+      "published_at": "Sun, 28 Sep 2025 12:00:01 GMT",
+      "bullets": [
+        "• Universal and DreamWorks Animation's \"Gabby's Dollhouse: The Movie\" is the latest kid's TV show to head to the box office",
+        "• It's been the most-viewed streaming original series for kids this year, according to Nielsen",
+        "• The movie follows in the footsteps of Paw Patrol and SpongeBob SquarePants "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
       "id": "d359adb02d97",
       "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 11:24:56 GMT",
+      "published_at": "Sun, 28 Sep 2025 11:46:41 GMT",
       "bullets": [
-        "• Nearly 600 drones and several dozen missiles fired at seven regions of Ukraine",
-        "• President Volodymyr Zelensky condemns 'vile' attack and says it shows Moscow wants to 'continue fighting and killing' Russia said it struck military facilities and industrial enterprises supporting Ukraine's armed forces "
+        "• A 12-year-old girl among those killed in 'vile' Russian aerial bombardment that lasted more than 12 hours",
+        "• Russia said it struck military facilities and industrial enterprises supporting Ukraine's armed forces",
+        "• President Volodymyr Zelensky said the deaths all occurred in the capital Kyiv "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "baa615acfd47",
+      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
+      "published_at": "Sun, 28 Sep 2025 11:45:51 GMT",
+      "bullets": [
+        "• The Pentagon took an equity stake in MP Materials, the largest U.S",
+        "• rare earth miner, in July",
+        "• The White House is \"not ruling out other deals with equity stakes or price floors,\" a White House official says",
+        "• Rare earths are key inputs in weapons platforms such as the F-35 warplane "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.551
       }
     },
     {
@@ -169,22 +271,6 @@
       }
     },
     {
-      "id": "41137bbf5f5f",
-      "title": "A new buzzword is hanging over businesses as they rush into AI",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/a-new-buzzword-is-hanging-over-businesses-as-they-rush-into-ai.html",
-      "published_at": "Sun, 28 Sep 2025 06:08:33 GMT",
-      "bullets": [
-        "• 79% of companies globally expect to incur an \"AI debt\" as a result of poorly implemented autonomous tools, according to a new report by Asana on the State of AI at Work",
-        "• The debt could manifest as security risks, poor data quality, low impact AI agents, and a management skills gap "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
       "id": "1f3333f667a0",
       "title": "The endangered cactus behind Mexico's sweet secret",
       "outlet": "NPR Topics: News",
@@ -199,6 +285,22 @@
       "sentiment": {
         "label": "negative",
         "score": 0.986
+      }
+    },
+    {
+      "id": "051d2864675b",
+      "title": "Why friends are teaming up to buy homes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability",
+      "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Housing prices are up 56% since February 2020, according to data from the National Association of Realtors",
+        "• Hayley Currier and Tammy Kremer are longtime friends who bonded over their mutual passions for open-water swimming, Jewish rituals and political organizing "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
       }
     },
     {
@@ -217,22 +319,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.995
-      }
-    },
-    {
-      "id": "051d2864675b",
-      "title": "Why friends are teaming up to buy homes",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability",
-      "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Housing prices are up 56% since February 2020, according to data from the National Association of Realtors",
-        "• Hayley Currier and Tammy Kremer are longtime friends who bonded over their mutual passions for open-water swimming, Jewish rituals and political organizing "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
       }
     },
     {
@@ -307,23 +393,6 @@
       }
     },
     {
-      "id": "7b2c4b059e6a",
-      "title": "UN imposes 'snapback' sanctions on a hungrier, poorer and more anxious Iran",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5555869/un-sanctions-iran",
-      "published_at": "Sun, 28 Sep 2025 01:29:33 -0400",
-      "bullets": [
-        "• UN imposes 'snapback' sanctions on a hungrier, poorer and more anxious Iran",
-        "• The sanctions come via a mechanism known as \"snapback\" included in Iran's 2015 nuclear deal with world powers",
-        "• Iran's rial currency sits at a record low, increasing pressure on food prices "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "3482274dcb25",
       "title": "Trump news at a glance: Trump orders deployment of national guard to ‘war ravaged’ Portland",
       "outlet": "US news | The Guardian",
@@ -391,22 +460,6 @@
       }
     },
     {
-      "id": "361ff7de4d91",
-      "title": "Portland residents scoff at Trump threat to send military: ‘This is not a war zone’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/portland-oregon-trump-national-guard",
-      "published_at": "Sat, 27 Sep 2025 22:35:27 GMT",
-      "bullets": [
-        "• Donald Trump falsely declared Portland, Oregon, ‘war ravaged’ by antifascists and “other domestic terrorists” The US president’s impression of the city, apparently shaped by misleading conservative media reports, is entirely divorced from reality",
-        "• There were just four protesters outside the Immigration and Customs Enforcement field office "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "1b6a32bd0599",
       "title": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
       "outlet": "BBC News",
@@ -421,59 +474,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.861
-      }
-    },
-    {
-      "id": "43daa926197c",
-      "title": "Marc Maron, Human Rights Watch and others slam Saudi comedy festival",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5555462/saudi-comedy-festival-chappelle-hart-maron",
-      "published_at": "Sat, 27 Sep 2025 21:38:31 -0400",
-      "bullets": [
-        "• Saudi Arabia is hosting the first ever Riyadh Comedy Festival through Oct",
-        "• 9",
-        "• The participation of big-name funnymen, including Dave Chappelle, Aziz Ansari, Kevin Hart and Jimmy Carr, has provoked criticism",
-        "• Marc Maron, Shane Gillis and Stavros Halkias have criticized the festival",
-        "• Human Rights Watch: Saudi government is using the festival to deflect attention from repression "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      }
-    },
-    {
-      "id": "d4fb0e3c41c5",
-      "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
-      "published_at": "Sat, 27 Sep 2025 21:29:47 GMT",
-      "bullets": [
-        "• President Donald Trump posted a cartoon image of himself firing Federal Reserve Chairman Jerome Powell",
-        "• The image appears to be \"AI-generated or digitally illustrated,\" according to visual analysis",
-        "• Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "d8085d06e9cb",
-      "title": "Three dead in Arizona flooding as the Carolinas brace for possible hurricane",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/arizona-flooding-carolinas-hurricane",
-      "published_at": "Sat, 27 Sep 2025 20:20:35 GMT",
-      "bullets": [
-        "• At least three people died and others were believed missing after flooding in a rural community in Arizona",
-        "• Searchers looked for people missing all night, and more help arrived on Saturday to continue the search",
-        "• North Carolina’s governor, Josh Stein, declared a state of emergency in advance of the system that is being identified by the National Hurricane Center in Miami as Tropical Depression Nine "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
       }
     },
     {
@@ -495,23 +495,6 @@
       }
     },
     {
-      "id": "aba21f953f5a",
-      "title": "How a 'nudify' site turned a group of friends into key figures in a fight against AI-generated porn",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/nudify-ai-generated-deepfake-fbi.html",
-      "published_at": "Sat, 27 Sep 2025 16:52:15 GMT",
-      "bullets": [
-        "• Jessica Guistolise received a text message from an acquaintance who said she had urgent information to share about her estranged husband, Ben",
-        "• Jenny told her she'd found pictures on Ben's computer of more than 80 women whose social media photos were used to create deepfake pornography",
-        "• Most of the women in Ben's images lived in the Minneapolis area "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
       "id": "2584e1916ba0",
       "title": "Southeast U.S. braces for heavy rains from a potential tropical storm",
       "outlet": "NPR Topics: Science",
@@ -528,23 +511,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.878
-      }
-    },
-    {
-      "id": "25a03c3e0c39",
-      "title": "The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
-      "published_at": "Sat, 27 Sep 2025 14:07:58 GMT",
-      "bullets": [
-        "• Economic data this week painted a surprisingly bright picture of recent trends",
-        "• Consumer spending in August was stronger than expected and income was higher than expected",
-        "• The narrative now is shifting towards the ever-popular wealth effect coming from Wall Street and a succession of new highs in major stock indexes "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.787
       }
     },
     {
@@ -751,6 +717,56 @@
       }
     },
     {
+      "id": "2d52fe7b4750",
+      "title": "How the voice of Silksong&#8217;s Hornet brought her to life through gibberish",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish",
+      "published_at": "2025-09-28T08:30:00-04:00",
+      "bullets": [
+        "• The voice of Silksong’s Hornet was voiced by Makoto Koji in the original Hollow Knight",
+        "• Koji made up a lot of her own words for the character",
+        "• She says she's been surprised with how the Hollow Knight community has taken to some of the gibberish she made up "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "7bc0b722892b",
+      "title": "How generative AI boosters are trying to break into Hollywood",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/column/785975/hollywood-ai-stepback",
+      "published_at": "2025-09-28T08:00:00-04:00",
+      "bullets": [
+        "• Some of Hollywood’s biggest studios have signaled that they are ready to start riding the gen AI wave",
+        "• Even with all of the obvious concerns about copyright infringement and job displacement that generative AI presents, a steady chorus of voices has been insisting that this technology is going to be the future of filmmaking "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      }
+    },
+    {
+      "id": "78d2530c7019",
+      "title": "I need a life cool enough for the new GoPro",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer",
+      "published_at": "2025-09-28T08:00:00-04:00",
+      "bullets": [
+        "• This week's Installer is becoming one of The Verge's subscriber-only newsletters",
+        "• In a couple of weeks, the only way to get Installer will be to subscribe to The Verge",
+        "• I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen, obsessing over both Black Rabbit and The Lowdown "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "bbb67e14e14e",
       "title": "Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record",
       "outlet": "The Verge",
@@ -784,57 +800,6 @@
       }
     },
     {
-      "id": "d2eb82dd50e9",
-      "title": "The strangest game of the year is a channel-surfing simulator",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/785848/blippo-plus-review-switch-steam",
-      "published_at": "2025-09-27T09:00:00-04:00",
-      "bullets": [
-        "• The idea is that, for reasons that aren’t immediately clear, you’re able to tune into a TV network from another world, the titular Blippo Plus",
-        "• There are FMV shows with human actors, covering everything from dramas to cooking",
-        "• At various points, you'll have to adjust the picture so you can see things clearly "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.733
-      }
-    },
-    {
-      "id": "fcb028008a16",
-      "title": "Can Google be trusted without a break up?",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust",
-      "published_at": "2025-09-27T09:00:00-04:00",
-      "bullets": [
-        "• Can Google be trusted without a break-up? The DOJ argues as long as Google still has the means and incentives to accrue dominance, the DOJ argues",
-        "• Google employees allegedly used chat messages to avoid leaving a paper trail for discovery",
-        "• Google’s remedies proposal involves a court order banning specific busin "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "2580a0286a69",
-      "title": "When this EV maker collapsed, its customers became the car company",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall",
-      "published_at": "2025-09-27T08:00:00-04:00",
-      "bullets": [
-        "• Fisker Ocean owners are fighting to keep their EVs alive after the company’s bankruptcy",
-        "• Thousands of Ocean owners have organized into their own makeshift car company",
-        "• The Fiskers Owners Association (FOA) is a nonprofit that's launched third-party apps, built a global parts supply chain, and came together around a future for orphaned vehicles "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.707
-      }
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -849,6 +814,40 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
+      }
+    },
+    {
+      "id": "bff3bbb6ccff",
+      "title": "The Axe Files with David Axelrod",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/axe-files",
+      "published_at": null,
+      "bullets": [
+        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
+        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
+        "• Scott Jennings is well known as a conservative firebrand on CNN "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "8113583c1aab",
+      "title": "Margins of Error",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/margins-of-error",
+      "published_at": null,
+      "bullets": [
+        "• This season on Margins of Error, Harry teases out big ideas like what accents say about where we live, how much money it takes to be happy, and whether the U.S",
+        "• should finally switch to the metric system",
+        "• Harry talks to some very smart people who are doing their best to optimize the way we travel "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
       }
     }
   ]
