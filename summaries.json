@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T18:37:47Z",
+  "generated_at": "2025-09-28T18:50:45Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -22,12 +22,12 @@
       "title": "Eric Adams drops out of New York City mayoral race",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/28/eric-adams-new-york-city-mayor-race-trump-.html",
-      "published_at": "Sun, 28 Sep 2025 18:33:09 GMT",
+      "published_at": "Sun, 28 Sep 2025 18:37:17 GMT",
       "bullets": [
         "• New York City Mayor Eric Adams announced Sunday that he is suspending his bid for re-election",
-        "• The move could give a boost to former Gov",
-        "• Andrew Cuomo, who is running as an independent",
-        "• President Donald Trump has suggested that Adams and Curtis Sliwa, the Republican nominee, should both drop out of the race "
+        "• His announcement could give a boost to former Gov",
+        "• Andrew Cuomo in the high-profile race against the Democratic nominee Zohran Mamdani",
+        "• President Donald Trump has suggested that Adams and Curtis Sliwa should both drop out of the race "
       ],
       "category": "Business",
       "sentiment": {
@@ -256,23 +256,6 @@
       }
     },
     {
-      "id": "dc557ecb8b1a",
-      "title": "A look at OpenAI's tangled web of dealmaking",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html",
-      "published_at": "Sun, 28 Sep 2025 12:00:01 GMT",
-      "bullets": [
-        "• Artificial intelligence startup OpenAI is now valued at $500 billion",
-        "• The company has been inking deals worth hundreds of billions of dollars with infrastructure partners",
-        "• The Nasdaq and S&P 500 rose to record highs this week after Nvidia agreed to invest $100 billion in OpenAI "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      }
-    },
-    {
       "id": "5c633e961659",
       "title": "Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump",
       "outlet": "NPR Topics: News",
@@ -306,6 +289,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "baa615acfd47",
+      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
+      "published_at": "Sun, 28 Sep 2025 11:45:51 GMT",
+      "bullets": [
+        "• The Pentagon took an equity stake in MP Materials, the largest U.S",
+        "• rare earth miner, in July",
+        "• The White House is \"not ruling out other deals with equity stakes or price floors,\" a White House official says",
+        "• Rare earths are key inputs in weapons platforms such as the F-35 warplane "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.551
       }
     },
     {
