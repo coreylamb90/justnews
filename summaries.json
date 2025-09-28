@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T09:47:36Z",
+  "generated_at": "2025-09-28T10:30:26Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -34,36 +34,37 @@
       }
     },
     {
-      "id": "62e9ad194d6f",
-      "title": "VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/09/25/g-s1-90435/tylenol-autism-health",
-      "published_at": "Thu, 25 Sep 2025 10:00:22 -0400",
-      "bullets": [
-        "• President Trump linked Tylenol to autism despite little medical evidence",
-        "• How are Americans meant to make important decisions about their health at this confusing moment? NPR's food and health correspondent Allison Aubrey discusses it with Consider This host Juana Summers "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.948
-      }
-    },
-    {
       "id": "d359adb02d97",
       "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 09:27:01 GMT",
+      "published_at": "Sun, 28 Sep 2025 09:51:47 GMT",
       "bullets": [
-        "• Russia launched nearly 600 drones and missiles toward seven regions of Ukraine, its air force said",
-        "• President Volodymyr Zelensky said the deaths all occurred in the capital, Kyiv, where many of the projectiles were aimed, and the victims included a 12-year-old girl",
+        "• Nearly 600 drones and several dozen missiles fired at seven regions of Ukraine",
+        "• President Volodymyr Zelensky condemns 'vile' attack and says Ukraine will retaliate",
         "• Russia said it struck military facilities and industrial enterprises supporting Ukraine's armed forces "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.994
+      }
+    },
+    {
+      "id": "d2c59aa4966f",
+      "title": "Selena Gomez marries music producer Benny Blanco",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgq5jzxx77o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 08:05:20 GMT",
+      "bullets": [
+        "• Selena Gomez marries music producer Benny Blanco in a ceremony in California",
+        "• The couple exchanged vows in Santa Barbara on Saturday in front of around 170 guests, including Taylor Swift, Paul Rudd, Steve Martin and Martin Short",
+        "• Gomez posted pictures to Instagram of her and Blanco on Saturday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.868
       }
     },
     {
@@ -85,35 +86,36 @@
       }
     },
     {
-      "id": "03d891d00ad3",
-      "title": "Trump's H-1B visa fee could have one big winner: The Middle East",
+      "id": "41137bbf5f5f",
+      "title": "A new buzzword is hanging over businesses as they rush into AI",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/trumps-h-1b-visa-fee-could-have-one-big-winner-the-middle-east.html",
-      "published_at": "Sun, 28 Sep 2025 06:08:14 GMT",
+      "url": "https://www.cnbc.com/2025/09/28/a-new-buzzword-is-hanging-over-businesses-as-they-rush-into-ai.html",
+      "published_at": "Sun, 28 Sep 2025 06:08:33 GMT",
       "bullets": [
-        "• The Gulf region's push to become the next global artificial intelligence hub could see it outflank other geographies hoping to snap up foreign expertise caught up in the uncertainty of the U.S",
-        "• President Donald Trump's plan for higher H-1B visa fees "
+        "• 79% of companies globally expect to incur an \"AI debt\" as a result of poorly implemented autonomous tools, according to a new report by Asana on the State of AI at Work",
+        "• The debt could manifest as security risks, poor data quality, low impact AI agents, and a management skills gap "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.594
+        "label": "negative",
+        "score": 1.0
       }
     },
     {
-      "id": "051d2864675b",
-      "title": "Why friends are teaming up to buy homes",
+      "id": "1f3333f667a0",
+      "title": "The endangered cactus behind Mexico's sweet secret",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability",
-      "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5535767/mexico-endangered-cactus-mexican-food",
+      "published_at": "Sun, 28 Sep 2025 06:00:00 -0400",
       "bullets": [
-        "• Housing prices are up 56% since February 2020, according to data from the National Association of Realtors",
-        "• Hayley Currier and Tammy Kremer are longtime friends who bonded over their mutual passions for open-water swimming, Jewish rituals and political organizing "
+        "• Barches of barrel cactus have been chopped up and seeped in vats of sugar until they're crystalized",
+        "• The Mexican government began banning the sale of acitrón in the early 2000s",
+        "• The biznaga cactus was found to be in danger of extinction due to overexploitation "
       ],
       "category": "General",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "negative",
+        "score": 0.986
       }
     },
     {
@@ -135,6 +137,22 @@
       }
     },
     {
+      "id": "051d2864675b",
+      "title": "Why friends are teaming up to buy homes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability",
+      "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Housing prices are up 56% since February 2020, according to data from the National Association of Realtors",
+        "• Hayley Currier and Tammy Kremer are longtime friends who bonded over their mutual passions for open-water swimming, Jewish rituals and political organizing "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      }
+    },
+    {
       "id": "e088b85932e3",
       "title": "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
       "outlet": "NPR Topics: News",
@@ -150,23 +168,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "d9b1ff3b09a6",
-      "title": "At least 39 dead in crush at political rally in India",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 04:38:00 GMT",
-      "bullets": [
-        "• At least 39 dead in crush at political rally in southern Indian state of Tamil Nadu",
-        "• Death toll includes at least 17 women, 13 men and nine children, officials say",
-        "• A further 51 people are receiving treatment in hospital, local media reports "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -225,7 +226,7 @@
     {
       "id": "7b2c4b059e6a",
       "title": "UN imposes 'snapback' sanctions on a hungrier, poorer and more anxious Iran",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555869/un-sanctions-iran",
       "published_at": "Sun, 28 Sep 2025 01:29:33 -0400",
       "bullets": [
@@ -233,7 +234,7 @@
         "• The sanctions come via a mechanism known as \"snapback\" included in Iran's 2015 nuclear deal with world powers",
         "• Iran's rial currency sits at a record low, increasing pressure on food prices "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.998
