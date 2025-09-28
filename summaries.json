@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T19:46:22Z",
+  "generated_at": "2025-09-28T20:31:44Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,56 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "76ae6d6bc3c3",
+      "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/trump-mass-firings-government-shutdown.html",
+      "published_at": "Sun, 28 Sep 2025 20:10:43 GMT",
+      "bullets": [
+        "• The White House has warned of mass firings if the government shuts down this week",
+        "• President Donald Trump told NBC News that \"we are going to cut a lot of the people that ",
+        "• we're able to cut on a permanent basis\" If the White House follows through on its threat, it would mark a break from precedent "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "db133fc7ec5f",
+      "title": "At least two dead and eight injured after shooting at Mormon church in Michigan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
+      "published_at": "Sun, 28 Sep 2025 20:10:23 GMT",
+      "bullets": [
+        "• Police chief says 40-year-old male suspect drove a vehicle through the front door of the Church of Jesus Christ of Latter-day Saints in Grand Blanc Township, Michigan, on Sunday morning",
+        "• Suspect, 40, was killed by local police, police chief William Renye said "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "94163a2250e1",
+      "title": "Moldovans await pivotal election result as leader warns of Russian interference",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 20:06:59 GMT",
+      "bullets": [
+        "• Pro-EU President Maia Sandu warns of 'massive Russian interference' in Moldova's elections",
+        "• Pro-Russian forces seen as almost neck and neck in the race for the presidency",
+        "• Moldova has a pro-Russian breakaway enclave called Transnistria along its border with Ukraine "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.961
       }
     },
     {
@@ -59,9 +109,9 @@
       "url": "https://www.theguardian.com/us-news/2025/sep/28/eric-adams-drops-out-new-york-mayor-race",
       "published_at": "Sun, 28 Sep 2025 18:12:42 GMT",
       "bullets": [
-        "• Eric Adams announced on Sunday that he is abandoning his faltering bid to win re-election",
-        "• The mayor will serve the remainder of his term in office, and his name remains on the ballot for the November election since the deadline to remove it has passed",
-        "• Adams was indicted on corruption charges but dropped by the Trump administration in exchange for his cooperation on immigration raids "
+        "• Eric Adams announced on Sunday that he is abandoning his faltering bid to win re-election in New York City",
+        "• Adams was indicted on corruption charges but dropped by the Trump administration in exchange for his cooperation on immigration raids",
+        "• The mayor will serve the remainder of his term in office, which ends on New Year's Eve "
       ],
       "category": "US",
       "sentiment": {
@@ -149,40 +199,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.983
-      }
-    },
-    {
-      "id": "db133fc7ec5f",
-      "title": "At least one dead and nine injured after shooting at Mormon church in Michigan",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
-      "published_at": "Sun, 28 Sep 2025 15:56:15 GMT",
-      "bullets": [
-        "• Police chief says 40-year-old male suspect drove a vehicle through the front door of the Church of Jesus Christ of Latter-day Saints in Grand Blanc Township, Michigan, on Sunday morning",
-        "• He said he got out of the vehicle and fired an assault rifle at hundreds of church attendees before police arrived and killed the suspect",
-        "• No motive for the attack has yet been determined "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "16c6b6327883",
-      "title": "Swiss voters narrowly approve plan for electronic ID cards",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 15:55:38 GMT",
-      "bullets": [
-        "• 50.4% of those who voted said yes to the proposal, while 49.6% rejected it",
-        "• Data will be stored only on the smartphones of individual users",
-        "• Digital IDs will be optional, and citizens can continue to use national identity card "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.918
       }
     },
     {
@@ -427,6 +443,40 @@
       }
     },
     {
+      "id": "c7c1f8b6ecfe",
+      "title": "New Jersey Sen. Andy Kim discusses how Democrats are negotiating to avoid a shutdown",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5554517/new-jersey-sen-andy-kim-discusses-how-democrats-are-negotiating-to-avoid-a-shutdown",
+      "published_at": "Sun, 28 Sep 2025 08:04:54 -0400",
+      "bullets": [
+        "• New Jersey Sen",
+        "• Andy Kim discusses how Democrats are negotiating to avoid a shutdown",
+        "• Kim: \"I'm glad that President Trump changed his mind",
+        "• I think it shows that the president is feeling pressure from his position before saying that he doesn't want to deal with Democrats\""
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.908
+      }
+    },
+    {
+      "id": "0aa11e903bdb",
+      "title": "Politics chat: Trump says he'll deploy troops to Portland, James Comey indicted",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5553310/politics-chat-trump-says-hell-deploy-troops-to-portland-james-comey-indicted",
+      "published_at": "Sun, 28 Sep 2025 08:04:34 -0400",
+      "bullets": [
+        "• Politics chat: Trump says he'll deploy troops to Portland, Oregon, to handle \"domestic terrorists\" Former FBI Director James Comey has been indicted by the Justice Department",
+        "• A government shutdown could come Wednesday and the Trump administration is threatening large-scale layoffs of federal workers "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      }
+    },
+    {
       "id": "82959e76609e",
       "title": "Maine's food pantries stare down volunteer shortage while anticipating cuts",
       "outlet": "NPR Topics: News",
@@ -530,23 +580,6 @@
       }
     },
     {
-      "id": "eb57e9ca09a9",
-      "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
-      "published_at": "Sun, 11 Dec 2022 16:16:48 GMT",
-      "bullets": [
-        "• The White House has a long list of issues facing the nation's first two years of Congress",
-        "• President Barack Obama and his staff are working on a bipartisan agenda",
-        "• They say it's important to keep the public eye on what's happening in the U.S"
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
       "id": "2afc7573274e",
       "title": "NoViolet Bulawayo wins the Best of Caine award",
       "outlet": "World news | The Guardian",
@@ -565,10 +598,10 @@
       }
     },
     {
-      "id": "2584e1916ba0",
-      "title": "A potential tropical storm is expected to batter parts of the southeastern U.S.",
+      "id": "6ba3a9c29a03",
+      "title": "Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week",
       "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane",
+      "url": "https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-imelda-south-carolina-hurricane",
       "published_at": "Sat, 27 Sep 2025 15:02:50 -0400",
       "bullets": [
         "• Parts of the U.S",
@@ -580,24 +613,7 @@
       "category": "Science",
       "sentiment": {
         "label": "negative",
-        "score": 0.971
-      }
-    },
-    {
-      "id": "209ee02c1d20",
-      "title": "'Seconds count': Avoiding airplane collisions at airports could come down to cockpit alerts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/airplane-collisions-airports-honeywell.html",
-      "published_at": "Sat, 27 Sep 2025 12:00:01 GMT",
-      "bullets": [
-        "• Honeywell test pilot recreates some of the most serious near disasters at airports in recent aviation history",
-        "• The National Transportation Safety Board and other safety experts have urged more advanced cockpit alerts",
-        "• Runway incursions, when a plane, person or vehicle is on the runway when they shouldn't be, averaged 4.5 a day last year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.837
+        "score": 0.961
       }
     },
     {
@@ -835,23 +851,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.994
-      }
-    },
-    {
-      "id": "c41ff758b36a",
-      "title": "CNN Political Briefing",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
-      "published_at": null,
-      "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     }
   ]
