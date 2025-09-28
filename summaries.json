@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T16:50:11Z",
+  "generated_at": "2025-09-28T17:26:33Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -18,6 +18,56 @@
       }
     },
     {
+      "id": "b00ac9a6aef0",
+      "title": "Several injured in shooting and fire at Michigan Mormon church",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 17:19:39 GMT",
+      "bullets": [
+        "• At least one person dead after shooting and fire at Mormon church in Michigan",
+        "• Authorities have yet to identify the suspect or disclose a motive",
+        "• US Attorney General Pam Bondi: \"Such violence at a place of worship is heartbreaking and chilling\" Grand Blanc Township Police Department said there was no further threat to the public "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "518bfa2053c3",
+      "title": "Illinois senator demands to meet with Ice amid clashes at immigration facility",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/dick-durbin-illinois-ice-immigration-meeting",
+      "published_at": "Sun, 28 Sep 2025 17:03:33 GMT",
+      "bullets": [
+        "• Democratic US senator Dick Durbin renews demands to meet with Trump administration immigration officials",
+        "• He wrote on X that ICE must be “accountable for its actions” amid the administration’s “cruel immigration crackdown” The post came after Saturday night protests and arrests at an immigration detention center in Broadview, Illinois "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      }
+    },
+    {
+      "id": "d18e6b7f277a",
+      "title": "Rural Americans who rely on Head Start worry about its future: ‘Without free childcare I couldn’t work’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/rural-americans-head-start-childcare",
+      "published_at": "Sun, 28 Sep 2025 17:00:16 GMT",
+      "bullets": [
+        "• Head Start is targeted for elimination in early draft of Donald Trump’s budget proposal",
+        "• Head Start was there for Sara Laughlin and her family through tough transitions, including the end of a long relationship",
+        "• Laughlin credits the free federally funded program, housed in a blue building, for allowing her to keep her job as a massage therapist "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.965
+      }
+    },
+    {
       "id": "88617c3cebd1",
       "title": "GOP leaders say Obamacare tax credit fight can wait until after government shutdown is averted",
       "outlet": "US Top News and Analysis",
@@ -31,23 +81,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "b00ac9a6aef0",
-      "title": "Several injured in shooting and fire at Michigan Mormon church",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 16:39:06 GMT",
-      "bullets": [
-        "• Several injured in shooting and fire at Mormon church in Michigan",
-        "• US Attorney General Pam Bondi: \"Such violence at a place of worship is heartbreaking and chilling\" Grand Blanc Township Police Department said there was no further threat to the public",
-        "• FBI and Bureau of Alcohol, Tobacco, Firearms and Explosives are on the scene "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
       }
     },
     {
@@ -69,20 +102,20 @@
     },
     {
       "id": "db133fc7ec5f",
-      "title": "Multiple people shot at Mormon church in Michigan and North Carolina bar",
+      "title": "Multiple people shot at Mormon church in Michigan and at North Carolina bar",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
       "published_at": "Sun, 28 Sep 2025 15:56:15 GMT",
       "bullets": [
-        "• Multiple people were shot at a Mormon church in Grand Blanc, Michigan, police say",
-        "• Police say there is no threat to the public at this time",
-        "• The shooting happened during a particularly violent weekend in the US",
-        "• Three people were killed and at least eight others wounded in a shooting in North Carolina "
+        "• Multiple people were shot at a Mormon church in Grand Blanc, Michigan, authorities say",
+        "• The shooter is described as \"down\" and the church is on fire, police say",
+        "• Grand Blanc is about 50 miles north of Detroit",
+        "• The area has been evacuated and local and federal authorities are responding to the shooting "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.949
+        "score": 0.998
       }
     },
     {
@@ -154,23 +187,6 @@
       }
     },
     {
-      "id": "6ce2b48e73c7",
-      "title": "US on watch as impending Tropical Storm Imelda threatens south-east",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/tropical-storm-imelda-hurricane-humberto",
-      "published_at": "Sun, 28 Sep 2025 14:13:34 GMT",
-      "bullets": [
-        "• System is forecast to become Tropical Storm Imelda later on Sunday before approaching the coast of South Carolina as a hurricane",
-        "• North Carolina governor has declared a state of emergency in advance of the system",
-        "• Meanwhile, Hurricane Humberto weakened slightly but remained a strong category 4 storm in the Atlantic "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.969
-      }
-    },
-    {
       "id": "39ac998f19c4",
       "title": "5 takeaways from CNBC’s investigation into 'nudify' apps and sites",
       "outlet": "US Top News and Analysis",
@@ -205,38 +221,22 @@
       }
     },
     {
-      "id": "e7f159651b1a",
-      "title": "A Trump ally in California is fighting redistricting. Is that what his constituents want?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/doug-lamalfa-california-redistricting",
-      "published_at": "Sun, 28 Sep 2025 13:00:15 GMT",
-      "bullets": [
-        "• Rep",
-        "• LaMalfa faced angry crowds at a town hall in Chico, California, in August",
-        "• Some called for his resignation, others said: 'No fascism in America' It came just days before a proposal to redraw the state’s voting map was announced "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      }
-    },
-    {
       "id": "8de100c95479",
       "title": "Multiple people shot at Mormon church in Michigan and shooter is down, police say",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down",
       "published_at": "Sun, 28 Sep 2025 12:15:31 -0400",
       "bullets": [
-        "• The shooting occurred at The Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan",
-        "• Authorities have not released details on the victims' conditions",
+        "• The shooting happened Sunday at The Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan",
+        "• The church was also set ablaze",
         "• Police say there is no ongoing threat to the public",
-        "• The church was on fire, police say "
+        "• Michigan Gov",
+        "• Gretchen Whitmer: \"Violence anywhere especially in a place of worship is unacceptable\""
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.997
       }
     },
     {
@@ -480,20 +480,18 @@
     },
     {
       "id": "e088b85932e3",
-      "title": "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
+      "title": "Russian strikes kill 4 in Ukraine as Zelenskyy urges world not to \"turn a blind eye\"",
       "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555885/russian-drone-attack-kyiv-kills-4",
       "published_at": "Sun, 28 Sep 2025 04:52:23 -0400",
       "bullets": [
-        "• Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10 people",
-        "• A 12-year-old girl was among the dead, head of the Kyiv City Administration says",
-        "• First major bombardment since 21 killed at least 21 people last month",
-        "• Ukrainian President Volodymyr Zelenskyy says attack involved \"nearly 500 strike drones and more than 40 missiles\""
+        "• Russian strikes kill 4 in Ukraine as Zelenskyy urges world not to \"turn a blind eye\" At least four of the dead were in Kyiv, including a 12-year-old girl",
+        "• At least 70 others were injured in the assault, which killed at least four people nationwide "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.99
       }
     },
     {
