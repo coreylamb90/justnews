@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T15:46:25Z",
+  "generated_at": "2025-09-28T16:33:12Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -18,20 +18,38 @@
       }
     },
     {
+      "id": "db133fc7ec5f",
+      "title": "Multiple people shot at Mormon church in Michigan and North Carolina bar",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
+      "published_at": "Sun, 28 Sep 2025 15:56:15 GMT",
+      "bullets": [
+        "• Multiple people were shot at a Mormon church in Grand Blanc, Michigan, police say",
+        "• Police say there is no threat to the public at this time",
+        "• The shooting happened during a particularly violent weekend in the US",
+        "• Three people were killed and at least eight others wounded in a shooting in North Carolina "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.949
+      }
+    },
+    {
       "id": "16c6b6327883",
-      "title": "Swiss voters approve plan for electronic identity cards",
+      "title": "Swiss voters narrowly approve plan for electronic ID cards",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 15:21:52 GMT",
+      "published_at": "Sun, 28 Sep 2025 15:55:38 GMT",
       "bullets": [
         "• 50.4% of those who voted said yes to the proposal, while 49.6% rejected it",
         "• Data will be stored only on the smartphones of individual users",
-        "• It marks the second time Swiss voters have had a nationwide vote on digital IDs "
+        "• Digital IDs will be optional, and citizens can continue to use national identity card "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.918
       }
     },
     {
@@ -172,20 +190,38 @@
       }
     },
     {
-      "id": "db133fc7ec5f",
-      "title": "Deadly mass shootings take place in North Carolina, Texas and New Orleans",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
-      "published_at": "Sun, 28 Sep 2025 12:56:36 GMT",
+      "id": "8de100c95479",
+      "title": "Multiple people shot at Mormon church in Michigan and shooter is down, police say",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down",
+      "published_at": "Sun, 28 Sep 2025 12:15:31 -0400",
       "bullets": [
-        "• Three people were killed and eight injured in a shooting in North Carolina on Saturday",
-        "• The shooting was one of several reported incidents in the state of North Carolina",
-        "• In New Orleans, one person was killed and three others injured in another shooting in New York City "
+        "• The shooting occurred at The Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan",
+        "• Authorities have not released details on the victims' conditions",
+        "• Police say there is no ongoing threat to the public",
+        "• The church was on fire, police say "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.99
+      }
+    },
+    {
+      "id": "a5deff2ccda2",
+      "title": "Doctors tested a common drug on COVID. The results are stunning",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095616.htm",
+      "published_at": "Sun, 28 Sep 2025 12:03:24 EDT",
+      "bullets": [
+        "• Inhaled heparin significantly lowers the risk of death and ventilation in COVID-19 patients",
+        "• With its unique triple-action benefits, it could serve as a powerful and accessible treatment worldwide",
+        "• Heparin has anti-inflammatory and pan-antiviral properties "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
       }
     },
     {
@@ -203,6 +239,25 @@
       "sentiment": {
         "label": "positive",
         "score": 0.995
+      }
+    },
+    {
+      "id": "5c633e961659",
+      "title": "Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5555960/gaza-death-toll-over-66000",
+      "published_at": "Sun, 28 Sep 2025 11:51:52 -0400",
+      "bullets": [
+        "• Palestinian death toll tops 66,000 Palestinians, Gaza's Health Ministry says",
+        "• Israeli Prime Minister Benjamin Netanyahu heads to the White House for talks with U.S",
+        "• President Donald Trump",
+        "• Israeli security forces shot dead the alleged attacker in a car-ramming incident",
+        "• Violence has surged in the Israeli-occupied West Bank, which was captured by Israel in 1967 "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
       }
     },
     {
@@ -394,7 +449,7 @@
     {
       "id": "9406786501f9",
       "title": "DACA has bipartisan support in Congress. Still, Republicans are following Trump's lead",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5534436/daca-dream-act-congress-republicans-trump",
       "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
       "bullets": [
@@ -403,7 +458,7 @@
         "• Nearly 20 DACA recipients have been caught in the cross-fire of the program this year",
         "• The program has bipartisan support in Congress "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.995
@@ -412,7 +467,7 @@
     {
       "id": "e088b85932e3",
       "title": "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555885/russian-drone-attack-kyiv-kills-4",
       "published_at": "Sun, 28 Sep 2025 04:52:23 -0400",
       "bullets": [
@@ -421,7 +476,7 @@
         "• First major bombardment since 21 killed at least 21 people last month",
         "• Ukrainian President Volodymyr Zelenskyy says attack involved \"nearly 500 strike drones and more than 40 missiles\""
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.991
@@ -522,33 +577,16 @@
       "url": "https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane",
       "published_at": "Sat, 27 Sep 2025 15:02:50 -0400",
       "bullets": [
-        "• Southeast U.S",
-        "• braces for heavy rains from a potential tropical storm",
-        "• Tropical Depression 9 is expected to make landfall early next week",
-        "• South Carolina Gov",
-        "• Henry McMaster put residents under a state of emergency in preparation"
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.878
-      }
-    },
-    {
-      "id": "82860586b43b",
-      "title": "Cocoa supplements show surprising anti-aging potential",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031221.htm",
-      "published_at": "Sat, 27 Sep 2025 12:21:54 EDT",
-      "bullets": [
-        "• Daily cocoa extract supplements reduced key inflammation markers in older adults, pointing to a role in protecting the heart",
-        "• Cocoa extract has been shown in previous, smaller studies to reduce inflammatory biomarkers",
-        "• The findings reinforce the value of flavanol-rich, plant-based foods for healthier aging "
+        "• Tropical Depression 9 is expected to impact parts of the U.S",
+        "• east coast this week",
+        "• The storm system is currently tracking across the Caribbean",
+        "• Parts of the Bahamas and the United States are bracing for the storm",
+        "• It is also expected to affect the Dominican Republic, Haiti and the Bahamas "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.948
       }
     },
     {
@@ -721,6 +759,23 @@
       }
     },
     {
+      "id": "6157ddaf8eb8",
+      "title": "Trump posts, then pulls bizarre AI video promoting MedBed conspiracy",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy",
+      "published_at": "2025-09-28T11:44:08-04:00",
+      "bullets": [
+        "• The president posted a fake clip in which he announced a MedBed hospital and national MedBed card",
+        "• There was no additional context, no text to explain things",
+        "• MedBeds are an imaginary medical device that can do everything from treat asthma, to regrow missing limbs "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "2f577256adc5",
       "title": "I spent three months with Telly, the free TV that&#8217;s always showing ads",
       "outlet": "The Verge",
@@ -788,23 +843,6 @@
       }
     },
     {
-      "id": "78d2530c7019",
-      "title": "I need a life cool enough for the new GoPro",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer",
-      "published_at": "2025-09-28T08:00:00-04:00",
-      "bullets": [
-        "• This week's Installer is becoming one of The Verge's subscriber-only newsletters",
-        "• In a couple of weeks, the only way to get Installer will be to subscribe to The Verge",
-        "• I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen, obsessing over both Black Rabbit and The Lowdown "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -819,40 +857,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "8113583c1aab",
-      "title": "Margins of Error",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/margins-of-error",
-      "published_at": null,
-      "bullets": [
-        "• This season on Margins of Error, Harry teases out big ideas like what accents say about where we live, how much money it takes to be happy, and whether the U.S",
-        "• should finally switch to the metric system",
-        "• Harry talks to some very smart people who are doing their best to optimize the way we travel "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
       }
     }
   ]
