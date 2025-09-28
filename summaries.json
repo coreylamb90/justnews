@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T04:34:59Z",
+  "generated_at": "2025-09-28T04:51:30Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -67,6 +67,23 @@
       }
     },
     {
+      "id": "d9b1ff3b09a6",
+      "title": "At least 39 dead in crush at political rally in India",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 04:38:00 GMT",
+      "bullets": [
+        "• At least 39 dead in crush at political rally in southern Indian state of Tamil Nadu",
+        "• Death toll includes at least 17 women, 13 men and nine children, officials say",
+        "• Actor-turned-politician Vijay says his heart is \"broken\" and he is in \"unbearable, indescribable pain and sorrow\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
       "id": "63007025c94d",
       "title": "Brutal killings of young women leave Argentina in shock and anger",
       "outlet": "BBC News",
@@ -91,15 +108,14 @@
       "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 28 Sep 2025 01:26:29 GMT",
       "bullets": [
-        "• U.S",
-        "• President Barack Obama has called on Iran not to withdraw from the world's largest oil-rich state of oil",
-        "• The Iranian government says it has no obligation to stop the sanctions against Iran",
-        "• Iran has been accused of using its own nuclear weapons to launch attacks on the country "
+        "• Iran warned not to escalate tensions as UN sanctions reimposed on Iran",
+        "• UK, France and Germany call on Iran not to \"escalate tensions\" over its nuclear programme",
+        "• UN sanctions were imposed on Iran on Saturday after they were lifted in a deal with the US in 2016 "
       ],
       "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.936
+        "label": "neutral",
+        "score": 0.513
       }
     },
     {
@@ -257,23 +273,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "d9b1ff3b09a6",
-      "title": "More than 30 dead in crush at political rally in India",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 27 Sep 2025 20:04:05 GMT",
-      "bullets": [
-        "• At least 36 people killed in crush at political rally in southern Indian state of Tamil Nadu",
-        "• Death toll includes at least 16 women, nine men and six children, state health minister says",
-        "• Actor-turned-politician Vijay says his heart is \"broken\" and he is in \"unbearable, indescribable pain\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
