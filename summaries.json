@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T05:48:38Z",
+  "generated_at": "2025-09-28T06:40:55Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -67,6 +67,22 @@
       }
     },
     {
+      "id": "03d891d00ad3",
+      "title": "Trump's H-1B visa fee could have one big winner: The Middle East",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/trumps-h-1b-visa-fee-could-have-one-big-winner-the-middle-east.html",
+      "published_at": "Sun, 28 Sep 2025 06:08:14 GMT",
+      "bullets": [
+        "• The Gulf region's push to become the next global artificial intelligence hub could see it outflank other geographies hoping to snap up foreign expertise caught up in the uncertainty of the U.S",
+        "• President Donald Trump's plan for higher H-1B visa fees "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.594
+      }
+    },
+    {
       "id": "d9b1ff3b09a6",
       "title": "At least 39 dead in crush at political rally in India",
       "outlet": "BBC News",
@@ -85,19 +101,37 @@
     },
     {
       "id": "63007025c94d",
-      "title": "Brutal killings of young women leave Argentina in shock and anger",
+      "title": "Argentines demand justice at protest against brutal killings of young women",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 28 Sep 2025 02:56:21 GMT",
       "bullets": [
-        "• Lara Gutierrez, 15, and Morena Verdi and Brenda del Castillo, 20, were killed in Buenos Aires",
-        "• Police believe a drug-trafficking gang was responsible, and that the crime was broadcast as a warning to others",
-        "• Five suspects have been arrested, but a 20-year-old Peruvian man remains at large "
+        "• Two girls and two women were found dead in Buenos Aires last week",
+        "• Police say they were part of a drug-related plot to 'punish' the victims",
+        "• A video of the incident shows the victims being attacked by a gang",
+        "• The bodies of the victims were found five days after the attack "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.957
+        "score": 0.994
+      }
+    },
+    {
+      "id": "7bf1c874ec21",
+      "title": "Autism may be the price of human intelligence",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031224.htm",
+      "published_at": "Sun, 28 Sep 2025 01:44:59 EDT",
+      "bullets": [
+        "• Specific neurons in the outer brain evolved rapidly, and autism-linked genes changed under natural selection",
+        "• These shifts may have slowed brain development in children while boosting language and cognition",
+        "• Globally, the World Health Organization estimates that around one in 100 children have autism "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
       }
     },
     {
@@ -119,19 +153,19 @@
     },
     {
       "id": "2b80ae15eb01",
-      "title": "Iran warned not to escalate tensions as UN sanctions reimposed",
+      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 28 Sep 2025 01:26:29 GMT",
       "bullets": [
-        "• Iran warned not to escalate tensions as UN sanctions reimposed on Iran",
-        "• UK, France and Germany call on Iran not to \"escalate tensions\" over its nuclear programme",
-        "• UN sanctions were imposed on Iran on Saturday after they were lifted in a deal with the US in 2016 "
+        "• Sanctions reimposed on Iran 10 years after they were lifted in landmark nuclear deal",
+        "• UK, France and Germany accuse Iran of \"continued nuclear escalation\" and lack of co-operation",
+        "• Iran stepped up its banned nuclear activity after the US quit the deal in 2016 "
       ],
       "category": "World",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.513
+        "label": "negative",
+        "score": 0.976
       }
     },
     {
@@ -148,6 +182,40 @@
       "sentiment": {
         "label": "positive",
         "score": 0.869
+      }
+    },
+    {
+      "id": "47d28ddd8bdd",
+      "title": "Four strange secrets scientists just found in beer and wine",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031219.htm",
+      "published_at": "Sun, 28 Sep 2025 00:36:50 EDT",
+      "bullets": [
+        "• Recent research highlights how yeast extracts can cloud lagers, gluten can be quickly detected with a simple test strip",
+        "• Tannins give red wine its lip-puckering edge, and sulfites alter gut bacteria in unexpected ways",
+        "• These discoveries not only deepen our understanding of these drinks’ sensory qualities but also hint at implications for health and brewing innovation "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "069117e13e44",
+      "title": "Hidden Alzheimer’s warning signs found in Parkinson’s patients without dementia",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031217.htm",
+      "published_at": "Sun, 28 Sep 2025 00:23:03 EDT",
+      "bullets": [
+        "• Researchers in Japan found Parkinson's patients diagnosed in their 80s are far more likely to show signs of amyloid buildup, a hallmark of Alzheimer's, even without dementia symptoms",
+        "• The study compared younger and older patients, finding that older individuals had three times the rate of amyoid positivity",
+        "• Surprisingly, Parkinson’s patients overall showed lower levels of buildup than healthy people "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
       }
     },
     {
@@ -227,15 +295,14 @@
       "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 27 Sep 2025 21:42:04 GMT",
       "bullets": [
-        "• Trump orders deployment of troops to Portland and authorises 'full force' if needed",
-        "• Move comes amid wider crackdown by the Trump administration on illegal immigration",
-        "• Democratic lawmakers say there is no need for federal troops to be deployed to the city",
-        "• Oregon Governor Tina Kotek: \"There is no national security threat in Portland\""
+        "• Trump orders deployment of troops to Portland, Oregon, authorising use of 'full force' to suppress protests",
+        "• Move is part of wider crackdown on illegal immigration",
+        "• Democratic lawmakers say there is no need for federal troops to be deployed to the city "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.925
+        "score": 0.861
       }
     },
     {
@@ -272,23 +339,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "79bbe940a468",
-      "title": "10 tons, built in seven days, and maybe a way to restore American Dream of affordable home ownership",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/real-estate-prices-home-ownership-housing-affordability.html",
-      "published_at": "Sat, 27 Sep 2025 21:07:28 GMT",
-      "bullets": [
-        "• Modular homebuilder Fading West plans to be part of the solution to the housing affordability crisis",
-        "• Founded in 2016 in Buena Vista, Colorado, the company assembles modular homes inside a 110,000-square-foot factory",
-        "• The company claims lean manufacturing principles reduce costs by up to 20% and delivers a finished house in half the time "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
       }
     },
     {
@@ -530,23 +580,6 @@
       }
     },
     {
-      "id": "0a2fb1c8fbc5",
-      "title": "What happens to your body when you eat too many ultra-processed foods",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031211.htm",
-      "published_at": "Sat, 27 Sep 2025 11:11:04 EDT",
-      "bullets": [
-        "• Ultra-processed foods are industrially altered products packed with additives and stripped of nutrients",
-        "• In the U.S., UPFs account for about 60% of daily calorie intake",
-        "• High consumption of these foods has been linked to greater risks of obesity, cancer, metabolic and cardiovascular diseases, mental health issues, and premature death "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "b2b520a20d68",
       "title": "Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea",
       "outlet": "Ars Technica - All content",
@@ -630,40 +663,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
-      }
-    },
-    {
-      "id": "7d10d2e59770",
-      "title": "Mysterious “quantum echo” in superconductors could unlock new tech",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035059.htm",
-      "published_at": "Sat, 27 Sep 2025 03:11:11 EDT",
-      "bullets": [
-        "• Mysterious ‘quantum echo’ in superconducting materials could unlock new tech",
-        "• Researchers have discovered an unusual \"quantum echoes\" in superconductor materials",
-        "• This phenomenon arises from the interplay between Higgs modes and quasiparticles, producing distinctive signals unlike conventional echoes "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      }
-    },
-    {
-      "id": "a2eb3955ca6a",
-      "title": "Scientists just found rare spores inside a fossil older than dinosaurs",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035054.htm",
-      "published_at": "Sat, 27 Sep 2025 02:58:01 EDT",
-      "bullets": [
-        "• Scientists reclassified a long-misunderstood fossil from Brazil as a new genus, Franscinella riograndensis",
-        "• Using advanced microscopy, they discovered spores preserved in situ",
-        "• The breakthrough reshapes knowledge of Permian ecosystems and highlights the power of revisiting classic fossils with new tools "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
       }
     },
     {
