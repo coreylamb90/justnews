@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T08:35:23Z",
+  "generated_at": "2025-09-28T08:51:15Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -15,23 +15,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.978
-      }
-    },
-    {
-      "id": "9f9dab6cae60",
-      "title": "West Africans deported by the US were denied their rights, says lawyer",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/sep/23/west-africans-deported-by-the-us-were-denied-their-rights-says-lawyer",
-      "published_at": "Tue, 23 Sep 2025 13:45:15 GMT",
-      "bullets": [
-        "• Lawyer for 11 west Africans deported by US says they have been returned to their home countries",
-        "• Lawyers for 11 said they were held in dire conditions in a military camp in Ghana",
-        "• The 11 men filed a legal case seeking to be released but most had already been deported "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     },
     {
@@ -67,6 +50,23 @@
       }
     },
     {
+      "id": "d359adb02d97",
+      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 08:31:37 GMT",
+      "bullets": [
+        "• Russia launched nearly 600 drones and missiles toward seven regions of Ukraine, its air force said",
+        "• President Volodymyr Zelensky said the deaths occurred in the capital, Kyiv, and the victims included a 12-year-old girl",
+        "• At least 16 people were injured in the Zaporizhzhia region, including three children "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
       "id": "2b80ae15eb01",
       "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
       "outlet": "BBC News",
@@ -82,23 +82,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
-      }
-    },
-    {
-      "id": "d359adb02d97",
-      "title": "Kyiv hit by 'massive' Russian attack, mayor says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 07:12:34 GMT",
-      "bullets": [
-        "• Drones hit several regions overnight, including Zaporizhzhia, where at least 16 people, including three children, were injured",
-        "• Ukraine's foreign minister said hundreds of drones and missiles had been used in the latest attacks",
-        "• Russia has not commented "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
       }
     },
     {
@@ -392,6 +375,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
+      }
+    },
+    {
+      "id": "2afc7573274e",
+      "title": "NoViolet Bulawayo wins the Best of Caine award",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/books/2025/sep/27/noviolet-bulawayo-wins-the-best-of-caine-award",
+      "published_at": "Sat, 27 Sep 2025 20:00:51 GMT",
+      "bullets": [
+        "• Best of Caine Prize for African Writing is awarded for a short story",
+        "• The story examines the lives of a group of children in Budapest, Hungary",
+        "• The winner of the award will be announced at the end of the month",
+        "• The award was handed out at the British Library in London today "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
       }
     },
     {
