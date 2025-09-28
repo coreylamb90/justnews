@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T18:50:45Z",
+  "generated_at": "2025-09-28T19:25:07Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -22,12 +22,12 @@
       "title": "Eric Adams drops out of New York City mayoral race",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/28/eric-adams-new-york-city-mayor-race-trump-.html",
-      "published_at": "Sun, 28 Sep 2025 18:37:17 GMT",
+      "published_at": "Sun, 28 Sep 2025 19:18:40 GMT",
       "bullets": [
         "• New York City Mayor Eric Adams announced Sunday that he is suspending his bid for re-election",
         "• His announcement could give a boost to former Gov",
-        "• Andrew Cuomo in the high-profile race against the Democratic nominee Zohran Mamdani",
-        "• President Donald Trump has suggested that Adams and Curtis Sliwa should both drop out of the race "
+        "• Andrew Cuomo in the race against the Democratic nominee Zohran Mamdani",
+        "• President Donald Trump has suggested that Adams and Curtis Sliwa, the Republican nominee, should both drop out of the race "
       ],
       "category": "Business",
       "sentiment": {
@@ -40,7 +40,7 @@
       "title": "At least one dead and nine injured in shooting at Mormon church in Michigan",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 18:28:32 GMT",
+      "published_at": "Sun, 28 Sep 2025 19:17:06 GMT",
       "bullets": [
         "• At least one dead and nine injured in shooting at Mormon church in Michigan",
         "• Gunman drove a vehicle into the church and opened fire, police say",
@@ -203,6 +203,23 @@
       }
     },
     {
+      "id": "33d1688709af",
+      "title": "Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/28/nx-s1-5555995/ryder-cup-emcee-jeering-fans",
+      "published_at": "Sun, 28 Sep 2025 14:44:29 -0400",
+      "bullets": [
+        "• Rory McIlroy steps down after fans chant expletives at the Ryder Cup",
+        "• Fans of the event have been chanting at the golf course in New York City",
+        "• McIlory was seen pushing back at the crowd, telling them to \"shut the f*** up\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
       "id": "c9026a904af6",
       "title": "Namibia deploys army to fight wildfire burning third of Etosha game reserve",
       "outlet": "World news | The Guardian",
@@ -221,21 +238,20 @@
     },
     {
       "id": "8de100c95479",
-      "title": "1 person dead and 9 injured in shooting at Michigan church, police say",
+      "title": "Attack at a Mormon church in Michigan leaves at least 1 dead, 9 injured",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down",
       "published_at": "Sun, 28 Sep 2025 12:15:31 -0400",
       "bullets": [
-        "• The shooting happened Sunday at The Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan",
-        "• The church was also set ablaze",
-        "• Police say there is no ongoing threat to the public",
-        "• Michigan Gov",
-        "• Gretchen Whitmer: \"Violence anywhere especially in a place of worship is unacceptable\""
+        "• Attack at a Mormon church in Michigan leaves at least 1 dead, 9 injured, police say",
+        "• President Trump vows full support of the \"horrendous\" attack",
+        "• Police say they expect to find additional victims in the church who were unable to escape due to the fire",
+        "• The 40-year-old male suspect was killed by police "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.996
       }
     },
     {
@@ -447,7 +463,7 @@
     {
       "id": "9406786501f9",
       "title": "DACA has bipartisan support in Congress. Still, Republicans are following Trump's lead",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5534436/daca-dream-act-congress-republicans-trump",
       "published_at": "Sun, 28 Sep 2025 05:00:00 -0400",
       "bullets": [
@@ -456,7 +472,7 @@
         "• Nearly 20 DACA recipients have been caught in the cross-fire of the program this year",
         "• The program has bipartisan support in Congress "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.995
@@ -835,23 +851,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
