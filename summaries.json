@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T11:24:58Z",
+  "generated_at": "2025-09-28T11:46:39Z",
   "items": [
     {
       "id": "d05d3d7c1c3e",
@@ -31,6 +31,39 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "d359adb02d97",
+      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 11:24:56 GMT",
+      "bullets": [
+        "• Nearly 600 drones and several dozen missiles fired at seven regions of Ukraine",
+        "• President Volodymyr Zelensky condemns 'vile' attack and says it shows Moscow wants to 'continue fighting and killing' Russia said it struck military facilities and industrial enterprises supporting Ukraine's armed forces "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "34e1fd405b96",
+      "title": "30 years later, I’m still obliterating planets in Master of Orion II—and you can, too",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/",
+      "published_at": "Sun, 28 Sep 2025 11:15:59 +0000",
+      "bullets": [
+        "• Master of Orion II (MOO2) is a game that has you develop and build up planets across a simple galaxy map",
+        "• The deeper and longer the experience, the better the payoff can be",
+        "• The games I love the most are the ones where you make decisions that compound over many hours to a long-term payoff "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.962
       }
     },
     {
@@ -68,6 +101,23 @@
       }
     },
     {
+      "id": "726208b276b7",
+      "title": "150 million-year-old pterosaur cold case has finally been solved",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/09/150-million-year-old-pterosaur-cold-case-has-finally-been-solved/",
+      "published_at": "Sun, 28 Sep 2025 11:00:03 +0000",
+      "bullets": [
+        "• Pterodactylus antiquus hatchlings were found in the Solnhofen Limestones of Germany",
+        "• Their bones showed how they had succumbed to storm winds",
+        "• Unable to fly, they drowned and were rapidly buried in the lagoon depths "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
       "id": "2b80ae15eb01",
       "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
       "outlet": "BBC News",
@@ -82,23 +132,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.987
-      }
-    },
-    {
-      "id": "d359adb02d97",
-      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 09:51:47 GMT",
-      "bullets": [
-        "• Nearly 600 drones and several dozen missiles fired at seven regions of Ukraine",
-        "• President Volodymyr Zelensky condemns 'vile' attack and says Ukraine will retaliate",
-        "• Russia said it struck military facilities and industrial enterprises supporting Ukraine's armed forces "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -683,40 +716,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "97e3694ddcda",
-      "title": "Woman hospitalized with pain and vomiting—diet soda cured her",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
-      "published_at": "Fri, 26 Sep 2025 22:02:57 +0000",
-      "bullets": [
-        "• A 63-year-old woman showed up at the emergency department of the Brigham and Women’s Hospital in Boston with severe stomach pain, nausea, and vomiting",
-        "• The doctors started doing lab tests and imaging, and they admitted her to the hospital",
-        "• They found bile duct enlargement and a swollen stomach that seemed to be full of a semi-solid mass "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
-      "id": "59d5ab2fb379",
-      "title": "LG’s $1,800 TV for seniors makes misguided assumptions",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/",
-      "published_at": "Fri, 26 Sep 2025 21:46:38 +0000",
-      "bullets": [
-        "• LG announced the Easy TV in South Korea, aiming it at the “senior TV market",
-        "• One of the features that LG has included in attempts to appeal to this demographic is a remote control with numbers",
-        "• The Easy TV’s remote has all of those buttons, plus mute, zoom, and bigger labels "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
