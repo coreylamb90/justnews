@@ -79,6 +79,26 @@ def summarize_text(text: str) -> List[str]:
     bullets = [("• " + b.strip().rstrip(".")) for b in out.split(". ") if b.strip()]
     return bullets[:5] if bullets else ["• (no summary)"]
 
+print("Loading sentiment model (SST-2)…", flush=True)
+sentiment_clf = pipeline("text-classification", model="distilbert-base-uncased-finetuned-sst-2-english", device=-1)
+print("Sentiment ready.", flush=True)
+
+def classify_sentiment(title: str, bullets: list[str]) -> dict:
+    # Build a short text from title + bullets for classification
+    text = (title + " " + " ".join(bullets)).strip()
+    text = text[:700]  # keep it snappy for CI/CPU
+    res = sentiment_clf(text, truncation=True)[0]  # {'label': 'POSITIVE'|'NEGATIVE', 'score': ...}
+    label_raw = (res.get("label") or "").upper()
+    score = float(res.get("score") or 0.0)
+    # Create a 'neutral' band for low confidence
+    if score < 0.65:     # tweakable threshold
+        label = "neutral"
+    elif label_raw == "POSITIVE":
+        label = "positive"
+    else:
+        label = "negative"
+    return {"label": label, "score": round(score, 3)}
+
 def run():
     feeds = load_feeds()
     if not PUBLIC_DIR.exists():
@@ -128,6 +148,8 @@ def run():
                 print(f"  (skip) summarizer error: {ex}", flush=True)
                 continue
 
+            sent = classify_sentiment(title, bullets)
+
             items.append({
                 "id": make_id(url),
                 "title": title,
@@ -136,6 +158,7 @@ def run():
                 "published_at": published,
                 "bullets": bullets,
                 "category": feed_cat,
+                "sentiment": sent,
             })
             total += 1
             kept += 1
