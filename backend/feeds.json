@@ -1,0 +1,29 @@
+[
+  { "url": "https://www.reuters.com/world/rss", "category": "World" },
+  { "url": "https://www.reuters.com/world/us/rss", "category": "US" },
+  { "url": "https://feeds.apnews.com/ap/topnews", "category": "General" },
+  { "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "category": "World" },
+  { "url": "https://www.theguardian.com/world/rss", "category": "World" },
+  { "url": "https://www.theguardian.com/us-news/rss", "category": "US" },
+  { "url": "https://feeds.npr.org/1001/rss.xml", "category": "General" },
+
+  { "url": "https://www.reuters.com/business/rss", "category": "Business" },
+  { "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "category": "Business" },
+  { "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "category": "Business" },
+
+  { "url": "https://www.theverge.com/rss/index.xml", "category": "Technology" },
+  { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "category": "Technology" },
+  { "url": "http://feeds.arstechnica.com/arstechnica/index", "category": "Technology" },
+
+  { "url": "https://www.sciencedaily.com/rss/top/science.xml", "category": "Science" },
+  { "url": "https://feeds.npr.org/1007/rss.xml", "category": "Science" },
+  { "url": "https://www.nature.com/subjects/news.rss", "category": "Science" },
+
+  { "url": "https://www.politico.com/rss/politics08.xml", "category": "Politics" },
+  { "url": "https://feeds.npr.org/1014/rss.xml", "category": "Politics" },
+  { "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss", "category": "Politics" },
+
+  { "url": "https://www.theguardian.com/environment/rss", "category": "Environment" },
+  { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml", "category": "Environment" },
+  { "url": "https://insideclimatenews.org/feed/", "category": "Environment" }
+]
