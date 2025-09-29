@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T23:46:14Z",
+  "generated_at": "2025-09-29T00:15:35Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -22,16 +22,16 @@
       "title": "Pro-EU party in Moldova wins election mired in claims of Russian interference",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 23:25:19 GMT",
+      "published_at": "Sun, 28 Sep 2025 23:43:40 GMT",
       "bullets": [
-        "• President Maia Sandu's Party of Action and Solidarity (PAS) heading for victory and majority in parliament",
-        "• Opposition leader Igor Dodon had claimed victory before results started coming in and called for protests",
-        "• Turnout was over 52% higher than in recent years and three bomb scares reported at polling stations "
+        "• Pro-EU party in Moldova wins election mired in claims of Russian interference",
+        "• Maia Sandu's Party of Action and Solidarity (PAS) heading for victory and majority in parliament",
+        "• Opposition leader Igor Dodon had claimed victory before results started coming in "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.981
       }
     },
     {
@@ -343,24 +343,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "baa615acfd47",
-      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
-      "published_at": "Sun, 28 Sep 2025 11:45:51 GMT",
-      "bullets": [
-        "• The Pentagon took an equity stake in MP Materials, the largest U.S",
-        "• rare earth miner, in July",
-        "• The White House is \"not ruling out other deals with equity stakes or price floors,\" a White House official says",
-        "• Rare earths are key inputs in weapons platforms such as the F-35 warplane "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.551
       }
     },
     {
@@ -721,6 +703,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
+      }
+    },
+    {
+      "id": "17a36ad948c2",
+      "title": "Asia markets trade mixed; Australia central bank starts two-day policy meeting",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/asia-pacific-markets-nikkei-225-kospi-asx-200.html",
+      "published_at": "Mon, 29 Sep 2025 00:10:15 GMT",
+      "bullets": [
+        "• The Reserve Bank of Australia is expected to hold its cash rate at 3.6%, according to a Reuters poll",
+        "• Australia's S&P/ASX 200 rose 0.43% and South Korea's Kospi added 1.05% and the small-cap Kosdaq was 0.82% higher",
+        "• Japan's Nikkei 225 lost 0.68% and Japan's Topix declined 1.27% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
