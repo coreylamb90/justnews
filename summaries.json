@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T19:27:05Z",
+  "generated_at": "2025-09-29T19:47:19Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -124,14 +124,65 @@
       }
     },
     {
+      "id": "5765de8f6fe2",
+      "title": "Startup founder Charlie Javice reportedly sentenced to 7 years in prison for defrauding JPMorgan Chase",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
+      "published_at": "Mon, 29 Sep 2025 19:34:36 GMT",
+      "bullets": [
+        "• Charlie Javice is sentenced to 7 years in prison for defrauding JPMorgan Chase",
+        "• The 33-year-old founder of a fintech startup was found guilty of fraud in March",
+        "• JPMorgan Chase bought the startup Frank in 2021 for $175 million "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "8cacf23b8596",
+      "title": "Etsy pops 15% as OpenAI announces ChatGPT Instant Checkout for the shopping site",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
+      "published_at": "Mon, 29 Sep 2025 19:33:20 GMT",
+      "bullets": [
+        "• OpenAI's ChatGPT chatbot Instant Checkout allows users to buy products",
+        "• The company will take a fee from transactions that are completed through ChatGpt",
+        "• The feature is free to users and will not affect their prices, OpenAI said "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.788
+      }
+    },
+    {
       "id": "cc61fc22a90d",
       "title": "Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 19:14:37 GMT",
+      "published_at": "Mon, 29 Sep 2025 19:27:33 GMT",
       "bullets": [
-        "• Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t – live",
-        "• Netanyahu says he supports Trump’s Gaza peace plan but Hamas still must agree to proposal "
+        "• Hamas official says group has not received written Trump's Gaza peace plan",
+        "• He gave the remarks in an interview with Al Jazeera Mubasher TV shortly after Trump’s joint press conference with Benjamin Netanyahu in which the Israeli prime minister expressed support for the plan "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "4946ee602e08",
+      "title": "Portland braces for deployment of 200 national guard troops to city",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/portland-national-guard-trump-deployment-lawsuit",
+      "published_at": "Mon, 29 Sep 2025 19:24:54 GMT",
+      "bullets": [
+        "• Portland is bracing for the deployment of 200 national guard troops",
+        "• Oregon filed a lawsuit to block the deployment, which the state has warned will escalate tensions",
+        "• The president has frequently sought to paint the city as out of control and, as he described in September, like ‘living in hell”"
       ],
       "category": "US",
       "sentiment": {
@@ -140,21 +191,56 @@
       }
     },
     {
-      "id": "5765de8f6fe2",
-      "title": "Startup founder Charlie Javice reportedly sentenced to 7 years in prison for defrauding JPMorgan Chase",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
-      "published_at": "Mon, 29 Sep 2025 19:14:11 GMT",
+      "id": "53edcbe93a7c",
+      "title": "Body of missing teen found in D4vd’s Tesla likely ‘dead for several weeks,’ says police",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/d4vd-tesla-teen-girl",
+      "published_at": "Mon, 29 Sep 2025 19:24:51 GMT",
       "bullets": [
-        "• Charlie Javice is sentenced to 7 years in prison for defrauding JPMorgan Chase",
-        "• The fintech firm was acquired by JPMorgan Chase in 2021 for $175 million",
-        "• Prosecutors had sought a sentence of 12 years",
-        "• Javice cried as she delivered an emotional statement to the court "
+        "• Celeste Rivas Hernandez was found dead in the trunk of D4vd’s Tesla in early September",
+        "• Los Angeles police say it is likely she had been dead for several weeks prior to her body being discovered",
+        "• The then 13-year-old was first reported missing on 5 April 2024 "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.996
+      }
+    },
+    {
+      "id": "471473100e7c",
+      "title": "Afghanistan telecom blackout as Taliban shuts off internet",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 19:20:43 GMT",
+      "bullets": [
+        "• Afghanistan telecom blackout as Taliban shuts off internet services across the country",
+        "• The Taliban have imposed a total blackout of internet services in accordance with their Islamic law",
+        "• Many people will not notice the impact until Tuesday morning, when services are expected to resume",
+        "• The country is experiencing a total connectivity blackout "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "d558f7c9f537",
+      "title": "F-Droid says Google’s new sideloading restrictions will kill the project",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/",
+      "published_at": "Mon, 29 Sep 2025 19:09:24 +0000",
+      "bullets": [
+        "• F-Droid is the largest app store for Android software",
+        "• Google recently announced plans to force app developers to verify their apps",
+        "• Apps that have not been validated by the company will not be installed on any Android device",
+        "• F-Froid says the move will not stop apps from being installed in the Play Store "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
       }
     },
     {
@@ -239,40 +325,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.965
-      }
-    },
-    {
-      "id": "8cacf23b8596",
-      "title": "Etsy pops 13% as OpenAI announces ChatGPT Instant Checkout for the shopping site",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
-      "published_at": "Mon, 29 Sep 2025 18:22:48 GMT",
-      "bullets": [
-        "• OpenAI's ChatGPT chatbot Instant Checkout allows users to buy products through chatbot chatbot ChatGpt",
-        "• The feature is free to users and will not affect their prices, OpenAI said",
-        "• The company will take a fee from transactions that are completed through chatGPT, which could become an important new revenue stream "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.934
-      }
-    },
-    {
-      "id": "d424f7d25e4a",
-      "title": "Trump administration spending $625m to revive dying coal industry",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/trump-spending-coal-industry",
-      "published_at": "Mon, 29 Sep 2025 18:18:46 GMT",
-      "bullets": [
-        "• The White House will open 13.1m acres (5.3m hectares) of public land to coal mining while providing $625m for coal-fired power plants",
-        "• Coal, the most polluting and costly fossil fuel, has been on a rapid decline over the past 30 years",
-        "• Wind and solar produced more electricity than coal in the US for the first time in history "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
       }
     },
     {
@@ -396,23 +448,6 @@
       }
     },
     {
-      "id": "080ee50cb8d6",
-      "title": "Stowaway found dead after American Airlines flight to North Carolina",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/american-airlines-stowaway-death",
-      "published_at": "Mon, 29 Sep 2025 15:45:45 GMT",
-      "bullets": [
-        "• Body of a suspected stowaway found in landing gear compartment of an American Airlines flight at Charlotte Douglas international airport",
-        "• American Airlines said it was working with law enforcement on its investigation",
-        "• Experts believe roughly three-quarters of stowaways do not survive if they hide on a plane’s undercarriage because of the extreme cold and lack of oxygen "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "4271b30ed8ae",
       "title": "Taiwan pressured to move 50% of chip production to US or lose protection",
       "outlet": "Ars Technica - All content",
@@ -460,23 +495,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
-      }
-    },
-    {
-      "id": "ba37eb2480df",
-      "title": "It’s official: EA is selling to private equity in $55 billion deal",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gaming/2025/09/its-official-ea-is-selling-to-private-equity-in-55-billion-deal/",
-      "published_at": "Mon, 29 Sep 2025 14:04:17 +0000",
-      "bullets": [
-        "• Electronic Arts announced plans to go private Monday morning",
-        "• Shareholders will receive $210 per share in the deal, a 25 percent premium on the $168.32 price for a share at the close of business last Thursday",
-        "• The Saudi Arabian PIF already owned 9.9 percent of EA's outstanding public stock and will roll over that investment into the buyout "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.818
       }
     },
     {
@@ -573,32 +591,15 @@
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556916/trump-israel-gaza-netanyahu",
       "published_at": "Mon, 29 Sep 2025 12:15:29 -0400",
       "bullets": [
-        "• President Trump and Israeli Prime Minister Benjamin Netanyahu meet at White House",
-        "• The two-year anniversary of the Hamas attack on Israel draws closer",
-        "• The White House released a plan for peace that would end Israel's war in Gaza",
-        "• The plan would require Hamas to release remaining Israeli hostages within 48 hours "
+        "• Trump announces an agreement with Israel to end war in Gaza",
+        "• President Trump and Israeli Prime Minister Benjamin Netanyahu appeared together at the White House Monday",
+        "• The announcement of a peace plan comes as the two-year anniversary of the Hamas attack on Israel draws closer",
+        "• A growing list of nations recognized Palestinian statehood last week "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "positive",
-        "score": 0.964
-      }
-    },
-    {
-      "id": "c10c8243943a",
-      "title": "China sentences 11 members of mafia family to death",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78nrx309kzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 11:18:52 GMT",
-      "bullets": [
-        "• China sentences 11 members of mafia family to death",
-        "• Chinese court sentences 39 members of notorious family that ran scam centres in Myanmar",
-        "• Court found that since 2015 the Ming family and other criminal groups had engaged in criminal activities including telecommunications fraud, illegal casinos, drug trafficking, and prostitution "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
+        "score": 0.985
       }
     },
     {
