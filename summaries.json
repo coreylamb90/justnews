@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T21:47:04Z",
+  "generated_at": "2025-09-29T22:27:15Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -142,6 +142,59 @@
       }
     },
     {
+      "id": "cc61fc22a90d",
+      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 22:07:37 GMT",
+      "bullets": [
+        "• Mike Johnson wants more time for negotiations as JD Vance blames Democrat over potential shutdown",
+        "• Senate minority leader Chuck Schumer says he would not support a seven-to-10 day continuing resolution to temporarily keep the government open",
+        "• Trump has sunk a lot of political capital in bringing peace to the Middle East after ‘thousands of years”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "b1314943767a",
+      "title": "Trump and Netanyahu agree new US peace plan for Gaza",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 22:06:46 GMT",
+      "bullets": [
+        "• US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu agree new peace plan for Gaza",
+        "• Plan would see Hamas release of more than two dozen hostages and end military operations",
+        "• Plan demands that Hamas has no role in governing Gaza, and leaves the door open for an eventual Palestinian state "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "7a198c8c2268",
+      "title": "Wealthfront files for IPO, joining wave of fintech firms going public in 2025",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/wealthfront-fintech-ipo-filing.html",
+      "published_at": "Mon, 29 Sep 2025 21:47:26 GMT",
+      "bullets": [
+        "• Wealthfront filed for a U.S",
+        "• initial public offering Monday",
+        "• The company helped popularize the robo-advisor style of automated investing",
+        "• It's the latest in a wave of fintech firms going public this year",
+        "• Wealthfront, led by CEO David Fortunato, had $88.2 billion in assets on its platform "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      }
+    },
+    {
       "id": "31aa2aa6d57d",
       "title": "'We're headed to a shutdown,' Vance says after Trump meeting with leaders ends",
       "outlet": "US Top News and Analysis",
@@ -155,24 +208,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "7a198c8c2268",
-      "title": "Wealthfront files for IPO, joining wave of fintech firms going public in 2025",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/wealthfront-fintech-ipo-filing.html",
-      "published_at": "Mon, 29 Sep 2025 21:28:37 GMT",
-      "bullets": [
-        "• Wealthfront filed for a U.S",
-        "• initial public offering Monday",
-        "• The company helped popularize the robo-advisor style of automated investing",
-        "• It had $88.2 billion in assets on its platform and served 1.3 million customers as of July 31 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.872
       }
     },
     {
@@ -191,24 +226,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.993
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 21:25:36 GMT",
-      "bullets": [
-        "• House speaker wants more time for negotiations with Congress",
-        "• Airline groups warn that shutdown could slow down flights",
-        "• Venezuela ready to declare state of emergency in event of military attack on Venezuela",
-        "• House speaker says Democrats won't do the right thing and want more time to negotiate "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -535,22 +552,6 @@
       }
     },
     {
-      "id": "f8034a5d820b",
-      "title": "YouTuber MrBeast defends trapping man in burning building for $500,000",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cder5l8pw8lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 13:59:55 GMT",
-      "bullets": [
-        "• MrBeast defends his latest stunt video, 'Would You Risk Dying for $500,000' The video shows a stuntman escape a burning building while collecting bags of cash",
-        "• MrBeast - real name Jimmy Donaldson - said he takes safety more serious than you could ever imagine "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      }
-    },
-    {
       "id": "46484bd404e6",
       "title": "Comic Cristela Alonzo grew up in fear of border patrol. ICE has 'brought it all back'",
       "outlet": "NPR Topics: News",
@@ -777,6 +778,39 @@
       }
     },
     {
+      "id": "426390eba937",
+      "title": "Microsoft is bringing its Windows engineering teams back together again",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
+      "published_at": "2025-09-29T18:07:32-04:00",
+      "bullets": [
+        "• Microsoft is bringing its Windows engineering teams back together again",
+        "• The unified team is meant to support Microsoft’s work on top priorities like AI",
+        "• This is the first major Windows reorg since Pavan Davuluri was promoted to Windows and Surface chief "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "86a1f1cafa55",
+      "title": "Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted",
+      "published_at": "2025-09-29T18:03:30-04:00",
+      "bullets": [
+        "• Security researchers are shining the spotlight on a serious security vulnerability that could enable stalkers to track victims using their own Tile tags",
+        "• Bad actors could also potentially intercept unencrypted information sent from the tags, like their unique IDs and MAC addresses, and track their movements using other Bluetooth devices or an antenna "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
       "id": "223d4c0eb8f4",
       "title": "What EA’s buyout might mean for its future",
       "outlet": "The Verge",
@@ -823,40 +857,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
-      }
-    },
-    {
-      "id": "2227528446e2",
-      "title": "Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale",
-      "published_at": "2025-09-29T14:30:00-04:00",
-      "bullets": [
-        "• The Echo Pop and Echo Dot are Amazon’s entry-level smart speakers",
-        "• Both speakers are currently discounted to their lowest prices since the middle of June",
-        "• Amazon's October Prime Day (aka Prime Big Deal Days) kicks off on October 7th "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "fbbe91e309cf",
-      "title": "The best instant cameras you can buy right now",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "published_at": "2025-09-29T14:17:25-04:00",
-      "bullets": [
-        "• Not all instant cameras are the same, and some are better suited for different needs and budgets",
-        "• Images captured by an instant camera aren’t as pristine or perfect as those produced by modern digital cameras",
-        "• Each model offers a distinct set of features at a different price point "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.906
       }
     }
   ]
