@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T00:15:35Z",
+  "generated_at": "2025-09-29T02:04:21Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,41 +15,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "94163a2250e1",
-      "title": "Pro-EU party in Moldova wins election mired in claims of Russian interference",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 23:43:40 GMT",
-      "bullets": [
-        "• Pro-EU party in Moldova wins election mired in claims of Russian interference",
-        "• Maia Sandu's Party of Action and Solidarity (PAS) heading for victory and majority in parliament",
-        "• Opposition leader Igor Dodon had claimed victory before results started coming in "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      }
-    },
-    {
-      "id": "b00ac9a6aef0",
-      "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 21:27:11 GMT",
-      "bullets": [
-        "• At least two dead and several injured in shooting at Mormon church in Michigan",
-        "• Gunman drove a vehicle into the church and opened fire, police say",
-        "• Suspect identified as 40-year-old Thomas Jacob Sanford from nearby Burton, Michigan",
-        "• He was killed at 10:33 local time, seven minutes after the shooting "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
       }
     },
     {
@@ -84,23 +49,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "db133fc7ec5f",
-      "title": "At least two dead and eight injured after shooting at Mormon church in Michigan",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
-      "published_at": "Sun, 28 Sep 2025 20:10:23 GMT",
-      "bullets": [
-        "• At least two victims are dead and eight others are injured after a shooting and a fire at a Mormon church in Grand Blanc, Michigan",
-        "• The suspect was later identified by officials as Thomas Jacob Sanford, from the nearby city of Burton",
-        "• The 40-year-old male suspect drove a vehicle through the front door of the Church of Jesus Christ of Latter-day Saints "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -191,39 +139,6 @@
       }
     },
     {
-      "id": "518bfa2053c3",
-      "title": "Illinois senator demands to meet with Ice amid clashes at immigration facility",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/dick-durbin-illinois-ice-immigration-meeting",
-      "published_at": "Sun, 28 Sep 2025 17:03:33 GMT",
-      "bullets": [
-        "• Democratic US senator Dick Durbin renews demands to meet with Trump administration immigration officials",
-        "• He wrote on X that ICE must be “accountable for its actions” amid the administration’s “cruel immigration crackdown” The post came after Saturday night protests and arrests at an immigration detention center in Broadview, Illinois "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      }
-    },
-    {
-      "id": "d18e6b7f277a",
-      "title": "Rural Americans who rely on Head Start worry about its future: ‘Without free childcare I couldn’t work’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/rural-americans-head-start-childcare",
-      "published_at": "Sun, 28 Sep 2025 17:00:16 GMT",
-      "bullets": [
-        "• Head Start is targeted for elimination in early draft of Donald Trump’s budget proposal",
-        "• Head Start was there for Sara Laughlin and her family through tough transitions, including the end of a long relationship",
-        "• Laughlin credits the free federally funded program, housed in a blue building, for allowing her to keep her job as a massage therapist "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.965
-      }
-    },
-    {
       "id": "d9b1ff3b09a6",
       "title": "At least 40 dead in crush at political rally in India",
       "outlet": "BBC News",
@@ -276,20 +191,19 @@
     },
     {
       "id": "8de100c95479",
-      "title": "Attack at a Mormon church in Michigan leaves 2 dead, 8 injured",
+      "title": "Attack at a Mormon church in Michigan leaves at least 4 dead, 8 injured",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down",
       "published_at": "Sun, 28 Sep 2025 12:15:31 -0400",
       "bullets": [
-        "• Attack at a Mormon church in Grand Blanc Township, Michigan, leaves 2 dead, 8 injured",
-        "• Police say the gunman rammed his vehicle through the front doors of the church before opening fire with an assault rifle",
-        "• The 40-year-old suspect, Thomas Jacob Sanford, was killed by police, police say",
-        "• President Trump vows the full support of the FBI "
+        "• Attack at a Mormon church in Michigan leaves at least 4 dead, 8 injured, police say",
+        "• Two additional bodies have been found at the burned-out church, adding to the death toll of two",
+        "• The 40-year-old suspect, Thomas Jacob Sanford, was killed by police, authorities say "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.997
       }
     },
     {
@@ -706,6 +620,74 @@
       }
     },
     {
+      "id": "b00ac9a6aef0",
+      "title": "At least four dead and several injured in shooting at Mormon church in Michigan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 01:25:43 GMT",
+      "bullets": [
+        "• At least four dead and several injured in shooting at Mormon church in Michigan",
+        "• Gunman drove a vehicle into the church, opened fire and set the building ablaze, police say",
+        "• Suspect, identified as Thomas Jacob Sanford, 40, was later shot dead by police in the church car park "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "db133fc7ec5f",
+      "title": "At least two dead and eight injured after shooting at Mormon church in Michigan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
+      "published_at": "Mon, 29 Sep 2025 01:10:53 GMT",
+      "bullets": [
+        "• At least four people were killed and eight others injured after a gunman opened fire at a Mormon church in Michigan",
+        "• Two more bodies were found in the charred remains of the building, police said",
+        "• The 40-year-old male suspect was later identified by officials as Thomas Jacob Sanford, a former Marine "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "e596ad7813c1",
+      "title": "Trump news at a glance: more than 100,000 federal workers to quit on Tuesday in largest ever mass resignation",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/president-trump-administration-news-updates-today",
+      "published_at": "Mon, 29 Sep 2025 00:30:18 GMT",
+      "bullets": [
+        "• More than 100,000 federal workers to quit on Tuesday in largest ever mass resignation program",
+        "• Congress facing deadline of Tuesday to authorize more funding or spark a government shutdown",
+        "• White House has also ordered federal agencies to draw up plans for large-scale firings of workers "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.826
+      }
+    },
+    {
+      "id": "94163a2250e1",
+      "title": "Pro-EU party in Moldova wins election mired in claims of Russian interference",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 00:11:53 GMT",
+      "bullets": [
+        "• President Maia Sandu's Party of Action and Solidarity (PAS) close to winning 50% of the vote",
+        "• Opposition leader Igor Dodon had claimed victory even before results started coming in",
+        "• Turnout was over 52%, higher than in recent years "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      }
+    },
+    {
       "id": "17a36ad948c2",
       "title": "Asia markets trade mixed; Australia central bank starts two-day policy meeting",
       "outlet": "US Top News and Analysis",
@@ -720,6 +702,21 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "995b8af23656",
+      "title": "Oregon sues to block ‘illegal’ deployment of 200 national guard troops to Portland",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/28/oregon-trump-national-guard-troops-portland",
+      "published_at": "Mon, 29 Sep 2025 00:04:27 GMT",
+      "bullets": [
+        "• The state of Oregon filed a lawsuit in federal court on Sunday seeking to block the deployment of 200 national guard troops to Portland, arguing Donald Trump’s characterization of the peaceful city as “war ravaged” is “pure fiction” The governor of Oregon said she had been notified by the Pentagon that the US president had seized control of the state's reservists "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -778,9 +775,9 @@
       "url": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
       "published_at": "2025-09-28T17:01:41-04:00",
       "bullets": [
-        "• According to Bloomberg’s Mark Gurman Apple is testing an internal chatbot called Veritas",
+        "• Apple is reportedly testing Siri’s upcoming revamp using an internal chatbot called Veritas",
         "• The next-gen Siri has been delayed multiple times and the debut of Apple Intelligence was met with a tepid response",
-        "• According to Gurman Veritas resembles other chatbot apps like ChatGPT and Gemini",
+        "• According to Bloomberg, Veritas resembles other chatbot apps like ChatGPT and Gemini",
         "• There's no plans for a public release as Cupertino will likely rely on Google's Gemini for AI search "
       ],
       "category": "Technology",
