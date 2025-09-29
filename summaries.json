@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T11:30:30Z",
+  "generated_at": "2025-09-29T11:48:06Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -49,23 +49,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
-      }
-    },
-    {
-      "id": "76ae6d6bc3c3",
-      "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/trump-mass-firings-government-shutdown.html",
-      "published_at": "Sun, 28 Sep 2025 20:10:43 GMT",
-      "bullets": [
-        "• The White House has warned of mass firings if the government shuts down this week",
-        "• President Donald Trump told NBC News that \"we are going to cut a lot of the people that ",
-        "• we're able to cut on a permanent basis\" If the White House follows through on its threat, it would mark a break from precedent "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -346,6 +329,41 @@
       }
     },
     {
+      "id": "76ae6d6bc3c3",
+      "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/trump-mass-firings-government-shutdown.html",
+      "published_at": "Mon, 29 Sep 2025 11:44:13 GMT",
+      "bullets": [
+        "• The White House has warned of mass firings if the government shuts down this week",
+        "• President Donald Trump told NBC News that \"we are going to cut a lot of the people that ",
+        "• we're able to cut on a permanent basis\" If the White House follows through on its threat, it would mark a break from precedent "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "53e02c448e4c",
+      "title": "Trump to push new peace plan in talks with Netanyahu",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgr092lnyyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 11:20:37 GMT",
+      "bullets": [
+        "• US President Donald Trump to push new peace plan in talks with Israeli PM Benjamin Netanyahu",
+        "• Leaked copies of the plan published by US and Israeli media say it stipulates release of hostages within 48 hours",
+        "• Israel will free hundreds of Palestinian prisoners serving life sentences",
+        "• Hamas members who commit to peace will be offered amnesty and safe passage out of Gaza "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      }
+    },
+    {
       "id": "cc61fc22a90d",
       "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
       "outlet": "US news | The Guardian",
@@ -462,23 +480,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "35091cd6f63b",
-      "title": "Denmark bans all civilian drone flights ahead of European summit",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 09:45:12 GMT",
-      "bullets": [
-        "• Denmark bans all civilian drone flights ahead of European summit in Copenhagen",
-        "• The ban will remain in place until 3 October, and violations could be punishable by up to two years",
-        "• Denmark is one of several European countries that have reported sightings of drones in recent weeks "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
       }
     },
     {
@@ -739,6 +740,23 @@
       }
     },
     {
+      "id": "a8f0fe595955",
+      "title": "CMF’s first over-ear headphones have an energy slider for boosting bass and treble",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel",
+      "published_at": "2025-09-29T07:30:00-04:00",
+      "bullets": [
+        "• CMF's first over-ear wireless headphones have an energy slider for boosting bass and treble",
+        "• The Headphone Pro will launch in the US on October 7th for $99",
+        "• At $99 they’re much cheaper than Nothing’s $299 Headphone 1 and offer more customizability "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.769
+      }
+    },
+    {
       "id": "c69870e42b89",
       "title": "Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades",
       "outlet": "The Verge",
@@ -805,23 +823,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.99
-      }
-    },
-    {
-      "id": "1e96c977a01b",
-      "title": "Good news: TechWoven is fine",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro",
-      "published_at": "2025-09-28T09:00:00-04:00",
-      "bullets": [
-        "• Apple’s follow-up to FineWoven holds up a lot better than its predecessor",
-        "• The TechWoven case for the iPhone 17 Pro is less silky, more rugged, and much more difficult to scratch",
-        "• Apple introduced the material in 2023 when the company discontinued its leather cases and accessories "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
