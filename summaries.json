@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T17:46:46Z",
+  "generated_at": "2025-09-29T18:41:19Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -159,20 +159,87 @@
       }
     },
     {
-      "id": "06828fc8ffc8",
-      "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
+      "id": "21e66f4920b6",
+      "title": "White House releases Trump plan to end Israel war with Hamas in Gaza",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
-      "published_at": "Mon, 29 Sep 2025 17:40:35 GMT",
+      "url": "https://www.cnbc.com/2025/09/29/trump-israel-gaza-hamas-peace-plan.html",
+      "published_at": "Mon, 29 Sep 2025 18:38:20 GMT",
       "bullets": [
-        "• EA's stock climbed 5% on Monday",
-        "• The deal is the latest in a \"recent gaming spree\" by the Saudi PIF, analysts say",
-        "• The Public Investment Fund of Saudi Arabia is rolling over its 9.9% stake in the company "
+        "• The White House released a 20-point plan by President Donald Trump to end the Gaza war",
+        "• It has not been agreed to by Hamas, which has not agreed to the proposal",
+        "• Trump: \"I have a feeling that we're going to have a positive answer\""
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.981
+        "score": 0.956
+      }
+    },
+    {
+      "id": "a8ce71221a21",
+      "title": "Democrats refuse to cave on health care before meeting with Trump on government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/trump-health-government-shutdown-jeffries-schumer.html",
+      "published_at": "Mon, 29 Sep 2025 18:36:31 GMT",
+      "bullets": [
+        "• House Democratic Leader Hakeem Jeffries: \"Enough with the games that Republicans have been playing connected to the health care of the American people\" Republicans insist that any deal must extend enhanced Obamacare tax credits that are due to expire at the end of 2025",
+        "• At least seven Senate Democrats would need to vote with Republicans to pass legislation "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      }
+    },
+    {
+      "id": "cc61fc22a90d",
+      "title": "White House says Netanyahu ‘expressed deep regret’ that Israeli strike on Doha killed Qatari serviceman – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 18:30:31 GMT",
+      "bullets": [
+        "• Trump and Netanyahu hold press conference to announce plan to ‘end Gaza conflict’ – live video",
+        "• Trump hosted phone call between US, Israel and Qatar during which Netanyahu ‘expressed deep regret’ for attacking Doha",
+        "• Trump says he’s “hearing that Hamas wants to get this done too”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "8cacf23b8596",
+      "title": "Etsy pops 13% as OpenAI announces ChatGPT Instant Checkout for the shopping site",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
+      "published_at": "Mon, 29 Sep 2025 18:22:48 GMT",
+      "bullets": [
+        "• OpenAI's ChatGPT chatbot Instant Checkout allows users to buy products through chatbot chatbot ChatGpt",
+        "• The feature is free to users and will not affect their prices, OpenAI said",
+        "• The company will take a fee from transactions that are completed through chatGPT, which could become an important new revenue stream "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.934
+      }
+    },
+    {
+      "id": "d424f7d25e4a",
+      "title": "Trump administration spending $625m to revive dying coal industry",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/trump-spending-coal-industry",
+      "published_at": "Mon, 29 Sep 2025 18:18:46 GMT",
+      "bullets": [
+        "• The White House will open 13.1m acres (5.3m hectares) of public land to coal mining while providing $625m for coal-fired power plants",
+        "• Coal, the most polluting and costly fossil fuel, has been on a rapid decline over the past 30 years",
+        "• Wind and solar produced more electricity than coal in the US for the first time in history "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
       }
     },
     {
@@ -180,7 +247,7 @@
       "title": "Labor Dept. won't release Friday's key jobs report, other data if government shuts down",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/29/bls-wont-be-releasing-data-including-fridays-key-jobs-report-in-case-of-a-shutdown.html",
-      "published_at": "Mon, 29 Sep 2025 17:32:42 GMT",
+      "published_at": "Mon, 29 Sep 2025 18:16:06 GMT",
       "bullets": [
         "• The Labor Department is preparing for what would amount to a news and data blackout",
         "• The DOL, in conjunction with the Bureau of Labor Statistics, has several key reports upcoming that will provide important clues about the direction of the economy",
@@ -193,51 +260,52 @@
       }
     },
     {
-      "id": "cc61fc22a90d",
-      "title": "Donald Trump ‘very confident’ ceasefire deal can be reached as he meets Benjamin Netanyahu – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 17:20:14 GMT",
-      "bullets": [
-        "• Netanyahu apologizes to Qatar over Doha attack while at White House",
-        "• Netanyahu did not, however, say he was sorry for targeting Hamas, according to reports",
-        "• New York Times reports that a Qatari team is also at the White House as part of the effort to achieve a deal "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      }
-    },
-    {
-      "id": "8cacf23b8596",
-      "title": "OpenAI announces ChatGPT Instant Checkout for Etsy and Shopify",
+      "id": "5765de8f6fe2",
+      "title": "Startup founder Charlie Javice to be sentenced for defrauding JPMorgan Chase",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
-      "published_at": "Mon, 29 Sep 2025 17:11:44 GMT",
+      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
+      "published_at": "Mon, 29 Sep 2025 18:06:17 GMT",
       "bullets": [
-        "• OpenAI's ChatGPT chatbot Instant Checkout allows users to buy products through chatbot ChatGpt",
-        "• The feature is free to users and will not affect their prices",
-        "• The company will take a fee from transactions that are completed through chatGPT, which could become an important new revenue stream "
+        "• Charlie Javice, founder of fintech startup Frank, is facing sentencing Monday",
+        "• She was found guilty of defrauding JPMorgan Chase by overstating how many customers the startup had",
+        "• JPMorgan bought Frank in 2021 for $175 million to help market its financial products to students "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.998
       }
     },
     {
-      "id": "b3761d57aa25",
-      "title": "Anthropic launches Claude Sonnet 4.5, its latest AI model that's 'more of a colleague'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/anthropic-claude-ai-sonnet-4-5.html",
-      "published_at": "Mon, 29 Sep 2025 17:00:01 GMT",
+      "id": "b00ac9a6aef0",
+      "title": "Investigators search for motive in deadly Michigan church attack",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 17:50:31 GMT",
       "bullets": [
-        "• Anthropic's Claude Sonnet 4.5 is the \"best coding model in the world,\" the company says",
-        "• The model is better at coding, using computers and meeting practical business needs",
-        "• It's the latest example of the breakneck pace of innovation within the AI industry "
+        "• Four people killed and eight injured in Michigan church attack on Sunday",
+        "• Thomas Jacob Sanford, 40, drove his vehicle into a church, opened fire and then set it ablaze",
+        "• Hundreds of people were attending a service at the time, and police said on Monday that everyone had been accounted for",
+        "• Governor Gretchen Whitmer called for patience as FBI works to determine a motive "
       ],
-      "category": "Business",
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "ce772e4021b7",
+      "title": "ESA will pay an Italian company nearly $50 million to design a mini-Starship",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/09/esa-will-pay-an-italian-company-nearly-50-million-to-design-a-mini-starship/",
+      "published_at": "Mon, 29 Sep 2025 17:42:09 +0000",
+      "bullets": [
+        "• The European Space Agency signs a deal with Avio to design a reusable upper stage",
+        "• The deal is part of an effort to replicate SpaceX's success with the Falcon 9",
+        "• The European deal is worth $47 million and is the latest in a long line of work done by SpaceX "
+      ],
+      "category": "Technology",
       "sentiment": {
         "label": "positive",
         "score": 0.999
@@ -258,23 +326,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.984
-      }
-    },
-    {
-      "id": "81e903315604",
-      "title": "Trump bashes Zohran Mamdani after Eric Adams drops out of New York mayor's race",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/trump-zohran-mamdani-eric-adams-new-york-mayor.html",
-      "published_at": "Mon, 29 Sep 2025 16:36:18 GMT",
-      "bullets": [
-        "• President Donald Trump bashed New York City mayoral candidate Zohran Mamdani",
-        "• Trump renewed a threat to withhold federal funding from the Big Apple if the Democratic nominee wins",
-        "• Trump's rant came a day after Mayor Eric Adams said that he is suspending his campaign "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -414,21 +465,6 @@
       }
     },
     {
-      "id": "c80f388a3cbe",
-      "title": "Michigan car crash kills three family members from TLC’s Meet the Putmans",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/michigan-car-crash-meet-the-putmans",
-      "published_at": "Mon, 29 Sep 2025 14:37:16 GMT",
-      "bullets": [
-        "• Bill ‘Papa’ Putman, his wife, Barb – who goes by Neenee – and their daughter-in-law Megan were killed in a “tragic car accident” The family added that members identified as Uncle Blake, Lulu, Alena, Noah and Gia were also injured in the crash "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "ba37eb2480df",
       "title": "It’s official: EA is selling to private equity in $55 billion deal",
       "outlet": "Ars Technica - All content",
@@ -446,37 +482,38 @@
       }
     },
     {
-      "id": "b00ac9a6aef0",
-      "title": "Death toll rises to four after Michigan church shooting and arson attack",
+      "id": "f8034a5d820b",
+      "title": "YouTuber MrBeast defends trapping man in burning building for $500,000",
       "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 13:58:52 GMT",
+      "url": "https://www.bbc.com/news/articles/cder5l8pw8lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 13:59:55 GMT",
       "bullets": [
-        "• Four dead and eight injured after Michigan church shooting and arson attack",
-        "• Gunman drove a vehicle into the building and opened fire, setting it alight, police say",
-        "• Thomas Jacob Sanford, 40, was later shot dead by police in the building's car park",
-        "• Authorities are investigating the incident as an \"act of targeted violence\""
+        "• MrBeast defends his latest stunt video, 'Would You Risk Dying for $500,000' The video shows a stuntman escape a burning building while collecting bags of cash",
+        "• MrBeast - real name Jimmy Donaldson - said he takes safety more serious than you could ever imagine "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.986
       }
     },
     {
-      "id": "c1837a903d2d",
-      "title": "Big AI firms pump money into world models as LLM advances slow",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/09/big-ai-firms-pump-money-into-world-models-as-llm-advances-slow/",
-      "published_at": "Mon, 29 Sep 2025 13:56:05 +0000",
+      "id": "46484bd404e6",
+      "title": "Comic Cristela Alonzo grew up in fear of border patrol. ICE has 'brought it all back'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5554330/cristela-alonzo-upper-classy",
+      "published_at": "Mon, 29 Sep 2025 13:42:08 -0400",
       "bullets": [
-        "• The world’s top artificial intelligence groups are stepping up their focus on so-called world models that can better understand human environments",
-        "• Google DeepMind, Meta, and Nvidia are developing systems that aim to navigate the physical world by learning from videos and robotic data rather than just language "
+        "• Comic Cristela Alonzo grew up in an abandoned diner in Texas",
+        "• Her mother, a Mexican immigrant, left an abusive marriage to her daughter",
+        "• She says she had to quit college twice to help her mother and help with bills",
+        "• She now works for the U.S",
+        "• government in Washington, DC "
       ],
-      "category": "Technology",
+      "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.979
+        "label": "positive",
+        "score": 0.93
       }
     },
     {
@@ -499,19 +536,19 @@
     },
     {
       "id": "364a8231e29c",
-      "title": "Michigan church attacker was a Marine Corps veteran, military officials say",
+      "title": "Police say 'everyone has been accounted for' in Michigan church attack that killed 4",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556928/thomas-jacob-sanford-michigan-church-shooting",
       "published_at": "Mon, 29 Sep 2025 12:36:09 -0400",
       "bullets": [
-        "• Thomas Jacob Sanford served in the Marines from 2004 to 2008 and deployed for one tour in Iraq in 2007 and into 2008",
-        "• He was killed in a shootout with police",
-        "• The attack occurred during a Church of Jesus Christ of Latter-day Saints service in Grand Blanc "
+        "• Police say 'everyone has been accounted for' in Michigan church attack that killed 4 and injured 8",
+        "• Authorities are not aware of any other possible victims still missing",
+        "• The FBI is investigating the attack as an \"act of targeted violence\" The attack unfolded Sunday morning during a Church of Jesus Christ of Latter-day Saints service "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.997
       }
     },
     {
@@ -538,32 +575,15 @@
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556916/trump-israel-gaza-netanyahu",
       "published_at": "Mon, 29 Sep 2025 12:15:29 -0400",
       "bullets": [
-        "• President Donald Trump and Israeli Prime Minister Benjamin Netanyahu will meet on Monday",
-        "• They are expected to discuss a plan to end the conflict in Gaza",
-        "• The two-year anniversary of the conflict comes as the U.S",
-        "• considers an end to the conflict "
+        "• President Trump and Israeli Prime Minister Benjamin Netanyahu will hold a press conference at 1:15 p.m",
+        "• ET Monday",
+        "• The two-year anniversary of the Hamas attack on Israel draws closer",
+        "• The White House released a plan for peace that would end Israel's war in Gaza and boost aid to Gaza "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.826
-      }
-    },
-    {
-      "id": "53e02c448e4c",
-      "title": "Trump to push new peace plan in talks with Netanyahu",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgr092lnyyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 11:20:37 GMT",
-      "bullets": [
-        "• Trump to push new peace plan in talks with Netanyahu to end the Israel-Gaza war",
-        "• US President will push Israeli Prime Minister Benjamin Netanyahu to accept the framework of the new plan",
-        "• It stipulates the release of all hostages within 48 hours of the deal being confirmed "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.809
+        "score": 0.8
       }
     },
     {
@@ -598,24 +618,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.969
-      }
-    },
-    {
-      "id": "e064440b6494",
-      "title": "3 things to know about Trump's plan to send troops to Portland and Memphis",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5556831/portland-memphis-national-guard-trump-troops",
-      "published_at": "Mon, 29 Sep 2025 07:43:30 -0400",
-      "bullets": [
-        "• President Trump has ordered troops to be deployed in Portland, Ore., and Memphis, Tenn",
-        "• He says he's authorized them to use \"full force\" to curb protests outside U.S",
-        "• Immigration and Customs facilities",
-        "• It's the latest instance of Trump sending troops to cities he says are plagued by crime "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.956
       }
     },
     {
@@ -773,6 +775,57 @@
       }
     },
     {
+      "id": "2227528446e2",
+      "title": "Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale",
+      "published_at": "2025-09-29T14:30:00-04:00",
+      "bullets": [
+        "• The Echo Pop and Echo Dot are Amazon’s entry-level smart speakers",
+        "• Both speakers are currently discounted to their lowest prices since the middle of June",
+        "• Amazon's October Prime Day (aka Prime Big Deal Days) kicks off on October 7th "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "fbbe91e309cf",
+      "title": "The best instant cameras you can buy right now",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published_at": "2025-09-29T14:17:25-04:00",
+      "bullets": [
+        "• Not all instant cameras are the same, and some are better suited for different needs and budgets",
+        "• Images captured by an instant camera aren’t as pristine or perfect as those produced by modern digital cameras",
+        "• Each model offers a distinct set of features at a different price point "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.906
+      }
+    },
+    {
+      "id": "2d4e9b4c70a6",
+      "title": "RidePods is the first iPhone game you control with AirPods",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls",
+      "published_at": "2025-09-29T14:16:22-04:00",
+      "bullets": [
+        "• RidePods - Race with Head is the first iPhone game you control with AirPods",
+        "• The game only works with Apple’s wireless headphones that support Spatial Audio including the AirPod Pro, the Airpods Max, and the third and fourth generation Airpod models",
+        "• Apple provides developers with access to headphone motion data so they can incorporate features like fitness tracking "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
       "id": "8f90e8f37227",
       "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
       "outlet": "The Verge",
@@ -803,58 +856,7 @@
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.741
-      }
-    },
-    {
-      "id": "7c90c84f2160",
-      "title": "Alexa Plus is smarter — but it’s not yet smart enough",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
-      "published_at": "2025-09-29T11:45:00-04:00",
-      "bullets": [
-        "• This week, Amazon will launch new Echo hardware designed to supercharge Alexa Plus",
-        "• Alexa Plus is a hybrid smart home assistant, personal assistant, and Amazon’s answer to ChatGPT",
-        "• The assistant desperately needs something to make it more compelling — and better hardware "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "78f02f5b7f52",
-      "title": "Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/787249/amazon-kindle-kids-october-prime-day-deal-sale",
-      "published_at": "2025-09-29T11:30:00-04:00",
-      "bullets": [
-        "• Amazon’s October Prime Day (officially called Prime Big Deal Days) starts on October 7th",
-        "• Amazon has already discounted the Kindle Kids, Kindle Paperwhite Kids, and Kindle Colorsoft Kids e-readers to their lowest prices ever",
-        "• All of the kid-friendly Kindles have 16GB of storage and are ad-free "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "7771af5a71ca",
-      "title": "Keychron mechanical keyboards are up to 62 percent off",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale",
-      "published_at": "2025-09-29T11:08:57-04:00",
-      "bullets": [
-        "• Keychron mechanical keyboards are up to 62 percent off at Woot",
-        "• The company is one of the biggest names in mechanical keyboards",
-        "• Woot has great deals running on a fleet of wired and wireless models, some of which have hot-swappable switches "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.666
+        "score": 0.742
       }
     }
   ]
