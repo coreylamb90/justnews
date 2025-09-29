@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T07:48:55Z",
+  "generated_at": "2025-09-29T08:43:12Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,40 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "8c23a4c0443b",
+      "title": "Heisenberg said it was impossible. Scientists just proved otherwise",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095633.htm",
+      "published_at": "Sun, 28 Sep 2025 23:07:20 EDT",
+      "bullets": [
+        "• Researchers have reimagined Heisenberg’s uncertainty principle, engineering a trade-off that allows precise measurement of both position and momentum",
+        "• Using quantum computing tools like grid states and trapped ions, they demonstrated sensing precision beyond classical limits",
+        "• Such advances could revolutionize navigation, medicine, and physics "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.95
+      }
+    },
+    {
+      "id": "81ebaf8db701",
+      "title": "Miscarriages, down syndrome, and infertility all linked to this hidden DNA process",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095627.htm",
+      "published_at": "Sun, 28 Sep 2025 22:37:58 EDT",
+      "bullets": [
+        "• UC Davis researchers have uncovered how special protein networks safeguard chromosomes as eggs and sperm form, ensuring genetic stability across generations",
+        "• Breakthrough offers fresh insight into why reproductive failures happen and may open the door to improved fertility treatments",
+        "• In males, the same process produces sperm in the testes but occurs only after puberty "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
       }
     },
     {
@@ -207,40 +241,6 @@
       }
     },
     {
-      "id": "a5deff2ccda2",
-      "title": "Doctors tested a common drug on COVID. The results are stunning",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095616.htm",
-      "published_at": "Sun, 28 Sep 2025 12:03:24 EDT",
-      "bullets": [
-        "• Inhaled heparin significantly lowers the risk of death and ventilation in COVID-19 patients",
-        "• With its unique triple-action benefits, it could serve as a powerful and accessible treatment worldwide",
-        "• Heparin has anti-inflammatory and pan-antiviral properties "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "dc177d3ed79f",
-      "title": "Fruit might be the surprising key to healthier lungs",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
-      "published_at": "Sun, 28 Sep 2025 11:21:31 EDT",
-      "bullets": [
-        "• Researchers point to antioxidants and anti-inflammatory compounds in fruit as possible defenses against harmful airborne particles",
-        "• The study was presented at the European Respiratory Society Congress in Amsterdam, the Netherlands",
-        "• Over 90% of the global population is exposed to air pollution levels that exceed WHO guidelines "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.608
-      }
-    },
-    {
       "id": "34e1fd405b96",
       "title": "30 years later, I’m still obliterating planets in Master of Orion II—and you can, too",
       "outlet": "Ars Technica - All content",
@@ -272,39 +272,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "711d28808aa3",
-      "title": "The accidental discovery that forged the Iron Age",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031245.htm",
-      "published_at": "Sun, 28 Sep 2025 09:45:34 EDT",
-      "bullets": [
-        "• The accidental discovery that forged the Iron Age reveals how ancient curiosity paved the way for one of humanity’s most transformative materials",
-        "• Researchers reanalyzed metallurgical remains from a 3,000-year-old smelting workshop in Georgia "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "8702b64af83f",
-      "title": "Why “dry” oil wells aren’t really empty",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031239.htm",
-      "published_at": "Sun, 28 Sep 2025 09:18:32 EDT",
-      "bullets": [
-        "• Researchers harnessed PSC's Bridges-2 supercomputer, adding a time dimension and amplitude analysis to traditional seismic data",
-        "• Their findings revealed hidden rock structures blocking oil flow, meaning reserves weren’t gone—they were trapped",
-        "• Breakthrough could lead to smarter drilling, unlocking overlooked oil and reducing waste in energy production "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.827
       }
     },
     {
@@ -408,23 +375,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "7bf1c874ec21",
-      "title": "Autism may be the price of human intelligence",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031224.htm",
-      "published_at": "Sun, 28 Sep 2025 01:44:59 EDT",
-      "bullets": [
-        "• Specific neurons in the outer brain evolved rapidly, and autism-linked genes changed under natural selection",
-        "• These shifts may have slowed brain development in children while boosting language and cognition",
-        "• Globally, the World Health Organization estimates that around one in 100 children have autism "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     },
     {
@@ -550,20 +500,38 @@
       }
     },
     {
+      "id": "fa9a49e998a8",
+      "title": "Cleveland Fed’s Hammack warns of 'challenging time' amid inflation worries",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/cleveland-feds-beth-hammack-on-interest-rates-inflation-and-tariffs.html",
+      "published_at": "Mon, 29 Sep 2025 08:36:31 GMT",
+      "bullets": [
+        "• U.S",
+        "• central bank faces challenges as it attempts to balance inflation or protecting jobs",
+        "• Cleveland Federal Reserve President Beth Hammack: \"We have been missing our mandate on the inflation side\" Stronger-than-expected economic data appears to have dented Wall Street's hopes for sharp rate cuts "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
       "id": "ae7535c829db",
       "title": "Singapore denies entry to exiled HK pro-democracy activist",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c8rv1r11y30o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 05:44:59 GMT",
+      "published_at": "Mon, 29 Sep 2025 08:01:57 GMT",
       "bullets": [
         "• Singapore denies entry to exiled Hong Kong pro-democracy activist",
-        "• Mr Law is wanted by Hong Kong authorities who have accused him of endangering national security",
-        "• Singapore is known to be cautious about foreign politics, saying it \"takes a strong stand against the importation of politics\""
+        "• Law is one of eight people accused of endangering national security",
+        "• Law was due to attend a \"closed-door, invitation-only\" conference in Singapore on Saturday",
+        "• Singapore has an extradition treaty with Hong Kong "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.959
+        "score": 0.996
       }
     },
     {
@@ -601,21 +569,39 @@
       }
     },
     {
+      "id": "35475fa2a1e3",
+      "title": "Earth was born dry until a cosmic collision made it a blue planet",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
+      "published_at": "Mon, 29 Sep 2025 03:39:31 EDT",
+      "bullets": [
+        "• Earth was born dry until a cosmic collision made it a blue planet",
+        "• Initially, the planet was barren and inhospitable, missing water and carbon compounds",
+        "• A colossal collision with Theia likely changed everything, bringing the essential ingredients for life",
+        "• Study highlights that habitability may hinge on rare chance events "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.623
+      }
+    },
+    {
       "id": "b00ac9a6aef0",
       "title": "Death toll rises to four after Michigan church shooting and arson attack",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 29 Sep 2025 03:39:05 GMT",
       "bullets": [
-        "• Gunman drove a vehicle into a church, opened fire and set the building ablaze, police say",
+        "• Gunman drove a vehicle into a church in Grand Blanc, Michigan, before opening fire, police say",
+        "• He then set the building ablaze before being shot dead by police in the building's car park",
         "• Two more people have been found dead and \"some\" others remain unaccounted for",
-        "• The suspect, identified as Thomas Jacob Sanford, 40, was shot dead by police in the church car park",
-        "• Authorities are investigating the incident as an \"act of targeted violence\""
+        "• Police say motive for the attack is still unclear "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.998
       }
     },
     {
@@ -633,23 +619,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.959
-      }
-    },
-    {
-      "id": "17a36ad948c2",
-      "title": "Sony Financial Group shares soar 36% in trading debut as Asia markets mostly rise",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/asia-pacific-markets-nikkei-225-kospi-asx-200.html",
-      "published_at": "Mon, 29 Sep 2025 02:52:31 GMT",
-      "bullets": [
-        "• Shares in Sony Financial Group rose 36% on market debut Monday after parent company Sony Group spun off the unit",
-        "• Sony said separation allows the financial arm to raise its own growth capital while maintaining brand ties with the wider Sony ecosystem",
-        "• The parent company cited competing demands for investment in entertainment and semiconductors as a key reason for the financial unit to operate independently "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.965
       }
     },
     {
@@ -688,6 +657,23 @@
       }
     },
     {
+      "id": "031f24d4fa00",
+      "title": "Black hole discovery confirms Einstein and Hawking were right",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095645.htm",
+      "published_at": "Mon, 29 Sep 2025 00:56:28 EDT",
+      "bullets": [
+        "• New observations of a merger of two black holes confirm decades-old predictions by Albert Einstein, Stephen Hawking and Roy Kerr",
+        "• Scientists tracked the complete cosmic collision, confirming that black holes are defined by mass and spin",
+        "• They also gained stronger proof that a black hole’s event horizon only grows, echoing thermodynamic laws "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      }
+    },
+    {
       "id": "e596ad7813c1",
       "title": "Trump news at a glance: more than 100,000 federal workers to quit on Tuesday in largest ever mass resignation",
       "outlet": "US news | The Guardian",
@@ -717,6 +703,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
+      }
+    },
+    {
+      "id": "d42e115f1680",
+      "title": "Fossils in germany reveal a Jurassic sea monster with a swordfish snout",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095639.htm",
+      "published_at": "Mon, 29 Sep 2025 00:02:48 EDT",
+      "bullets": [
+        "• Fossils in germany reveal a Jurassic sea monster with a swordfish snout",
+        "• Discovery underscores Mistelgau’s global significance as a Jurassic fossil site",
+        "• The marine reptile had a dramatic overbite similar to swordfish and unique skeletal traits that set it apart from other species "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     },
     {
