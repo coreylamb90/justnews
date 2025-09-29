@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T17:29:23Z",
+  "generated_at": "2025-09-29T17:46:46Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -159,20 +159,54 @@
       }
     },
     {
+      "id": "06828fc8ffc8",
+      "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
+      "published_at": "Mon, 29 Sep 2025 17:40:35 GMT",
+      "bullets": [
+        "• EA's stock climbed 5% on Monday",
+        "• The deal is the latest in a \"recent gaming spree\" by the Saudi PIF, analysts say",
+        "• The Public Investment Fund of Saudi Arabia is rolling over its 9.9% stake in the company "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      }
+    },
+    {
+      "id": "30c10b1c629b",
+      "title": "Labor Dept. won't release Friday's key jobs report, other data if government shuts down",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/bls-wont-be-releasing-data-including-fridays-key-jobs-report-in-case-of-a-shutdown.html",
+      "published_at": "Mon, 29 Sep 2025 17:32:42 GMT",
+      "bullets": [
+        "• The Labor Department is preparing for what would amount to a news and data blackout",
+        "• The DOL, in conjunction with the Bureau of Labor Statistics, has several key reports upcoming that will provide important clues about the direction of the economy",
+        "• On Friday, the BLS will release the monthly nonfarm payrolls report and the consumer price index "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.852
+      }
+    },
+    {
       "id": "cc61fc22a90d",
       "title": "Donald Trump ‘very confident’ ceasefire deal can be reached as he meets Benjamin Netanyahu – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 17:14:32 GMT",
+      "published_at": "Mon, 29 Sep 2025 17:20:14 GMT",
       "bullets": [
-        "• Netanyahu apologizes to Qatar over Doha attack while at White House – reports",
-        "• Netanyahu apologized to Sheikh Mohammed bin Abdulrahman al-Thani for violating Qatar’s sovereignty in carrying out the strike and expressed regret for killing a civilian",
-        "• Netanyahu did not, however, say he was sorry for targeting Hamas "
+        "• Netanyahu apologizes to Qatar over Doha attack while at White House",
+        "• Netanyahu did not, however, say he was sorry for targeting Hamas, according to reports",
+        "• New York Times reports that a Qatari team is also at the White House as part of the effort to achieve a deal "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.851
+        "score": 0.974
       }
     },
     {
@@ -216,14 +250,14 @@
       "url": "https://www.theguardian.com/world/2025/sep/29/wildfire-in-namibia-is-contained-says-pm-after-criticism-of-response",
       "published_at": "Mon, 29 Sep 2025 16:41:21 GMT",
       "bullets": [
-        "• Fire broke out in Etosha national park, in Namibia’s north, on 22 September",
+        "• The fire broke out in Etosha national park, in Namibia's north, on 22 September",
         "• The government said it suspected charcoal production next to the park was to blame",
-        "• It said more than 775,000 hectares inside the park had been burned and another 171,000 outside it "
+        "• It said 49 soldiers were being deployed to fight the fires and a further 500 on Sunday "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.984
       }
     },
     {
@@ -278,23 +312,6 @@
       }
     },
     {
-      "id": "30c10b1c629b",
-      "title": "Labor Department won't release Friday's key jobs report, other data, in case of a shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/bls-wont-be-releasing-data-including-fridays-key-jobs-report-in-case-of-a-shutdown.html",
-      "published_at": "Mon, 29 Sep 2025 16:19:44 GMT",
-      "bullets": [
-        "• The Labor Department is preparing for what would amount to a news and data blackout",
-        "• The DOL, in conjunction with the Bureau of Labor Statistics, has several key reports upcoming that will provide important clues about the direction of the economy",
-        "• On Friday, the BLS will release the monthly nonfarm payrolls report and the consumer price index "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.964
-      }
-    },
-    {
       "id": "ce1bc258f035",
       "title": "Fortnite disables Peacemaker emote that might resemble a swastika",
       "outlet": "Ars Technica - All content",
@@ -309,23 +326,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.963
-      }
-    },
-    {
-      "id": "06828fc8ffc8",
-      "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
-      "published_at": "Mon, 29 Sep 2025 15:50:33 GMT",
-      "bullets": [
-        "• The Public Investment Fund of Saudi Arabia, Silver Lake and Affinity Partners will buy EA in an all-cash deal worth $55 billion",
-        "• Shareholders will receive $210 per share in cash",
-        "• The deal is set to be the largest leveraged buyout in Wall Street history "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
@@ -521,15 +521,14 @@
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/29/nx-s1-5554865/tylenol-autism-lawsuit-kenvue-trump",
       "published_at": "Mon, 29 Sep 2025 12:34:48 -0400",
       "bullets": [
-        "• President Donald Trump says Tylenol can be linked to autism in children",
-        "• Lawsuits against the drug have been filed against it",
-        "• The drug could be used in lawsuits against the manufacturer of the drug",
-        "• The FDA is set to begin the process of updating the label on Monday "
+        "• Lawsuits against Tylenol's maker get a boost after President Trump's comments on the drug linked to autism",
+        "• The drug could play a role in ongoing legal cases against the maker of the drug",
+        "• One lawyer says he has received calls from people who say they were harmed by the drug from potential clients "
       ],
       "category": "General",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.583
+        "label": "negative",
+        "score": 0.945
       }
     },
     {
