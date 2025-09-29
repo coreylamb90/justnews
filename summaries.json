@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T22:47:02Z",
+  "generated_at": "2025-09-29T23:29:09Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -142,6 +142,24 @@
       }
     },
     {
+      "id": "cc61fc22a90d",
+      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 23:01:43 GMT",
+      "bullets": [
+        "• House speaker Mike Johnson wants more time for negotiations as JD Vance blames Democrats over potential shutdown",
+        "• Governor of Illinois said Monday it appeared the federal government would deploy 100 troops to protect U.S",
+        "• Immigration and Customs Enforcement personnel and facilities",
+        "• An immigration processing center has been the site of frequent protests and aggressive tactics by federal agents "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
       "id": "7a198c8c2268",
       "title": "Wealthfront files for IPO, joining wave of fintech firms going public in 2025",
       "outlet": "US Top News and Analysis",
@@ -175,23 +193,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 22:27:48 GMT",
-      "bullets": [
-        "• Mike Johnson wants more time for negotiations as JD Vance blames Democrats over shutdown",
-        "• Louisiana issued a warrant for a California-based doctor accused of mailing abortion pills to the red state",
-        "• The warrant is part of a burgeoning effort by anti-abortion activists and red states to target telemedicine abortion, which now accounts for one in four US abortions "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.902
       }
     },
     {
@@ -397,6 +398,25 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
+      }
+    },
+    {
+      "id": "6899783c85e1",
+      "title": "YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
+      "published_at": "Mon, 29 Sep 2025 19:16:56 -0400",
+      "bullets": [
+        "• YouTube agrees to pay Trump $24.5 million to settle lawsuit over Jan",
+        "• 6, 2021",
+        "• YouTube parent company Google will dedicate $22 million of the settlement toward the construction of a $200 million Mar-a-Lago-style ballroom in the White House",
+        "• It's the latest settlement reached by a tech company sued by Trump in the wake of the Capitol riots",
+        "• Free speech experts have said the suits brought by Trump did not raise credible legal claims "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -675,23 +695,6 @@
       }
     },
     {
-      "id": "1620f60f46d4",
-      "title": "Sen. Amy Klobuchar talks about the potential for a government shutdown",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5554358/sen-amy-klobuchar-talks-about-the-potential-for-a-government-shutdown",
-      "published_at": "Mon, 29 Sep 2025 06:26:26 -0400",
-      "bullets": [
-        "• Sen",
-        "• Amy Klobuchar, D-Minn., talks about the negotiations happening on Capitol Hill and at the White House over a potential government shutdown",
-        "• She says the president has failed to negotiate with leaders, and it's going to be his decision, and that's a serious crisis that's going on right now with health care "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.769
-      }
-    },
-    {
       "id": "174b1a88a52d",
       "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
       "outlet": "NPR Topics: Science",
@@ -777,6 +780,40 @@
       }
     },
     {
+      "id": "0391bea76f34",
+      "title": "YouTube caves to Trump with $24.5 million settlement",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement",
+      "published_at": "2025-09-29T19:16:33-04:00",
+      "bullets": [
+        "• YouTube has settled a lawsuit President Donald Trump filed against the company in 2021",
+        "• Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook) and X (then Twitter) after he was suspended from the platforms",
+        "• YouTube, like Meta and X, is paying to end Trump’s lawsuit over content moderation decisions following the January 6th insurrection at the Capitol "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      }
+    },
+    {
+      "id": "d0cbc5144783",
+      "title": "SB 53, the landmark AI transparency bill, is now law in California",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
+      "published_at": "2025-09-29T19:01:43-04:00",
+      "bullets": [
+        "• Senate Bill 53, the landmark AI transparency bill, is now law in California",
+        "• The hotly-debated legislation establishes safety reporting requirements for large AI companies",
+        "• It's the second draft of such a bill, as California governor Gavin Newsom vetoed the first version last year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.603
+      }
+    },
+    {
       "id": "426390eba937",
       "title": "Microsoft is bringing its Windows engineering teams back together again",
       "outlet": "The Verge",
@@ -823,39 +860,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.993
-      }
-    },
-    {
-      "id": "9f0722a955b1",
-      "title": "PlayStation is getting a big, fancy art book full of unused designs",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes",
-      "published_at": "2025-09-29T17:00:20-04:00",
-      "bullets": [
-        "• PlayStation: The First 30 Years will be released in spring 2026",
-        "• It's been 30 years since the original PlayStation console was released in North America and Europe",
-        "• The book includes photos of prototypes of controllers and consoles the public hasn't seen before "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
-      "id": "1cd95cb368fe",
-      "title": "The best AirPods to buy",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
-      "published_at": "2025-09-29T16:00:00-04:00",
-      "bullets": [
-        "• There are currently four AirPods models to choose from, each with its own appeal and upside",
-        "• Amazon’s fall Prime Day event kicks off on October 7th; if you want to shop ahead of the two-day sale, we’ve rounded up the best early Prime Day deals you can already get "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
       }
     }
   ]
