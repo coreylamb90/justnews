@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T03:16:47Z",
+  "generated_at": "2025-09-29T03:59:14Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -603,11 +603,29 @@
       }
     },
     {
+      "id": "b00ac9a6aef0",
+      "title": "Four killed in shooting and arson attack at Mormon church in Michigan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 03:39:05 GMT",
+      "bullets": [
+        "• Four killed in shooting and arson attack at Mormon church in Michigan",
+        "• Gunman drove vehicle into church, opened fire and set it ablaze, police say",
+        "• Thomas Jacob Sanford, 40, was later shot dead by police in the church car park",
+        "• Police are investigating the incident as an \"act of targeted violence\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      }
+    },
+    {
       "id": "1368b782a514",
       "title": "China’s stock market has been on a roll — is it a boom or a bubble?",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/29/china-market-rally-boom-bubble-tech-ai.html",
-      "published_at": "Mon, 29 Sep 2025 03:11:43 GMT",
+      "published_at": "Mon, 29 Sep 2025 03:35:08 GMT",
       "bullets": [
         "• China's stock market has seen a sharp rally this year as progress on artificial-intelligence and Beijing's campaign to rein in price wars fuel investor optimism",
         "• The CSI 300 Information Technology Index last week hit its highest level since 2015",
@@ -634,23 +652,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.965
-      }
-    },
-    {
-      "id": "b00ac9a6aef0",
-      "title": "At least four dead and several injured in shooting at Mormon church in Michigan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 02:34:39 GMT",
-      "bullets": [
-        "• At least four dead and several injured in shooting at Mormon church in Michigan",
-        "• Gunman drove a vehicle into the church, opened fire and set the building ablaze, police say",
-        "• Suspect, identified as Thomas Jacob Sanford, 40, was later shot dead by police in the church car park "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
       }
     },
     {
