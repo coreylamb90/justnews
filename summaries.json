@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T23:29:09Z",
+  "generated_at": "2025-09-29T23:46:40Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -50,6 +50,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.986
+      }
+    },
+    {
+      "id": "eb57e9ca09a9",
+      "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+      "published_at": "Sun, 11 Dec 2022 16:16:48 GMT",
+      "bullets": [
+        "• The White House has a long list of issues facing the nation's first two years of Congress",
+        "• President Barack Obama and his staff are working on a bipartisan agenda",
+        "• They say it's important to keep the public eye on what's happening in the U.S"
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     },
     {
@@ -146,17 +163,50 @@
       "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 23:01:43 GMT",
+      "published_at": "Mon, 29 Sep 2025 23:27:00 GMT",
       "bullets": [
-        "• House speaker Mike Johnson wants more time for negotiations as JD Vance blames Democrats over potential shutdown",
-        "• Governor of Illinois said Monday it appeared the federal government would deploy 100 troops to protect U.S",
-        "• Immigration and Customs Enforcement personnel and facilities",
-        "• An immigration processing center has been the site of frequent protests and aggressive tactics by federal agents "
+        "• House Speaker Mike Johnson wants more time for negotiations",
+        "• Vice-president JD Vance says Congress is heading towards a shutdown because Democrats “won’t do” the right thing",
+        "• California Republicans are worried about how little money they have raised to try to block Democratic Governor Gavin Newsom’s campaign to get voters approval to redraw election maps "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
+      }
+    },
+    {
+      "id": "323e0c1f5acf",
+      "title": "Trump obtains another settlement as YouTube agrees to pay $24.5 million",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/09/youtube-pays-24-5m-to-settle-trump-lawsuit-over-january-2021-suspension/",
+      "published_at": "Mon, 29 Sep 2025 23:08:33 +0000",
+      "bullets": [
+        "• Google owner Alphabet agrees to pay $24.5 million to settle lawsuit filed by President Trump in 2021",
+        "• Trump sued YouTube over his account being suspended after January 6, 2021, attack on US Capitol",
+        "• Trump directed $22 million to be contributed to the Trust for the National Mall, a 501(c)(3) tax-exempt entity, to support the construction of the White House State Ballroom "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      }
+    },
+    {
+      "id": "db7c1bf2dc47",
+      "title": "Another setback for Firefly Aerospace’s beleaguered rocket program",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/09/after-another-fiery-setback-it-seems-fireflys-alpha-rocket-is-still-in-beta/",
+      "published_at": "Mon, 29 Sep 2025 22:42:01 +0000",
+      "bullets": [
+        "• The booster stage for Firefly Aerospace's next Alpha rocket was destroyed Monday in a fiery accident on the company's test stand in Texas",
+        "• Engineers were testing the rocket before shipment to Vandenberg Space Force Base, California, to prepare for launch later this year",
+        "• The rocket was undergoing test-firings of the booster's four kerosene-fueled engines "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
       }
     },
     {
@@ -403,7 +453,7 @@
     {
       "id": "6899783c85e1",
       "title": "YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
       "published_at": "Mon, 29 Sep 2025 19:16:56 -0400",
       "bullets": [
@@ -413,28 +463,10 @@
         "• It's the latest settlement reached by a tech company sued by Trump in the wake of the Capitol riots",
         "• Free speech experts have said the suits brought by Trump did not raise credible legal claims "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "d558f7c9f537",
-      "title": "F-Droid says Google’s new sideloading restrictions will kill the project",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/",
-      "published_at": "Mon, 29 Sep 2025 19:09:24 +0000",
-      "bullets": [
-        "• F-Droid is the largest app store for Android software",
-        "• Google recently announced plans to force app developers to verify their apps",
-        "• Apps that have not been validated by the company will not be installed on any Android device",
-        "• F-Froid says the move will not stop apps from being installed in the Play Store "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -468,23 +500,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.959
-      }
-    },
-    {
-      "id": "ce772e4021b7",
-      "title": "ESA will pay an Italian company nearly $50 million to design a mini-Starship",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/09/esa-will-pay-an-italian-company-nearly-50-million-to-design-a-mini-starship/",
-      "published_at": "Mon, 29 Sep 2025 17:42:09 +0000",
-      "bullets": [
-        "• The European Space Agency signs a deal with Avio to design a reusable upper stage",
-        "• The deal is part of an effort to replicate SpaceX's success with the Falcon 9",
-        "• The European deal is worth $47 million and is the latest in a long line of work done by SpaceX "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
       }
     },
     {
@@ -605,23 +620,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.844
-      }
-    },
-    {
-      "id": "364a8231e29c",
-      "title": "Police say 'everyone has been accounted for' in Michigan church attack that killed 4",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5556928/thomas-jacob-sanford-michigan-church-shooting",
-      "published_at": "Mon, 29 Sep 2025 12:36:09 -0400",
-      "bullets": [
-        "• Police say 'everyone has been accounted for' in Michigan church attack that killed 4 and injured 8",
-        "• Authorities are not aware of any other possible victims still missing",
-        "• The FBI is investigating the attack as an \"act of targeted violence\" The attack unfolded Sunday morning during a Church of Jesus Christ of Latter-day Saints service "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -787,7 +785,7 @@
       "published_at": "2025-09-29T19:16:33-04:00",
       "bullets": [
         "• YouTube has settled a lawsuit President Donald Trump filed against the company in 2021",
-        "• Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook) and X (then Twitter) after he was suspended from the platforms",
+        "• Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook), and X (then Twitter) after he was suspended from the platforms",
         "• YouTube, like Meta and X, is paying to end Trump’s lawsuit over content moderation decisions following the January 6th insurrection at the Capitol "
       ],
       "category": "Technology",
