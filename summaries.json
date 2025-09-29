@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T10:51:48Z",
+  "generated_at": "2025-09-29T11:30:30Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -49,23 +49,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
-      }
-    },
-    {
-      "id": "1de12304bf73",
-      "title": "US citizen released by Taliban after nine-month detention",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgv1y989xjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 20:53:16 GMT",
-      "bullets": [
-        "• Amir Amiry is the fifth American to be freed from detention in Afghanistan this year",
-        "• US Secretary of State Marco Rubio thanked Qatar for its \"tireless diplomatic efforts\" The reason for Mr Amiry's detention remains unclear",
-        "• He was on his way back to the US on Sunday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.922
       }
     },
     {
@@ -367,16 +350,84 @@
       "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 10:41:13 GMT",
+      "published_at": "Mon, 29 Sep 2025 11:15:22 GMT",
       "bullets": [
-        "• Donald Trump will meet with Israeli Prime Minister Benjamin Netanyahu at the White House on Monday",
-        "• It is Netanyahu's fourth visit to Washington since returning to office in January",
-        "• The Israeli leader will be looking to shore up his country’s most important relationship with the United States "
+        "• Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House",
+        "• US president pushing a Gaza peace proposal after a slew of western leaders embraced Palestinian statehood",
+        "• Netanyahu will be looking to shore up his country’s most important relationship as it faces growing international isolation "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
+        "score": 0.851
+      }
+    },
+    {
+      "id": "94163a2250e1",
+      "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 11:14:42 GMT",
+      "bullets": [
+        "• Moldova's pro-EU party wins vote mired in claims of Russian interference",
+        "• Maia Sandu's Party of Action and Solidarity secured about 50% of the vote",
+        "• Opposition leader Igor Dodon had claimed victory even before results came in "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      }
+    },
+    {
+      "id": "dbad35df3532",
+      "title": "Typhoon kills at least 11 as it sweeps through Vietnam",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9317l81xz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 11:02:58 GMT",
+      "bullets": [
+        "• Typhoon Bualoi has killed at least 11 people and damaged or destroyed hundreds of homes in the centre and north of Vietnam, state media reported",
+        "• Dozens are missing or injured after the typhoon made landfall on Sunday night, flooding roads, washing away bridges and tearing roofs off buildings",
+        "• Typhoon has already killed more than 20 people in the Philippines since Friday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
         "score": 0.993
+      }
+    },
+    {
+      "id": "ae7535c829db",
+      "title": "Singapore denies entry to exiled HK pro-democracy activist",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8rv1r11y30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 11:00:44 GMT",
+      "bullets": [
+        "• Singapore denies entry to exiled Hong Kong pro-democracy activist",
+        "• Law is one of eight people accused of endangering national security",
+        "• Law was due to attend a \"closed-door, invitation-only\" conference in Singapore on Saturday",
+        "• Singapore has an extradition treaty with Hong Kong "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "7a4b6bac4c7a",
+      "title": "Pastor linked to Lutheran church group also linked to neo-Confederate movement",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/pastor-john-eidsmoe-lutheran-lutheran-church-missouri-synod-neo-confederate",
+      "published_at": "Mon, 29 Sep 2025 11:00:27 GMT",
+      "bullets": [
+        "• Colonel John Eidsmoe has a history of associations with the neo-Confederate movement, including speaking dates for prominent neo-confederate groups, and public defenses of the Confederacy and Confederate monuments",
+        "• The LCMS is the second-largest Lutheran body in the United States after the Evangelical Lutheran Church in America (ELCA)"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
       }
     },
     {
@@ -431,38 +482,55 @@
       }
     },
     {
-      "id": "94163a2250e1",
-      "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 08:54:55 GMT",
+      "id": "88c9374287a2",
+      "title": "The latest on the Michigan church shooting. And, Trump's new plan to end war in Gaza",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/g-s1-91016/up-first-newsletter-michigan-church-shooting-government-shutdown-israel-gaza",
+      "published_at": "Mon, 29 Sep 2025 07:11:39 -0400",
       "bullets": [
-        "• Moldova's pro-EU party wins vote mired in claims of Russian interference",
-        "• President Maia Sandu's Party of Action and Solidarity secured 50% of the vote",
-        "• Opposition leader Igor Dodon called for protests outside parliament on Monday "
+        "• The latest on the Michigan church shooting",
+        "• An unknown number of people are unaccounted for",
+        "• The gunman, 40-year-old Thomas Jacob Sanford, was killed after exchanging gunfire with two law enforcement officers",
+        "• Four top congressional leaders, two from each party, are scheduled to meet with President Trump today "
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.79
+        "label": "positive",
+        "score": 0.768
       }
     },
     {
-      "id": "ae7535c829db",
-      "title": "Singapore denies entry to exiled HK pro-democracy activist",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8rv1r11y30o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 08:01:57 GMT",
+      "id": "131d29b7d676",
+      "title": "Overseas Hong Kong pro-democracy activist Nathan Law denied entry to Singapore",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5556821/overseas-hong-kong-pro-democracy-activist-nathan-law-denied-entry-to-singapore",
+      "published_at": "Mon, 29 Sep 2025 06:56:02 -0400",
       "bullets": [
-        "• Singapore denies entry to exiled Hong Kong pro-democracy activist",
-        "• Law is one of eight people accused of endangering national security",
-        "• Law was due to attend a \"closed-door, invitation-only\" conference in Singapore on Saturday",
-        "• Singapore has an extradition treaty with Hong Kong "
+        "• Hong Kong activist Nathan Law says he was denied entry to Singapore for what he presumes were political reasons",
+        "• Law is one of a number of Hong Kong activists who have left the city in recent years",
+        "• Hong Kong police have issued a warrant for Law's arrest under the city's National Security Law "
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.989
+      }
+    },
+    {
+      "id": "1620f60f46d4",
+      "title": "Sen. Amy Klobuchar talks about the potential for a government shutdown",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5554358/sen-amy-klobuchar-talks-about-the-potential-for-a-government-shutdown",
+      "published_at": "Mon, 29 Sep 2025 06:26:26 -0400",
+      "bullets": [
+        "• Sen",
+        "• Amy Klobuchar talks about the potential for a government shutdown September 29, 20256:26 AM ET Heard on Morning Edition on NPR's Morning Edition",
+        "• Listen to the full transcript of this week's episode of The Daily Discussion "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.905
       }
     },
     {
@@ -480,23 +548,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.977
-      }
-    },
-    {
-      "id": "174b1a88a52d",
-      "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5544386/jumping-spider-pet-spoods",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Thousands of jumping spiders are being flooded with requests from people who want to keep them as pets",
-        "• Social media videos of the spiders' antics have been viewed millions of times on YouTube",
-        "• Some women are trying to overcome their fear of spiders, while others are simply enchanted by their unexpected cuteness "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
       }
     },
     {
@@ -518,38 +569,20 @@
       }
     },
     {
-      "id": "47c0e49bd42c",
-      "title": "She felt abandoned — until a teacher's hug reminded her she wasn't alone",
+      "id": "174b1a88a52d",
+      "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5554529/she-felt-abandoned-until-a-teachers-hug-reminded-her-she-wasnt-alone",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5544386/jumping-spider-pet-spoods",
       "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
       "bullets": [
-        "• When Tanya Eby was in sixth grade, her friends told her she was no longer cool enough to hang out with them",
-        "• She broke down in tears when her teacher found out what was wrong",
-        "• Eby's mom and stepfather left her to live with her dad, and her brother also left "
+        "• Thousands of jumping spiders are being flooded with requests from people who want to keep them as pets",
+        "• Social media videos of the spiders' antics have been viewed millions of times on YouTube",
+        "• Some women are trying to overcome their fear of spiders, while others are simply enchanted by their unexpected cuteness "
       ],
       "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "cca3d1f4eab4",
-      "title": "Neglected form of diabetes with unusual symptoms finally gets its own name",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/09/29/g-s1-90669/neglected-form-of-diabetes-with-unusual-symptoms-finally-gets-its-own-name",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• British physician Philip Hugh-Jones was flummoxed by 13 patients who showed up at a diabetes clinic near Kingston, Jamaica",
-        "• The patients were young, thin and undernourished",
-        "• They never experienced a common symptom of Type 1 diabetes, ketoacidosis",
-        "• But they didn't seem to be Type 2 diabetics either, who tend to be overweight "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "positive",
+        "score": 0.998
       }
     },
     {
@@ -559,16 +592,14 @@
       "url": "https://www.npr.org/2025/09/29/g-s1-90959/congress-leaders-white-house-shutdown",
       "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
       "bullets": [
-        "• Top congressional leaders head to the White House ahead of shutdown deadline",
-        "• Meeting comes ahead of a Sept",
-        "• 30 deadline to fund the government and avoid a shutdown",
-        "• House Republicans narrowly passed a bill earlier this month that would fund government through Nov",
-        "• 21"
+        "• Top congressional leaders head to White House ahead of shutdown deadline",
+        "• Meeting with Senate Minority Leader Chuck Schumer, D-N.Y., House Speaker Mike Johnson, R-La., and House Minority Leader Hakeem Jeffries",
+        "• Meeting comes after President Trump canceled a planned meeting last week "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.792
+        "score": 0.668
       }
     },
     {
@@ -656,21 +687,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.826
-      }
-    },
-    {
-      "id": "995b8af23656",
-      "title": "Oregon sues to block ‘illegal’ deployment of 200 national guard troops to Portland",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/oregon-trump-national-guard-troops-portland",
-      "published_at": "Mon, 29 Sep 2025 00:04:27 GMT",
-      "bullets": [
-        "• The state of Oregon filed a lawsuit in federal court on Sunday seeking to block the deployment of 200 national guard troops to Portland, arguing Donald Trump’s characterization of the peaceful city as “war ravaged” is “pure fiction” The governor of Oregon said she had been notified by the Pentagon that the US president had seized control of the state's reservists "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -840,23 +856,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.996
-      }
-    },
-    {
-      "id": "8113583c1aab",
-      "title": "Margins of Error",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/margins-of-error",
-      "published_at": null,
-      "bullets": [
-        "• This season on Margins of Error, Harry teases out big ideas like what accents say about where we live, how much money it takes to be happy, and whether the U.S",
-        "• should finally switch to the metric system",
-        "• Harry talks to some very smart people who are doing their best to optimize the way we travel "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
       }
     }
   ]
