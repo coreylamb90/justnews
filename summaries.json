@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T09:37:01Z",
+  "generated_at": "2025-09-29T09:54:38Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -120,23 +120,6 @@
       }
     },
     {
-      "id": "6bd2ebd85c6c",
-      "title": "A Universal-DreamWorks movie is bringing the winning formula of kids content frenzy to the big screen",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/gabbys-dollhouse-movie-kid-content-frenzy.html",
-      "published_at": "Sun, 28 Sep 2025 14:56:15 GMT",
-      "bullets": [
-        "• Universal and DreamWorks Animation's \"Gabby's Dollhouse: The Movie\" is the latest kid's TV show to head to the box office",
-        "• It's been the most-viewed streaming original series for kids this year, according to Nielsen",
-        "• The movie follows in the footsteps of Paw Patrol and SpongeBob SquarePants "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      }
-    },
-    {
       "id": "c9026a904af6",
       "title": "Namibia deploys army to fight wildfire burning third of Etosha game reserve",
       "outlet": "World news | The Guardian",
@@ -151,6 +134,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.985
+      }
+    },
+    {
+      "id": "baa615acfd47",
+      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
+      "published_at": "Sun, 28 Sep 2025 11:45:51 GMT",
+      "bullets": [
+        "• The Pentagon took an equity stake in MP Materials, the largest U.S",
+        "• rare earth miner, in July",
+        "• The White House is \"not ruling out other deals with equity stakes or price floors,\" a White House official says",
+        "• Rare earths are key inputs in weapons platforms such as the F-35 warplane "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.551
       }
     },
     {
@@ -203,22 +204,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.908
-      }
-    },
-    {
-      "id": "0aa11e903bdb",
-      "title": "Politics chat: Trump says he'll deploy troops to Portland, James Comey indicted",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5553310/politics-chat-trump-says-hell-deploy-troops-to-portland-james-comey-indicted",
-      "published_at": "Sun, 28 Sep 2025 08:04:34 -0400",
-      "bullets": [
-        "• Politics chat: Trump says he'll deploy troops to Portland, Oregon, to handle \"domestic terrorists\" Former FBI Director James Comey has been indicted by the Justice Department",
-        "• A government shutdown could come Wednesday and the Trump administration is threatening large-scale layoffs of federal workers "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
       }
     },
     {
@@ -430,6 +415,40 @@
       }
     },
     {
+      "id": "fa9a49e998a8",
+      "title": "Cleveland Fed’s Hammack warns of 'challenging time' amid inflation worries",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/cleveland-feds-beth-hammack-on-interest-rates-inflation-and-tariffs.html",
+      "published_at": "Mon, 29 Sep 2025 09:50:14 GMT",
+      "bullets": [
+        "• U.S",
+        "• central bank faces challenges as it attempts to balance inflation or protecting jobs",
+        "• Cleveland Federal Reserve President Beth Hammack: \"We have been missing our mandate on the inflation side\" Stronger-than-expected economic data appears to have dented Wall Street's hopes for sharp rate cuts "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "35091cd6f63b",
+      "title": "Denmark bans all civilian drone flights ahead of European summit",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 09:45:12 GMT",
+      "bullets": [
+        "• Denmark bans all civilian drone flights ahead of European summit in Copenhagen",
+        "• The ban will remain in place until 3 October, and violations could be punishable by up to two years",
+        "• Denmark is one of several European countries that have reported sightings of drones in recent weeks "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
       "id": "94163a2250e1",
       "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
       "outlet": "BBC News",
@@ -444,23 +463,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.79
-      }
-    },
-    {
-      "id": "fa9a49e998a8",
-      "title": "Cleveland Fed’s Hammack warns of 'challenging time' amid inflation worries",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/cleveland-feds-beth-hammack-on-interest-rates-inflation-and-tariffs.html",
-      "published_at": "Mon, 29 Sep 2025 08:54:12 GMT",
-      "bullets": [
-        "• U.S",
-        "• central bank faces challenges as it attempts to balance inflation or protecting jobs",
-        "• Cleveland Federal Reserve President Beth Hammack: \"We have been missing our mandate on the inflation side\" Stronger-than-expected economic data appears to have dented Wall Street's hopes for sharp rate cuts "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -479,6 +481,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
+      }
+    },
+    {
+      "id": "f05397503782",
+      "title": "Moldova's pro-EU party wins clear parliamentary majority, defeating pro-Russian groups",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5556800/moldova-pro-eu-party-wins-elections-russia",
+      "published_at": "Mon, 29 Sep 2025 05:41:54 -0400",
+      "bullets": [
+        "• Moldova's pro-EU party wins clear parliamentary majority, defeating pro-Russian groups",
+        "• Electoral data indicate the party will hold a clear majority of about 55 of the 101 seats in the legislature",
+        "• The election was widely viewed as a geopolitical choice: between a path to the European Union or a drift back into Moscow's fold "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.977
       }
     },
     {
@@ -553,7 +572,7 @@
     {
       "id": "174b1a88a52d",
       "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5544386/jumping-spider-pet-spoods",
       "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
       "bullets": [
@@ -561,7 +580,7 @@
         "• Social media videos of the spiders' antics have been viewed millions of times on YouTube",
         "• Some women are trying to overcome their fear of spiders, while others are simply enchanted by their unexpected cuteness "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
         "score": 0.998
@@ -582,23 +601,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.909
-      }
-    },
-    {
-      "id": "35091cd6f63b",
-      "title": "Denmark bans all civilian drone flights ahead of European summit",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 04:28:34 GMT",
-      "bullets": [
-        "• Denmark bans all civilian drone flights ahead of European summit in Copenhagen",
-        "• The ban will remain in place until 3 October, and violations could be punishable by up to two years",
-        "• Unidentified drones have been reported in Denmark since 22 September, forcing airport closures "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
