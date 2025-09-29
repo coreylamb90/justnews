@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T22:27:15Z",
+  "generated_at": "2025-09-29T22:47:02Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -142,20 +142,73 @@
       }
     },
     {
-      "id": "cc61fc22a90d",
-      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 22:07:37 GMT",
+      "id": "7a198c8c2268",
+      "title": "Wealthfront files for IPO, joining wave of fintech firms going public in 2025",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/wealthfront-fintech-ipo-filing.html",
+      "published_at": "Mon, 29 Sep 2025 22:39:25 GMT",
       "bullets": [
-        "• Mike Johnson wants more time for negotiations as JD Vance blames Democrat over potential shutdown",
-        "• Senate minority leader Chuck Schumer says he would not support a seven-to-10 day continuing resolution to temporarily keep the government open",
-        "• Trump has sunk a lot of political capital in bringing peace to the Middle East after ‘thousands of years”"
+        "• Wealthfront filed for a U.S",
+        "• initial public offering Monday",
+        "• The company helped popularize the robo-advisor style of automated investing",
+        "• It's the latest in a wave of fintech firms going public this year",
+        "• Wealthfront, led by CEO David Fortunato, had $88.2 billion in assets on its platform "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "e5eb6b1b3d93",
+      "title": "Trump talks with Democrats fail to yield breakthrough as US shutdown nears",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/trump-meeting-democrats-republicans-shutdown-tensions",
+      "published_at": "Mon, 29 Sep 2025 22:28:23 GMT",
+      "bullets": [
+        "• Democrats are refusing to support GOP legislation to keep government open beyond Tuesday unless it includes several healthcare provisions",
+        "• Republican leaders of the Senate and House of Representatives also met in the Oval Office on Monday",
+        "• But there was little sign that Republicans had shifted from their demands that Senate Democrats vote for their bill that would keep the government open "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.997
+      }
+    },
+    {
+      "id": "cc61fc22a90d",
+      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 22:27:48 GMT",
+      "bullets": [
+        "• Mike Johnson wants more time for negotiations as JD Vance blames Democrats over shutdown",
+        "• Louisiana issued a warrant for a California-based doctor accused of mailing abortion pills to the red state",
+        "• The warrant is part of a burgeoning effort by anti-abortion activists and red states to target telemedicine abortion, which now accounts for one in four US abortions "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.902
+      }
+    },
+    {
+      "id": "97988886b9e4",
+      "title": "Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2025/09/anthropic-says-its-new-ai-model-maintained-focus-for-30-hours-on-multistep-tasks/",
+      "published_at": "Mon, 29 Sep 2025 22:10:27 +0000",
+      "bullets": [
+        "• Anthropic releases Claude Sonnet 4.5, a new AI language model",
+        "• Anthropic calls it its \"most capable model to date\" with improved coding and computer use capabilities",
+        "• The company also released Claude Code 2.0, a command-line AI agent for developers, and the Claude Agent SDK "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
       }
     },
     {
@@ -176,22 +229,19 @@
       }
     },
     {
-      "id": "7a198c8c2268",
-      "title": "Wealthfront files for IPO, joining wave of fintech firms going public in 2025",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/wealthfront-fintech-ipo-filing.html",
-      "published_at": "Mon, 29 Sep 2025 21:47:26 GMT",
+      "id": "c042b5653770",
+      "title": "Sports piracy site Streameast returns after US government let domain expire",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/09/sports-piracy-site-streameast-returns-after-us-government-let-domain-expire/",
+      "published_at": "Mon, 29 Sep 2025 21:43:32 +0000",
       "bullets": [
-        "• Wealthfront filed for a U.S",
-        "• initial public offering Monday",
-        "• The company helped popularize the robo-advisor style of automated investing",
-        "• It's the latest in a wave of fintech firms going public this year",
-        "• Wealthfront, led by CEO David Fortunato, had $88.2 billion in assets on its platform "
+        "• Homeland Security Investigations (HSI) seized several domains belonging to the Streameast piracy network in August 2024",
+        "• After the seizure, trying to access those sites resulted in a pop-up from HSI stating, ‘THIS DOMAIN HAS BEEN SEIZED.”"
       ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.992
+        "label": "negative",
+        "score": 0.996
       }
     },
     {
@@ -242,6 +292,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.984
+      }
+    },
+    {
+      "id": "57e08f174e4b",
+      "title": "EA will be a very different company under private ownership",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gaming/2025/09/how-private-ownership-will-change-electronic-arts/",
+      "published_at": "Mon, 29 Sep 2025 21:07:11 +0000",
+      "bullets": [
+        "• Electronic Arts plans to sell itself to a consortium of private equity firms",
+        "• The $55 billion deal is the largest leveraged buyout in history",
+        "• The new owners will be saddled with roughly $20 billion of new debt",
+        "• The company will be on the hook for roughly $1 billion a year in service payments on that debt "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.855
       }
     },
     {
@@ -311,23 +379,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "4946ee602e08",
-      "title": "Portland braces for deployment of 200 national guard troops to city",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/portland-national-guard-trump-deployment-lawsuit",
-      "published_at": "Mon, 29 Sep 2025 19:24:54 GMT",
-      "bullets": [
-        "• Portland is bracing for the deployment of 200 national guard troops",
-        "• Oregon filed a lawsuit to block the deployment, which the state has warned will escalate tensions",
-        "• The president has frequently sought to paint the city as out of control and, as he described in September, like ‘living in hell”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
       }
     },
     {
@@ -434,24 +485,6 @@
       }
     },
     {
-      "id": "58423704b23d",
-      "title": "Senators try to halt shuttle move, saying “little evidence” of public demand",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/",
-      "published_at": "Mon, 29 Sep 2025 16:36:05 +0000",
-      "bullets": [
-        "• Sen",
-        "• Mark Kelly (D-Ariz.) flew two of his four missions aboard the Discovery",
-        "• He and three other senators want the shuttle to remain on display in the Smithsonian",
-        "• Kelly: \"Why should hundreds of millions of dollars be spent just to jeopardize a piece of American history\""
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "d3988ba46a85",
       "title": "A year after Helene, a group of raft guides embarks on a river clean-up mission",
       "outlet": "NPR Topics: News",
@@ -482,40 +515,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.988
-      }
-    },
-    {
-      "id": "ce1bc258f035",
-      "title": "Fortnite disables Peacemaker emote that might resemble a swastika",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gaming/2025/09/fortnite-disables-peacemaker-emote-that-might-resemble-a-swastika/",
-      "published_at": "Mon, 29 Sep 2025 15:55:59 +0000",
-      "bullets": [
-        "• The \"Peaceful Hips\" emote was first introduced to Fortnite on September 15",
-        "• It mirrors the opening credits sequence of the second season of the HBO show Peacemaker",
-        "• Fans have been picking up on hints of the show's eventual Nazi-related reveal "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.963
-      }
-    },
-    {
-      "id": "4271b30ed8ae",
-      "title": "Taiwan pressured to move 50% of chip production to US or lose protection",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/09/taiwan-pressured-to-move-50-of-chip-production-to-us-or-lose-protection/",
-      "published_at": "Mon, 29 Sep 2025 15:44:21 +0000",
-      "bullets": [
-        "• US Commerce Secretary Howard Lutnick says the US is pressuring Taiwan to move chip production into the US",
-        "• Taiwan currently makes about 95 percent of chips used in smartphones and cars, as well as critical military defense technology",
-        "• China is not being \"shy\" about threats to \"take\" Taiwan, he said, while the US could be defenseless as its economy takes a hit "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.938
       }
     },
     {
