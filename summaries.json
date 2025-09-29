@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T05:50:09Z",
+  "generated_at": "2025-09-29T06:45:50Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "1de12304bf73",
+      "title": "US citizen released by Taliban after nine-month detention",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgv1y989xjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 28 Sep 2025 20:53:16 GMT",
+      "bullets": [
+        "• Amir Amiry is the fifth American to be freed from detention in Afghanistan this year",
+        "• US Secretary of State Marco Rubio thanked Qatar for its \"tireless diplomatic efforts\" The reason for Mr Amiry's detention remains unclear",
+        "• He was on his way back to the US on Sunday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.922
       }
     },
     {
@@ -139,23 +156,6 @@
       }
     },
     {
-      "id": "d9b1ff3b09a6",
-      "title": "At least 40 dead in crush at political rally in India",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 14:45:15 GMT",
-      "bullets": [
-        "• At least 40 dead in crush at political rally in southern Indian state of Tamil Nadu",
-        "• Victims included nine children, at least 17 women, and 13 men, officials say",
-        "• Police have filed a case against three senior members of Vijay's TVK party "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
       "id": "33d1688709af",
       "title": "Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy",
       "outlet": "NPR Topics: News",
@@ -243,23 +243,6 @@
       }
     },
     {
-      "id": "d359adb02d97",
-      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 11:46:41 GMT",
-      "bullets": [
-        "• A 12-year-old girl among those killed in 'vile' Russian aerial bombardment that lasted more than 12 hours",
-        "• Russia said it struck military facilities and industrial enterprises supporting Ukraine's armed forces",
-        "• President Volodymyr Zelensky said the deaths all occurred in the capital Kyiv "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "dc177d3ed79f",
       "title": "Fruit might be the surprising key to healthier lungs",
       "outlet": "All Top News -- ScienceDaily",
@@ -308,23 +291,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "2b80ae15eb01",
-      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 28 Sep 2025 10:49:28 GMT",
-      "bullets": [
-        "• Sanctions reimposed on Iran 10 years after landmark nuclear deal was struck",
-        "• UK, France and Germany activate the so-called \"snapback\" mechanism",
-        "• Iran suspended inspections of its nuclear facilities in June after Israel and the US pulled out of the deal "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
       }
     },
     {
@@ -603,6 +569,23 @@
       }
     },
     {
+      "id": "ae7535c829db",
+      "title": "Singapore denies entry to exiled HK pro-democracy activist",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8rv1r11y30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 05:44:59 GMT",
+      "bullets": [
+        "• Singapore denies entry to exiled Hong Kong pro-democracy activist",
+        "• Mr Law is wanted by Hong Kong authorities who have accused him of endangering national security",
+        "• Singapore is known to be cautious about foreign politics, saying it \"takes a strong stand against the importation of politics\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      }
+    },
+    {
       "id": "94163a2250e1",
       "title": "Pro-EU party in Moldova set to win vote mired in claims of Russian interference",
       "outlet": "BBC News",
@@ -617,6 +600,23 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.643
+      }
+    },
+    {
+      "id": "35091cd6f63b",
+      "title": "Denmark bans all civilian drone flights ahead of European summit",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 04:28:34 GMT",
+      "bullets": [
+        "• Denmark bans all civilian drone flights ahead of European summit in Copenhagen",
+        "• The ban will remain in place until 3 October, and violations could be punishable by up to two years",
+        "• Unidentified drones have been reported in Denmark since 22 September, forcing airport closures "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
       }
     },
     {
