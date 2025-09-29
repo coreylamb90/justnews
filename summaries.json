@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T16:33:44Z",
+  "generated_at": "2025-09-29T16:50:00Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -210,6 +210,23 @@
       }
     },
     {
+      "id": "cc61fc22a90d",
+      "title": "Donald Trump ‘very confident’ ceasefire deal can be reached as he meets Benjamin Netanyahu – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 16:23:33 GMT",
+      "bullets": [
+        "• Hakeem Jeffries said 'no one can trust' the Republicans' promises on health care",
+        "• The House minority leader spoke ahead of a meeting with Donald Trump and bipartisan leadership",
+        "• He accused Republicans of trying to ‘misrepresent’ the Democratic position "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.953
+      }
+    },
+    {
       "id": "2f0f222e2392",
       "title": "West Africans deported from US to Ghana ‘dumped without documents in Togo’",
       "outlet": "World news | The Guardian",
@@ -217,12 +234,12 @@
       "published_at": "Mon, 29 Sep 2025 16:20:54 GMT",
       "bullets": [
         "• Eight to 10 west African nationals have been forcibly sent by Ghana to Togo, bypassing a formal border crossing, and then left on the street without passports",
-        "• The latest chapter in Donald Trump’s deportation programme became public earlier this month when the Ghanaian president struck a deal "
+        "• Up to 28 people have arrived in the west African nation from the US so far in the deportation programme "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.988
       }
     },
     {
@@ -240,23 +257,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.964
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "Donald Trump ‘very confident’ ceasefire deal can be reached as he meets Benjamin Netanyahu – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 16:12:50 GMT",
-      "bullets": [
-        "• House speaker Mike Johnson called on GOP lawmakers not to hold political events this week",
-        "• Johnson suggested he would bring the House back next week",
-        "• Top four congressional leaders will meet with Donald Trump at the White House in a last-ditch effort to avoid a shutdown "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
       }
     },
     {
@@ -380,21 +380,6 @@
       }
     },
     {
-      "id": "c80f388a3cbe",
-      "title": "Michigan car crash kills three family members from TLC’s Meet the Putmans",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/michigan-car-crash-meet-the-putmans",
-      "published_at": "Mon, 29 Sep 2025 14:37:16 GMT",
-      "bullets": [
-        "• Bill ‘Papa’ Putman, his wife, Barb – who goes by Neenee – and their daughter-in-law Megan were killed in a “tragic car accident” The family added that members identified as Uncle Blake, Lulu, Alena, Noah and Gia were also injured in the crash "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "ba37eb2480df",
       "title": "It’s official: EA is selling to private equity in $55 billion deal",
       "outlet": "Ars Technica - All content",
@@ -403,12 +388,12 @@
       "bullets": [
         "• Electronic Arts announced plans to go private Monday morning",
         "• Shareholders will receive $210 per share in the deal, a 25 percent premium on the $168.32 price for a share at the close of business last Thursday",
-        "• The Saudi Arabian PIF already owned 9.9 percent of EA's outstanding public stock and will roll-over that investment into this buyout "
+        "• The Saudi Arabian PIF already owned 9.9 percent of EA's outstanding public stock and will roll over that investment into the buyout "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.875
+        "score": 0.818
       }
     },
     {
@@ -463,20 +448,55 @@
       }
     },
     {
+      "id": "fa5aa8084f0c",
+      "title": "Michigan church attacker was a Marine Corps veteran, military officials say",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5556928/thomas-jacob-sanford-michingan-church-shooting",
+      "published_at": "Mon, 29 Sep 2025 12:36:09 -0400",
+      "bullets": [
+        "• Thomas Jacob Sanford served in the Marines from 2004 to 2008 and deployed for one tour in Iraq in 2007 and into 2008",
+        "• He was killed in a shootout with police",
+        "• The attack occurred during a Church of Jesus Christ of Latter-day Saints service in Grand Blanc "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      }
+    },
+    {
+      "id": "133935ed4f8c",
+      "title": "Lawsuits against Tylenol's maker get a boost after Trump's comments",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/29/nx-s1-5554865/tylenol-autism-lawsuit-kenvue-trump",
+      "published_at": "Mon, 29 Sep 2025 12:34:48 -0400",
+      "bullets": [
+        "• Lawsuits against Tylenol's maker get a boost after President Trump's comments",
+        "• One lawyer says his firm has gotten an influx of more than a thousand calls this week from potential new clients",
+        "• Trump administration's attention to the issue has also given the firm new ammunition in its appeal of the lawsuit "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.503
+      }
+    },
+    {
       "id": "b445ebcc6904",
       "title": "Trump is pressing Netanyahu to accept his plan to end war in Gaza",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556916/trump-israel-gaza-netanyahu",
       "published_at": "Mon, 29 Sep 2025 12:15:29 -0400",
       "bullets": [
-        "• President Trump is expected to press Israeli Prime Minister Benjamin Netanyahu to accept a new plan to end the war in Gaza",
-        "• The high-stakes meeting comes as the two-year anniversary of the Hamas attack on Israel draws closer",
-        "• A growing list of nations recently recognized Palestinian statehood last week "
+        "• President Trump and Israeli Prime Minister Benjamin Netanyahu will hold a press conference at 1:15 p.m",
+        "• ET Monday",
+        "• The meeting comes as the two-year anniversary of the Hamas attack on Israel draws closer",
+        "• A growing list of nations recognized Palestinian statehood last week during the United Nations General Assembly "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.926
+        "score": 0.974
       }
     },
     {
@@ -586,7 +606,7 @@
     {
       "id": "131d29b7d676",
       "title": "Overseas Hong Kong pro-democracy activist Nathan Law denied entry to Singapore",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556821/overseas-hong-kong-pro-democracy-activist-nathan-law-denied-entry-to-singapore",
       "published_at": "Mon, 29 Sep 2025 06:56:02 -0400",
       "bullets": [
@@ -594,7 +614,7 @@
         "• Law is one of a number of Hong Kong activists who have left the city in recent years",
         "• Hong Kong police have issued a warrant for Law's arrest under the city's National Security Law "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.989
@@ -620,7 +640,7 @@
     {
       "id": "f05397503782",
       "title": "Moldova's pro-EU party wins clear parliamentary majority, defeating pro-Russian groups",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5556800/moldova-pro-eu-party-wins-elections-russia",
       "published_at": "Mon, 29 Sep 2025 05:41:54 -0400",
       "bullets": [
@@ -628,7 +648,7 @@
         "• Electoral data indicate the party will hold a clear majority of about 55 of the 101 seats in the legislature",
         "• The election was widely viewed as a geopolitical choice: between a path to the European Union or a drift back into Moscow's fold "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.977
@@ -834,23 +854,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
