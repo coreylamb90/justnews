@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T10:33:44Z",
+  "generated_at": "2025-09-29T10:51:48Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,23 +15,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "9b4eae20f380",
-      "title": "‘Hidden costs’ of climate emergency are worsening California’s affordability crisis – report",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/25/california-climate-emergency-affordability-crisis-study",
-      "published_at": "Thu, 25 Sep 2025 15:00:42 GMT",
-      "bullets": [
-        "• Climate emergency is significantly increasing costs for California households in the form of rising utility bills, lost wages and growing healthcare expenses",
-        "• Average American born in 2024 will likely face up to $500,000 in additional lifetime costs from climate crisis",
-        "• California has long been one of the most expensive states in the nation with its high cost of living and expensive housing "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
       }
     },
     {
@@ -384,7 +367,7 @@
       "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 10:13:39 GMT",
+      "published_at": "Mon, 29 Sep 2025 10:41:13 GMT",
       "bullets": [
         "• Donald Trump will meet with Israeli Prime Minister Benjamin Netanyahu at the White House on Monday",
         "• It is Netanyahu's fourth visit to Washington since returning to office in January",
@@ -500,6 +483,23 @@
       }
     },
     {
+      "id": "174b1a88a52d",
+      "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5544386/jumping-spider-pet-spoods",
+      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Thousands of jumping spiders are being flooded with requests from people who want to keep them as pets",
+        "• Social media videos of the spiders' antics have been viewed millions of times on YouTube",
+        "• Some women are trying to overcome their fear of spiders, while others are simply enchanted by their unexpected cuteness "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
+    {
       "id": "6a1d26935092",
       "title": "Hundreds of Israeli soldiers were badly wounded in Gaza. Here's what saved them",
       "outlet": "NPR Topics: News",
@@ -518,40 +518,6 @@
       }
     },
     {
-      "id": "174b1a88a52d",
-      "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5544386/jumping-spider-pet-spoods",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Thousands of jumping spiders are being flooded with requests from people who want to keep them as pets",
-        "• Social media videos of the spiders' antics have been viewed millions of times on YouTube",
-        "• Some women are trying to overcome their fear of spiders, while others are simply enchanted by their unexpected cuteness "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "593287829686",
-      "title": "Top Congressional leaders head to White House ahead of shutdown deadline",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/g-s1-90959/congress-leaders-white-house-shutdown",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Top Congressional leaders head to White House ahead of shutdown deadline",
-        "• Meeting is set to occur ahead of an expected Senate vote on a short-term stopgap bill",
-        "• House Republicans narrowly passed a continuing resolution earlier this month that would fund the government through November 21 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.909
-      }
-    },
-    {
       "id": "47c0e49bd42c",
       "title": "She felt abandoned — until a teacher's hug reminded her she wasn't alone",
       "outlet": "NPR Topics: News",
@@ -566,6 +532,43 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "cca3d1f4eab4",
+      "title": "Neglected form of diabetes with unusual symptoms finally gets its own name",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/09/29/g-s1-90669/neglected-form-of-diabetes-with-unusual-symptoms-finally-gets-its-own-name",
+      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• British physician Philip Hugh-Jones was flummoxed by 13 patients who showed up at a diabetes clinic near Kingston, Jamaica",
+        "• The patients were young, thin and undernourished",
+        "• They never experienced a common symptom of Type 1 diabetes, ketoacidosis",
+        "• But they didn't seem to be Type 2 diabetics either, who tend to be overweight "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "593287829686",
+      "title": "Top congressional leaders head to the White House ahead of shutdown deadline",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/29/g-s1-90959/congress-leaders-white-house-shutdown",
+      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Top congressional leaders head to the White House ahead of shutdown deadline",
+        "• Meeting comes ahead of a Sept",
+        "• 30 deadline to fund the government and avoid a shutdown",
+        "• House Republicans narrowly passed a bill earlier this month that would fund government through Nov",
+        "• 21"
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.792
       }
     },
     {
