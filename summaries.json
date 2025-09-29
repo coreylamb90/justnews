@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T09:54:38Z",
+  "generated_at": "2025-09-29T10:33:44Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -15,6 +15,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "9b4eae20f380",
+      "title": "‘Hidden costs’ of climate emergency are worsening California’s affordability crisis – report",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/25/california-climate-emergency-affordability-crisis-study",
+      "published_at": "Thu, 25 Sep 2025 15:00:42 GMT",
+      "bullets": [
+        "• Climate emergency is significantly increasing costs for California households in the form of rising utility bills, lost wages and growing healthcare expenses",
+        "• Average American born in 2024 will likely face up to $500,000 in additional lifetime costs from climate crisis",
+        "• California has long been one of the most expensive states in the nation with its high cost of living and expensive housing "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
       }
     },
     {
@@ -69,23 +86,6 @@
       }
     },
     {
-      "id": "6ce2b48e73c7",
-      "title": "Tropical Storm Imelda forming and expected to become hurricane",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/tropical-storm-imelda-hurricane-humberto",
-      "published_at": "Sun, 28 Sep 2025 20:35:59 GMT",
-      "bullets": [
-        "• Tropical Storm Imelda is now a category 4 storm with maximum sustained winds of 40mph",
-        "• The storm is expected to move east-northeastward from Florida to the Bahamas",
-        "• A tropical storm watch is in effect for parts of the Florida coast "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.754
-      }
-    },
-    {
       "id": "76ae6d6bc3c3",
       "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports",
       "outlet": "US Top News and Analysis",
@@ -100,23 +100,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "972e227689f7",
-      "title": "Eric Adams drops out of New York City mayoral race",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/28/eric-adams-drops-out-new-york-mayor-race",
-      "published_at": "Sun, 28 Sep 2025 18:12:42 GMT",
-      "bullets": [
-        "• Eric Adams announced on Sunday that he is abandoning his faltering bid to win re-election in New York City",
-        "• Adams was indicted on corruption charges but dropped by the Trump administration in exchange for his cooperation on immigration raids",
-        "• The mayor will serve the remainder of his term in office, which ends on New Year's Eve "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -186,24 +169,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "c7c1f8b6ecfe",
-      "title": "New Jersey Sen. Andy Kim discusses how Democrats are negotiating to avoid a shutdown",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5554517/new-jersey-sen-andy-kim-discusses-how-democrats-are-negotiating-to-avoid-a-shutdown",
-      "published_at": "Sun, 28 Sep 2025 08:04:54 -0400",
-      "bullets": [
-        "• New Jersey Sen",
-        "• Andy Kim discusses how Democrats are negotiating to avoid a shutdown",
-        "• Kim: \"I'm glad that President Trump changed his mind",
-        "• I think it shows that the president is feeling pressure from his position before saying that he doesn't want to deal with Democrats\""
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.908
       }
     },
     {
@@ -415,20 +380,54 @@
       }
     },
     {
+      "id": "cc61fc22a90d",
+      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 10:13:39 GMT",
+      "bullets": [
+        "• Donald Trump will meet with Israeli Prime Minister Benjamin Netanyahu at the White House on Monday",
+        "• It is Netanyahu's fourth visit to Washington since returning to office in January",
+        "• The Israeli leader will be looking to shore up his country’s most important relationship with the United States "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "022f6ae30e50",
+      "title": "Harris calls Trump ‘incompetent and unhinged’ and makes call to ‘fight fire with fire’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/kamala-harris-trump-black-caucus-foundation-speech",
+      "published_at": "Mon, 29 Sep 2025 10:00:39 GMT",
+      "bullets": [
+        "• Former Democratic US vice-president Kamala Harris made the remarks in Washington DC",
+        "• She said the president has proven himself to be an 'unchecked, incompetent, unhinged president' The remarks come after Trump’s fellow Republican allies have demanded that liberal opponents tone down their rhetoric "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      }
+    },
+    {
       "id": "fa9a49e998a8",
       "title": "Cleveland Fed’s Hammack warns of 'challenging time' amid inflation worries",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/29/cleveland-feds-beth-hammack-on-interest-rates-inflation-and-tariffs.html",
-      "published_at": "Mon, 29 Sep 2025 09:50:14 GMT",
+      "published_at": "Mon, 29 Sep 2025 09:51:25 GMT",
       "bullets": [
-        "• U.S",
-        "• central bank faces challenges as it attempts to balance inflation or protecting jobs",
-        "• Cleveland Federal Reserve President Beth Hammack: \"We have been missing our mandate on the inflation side\" Stronger-than-expected economic data appears to have dented Wall Street's hopes for sharp rate cuts "
+        "• The U.S",
+        "• Federal Reserve is facing pressure on both sides of its economic policy",
+        "• The Fed lowered its rate of interest rates to 4.25% earlier this month",
+        "• The move comes after a series of disappointing results for the Fed in recent weeks "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.997
       }
     },
     {
@@ -501,40 +500,6 @@
       }
     },
     {
-      "id": "96c2c40ec66e",
-      "title": "Giving up alcohol for Sober October? Our newsletter can help you reach your goal",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5553542/newsletter-guide-sober-october-alcohol-free-month",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Giving up alcohol for Sober October? Our newsletter can help you reach your goal",
-        "• It's a free, limited-run newsletter series that offers expert strategies and best practices on how to give up alcohol",
-        "• Sign up at any time to start your journey "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.958
-      }
-    },
-    {
-      "id": "190325cd682f",
-      "title": "Near the frontline, Ukraine's neurosurgeons are on the cutting edge",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5496258/near-the-frontline-ukraines-neurosurgeons-are-on-the-cutting-edge",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Ukrainian neurosurgeons are conducting state-of-the-art operations with cutting-edge equipment",
-        "• Mechnikov Hospital is so old it treated wounded soldiers during the Crimean War in the 1850s",
-        "• Most of those surgeries have come since Russia's full-scale invasion three-and-a-half years ago "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.93
-      }
-    },
-    {
       "id": "6a1d26935092",
       "title": "Hundreds of Israeli soldiers were badly wounded in Gaza. Here's what saved them",
       "outlet": "NPR Topics: News",
@@ -553,26 +518,9 @@
       }
     },
     {
-      "id": "f212ee0b1fa0",
-      "title": "Prone to winter depression? Starting light therapy now can help",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• About 1 in 20 adults have Seasonal Affective Disorder — which is seasonal depression",
-        "• Millions more experience a milder form of \"winter blues\" One way to fend it off is by using a light box, beginning in the fall",
-        "• Light therapy is on par with standard anti-depression medications in relieving symptoms "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.97
-      }
-    },
-    {
       "id": "174b1a88a52d",
       "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
-      "outlet": "NPR Topics: Science",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5544386/jumping-spider-pet-spoods",
       "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
       "bullets": [
@@ -580,7 +528,7 @@
         "• Social media videos of the spiders' antics have been viewed millions of times on YouTube",
         "• Some women are trying to overcome their fear of spiders, while others are simply enchanted by their unexpected cuteness "
       ],
-      "category": "Science",
+      "category": "General",
       "sentiment": {
         "label": "positive",
         "score": 0.998
@@ -589,7 +537,7 @@
     {
       "id": "593287829686",
       "title": "Top Congressional leaders head to White House ahead of shutdown deadline",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/29/g-s1-90959/congress-leaders-white-house-shutdown",
       "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
       "bullets": [
@@ -597,10 +545,27 @@
         "• Meeting is set to occur ahead of an expected Senate vote on a short-term stopgap bill",
         "• House Republicans narrowly passed a continuing resolution earlier this month that would fund the government through November 21 "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.909
+      }
+    },
+    {
+      "id": "47c0e49bd42c",
+      "title": "She felt abandoned — until a teacher's hug reminded her she wasn't alone",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5554529/she-felt-abandoned-until-a-teachers-hug-reminded-her-she-wasnt-alone",
+      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• When Tanya Eby was in sixth grade, her friends told her she was no longer cool enough to hang out with them",
+        "• She broke down in tears when her teacher found out what was wrong",
+        "• Eby's mom and stepfather left her to live with her dad, and her brother also left "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -855,6 +820,40 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
+      }
+    },
+    {
+      "id": "bff3bbb6ccff",
+      "title": "The Axe Files with David Axelrod",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/axe-files",
+      "published_at": null,
+      "bullets": [
+        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
+        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
+        "• Scott Jennings is well known as a conservative firebrand on CNN "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "8113583c1aab",
+      "title": "Margins of Error",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/margins-of-error",
+      "published_at": null,
+      "bullets": [
+        "• This season on Margins of Error, Harry teases out big ideas like what accents say about where we live, how much money it takes to be happy, and whether the U.S",
+        "• should finally switch to the metric system",
+        "• Harry talks to some very smart people who are doing their best to optimize the way we travel "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
       }
     }
   ]
