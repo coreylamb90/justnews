@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T13:00:57Z",
+  "generated_at": "2025-09-29T13:41:55Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -281,33 +281,16 @@
       "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
-      "published_at": "Mon, 29 Sep 2025 12:57:04 GMT",
+      "published_at": "Mon, 29 Sep 2025 13:38:06 GMT",
       "bullets": [
-        "• Electronic Arts announced Monday that it has agreed to be acquired by the Public Investment Fund of Saudi Arabia, Silver Lake and Affinity Partners in an all-cash deal worth $55 billion",
+        "• The Public Investment Fund of Saudi Arabia is rolling over its existing 9.9% stake in the company",
         "• Shareholders of the company will receive $210 per share in cash",
-        "• The take-private deal is set to be the largest leveraged buyout in Wall Street history "
+        "• The deal is set to be the largest leveraged buyout in Wall Street history "
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.984
-      }
-    },
-    {
-      "id": "e8aa008f1a10",
-      "title": "Comcast names Mike Cavanagh as co-CEO alongside Brian Roberts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/comcast-roberts-cavanagh-co-ceos.html",
-      "published_at": "Mon, 29 Sep 2025 12:53:43 GMT",
-      "bullets": [
-        "• \"It is an honor to work with the entire team,\" says Cevallos",
-        "• He will continue to serve as a co-chairman of the board of directors",
-        "• The new board will be in charge of the network's largest cable and television network "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
+        "score": 0.685
       }
     },
     {
@@ -315,7 +298,7 @@
       "title": "What's the 'natural demand' for EVs in the U.S.? We're about to find out",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/29/electric-vehicles-ev-demand-federal-incentives-tax-credit.html",
-      "published_at": "Mon, 29 Sep 2025 12:49:06 GMT",
+      "published_at": "Mon, 29 Sep 2025 13:36:18 GMT",
       "bullets": [
         "• Federal incentives for all-electric vehicles are set to be discontinued this week",
         "• That's because federal incentives of up to $7,500 to purchase a plug-in vehicle are getting discontinued",
@@ -328,11 +311,29 @@
       }
     },
     {
+      "id": "e8aa008f1a10",
+      "title": "Comcast names Mike Cavanagh as co-CEO alongside Brian Roberts",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/comcast-roberts-cavanagh-co-ceos.html",
+      "published_at": "Mon, 29 Sep 2025 13:24:47 GMT",
+      "bullets": [
+        "• Comcast named Mike Cavanagh as co-CEO of NBCUniversal",
+        "• He will be replaced by longtime Comcast CEO Brian Roberts",
+        "• Roberts will remain as chairman and co-chairman of the company",
+        "• Comcast shares have risen about 9% so far this year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.776
+      }
+    },
+    {
       "id": "cc61fc22a90d",
       "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 12:36:46 GMT",
+      "published_at": "Mon, 29 Sep 2025 13:20:49 GMT",
       "bullets": [
         "• Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House",
         "• US president pushing a Gaza peace proposal after a slew of western leaders embraced Palestinian statehood",
@@ -381,7 +382,7 @@
     },
     {
       "id": "8fbdb2225e44",
-      "title": "ZR1, GTD, and America’s new Nurburgring war",
+      "title": "ZR1, GTD, and America’s new Nürburgring war",
       "outlet": "Ars Technica - All content",
       "url": "https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/",
       "published_at": "Mon, 29 Sep 2025 11:30:35 +0000",
@@ -740,6 +741,39 @@
       }
     },
     {
+      "id": "f269efea1be2",
+      "title": "Microsoft launches ‘vibe working’ in Excel and Word",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "published_at": "2025-09-29T09:30:00-04:00",
+      "bullets": [
+        "• Microsoft launches ‘vibe working’ in Excel and Word apps today",
+        "• Agent Mode is a more powerful version of the Copilot experience that Microsoft has added to its Office apps",
+        "• It’s designed to make the complex parts of Excel more accessible to users that aren’t experts "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      }
+    },
+    {
+      "id": "80d6eb25a60b",
+      "title": "Get a look at the OnePlus 15 from every angle",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass",
+      "published_at": "2025-09-29T09:00:00-04:00",
+      "bullets": [
+        "• The OnePlus 15 is getting a global launch, and it will be available in a new color called ‘sand storm’ The phone will be powered by the Snapdragon 8 Elite Gen 5 and feature a 165Hz refresh rate display",
+        "• Over the weekend it dropped multiple photo sets on Chinese social media giving us a better look at the hardware "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.885
+      }
+    },
+    {
       "id": "e89b736a8d89",
       "title": "$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner",
       "outlet": "The Verge",
@@ -747,12 +781,13 @@
       "published_at": "2025-09-29T08:51:27-04:00",
       "bullets": [
         "• Silver Lake, Saudi Arabia’s Public Investment Fund, and Affinity Partners will take the gaming giant private",
-        "• The deal is expected to close in the first quarter of 2027 and is still subject to approval by regulators and EA stockholders "
+        "• The deal is expected to close in the first quarter of 2027 and is still subject to approval by regulators and EA stockholders",
+        "• If approved, it will mark one of the biggest buyouts of a publicly traded company "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.991
+        "score": 0.998
       }
     },
     {
@@ -787,40 +822,6 @@
       "sentiment": {
         "label": "negative",
         "score": 1.0
-      }
-    },
-    {
-      "id": "e5c2388046b3",
-      "title": "Larry Ellison’s quest to run the world",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world",
-      "published_at": "2025-09-28T15:32:05-04:00",
-      "bullets": [
-        "• Larry Ellison has begun a second act shifting from Silicon Valley pioneer, to media mogul",
-        "• Ellison has developed a reputation for ruthless and sometimes ethically dubious behavior as head of Oracle",
-        "• The company's biggest products are cloud computing and database products that it sells to enterprise customers "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.546
-      }
-    },
-    {
-      "id": "6157ddaf8eb8",
-      "title": "Trump posts, then pulls bizarre AI video promoting MedBed conspiracy",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy",
-      "published_at": "2025-09-28T11:44:08-04:00",
-      "bullets": [
-        "• The president posted (and later removed) a clip on Truth Social of a fake Fox News segment with Lara Trump detailing the White House’s announcement of a MedBed hospital and a national MedBed card system",
-        "• The video appears to be completely AI generated, including Trump himself discussing the program in the Oval Office",
-        "• MedBeds are an imaginary medical device that can do everything from treat asthma, to regrow missing limbs, to cure cancer "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
