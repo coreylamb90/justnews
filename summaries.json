@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T20:31:08Z",
+  "generated_at": "2025-09-29T20:48:45Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -124,6 +124,41 @@
       }
     },
     {
+      "id": "5765de8f6fe2",
+      "title": "Startup founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
+      "published_at": "Mon, 29 Sep 2025 20:40:33 GMT",
+      "bullets": [
+        "• Charlie Javice is sentenced to 85 months in prison for defrauding JPMorgan Chase",
+        "• The 33-year-old founder of a fintech startup was found guilty in March of fraud",
+        "• Prosecutors had sought a sentence of 12 years",
+        "• \"I will spend my entire life regretting these errors,\" Javice says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "cc61fc22a90d",
+      "title": "Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 20:19:34 GMT",
+      "bullets": [
+        "• Netanyahu says Israel will 'finish the job' if Hamas rejects deal with U.S",
+        "• President Donald Trump and Israeli PM Benjamin Netanyahu",
+        "• The two leaders met at the White House in Washington then held a joint press briefing in which they hailed their proposal as a historic breakthrough and new chapter for the Middle East "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      }
+    },
+    {
       "id": "e359c46687b2",
       "title": "US whistleblowers say they were fired for raising fair housing concerns",
       "outlet": "US news | The Guardian",
@@ -139,22 +174,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 20:11:14 GMT",
-      "bullets": [
-        "• Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t – live",
-        "• Netanyahu says he supports Trump’s Gaza peace plan but Hamas still must agree to proposal "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
       }
     },
     {
@@ -188,24 +207,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "5765de8f6fe2",
-      "title": "Startup founder Charlie Javice reportedly sentenced to 7 years in prison for defrauding JPMorgan Chase",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
-      "published_at": "Mon, 29 Sep 2025 20:09:17 GMT",
-      "bullets": [
-        "• Charlie Javice, 33, sentenced to seven years in prison for defrauding JPMorgan Chase",
-        "• JPMorgan bought the startup Frank in 2021 for $175 million",
-        "• Prosecutors had sought a sentence of 12 years",
-        "• Javice cried as she delivered an emotional statement to the court "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
       }
     },
     {
@@ -417,6 +418,23 @@
       }
     },
     {
+      "id": "d3988ba46a85",
+      "title": "A year after Helene, a group of raft guides embarks on a river clean-up mission",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5534446/hurricane-helene-tennessee-river-clean-up",
+      "published_at": "Mon, 29 Sep 2025 16:28:47 -0400",
+      "bullets": [
+        "• A year after Hurricane Helene, a group of raft guides embarks on a river clean-up mission",
+        "• It's been a year since remnants of Helene walloped eastern Tennessee and western North Carolina with devastating and deadly flooding",
+        "• Flooding forced most rafting companies to cease operations, except for the Nolichucky River "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.908
+      }
+    },
+    {
       "id": "2f0f222e2392",
       "title": "West Africans deported from US to Ghana ‘dumped without documents in Togo’",
       "outlet": "World news | The Guardian",
@@ -567,23 +585,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "133935ed4f8c",
-      "title": "Lawsuits against Tylenol's maker get a boost after Trump's comments",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/29/nx-s1-5554865/tylenol-autism-lawsuit-kenvue-trump",
-      "published_at": "Mon, 29 Sep 2025 12:34:48 -0400",
-      "bullets": [
-        "• Lawsuits against Tylenol's maker get a boost after President Trump's comments on the drug linked to autism",
-        "• The drug could play a role in ongoing legal cases against the maker of the drug",
-        "• One lawyer says he has received calls from people who say they were harmed by the drug from potential clients "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.945
       }
     },
     {
