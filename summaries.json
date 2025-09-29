@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T11:48:06Z",
+  "generated_at": "2025-09-29T13:00:57Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -66,24 +66,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.985
-      }
-    },
-    {
-      "id": "baa615acfd47",
-      "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
-      "published_at": "Sun, 28 Sep 2025 11:45:51 GMT",
-      "bullets": [
-        "• The Pentagon took an equity stake in MP Materials, the largest U.S",
-        "• rare earth miner, in July",
-        "• The White House is \"not ruling out other deals with equity stakes or price floors,\" a White House official says",
-        "• Rare earths are key inputs in weapons platforms such as the F-35 warplane "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.551
       }
     },
     {
@@ -173,23 +155,6 @@
       }
     },
     {
-      "id": "aba21f953f5a",
-      "title": "How a 'nudify' site turned a group of friends into key figures in a fight against AI-generated porn",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/nudify-ai-generated-deepfake-fbi.html",
-      "published_at": "Sat, 27 Sep 2025 16:52:15 GMT",
-      "bullets": [
-        "• Jessica Guistolise received a text message from an acquaintance who said she had urgent information to share about her estranged husband, Ben",
-        "• Jenny told her she'd found pictures on Ben's computer of more than 80 women whose social media photos were used to create deepfake pornography",
-        "• Most of the women in Ben's images lived in the Minneapolis area "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
       "id": "6ba3a9c29a03",
       "title": "Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week",
       "outlet": "NPR Topics: Science",
@@ -206,23 +171,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.961
-      }
-    },
-    {
-      "id": "9e1265124228",
-      "title": "From PepsiCo to Taco Bell, dirty soda is taking over",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/27/dirty-soda-swig-taco-bell-pepsico.html",
-      "published_at": "Sat, 27 Sep 2025 12:00:01 GMT",
-      "bullets": [
-        "• \"Dirty soda\" drinks use pop as a base, followed by flavored syrups, cream or other ingredients",
-        "• Utah-based drink chain Swig coined \"dirty soda\" back in 2010",
-        "• Pepsi plans to unveil two ready-to-drink Dirty Dew and the Mug Floats Vanilla Howler "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -329,11 +277,79 @@
       }
     },
     {
+      "id": "06828fc8ffc8",
+      "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
+      "published_at": "Mon, 29 Sep 2025 12:57:04 GMT",
+      "bullets": [
+        "• Electronic Arts announced Monday that it has agreed to be acquired by the Public Investment Fund of Saudi Arabia, Silver Lake and Affinity Partners in an all-cash deal worth $55 billion",
+        "• Shareholders of the company will receive $210 per share in cash",
+        "• The take-private deal is set to be the largest leveraged buyout in Wall Street history "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "e8aa008f1a10",
+      "title": "Comcast names Mike Cavanagh as co-CEO alongside Brian Roberts",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/comcast-roberts-cavanagh-co-ceos.html",
+      "published_at": "Mon, 29 Sep 2025 12:53:43 GMT",
+      "bullets": [
+        "• \"It is an honor to work with the entire team,\" says Cevallos",
+        "• He will continue to serve as a co-chairman of the board of directors",
+        "• The new board will be in charge of the network's largest cable and television network "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "c35eecfd4108",
+      "title": "What's the 'natural demand' for EVs in the U.S.? We're about to find out",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/electric-vehicles-ev-demand-federal-incentives-tax-credit.html",
+      "published_at": "Mon, 29 Sep 2025 12:49:06 GMT",
+      "bullets": [
+        "• Federal incentives for all-electric vehicles are set to be discontinued this week",
+        "• That's because federal incentives of up to $7,500 to purchase a plug-in vehicle are getting discontinued",
+        "• \"We need to let it settle and understand where is that natural demand going,\" says GM CFO "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "cc61fc22a90d",
+      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 12:36:46 GMT",
+      "bullets": [
+        "• Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House",
+        "• US president pushing a Gaza peace proposal after a slew of western leaders embraced Palestinian statehood",
+        "• Netanyahu will be looking to shore up his country’s most important relationship as it faces growing international isolation "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.851
+      }
+    },
+    {
       "id": "76ae6d6bc3c3",
       "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/28/trump-mass-firings-government-shutdown.html",
-      "published_at": "Mon, 29 Sep 2025 11:44:13 GMT",
+      "published_at": "Mon, 29 Sep 2025 12:34:06 GMT",
       "bullets": [
         "• The White House has warned of mass firings if the government shuts down this week",
         "• President Donald Trump told NBC News that \"we are going to cut a lot of the people that ",
@@ -343,6 +359,41 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
+      }
+    },
+    {
+      "id": "cbbade86df8b",
+      "title": "First Thing: At least four dead and eight injured after shooting at Mormon church in Michigan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/first-thing-at-least-four-dead-and-eight-injured-after-shooting-at-mormon-church-in-michigan",
+      "published_at": "Mon, 29 Sep 2025 12:07:10 GMT",
+      "bullets": [
+        "• At least four people were killed and eight others injured in a shooting at a home in Michigan",
+        "• Police found two more bodies in the charred remains of the building, which had not yet been cleared",
+        "• The incident was the 324th incident in the U.S",
+        "• to be reported in the past year "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "8fbdb2225e44",
+      "title": "ZR1, GTD, and America’s new Nurburgring war",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/",
+      "published_at": "Mon, 29 Sep 2025 11:30:35 +0000",
+      "bullets": [
+        "• The Nürburgring is a 13-mile racetrack in western Germany",
+        "• It dates back to the 1920s and has hosted the German Grand Prix for a half-century",
+        "• The track's domestic profile has lately been on the rise "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
       }
     },
     {
@@ -361,23 +412,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.98
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 11:15:22 GMT",
-      "bullets": [
-        "• Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House",
-        "• US president pushing a Gaza peace proposal after a slew of western leaders embraced Palestinian statehood",
-        "• Netanyahu will be looking to shore up his country’s most important relationship as it faces growing international isolation "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.851
       }
     },
     {
@@ -483,6 +517,24 @@
       }
     },
     {
+      "id": "e064440b6494",
+      "title": "3 things to know about Trump's plan to send troops to Portland and Memphis",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5556831/portland-memphis-national-guard-trump-troops",
+      "published_at": "Mon, 29 Sep 2025 07:43:30 -0400",
+      "bullets": [
+        "• President Trump has ordered troops to be deployed in Portland, Ore., and Memphis, Tenn",
+        "• He says he's authorized them to use \"full force\" to curb protests outside of U.S",
+        "• immigration facilities",
+        "• It's the latest instance of Trump sending troops to cities that he says are plagued by crime "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.918
+      }
+    },
+    {
       "id": "88c9374287a2",
       "title": "The latest on the Michigan church shooting. And, Trump's new plan to end war in Gaza",
       "outlet": "NPR Topics: News",
@@ -552,24 +604,6 @@
       }
     },
     {
-      "id": "6a1d26935092",
-      "title": "Hundreds of Israeli soldiers were badly wounded in Gaza. Here's what saved them",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5551290/israel-hamas-war-gaza-israeli-soldiers-wounded",
-      "published_at": "Mon, 29 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• More than 500 Israeli soldiers have survived serious injuries in Gaza",
-        "• Many of them would have been killed or maimed in past wars, doctors say",
-        "• Medical advances include drones delivering blood to the battlefield, and other advances",
-        "• One man says he would have lived with only one leg and one lung "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.788
-      }
-    },
-    {
       "id": "174b1a88a52d",
       "title": "Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets",
       "outlet": "NPR Topics: News",
@@ -628,15 +662,15 @@
       "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 29 Sep 2025 03:39:05 GMT",
       "bullets": [
-        "• Gunman drove a vehicle into a church in Grand Blanc, Michigan, before opening fire, police say",
-        "• He then set the building ablaze before being shot dead by police in the building's car park",
-        "• Two more people have been found dead and \"some\" others remain unaccounted for",
-        "• Police say motive for the attack is still unclear "
+        "• Four dead and eight injured after Michigan church shooting and arson attack",
+        "• Gunman drove a vehicle into the building and opened fire, setting it alight, police say",
+        "• He was later shot dead by police in the building's car park",
+        "• Police are investigating the incident as an \"act of targeted violence\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.985
       }
     },
     {
@@ -674,23 +708,6 @@
       }
     },
     {
-      "id": "e596ad7813c1",
-      "title": "Trump news at a glance: more than 100,000 federal workers to quit on Tuesday in largest ever mass resignation",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/president-trump-administration-news-updates-today",
-      "published_at": "Mon, 29 Sep 2025 00:30:18 GMT",
-      "bullets": [
-        "• More than 100,000 federal workers to quit on Tuesday in largest ever mass resignation program",
-        "• Congress facing deadline of Tuesday to authorize more funding or spark a government shutdown",
-        "• White House has also ordered federal agencies to draw up plans for large-scale firings of workers "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.826
-      }
-    },
-    {
       "id": "d42e115f1680",
       "title": "Fossils in germany reveal a Jurassic sea monster with a swordfish snout",
       "outlet": "All Top News -- ScienceDaily",
@@ -705,23 +722,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "73d5b8b33c74",
-      "title": "Can AI detect hedgehogs from space? Maybe if you find brambles first.",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/",
-      "published_at": "Fri, 26 Sep 2025 22:22:13 +0000",
-      "bullets": [
-        "• Scientists are using satellite imagery and AI models to map hedgehog habitats across the UK",
-        "• European hedgehog populations have declined by roughly 30 to 50 percent over the past decade",
-        "• Traditional hedgehog surveys require nighttime fieldwork, specialized equipment, or citizen scientists reporting sightings "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -740,20 +740,35 @@
       }
     },
     {
+      "id": "e89b736a8d89",
+      "title": "$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787112/electronic-arts-55-billion-privacte-acquisition-pif-silver-lake-affinity-partners",
+      "published_at": "2025-09-29T08:51:27-04:00",
+      "bullets": [
+        "• Silver Lake, Saudi Arabia’s Public Investment Fund, and Affinity Partners will take the gaming giant private",
+        "• The deal is expected to close in the first quarter of 2027 and is still subject to approval by regulators and EA stockholders "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      }
+    },
+    {
       "id": "a8f0fe595955",
-      "title": "CMF’s first over-ear headphones have an energy slider for boosting bass and treble",
+      "title": "CMF’s first over-ear headphones have a slider for boosting bass and treble",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel",
       "published_at": "2025-09-29T07:30:00-04:00",
       "bullets": [
-        "• CMF's first over-ear wireless headphones have an energy slider for boosting bass and treble",
-        "• The Headphone Pro will launch in the US on October 7th for $99",
-        "• At $99 they’re much cheaper than Nothing’s $299 Headphone 1 and offer more customizability "
+        "• CMF, the budget-focused sub-brand that Nothing plans to spin off into a standalone subsidiary, has launched its first pair of over-ear wireless headphones",
+        "• The CMF Headphone Pro borrows features like a multi-function roller control from Nothing’s Headphone 1 that debuted in July "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.769
+        "score": 0.994
       }
     },
     {
@@ -806,23 +821,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "2f577256adc5",
-      "title": "I spent three months with Telly, the free TV that&#8217;s always showing ads",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads",
-      "published_at": "2025-09-28T09:00:00-04:00",
-      "bullets": [
-        "• Free TV has a built-in screen that shows ads in the middle of the screen",
-        "• The screen stays on at all times, even if you turn off the power button",
-        "• This is the first time I've seen a free TV with ads in it, and the last few months it's free "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
       }
     },
     {
