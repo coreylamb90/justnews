@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T19:47:19Z",
+  "generated_at": "2025-09-29T20:31:08Z",
   "items": [
     {
       "id": "8c23a4c0443b",
@@ -124,53 +124,141 @@
       }
     },
     {
-      "id": "5765de8f6fe2",
-      "title": "Startup founder Charlie Javice reportedly sentenced to 7 years in prison for defrauding JPMorgan Chase",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
-      "published_at": "Mon, 29 Sep 2025 19:34:36 GMT",
-      "bullets": [
-        "• Charlie Javice is sentenced to 7 years in prison for defrauding JPMorgan Chase",
-        "• The 33-year-old founder of a fintech startup was found guilty of fraud in March",
-        "• JPMorgan Chase bought the startup Frank in 2021 for $175 million "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
-      "id": "8cacf23b8596",
-      "title": "Etsy pops 15% as OpenAI announces ChatGPT Instant Checkout for the shopping site",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
-      "published_at": "Mon, 29 Sep 2025 19:33:20 GMT",
-      "bullets": [
-        "• OpenAI's ChatGPT chatbot Instant Checkout allows users to buy products",
-        "• The company will take a fee from transactions that are completed through ChatGpt",
-        "• The feature is free to users and will not affect their prices, OpenAI said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.788
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t – live",
+      "id": "e359c46687b2",
+      "title": "US whistleblowers say they were fired for raising fair housing concerns",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 19:27:33 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/us-housing-department-hud-whistleblowers",
+      "published_at": "Mon, 29 Sep 2025 20:12:41 GMT",
       "bullets": [
-        "• Hamas official says group has not received written Trump's Gaza peace plan",
-        "• He gave the remarks in an interview with Al Jazeera Mubasher TV shortly after Trump’s joint press conference with Benjamin Netanyahu in which the Israeli prime minister expressed support for the plan "
+        "• The White House is preparing to launch a new program to help Americans with disabilities",
+        "• The program aims to help people with disabilities in the United States",
+        "• It is the first time the White House has been asked to make a public announcement about the program",
+        "• The government has been forced to withdraw from the program after it was revealed "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.982
+      }
+    },
+    {
+      "id": "cc61fc22a90d",
+      "title": "Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 20:11:14 GMT",
+      "bullets": [
+        "• Trump demands Hamas accept US plan to ‘end Gaza conflict’ as Netanyahu says Israel will ‘finish the job’ if they don’t – live",
+        "• Netanyahu says he supports Trump’s Gaza peace plan but Hamas still must agree to proposal "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
+    },
+    {
+      "id": "3c73c06bb5c9",
+      "title": "Why movie production has moved out of the U.S. — and what a tariff could mean for Hollywood",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/trump-movie-tariffs-why-production-has-left-hollywood.html",
+      "published_at": "Mon, 29 Sep 2025 20:10:47 GMT",
+      "bullets": [
+        "• Hollywood is no longer the bustling production hub it once was, as studios have chased tax benefits and lower labor costs overseas",
+        "• President Donald Trump reiterated Monday that he would impose a 100% tariff on \"any and all movies that were made outside of the United States\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
+      "id": "7385478e8e02",
+      "title": "Madagascar's president dissolves government after 'Gen Z' protests",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y5j98p4pjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Sep 2025 20:10:41 GMT",
+      "bullets": [
+        "• Madagascar's president says he will dissolve his government after days of protests",
+        "• Thousands of predominantly Gen Z demonstrators have taken to the streets in cities across the country",
+        "• At least 22 people have been killed and 100 others injured in the protests since Thursday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "5765de8f6fe2",
+      "title": "Startup founder Charlie Javice reportedly sentenced to 7 years in prison for defrauding JPMorgan Chase",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
+      "published_at": "Mon, 29 Sep 2025 20:09:17 GMT",
+      "bullets": [
+        "• Charlie Javice, 33, sentenced to seven years in prison for defrauding JPMorgan Chase",
+        "• JPMorgan bought the startup Frank in 2021 for $175 million",
+        "• Prosecutors had sought a sentence of 12 years",
+        "• Javice cried as she delivered an emotional statement to the court "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      }
+    },
+    {
+      "id": "8cacf23b8596",
+      "title": "Etsy pops 16% as OpenAI announces ChatGPT Instant Checkout for the shopping site",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
+      "published_at": "Mon, 29 Sep 2025 20:00:58 GMT",
+      "bullets": [
+        "• Instant Checkout is free to users and will not affect their prices, OpenAI said",
+        "• It's available to U.S",
+        "• ChatGPT Plus, Pro and Free users",
+        "• OpenAI will take a fee from transactions that are completed through ChatGpt",
+        "• The company declined to share how large the fees are "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      }
+    },
+    {
+      "id": "8cdc627eb2cb",
+      "title": "Government shutdowns usually have little economic impact. This time could be different",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/government-shutdowns-usually-have-little-economic-impact-this-time-could-be-different.html",
+      "published_at": "Mon, 29 Sep 2025 19:59:26 GMT",
+      "bullets": [
+        "• Government shutdowns historically have left little mark other than political damage",
+        "• Most economists calculate the impact as about 0.1 percentage point off gross domestic product for week",
+        "• If Trump follows through on the threat, it throws a wrench into what otherwise have been more political than economic events "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "08b300547955",
+      "title": "Entrepreneur Charlie Javice sentenced to over seven years for defrauding JPMorgan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/charlie-javice-sentence-jpmorgan",
+      "published_at": "Mon, 29 Sep 2025 19:52:59 GMT",
+      "bullets": [
+        "• Charlie Javice convicted of defrauding JPMorgan Chase into buying her college financial aid startup Frank for $175m",
+        "• Prosecutors had sought a 12-year prison sentence for bank fraud, securities fraud, wire fraud and conspiracy",
+        "• JPMorgan CEO Jamie Dimon called buying Frank a “huge mistake”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -215,14 +303,14 @@
       "published_at": "Mon, 29 Sep 2025 19:20:43 GMT",
       "bullets": [
         "• Afghanistan telecom blackout as Taliban shuts off internet services across the country",
-        "• The Taliban have imposed a total blackout of internet services in accordance with their Islamic law",
+        "• The Taliban have imposed a nationwide ban on internet traffic in accordance with their Islamic law",
         "• Many people will not notice the impact until Tuesday morning, when services are expected to resume",
-        "• The country is experiencing a total connectivity blackout "
+        "• Mobile internet and satellite TV also affected "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.992
       }
     },
     {
@@ -241,40 +329,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "21e66f4920b6",
-      "title": "Watch: Trump details plan to end Israel war with Hamas in Gaza",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/trump-israel-gaza-hamas-peace-plan.html",
-      "published_at": "Mon, 29 Sep 2025 19:09:12 GMT",
-      "bullets": [
-        "• The White House released a 20-point plan to end the war in Gaza between Israel and Hamas",
-        "• The plan calls for Gaza to be governed under the temporary transitional governance of a technocratic, apolitical Palestinian committee",
-        "• If Hamas rejects the plan, \"they're the only one left,\" President Trump says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.962
-      }
-    },
-    {
-      "id": "793a23cb68db",
-      "title": "Florida man killed, cooked and ate two of his pet peacocks, say authorities",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/florida-pet-peacocks",
-      "published_at": "Mon, 29 Sep 2025 19:01:50 GMT",
-      "bullets": [
-        "• Craig Vogt, 61, was arrested on 23 September on a third-degree felony charge of aggravated animal cruelty",
-        "• He allegedly told investigators that he had killed the two peacocks because his neighbor kept feeding them",
-        "• He had written the neighbor a letter telling her that he would continue to kill his pet peacocks if she continued feeding them “to prove a point”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -308,58 +362,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.959
-      }
-    },
-    {
-      "id": "e4b3634c02ac",
-      "title": "Nine people dead and scores injured over weekend of mass US shootings",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/weekend-mass-shootings-this-year",
-      "published_at": "Mon, 29 Sep 2025 18:32:48 GMT",
-      "bullets": [
-        "• Six mass shootings erupted across the US over the weekend, killing nine people and injuring at least 33",
-        "• The Gun Violence Archive, an online non-profit database which records mass shootings in America, added six fresh incidents over Saturday and Sunday",
-        "• The archive’s tally of mass shootings – defined as events with at least four victims injured or killed, not counting the shooter – is 324 this year alone "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.965
-      }
-    },
-    {
-      "id": "30c10b1c629b",
-      "title": "Labor Dept. won't release Friday's key jobs report, other data if government shuts down",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/bls-wont-be-releasing-data-including-fridays-key-jobs-report-in-case-of-a-shutdown.html",
-      "published_at": "Mon, 29 Sep 2025 18:16:06 GMT",
-      "bullets": [
-        "• The Labor Department is preparing for what would amount to a news and data blackout",
-        "• The DOL, in conjunction with the Bureau of Labor Statistics, has several key reports upcoming that will provide important clues about the direction of the economy",
-        "• On Friday, the BLS will release the monthly nonfarm payrolls report and the consumer price index "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.852
-      }
-    },
-    {
-      "id": "b00ac9a6aef0",
-      "title": "Investigators search for motive in deadly Michigan church attack",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 17:50:31 GMT",
-      "bullets": [
-        "• Four people killed and eight injured in Michigan church attack on Sunday",
-        "• Thomas Jacob Sanford, 40, drove his vehicle into a church, opened fire and then set it ablaze",
-        "• Hundreds of people were attending a service at the time, and police said on Monday that everyone had been accounted for",
-        "• Governor Gretchen Whitmer called for patience as FBI works to determine a motive "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     },
     {
@@ -774,6 +776,22 @@
       }
     },
     {
+      "id": "1cd95cb368fe",
+      "title": "The best AirPods to buy",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+      "published_at": "2025-09-29T16:00:00-04:00",
+      "bullets": [
+        "• There are currently four AirPods models to choose from, each with its own appeal and upside",
+        "• Amazon’s fall Prime Day event kicks off on October 7th; if you want to shop ahead of the two-day sale, we’ve rounded up the best early Prime Day deals you can already get "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
       "id": "2227528446e2",
       "title": "Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months",
       "outlet": "The Verge",
@@ -839,23 +857,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.989
-      }
-    },
-    {
-      "id": "a363aa3b5a85",
-      "title": "Anker’s fastest airline-friendly power bank is now available",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly",
-      "published_at": "2025-09-29T11:51:00-04:00",
-      "bullets": [
-        "• Anker is offering a temporary discount on its $229.99 Prime Power Bank (26k, 300W) for $184 for the next six days",
-        "• The power bank’s 26,250mAh capacity (99.75Wh at 3.8V) keeps it airline-friendly",
-        "• It features a pair of USB-C ports that can each output up to 140W of power simultaneously "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.741
       }
     }
   ]
