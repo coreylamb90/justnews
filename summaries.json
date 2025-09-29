@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T15:32:55Z",
+  "generated_at": "2025-09-29T15:50:15Z",
   "items": [
     {
       "id": "d4ef1131cdc6",
@@ -226,6 +226,58 @@
       }
     },
     {
+      "id": "06828fc8ffc8",
+      "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
+      "published_at": "Mon, 29 Sep 2025 15:44:30 GMT",
+      "bullets": [
+        "• The Public Investment Fund of Saudi Arabia, Silver Lake and Affinity Partners will buy EA in an all-cash deal worth $55 billion",
+        "• Shareholders will receive $210 per share in cash",
+        "• The deal is set to be the largest leveraged buyout in Wall Street history "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "cc61fc22a90d",
+      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
+      "published_at": "Mon, 29 Sep 2025 15:27:35 GMT",
+      "bullets": [
+        "• Donald Trump will try to close the gap with an isolated Benjamin Netanyahu, two senior administration officials have told Politico",
+        "• ‘Bibi is on his own island",
+        "• Not just from us, from his own government,” said one of the officials "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.781
+      }
+    },
+    {
+      "id": "e5eb6b1b3d93",
+      "title": "Tensions expected as Trump meets with top Democrats and Republicans in effort to avoid shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/trump-meeting-democrats-republicans-shutdown-tensions",
+      "published_at": "Mon, 29 Sep 2025 15:19:44 GMT",
+      "bullets": [
+        "• Meeting aimed at reaching an agreement over funding the government",
+        "• It hinges on Democrat demands for an extension of funding subsidies under Obamacare",
+        "• Failure likely to result in large swathes of the federal government shutting down from 1 October",
+        "• Trump and the Republicans have signaled that they are unfazed at that prospect, calculating that the public will blame Democrat intransigence "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
       "id": "7c338ad2efb1",
       "title": "Medicare Advantage enrollment expected to fall in 2026 as insurers cut back on unprofitable plans",
       "outlet": "US Top News and Analysis",
@@ -240,23 +292,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Mon, 29 Sep 2025 15:14:19 GMT",
-      "bullets": [
-        "• Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House",
-        "• US president pushing a Gaza peace proposal after a slew of western leaders embraced Palestinian statehood",
-        "• Netanyahu will be looking to shore up his country’s most important relationship as it faces growing international isolation "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.851
       }
     },
     {
@@ -345,22 +380,6 @@
       }
     },
     {
-      "id": "b8e5553d333f",
-      "title": "Mormon church shooting suspect had Trump sign outside home, records show",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/mormon-church-shooting-trump-sign",
-      "published_at": "Mon, 29 Sep 2025 14:07:44 GMT",
-      "bullets": [
-        "• The gunman had a sign emblazoned with the last name of Donald Trump outside his house, public records show",
-        "• Trump responded to the Michigan church shooting by saying “there is still a lot to learn” about the suspect, Thomas Jacob Sanford "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
       "id": "ba37eb2480df",
       "title": "It’s official: EA is selling to private equity in $55 billion deal",
       "outlet": "Ars Technica - All content",
@@ -426,23 +445,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.979
-      }
-    },
-    {
-      "id": "06828fc8ffc8",
-      "title": "EA going private in $55 billion deal that will pay shareholders $210 a share",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/ea-shareholders-will-get-210-per-share-in-deal-to-take-company-private.html",
-      "published_at": "Mon, 29 Sep 2025 13:48:14 GMT",
-      "bullets": [
-        "• The Public Investment Fund of Saudi Arabia is rolling over its 9.9% stake in the company",
-        "• Shareholders of the company will receive $210 per share in cash",
-        "• The group of companies is making a total $36 billion equity investment, with $20 billion in debt financing "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
       }
     },
     {
@@ -736,6 +738,24 @@
       }
     },
     {
+      "id": "7c90c84f2160",
+      "title": "Alexa Plus is smarter — but it’s not yet smart enough",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
+      "published_at": "2025-09-29T11:45:00-04:00",
+      "bullets": [
+        "• This week, Amazon will launch new hardware to supercharge Alexa Plus",
+        "• Alexa Plus is a hybrid smart home assistant and personal assistant",
+        "• The assistant needs something to make it more compelling, and better hardware could be the answer",
+        "• The new hardware could make the smart home more accessible to users "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
       "id": "78f02f5b7f52",
       "title": "Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day",
       "outlet": "The Verge",
@@ -800,23 +820,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.988
-      }
-    },
-    {
-      "id": "5321f54b94ed",
-      "title": "Ford CEO Jim Farley on China, tariffs, and the quest for a $30,000 EV",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/podcast/784875/ford-ceo-jim-farley-interview-ev-cars-china-trump-tariffs-carplay",
-      "published_at": "2025-09-29T10:00:00-04:00",
-      "bullets": [
-        "• Ford CEO Jim Farley on China, tariffs, and the quest for a $30,000 EV",
-        "• Joanna Stern and the head of Ford discuss Apple CarPlay Ultra, competing with BYD, and what car she should lease next",
-        "• Stern is a Wall Street Journal columnist and author of the upcoming book I AM NOT A ROBOT "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.881
       }
     },
     {
