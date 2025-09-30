@@ -1,12 +1,29 @@
 {
-  "generated_at": "2025-09-30T18:41:05Z",
+  "generated_at": "2025-09-30T19:26:35Z",
   "items": [
+    {
+      "id": "68792c56e973",
+      "title": "Spirit Airlines touts 'massive progress' in bankruptcy",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/spirit-airlines-bankruptcy.html",
+      "published_at": "Tue, 30 Sep 2025 19:17:24 GMT",
+      "bullets": [
+        "• Spirit Airlines is making \"massive progress\" to revitalize the airline, restructuring lawyer says",
+        "• The struggling budget airline has reached an agreement with debtholders for up to $475 million",
+        "• Spirit last month filed for its second Chapter 11 bankruptcy protection in less than a year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.885
+      }
+    },
     {
       "id": "74be3ce48bb5",
       "title": "Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 18:35:41 GMT",
+      "published_at": "Tue, 30 Sep 2025 19:13:36 GMT",
       "bullets": [
         "• Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
         "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent Democrats from negotiating further",
@@ -16,6 +33,58 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
+      }
+    },
+    {
+      "id": "a52ce851e57f",
+      "title": "Government on track to shut down after midnight with no funding deal in sight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Tue, 30 Sep 2025 18:52:55 GMT",
+      "bullets": [
+        "• The U.S",
+        "• government was set to shut down after midnight Tuesday",
+        "• House Speaker Mike Johnson said Democrats \"need to come to their senses here, and do the right thing\" Johnson accused Democrats of trying to protect Schumer's \"backside\" by pressing that and other demands "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "07c97d9f2ccc",
+      "title": "Trump, Pfizer agree to lower U.S. drug prices, exempt company from pharma tariffs",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
+      "published_at": "Tue, 30 Sep 2025 18:43:32 GMT",
+      "bullets": [
+        "• Pfizer has agreed to voluntarily sell its medications for less for Medicaid patients",
+        "• Pfizer will also guarantee the same \"most-favored-nation\" pricing on its new drugs for Medicare, Medicaid and commercial payers",
+        "• The company plans to invest $70 billion to reshore domestic drug manufacturing and research facilities "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      }
+    },
+    {
+      "id": "5c370e153ea7",
+      "title": "Oil companies slash jobs by the thousands as prices fall, tariffs rise and industry consolidates",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/oil-gas-layoff-job-cut-opec-trump-wti.html",
+      "published_at": "Tue, 30 Sep 2025 18:36:18 GMT",
+      "bullets": [
+        "• President Trump promised boom times for oil and gas when he took office in January",
+        "• Instead, the industry has shed 4,000 positions through August, according to the most recent data from the Bureau of Labor Statistics",
+        "• The three biggest U.S",
+        "• oil companies Exxon Mobil, Chevron and ConocoPhillips have all announced job cuts in 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
       }
     },
     {
@@ -91,31 +160,15 @@
       "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
       "published_at": "Tue, 30 Sep 2025 17:44:31 GMT",
       "bullets": [
-        "• Republican majority is pushing legislation to fund the government through 21 November",
-        "• Democrats have refused to vote for it unless it includes a series of concessions centered on healthcare",
-        "• Republicans passed their funding bill through the House of Representatives on a near party-line vote earlier this month "
+        "• President Donald Trump said a government shutdown was 'probably likely' on Tuesday",
+        "• Republicans are pushing legislation to fund the government through 21 November",
+        "• Democrats are demanding a series of concessions from Republicans in exchange for funding",
+        "• They want to undo Republican cuts to Medicaid, the program providing healthcare to the poor "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "775c6e0a26b5",
-      "title": "OpenAI's latest Sora video generator needs approval before creating individuals",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/openai-sora-ai-video-generator-us-canada.html",
-      "published_at": "Tue, 30 Sep 2025 17:43:24 GMT",
-      "bullets": [
-        "• OpenAI is releasing its most advanced video generation model with a new iOS app",
-        "• The Sora 2.0 model builds on an earlier version released this year as a research preview",
-        "• The new app is invite-only to start with and will let users create, remix, and cameo in AI-generated videos "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -135,74 +188,6 @@
       }
     },
     {
-      "id": "a5dc0aae5d29",
-      "title": "Ford CEO expects EV sales to be cut in half after end of tax credits",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/ford-ceo-jim-farley-ev-incentives.html",
-      "published_at": "Tue, 30 Sep 2025 17:40:43 GMT",
-      "bullets": [
-        "• Ford Motor CEO Jim Farley says he expects demand for all-electric vehicles to be slashed in half next month",
-        "• Farley said he \"wouldn't be surprised\" if sales of EVs fell from 10% to 12% this month to 5% after incentive program ends",
-        "• The federal incentives of up to $7,500 are coming to an end as part of the Trump administration's \"One Big Beautiful Bill Act\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "07c97d9f2ccc",
-      "title": "Trump, Pfizer agree to lower U.S. drug prices, exempt company from pharma tariffs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
-      "published_at": "Tue, 30 Sep 2025 17:32:29 GMT",
-      "bullets": [
-        "• Pfizer has agreed to voluntarily sell its medications for less for Medicaid patients",
-        "• Pfizer will also guarantee the same \"most-favored-nation\" pricing on its new drugs for Medicare, Medicaid and commercial payers",
-        "• The company plans to invest $70 billion to reshore domestic drug manufacturing and research facilities "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      }
-    },
-    {
-      "id": "a52ce851e57f",
-      "title": "Government on track to shut down after midnight with no funding deal in sight",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-      "published_at": "Tue, 30 Sep 2025 17:22:35 GMT",
-      "bullets": [
-        "• The U.S",
-        "• government was set to shut down at midnight Tuesday",
-        "• House Speaker Mike Johnson said Democrats \"need to come to their senses here, and do the right thing\" Johnson accused Democrats of trying to protect Schumer's \"backside\" by pressing that and other demands "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
-      "id": "754ce621a52c",
-      "title": "Nvidia's market cap tops $4.5 trillion after string of AI infrastructure deals",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/nvidias-market-cap-tops-4point5-trillion-on-ai-infrastructure-deals.html",
-      "published_at": "Tue, 30 Sep 2025 16:43:47 GMT",
-      "bullets": [
-        "• Nvidia shares reached a new record on Tuesday, climbing almost 3% and lifting the chipmaker's market cap past $4.5 trillion",
-        "• The stock is now up about 39% for the year, and continues to attract investors as Nvidia steps up its pace of deal-making",
-        "• OpenAI announced last week that Nvidia would take an equity stake worth up to $100 billion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      }
-    },
-    {
       "id": "1511959552f2",
       "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
       "outlet": "BBC News",
@@ -217,6 +202,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.987
+      }
+    },
+    {
+      "id": "d3d5c30b9dba",
+      "title": "Nike will report earnings after the bell. Here's what Wall Street expects",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
+      "published_at": "Tue, 30 Sep 2025 16:14:21 GMT",
+      "bullets": [
+        "• Nike is expected to report a decline in quarterly sales on Tuesday",
+        "• The sneaker giant has been implementing a turnaround plan, and some analysts are expecting it to improve",
+        "• The company faces multiple hurdles as it tries to gain back ground, including tariffs and intense competition "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -272,7 +274,7 @@
     {
       "id": "92b5d1e4fcb9",
       "title": "Here's what a shutdown means for Smithsonian museums, memorials and the zoo",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/30/nx-s1-5558189/government-shutdown-smithsonian-zoo",
       "published_at": "Tue, 30 Sep 2025 14:29:01 -0400",
       "bullets": [
@@ -281,7 +283,7 @@
         "• The Smithsonian says it will use prior-year funds to remain open to the public",
         "• Zoo webcams will be turned off if a government shutdown occurs "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -362,14 +364,14 @@
       "url": "https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes",
       "published_at": "Tue, 30 Sep 2025 12:57:37 -0400",
       "bullets": [
+        "• Public health authorities are urging people to throw away certain precooked pasta meals sold at two popular retailers over concerns that they could be contaminated with listeria",
         "• The U.S",
-        "• Agriculture Department issued an alert late last week about two products with specific use-by dates in late September and early October",
-        "• The USDA says the pasta in those products may be contaminated with Listeria monocytogenes and appear to be genetically related to a deadly listeria outbreak that has already spread to 15 states "
+        "• Department of Agriculture issued an alert late last week about two products with specific use-by dates in late September and early October: Marketside Linguine With Beef Meatballs & Marinara Sauce, sold at Walmart "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.993
       }
     },
     {
@@ -424,24 +426,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "c99f880e670a",
-      "title": "'Like ice melting': Journalists warn press freedom is in decline across Asia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557189/asia-press-freedom-media",
-      "published_at": "Tue, 30 Sep 2025 11:04:24 -0400",
-      "bullets": [
-        "• China is the world's top jailer of journalists, with 112 journalists and media workers currently behind bars",
-        "• China, Afghanistan, Vietnam and Myanmar are driving the trend, says Reporters Without Borders",
-        "• It's happening as the U.S",
-        "• cancels funding for independent media across the Asia-Pacific region "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
       }
     },
     {
@@ -856,6 +840,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.916
+      }
+    },
+    {
+      "id": "c41ff758b36a",
+      "title": "CNN Political Briefing",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
+      "published_at": null,
+      "bullets": [
+        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
+        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
+        "• The race for New Jersey governor could be the sleeper contest of the year "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     }
   ]
