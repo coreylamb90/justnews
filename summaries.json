@@ -1,21 +1,56 @@
 {
-  "generated_at": "2025-09-30T14:50:59Z",
+  "generated_at": "2025-09-30T15:30:48Z",
   "items": [
     {
-      "id": "af53f51513df",
-      "title": "Hegseth and Trump reiterate 'warrior' ethos in remarks to top US generals",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 14:44:13 GMT",
+      "id": "0fe2ae94edc8",
+      "title": "Amazon's new Echo devices designed for Alexa+ start at $99",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/amazon-alexa-echo-price.html",
+      "published_at": "Tue, 30 Sep 2025 15:26:12 GMT",
       "bullets": [
-        "• US President Donald Trump is scheduled to speak at the end of the week",
-        "• He is expected to address the issue of gender equality in the United States",
-        "• The president will also address the US military in Washington, D.C., on Monday "
+        "• Amazon unveils a slew of new smart speakers and voice-activated displays that are revamped with Alexa+",
+        "• The company debuted the Echo Dot Max, a revamped version of its compact smart speaker, which costs $99.99",
+        "• Amazon also unveiled a new Echo Show 8 and Echo Show 11, priced at $179.99 and $219.99, respectively "
       ],
-      "category": "World",
+      "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.981
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "6d7dc6ff3394",
+      "title": "Second victim dies following shooting at Texas immigration facility",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/victim-dies-dallas-ice-facility-shooting-miguel-angel-garcia-hernandez",
+      "published_at": "Tue, 30 Sep 2025 15:14:32 GMT",
+      "bullets": [
+        "• Miguel Ángel García-Hernández, 32, was one of three people shot at the Dallas Ice facility",
+        "• The shooting initially left one detainee dead and two others critically wounded",
+        "• On Monday, Ice officials identified the other slain victim as 37-year-old Norlan Guzman-Fuentes of El Salvador "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "Trump claims US faces ‘invasion from within’ in address to military leaders after Hegseth declares war on diversity efforts – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 15:13:21 GMT",
+      "bullets": [
+        "• ‘We’re under invasion from within, no different than a foreign enemy, but more difficult in many ways, because they don’t wear uniforms,” Trump says",
+        "• “They all want your job",
+        "• They want to be with you",
+        "• They’ll even take your job’, he says "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.791
       }
     },
     {
@@ -23,17 +58,136 @@
       "title": "Trump, Pfizer to announce agreement to lower Medicaid drug prices",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
-      "published_at": "Tue, 30 Sep 2025 14:36:31 GMT",
+      "published_at": "Tue, 30 Sep 2025 15:10:39 GMT",
       "bullets": [
         "• President Donald Trump will announce a drug pricing deal with Pfizer at 11 a.m",
         "• ET",
         "• The deal involves a three-year reprieve on planned pharmaceutical tariffs as long as Pfizer builds manufacturing plants in the U.S",
-        "• Pfizer CEO Albert Bourla will be in attendance, an official said "
+        "• Pfizer CEO Albert Bourla will be in attendance, a White House official said "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.569
+        "label": "negative",
+        "score": 0.66
+      }
+    },
+    {
+      "id": "60b1a3e0d592",
+      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
+      "published_at": "Tue, 30 Sep 2025 15:06:15 GMT",
+      "bullets": [
+        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming artificial intelligence era",
+        "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
+        "• The project could have profound implications for the bank's employees, customers and shareholders "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "444707b12d57",
+      "title": "Amazon Prime Video teams up with FanDuel for real-time betting updates during NBA games",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/amazon-prime-fanduel-real-time-nba-betting-updates.html",
+      "published_at": "Tue, 30 Sep 2025 15:02:10 GMT",
+      "bullets": [
+        "• Amazon is partnering with FanDuel, the exclusive odds provider of the NBA and WNBA on Prime",
+        "• OddsView will update odds, lines, probabilities, moneylines, spreads and game props in real time",
+        "• It'll be available for all NBA games on Amazon Prime Video this season "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.701
+      }
+    },
+    {
+      "id": "c5c56d05f342",
+      "title": "US national park staff fear turmoil as shutdown looms",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-national-parks-government-shutdown",
+      "published_at": "Tue, 30 Sep 2025 15:00:46 GMT",
+      "bullets": [
+        "• 40 former superintendents write to interior secretary urging him to close the parks if a shutdown occurs",
+        "• They fear the Trump administration could again push for leaving America’s national parks open when they are unstaffed",
+        "• The shutdown in the first term caused irreversible damage to the parks, including Joshua Tree in California "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "9959e763ca68",
+      "title": "Behind the scenes with the most beautiful car in racing: The Ferrari 499P",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2025/09/behind-the-scenes-with-the-most-beautiful-car-in-racing-the-ferrari-499p/",
+      "published_at": "Tue, 30 Sep 2025 14:58:15 +0000",
+      "bullets": [
+        "• Ferrari's Hypercars are purpose-built, closed-top race cars with some of the most complex hybrid systems outside of Formula 1",
+        "• During the 24 hours of Le Mans this year, the winning car covered 3,276 miles (5,273 km) Ferrari leads the manufacturer's championship and the driver's championship with the #51 factory car "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "96366a1d8a2a",
+      "title": "California woman knocked unconscious during arrest reaches $17m settlement with county",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/nakia-porter-police-settlement-solano-county-california",
+      "published_at": "Tue, 30 Sep 2025 14:52:20 GMT",
+      "bullets": [
+        "• Nakia Porter had filed a federal lawsuit accusing the Solano county sheriff’s office deputies of violating state and federal civil rights statutes",
+        "• The lawsuit also accused the deputies of lying on their arrest repororations",
+        "• Body cameras worn by the deputies recorded them pulling guns on Porter before slamming her to the pavement while handcuffing her "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "75a1a435b0d1",
+      "title": "Louisiana governor asks for national guard deployment to New Orleans",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/jeff-landry-national-guard-new-orleans-louisiana",
+      "published_at": "Tue, 30 Sep 2025 14:50:49 GMT",
+      "bullets": [
+        "• Republican governor Jeff Landry has asked for up to 1,000 troops to be deployed to New Orleans and other cities",
+        "• It comes weeks after Trump suggested New Orleans could be one of his next targets for deploying the national guard to fight crime",
+        "• Washington and Memphis similarly had reported steep crime reductions when Trump nonetheless sent troops into those cities "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      }
+    },
+    {
+      "id": "af53f51513df",
+      "title": "Hegseth and Trump reiterate 'warrior' ethos in remarks to top US generals",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 14:44:13 GMT",
+      "bullets": [
+        "• US President Donald Trump and top brass speak at US military summit in Washington DC",
+        "• Announcement comes amid fears of 'toxic' culture in the military",
+        "• US military will require men to meet 'highest male standard' in physical fitness tests",
+        "• The move may exclude some women from serving "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
       }
     },
     {
@@ -54,34 +208,17 @@
       }
     },
     {
-      "id": "74be3ce48bb5",
-      "title": "Donald Trump addresses military leaders as Pete Hegseth declares war on diversity efforts – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 14:33:37 GMT",
+      "id": "0cc81565e7ae",
+      "title": "Is the “million-year-old” skull from China a Denisovan or something else?",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/09/is-the-million-year-old-skull-from-china-a-denisovan-or-something-else/",
+      "published_at": "Tue, 30 Sep 2025 14:14:52 +0000",
       "bullets": [
-        "• Trump tells military generals 'we're under invasion from within' 'No different than a foreign enemy, but more difficult in many ways, because they don’t wear uniforms,' he says",
-        "• Portland, Oregon “looks like a war zone”, he says",
-        "• ‘This place is a nightmare’"
+        "• A fossil skull from China may be a million years old, but it's probably related to Denisovans",
+        "• The skull is one of three unearthed from a terrace alongside the Han River, in central China",
+        "• It was cracked and broken after hundreds of thousands of years under the crushing weight of river mud "
       ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "60b1a3e0d592",
-      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
-      "published_at": "Tue, 30 Sep 2025 14:00:22 GMT",
-      "bullets": [
-        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming artificial intelligence era",
-        "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
-        "• The project could have profound implications for the bank's employees, customers and shareholders "
-      ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
         "score": 0.993
@@ -102,24 +239,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "5f3484b3abd1",
-      "title": "Michigan church shooting suspect bore a hatred of Mormon religion, locals say",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/mormon-church-shooting-hate-religion",
-      "published_at": "Tue, 30 Sep 2025 13:43:17 GMT",
-      "bullets": [
-        "• Four people have been killed in a car crash in Michigan",
-        "• The victims are believed to be the victims of the car crash",
-        "• Police say the victims were victims of a car bomb attack on the city",
-        "• The incident happened at the end of the day on Sunday "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -157,72 +276,20 @@
       }
     },
     {
-      "id": "5c0cedc9d528",
-      "title": "What is a government shutdown and why is this year’s threat more serious?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
-      "published_at": "Tue, 30 Sep 2025 13:32:34 GMT",
+      "id": "a07c513efc6e",
+      "title": "Burnout and Elon Musk’s politics spark exodus from senior xAI, Tesla staff",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2025/09/burnout-and-elon-musks-politics-spark-exodus-from-senior-xai-tesla-staff/",
+      "published_at": "Tue, 30 Sep 2025 13:21:13 +0000",
       "bullets": [
-        "• The federal government is once again on the brink of a shutdown, unless Congress can reach a funding agreement before the start of the new fiscal year, on 1 October",
-        "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
+        "• Senior staff at Tesla have been leaving the company over the past year",
+        "• Members of the company’s two-year-old artificial intelligence start-up have also left the company",
+        "• The move is part of a growing exodus of senior staff from the company's top ranks "
       ],
-      "category": "US",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "a52ce851e57f",
-      "title": "Government shutdown: 'Democrats should do the right thing,' Speaker Johnson says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-      "published_at": "Tue, 30 Sep 2025 13:25:27 GMT",
-      "bullets": [
-        "• Democrats want to keep the government open for at least seven weeks",
-        "• They want an extension of the Affordable Care Act tax credits",
-        "• Those credits are due to expire at the end of the year",
-        "• Democrats say they will not pass a bill that would keep the federal government open "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
-      "id": "1874b18564f7",
-      "title": "Kash Patel allegedly gave New Zealand officials guns illegal to possess under local laws",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/kash-patel-new-zealand-guns",
-      "published_at": "Tue, 30 Sep 2025 13:09:08 GMT",
-      "bullets": [
-        "• The FBI director gave the inoperable guns to New Zealand police and officials",
-        "• The guns were inoperably disassembled and had to be destroyed",
-        "• The weapons were part of a display at the FBI’s first standalone office in New Zealand "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "c72ff4a10446",
-      "title": "One-time 'SPAC King' Palihapitiya launches new blank-check vehicle with plan to 'temper' retail fervor",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/one-time-spac-king-palihapitiya-launches-new-blank-check-vehicle-with-plan-to-temper-retail-fervor.html",
-      "published_at": "Tue, 30 Sep 2025 13:01:26 GMT",
-      "bullets": [
-        "• Chamath Palihapitiya launches a new blank-check vehicle",
-        "• The $345 million AEXA is designed to target companies in AI, energy, defense and decentralized finance",
-        "• The SPAC was up 3% in early trading Tuesday",
-        "• The Social Capital CEO and former Facebook executive had a bruising track record "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
+        "score": 0.995
       }
     },
     {
@@ -243,24 +310,6 @@
       }
     },
     {
-      "id": "07c0ed57d428",
-      "title": "Hundreds of US women charged with pregnancy-related crimes since fall of Roe",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/pregnancy-us-women-crimes-study",
-      "published_at": "Tue, 30 Sep 2025 13:00:42 GMT",
-      "bullets": [
-        "• Of the 412 cases tracked by Pregnancy Justice, the vast majority took place in the US south",
-        "• Nearly 400 of the cases involved allegations of substance use during pregnancy",
-        "• In 16 cases, law enforcement charged women with homicide in 16 cases",
-        "• There is no national database of US arrest or court records, the group believes the tally is likely to be an undercount "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "2ba51c286447",
       "title": "The SUV that saved Porsche goes electric, and the tech is interesting",
       "outlet": "Ars Technica - All content",
@@ -276,6 +325,41 @@
       "sentiment": {
         "label": "positive",
         "score": 0.996
+      }
+    },
+    {
+      "id": "c99f880e670a",
+      "title": "'Like ice melting': Journalists warn press freedom is in decline across Asia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5557189/asia-press-freedom-media",
+      "published_at": "Tue, 30 Sep 2025 11:04:24 -0400",
+      "bullets": [
+        "• China is the world's top jailer of journalists, with 112 journalists and media workers currently behind bars",
+        "• China, Afghanistan, Vietnam and Myanmar are driving the trend, says Reporters Without Borders",
+        "• It's happening as the U.S",
+        "• cancels funding for independent media across the Asia-Pacific region "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      }
+    },
+    {
+      "id": "e84908819267",
+      "title": "Scientists create human eggs in the lab, using skin cells",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5553322/ivg-human-eggs-cells-fertility",
+      "published_at": "Tue, 30 Sep 2025 11:01:00 -0400",
+      "bullets": [
+        "• Scientists create human eggs in the lab, using skin cells that carry the genes of people struggling to have children",
+        "• The technology could help infertile or gay couples have babies with their own genes",
+        "• The most common approach involves converting adult cells into cells known as iPS cells "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.871
       }
     },
     {
@@ -348,34 +432,16 @@
       }
     },
     {
-      "id": "7d636a279732",
-      "title": "Scientists unlock secret to Venus flytrap’s hair-trigger response",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/",
-      "published_at": "Tue, 30 Sep 2025 09:00:26 +0000",
-      "bullets": [
-        "• The Venus flytrap attracts its prey with a fruity scent",
-        "• When an insect lands on a leaf, it stimulates the sensitive trigger hairs that line the leaf",
-        "• When the pressure becomes strong enough to bend those hairs, the plant snaps its leaves shut",
-        "• The plant detects the first \"action potential\" but doesn't snap shut right away, waiting until a second zap confirms the presence of prey "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      }
-    },
-    {
       "id": "95cef9caf9e2",
       "title": "The UN mission appeals to the Taliban to restore internet access in Afghanistan",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan",
       "published_at": "Tue, 30 Sep 2025 08:51:25 -0400",
       "bullets": [
+        "• The U.N",
+        "• mission appeals to the Taliban to restore internet access in Afghanistan",
         "• The outage was the first nationwide shutdown since the Taliban returned to power in August 2021",
-        "• Earlier this month, several provinces lost their fiber-optic connections after Taliban leader Hibatullah Akhundzada issued a decree banning the service",
-        "• The disruption threatened economic stability and deepened one of the world's worst humanitarian crises, U.N",
-        "• says "
+        "• Earlier this month, several provinces lost their fiber-optic connections after Taliban leader issued a decree banning the service to prevent immorality "
       ],
       "category": "General",
       "sentiment": {
@@ -384,25 +450,9 @@
       }
     },
     {
-      "id": "adb277a2ec6d",
-      "title": "With therapy hard to get, people lean on AI for mental health. What are the risks?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5557278/ai-artificial-intelligence-mental-health-therapy-chatgpt-openai",
-      "published_at": "Tue, 30 Sep 2025 08:00:00 -0400",
-      "bullets": [
-        "• ChatGPT, a chatbot developed by Open AI, has 700 million weekly users",
-        "• Chatbot chatbots are drawing in people priced out of therapy, burned by bad experiences, or just curious to see if a machine might be a helpful guide "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      }
-    },
-    {
       "id": "d74b3cadc53e",
       "title": "Government shuts down tonight barring a deal. And, U.S. military leaders gather in VA",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/30/g-s1-91242/up-first-newsletter-government-shutdown-trump-netanyahu-gaza-pete-hegseth-meeting",
       "published_at": "Tue, 30 Sep 2025 07:09:27 -0400",
       "bullets": [
@@ -412,7 +462,7 @@
         "• Secretary of Defense Pete Hegseth is meeting with top military leaders",
         "• Government shutdown deadline is midnight tonight "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.976
@@ -646,40 +696,6 @@
       }
     },
     {
-      "id": "323e0c1f5acf",
-      "title": "Trump obtains another settlement as YouTube agrees to pay $24.5 million",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/09/youtube-pays-24-5m-to-settle-trump-lawsuit-over-january-2021-suspension/",
-      "published_at": "Mon, 29 Sep 2025 23:08:33 +0000",
-      "bullets": [
-        "• Google owner Alphabet agrees to pay $24.5 million to settle lawsuit filed by President Trump in 2021",
-        "• Trump sued YouTube over his account being suspended after January 6, 2021, attack on US Capitol",
-        "• Trump directed $22 million to be contributed to the Trust for the National Mall, a 501(c)(3) tax-exempt entity, to support the construction of the White House State Ballroom "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      }
-    },
-    {
-      "id": "db7c1bf2dc47",
-      "title": "Another setback for Firefly Aerospace’s beleaguered rocket program",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/09/after-another-fiery-setback-it-seems-fireflys-alpha-rocket-is-still-in-beta/",
-      "published_at": "Mon, 29 Sep 2025 22:42:01 +0000",
-      "bullets": [
-        "• The booster stage for Firefly Aerospace's next Alpha rocket was destroyed Monday in a fiery accident on the company's test stand in Texas",
-        "• Engineers were testing the rocket before shipment to Vandenberg Space Force Base, California, to prepare for launch later this year",
-        "• The rocket was undergoing test-firings of the booster's four kerosene-fueled engines "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
       "id": "c357cde442a9",
       "title": "Madagascar’s president dissolves government amid youth-led protests",
       "outlet": "World news | The Guardian",
@@ -747,20 +763,74 @@
       }
     },
     {
-      "id": "bf179862c020",
-      "title": "Amazon announces new Kindle Scribes including one with a color screen",
+      "id": "98ecad450917",
+      "title": "Alexa Plus on the TV is made to save you from your phone",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788289/amazon-kindle-scribe-e-ink-digital-notepad-stylus",
-      "published_at": "2025-09-30T10:43:55-04:00",
+      "url": "https://www.theverge.com/news/788594/amazon-alexa-plus-fire-tv-select-4k",
+      "published_at": "2025-09-30T11:21:10-04:00",
       "bullets": [
-        "• Amazon announces new Kindle Scribes including one with a color screen",
-        "• The new Scribes feature a major redesign that does away with the asymmetrical chin on one side making the devices look sleeker and more like a tablet",
-        "• At 5.4mm thick it’s thinner than the iPhone Air "
+        "• Alexa Plus is coming to a bunch of Amazon’s new and current Fire TV hardware",
+        "• The improved voice assistant can search for specific scenes, help you find out game scores, and more",
+        "• It can also help you jump into live sporting events on Prime Video, Sling TV, DirecTV, and Fubo "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.511
+      }
+    },
+    {
+      "id": "011008f547ab",
+      "title": "Hands-on with Amazon’s new Kindle Scribes, including one with a color screen",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/787984/kindle-scribe-colorsoft-hands-on-amazon",
+      "published_at": "2025-09-30T11:12:33-04:00",
+      "bullets": [
+        "• Amazon announced three new Kindle Scribes this morning with a much nicer design",
+        "• There’s even one with a color screen",
+        "• At 5.4mm, they’re thinner than the iPhone Air and come with AI features that will help users quickly summarize notes",
+        "• The Kindle Scribe Colorsoft starts at $629.99 and is set to launch later this year "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.907
+      }
+    },
+    {
+      "id": "7b937360a201",
+      "title": "Amazon finally did the damn hardware right",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/788051/hands-on-amazon-alexa-echo-show-11-echo-dot-max-echo-studio",
+      "published_at": "2025-09-30T11:12:02-04:00",
+      "bullets": [
+        "• Amazon's newest Echo speakers look gorgeous",
+        "• Amazon has finally delivered a polished, powerful lineup",
+        "• The new Echos are more elegant, have more thoughtful designs and an attention to detail",
+        "• While they are more expensive, it feels like a minor price bump for a major hardware upgrade "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      }
+    },
+    {
+      "id": "597dcb773d98",
+      "title": "Amazon’s new Echo Dot Max smart speaker bumps up the bass",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa",
+      "published_at": "2025-09-30T10:59:26-04:00",
+      "bullets": [
+        "• Amazon unveils its latest Echo Dot smart speaker at its fall hardware event",
+        "• The Echo Dot Max is a new entry that updates the recognizable spherical design with a flat face housing the speaker’s control buttons and LED light ring",
+        "• Amazon says the sound system has been redesigned to provide nearly three times more bass than its predecessor",
+        "• This is also the first Echo Dot to sport two speakers, alongside a high-excursion woofer and a custom tweeter "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.876
       }
     },
     {
@@ -768,67 +838,17 @@
       "title": "Amazon debuts its latest Fire TVs, including a new Omni QLED model",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price",
-      "published_at": "2025-09-30T10:40:10-04:00",
+      "published_at": "2025-09-30T10:58:35-04:00",
       "bullets": [
-        "• At Amazon’s annual hardware event, Amazon announced a fleet of new Fire TVs, including an Omni QLED model, as well as new 2 and 4-series televisions",
-        "• The QLED features an auto-adjusting screen for various lighting conditions, plus what the company calls omnisense presence detection "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.609
-      }
-    },
-    {
-      "id": "86ed021d90ce",
-      "title": "Amazon’s new Fire TV Stick 4K Select streaming stick costs $39.99",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/786261/amazon-fire-tv-4k-select-stick-streaming-fall-2025-hardware-event",
-      "published_at": "2025-09-30T10:39:02-04:00",
-      "bullets": [
-        "• Amazon announced the new Fire TV Stick 4K Select streaming stick at its fall 2025 hardware event on Tuesday",
-        "• The new streaming stick will cost $39.99",
-        "• Amazon also announced new TVs and talked about a new operating system that Amazon calls Vega OS "
+        "• Amazon announced a fleet of new Fire TVs, including a new Omni QLED model",
+        "• The Fire TV 4 will be available in 43-inch, 50-inch and 55-inch configurations",
+        "• Amazon claims it has “nearly double” the local dimming zones compared to previous models",
+        "• The new model follows Amazon’s 2024 lineup, which included its first Mini LED TV "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "715e46c8efb6",
-      "title": "Amazon sticks two cameras together for the 180-degree Blink Arc",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus",
-      "published_at": "2025-09-30T10:38:50-04:00",
-      "bullets": [
-        "• Amazon is launching a new Blink camera that sticks two cameras together for a 180-degree field of view",
-        "• The new camera is designed to get rid of “blind spots,” says Blink’s marketing lead, Amy Wiedemann",
-        "• The Arc will be available for preorder today and sell for $100",
-        "• Amazon is also launching two other Blink cameras with upgraded video quality "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
-      "id": "ed72365a3cbe",
-      "title": "Ring launches upgraded cameras with ‘Retinal Vision’ 4K recording",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs",
-      "published_at": "2025-09-30T10:17:17-04:00",
-      "bullets": [
-        "• Amazon announced a slew of 2K and 4K doorbells and cameras during its fall hardware event",
-        "• The new $179.99 Ring Wired Doorbell and $59.99 Indoor Cam Plus both offer 2K resolution",
-        "• Amazon is also introducing power over ethernet versions of the Spotlight Cam Pro and Outdoor Cam Pro "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
+        "score": 0.803
       }
     },
     {
@@ -846,23 +866,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
