@@ -1,22 +1,39 @@
 {
-  "generated_at": "2025-09-30T10:34:22Z",
+  "generated_at": "2025-09-30T10:52:30Z",
   "items": [
+    {
+      "id": "471473100e7c",
+      "title": "Flights in Afghanistan grounded after internet shutdown",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 10:38:23 GMT",
+      "bullets": [
+        "• Afghanistan's main airport is at a standstill after internet shutdown by Taliban government",
+        "• The Taliban government have for weeks been severing fibre-optic internet connections across several provinces",
+        "• They say this was part of an effort to prevent immorality",
+        "• Essential services - including banking and payments - have been severely affected "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
     {
       "id": "74be3ce48bb5",
       "title": "US government to shut down within hours if no funding deal agreed – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 10:18:46 GMT",
+      "published_at": "Tue, 30 Sep 2025 10:23:52 GMT",
       "bullets": [
-        "• Pentagon review reportedly confirms Aukus submarines pact is safe",
-        "• US selling three Virginia-class nuclear-powered submarines to Australia from 2032",
-        "• Japan-based Nikkei Asia reported the Trump administration would retain the original timeline for the $368bn program",
-        "• US Department of Defense official would not confirm the report "
+        "• US government to shut down within hours if no funding deal agreed",
+        "• Democratic leaders struck a more optimistic tone after meeting with Donald Trump on Monday",
+        "• But there was little sign that Republicans had shifted from their demands that Senate Democrats vote for their bill that would keep government open "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.991
       }
     },
     {
@@ -122,21 +139,21 @@
       }
     },
     {
-      "id": "471473100e7c",
-      "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 06:58:36 GMT",
+      "id": "61dca1bb99af",
+      "title": "Germany thrived in the first China Shock. But the next one could prove catastrophic.",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/planet-money/2025/09/30/g-s1-90937/germany-thrived-in-the-first-china-shock-but-the-next-one-could-prove-catastrophic",
+      "published_at": "Tue, 30 Sep 2025 06:30:00 -0400",
       "bullets": [
-        "• Taliban government in Afghanistan has imposed a nationwide shutdown of telecommunications",
-        "• The country is currently experiencing a \"total internet blackout\", internet watchdog Netblocks reports",
-        "• Mobile internet and satellite TV have also been severely disrupted across Afghanistan",
-        "• Taliban have imposed numerous restrictions in accordance with their interpretation of Islamic Sharia law "
+        "• Germany thrived in the first China Shock, but the next one could prove catastrophic",
+        "• The VDMA represents thousands of German companies that manufacture industrial machines and equipment",
+        "• In the past six months alone, production is down 4.5 percent",
+        "• Exports are nose-diving, job cuts and furloughs are mounting "
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.999
       }
     },
     {
@@ -215,23 +232,6 @@
       }
     },
     {
-      "id": "e60deb9ba958",
-      "title": "The MLB postseason begins Tuesday. Who should you root for to win a World Series?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557394/mlb-2025-playoffs-yankees-red-sox-brewers-padres-mariners",
-      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Major League Baseball's postseason begins Tuesday",
-        "• No team in baseball this year won more than 97 games, making the Milwaukee Brewers the losing-est winningest team since 2013",
-        "• The Seattle Mariners are the only team to have never won a World Series "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      }
-    },
-    {
       "id": "54d3ae59f788",
       "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
       "outlet": "NPR Topics: News",
@@ -247,23 +247,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.984
-      }
-    },
-    {
-      "id": "dd89c5773ca5",
-      "title": "Federal workers who took Trump's buyout get final paychecks and an uncertain future",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5545715/federal-employees-fork-deferred-resignation-trump",
-      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Stephani Cherkaoui is one of more than 150,000 federal workers who took the \"Fork in the Road\" buyout offer",
-        "• She agreed to share her thoughts and opinions with NPR, emphasizing that she does not speak for the government",
-        "• \"I do think it was a fair deal for me — as an individual,\" she says "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.905
       }
     },
     {
@@ -862,6 +845,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.996
+      }
+    },
+    {
+      "id": "8113583c1aab",
+      "title": "Margins of Error",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/margins-of-error",
+      "published_at": null,
+      "bullets": [
+        "• This season on Margins of Error, Harry teases out big ideas like what accents say about where we live, how much money it takes to be happy, and whether the U.S",
+        "• should finally switch to the metric system",
+        "• Harry talks to some very smart people who are doing their best to optimize the way we travel "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
       }
     }
   ]
