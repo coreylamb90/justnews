@@ -1,6 +1,39 @@
 {
-  "generated_at": "2025-09-30T09:51:24Z",
+  "generated_at": "2025-09-30T10:34:22Z",
   "items": [
+    {
+      "id": "74be3ce48bb5",
+      "title": "US government to shut down within hours if no funding deal agreed – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 10:18:46 GMT",
+      "bullets": [
+        "• Pentagon review reportedly confirms Aukus submarines pact is safe",
+        "• US selling three Virginia-class nuclear-powered submarines to Australia from 2032",
+        "• Japan-based Nikkei Asia reported the Trump administration would retain the original timeline for the $368bn program",
+        "• US Department of Defense official would not confirm the report "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "6021b5971497",
+      "title": "Utah governor calls on people to ‘stop shooting each other’ after Kirk killing",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/spencer-cox-charlie-kirk-killing",
+      "published_at": "Tue, 30 Sep 2025 10:00:07 GMT",
+      "bullets": [
+        "• Spencer Cox: 'I'm not asking anybody to hold hands and hug it out – I’m not asking for that' Cox: \"I'm trying to get people to stop shooting each other – that’s it.” He said he was unable to ‘unsee’ video of a sniper in Utah killing rightwing activist Charlie Kirk "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
     {
       "id": "1511959552f2",
       "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
@@ -16,6 +49,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.984
+      }
+    },
+    {
+      "id": "e512c251b74c",
+      "title": "Three dead, dozens trapped after Indonesian school collapses on students",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4y0zpvp8go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 09:22:04 GMT",
+      "bullets": [
+        "• Three dead, dozens trapped after Indonesian school collapses on students",
+        "• At least 38 others, many of them teenage boys, remain trapped under the rubble",
+        "• The two-storey building had an unstable foundation and could not support the weight of two more floors "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
       }
     },
     {
@@ -54,20 +104,21 @@
       }
     },
     {
-      "id": "2e519e6cff1e",
-      "title": "Thousands of workers in limbo as US-Africa trade deal set to expire",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1kwrv9k4eno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 07:42:47 GMT",
+      "id": "7d636a279732",
+      "title": "Scientists unlock secret to Venus flytrap’s hair-trigger response",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/",
+      "published_at": "Tue, 30 Sep 2025 09:00:26 +0000",
       "bullets": [
-        "• The African Growth and Opportunity Act is set to expire on Tuesday",
-        "• It has given some African goods duty-free access to the US market for 25 years",
-        "• But it is at odds with the Trump administration's policy of imposing tariffs on African imports "
+        "• The Venus flytrap attracts its prey with a fruity scent",
+        "• When an insect lands on a leaf, it stimulates the sensitive trigger hairs that line the leaf",
+        "• When the pressure becomes strong enough to bend those hairs, the plant snaps its leaves shut",
+        "• The plant detects the first \"action potential\" but doesn't snap shut right away, waiting until a second zap confirms the presence of prey "
       ],
-      "category": "World",
+      "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.956
+        "label": "positive",
+        "score": 0.994
       }
     },
     {
@@ -86,6 +137,25 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
+      }
+    },
+    {
+      "id": "3e79753af1a2",
+      "title": "Memphis and Portland, Ore. brace for troops. Why Chicago might be next",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5557337/chicago-portland-memphis-national-guard",
+      "published_at": "Tue, 30 Sep 2025 06:10:28 -0400",
+      "bullets": [
+        "• President Trump has proposed sending troops to Chicago as part of a broader effort to address violent crime in various cities",
+        "• Meanwhile, Memphis and Portland, Ore",
+        "• prepare for the arrival of National Guard troops",
+        "• Illinois Gov",
+        "• JB Pritzker said he received word that the Department of Homeland Security has asked the Defense Department for about 100 military personnel "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
       }
     },
     {
@@ -180,39 +250,20 @@
       }
     },
     {
-      "id": "a50a24f45aea",
-      "title": "EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557153/ev-tax-credit-sales-spike",
-      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• EV sales surge in the U.S",
-        "• ahead of the Sept",
-        "• 30 tax credit deadline",
-        "• The Republican tax and spending package that passed in early July brought an early end to federal EV tax credits",
-        "• The credits end on September 30"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.828
-      }
-    },
-    {
       "id": "dd89c5773ca5",
       "title": "Federal workers who took Trump's buyout get final paychecks and an uncertain future",
       "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/30/nx-s1-5545715/federal-employees-fork-deferred-resignation-trump",
       "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
       "bullets": [
-        "• Federal workers who took Trump's buyout get final paychecks and an uncertain future",
-        "• Stephani Cherkaoui is one of more than 150,000 federal workers taking the \"Fork in the Road\" buyout offer",
-        "• She agreed to share her thoughts and opinions with NPR, emphasizing that she does not speak for the government "
+        "• Stephani Cherkaoui is one of more than 150,000 federal workers who took the \"Fork in the Road\" buyout offer",
+        "• She agreed to share her thoughts and opinions with NPR, emphasizing that she does not speak for the government",
+        "• \"I do think it was a fair deal for me — as an individual,\" she says "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "positive",
-        "score": 0.711
+        "score": 0.905
       }
     },
     {
@@ -509,23 +560,6 @@
       }
     },
     {
-      "id": "e5eb6b1b3d93",
-      "title": "Trump talks with Democrats fail to yield breakthrough as US shutdown nears",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/trump-meeting-democrats-republicans-shutdown-tensions",
-      "published_at": "Mon, 29 Sep 2025 22:28:23 GMT",
-      "bullets": [
-        "• Democrats are refusing to support GOP legislation to keep government open beyond Tuesday unless it includes several healthcare provisions",
-        "• Republican leaders of the Senate and House of Representatives also met in the Oval Office on Monday",
-        "• But there was little sign that Republicans had shifted from their demands that Senate Democrats vote for their bill that would keep the government open "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "97988886b9e4",
       "title": "Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks",
       "outlet": "Ars Technica - All content",
@@ -550,62 +584,12 @@
       "published_at": "Mon, 29 Sep 2025 21:43:32 +0000",
       "bullets": [
         "• Homeland Security Investigations (HSI) seized several domains belonging to the Streameast piracy network in August 2024",
-        "• After the seizure, trying to access those sites resulted in a pop-up from HSI stating, ‘THIS DOMAIN HAS BEEN SEIZED.”"
+        "• After the seizure, trying to access those sites resulted in a pop-up from HSI stating, “THIS DOMAIN HAS BEEN SEIZED.” Now, the original owners of the site were able to re-register the domain name after it expired earlier this year "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "31aa2aa6d57d",
-      "title": "'We're headed to a shutdown,' Vance says after Trump meeting with leaders ends",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/trump-meeting-democrats-government-shutdown.html",
-      "published_at": "Mon, 29 Sep 2025 21:36:57 GMT",
-      "bullets": [
-        "• Vice President JD Vance: \"I think we're headed to a shutdown because the Democrats won't do the right thing\" Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries met with President Donald Trump at the White House on Monday",
-        "• The meeting comes less than two days before the government will begin in the absence of a funding deal "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "6ee4edfa3b20",
-      "title": "Des Moines revokes education license of school superintendent arrested by Ice",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/des-moines-school-district-superintendent-ice-arrest",
-      "published_at": "Mon, 29 Sep 2025 21:07:55 GMT",
-      "bullets": [
-        "• Ian Roberts, the superintendent of Iowa’s largest school district, was arrested last week by US Immigration and Customs Enforcement (Ice) agents",
-        "• He was found in possession of a loaded handgun and the Bureau of Alcohol, Tobacco, Firearms and Explosives is investigating how he obtained it "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
-      "id": "57e08f174e4b",
-      "title": "EA will be a very different company under private ownership",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gaming/2025/09/how-private-ownership-will-change-electronic-arts/",
-      "published_at": "Mon, 29 Sep 2025 21:07:11 +0000",
-      "bullets": [
-        "• Electronic Arts plans to sell itself to a consortium of private equity firms",
-        "• The $55 billion deal is the largest leveraged buyout in history",
-        "• The new owners will be saddled with roughly $20 billion of new debt",
-        "• The company will be on the hook for roughly $1 billion a year in service payments on that debt "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.855
+        "score": 0.995
       }
     },
     {
@@ -623,6 +607,22 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
+      }
+    },
+    {
+      "id": "3c73c06bb5c9",
+      "title": "Why movie production has moved out of the U.S. — and what a tariff could mean for Hollywood",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/trump-movie-tariffs-why-production-has-left-hollywood.html",
+      "published_at": "Mon, 29 Sep 2025 20:10:47 GMT",
+      "bullets": [
+        "• Hollywood is no longer the bustling production hub it once was, as studios have chased tax benefits and lower labor costs overseas",
+        "• President Donald Trump reiterated Monday that he would impose a 100% tariff on \"any and all movies that were made outside of the United States\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
       }
     },
     {
