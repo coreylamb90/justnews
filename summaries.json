@@ -1,12 +1,134 @@
 {
-  "generated_at": "2025-09-30T11:48:06Z",
+  "generated_at": "2025-09-30T13:01:04Z",
   "items": [
+    {
+      "id": "a52ce851e57f",
+      "title": "Government shutdown: 'Democrats should do the right thing,' Speaker Johnson says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Tue, 30 Sep 2025 12:54:38 GMT",
+      "bullets": [
+        "• Democrats want a stopgap bill to keep the government funded",
+        "• They want a bill that extends the Affordable Care Act's tax credits",
+        "• Democrats say that is not necessary to pass the bill",
+        "• The bill would keep the federal government funded for the rest of the year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "e9f225aa01ca",
+      "title": "CoreWeave stock climbs 8% after company lands $14 billion deal with Meta",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/coreweave-meta-deal-ai.html",
+      "published_at": "Tue, 30 Sep 2025 12:52:07 GMT",
+      "bullets": [
+        "• CoreWeave has agreed to provide Meta with $14.2 billion of artificial intelligence infrastructure",
+        "• Shares of the company popped more than 8% in premarket trading on Tuesday",
+        "• A representative for the company confirmed the deal on Tuesday",
+        "• Meta did not immediately respond for comment "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "‘We’re ending the war on warriors’: Pete Hegseth addresses senior military leaders in Virginia – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 12:45:11 GMT",
+      "bullets": [
+        "• 'You might say, we're ending the war on warriors,' says Pete Hegseth in speech to military leaders",
+        "• 'We're clearing out the debris, removing distractions, clearing the way for leaders to be leaders,' he says",
+        "• 'Do onto your unit as you would have done onto your own child’s unit'"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.96
+      }
+    },
+    {
+      "id": "2b0f3c2c9ad3",
+      "title": "Cat Stevens postpones book tour of North America due to visa issues",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/cat-stevens-postpones-book-tour-visa",
+      "published_at": "Tue, 30 Sep 2025 12:43:50 GMT",
+      "bullets": [
+        "• Cat Stevens, who now goes by Yusuf Islam, has postponed the North American leg of his book tour due to visa issues",
+        "• The British singer-songwriter was set to tour in support of his new book, Cat on the Road to Findout",
+        "• Islam is the latest in a string of international musicians and athletes impacted by visa issues, as fees have increased "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "9afc9b481ad7",
+      "title": "AI data center boom has to contend with realities of tough labor market",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
+      "published_at": "Tue, 30 Sep 2025 12:08:45 GMT",
+      "bullets": [
+        "• The U.S",
+        "• could face a shortfall of 1.9 million manufacturing workers by 2033, the N.A",
+        "• says",
+        "• The National Association of Manufacturers described the matter as an \"economic and national security issue\" Construction, manufacturing and electrical workers will be needed in 2025 alone",
+        "• Add to the uncertainty that comes with new tariffs and changes to immigration policy "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      }
+    },
+    {
+      "id": "63aaa06b62dd",
+      "title": "Trump pressure tactics in Comey case ‘chilling’ – but they could backfire, experts say",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/trump-comey-prosecution-justice-department",
+      "published_at": "Tue, 30 Sep 2025 12:00:41 GMT",
+      "bullets": [
+        "• Donald Trump's push to have James Comey indicted on criminal charges is a strong sign of the US slipping into authoritarianism",
+        "• But it could also taint the case’s chances of success because it is evidence of a selective and biased political prosecution, ex-prosecutors and scholars say "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      }
+    },
+    {
+      "id": "486dfe805c8b",
+      "title": "Americans and US food banks brace for Trump’s Snap cuts: ‘Battling hunger is no longer a priority’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/food-banks-trump-snap-cuts",
+      "published_at": "Tue, 30 Sep 2025 12:00:40 GMT",
+      "bullets": [
+        "• Funding for SNAP-Ed, part of the Supplemental Nutrition Assistance Program, is being eliminated",
+        "• The cuts are part of a sweeping spending bill signed by President Trump in July",
+        "• The Center on Budget and Policy Priorities estimates 4 million Americans in a typical month will lose some or all of their SNAP benefits when the cuts are fully implemented "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
     {
       "id": "fee9a426cd8b",
       "title": "It's Amazon's turn to show off new devices: All eyes on Alexa+, Echo and Kindle",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/amazon-devices-alexa-echo-kindle.html",
-      "published_at": "Tue, 30 Sep 2025 11:41:04 GMT",
+      "published_at": "Tue, 30 Sep 2025 11:45:37 GMT",
       "bullets": [
         "• Amazon's new Alexa+ device is set to be unveiled at 10 a.m",
         "• ET on Tuesday",
@@ -17,6 +139,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.862
+      }
+    },
+    {
+      "id": "303218b3cfbd",
+      "title": "US government heads toward first shutdown in six years as lawmakers fail to reach agreement",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
+      "published_at": "Tue, 30 Sep 2025 11:43:05 GMT",
+      "bullets": [
+        "• US government facing first shutdown in six years with no sign of agreement on funding extension",
+        "• Republicans are pushing legislation to fund the government through 21 November",
+        "• Democrats have refused to vote for it unless it includes a series of concessions on healthcare",
+        "• They want to undo Republican cuts to Medicaid and public media outlets "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -37,23 +177,6 @@
       }
     },
     {
-      "id": "74be3ce48bb5",
-      "title": "US government to shut down within hours if no funding deal agreed – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 11:30:00 GMT",
-      "bullets": [
-        "• US government to shut down within hours if no funding deal agreed",
-        "• Democratic leaders struck a more optimistic tone after meeting with Donald Trump on Monday",
-        "• But there was little sign that Republicans had shifted from their demands that Senate Democrats vote for their bill that would keep government open "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
       "id": "af53f51513df",
       "title": "Trump and Hegseth to address top US generals in unusual military gathering",
       "outlet": "BBC News",
@@ -71,41 +194,6 @@
       }
     },
     {
-      "id": "f86e8e18f7fb",
-      "title": "Trump gutting protected status for immigrants will strain US healthcare, Democrats warn",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/trump-temporary-protected-status-healthcare-democrats",
-      "published_at": "Tue, 30 Sep 2025 11:00:07 GMT",
-      "bullets": [
-        "• More than 100 members of Congress warn of impact on US healthcare system",
-        "• Nearly one million people have been granted temporary protection from deportation",
-        "• They are from Afghanistan, Cameroon, Haiti, Honduras, Nicaragua, Syria and Venezuela",
-        "• The US government has sought to cancel this status for people from these countries "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "af1b59d226e4",
-      "title": "First Thing: Trump and Netanyahu tell Hamas to accept Gaza peace plan or face consequences",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/first-thing-trump-and-netanyahu-tell-hamas-to-accept-gaza-peace-plan-or-face-consequences",
-      "published_at": "Tue, 30 Sep 2025 10:57:39 GMT",
-      "bullets": [
-        "• President Donald Trump and Israeli PM Benjamin Netanyahu have given Hamas an ultimatum",
-        "• Qatari and Egyptian mediators met with Hamas on Monday evening to provide them with the plan",
-        "• Trump said if Hamas did not accept, “Israel will finish the job by itself”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      }
-    },
-    {
       "id": "471473100e7c",
       "title": "Flights in Afghanistan grounded after internet shutdown",
       "outlet": "BBC News",
@@ -118,21 +206,6 @@
         "• Essential services - including banking and payments - have been severely affected "
       ],
       "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "6021b5971497",
-      "title": "Utah governor calls on people to ‘stop shooting each other’ after Kirk killing",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/spencer-cox-charlie-kirk-killing",
-      "published_at": "Tue, 30 Sep 2025 10:00:07 GMT",
-      "bullets": [
-        "• Spencer Cox: 'I'm not asking anybody to hold hands and hug it out – I’m not asking for that' Cox: \"I'm trying to get people to stop shooting each other – that’s it.” He said he was unable to ‘unsee’ video of a sniper in Utah killing rightwing activist Charlie Kirk "
-      ],
-      "category": "US",
       "sentiment": {
         "label": "negative",
         "score": 0.998
@@ -209,6 +282,40 @@
       }
     },
     {
+      "id": "95cef9caf9e2",
+      "title": "The UN mission appeals to the Taliban to restore internet access in Afghanistan",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan",
+      "published_at": "Tue, 30 Sep 2025 08:51:25 -0400",
+      "bullets": [
+        "• The outage was the first nationwide shutdown since the Taliban returned to power in August 2021",
+        "• Earlier this month, several provinces lost their fiber-optic connections after Taliban leader Hibatullah Akhundzada issued a decree banning the service",
+        "• The disruption threatened economic stability and deepened one of the world's worst humanitarian crises, U.N",
+        "• says "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "adb277a2ec6d",
+      "title": "With therapy hard to get, people lean on AI for mental health. What are the risks?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5557278/ai-artificial-intelligence-mental-health-therapy-chatgpt-openai",
+      "published_at": "Tue, 30 Sep 2025 08:00:00 -0400",
+      "bullets": [
+        "• ChatGPT, a chatbot developed by Open AI, has 700 million weekly users",
+        "• Chatbot chatbots are drawing in people priced out of therapy, burned by bad experiences, or just curious to see if a machine might be a helpful guide "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      }
+    },
+    {
       "id": "d74b3cadc53e",
       "title": "Government shuts down tonight barring a deal. And, U.S. military leaders gather in VA",
       "outlet": "NPR Topics: News",
@@ -261,79 +368,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.98
-      }
-    },
-    {
-      "id": "d1a0673eb48a",
-      "title": "U.S. Commerce head Lutnick wants Taiwan to help America make 50% of its chips locally",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html",
-      "published_at": "Tue, 30 Sep 2025 06:00:20 GMT",
-      "bullets": [
-        "• U.S",
-        "• Secretary of Commerce Howard Lutnick says Taiwan is said to produce over 90% of the world's advanced semiconductors",
-        "• The move could have implications for Taiwan's national defense, he said",
-        "• Taiwan Semiconductor Manufacturing Co",
-        "• is Taiwan's largest and most advanced contract chipmaker, which handles production for American tech heavyweights like Apple "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.881
-      }
-    },
-    {
-      "id": "ce9efb9b6758",
-      "title": "5 takeaways from the U.S. ceasefire proposal for Israel and Hamas",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas",
-      "published_at": "Tue, 30 Sep 2025 05:26:27 -0400",
-      "bullets": [
-        "• Leaders of the U.S",
-        "• and Israel say they have agreed to a broad plan to end Israel's war in Gaza",
-        "• The plan calls for an immediate end to the war and the return of hostages to Israel",
-        "• Hamas would have to agree to \"decommissioning\" its weapons and dismantling its military infrastructure and tunnels "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      }
-    },
-    {
-      "id": "41256b5d9e06",
-      "title": "Here's what a government shutdown could affect around the country",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/g-s1-90732/government-shut-down",
-      "published_at": "Tue, 30 Sep 2025 05:03:00 -0400",
-      "bullets": [
-        "• Without congressional action, government funding will expire at 12:01 a.m",
-        "• on Oct",
-        "• 1",
-        "• The U.S",
-        "• Postal Service will keep the mail moving as usual in the event of a shutdown"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.901
-      }
-    },
-    {
-      "id": "cc61fc22a90d",
-      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – as it happened",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Tue, 30 Sep 2025 02:02:33 GMT",
-      "bullets": [
-        "• House Speaker wants more time for negotiations on a deal to avoid a government shutdown",
-        "• President Donald Trump and Israeli PM Benjamin Netanyahu hold talks on a proposed Gaza peace plan",
-        "• US President Barack Obama has proposed a 20-point deal with Israel, but no deal is reached "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -477,24 +511,6 @@
       }
     },
     {
-      "id": "5765de8f6fe2",
-      "title": "Startup founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/jpmorgan-chase-frank-charlie-javice-sentencing.html",
-      "published_at": "Mon, 29 Sep 2025 23:51:58 GMT",
-      "bullets": [
-        "• Charlie Javice is sentenced to 85 months in prison",
-        "• He was found guilty of defrauding JPMorgan Chase by overstating how many customers it had",
-        "• Javice, 33, cried as she delivered an emotional statement to the court",
-        "• \"I will spend my entire life regretting these errors,\" she said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "525c760b9383",
       "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
       "outlet": "All Top News -- ScienceDaily",
@@ -571,28 +587,12 @@
       "published_at": "Mon, 29 Sep 2025 21:43:32 +0000",
       "bullets": [
         "• Homeland Security Investigations (HSI) seized several domains belonging to the Streameast piracy network in August 2024",
-        "• After the seizure, trying to access those sites resulted in a pop-up from HSI stating, “THIS DOMAIN HAS BEEN SEIZED.” Now, the original owners of the site were able to re-register the domain name after it expired earlier this year "
+        "• After the seizure, trying to access those sites resulted in a pop-up from HSI stating, “THIS DOMAIN HAS BEEN SEIZED.” Now, the original owners of the site were able to re-register its primary domain name "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "31aa2aa6d57d",
-      "title": "'We're headed to a shutdown,' Vance says after Trump meeting with leaders ends",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/trump-meeting-democrats-government-shutdown.html",
-      "published_at": "Mon, 29 Sep 2025 21:36:57 GMT",
-      "bullets": [
-        "• Vice President JD Vance: \"I think we're headed to a shutdown because the Democrats won't do the right thing\" Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries met with President Donald Trump at the White House on Monday",
-        "• The meeting comes less than two days before the government will begin in the absence of a funding deal "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
+        "score": 0.994
       }
     },
     {
@@ -731,20 +731,71 @@
       }
     },
     {
+      "id": "8a8bbf879d19",
+      "title": "The EV tax credit is dead — here’s what happens next",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate",
+      "published_at": "2025-09-30T08:00:00-04:00",
+      "bullets": [
+        "• When the clock strikes midnight on Oct",
+        "• 1, the $7,500 federal tax credit on EVs will expire, potentially turning affordable electric carriages into showroom pumpkins",
+        "• Consumers bought more new EVs in August 2025 than in any other month in US history: Sales reached 146,332 cars, up nearly 18 percent year over year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "382f9d80f6de",
+      "title": "Nothing’s ‘first step’ to an &#8216;AI OS&#8217; is not first, or an OS, but is fascinating",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788242/nothing-ai-os-essential-apps-playground",
+      "published_at": "2025-09-30T08:00:00-04:00",
+      "bullets": [
+        "• London startup Nothing is launching Playground, a store filled with user-designed, AI-generated apps",
+        "• Playground is not an OS, nor is it an operating system — it’s built on Android",
+        "• The idea lands, and beneath the hype, it is genuinely exciting, with a clear vision for where this might go "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "4802d27fac52",
+      "title": "Spotify founder Daniel Ek is stepping down as CEO",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788278/spotify-founder-daniel-ek-stepping-down-ceo-executive-chairman",
+      "published_at": "2025-09-30T07:56:41-04:00",
+      "bullets": [
+        "• Daniel Ek is stepping down as CEO, two decades after founding the music streaming service",
+        "• Ek will transition to an executive chairman role at the company on January 1st, 2026",
+        "• As executive chairman, Ek will spend more time ‘on the long arc’ of the company",
+        "• Ek is now shifting focus towards his other business interests "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.952
+      }
+    },
+    {
       "id": "f62c66a2f679",
       "title": "Garmin’s eTrex Touch navigator can go almost a month without charging",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/news/788213/garmins-etrex-touch-navigator-can-go-almost-a-month-without-charging",
       "published_at": "2025-09-30T07:00:00-04:00",
       "bullets": [
-        "• Garmin’s $449.99 eTrex Touch is a rugged GPS navigator with preloaded maps",
-        "• It features a 3-inch touchscreen for swiping and zooming in on roads and trails",
-        "• It comes preloaded with TopoActive maps and the option to add an Outdoor Maps Plus plan "
+        "• Garmin’s $449.99 eTrex Touch is a rugged GPS navigator with preloaded maps for outdoor adventures",
+        "• It features a 3-inch touchscreen for swiping and zooming in on roads and trails, and comes preloaded with TopoActive maps "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.915
+        "score": 0.842
       }
     },
     {
@@ -763,57 +814,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
-      }
-    },
-    {
-      "id": "694282a9b21a",
-      "title": "Logitech’s MX Master 4 adds haptic feedback, mostly just for fun",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price",
-      "published_at": "2025-09-30T03:01:00-04:00",
-      "bullets": [
-        "• Logitech’s MX Master 4 wireless mouse adds haptic feedback to everyday tasks",
-        "• The haptics are a hardware feature that, unsurprisingly, requires you to engage pretty heavily with Logi Options Plus",
-        "• The Haptic Sense Panel embedded in its grippy thumb rest vibrates when pressed, opening Logitech's Action Ring overlay "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.696
-      }
-    },
-    {
-      "id": "abb8ef06d5fb",
-      "title": "Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025",
-      "published_at": "2025-09-29T19:46:50-04:00",
-      "bullets": [
-        "• Amazon announced that its fall Prime Day sale will kick off on Tuesday, October 7th, and run through October 8th",
-        "• Amazon has already started dropping early deals and discounts on a range of gadgets, from wireless earbuds to charging stations",
-        "• You can even get three months of Kindle Unlimited for free "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
-      "id": "0391bea76f34",
-      "title": "YouTube caves to Trump with $24.5 million settlement",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement",
-      "published_at": "2025-09-29T19:16:33-04:00",
-      "bullets": [
-        "• YouTube has settled a lawsuit President Donald Trump filed against the company in 2021",
-        "• Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook), and X (then Twitter) after he was suspended from the platforms",
-        "• YouTube, like Meta and X, is paying to end Trump’s lawsuit over content moderation decisions following the January 6th insurrection at the Capitol "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
       }
     },
     {
