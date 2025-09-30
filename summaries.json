@@ -1,6 +1,23 @@
 {
-  "generated_at": "2025-09-30T09:33:52Z",
+  "generated_at": "2025-09-30T09:51:24Z",
   "items": [
+    {
+      "id": "1511959552f2",
+      "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 09:24:33 GMT",
+      "bullets": [
+        "• Chinese woman convicted after 'world's biggest' bitcoin seizure in the world",
+        "• She pleaded guilty at Southwark Crown Court of illegally acquiring and possessing the cryptocurrency",
+        "• The 47-year-old's guilty plea followed a seven-year probe into a global money laundering web "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
     {
       "id": "1ca8ed54786e",
       "title": "Entire Ukrainian family killed in Russian drone strike, officials say",
@@ -26,14 +43,14 @@
       "published_at": "Tue, 30 Sep 2025 09:14:34 GMT",
       "bullets": [
         "• Former aide to far-right German politician jailed for spying for China",
-        "• Chinese national given four-year jail term for working for Chinese intelligence",
-        "• He was also accused of spying on Chinese dissidents and opposition figures in Germany",
-        "• Judge: \"I did not work for a Chinese intelligence agency\""
+        "• Jailed for four years and nine months for working for Chinese intelligence",
+        "• Claims he only learned of allegations from the media about the case from a court in Dresden",
+        "• He was also accused of spying on Chinese dissidents and opposition figures "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.984
       }
     },
     {
@@ -72,24 +89,6 @@
       }
     },
     {
-      "id": "b1314943767a",
-      "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 06:42:55 GMT",
-      "bullets": [
-        "• Leaders in Middle East and Europe welcome US peace plan for Gaza",
-        "• President Donald Trump and Israeli PM Benjamin Netanyahu agree to the plan",
-        "• It calls for an immediate end to fighting and release of hostages held by Hamas",
-        "• Netanyahu later again again again rules out an eventual Palestinian state "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      }
-    },
-    {
       "id": "d1a0673eb48a",
       "title": "U.S. Commerce head Lutnick wants Taiwan to help America make 50% of its chips locally",
       "outlet": "US Top News and Analysis",
@@ -106,6 +105,24 @@
       "sentiment": {
         "label": "positive",
         "score": 0.881
+      }
+    },
+    {
+      "id": "ce9efb9b6758",
+      "title": "5 takeaways from the U.S. ceasefire proposal for Israel and Hamas",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas",
+      "published_at": "Tue, 30 Sep 2025 05:26:27 -0400",
+      "bullets": [
+        "• Leaders of the U.S",
+        "• and Israel say they have agreed to a broad plan to end Israel's war in Gaza",
+        "• The plan calls for an immediate end to the war and the return of hostages to Israel",
+        "• Hamas would have to agree to \"decommissioning\" its weapons and dismantling its military infrastructure and tunnels "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.957
       }
     },
     {
@@ -128,20 +145,38 @@
       }
     },
     {
-      "id": "dd89c5773ca5",
-      "title": "Federal workers who took Trump's buyout get final paychecks and an uncertain future",
+      "id": "e60deb9ba958",
+      "title": "The MLB postseason begins Tuesday. Who should you root for to win a World Series?",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5545715/federal-employees-fork-deferred-resignation-trump",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5557394/mlb-2025-playoffs-yankees-red-sox-brewers-padres-mariners",
       "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
       "bullets": [
-        "• Federal workers who took Trump's buyout get final paychecks and an uncertain future",
-        "• Stephani Cherkaoui is one of more than 150,000 federal workers taking the \"Fork in the Road\" buyout offer",
-        "• She agreed to share her thoughts and opinions with NPR, emphasizing that she does not speak for the government "
+        "• Major League Baseball's postseason begins Tuesday",
+        "• No team in baseball this year won more than 97 games, making the Milwaukee Brewers the losing-est winningest team since 2013",
+        "• The Seattle Mariners are the only team to have never won a World Series "
       ],
       "category": "General",
       "sentiment": {
-        "label": "positive",
-        "score": 0.711
+        "label": "negative",
+        "score": 0.977
+      }
+    },
+    {
+      "id": "54d3ae59f788",
+      "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
+      "bullets": [
+        "• Government to shut down after midnight barring last minute breakthrough in Congress",
+        "• Lawmakers have less than 24 hours to reach a deal before a midnight deadline",
+        "• Senate Democrats have refused to back the spending bill in an effort to force Republicans to negotiate on federal health care subsidies",
+        "• They are pushing for an extension of Affordable Care Act subsidies that are set to expire at the end of the year in exchange for their support "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
       }
     },
     {
@@ -164,56 +199,20 @@
       }
     },
     {
-      "id": "d91fc587117f",
-      "title": "As sports betting explodes, should states set more limits to stop gambling addiction?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5553428/sports-books-betting-gambling-addiction-massachusetts-gamesense",
-      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Massachusetts is promoting its \"GameSense\" program to curb problem gambling",
-        "• The state's first casino opened in 2015, and as the gaming industry grew, the state developed what it calls a \"responsible gaming\" program",
-        "• Outside the casinos, GameSense is marketed on social media and on sportsbook apps and websites "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.942
-      }
-    },
-    {
-      "id": "01a3060f8d3c",
-      "title": "With no guarantee of U.S. weapons, Ukraine races to make its own",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5513949/ukraine-russia-war-weapons",
-      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• With no guarantee of U.S",
-        "• weapons, Ukraine races to make its own drones",
-        "• Many Ukrainian drones cost $1,000 or less and are only used once",
-        "• Ukraine's arsenal consisted largely of aging hardware dating back decades to when Russia and Ukraine were part of the Soviet Union "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "54d3ae59f788",
-      "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
+      "id": "dd89c5773ca5",
+      "title": "Federal workers who took Trump's buyout get final paychecks and an uncertain future",
       "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5545715/federal-employees-fork-deferred-resignation-trump",
       "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
       "bullets": [
-        "• Government to shut down after midnight barring last minute breakthrough in Congress",
-        "• Lawmakers have less than 24 hours to reach a deal before a midnight deadline",
-        "• Senate Democrats have refused to back the spending bill in an effort to force Republicans to negotiate on federal health care subsidies",
-        "• They are pushing for an extension of Affordable Care Act subsidies that are set to expire at the end of the year in exchange for their support "
+        "• Federal workers who took Trump's buyout get final paychecks and an uncertain future",
+        "• Stephani Cherkaoui is one of more than 150,000 federal workers taking the \"Fork in the Road\" buyout offer",
+        "• She agreed to share her thoughts and opinions with NPR, emphasizing that she does not speak for the government "
       ],
       "category": "Politics",
       "sentiment": {
-        "label": "negative",
-        "score": 0.984
+        "label": "positive",
+        "score": 0.711
       }
     },
     {
