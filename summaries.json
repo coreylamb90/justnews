@@ -1,55 +1,38 @@
 {
-  "generated_at": "2025-09-30T19:47:07Z",
+  "generated_at": "2025-09-30T20:34:12Z",
   "items": [
     {
-      "id": "a52ce851e57f",
-      "title": "Government on track to shut down after midnight with no funding deal in sight",
+      "id": "d3d5c30b9dba",
+      "title": "Nike posts surprise sales growth but turnaround work is far from over",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-      "published_at": "Tue, 30 Sep 2025 19:36:01 GMT",
+      "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
+      "published_at": "Tue, 30 Sep 2025 20:28:51 GMT",
       "bullets": [
-        "• The U.S",
-        "• government was set to shut down after midnight Tuesday",
-        "• House Speaker Mike Johnson said Democrats \"need to come to their senses here, and do the right thing\" Johnson accused Democrats of trying to protect Schumer's \"backside\" by pressing that and other demands "
+        "• Nike posted surprise sales growth in its fiscal first quarter",
+        "• The sneaker giant previously said it anticipated sales would fall by a mid-single digit percentage",
+        "• Net income for the period was $727 million, or 49 cents per share, a 31% drop from the year-ago period "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.759
       }
     },
     {
-      "id": "68792c56e973",
-      "title": "Spirit Airlines touts 'massive progress' in bankruptcy",
+      "id": "23fc959e1928",
+      "title": "Warren Buffett is reportedly eyeing Berkshire Hathaway's biggest deal in three years",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/spirit-airlines-bankruptcy.html",
-      "published_at": "Tue, 30 Sep 2025 19:35:06 GMT",
+      "url": "https://www.cnbc.com/2025/09/30/warren-buffett-is-reportedly-eyeing-berkshire-hathaways-biggest-deal-in-three-years.html",
+      "published_at": "Tue, 30 Sep 2025 20:23:24 GMT",
       "bullets": [
-        "• Spirit Airlines reaches agreement with debtholders for up to $475 million in financing",
-        "• Airline last month filed for its second Chapter 11 bankruptcy in less than a year",
-        "• Budget airline has been racing to cut costs and recently announced plans to cut 40 routes and furlough one-third of its flight attendants "
+        "• Berkshire Hathaway is closing in on a deal to buy Occidental Petroleum's petrochemical unit OxyChem for roughly $10 billion",
+        "• The potential deal could be Berkshire's largest since it bought insurer Alleghany for $11.6 billion in 2022",
+        "• Buffett, 95, is stepping down as Berkshire CEO at the end of 2025 "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
-      }
-    },
-    {
-      "id": "5ba44431d594",
-      "title": "FTC sues Zillow and Redfin alleging antitrust violation in online rental listings",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/ftc-sues-zillow-redfin-alleging-antitrust-violation-in-online-rentals.html",
-      "published_at": "Tue, 30 Sep 2025 19:30:32 GMT",
-      "bullets": [
-        "• Zillow paid Redfin $100 million to essentially re-host rental listings on Redfin and its sites",
-        "• The FTC says Redfin agreed to terminate contracts with existing advertising customers and assisted in acquiring that business",
-        "• Redfin also agreed to stay out of the multifamily advertising market for up to nine years and reduce its role to merely syndicating listings "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
+        "score": 0.693
       }
     },
     {
@@ -57,16 +40,104 @@
       "title": "Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 19:28:15 GMT",
+      "published_at": "Tue, 30 Sep 2025 20:19:21 GMT",
       "bullets": [
-        "• Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
-        "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent further negotiations",
-        "• Undocumented immigrants are not eligible to enroll in subsidized programs like Medicaid, Medicare or the Affordable Care Act "
+        "• Government funding is set to expire at midnight ET on Tuesday",
+        "• About 750,000 federal employees will be furloughed each day of a government shutdown, according to an estimate by the Congressional Budget Office",
+        "• Operations deemed essential – such as social security, military duties, immigration enforcement – continue, but other services may be disrupted or delayed "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.991
+      }
+    },
+    {
+      "id": "bf33e82d0acc",
+      "title": "Firefly Aerospace stock tanks 20% after test rocket explosion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/firefly-aerospace-stock-rocket-explosion.html",
+      "published_at": "Tue, 30 Sep 2025 20:01:04 GMT",
+      "bullets": [
+        "• The explosion occurred during a first-stage test flight of a satellite-launching Alpha Flight 7 rocket",
+        "• Firefly Aerospace competes in an increasingly crowded space dominated by SpaceX",
+        "• The company recently won a $177 million contract with NASA and $50 million investment from Northrop Grumman "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.948
+      }
+    },
+    {
+      "id": "a52ce851e57f",
+      "title": "Government shutdown would furlough about 750,000 federal workers, CBO says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Tue, 30 Sep 2025 19:54:24 GMT",
+      "bullets": [
+        "• The U.S",
+        "• government is set to go into a shutdown after midnight Tuesday",
+        "• Democrats and Republicans are refusing to compromise on a deal to keep the government open",
+        "• The Congressional Budget Office estimates the cost of the shutdown would be about $400 million "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "8e6c9fcb773c",
+      "title": "After threatening ABC over Kimmel, FCC chair may eliminate TV ownership caps",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/09/after-threatening-abc-over-kimmel-fcc-chair-may-eliminate-tv-ownership-caps/",
+      "published_at": "Tue, 30 Sep 2025 19:44:25 +0000",
+      "bullets": [
+        "• Federal Communications Commission may eliminate TV station ownership limits",
+        "• Sinclair and Nexstar put Jimmy Kimmel Live! back on air after ABC and Disney ended Kimmel's suspension",
+        "• FCC Chairman Brendan Carr says national networks exert too much control over local TV stations",
+        "• The FCC voted to seek public comment on a Notice of Proposed Rulemaking today "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "c0e7ac805afb",
+      "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
+      "published_at": "Tue, 30 Sep 2025 19:34:38 +0000",
+      "bullets": [
+        "• Microsoft announces two new AI-powered tools for its Office 365 program",
+        "• Agents Mode and Copilot AI chatbot can generate Word and Excel documents with only text prompts",
+        "• Office Agent is based on OpenAI's GPT-5 large language model and works from a single step",
+        "• It's only available in the web versions of Word or Excel at present "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "ed04aec397cf",
+      "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/",
+      "published_at": "Tue, 30 Sep 2025 19:12:15 +0000",
+      "bullets": [
+        "• A Russian YouTube channel unboxing video shows a boxed version of a new iPad Pro",
+        "• The video also shows a new M5 processor that we haven't seen in any other Apple product yet",
+        "• Geekbench 6 tests show the M5 in this iPad Pro improved CPU performance by roughly 10 to 15 percent "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
       }
     },
     {
@@ -84,6 +155,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.974
+      }
+    },
+    {
+      "id": "6e33250276e8",
+      "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/09/spacex-has-a-few-tricks-up-its-sleeve-for-the-last-starship-flight-of-the-year/",
+      "published_at": "Tue, 30 Sep 2025 18:36:17 +0000",
+      "bullets": [
+        "• SpaceX's next Starship test flight is scheduled for October 13",
+        "• The rocket's Super Heavy booster will again splash down in the Gulf of Mexico",
+        "• Starship's upper stage will fly on a suborbital arc before reenter the atmosphere over the Indian Ocean for a water landing northwest of Australia "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
       }
     },
     {
@@ -159,15 +247,15 @@
       "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
       "published_at": "Tue, 30 Sep 2025 17:44:31 GMT",
       "bullets": [
-        "• President Donald Trump said a government shutdown was 'probably likely' on Tuesday",
         "• Republicans are pushing legislation to fund the government through 21 November",
-        "• Democrats are demanding a series of concessions from Republicans in exchange for funding",
-        "• They want to undo Republican cuts to Medicaid, the program providing healthcare to the poor "
+        "• Democrats have refused to vote for it unless it includes concessions centered on healthcare",
+        "• The Senate will vote on the GOP proposal and a separate Democratic plan Tuesday evening",
+        "• Neither is expected to pick up the support necessary to clear the 60-vote threshold for advancement "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.972
+        "score": 0.994
       }
     },
     {
@@ -204,20 +292,37 @@
       }
     },
     {
-      "id": "d3d5c30b9dba",
-      "title": "Nike will report earnings after the bell. Here's what Wall Street expects",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
-      "published_at": "Tue, 30 Sep 2025 16:14:21 GMT",
+      "id": "3a682199e46a",
+      "title": "Shutdown appears inevitable without last ditch intervention",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558015/shutdown-appears-inevitable-without-last-ditch-intervention",
+      "published_at": "Tue, 30 Sep 2025 16:29:17 -0400",
       "bullets": [
-        "• Nike is expected to report a decline in quarterly sales on Tuesday",
-        "• The sneaker giant has been implementing a turnaround plan, and some analysts are expecting it to improve",
-        "• The company faces multiple hurdles as it tries to gain back ground, including tariffs and intense competition "
+        "• Shutdown appears inevitable without last ditch intervention September 30, 20254:29 PM ET Heard on All Things Considered By Barbara Sprunt",
+        "• The government shuts down at midnight and the two parties remain far apart on a solution to prevent the shutdown "
       ],
-      "category": "Business",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.994
+      }
+    },
+    {
+      "id": "864c18b4b98f",
+      "title": "A lawsuit tries to block the Trump administration's efforts to merge personal data",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558312/privacy-personal-data-trump-lawsuit-doge",
+      "published_at": "Tue, 30 Sep 2025 16:11:55 -0400",
+      "bullets": [
+        "• A lawsuit is filed in federal court in Washington, D.C",
+        "• on behalf of the League of Women Voters, the Electronic Privacy Information Center and five unnamed U.S",
+        "• citizens",
+        "• The suit argues that the Department of Homeland Security and Department of Government Efficiency are creating \"national data banks\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
       }
     },
     {
@@ -238,39 +343,6 @@
       }
     },
     {
-      "id": "f928c3fb5813",
-      "title": "California’s newly signed AI law just gave Big Tech exactly what it wanted",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/09/californias-newly-signed-ai-law-just-gave-big-tech-exactly-what-it-wanted/",
-      "published_at": "Tue, 30 Sep 2025 15:12:10 +0000",
-      "bullets": [
-        "• The new law requires companies with annual revenue of at least $500 million to report safety practices",
-        "• It does not require mandatory testing of AI systems",
-        "• The law replaces a previous version of the law that would have required testing and \"kill switches\" The law was passed last year "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.881
-      }
-    },
-    {
-      "id": "9959e763ca68",
-      "title": "Behind the scenes with the most beautiful car in racing: The Ferrari 499P",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/09/behind-the-scenes-with-the-most-beautiful-car-in-racing-the-ferrari-499p/",
-      "published_at": "Tue, 30 Sep 2025 14:58:15 +0000",
-      "bullets": [
-        "• Ferrari's Hypercars are purpose-built, closed-top race cars with some of the most complex hybrid systems outside of Formula 1",
-        "• During the 24 hours of Le Mans this year, the winning car covered 3,276 miles (5,273 km) Ferrari leads the manufacturer's championship and the driver's championship with the #51 factory car "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      }
-    },
-    {
       "id": "92b5d1e4fcb9",
       "title": "Here's what a shutdown means for Smithsonian museums, memorials and the zoo",
       "outlet": "NPR Topics: News",
@@ -286,23 +358,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "0cc81565e7ae",
-      "title": "Is the “million-year-old” skull from China a Denisovan or something else?",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/09/is-the-million-year-old-skull-from-china-a-denisovan-or-something-else/",
-      "published_at": "Tue, 30 Sep 2025 14:14:52 +0000",
-      "bullets": [
-        "• A fossil skull from China may be a million years old, but it's probably related to Denisovans",
-        "• The skull is one of three unearthed from a terrace alongside the Han River, in central China",
-        "• It was cracked and broken after hundreds of thousands of years under the crushing weight of river mud "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -337,23 +392,6 @@
       "sentiment": {
         "label": "negative",
         "score": 1.0
-      }
-    },
-    {
-      "id": "a07c513efc6e",
-      "title": "Burnout and Elon Musk’s politics spark exodus from senior xAI, Tesla staff",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/09/burnout-and-elon-musks-politics-spark-exodus-from-senior-xai-tesla-staff/",
-      "published_at": "Tue, 30 Sep 2025 13:21:13 +0000",
-      "bullets": [
-        "• Senior staff at Tesla have been leaving the company over the past year",
-        "• Members of the company’s two-year-old artificial intelligence start-up have also left the company",
-        "• The move is part of a growing exodus of senior staff from the company's top ranks "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     },
     {
@@ -413,15 +451,15 @@
     {
       "id": "0f11e6cc0ad4",
       "title": "Poll: Republicans get more of the blame than Democrats for a potential shutdown",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/30/nx-s1-5557396/poll-shutdown-congress-trump-approval-rating",
       "published_at": "Tue, 30 Sep 2025 12:00:00 -0400",
       "bullets": [
         "• Poll: Republicans get more of the blame than Democrats for a potential shutdown",
-        "• NPR/PBS News/Marist poll: By a 38-27% margin, respondents said they would blame Republicans for a shutdown",
+        "• By a 38-27% margin, respondents said they would blame Republicans for a shutdown with 3 in 10 saying both parties would be to blame",
         "• The finding adds a wrinkle to the pending shutdown deadline of midnight Tuesday "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.991
@@ -459,43 +497,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.674
-      }
-    },
-    {
-      "id": "d74b3cadc53e",
-      "title": "Government shuts down tonight barring a deal. And, U.S. military leaders gather in VA",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91242/up-first-newsletter-government-shutdown-trump-netanyahu-gaza-pete-hegseth-meeting",
-      "published_at": "Tue, 30 Sep 2025 07:09:27 -0400",
-      "bullets": [
-        "• Government shuts down tonight barring a deal to fund the government",
-        "• U.S",
-        "• military leaders gather in VA to discuss Gaza deal with the U.N",
-        "• Secretary of Defense Pete Hegseth is meeting with top military leaders",
-        "• Government shutdown deadline is midnight tonight "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      }
-    },
-    {
-      "id": "61dca1bb99af",
-      "title": "Germany thrived in the first China Shock. But the next one could prove catastrophic.",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/sections/planet-money/2025/09/30/g-s1-90937/germany-thrived-in-the-first-china-shock-but-the-next-one-could-prove-catastrophic",
-      "published_at": "Tue, 30 Sep 2025 06:30:00 -0400",
-      "bullets": [
-        "• Germany thrived in the first China Shock, but the next one could prove catastrophic",
-        "• The VDMA represents thousands of German companies that manufacture industrial machines and equipment",
-        "• In the past six months alone, production is down 4.5 percent",
-        "• Exports are nose-diving, job cuts and furloughs are mounting "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
