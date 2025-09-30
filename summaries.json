@@ -1,37 +1,72 @@
 {
-  "generated_at": "2025-09-30T22:27:36Z",
+  "generated_at": "2025-09-30T22:48:28Z",
   "items": [
     {
-      "id": "74be3ce48bb5",
-      "title": "Trump says ‘no choice’ but to cut federal workers if government shuts down as midnight deadline looms – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 22:19:27 GMT",
+      "id": "d3d5c30b9dba",
+      "title": "Nike posts surprise sales growth, but warns of sluggish holiday season and bigger than expected tariff hit",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
+      "published_at": "Tue, 30 Sep 2025 22:41:35 GMT",
       "bullets": [
-        "• President says government shutdown is inevitable if Congress fails to pass a resolution",
-        "• Senate will vote on a version of a short-term funding bill that Democratic lawmakers wrote to counter the original resolution",
-        "• Republicans will propose their original bill, which would keep government funded until 21 November "
+        "• Nike posted surprise sales growth in its fiscal first quarter",
+        "• But it warned it expects sales to fall again during most of the holiday shopping season",
+        "• The company now expects tariffs to cost it $1.5 billion and hit its gross margin by 1.2 percentage points "
       ],
-      "category": "US",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
         "score": 0.991
       }
     },
     {
-      "id": "e355485dac58",
-      "title": "Trump says $500m deal reached with Harvard to settle dispute",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/trump-harvard-settle-deal",
-      "published_at": "Tue, 30 Sep 2025 22:01:25 GMT",
+      "id": "c04103e5dc9d",
+      "title": "Lithium Americas stock pops 35% as government takes a stake to boost Nevada project",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/lithium-americas-stock-pops-as-government-takes-a-stake-to-boost-nevada-project.html",
+      "published_at": "Tue, 30 Sep 2025 22:38:18 GMT",
       "bullets": [
-        "• Donald Trump said on Tuesday that his administration had reached a deal with Harvard and that the school would pay $500m to settle the dispute between the federal government and the university",
-        "• The news came after months of accusations by Trump that the university violated federal civil rights law in its treatment of Jewish and Israeli students "
+        "• Shares of Lithium Americas soar more than 35% in extended trading",
+        "• The U.S",
+        "• Energy Secretary Chris Wright says the government will take a small stake in the company",
+        "• Thacker Pass is expected to become one of the largest sources of lithium in North America",
+        "• The first phase of the project expected to begin operations in late 2027 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.727
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "Trump says ‘no choice’ but to cut federal workers if government shuts down as midnight deadline looms – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 22:34:22 GMT",
+      "bullets": [
+        "• The president says he has 'no choice' to cut more federal jobs if the government shuts down",
+        "• Chuck Schumer, the Senate minority leader, just cited a new Morning Consult poll, joking that he “doesn’t always believe the New York Times”"
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.998
+      }
+    },
+    {
+      "id": "62813c9fea18",
+      "title": "The government shutdown fight hinges on ACA tax credits — and if immigrants should get them",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-healthcare-democrats-republicans.html",
+      "published_at": "Tue, 30 Sep 2025 22:33:13 GMT",
+      "bullets": [
+        "• Republicans say Democrats want to give health care to \"illegal immigrants\" The federal government may soon shut down over Obamacare subsidies",
+        "• Democrats say they are only trying to restore coverage options that were available to immigrants having \"lawful presence\" in the U.S"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -84,24 +119,6 @@
       }
     },
     {
-      "id": "d3d5c30b9dba",
-      "title": "Nike posts surprise sales growth but turnaround work is far from over",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
-      "published_at": "Tue, 30 Sep 2025 21:08:43 GMT",
-      "bullets": [
-        "• Nike posted surprise sales growth in its fiscal first quarter",
-        "• The sneaker giant previously said it anticipated sales would fall by a mid-single digit percentage",
-        "• Still, Nike's profits fell 31% and gross margin dropped 3.2%",
-        "• CEO Elliott Hill said the company is making strides in three key areas: wholesale, running and wholesale "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.666
-      }
-    },
-    {
       "id": "e453adbca501",
       "title": "How “prebunking” can restore public trust and other September highlights",
       "outlet": "Ars Technica - All content",
@@ -146,6 +163,22 @@
         "• It is not clear why the report was delayed by the delay",
         "• The report is expected to be released by the end of the year",
         "• The U.N"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "5c0cedc9d528",
+      "title": "What is a government shutdown and why is this year’s threat more serious?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
+      "published_at": "Tue, 30 Sep 2025 20:27:28 GMT",
+      "bullets": [
+        "• The federal government is once again on the brink of a shutdown, unless Congress can reach a funding agreement before the start of the new fiscal year, on 1 October",
+        "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
       ],
       "category": "US",
       "sentiment": {
@@ -204,23 +237,6 @@
       }
     },
     {
-      "id": "bf33e82d0acc",
-      "title": "Firefly Aerospace stock tanks 20% after test rocket explosion",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/firefly-aerospace-stock-rocket-explosion.html",
-      "published_at": "Tue, 30 Sep 2025 20:01:04 GMT",
-      "bullets": [
-        "• The explosion occurred during a first-stage test flight of a satellite-launching Alpha Flight 7 rocket",
-        "• Firefly Aerospace competes in an increasingly crowded space dominated by SpaceX",
-        "• The company recently won a $177 million contract with NASA and $50 million investment from Northrop Grumman "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.948
-      }
-    },
-    {
       "id": "a52ce851e57f",
       "title": "Government shutdown would furlough about 750,000 federal workers, CBO says",
       "outlet": "US Top News and Analysis",
@@ -236,23 +252,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "07c97d9f2ccc",
-      "title": "Trump, Pfizer agree to lower U.S. drug prices, exempt company from pharma tariffs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
-      "published_at": "Tue, 30 Sep 2025 18:43:32 GMT",
-      "bullets": [
-        "• Pfizer has agreed to voluntarily sell its medications for less for Medicaid patients",
-        "• Pfizer will also guarantee the same \"most-favored-nation\" pricing on its new drugs for Medicare, Medicaid and commercial payers",
-        "• The company plans to invest $70 billion to reshore domestic drug manufacturing and research facilities "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
       }
     },
     {
