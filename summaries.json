@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-30T20:34:12Z",
+  "generated_at": "2025-09-30T20:50:14Z",
   "items": [
     {
       "id": "d3d5c30b9dba",
@@ -16,6 +16,22 @@
       "sentiment": {
         "label": "negative",
         "score": 0.759
+      }
+    },
+    {
+      "id": "5c0cedc9d528",
+      "title": "What is a government shutdown and why is this year’s threat more serious?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
+      "published_at": "Tue, 30 Sep 2025 20:27:28 GMT",
+      "bullets": [
+        "• The federal government is once again on the brink of a shutdown, unless Congress can reach a funding agreement before the start of the new fiscal year, on 1 October",
+        "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -42,14 +58,15 @@
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
       "published_at": "Tue, 30 Sep 2025 20:19:21 GMT",
       "bullets": [
-        "• Government funding is set to expire at midnight ET on Tuesday",
-        "• About 750,000 federal employees will be furloughed each day of a government shutdown, according to an estimate by the Congressional Budget Office",
-        "• Operations deemed essential – such as social security, military duties, immigration enforcement – continue, but other services may be disrupted or delayed "
+        "• Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
+        "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent Democrats from negotiating further",
+        "• 'They want to give Cadillac Medicare to illegal aliens ",
+        "• at the cost to everyone else,' the president said "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.989
       }
     },
     {
@@ -192,22 +209,6 @@
       }
     },
     {
-      "id": "5c0cedc9d528",
-      "title": "What is a government shutdown and why is this year’s threat more serious?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
-      "published_at": "Tue, 30 Sep 2025 17:58:45 GMT",
-      "bullets": [
-        "• The federal government is once again on the brink of a shutdown, unless Congress can reach a funding agreement before the start of the new fiscal year, on 1 October",
-        "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "4107cb184208",
       "title": "US energy department cracks down on workers’ use of climate crisis language",
       "outlet": "US news | The Guardian",
@@ -225,19 +226,19 @@
     },
     {
       "id": "af53f51513df",
-      "title": "US cities should be military training grounds, Trump says",
+      "title": "US cities should be military training grounds, Trump tells generals",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 30 Sep 2025 17:44:33 GMT",
       "bullets": [
-        "• US cities should be military training grounds, US President Donald Trump says",
+        "• US cities should be military training grounds, US President Donald Trump tells generals",
         "• Defence Secretary Pete Hegseth declares an end to \"woke\" culture at the Pentagon",
-        "• Trump says civil disturbances are the 'enemy from within' and 'won't get out of control'"
+        "• Trump says he wants to use American cities as \"training grounds\" for the military "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.978
+        "score": 0.993
       }
     },
     {
