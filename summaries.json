@@ -1,21 +1,74 @@
 {
-  "generated_at": "2025-09-30T20:50:14Z",
+  "generated_at": "2025-09-30T21:29:05Z",
   "items": [
     {
       "id": "d3d5c30b9dba",
       "title": "Nike posts surprise sales growth but turnaround work is far from over",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
-      "published_at": "Tue, 30 Sep 2025 20:28:51 GMT",
+      "published_at": "Tue, 30 Sep 2025 21:08:43 GMT",
       "bullets": [
         "• Nike posted surprise sales growth in its fiscal first quarter",
         "• The sneaker giant previously said it anticipated sales would fall by a mid-single digit percentage",
-        "• Net income for the period was $727 million, or 49 cents per share, a 31% drop from the year-ago period "
+        "• Still, Nike's profits fell 31% and gross margin dropped 3.2%",
+        "• CEO Elliott Hill said the company is making strides in three key areas: wholesale, running and wholesale "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.759
+        "score": 0.666
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "Trump says ‘no choice’ but to cut federal workers if government shuts down as midnight deadline looms – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 20:58:13 GMT",
+      "bullets": [
+        "• 'We have no choice' if the government is forced to shut down, says President Trump",
+        "• The White House is set to hold a vote on whether to keep the government funded by illegal immigrants",
+        "• The president says he has no choice but to keep up the fight against illegal immigration "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
+      "id": "85b55184ca3c",
+      "title": "FCC chair claims he never threatened TV networks over Jimmy Kimmel",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/fcc-brendan-carr-jimmy-kimmel-networks",
+      "published_at": "Tue, 30 Sep 2025 20:46:19 GMT",
+      "bullets": [
+        "• Brendan Carr claimed Democrats and the media had “misrepresented” critical comments he made about Jimmy Kimmel Live! The FCC chair said there was no threat made that Kimmel would lose his license",
+        "• ABC announced it would “indefinitely” pre-empt the late-night talk show, hours after Carr had appeared on a conservative podcast "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      }
+    },
+    {
+      "id": "95b54fca6ca5",
+      "title": "Delayed US report on global human trafficking is released",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/human-trafficking-tip-report-state-department",
+      "published_at": "Tue, 30 Sep 2025 20:44:07 GMT",
+      "bullets": [
+        "• The long-awaited release of a new report by the U.S",
+        "• government has been delayed",
+        "• It is not clear why the report was delayed by the delay",
+        "• The report is expected to be released by the end of the year",
+        "• The U.N"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -29,6 +82,23 @@
         "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
       ],
       "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "77ea4854e1f9",
+      "title": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/security/2025/09/intel-and-amd-trusted-enclaves-the-backbone-of-network-security-fall-to-physical-attacks/",
+      "published_at": "Tue, 30 Sep 2025 20:25:08 +0000",
+      "bullets": [
+        "• In cloud computing, protections baked into chips are essential for protecting data stored in the cloud",
+        "• One attack, dubbed Battering RAM, defeats both protections and allows attackers to view encrypted data",
+        "• A separate attack known as Wiretap is able to passively decrypt data protected by SGX and remain invisible "
+      ],
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -52,21 +122,19 @@
       }
     },
     {
-      "id": "74be3ce48bb5",
-      "title": "Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 20:19:21 GMT",
+      "id": "f43734aed43f",
+      "title": "DeepSeek tests “sparse attention” to slash AI processing costs",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2025/09/deepseek-tests-sparse-attention-to-slash-ai-processing-costs/",
+      "published_at": "Tue, 30 Sep 2025 20:18:39 +0000",
       "bullets": [
-        "• Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
-        "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent Democrats from negotiating further",
-        "• 'They want to give Cadillac Medicare to illegal aliens ",
-        "• at the cost to everyone else,' the president said "
+        "• Chinese AI company DeepSeek releases experimental version of its latest simulated reasoning language model",
+        "• It introduces what it calls \"DeepSeek Sparse Attention\" (DSA) It's the company's implementation of a computational technique likely already used in some of the world's most prominent AI models "
       ],
-      "category": "US",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.995
       }
     },
     {
@@ -175,23 +243,6 @@
       }
     },
     {
-      "id": "6e33250276e8",
-      "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/09/spacex-has-a-few-tricks-up-its-sleeve-for-the-last-starship-flight-of-the-year/",
-      "published_at": "Tue, 30 Sep 2025 18:36:17 +0000",
-      "bullets": [
-        "• SpaceX's next Starship test flight is scheduled for October 13",
-        "• The rocket's Super Heavy booster will again splash down in the Gulf of Mexico",
-        "• Starship's upper stage will fly on a suborbital arc before reenter the atmosphere over the Indian Ocean for a water landing northwest of Australia "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.963
-      }
-    },
-    {
       "id": "55cef71c85ca",
       "title": "Former DRC president Joseph Kabila sentenced to death in absentia",
       "outlet": "World news | The Guardian",
@@ -225,71 +276,19 @@
       }
     },
     {
-      "id": "af53f51513df",
-      "title": "US cities should be military training grounds, Trump tells generals",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 17:44:33 GMT",
+      "id": "00d542dae7e6",
+      "title": "Trump administration uses taxpayer dollars to blame Democrats for government shutdown",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558393/government-shutdown-trump-ethics-hatch-act",
+      "published_at": "Tue, 30 Sep 2025 17:13:15 -0400",
       "bullets": [
-        "• US cities should be military training grounds, US President Donald Trump tells generals",
-        "• Defence Secretary Pete Hegseth declares an end to \"woke\" culture at the Pentagon",
-        "• Trump says he wants to use American cities as \"training grounds\" for the military "
+        "• Trump administration uses taxpayer dollars to blame Democrats for government shutdown, experts say",
+        "• A bright red banner and pop-up message that appeared on the Department of Housing and Urban Development's website warns: \"The Radical Left are going to shut down the government and inflict massive pain on the American people unless they get their $1.5 trillion wish list of demands\""
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
-      "id": "303218b3cfbd",
-      "title": "US heads toward first government shutdown in nearly seven years",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
-      "published_at": "Tue, 30 Sep 2025 17:44:31 GMT",
-      "bullets": [
-        "• Republicans are pushing legislation to fund the government through 21 November",
-        "• Democrats have refused to vote for it unless it includes concessions centered on healthcare",
-        "• The Senate will vote on the GOP proposal and a separate Democratic plan Tuesday evening",
-        "• Neither is expected to pick up the support necessary to clear the 60-vote threshold for advancement "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "668e042f0eeb",
-      "title": "Pfizer agrees to offer discounted drugs through new federal website, Trump announces",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/trump-pfizer-drug-prices",
-      "published_at": "Tue, 30 Sep 2025 17:40:56 GMT",
-      "bullets": [
-        "• Pfizer agrees to offer all medications to Medicaid, the public health insurance plan for low-income Americans, at “most favored nation” pricing",
-        "• In the United States, prices for drugs were almost three times higher than those of 33 other countries in 2022 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.547
-      }
-    },
-    {
-      "id": "1511959552f2",
-      "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 16:34:09 GMT",
-      "bullets": [
-        "• Chinese national pleads guilty to stealing £6.7bn worth of bitcoin",
-        "• He is believed to have stolen more than 128,000 of the world's most valuable bitcoins",
-        "• Police say they have been involved in the scam for more than five years "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
+        "score": 0.997
       }
     },
     {
@@ -306,6 +305,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
+      }
+    },
+    {
+      "id": "bdb91512c3c6",
+      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 16:15:13 GMT",
+      "bullets": [
+        "• Donald Trump has made himself into a leader to whom it is hard to say no, says Bowen",
+        "• He says Hamas has 'three to four days' to decide whether to say yes or no to end the Gaza war",
+        "• Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
       }
     },
     {
@@ -327,20 +343,19 @@
       }
     },
     {
-      "id": "55a24d198f8c",
-      "title": "iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/09/ios-26-0-1-macos-26-0-1-updates-fix-install-bugs-new-phone-problems-and-more/",
-      "published_at": "Tue, 30 Sep 2025 16:01:53 +0000",
+      "id": "32ed5bbd405c",
+      "title": "Trump peace plan 'ignores interests of Palestinian people', Hamas official tells BBC",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2j97jldkmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 15:50:00 GMT",
       "bullets": [
-        "• Apple releases iOS 26.0.1, iPadOS 26.1 and MacOS Tahoe",
-        "• The latest software update fixes bugs for iPhone 17, iPhone 17 Pro, iPhone Air, and iPhone Air",
-        "• The software update also fixes a bug that could cause app icons to appear blank "
+        "• Senior Hamas official says plan 'ignores those of the Palestinian people' Hamas is unlikely to agree to hand over their weapons to the White House",
+        "• The group is also said to object to the deployment of an International Stabilisation Force (ISF) in Gaza "
       ],
-      "category": "Technology",
+      "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.999
       }
     },
     {
@@ -428,42 +443,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.948
-      }
-    },
-    {
-      "id": "ddfede113708",
-      "title": "With 'drug boat' strikes, Trump leans into war on terror tactic against cartels",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91091/trump-bombing-drug-boats-terror",
-      "published_at": "Tue, 30 Sep 2025 12:06:57 -0400",
-      "bullets": [
-        "• U.S",
-        "• should go after cartels like it did al-Qaida in the wake of the 9/11 attacks, says Sen",
-        "• Patel",
-        "• The White House has launched a series of strikes against drug cartels in the Caribbean",
-        "• The attacks have killed 11 people and injured more than 100 since 2001 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.925
-      }
-    },
-    {
-      "id": "0f11e6cc0ad4",
-      "title": "Poll: Republicans get more of the blame than Democrats for a potential shutdown",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557396/poll-shutdown-congress-trump-approval-rating",
-      "published_at": "Tue, 30 Sep 2025 12:00:00 -0400",
-      "bullets": [
-        "• Poll: Republicans get more of the blame than Democrats for a potential shutdown",
-        "• By a 38-27% margin, respondents said they would blame Republicans for a shutdown with 3 in 10 saying both parties would be to blame",
-        "• The finding adds a wrinkle to the pending shutdown deadline of midnight Tuesday "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -759,6 +738,38 @@
       }
     },
     {
+      "id": "dc6afc7cf46d",
+      "title": "Google is blocking AI searches for Trump and dementia",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden",
+      "published_at": "2025-09-30T17:17:48-04:00",
+      "bullets": [
+        "• Google appears to have blocked AI search results for the query “does trump show signs of dementia” as well as other questions about his mental acuity",
+        "• Google also displayed AI overviews for queries about Biden and Alzheimer’s, stating there is “no clinical diagnosis or public proof that former President Joe Biden has dementia "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "d0d009912ef7",
+      "title": "TikTok, #freedom edition",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
+      "published_at": "2025-09-30T17:00:08-04:00",
+      "bullets": [
+        "• Today is the last day of The Verge’s very good subscription sale: $4 for a month and $35 for the year, for full access to the entire site",
+        "• Plus: What happens when Donald Trump faces off with Portland, a city of “angry, angry libs”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.887
+      }
+    },
+    {
       "id": "41317fc078d8",
       "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
       "outlet": "The Verge",
@@ -810,40 +821,6 @@
       }
     },
     {
-      "id": "b6ca4ecc37a6",
-      "title": "Microsoft is giving Copilot AI faces you can chat with",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
-      "published_at": "2025-09-30T13:12:48-04:00",
-      "bullets": [
-        "• Microsoft is giving Copilot AI assistant an animated face to talk with",
-        "• The experimental “Portraits” feature in Copilot Labs is available in the US, UK, and Canada",
-        "• It provides 40 stylized human avatars that respond with natural expressions during real-time voice conversations "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "f96209013d00",
-      "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
-      "published_at": "2025-09-30T13:10:38-04:00",
-      "bullets": [
-        "• Beats has announced a new version of the Fit Pro wireless earbuds that launched in late 2021",
-        "• The Powerbeats Fit are available for purchase starting today through Apple’s online store for $199.99 in jet black, gravel gray, power pink, and spark orange color options",
-        "• You’ll still get features like hands-free Siri access, Find My tracking, and syncing across Apple devices through iCloud "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.916
-      }
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -858,6 +835,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
+      }
+    },
+    {
+      "id": "bff3bbb6ccff",
+      "title": "The Axe Files with David Axelrod",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/axe-files",
+      "published_at": null,
+      "bullets": [
+        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
+        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
+        "• Scott Jennings is well known as a conservative firebrand on CNN "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
       }
     }
   ]
