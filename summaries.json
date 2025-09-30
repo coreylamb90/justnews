@@ -1,21 +1,39 @@
 {
-  "generated_at": "2025-09-30T11:28:05Z",
+  "generated_at": "2025-09-30T11:48:06Z",
   "items": [
+    {
+      "id": "fee9a426cd8b",
+      "title": "It's Amazon's turn to show off new devices: All eyes on Alexa+, Echo and Kindle",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/amazon-devices-alexa-echo-kindle.html",
+      "published_at": "Tue, 30 Sep 2025 11:41:04 GMT",
+      "bullets": [
+        "• Amazon's new Alexa+ device is set to be unveiled at 10 a.m",
+        "• ET on Tuesday",
+        "• The device is expected to be available for the first time in the fall",
+        "• The event is scheduled to be followed by a live stream of live videos from Amazon's YouTube channel "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.862
+      }
+    },
     {
       "id": "60b1a3e0d592",
       "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
-      "published_at": "Tue, 30 Sep 2025 11:23:36 GMT",
+      "published_at": "Tue, 30 Sep 2025 11:40:10 GMT",
       "bullets": [
-        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming AI era, chief data analytics officer Derek Waldron says",
+        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming AI era, chief analytics officer Derek Waldron says",
         "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
-        "• LLM Suite is a portal created by the bank to harness large language models from world's leading AI startups "
+        "• LLM Suite is a portal created by the bank to harness large language models from the world's leading AI startups "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.985
       }
     },
     {
@@ -23,7 +41,7 @@
       "title": "US government to shut down within hours if no funding deal agreed – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 11:20:12 GMT",
+      "published_at": "Tue, 30 Sep 2025 11:30:00 GMT",
       "bullets": [
         "• US government to shut down within hours if no funding deal agreed",
         "• Democratic leaders struck a more optimistic tone after meeting with Donald Trump on Monday",
@@ -33,23 +51,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "7588e6e7db73",
-      "title": "YouTube agrees to pay Trump $24.5 million to settle lawsuit over suspended account",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/youtube-to-pay-trump-24point5-million-to-settle-lawsuit-over-suspension.html",
-      "published_at": "Tue, 30 Sep 2025 11:09:03 GMT",
-      "bullets": [
-        "• YouTube has agreed to pay $24.5 million to settle a lawsuit involving the suspension of President Donald Trump's account",
-        "• The settlement \"shall not constitute an admission of liability or fault,\" a court filing says",
-        "• Trump sued YouTube, Facebook and Twitter in mid-2021, after the companies suspended his accounts "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
       }
     },
     {
@@ -512,22 +513,6 @@
       }
     },
     {
-      "id": "670cf3a178b4",
-      "title": "Jim Cramer explains why he thinks the AI boom is different than the dotcom bubble",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/jim-cramer-explains-why-he-thinks-the-ai-boom-is-different-than-the-dotcom-bubble.html",
-      "published_at": "Mon, 29 Sep 2025 23:10:07 GMT",
-      "bullets": [
-        "• CNBC's Jim Cramer pushed back against the narrative that Wall Street's fervor for artificial intelligence is the same as the dotcom bubble of 2000",
-        "• He said there are major differences in terms of the quality and funding of the current Big Tech stocks that are leading the market to new heights "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
       "id": "323e0c1f5acf",
       "title": "Trump obtains another settlement as YouTube agrees to pay $24.5 million",
       "outlet": "Ars Technica - All content",
@@ -592,6 +577,22 @@
       "sentiment": {
         "label": "negative",
         "score": 0.995
+      }
+    },
+    {
+      "id": "31aa2aa6d57d",
+      "title": "'We're headed to a shutdown,' Vance says after Trump meeting with leaders ends",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/trump-meeting-democrats-government-shutdown.html",
+      "published_at": "Mon, 29 Sep 2025 21:36:57 GMT",
+      "bullets": [
+        "• Vice President JD Vance: \"I think we're headed to a shutdown because the Democrats won't do the right thing\" Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries met with President Donald Trump at the White House on Monday",
+        "• The meeting comes less than two days before the government will begin in the absence of a funding deal "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
