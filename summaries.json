@@ -1,21 +1,86 @@
 {
-  "generated_at": "2025-09-30T21:47:14Z",
+  "generated_at": "2025-09-30T22:27:36Z",
   "items": [
     {
       "id": "74be3ce48bb5",
       "title": "Trump says ‘no choice’ but to cut federal workers if government shuts down as midnight deadline looms – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 21:29:33 GMT",
+      "published_at": "Tue, 30 Sep 2025 22:19:27 GMT",
       "bullets": [
-        "• President Donald Trump says government shutdown is inevitable if government shuts down",
-        "• 'No country can afford to pay for illegal immigration, health care for everybody that comes into the country,' he said",
-        "• Attorney general Pam Bondi set to appear before Senate judiciary committee next week "
+        "• President says government shutdown is inevitable if Congress fails to pass a resolution",
+        "• Senate will vote on a version of a short-term funding bill that Democratic lawmakers wrote to counter the original resolution",
+        "• Republicans will propose their original bill, which would keep government funded until 21 November "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.967
+        "score": 0.991
+      }
+    },
+    {
+      "id": "e355485dac58",
+      "title": "Trump says $500m deal reached with Harvard to settle dispute",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/trump-harvard-settle-deal",
+      "published_at": "Tue, 30 Sep 2025 22:01:25 GMT",
+      "bullets": [
+        "• Donald Trump said on Tuesday that his administration had reached a deal with Harvard and that the school would pay $500m to settle the dispute between the federal government and the university",
+        "• The news came after months of accusations by Trump that the university violated federal civil rights law in its treatment of Jewish and Israeli students "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "ff399a0c61ae",
+      "title": "Why healthcare spending is at the center of the US government shutdown battle",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/government-shutdown-healthcare-medicaid",
+      "published_at": "Tue, 30 Sep 2025 21:46:02 GMT",
+      "bullets": [
+        "• Democrats say they will not vote for legislation to keep government open unless Republicans agree to reverse cuts to Medicaid and extend subsidies for Affordable Care Act plans",
+        "• In June, the US president approved legislation he calls his “big, beautiful bill” which the Congressional Budget Office estimated would reduce federal Medicaid spending by $793bn "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      }
+    },
+    {
+      "id": "2d92b29390eb",
+      "title": "Critics slam OpenAI’s parental controls while users rage, “Treat us like adults”",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/09/critics-slam-openais-parental-controls-while-users-rage-treat-us-like-adults/",
+      "published_at": "Tue, 30 Sep 2025 21:30:58 +0000",
+      "bullets": [
+        "• Parents sued OpenAI over claims ChatGPT acted as a \"suicide coach\" for 16-year-old Adam Raine",
+        "• The lawsuit was filed by parents, Matthew and Maria Raine, alleging that \"ChatGPT killed my son\" OpenAI says it has been consistently rolling out safety updates since the lawsuit",
+        "• The lead attorney for the Raine family says some of the changes come \"far too late\""
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "a255bcc24dc5",
+      "title": "Researchers find a carbon-rich moon-forming disk around giant exoplanet",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/09/researchers-find-a-carbon-rich-moon-forming-disk-around-giant-exoplanet/",
+      "published_at": "Tue, 30 Sep 2025 21:14:15 +0000",
+      "bullets": [
+        "• James Webb Space Telescope has obtained a spectrum of the ring-forming disk around a giant super-Jupiter, and found that it's rich in small carbon-based molecules",
+        "• That's despite the fact that the star it's orbiting seems to have a planet forming disk that's mostly water "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981
       }
     },
     {
@@ -34,6 +99,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.666
+      }
+    },
+    {
+      "id": "e453adbca501",
+      "title": "How “prebunking” can restore public trust and other September highlights",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/09/research-roundup-six-cool-stories-we-almost-missed/",
+      "published_at": "Tue, 30 Sep 2025 20:49:54 +0000",
+      "bullets": [
+        "• September's list includes how prebunking can restore public trust in election results",
+        "• It might be possible to essentially \"vaccinate\" people against any viral post-election conspiracies that may emerge with a \"prebunk\" strategy",
+        "• Ghost sharks grow weird forehead teeth, and neutrinos make a frickin' laser beam "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
       }
     },
     {
@@ -64,22 +146,6 @@
         "• It is not clear why the report was delayed by the delay",
         "• The report is expected to be released by the end of the year",
         "• The U.N"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "5c0cedc9d528",
-      "title": "What is a government shutdown and why is this year’s threat more serious?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
-      "published_at": "Tue, 30 Sep 2025 20:27:28 GMT",
-      "bullets": [
-        "• The federal government is once again on the brink of a shutdown, unless Congress can reach a funding agreement before the start of the new fiscal year, on 1 October",
-        "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
       ],
       "category": "US",
       "sentiment": {
@@ -173,59 +239,6 @@
       }
     },
     {
-      "id": "8e6c9fcb773c",
-      "title": "After threatening ABC over Kimmel, FCC chair may eliminate TV ownership caps",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/09/after-threatening-abc-over-kimmel-fcc-chair-may-eliminate-tv-ownership-caps/",
-      "published_at": "Tue, 30 Sep 2025 19:44:25 +0000",
-      "bullets": [
-        "• Federal Communications Commission may eliminate TV station ownership limits",
-        "• Sinclair and Nexstar put Jimmy Kimmel Live! back on air after ABC and Disney ended Kimmel's suspension",
-        "• FCC Chairman Brendan Carr says national networks exert too much control over local TV stations",
-        "• The FCC voted to seek public comment on a Notice of Proposed Rulemaking today "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "c0e7ac805afb",
-      "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
-      "published_at": "Tue, 30 Sep 2025 19:34:38 +0000",
-      "bullets": [
-        "• Microsoft announces two new AI-powered tools for its Office 365 program",
-        "• Agents Mode and Copilot AI chatbot can generate Word and Excel documents with only text prompts",
-        "• Office Agent is based on OpenAI's GPT-5 large language model and works from a single step",
-        "• It's only available in the web versions of Word or Excel at present "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "ed04aec397cf",
-      "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/",
-      "published_at": "Tue, 30 Sep 2025 19:12:15 +0000",
-      "bullets": [
-        "• A Russian YouTube channel unboxing video shows a boxed version of a new iPad Pro",
-        "• The video also shows a new M5 processor that we haven't seen in any other Apple product yet",
-        "• Geekbench 6 tests show the M5 in this iPad Pro improved CPU performance by roughly 10 to 15 percent "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
       "id": "07c97d9f2ccc",
       "title": "Trump, Pfizer agree to lower U.S. drug prices, exempt company from pharma tariffs",
       "outlet": "US Top News and Analysis",
@@ -257,22 +270,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.995
-      }
-    },
-    {
-      "id": "4107cb184208",
-      "title": "US energy department cracks down on workers’ use of climate crisis language",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/energy-department-climate-change-crisis-language",
-      "published_at": "Tue, 30 Sep 2025 17:55:02 GMT",
-      "bullets": [
-        "• The US Department of Energy has told its employees to avoid using the words 'climate change' and 'decarbonization' The agency is the government’s largest funder of carbon-slashing technologies",
-        "• Also on the list are ‘energy transition’, ‘clean’ or ‘dirty’ energy” and ‘carbon/CO2 ‘Footprint’ Another set of words to be avoided: ‘Tax breaks/tax credits/subsidies’"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
