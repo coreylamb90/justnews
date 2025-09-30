@@ -1,21 +1,73 @@
 {
-  "generated_at": "2025-09-30T15:30:48Z",
+  "generated_at": "2025-09-30T15:53:51Z",
   "items": [
     {
       "id": "0fe2ae94edc8",
       "title": "Amazon's new Echo devices designed for Alexa+ start at $99",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/amazon-alexa-echo-price.html",
-      "published_at": "Tue, 30 Sep 2025 15:26:12 GMT",
+      "published_at": "Tue, 30 Sep 2025 15:50:08 GMT",
       "bullets": [
-        "• Amazon unveils a slew of new smart speakers and voice-activated displays that are revamped with Alexa+",
-        "• The company debuted the Echo Dot Max, a revamped version of its compact smart speaker, which costs $99.99",
-        "• Amazon also unveiled a new Echo Show 8 and Echo Show 11, priced at $179.99 and $219.99, respectively "
+        "• Amazon unveils four new smart speakers and voice-activated displays",
+        "• The devices were launched at Amazon's fall hardware bonanza in New York",
+        "• They're the first batch of revamped products under the leadership of Panos Panay, a former Microsoft hardware leader that joined Amazon in 2023 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      }
+    },
+    {
+      "id": "a5dc0aae5d29",
+      "title": "Ford CEO expects EV sales to be cut in half after end of tax credits",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/ford-ceo-jim-farley-ev-incentives.html",
+      "published_at": "Tue, 30 Sep 2025 15:47:04 GMT",
+      "bullets": [
+        "• Ford Motor CEO Jim Farley says he expects demand for all-electric vehicles to be slashed in half next month",
+        "• Farley said he \"wouldn't be surprised\" if sales of EVs fell from 10% to 12% this month to 5% after incentive program ends",
+        "• The federal incentives of up to $7,500 are coming to an end as part of the Trump administration's \"One Big Beautiful Bill Act\""
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.999
+      }
+    },
+    {
+      "id": "a52ce851e57f",
+      "title": "Government on track to shut down after midnight with no funding deal in sight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Tue, 30 Sep 2025 15:36:01 GMT",
+      "bullets": [
+        "• The U.S",
+        "• government was set to shut down at midnight Tuesday",
+        "• House Speaker Mike Johnson said Democrats \"need to come to their senses here, and do the right thing\" Johnson accused Democrats of trying to protect Schumer's \"backside\" by pressing their demands "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "07c97d9f2ccc",
+      "title": "Watch: Trump, Pfizer announce agreement to lower Medicaid drug prices",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
+      "published_at": "Tue, 30 Sep 2025 15:35:11 GMT",
+      "bullets": [
+        "• President Donald Trump will announce a drug pricing deal with Pfizer at 11 a.m",
+        "• ET",
+        "• The deal involves a three-year reprieve on planned pharmaceutical tariffs as long as Pfizer builds manufacturing plants in the U.S., a source says",
+        "• Pfizer confirmed it had reached an agreement with Trump on Tuesday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.854
       }
     },
     {
@@ -25,67 +77,31 @@
       "url": "https://www.theguardian.com/us-news/2025/sep/30/victim-dies-dallas-ice-facility-shooting-miguel-angel-garcia-hernandez",
       "published_at": "Tue, 30 Sep 2025 15:14:32 GMT",
       "bullets": [
-        "• Miguel Ángel García-Hernández, 32, was one of three people shot at the Dallas Ice facility",
-        "• The shooting initially left one detainee dead and two others critically wounded",
-        "• On Monday, Ice officials identified the other slain victim as 37-year-old Norlan Guzman-Fuentes of El Salvador "
+        "• Miguel Ángel García-Hernández, 32, was one of three people shot at the Ice facility in Dallas, Texas, on September 24",
+        "• His wife, Stephany Gauffeny, said in a statement that her husband was “a good man, a loving father and the provider for our family”"
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "positive",
+        "score": 0.926
       }
     },
     {
       "id": "74be3ce48bb5",
-      "title": "Trump claims US faces ‘invasion from within’ in address to military leaders after Hegseth declares war on diversity efforts – live",
+      "title": "Trump suggests ‘dangerous’ US cities should be used as ‘training grounds’ in extraordinary speech to military leaders – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
       "published_at": "Tue, 30 Sep 2025 15:13:21 GMT",
       "bullets": [
-        "• ‘We’re under invasion from within, no different than a foreign enemy, but more difficult in many ways, because they don’t wear uniforms,” Trump says",
-        "• “They all want your job",
+        "• Trump says 'dangerous cities' should be used 'as training grounds' for the military and national security",
+        "• ‘They all want your job",
         "• They want to be with you",
-        "• They’ll even take your job’, he says "
+        "• They’ll even take your job,” he says "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.791
-      }
-    },
-    {
-      "id": "07c97d9f2ccc",
-      "title": "Trump, Pfizer to announce agreement to lower Medicaid drug prices",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
-      "published_at": "Tue, 30 Sep 2025 15:10:39 GMT",
-      "bullets": [
-        "• President Donald Trump will announce a drug pricing deal with Pfizer at 11 a.m",
-        "• ET",
-        "• The deal involves a three-year reprieve on planned pharmaceutical tariffs as long as Pfizer builds manufacturing plants in the U.S",
-        "• Pfizer CEO Albert Bourla will be in attendance, a White House official said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.66
-      }
-    },
-    {
-      "id": "60b1a3e0d592",
-      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
-      "published_at": "Tue, 30 Sep 2025 15:06:15 GMT",
-      "bullets": [
-        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming artificial intelligence era",
-        "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
-        "• The project could have profound implications for the bank's employees, customers and shareholders "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
+        "score": 0.981
       }
     },
     {
@@ -188,23 +204,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.974
-      }
-    },
-    {
-      "id": "c76e66c2e49d",
-      "title": "Consumer confidence is lower than expected as Wall Street braces for shutdown data blackout",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/consumer-confidence-is-lower-than-expected-as-wall-street-braces-for-shutdown-data-blackout.html",
-      "published_at": "Tue, 30 Sep 2025 14:34:36 GMT",
-      "bullets": [
-        "• The Conference Board's headline confidence index registered a 94.2 reading, off 3.6 points from the August reading",
-        "• The reading was the lowest since April and comes with nonessential government operations slated to close at midnight",
-        "• The bureau's Job Openings and Labor Turnover report showed a slower pace in both hiring and total separations "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
       }
     },
     {
@@ -433,7 +432,7 @@
     },
     {
       "id": "95cef9caf9e2",
-      "title": "The UN mission appeals to the Taliban to restore internet access in Afghanistan",
+      "title": "The U.N. mission appeals to the Taliban to restore internet access in Afghanistan",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan",
       "published_at": "Tue, 30 Sep 2025 08:51:25 -0400",
@@ -446,7 +445,7 @@
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.999
       }
     },
     {
@@ -763,6 +762,42 @@
       }
     },
     {
+      "id": "d51cfdaa4053",
+      "title": "Alexa Plus is available out of the box on new Echo devices",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/786782/amazon-alexa-plus-availability-early-access",
+      "published_at": "2025-09-30T11:42:23-04:00",
+      "bullets": [
+        "• New version of Amazon's Alexa Plus will be available in the U.S",
+        "• on Wednesday",
+        "• The new device is available for the first time in a year",
+        "• It will also be able to use Siri and Alexa's voice assistant to make phone calls and text messages "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.747
+      }
+    },
+    {
+      "id": "4ecb8c3dc056",
+      "title": "Amazon&#8217;s 2025 hardware event: the 8 biggest announcements",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788297/amazon-fall-2025-hardware-announcements-echo-alexa-kindle-ring",
+      "published_at": "2025-09-30T11:36:24-04:00",
+      "bullets": [
+        "• Amazon announced a slew of updates to its hardware lineup at its fall event",
+        "• The company also unveiled its latest Echo Show smart displays and upgraded Kindle Scribes",
+        "• Amazon also announced a new Echo Dot Max and Fire TV upgrades",
+        "• The new device is more expensive than the $49.99 Echo Dot, with three times the bass "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
       "id": "98ecad450917",
       "title": "Alexa Plus on the TV is made to save you from your phone",
       "outlet": "The Verge",
@@ -813,42 +848,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.979
-      }
-    },
-    {
-      "id": "597dcb773d98",
-      "title": "Amazon’s new Echo Dot Max smart speaker bumps up the bass",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa",
-      "published_at": "2025-09-30T10:59:26-04:00",
-      "bullets": [
-        "• Amazon unveils its latest Echo Dot smart speaker at its fall hardware event",
-        "• The Echo Dot Max is a new entry that updates the recognizable spherical design with a flat face housing the speaker’s control buttons and LED light ring",
-        "• Amazon says the sound system has been redesigned to provide nearly three times more bass than its predecessor",
-        "• This is also the first Echo Dot to sport two speakers, alongside a high-excursion woofer and a custom tweeter "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.876
-      }
-    },
-    {
-      "id": "b82b61825c81",
-      "title": "Amazon debuts its latest Fire TVs, including a new Omni QLED model",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price",
-      "published_at": "2025-09-30T10:58:35-04:00",
-      "bullets": [
-        "• Amazon announced a fleet of new Fire TVs, including a new Omni QLED model",
-        "• The Fire TV 4 will be available in 43-inch, 50-inch and 55-inch configurations",
-        "• Amazon claims it has “nearly double” the local dimming zones compared to previous models",
-        "• The new model follows Amazon’s 2024 lineup, which included its first Mini LED TV "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.803
       }
     },
     {
