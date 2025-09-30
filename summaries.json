@@ -1,6 +1,23 @@
 {
-  "generated_at": "2025-09-30T03:09:46Z",
+  "generated_at": "2025-09-30T03:56:17Z",
   "items": [
+    {
+      "id": "b1314943767a",
+      "title": "Trump and Netanyahu agree new Gaza peace plan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 03:04:08 GMT",
+      "bullets": [
+        "• US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu agree new Gaza peace plan",
+        "• Plan would see Hamas release of more than two dozen hostages in exchange for hundreds of dead people",
+        "• Palestinian Authority says it is \"sincere and determined\" to work with the US and other countries "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
     {
       "id": "977a5aa954ca",
       "title": "China manufacturing activity picks up in September — official PMI still in contraction",
@@ -54,20 +71,19 @@
     },
     {
       "id": "471473100e7c",
-      "title": "Afghanistan telecom blackout as Taliban shuts off internet",
+      "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 30 Sep 2025 00:59:57 GMT",
       "bullets": [
-        "• Afghanistan telecom blackout as Taliban shuts off internet services",
-        "• Mobile internet and satellite TV has also been severely disrupted across the country",
-        "• At least eight flights from Kabul International Airport have been cancelled",
-        "• The Taliban government has imposed restrictions in accordance with their interpretation of Islamic Sharia law "
+        "• Taliban government in Afghanistan has imposed a nationwide shutdown of telecommunications",
+        "• The country is currently experiencing a \"total internet blackout\" International news agencies say they have lost contact with offices in Kabul",
+        "• Mobile internet and satellite TV has also been severely disrupted across Afghanistan "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.998
       }
     },
     {
@@ -84,23 +100,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.813
-      }
-    },
-    {
-      "id": "b1314943767a",
-      "title": "Trump and Netanyahu agree new Gaza peace plan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 00:15:32 GMT",
-      "bullets": [
-        "• US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu agree new Gaza peace plan",
-        "• Plan would see Hamas release of more than two dozen hostages in exchange for hundreds of dead people",
-        "• Plan demands that Hamas has no role in governing Gaza, and leaves the door open for an eventual Palestinian state "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -242,6 +241,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "525c760b9383",
+      "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
+      "published_at": "Mon, 29 Sep 2025 23:31:07 EDT",
+      "bullets": [
+        "• This tiny butterfly has the most chromosomes of any animal on Earth",
+        "• Unlike duplication, its chromosomes split apart, reshaping its genome in surprising ways",
+        "• Discovery sheds light on evolution, conservation, and even cancer research",
+        "• The Atlas blue butterfly is increasingly threatened by climate change and human impact "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
       }
     },
     {
@@ -756,23 +773,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.99
-      }
-    },
-    {
-      "id": "d42e115f1680",
-      "title": "Fossils in germany reveal a Jurassic sea monster with a swordfish snout",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095639.htm",
-      "published_at": "Mon, 29 Sep 2025 00:02:48 EDT",
-      "bullets": [
-        "• Fossils in germany reveal a Jurassic sea monster with a swordfish snout",
-        "• Discovery underscores Mistelgau’s global significance as a Jurassic fossil site",
-        "• The marine reptile had a dramatic overbite similar to swordfish and unique skeletal traits that set it apart from other species "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
