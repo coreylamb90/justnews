@@ -1,6 +1,91 @@
 {
-  "generated_at": "2025-09-30T17:29:09Z",
+  "generated_at": "2025-09-30T17:49:56Z",
   "items": [
+    {
+      "id": "775c6e0a26b5",
+      "title": "OpenAI's latest Sora video generator needs approval before creating individuals",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/openai-sora-ai-video-generator-us-canada.html",
+      "published_at": "Tue, 30 Sep 2025 17:43:24 GMT",
+      "bullets": [
+        "• OpenAI is releasing its most advanced video generation model with a new iOS app",
+        "• The Sora 2.0 model builds on an earlier version released this year as a research preview",
+        "• The new app is invite-only to start with and will let users create, remix, and cameo in AI-generated videos "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "a5dc0aae5d29",
+      "title": "Ford CEO expects EV sales to be cut in half after end of tax credits",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/ford-ceo-jim-farley-ev-incentives.html",
+      "published_at": "Tue, 30 Sep 2025 17:40:43 GMT",
+      "bullets": [
+        "• Ford Motor CEO Jim Farley says he expects demand for all-electric vehicles to be slashed in half next month",
+        "• Farley said he \"wouldn't be surprised\" if sales of EVs fell from 10% to 12% this month to 5% after incentive program ends",
+        "• The federal incentives of up to $7,500 are coming to an end as part of the Trump administration's \"One Big Beautiful Bill Act\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 17:34:59 GMT",
+      "bullets": [
+        "• Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
+        "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent Democrats from negotiating further",
+        "• Undocumented immigrants aren’t eligible to enroll in subsidized programs like Medicaid, Medicare or the Affordable Care Act "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "07c97d9f2ccc",
+      "title": "Trump, Pfizer agree to lower U.S. drug prices, exempt company from pharma tariffs",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
+      "published_at": "Tue, 30 Sep 2025 17:32:29 GMT",
+      "bullets": [
+        "• Pfizer has agreed to voluntarily sell its medications for less for Medicaid patients",
+        "• Pfizer will also guarantee the same \"most-favored-nation\" pricing on its new drugs for Medicare, Medicaid and commercial payers",
+        "• The company plans to invest $70 billion to reshore domestic drug manufacturing and research facilities "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      }
+    },
+    {
+      "id": "88a110d3b0cf",
+      "title": "Federal prosecutors urge judge to give Sean ‘Diddy’ Combs an 11-year sentence",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/sean-diddy-combs-sentence-recommendation",
+      "published_at": "Tue, 30 Sep 2025 17:22:36 GMT",
+      "bullets": [
+        "• In July, a federal jury found him guilty of two counts of conspiracy to engage in sexual violence",
+        "• He was sentenced to 11 years and three months in prison",
+        "• The jury also recommended a $500,000 fine for his part in the conspiracy to commit sexual assault "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      }
+    },
     {
       "id": "a52ce851e57f",
       "title": "Government on track to shut down after midnight with no funding deal in sight",
@@ -19,58 +104,6 @@
       }
     },
     {
-      "id": "775c6e0a26b5",
-      "title": "OpenAI's latest Sora AI video generator won't create individuals without approval",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/openai-sora-ai-video-generator-us-canada.html",
-      "published_at": "Tue, 30 Sep 2025 17:17:15 GMT",
-      "bullets": [
-        "• OpenAI is releasing its most advanced video generation model with a new iOS app",
-        "• The Sora 2.0 model builds on an earlier version released this year as a research preview",
-        "• The new app is invite-only to start with and will let users create, remix, and cameo in AI-generated videos "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.649
-      }
-    },
-    {
-      "id": "74be3ce48bb5",
-      "title": "Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 17:14:16 GMT",
-      "bullets": [
-        "• 'They want to give Cadillac Medicare to illegal aliens...at the cost to everyone else,' the president said",
-        "• This is a false claim that Trump and congressional Republicans have repeated since lawmakers have failed to pass a continuing resolution to keep the government funded",
-        "• Undocumented immigrants aren't eligible to enroll in subsidized programs like Medicaid, Medicare or the Affordable Care Act "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "07c97d9f2ccc",
-      "title": "Trump, Pfizer announce agreement to lower U.S. drug prices, exempt company from pharma tariffs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
-      "published_at": "Tue, 30 Sep 2025 17:08:07 GMT",
-      "bullets": [
-        "• Pfizer has agreed to take measures to reduce U.S",
-        "• drug prices, including selling its existing drugs to Medicaid patients",
-        "• Pfizer will also guarantee the same \"most-favored-nation\" pricing on its new drugs for Medicare, Medicaid and commercial payers",
-        "• The company plans to invest $70 billion to reshore domestic drug manufacturing facilities "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.936
-      }
-    },
-    {
       "id": "71e26823b486",
       "title": "No more ‘woke’ in the US military: key takeaways from Pete Hegseth’s speech",
       "outlet": "US news | The Guardian",
@@ -84,23 +117,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "a5dc0aae5d29",
-      "title": "Ford CEO expects EV sales to be cut in half after end of tax credits",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/ford-ceo-jim-farley-ev-incentives.html",
-      "published_at": "Tue, 30 Sep 2025 16:47:08 GMT",
-      "bullets": [
-        "• Ford Motor CEO Jim Farley says he expects demand for all-electric vehicles to be slashed in half next month",
-        "• Farley said he \"wouldn't be surprised\" if sales of EVs fell from 10% to 12% this month to 5% after incentive program ends",
-        "• The federal incentives of up to $7,500 are coming to an end as part of the Trump administration's \"One Big Beautiful Bill Act\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -203,22 +219,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.821
-      }
-    },
-    {
-      "id": "6d7dc6ff3394",
-      "title": "Second victim dies following shooting at Texas immigration facility",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/victim-dies-dallas-ice-facility-shooting-miguel-angel-garcia-hernandez",
-      "published_at": "Tue, 30 Sep 2025 15:14:32 GMT",
-      "bullets": [
-        "• Miguel Ángel García-Hernández, 32, was one of three people shot at the Ice facility in Dallas, Texas, on September 24",
-        "• His wife, Stephany Gauffeny, said in a statement that her husband was “a good man, a loving father and the provider for our family”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.926
       }
     },
     {
@@ -776,6 +776,23 @@
       }
     },
     {
+      "id": "38caafc40ffc",
+      "title": "Imgur is blocking users in the UK",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation",
+      "published_at": "2025-09-30T13:40:22-04:00",
+      "bullets": [
+        "• Image-sharing site Imgur has shut off access to UK users",
+        "• UK's data watchdog warned Imgur of a potential fine earlier this month",
+        "• Imgur will also block UK users from seeing content from the platform embedded on third-party sites like Reddit "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
       "id": "b6ca4ecc37a6",
       "title": "Microsoft is giving Copilot AI faces you can chat with",
       "outlet": "The Verge",
@@ -817,13 +834,13 @@
       "published_at": "2025-09-30T13:06:39-04:00",
       "bullets": [
         "• OpenAI’s new social video app will let you deepfake your friends with your own likeness",
-        "• The app is called Sora, and it's available on iOS",
-        "• It's currently only available to US and Canada, with other countries set to follow "
+        "• The Sora app is currently only available to US and Canada users, with other countries set to follow",
+        "• Like TikTok, the app allows you to interact with other videos and trends using a “Remix” feature "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.95
       }
     },
     {
@@ -841,23 +858,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.935
-      }
-    },
-    {
-      "id": "20474f3e9ad3",
-      "title": "Apple’s M5 iPad Pro might have leaked in Russia",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom",
-      "published_at": "2025-09-30T12:44:59-04:00",
-      "bullets": [
-        "• A Russian YouTuber posted a video unboxing what appears to be an unannounced iPad Pro",
-        "• Rumors have indicated that Apple would launch an M5 iPad Pro as early as October",
-        "• The tablet looks largely the same, but benchmarks show it could offer performance improvements "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     }
   ]
