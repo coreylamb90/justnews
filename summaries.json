@@ -1,39 +1,55 @@
 {
-  "generated_at": "2025-09-30T01:58:35Z",
+  "generated_at": "2025-09-30T03:09:46Z",
   "items": [
     {
       "id": "977a5aa954ca",
       "title": "China manufacturing activity picks up in September — official PMI still in contraction",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/chinas-manufacturing-activity-september-contraction.html",
-      "published_at": "Tue, 30 Sep 2025 01:54:51 GMT",
+      "published_at": "Tue, 30 Sep 2025 02:39:31 GMT",
       "bullets": [
         "• Manufacturing Purchasing Managers' Index came in at 49.8, compared with expectations for 49.6, according to a Reuters poll",
         "• That reading, while still in contraction, was the strongest since March",
-        "• Beijing has intensified efforts to curb industrial overcapacity amid sluggish domestic demand and global trade disruptions "
+        "• Beijing has intensified efforts aimed at curbing industrial overcapacity amid sluggish domestic demand and global trade disruptions "
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.948
+        "score": 0.965
       }
     },
     {
       "id": "cc61fc22a90d",
-      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – live",
+      "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – as it happened",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live",
-      "published_at": "Tue, 30 Sep 2025 01:24:00 GMT",
+      "published_at": "Tue, 30 Sep 2025 02:02:33 GMT",
       "bullets": [
-        "• Mike Johnson wants more time for negotiations as JD Vance blames Democrat over potential shutdown",
-        "• Treasury picks White House personnel official Michael Friedman as new chief of staff",
-        "• Minnesota leaders respond to lawsuit against state's immigration 'sanctuary' policies",
-        "• Minnesota attorney general Keith Ellison calls lawsuit 'baseless' political retaliation against state "
+        "• House Speaker wants more time for negotiations on a deal to avoid a government shutdown",
+        "• President Donald Trump and Israeli PM Benjamin Netanyahu hold talks on a proposed Gaza peace plan",
+        "• US President Barack Obama has proposed a 20-point deal with Israel, but no deal is reached "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
+      }
+    },
+    {
+      "id": "1f6b47e34e9d",
+      "title": "US justice department sues Minnesota over sanctuary city policies",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/29/justice-department-sues-minnesota-sanctuary-city",
+      "published_at": "Tue, 30 Sep 2025 02:01:09 GMT",
+      "bullets": [
+        "• Minnesota is latest state to be sued over sanctuary city immigration policies",
+        "• It is the latest jurisdiction to face legal threats from the Trump administration",
+        "• Minnesota cities of Minneapolis, St Paul and Hennepin county join the ranks of Los Angeles, New York, Boston, and New Jersey and Colorado "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.649
       }
     },
     {
@@ -119,23 +135,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.986
-      }
-    },
-    {
-      "id": "eb57e9ca09a9",
-      "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
-      "published_at": "Sun, 11 Dec 2022 16:16:48 GMT",
-      "bullets": [
-        "• The White House has a long list of issues facing the nation's first two years of Congress",
-        "• President Barack Obama and his staff are working on a bipartisan agenda",
-        "• They say it's important to keep the public eye on what's happening in the U.S"
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
@@ -397,38 +396,21 @@
       }
     },
     {
-      "id": "e359c46687b2",
-      "title": "US whistleblowers say they were fired for raising fair housing concerns",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/us-housing-department-hud-whistleblowers",
-      "published_at": "Mon, 29 Sep 2025 20:12:41 GMT",
-      "bullets": [
-        "• The White House is preparing to launch a new program to help Americans with disabilities",
-        "• The program aims to help people with disabilities in the United States",
-        "• It is the first time the White House has been asked to make a public announcement about the program",
-        "• The government has been forced to withdraw from the program after it was revealed "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      }
-    },
-    {
       "id": "7385478e8e02",
-      "title": "Madagascar's president dissolves government after 'Gen Z' protests",
+      "title": "Madagascar president dissolves government after 'Gen Z' protests",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c5y5j98p4pjo?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 29 Sep 2025 20:10:41 GMT",
       "bullets": [
-        "• Madagascar president Andry Rajoelina dissolves government after 'Gen-Z' protests",
-        "• Protests have seen thousands of predominantly young demonstrators take to the streets in cities across the country",
-        "• UN's human rights chief says 22 people have been killed and 100 others injured "
+        "• Madagascar president dissolves government after 'Gen-Z' protests",
+        "• Thousands of predominantly young demonstrators take to the streets in cities across the country",
+        "• UN's human rights chief condemns \"unnecessary force\" used by security forces to quell unrest",
+        "• At least 22 people have been killed and 100 others injured, UN says "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 0.997
       }
     },
     {
@@ -498,6 +480,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.959
+      }
+    },
+    {
+      "id": "2fc5128c526d",
+      "title": "Congressional leaders met with President Trump ahead of shutdown deadline",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5556936/congressional-leaders-met-with-president-trump-ahead-of-shutdown-deadline",
+      "published_at": "Mon, 29 Sep 2025 17:13:33 -0400",
+      "bullets": [
+        "• Congressional leaders met with President Trump ahead of shutdown deadline",
+        "• The federal government is perilously close to a government shutdown",
+        "• President Trump met Monday with top Congressional leaders from both parties in the Oval Office",
+        "• But that meeting ended with both sides dug in "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
       }
     },
     {
