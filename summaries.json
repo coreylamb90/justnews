@@ -1,6 +1,109 @@
 {
-  "generated_at": "2025-09-30T10:52:30Z",
+  "generated_at": "2025-09-30T11:28:05Z",
   "items": [
+    {
+      "id": "60b1a3e0d592",
+      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
+      "published_at": "Tue, 30 Sep 2025 11:23:36 GMT",
+      "bullets": [
+        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming AI era, chief data analytics officer Derek Waldron says",
+        "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
+        "• LLM Suite is a portal created by the bank to harness large language models from world's leading AI startups "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "US government to shut down within hours if no funding deal agreed – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 11:20:12 GMT",
+      "bullets": [
+        "• US government to shut down within hours if no funding deal agreed",
+        "• Democratic leaders struck a more optimistic tone after meeting with Donald Trump on Monday",
+        "• But there was little sign that Republicans had shifted from their demands that Senate Democrats vote for their bill that would keep government open "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "7588e6e7db73",
+      "title": "YouTube agrees to pay Trump $24.5 million to settle lawsuit over suspended account",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/29/youtube-to-pay-trump-24point5-million-to-settle-lawsuit-over-suspension.html",
+      "published_at": "Tue, 30 Sep 2025 11:09:03 GMT",
+      "bullets": [
+        "• YouTube has agreed to pay $24.5 million to settle a lawsuit involving the suspension of President Donald Trump's account",
+        "• The settlement \"shall not constitute an admission of liability or fault,\" a court filing says",
+        "• Trump sued YouTube, Facebook and Twitter in mid-2021, after the companies suspended his accounts "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "af53f51513df",
+      "title": "Trump and Hegseth to address top US generals in unusual military gathering",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 11:01:48 GMT",
+      "bullets": [
+        "• US President Donald Trump and Defence Secretary Pete Hegseth to address top US generals in unusual military gathering",
+        "• Hundreds of military leaders, including generals and admirals stationed around the world, are expected to attend",
+        "• No official reason was given when the leaders were summoned at short notice last week "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "f86e8e18f7fb",
+      "title": "Trump gutting protected status for immigrants will strain US healthcare, Democrats warn",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/trump-temporary-protected-status-healthcare-democrats",
+      "published_at": "Tue, 30 Sep 2025 11:00:07 GMT",
+      "bullets": [
+        "• More than 100 members of Congress warn of impact on US healthcare system",
+        "• Nearly one million people have been granted temporary protection from deportation",
+        "• They are from Afghanistan, Cameroon, Haiti, Honduras, Nicaragua, Syria and Venezuela",
+        "• The US government has sought to cancel this status for people from these countries "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "af1b59d226e4",
+      "title": "First Thing: Trump and Netanyahu tell Hamas to accept Gaza peace plan or face consequences",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/first-thing-trump-and-netanyahu-tell-hamas-to-accept-gaza-peace-plan-or-face-consequences",
+      "published_at": "Tue, 30 Sep 2025 10:57:39 GMT",
+      "bullets": [
+        "• President Donald Trump and Israeli PM Benjamin Netanyahu have given Hamas an ultimatum",
+        "• Qatari and Egyptian mediators met with Hamas on Monday evening to provide them with the plan",
+        "• Trump said if Hamas did not accept, “Israel will finish the job by itself”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      }
+    },
     {
       "id": "471473100e7c",
       "title": "Flights in Afghanistan grounded after internet shutdown",
@@ -17,23 +120,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "74be3ce48bb5",
-      "title": "US government to shut down within hours if no funding deal agreed – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 10:23:52 GMT",
-      "bullets": [
-        "• US government to shut down within hours if no funding deal agreed",
-        "• Democratic leaders struck a more optimistic tone after meeting with Donald Trump on Monday",
-        "• But there was little sign that Republicans had shifted from their demands that Senate Democrats vote for their bill that would keep government open "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -66,23 +152,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.984
-      }
-    },
-    {
-      "id": "e512c251b74c",
-      "title": "Three dead, dozens trapped after Indonesian school collapses on students",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj4y0zpvp8go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 09:22:04 GMT",
-      "bullets": [
-        "• Three dead, dozens trapped after Indonesian school collapses on students",
-        "• At least 38 others, many of them teenage boys, remain trapped under the rubble",
-        "• The two-storey building had an unstable foundation and could not support the weight of two more floors "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
       }
     },
     {
@@ -136,6 +205,24 @@
       "sentiment": {
         "label": "positive",
         "score": 0.994
+      }
+    },
+    {
+      "id": "d74b3cadc53e",
+      "title": "Government shuts down tonight barring a deal. And, U.S. military leaders gather in VA",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91242/up-first-newsletter-government-shutdown-trump-netanyahu-gaza-pete-hegseth-meeting",
+      "published_at": "Tue, 30 Sep 2025 07:09:27 -0400",
+      "bullets": [
+        "• Government shuts down tonight barring a deal to fund the government",
+        "• Secretary of Defense Pete Hegseth meets with top U.S",
+        "• military leaders in Quantico, Va., to discuss budget negotiations",
+        "• NPR's Deirdre Walsh says she doesn't see any way to avoid a government shutdown "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
       }
     },
     {
@@ -232,24 +319,6 @@
       }
     },
     {
-      "id": "54d3ae59f788",
-      "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
-      "published_at": "Tue, 30 Sep 2025 05:00:00 -0400",
-      "bullets": [
-        "• Government to shut down after midnight barring last minute breakthrough in Congress",
-        "• Lawmakers have less than 24 hours to reach a deal before a midnight deadline",
-        "• Senate Democrats have refused to back the spending bill in an effort to force Republicans to negotiate on federal health care subsidies",
-        "• They are pushing for an extension of Affordable Care Act subsidies that are set to expire at the end of the year in exchange for their support "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
       "id": "cc61fc22a90d",
       "title": "‘I think we’re headed to a shutdown,’ says JD Vance as Mike Johnson calls for more time for negotiations – as it happened",
       "outlet": "US news | The Guardian",
@@ -264,39 +333,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "1f6b47e34e9d",
-      "title": "US justice department sues Minnesota over sanctuary city policies",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/justice-department-sues-minnesota-sanctuary-city",
-      "published_at": "Tue, 30 Sep 2025 02:01:09 GMT",
-      "bullets": [
-        "• Minnesota is latest state to be sued over sanctuary city immigration policies",
-        "• It is the latest jurisdiction to face legal threats from the Trump administration",
-        "• Minnesota cities of Minneapolis, St Paul and Hennepin county join the ranks of Los Angeles, New York, Boston, and New Jersey and Colorado "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.649
-      }
-    },
-    {
-      "id": "4e4c8ab1efbf",
-      "title": "Trump news at a glance: UK and French leaders back president’s peace plan for Gaza",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/president-trump-administration-news-updates-today",
-      "published_at": "Tue, 30 Sep 2025 00:30:42 GMT",
-      "bullets": [
-        "• Donald Trump and Benjamin Netanyahu deliver ultimatum to Hamas to accept peace plan or face consequences",
-        "• UK PM Keir Starmer calls on Hamas to ‘agree to the plan and end the misery’ French president Emmanuel Macron says “France stands ready to contribute” to efforts to end the war "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.813
       }
     },
     {
@@ -526,23 +562,6 @@
       }
     },
     {
-      "id": "7588e6e7db73",
-      "title": "YouTube agrees to pay Trump $24.5 Million to settle lawsuit over suspended account",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/youtube-to-pay-trump-24point5-million-to-settle-lawsuit-over-suspension.html",
-      "published_at": "Mon, 29 Sep 2025 22:33:18 GMT",
-      "bullets": [
-        "• YouTube has agreed to pay $24.5 million to settle a lawsuit involving the suspension of President Donald Trump's account",
-        "• The settlement \"shall not constitute an admission of liability or fault,\" a court filing says",
-        "• Trump sued YouTube, Facebook and Twitter in mid-2021, after the companies suspended his accounts "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
       "id": "97988886b9e4",
       "title": "Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks",
       "outlet": "Ars Technica - All content",
@@ -590,22 +609,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "3c73c06bb5c9",
-      "title": "Why movie production has moved out of the U.S. — and what a tariff could mean for Hollywood",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/29/trump-movie-tariffs-why-production-has-left-hollywood.html",
-      "published_at": "Mon, 29 Sep 2025 20:10:47 GMT",
-      "bullets": [
-        "• Hollywood is no longer the bustling production hub it once was, as studios have chased tax benefits and lower labor costs overseas",
-        "• President Donald Trump reiterated Monday that he would impose a 100% tariff on \"any and all movies that were made outside of the United States\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
       }
     },
     {
@@ -727,6 +730,23 @@
       }
     },
     {
+      "id": "f62c66a2f679",
+      "title": "Garmin’s eTrex Touch navigator can go almost a month without charging",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788213/garmins-etrex-touch-navigator-can-go-almost-a-month-without-charging",
+      "published_at": "2025-09-30T07:00:00-04:00",
+      "bullets": [
+        "• Garmin’s $449.99 eTrex Touch is a rugged GPS navigator with preloaded maps",
+        "• It features a 3-inch touchscreen for swiping and zooming in on roads and trails",
+        "• It comes preloaded with TopoActive maps and the option to add an Outdoor Maps Plus plan "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.915
+      }
+    },
+    {
       "id": "e536990ca399",
       "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
       "outlet": "The Verge",
@@ -793,24 +813,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.981
-      }
-    },
-    {
-      "id": "d0cbc5144783",
-      "title": "SB 53, the landmark AI transparency bill, is now law in California",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
-      "published_at": "2025-09-29T19:01:43-04:00",
-      "bullets": [
-        "• Senate Bill 53, the landmark AI transparency bill, is now law in California",
-        "• It establishes safety reporting requirements for large AI companies",
-        "• It's the second draft of such a bill, as Gov",
-        "• Gavin Newsom vetoed the first version last year "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.897
       }
     },
     {
