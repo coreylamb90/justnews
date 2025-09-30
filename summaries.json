@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-30T07:49:34Z",
+  "generated_at": "2025-09-30T08:42:26Z",
   "items": [
     {
       "id": "471473100e7c",
@@ -89,6 +89,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "7d4eaa0b4f90",
+      "title": "Rescuers run oxygen to survivors in Indonesia school building collapse",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5557866/indonesia-school-building-collapse",
+      "published_at": "Tue, 30 Sep 2025 03:59:42 -0400",
+      "bullets": [
+        "• Rescuers run oxygen to survivors in Indonesia school building collapse",
+        "• At least three students were killed, more than 100 were injured and dozens presumed buried in the rubble",
+        "• The collapse occurred at Al Khoziny Islamic Boarding School in the East Java town of Sidoarjo "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
       }
     },
     {
@@ -641,24 +658,6 @@
       }
     },
     {
-      "id": "4589376e683a",
-      "title": "Compass-Anywhere real estate merger could squeeze small brokerages",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5554360/real-estate-compass-anywhere-brokerages",
-      "published_at": "Mon, 29 Sep 2025 12:45:36 -0400",
-      "bullets": [
-        "• Compass-Anywhere real estate merger could squeeze small brokerages",
-        "• The $1.6 billion deal would unite the nation's two largest real estate behemoths",
-        "• The merger is expected to go forward pending approval from shareholders and regulators",
-        "• It would create a combined 340,000-agent network "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.844
-      }
-    },
-    {
       "id": "b445ebcc6904",
       "title": "Trump announces an agreement with Israel to end war in Gaza",
       "outlet": "NPR Topics: Politics",
@@ -780,6 +779,24 @@
       }
     },
     {
+      "id": "e536990ca399",
+      "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
+      "published_at": "2025-09-30T04:00:00-04:00",
+      "bullets": [
+        "• Opera has rolled out its AI browser, Neon, to some users for $19.90 per month",
+        "• The Norwegian software company first announced the “agentic browser” in May",
+        "• Neon includes different AI agents that are tailored to specific tasks",
+        "• The rollout is limited to an unspecified number of users "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
       "id": "694282a9b21a",
       "title": "Logitech’s MX Master 4 adds haptic feedback, mostly just for fun",
       "outlet": "The Verge",
@@ -846,23 +863,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.897
-      }
-    },
-    {
-      "id": "426390eba937",
-      "title": "Microsoft is bringing its Windows engineering teams back together again",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
-      "published_at": "2025-09-29T18:07:32-04:00",
-      "bullets": [
-        "• Microsoft is bringing its Windows engineering teams back together again",
-        "• The unified team is meant to support Microsoft’s work on top priorities like AI",
-        "• This is the first major Windows reorg since Pavan Davuluri was promoted to Windows and Surface chief "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
       }
     }
   ]
