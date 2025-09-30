@@ -1,6 +1,42 @@
 {
-  "generated_at": "2025-09-30T06:45:02Z",
+  "generated_at": "2025-09-30T07:31:50Z",
   "items": [
+    {
+      "id": "471473100e7c",
+      "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 06:58:36 GMT",
+      "bullets": [
+        "• Taliban government in Afghanistan has imposed a nationwide shutdown of telecommunications",
+        "• The country is currently experiencing a \"total internet blackout\", internet watchdog Netblocks reports",
+        "• Mobile internet and satellite TV have also been severely disrupted across Afghanistan",
+        "• Taliban have imposed numerous restrictions in accordance with their interpretation of Islamic Sharia law "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "b1314943767a",
+      "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 06:42:55 GMT",
+      "bullets": [
+        "• Leaders in Middle East and Europe welcome US peace plan for Gaza",
+        "• President Donald Trump and Israeli PM Benjamin Netanyahu agree to the plan",
+        "• It calls for an immediate end to fighting and release of hostages held by Hamas",
+        "• Netanyahu later again again again rules out an eventual Palestinian state "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
     {
       "id": "4c9940e709c9",
       "title": "Russian mum and children found living in Indian cave return home",
@@ -38,23 +74,6 @@
       }
     },
     {
-      "id": "471473100e7c",
-      "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 04:53:11 GMT",
-      "bullets": [
-        "• Taliban government in Afghanistan has imposed a nationwide shutdown of telecommunications",
-        "• The country is currently experiencing a \"total internet blackout\" International news agencies say they have lost contact with offices in Kabul",
-        "• Mobile internet and satellite TV has also been severely disrupted across Afghanistan "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "7385478e8e02",
       "title": "Madagascar president dissolves government after 'Gen Z' protests",
       "outlet": "BBC News",
@@ -70,24 +89,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "b1314943767a",
-      "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 04:13:17 GMT",
-      "bullets": [
-        "• Leaders in Middle East and Europe welcome US peace plan for Gaza",
-        "• President Donald Trump and Israeli Prime Minister Benjamin Netanyahu agree to the plan",
-        "• It stipulates that Hamas must release 20 Israeli hostages and the remains of more than two dozen dead",
-        "• Israel says it will finish the job of destroying the threat of Hamas if Hamas does not agree "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
       }
     },
     {
@@ -779,6 +780,23 @@
       }
     },
     {
+      "id": "694282a9b21a",
+      "title": "Logitech’s MX Master 4 adds haptic feedback, mostly just for fun",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price",
+      "published_at": "2025-09-30T03:01:00-04:00",
+      "bullets": [
+        "• Logitech’s MX Master 4 wireless mouse adds haptic feedback to everyday tasks",
+        "• The haptics are a hardware feature that, unsurprisingly, requires you to engage pretty heavily with Logi Options Plus",
+        "• The Haptic Sense Panel embedded in its grippy thumb rest vibrates when pressed, opening Logitech's Action Ring overlay "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.696
+      }
+    },
+    {
       "id": "abb8ef06d5fb",
       "title": "Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event",
       "outlet": "The Verge",
@@ -845,22 +863,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.991
-      }
-    },
-    {
-      "id": "86a1f1cafa55",
-      "title": "Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted",
-      "published_at": "2025-09-29T18:03:30-04:00",
-      "bullets": [
-        "• Security researchers are shining the spotlight on a serious security vulnerability that could enable stalkers to track victims using their own Tile tags",
-        "• Bad actors could also potentially intercept unencrypted information sent from the tags, like their unique IDs and MAC addresses, and track their movements using other Bluetooth devices or an antenna "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     }
   ]
