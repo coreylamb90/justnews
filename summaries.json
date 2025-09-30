@@ -1,6 +1,23 @@
 {
-  "generated_at": "2025-09-30T21:29:05Z",
+  "generated_at": "2025-09-30T21:47:14Z",
   "items": [
+    {
+      "id": "74be3ce48bb5",
+      "title": "Trump says ‘no choice’ but to cut federal workers if government shuts down as midnight deadline looms – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 21:29:33 GMT",
+      "bullets": [
+        "• President Donald Trump says government shutdown is inevitable if government shuts down",
+        "• 'No country can afford to pay for illegal immigration, health care for everybody that comes into the country,' he said",
+        "• Attorney general Pam Bondi set to appear before Senate judiciary committee next week "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      }
+    },
     {
       "id": "d3d5c30b9dba",
       "title": "Nike posts surprise sales growth but turnaround work is far from over",
@@ -17,23 +34,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.666
-      }
-    },
-    {
-      "id": "74be3ce48bb5",
-      "title": "Trump says ‘no choice’ but to cut federal workers if government shuts down as midnight deadline looms – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 20:58:13 GMT",
-      "bullets": [
-        "• 'We have no choice' if the government is forced to shut down, says President Trump",
-        "• The White House is set to hold a vote on whether to keep the government funded by illegal immigrants",
-        "• The president says he has no choice but to keep up the fight against illegal immigration "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
       }
     },
     {
@@ -282,13 +282,15 @@
       "url": "https://www.npr.org/2025/09/30/nx-s1-5558393/government-shutdown-trump-ethics-hatch-act",
       "published_at": "Tue, 30 Sep 2025 17:13:15 -0400",
       "bullets": [
-        "• Trump administration uses taxpayer dollars to blame Democrats for government shutdown, experts say",
-        "• A bright red banner and pop-up message that appeared on the Department of Housing and Urban Development's website warns: \"The Radical Left are going to shut down the government and inflict massive pain on the American people unless they get their $1.5 trillion wish list of demands\""
+        "• Trump administration uses taxpayer dollars to blame Democrats for government shutdown",
+        "• Experts say it could be a violation of federal ethics laws",
+        "• Staffers at multiple agencies and Cabinet departments received emails on Tuesday from the White House Office of Management and Budget",
+        "• The messages said any lapse in government funding would be \"forced by Congressional Democrats\""
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.995
       }
     },
     {
