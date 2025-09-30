@@ -1,21 +1,108 @@
 {
-  "generated_at": "2025-09-30T15:53:51Z",
+  "generated_at": "2025-09-30T16:38:34Z",
   "items": [
+    {
+      "id": "07c97d9f2ccc",
+      "title": "Watch: Trump, Pfizer announce agreement to lower Medicaid drug prices",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
+      "published_at": "Tue, 30 Sep 2025 16:34:34 GMT",
+      "bullets": [
+        "• President Donald Trump announced an agreement with Pfizer to voluntarily sell its medications for less",
+        "• Pfizer has agreed to take measures to reduce U.S",
+        "• drug prices, including selling its existing drugs to Medicaid patients at the lowest price offered in other developed nations",
+        "• The company plans to invest $70 billion to reshore domestic drug manufacturing "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      }
+    },
+    {
+      "id": "af53f51513df",
+      "title": "US cities should be military training grounds, Trump says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 16:31:13 GMT",
+      "bullets": [
+        "• US cities should be military training grounds, US President Donald Trump says",
+        "• Defence Secretary Pete Hegseth declares an end to \"woke\" culture at the Pentagon",
+        "• Trump says he will continue his policy of using military for law enforcement "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      }
+    },
+    {
+      "id": "754ce621a52c",
+      "title": "Nvidia's market cap tops $4.5 trillion after string of AI infrastructure deals",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/nvidias-market-cap-tops-4point5-trillion-on-ai-infrastructure-deals.html",
+      "published_at": "Tue, 30 Sep 2025 16:29:48 GMT",
+      "bullets": [
+        "• Nvidia shares reached a new record on Tuesday, climbing almost 3% and lifting the chipmaker's market cap past $4.5 trillion",
+        "• The stock is now up about 39% for the year, and continues to attract investors",
+        "• OpenAI said last week that Nvidia would take an equity stake worth up to $100 billion in the AI startup "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "Trump suggests ‘dangerous’ US cities should be used as ‘training grounds’ in speech to military leaders – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Tue, 30 Sep 2025 16:18:01 GMT",
+      "bullets": [
+        "• Donald Trump and Pete Hegseth deliver astonishing speeches to US military brass",
+        "• They attacked the ‘tiring’ sight of ‘fat troops’ and “fat generals and admirals’",
+        "• He said the military will require combatants to meet the “highest male standard” in physical fitness tests",
+        "• “Standards must be uniform, gender neutral, and high,” he said "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.869
+      }
+    },
+    {
+      "id": "5abcda038ce6",
+      "title": "US federal agency site blames looming government shutdown on ‘radical left’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/hud-website-government-shutdown-banner",
+      "published_at": "Tue, 30 Sep 2025 16:10:58 GMT",
+      "bullets": [
+        "• US Department of Housing and Urban Development website blames the 'radical left' for government shutdown",
+        "• Republican and Democratic leaders did not reach an agreement on government spending legislation on Tuesday night",
+        "• The message is reminiscent of the language the White House has increasingly used on social media "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
     {
       "id": "0fe2ae94edc8",
       "title": "Amazon's new Echo devices designed for Alexa+ start at $99",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/amazon-alexa-echo-price.html",
-      "published_at": "Tue, 30 Sep 2025 15:50:08 GMT",
+      "published_at": "Tue, 30 Sep 2025 16:08:24 GMT",
       "bullets": [
         "• Amazon unveils four new smart speakers and voice-activated displays",
-        "• The devices were launched at Amazon's fall hardware bonanza in New York",
-        "• They're the first batch of revamped products under the leadership of Panos Panay, a former Microsoft hardware leader that joined Amazon in 2023 "
+        "• The Echo Dot Max and Echo Show 8 are the latest devices to be revamped with Alexa+",
+        "• The devices are available for pre-order on Tuesday, and users will get Alexa+ \"out of the box\""
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.967
+        "score": 0.927
       }
     },
     {
@@ -23,7 +110,7 @@
       "title": "Ford CEO expects EV sales to be cut in half after end of tax credits",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/ford-ceo-jim-farley-ev-incentives.html",
-      "published_at": "Tue, 30 Sep 2025 15:47:04 GMT",
+      "published_at": "Tue, 30 Sep 2025 16:04:39 GMT",
       "bullets": [
         "• Ford Motor CEO Jim Farley says he expects demand for all-electric vehicles to be slashed in half next month",
         "• Farley said he \"wouldn't be surprised\" if sales of EVs fell from 10% to 12% this month to 5% after incentive program ends",
@@ -33,6 +120,40 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
+      }
+    },
+    {
+      "id": "55a24d198f8c",
+      "title": "iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/09/ios-26-0-1-macos-26-0-1-updates-fix-install-bugs-new-phone-problems-and-more/",
+      "published_at": "Tue, 30 Sep 2025 16:01:53 +0000",
+      "bullets": [
+        "• Apple releases iOS 26.0.1, iPadOS 26.1 and MacOS Tahoe",
+        "• The latest software update fixes bugs for iPhone 17, iPhone 17 Pro, iPhone Air, and iPhone Air",
+        "• The software update also fixes a bug that could cause app icons to appear blank "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "ecbf0cd0bd67",
+      "title": "Trump says US cities should be ‘training grounds for our military’ in incendiary speech",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/pete-hegseth-war-diversity-efforts-military",
+      "published_at": "Tue, 30 Sep 2025 15:54:00 GMT",
+      "bullets": [
+        "• US defense secretary Pete Hegseth outlined changes to military policy and philosophy in a set of 10 directives meant to change organizational culture around fitness, race and gender",
+        "• Donald Trump suggested targeting US cities and civilian populations as a training exercise",
+        "• Trump also defended the navy's sinking of Venezuelan boats, rather than attempting to interdict suspected drug runners "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
       }
     },
     {
@@ -53,24 +174,6 @@
       }
     },
     {
-      "id": "07c97d9f2ccc",
-      "title": "Watch: Trump, Pfizer announce agreement to lower Medicaid drug prices",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/trump-pfizer-drug-price-agreement.html",
-      "published_at": "Tue, 30 Sep 2025 15:35:11 GMT",
-      "bullets": [
-        "• President Donald Trump will announce a drug pricing deal with Pfizer at 11 a.m",
-        "• ET",
-        "• The deal involves a three-year reprieve on planned pharmaceutical tariffs as long as Pfizer builds manufacturing plants in the U.S., a source says",
-        "• Pfizer confirmed it had reached an agreement with Trump on Tuesday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.854
-      }
-    },
-    {
       "id": "6d7dc6ff3394",
       "title": "Second victim dies following shooting at Texas immigration facility",
       "outlet": "US news | The Guardian",
@@ -87,38 +190,20 @@
       }
     },
     {
-      "id": "74be3ce48bb5",
-      "title": "Trump suggests ‘dangerous’ US cities should be used as ‘training grounds’ in extraordinary speech to military leaders – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 15:13:21 GMT",
+      "id": "f928c3fb5813",
+      "title": "California’s newly signed AI law just gave Big Tech exactly what it wanted",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2025/09/californias-newly-signed-ai-law-just-gave-big-tech-exactly-what-it-wanted/",
+      "published_at": "Tue, 30 Sep 2025 15:12:10 +0000",
       "bullets": [
-        "• Trump says 'dangerous cities' should be used 'as training grounds' for the military and national security",
-        "• ‘They all want your job",
-        "• They want to be with you",
-        "• They’ll even take your job,” he says "
+        "• The new law requires companies with annual revenue of at least $500 million to report safety practices",
+        "• It does not require mandatory testing of AI systems",
+        "• The law replaces a previous version of the law that would have required testing and \"kill switches\" The law was passed last year "
       ],
-      "category": "US",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.981
-      }
-    },
-    {
-      "id": "444707b12d57",
-      "title": "Amazon Prime Video teams up with FanDuel for real-time betting updates during NBA games",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/amazon-prime-fanduel-real-time-nba-betting-updates.html",
-      "published_at": "Tue, 30 Sep 2025 15:02:10 GMT",
-      "bullets": [
-        "• Amazon is partnering with FanDuel, the exclusive odds provider of the NBA and WNBA on Prime",
-        "• OddsView will update odds, lines, probabilities, moneylines, spreads and game props in real time",
-        "• It'll be available for all NBA games on Amazon Prime Video this season "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.701
+        "score": 0.881
       }
     },
     {
@@ -152,58 +237,6 @@
       "sentiment": {
         "label": "positive",
         "score": 1.0
-      }
-    },
-    {
-      "id": "96366a1d8a2a",
-      "title": "California woman knocked unconscious during arrest reaches $17m settlement with county",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/nakia-porter-police-settlement-solano-county-california",
-      "published_at": "Tue, 30 Sep 2025 14:52:20 GMT",
-      "bullets": [
-        "• Nakia Porter had filed a federal lawsuit accusing the Solano county sheriff’s office deputies of violating state and federal civil rights statutes",
-        "• The lawsuit also accused the deputies of lying on their arrest repororations",
-        "• Body cameras worn by the deputies recorded them pulling guns on Porter before slamming her to the pavement while handcuffing her "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "75a1a435b0d1",
-      "title": "Louisiana governor asks for national guard deployment to New Orleans",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/jeff-landry-national-guard-new-orleans-louisiana",
-      "published_at": "Tue, 30 Sep 2025 14:50:49 GMT",
-      "bullets": [
-        "• Republican governor Jeff Landry has asked for up to 1,000 troops to be deployed to New Orleans and other cities",
-        "• It comes weeks after Trump suggested New Orleans could be one of his next targets for deploying the national guard to fight crime",
-        "• Washington and Memphis similarly had reported steep crime reductions when Trump nonetheless sent troops into those cities "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      }
-    },
-    {
-      "id": "af53f51513df",
-      "title": "Hegseth and Trump reiterate 'warrior' ethos in remarks to top US generals",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 14:44:13 GMT",
-      "bullets": [
-        "• US President Donald Trump and top brass speak at US military summit in Washington DC",
-        "• Announcement comes amid fears of 'toxic' culture in the military",
-        "• US military will require men to meet 'highest male standard' in physical fitness tests",
-        "• The move may exclude some women from serving "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
       }
     },
     {
@@ -292,38 +325,39 @@
       }
     },
     {
-      "id": "0f7e455c345d",
-      "title": "The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged.",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/09/the-most-efficient-crosstrek-ever-subarus-hybrid-gets-a-bit-rugged/",
-      "published_at": "Tue, 30 Sep 2025 13:00:44 +0000",
+      "id": "ddfede113708",
+      "title": "With 'drug boat' strikes, Trump leans into war on terror tactic against cartels",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91091/trump-bombing-drug-boats-terror",
+      "published_at": "Tue, 30 Sep 2025 12:06:57 -0400",
       "bullets": [
-        "• The Subaru Crosstrek now shares a hybrid powertrain with the Forester SUV",
-        "• The hybrid system significantly works over the flat-four versus even current internal-combustion siblings",
-        "• Subaru builds the hybrids in Japan for all international markets, only Americans prefer going overboard on tacky plastic trim pieces "
+        "• U.S",
+        "• should go after cartels like it did al-Qaida in the wake of the 9/11 attacks, says Sen",
+        "• Patel",
+        "• The White House has launched a series of strikes against drug cartels in the Caribbean",
+        "• The attacks have killed 11 people and injured more than 100 since 2001 "
       ],
-      "category": "Technology",
+      "category": "General",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.544
+        "label": "positive",
+        "score": 0.925
       }
     },
     {
-      "id": "2ba51c286447",
-      "title": "The SUV that saved Porsche goes electric, and the tech is interesting",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/features/2025/09/heres-what-we-know-about-porsches-electric-cayenne-suv/",
-      "published_at": "Tue, 30 Sep 2025 12:00:11 +0000",
+      "id": "0f11e6cc0ad4",
+      "title": "Poll: Republicans get more of the blame than Democrats for a potential shutdown",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5557396/poll-shutdown-congress-trump-approval-rating",
+      "published_at": "Tue, 30 Sep 2025 12:00:00 -0400",
       "bullets": [
-        "• Porsche has sold more than a million 911s since the model's introduction in 1963",
-        "• The Cayenne Electric is based on Volkswagen Group's Premium Platform Electric",
-        "• There's an all-new battery pack design, more efficient and powerful electric motors",
-        "• Inside, the cockpit is also new, with OLED screens for the main instrument panel and curved infotainment display "
+        "• Poll: Republicans get more of the blame than Democrats for a potential shutdown",
+        "• NPR/PBS News/Marist poll: By a 38-27% margin, respondents said they would blame Republicans for a shutdown",
+        "• The finding adds a wrinkle to the pending shutdown deadline of midnight Tuesday "
       ],
-      "category": "Technology",
+      "category": "General",
       "sentiment": {
-        "label": "positive",
-        "score": 0.996
+        "label": "negative",
+        "score": 0.991
       }
     },
     {
@@ -380,23 +414,6 @@
       }
     },
     {
-      "id": "3400c5b0a514",
-      "title": "Energy Dept. tells employees not to use words including 'climate change' and 'green'",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557324/trump-doe-ban-words-climate-change-science",
-      "published_at": "Tue, 30 Sep 2025 10:24:49 -0400",
-      "bullets": [
-        "• The Department of Energy has told employees to avoid using certain words including \"climate change,\" \"green,\" and \"sustainable\" The email was sent to employees of the Office of Energy Efficiency and Renewable Energy",
-        "• The office is the largest federal funder of clean energy technology",
-        "• The department denies that its employees were told to avoid specific terms "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      }
-    },
-    {
       "id": "1ca8ed54786e",
       "title": "Entire Ukrainian family killed in Russian drone strike, officials say",
       "outlet": "BBC News",
@@ -428,24 +445,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.674
-      }
-    },
-    {
-      "id": "95cef9caf9e2",
-      "title": "The U.N. mission appeals to the Taliban to restore internet access in Afghanistan",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91258/the-un-mission-appeals-to-the-taliban-to-restore-internet-access-in-afghanistan",
-      "published_at": "Tue, 30 Sep 2025 08:51:25 -0400",
-      "bullets": [
-        "• The U.N",
-        "• mission appeals to the Taliban to restore internet access in Afghanistan",
-        "• The outage was the first nationwide shutdown since the Taliban returned to power in August 2021",
-        "• Earlier this month, several provinces lost their fiber-optic connections after Taliban leader issued a decree banning the service to prevent immorality "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -762,6 +761,74 @@
       }
     },
     {
+      "id": "4b9b9d11dfc3",
+      "title": "The best Fitbits for your fitness and health",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
+      "published_at": "2025-09-30T12:30:00-04:00",
+      "bullets": [
+        "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity",
+        "• Amazon’s fall Prime Day event kicks off on October 7th; however, if you want to shop ahead of the two-day sale, we’ve rounded up the best early Prime Day deals "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "1d90a354310c",
+      "title": "The Trump phone is late",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788673/the-trump-phone-is-late",
+      "published_at": "2025-09-30T12:28:05-04:00",
+      "bullets": [
+        "• The Trump Mobile T1 was announced in June, along with the launch of its $47.45 monthly service plan",
+        "• It was initially meant to launch in September, but with only a few hours of the month left, that’s looking increasingly unlikely",
+        "• The T1 is now supposed to have a 6.25-inch screen rather than 6.78-inch "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "c932e4b3fba4",
+      "title": "Lego’s Nintendo Game Boy is a brick masterpiece just shy of perfection",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/787849/lego-nintendo-game-boy-review",
+      "published_at": "2025-09-30T12:24:40-04:00",
+      "bullets": [
+        "• Lego’s Nintendo Game Boy is a brick masterpiece just shy of perfection",
+        "• It's better than the fan-made Lego Game Boy that I asked Nintendo to make",
+        "• This isn't just a statue that looks like my original 1989 Game Boy; it's a joy to build and feels fantastic in the hands "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.857
+      }
+    },
+    {
+      "id": "455d744c21bb",
+      "title": "Alien: Earth’s showrunner wanted it to be a dark reflection of our world",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale",
+      "published_at": "2025-09-30T11:46:46-04:00",
+      "bullets": [
+        "• In Alien: Earth, a techbro wunderkind controls 20 percent of the world’s continental land mass",
+        "• He likes to play God in a secret lab located on a remote island",
+        "• But the island is also a kind of prison that the young trillionaire's employees cannot easily escape",
+        "• While most of the lab's previous test subjects have been human, the latest batch is a collection of dangerous, intelligent creatures "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.678
+      }
+    },
+    {
       "id": "d51cfdaa4053",
       "title": "Alexa Plus is available out of the box on new Echo devices",
       "outlet": "The Verge",
@@ -777,77 +844,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.747
-      }
-    },
-    {
-      "id": "4ecb8c3dc056",
-      "title": "Amazon&#8217;s 2025 hardware event: the 8 biggest announcements",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788297/amazon-fall-2025-hardware-announcements-echo-alexa-kindle-ring",
-      "published_at": "2025-09-30T11:36:24-04:00",
-      "bullets": [
-        "• Amazon announced a slew of updates to its hardware lineup at its fall event",
-        "• The company also unveiled its latest Echo Show smart displays and upgraded Kindle Scribes",
-        "• Amazon also announced a new Echo Dot Max and Fire TV upgrades",
-        "• The new device is more expensive than the $49.99 Echo Dot, with three times the bass "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "98ecad450917",
-      "title": "Alexa Plus on the TV is made to save you from your phone",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788594/amazon-alexa-plus-fire-tv-select-4k",
-      "published_at": "2025-09-30T11:21:10-04:00",
-      "bullets": [
-        "• Alexa Plus is coming to a bunch of Amazon’s new and current Fire TV hardware",
-        "• The improved voice assistant can search for specific scenes, help you find out game scores, and more",
-        "• It can also help you jump into live sporting events on Prime Video, Sling TV, DirecTV, and Fubo "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.511
-      }
-    },
-    {
-      "id": "011008f547ab",
-      "title": "Hands-on with Amazon’s new Kindle Scribes, including one with a color screen",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/787984/kindle-scribe-colorsoft-hands-on-amazon",
-      "published_at": "2025-09-30T11:12:33-04:00",
-      "bullets": [
-        "• Amazon announced three new Kindle Scribes this morning with a much nicer design",
-        "• There’s even one with a color screen",
-        "• At 5.4mm, they’re thinner than the iPhone Air and come with AI features that will help users quickly summarize notes",
-        "• The Kindle Scribe Colorsoft starts at $629.99 and is set to launch later this year "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.907
-      }
-    },
-    {
-      "id": "7b937360a201",
-      "title": "Amazon finally did the damn hardware right",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/788051/hands-on-amazon-alexa-echo-show-11-echo-dot-max-echo-studio",
-      "published_at": "2025-09-30T11:12:02-04:00",
-      "bullets": [
-        "• Amazon's newest Echo speakers look gorgeous",
-        "• Amazon has finally delivered a polished, powerful lineup",
-        "• The new Echos are more elegant, have more thoughtful designs and an attention to detail",
-        "• While they are more expensive, it feels like a minor price bump for a major hardware upgrade "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
       }
     },
     {
