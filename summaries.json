@@ -1,37 +1,140 @@
 {
-  "generated_at": "2025-09-30T13:41:11Z",
+  "generated_at": "2025-09-30T14:31:30Z",
   "items": [
     {
-      "id": "e9f225aa01ca",
-      "title": "CoreWeave stock climbs 10% after company lands $14 billion deal with Meta",
+      "id": "c76e66c2e49d",
+      "title": "Consumer confidence is lower than expected as Wall Street braces for shutdown data blackout",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/coreweave-meta-deal-ai.html",
-      "published_at": "Tue, 30 Sep 2025 13:36:31 GMT",
+      "url": "https://www.cnbc.com/2025/09/30/consumer-confidence-is-lower-than-expected-as-wall-street-braces-for-shutdown-data-blackout.html",
+      "published_at": "Tue, 30 Sep 2025 14:23:12 GMT",
       "bullets": [
-        "• CoreWeave has agreed to provide Meta with $14.2 billion of artificial intelligence cloud infrastructure",
-        "• Meta has the option to \"materially expand its commitment\" for additional computing capacity through 2032",
-        "• The social media company has been pouring billions of dollars into AI in recent months "
+        "• The Conference Board's headline confidence index registered a 94.2 reading, off 3.6 points from the August reading",
+        "• The reading was the lowest since April and comes with nonessential government operations slated to close at midnight",
+        "• The bureau's Job Openings and Labor Turnover report showed a slower pace in both hiring and total separations "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.985
+        "score": 1.0
+      }
+    },
+    {
+      "id": "e9f225aa01ca",
+      "title": "CoreWeave stock climbs 13% after company lands $14 billion deal with Meta",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/coreweave-meta-deal-ai.html",
+      "published_at": "Tue, 30 Sep 2025 14:17:56 GMT",
+      "bullets": [
+        "• CoreWeave has agreed to provide Meta with $14.2 billion of artificial intelligence cloud infrastructure",
+        "• Meta has the option to \"materially expand its commitment\" for additional computing capacity through 2032",
+        "• The social media company has been pouring tens of billions of dollars into AI in recent months "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
       }
     },
     {
       "id": "74be3ce48bb5",
-      "title": "Pete Hegseth declares war on diversity efforts in military and mandates ‘male-standard’ fitness test to combat ‘fat troops’ – US politics live",
+      "title": "Donald Trump addresses military leaders as Pete Hegseth declares war on diversity efforts – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 13:32:51 GMT",
+      "published_at": "Tue, 30 Sep 2025 14:13:56 GMT",
       "bullets": [
-        "• Hegseth says he's overhauling the Pentagon’s Equal Opportunity program and Inspector General office",
-        "• He says the department will do the same with equal opportunity, a program which largely is responsible for complaints of things like sexual harassment and discrimination based on race, religion, and gender "
+        "• He claims Canada called him a couple of weeks ago to express interest in being part of his Golden Dome missile defense system",
+        "• Trump praises “beautiful paper” and how much he loves his own signature, so much so he refers to Joe Biden’s previous use of an autopen as “the autopen”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.973
+      }
+    },
+    {
+      "id": "60b1a3e0d592",
+      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
+      "published_at": "Tue, 30 Sep 2025 14:00:22 GMT",
+      "bullets": [
+        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming artificial intelligence era",
+        "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
+        "• The project could have profound implications for the bank's employees, customers and shareholders "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "471473100e7c",
+      "title": "Flights in Afghanistan grounded after internet shutdown",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 13:45:15 GMT",
+      "bullets": [
+        "• The Taliban has not given an official reason for the shutdown, but said it would last until further notice",
+        "• The internet has been severely affected by the government's decision to cut access to the internet",
+        "• The UN has called on the Taliban to fully restore the internet to Afghanistan "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "5f3484b3abd1",
+      "title": "Michigan church shooting suspect bore a hatred of Mormon religion, locals say",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/mormon-church-shooting-hate-religion",
+      "published_at": "Tue, 30 Sep 2025 13:43:17 GMT",
+      "bullets": [
+        "• Four people have been killed in a car crash in Michigan",
+        "• The victims are believed to be the victims of the car crash",
+        "• Police say the victims were victims of a car bomb attack on the city",
+        "• The incident happened at the end of the day on Sunday "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.954
+        "score": 0.993
+      }
+    },
+    {
+      "id": "1511959552f2",
+      "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 13:40:59 GMT",
+      "bullets": [
+        "• Chinese woman convicted after 'world's biggest' bitcoin seizure in the world",
+        "• She pleaded guilty at Southwark Crown Court of illegally acquiring and possessing the cryptocurrency",
+        "• The 47-year-old's guilty plea followed a seven-year probe into a global money laundering web "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "2f8fc84cce06",
+      "title": "For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jq63edv21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 13:36:59 GMT",
+      "bullets": [
+        "• For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
+        "• Netanyahu's far-right allies have threatened to leave – and possibly collapse – his government if he makes too many concessions in ending the war",
+        "• In return, he is dangling the prospect of a new, more peaceful future for the region "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
       }
     },
     {
@@ -41,13 +144,15 @@
       "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
       "published_at": "Tue, 30 Sep 2025 13:32:34 GMT",
       "bullets": [
-        "• The federal government is once again on the brink of a shutdown, unless Congress can reach a funding agreement before the start of the new fiscal year, on 1 October",
-        "• The White House has threatened permanent mass layoffs of government workers in the event of a government shutdown, adding to the roughly 300,000 it forced out earlier this year "
+        "• The federal government is on the brink of a government shutdown",
+        "• Congress has yet to reach an agreement on a short-term funding deal",
+        "• A 34-day shutdown in 2018 resulted in the longest in the modern era",
+        "• The White House has instructed agencies to prepare for a shutdown "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.997
       }
     },
     {
@@ -83,39 +188,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.96
-      }
-    },
-    {
-      "id": "efab5a422e00",
-      "title": "US deporting 120 Iranians after deal struck with Tehran, Iran says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgrql7gd10do?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 13:21:54 GMT",
-      "bullets": [
-        "• US deporting 120 Iranians after deal struck with Tehran, Iran says",
-        "• Most of those being deported had entered the US illegally - mainly through Mexico",
-        "• Iran has been working with the US on a deal to remove the Iranian nationals through its US Interests Section in Tehran "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      }
-    },
-    {
-      "id": "d57234883fed",
-      "title": "Boston Fed President Collins sees caution on future interest rate cuts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/boston-fed-president-collins-sees-caution-on-future-interest-rate-cuts.html",
-      "published_at": "Tue, 30 Sep 2025 13:18:01 GMT",
-      "bullets": [
-        "• Susan Collins: \"A bit of easing was appropriate to address the recent shift in the balance of risks to our inflation and employment mandate\" The Boston Federal Reserve President noted risks to both higher inflation and a softening labor market that are keeping officials on their toes",
-        "• Collins said it may be appropriate to ease the policy rate a bit further this year – but the data will have to show that "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
       }
     },
     {
@@ -171,23 +243,6 @@
       }
     },
     {
-      "id": "918423fc2125",
-      "title": "Palestinian American denied slot at DNC competing for Georgia governor: ‘We’re trying to rebuild the coalition’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/ruwa-romman-palestinian-american-georgia-governor",
-      "published_at": "Tue, 30 Sep 2025 13:00:41 GMT",
-      "bullets": [
-        "• Ruwa Romman is the first Palestinian-American elected to state-level office in Georgia",
-        "• She was fighting for a speaking slot a year ago at the Democratic national convention, hoping to draw attention to concerns among progressive voters",
-        "• On Monday, she announced her candidacy for governor in Georgia – looking for a different kind of attention "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.926
-      }
-    },
-    {
       "id": "2ba51c286447",
       "title": "The SUV that saved Porsche goes electric, and the tech is interesting",
       "outlet": "Ars Technica - All content",
@@ -221,57 +276,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.862
-      }
-    },
-    {
-      "id": "60b1a3e0d592",
-      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
-      "published_at": "Tue, 30 Sep 2025 11:40:10 GMT",
-      "bullets": [
-        "• JPMorgan Chase is being \"fundamentally rewired\" for the coming AI era, chief analytics officer Derek Waldron says",
-        "• The bank wants to provide every employee with AI agents, automate every behind-the-scenes process and have every client experience curated with AI concierges",
-        "• LLM Suite is a portal created by the bank to harness large language models from the world's leading AI startups "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      }
-    },
-    {
-      "id": "471473100e7c",
-      "title": "Flights in Afghanistan grounded after internet shutdown",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 10:38:23 GMT",
-      "bullets": [
-        "• Afghanistan's main airport is at a standstill as the Taliban government impose a nationwide internet shutdown",
-        "• The Taliban government have for weeks been severing fibre-optic internet connections across several provinces",
-        "• It began in a handful of provinces, but did not impact the capital Kabul until Monday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
-      "id": "1511959552f2",
-      "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 09:24:33 GMT",
-      "bullets": [
-        "• Chinese woman convicted after 'world's biggest' bitcoin seizure in the world",
-        "• She pleaded guilty at Southwark Crown Court of illegally acquiring and possessing the cryptocurrency",
-        "• The 47-year-old's guilty plea followed a seven-year probe into a global money laundering web "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
       }
     },
     {
@@ -726,37 +730,71 @@
       }
     },
     {
+      "id": "ed72365a3cbe",
+      "title": "Ring launches upgraded cameras with ‘Retinal Vision’ 4K recording",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs",
+      "published_at": "2025-09-30T10:17:17-04:00",
+      "bullets": [
+        "• Amazon announced a slew of 2K and 4K doorbells and cameras during its fall hardware event",
+        "• The new $179.99 Ring Wired Doorbell and $59.99 Indoor Cam Plus both offer 2K resolution",
+        "• There’s also a ton of 4K Ring cameras with up to 10 times zoom "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      }
+    },
+    {
+      "id": "8b3b8db9e38d",
+      "title": "SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review",
+      "published_at": "2025-09-30T10:00:00-04:00",
+      "bullets": [
+        "• SteelSeries has created a category of luxury gaming headsets that doesn't really exist right now",
+        "• The Nova Elite has hi-res wireless audio, carbon fiber speaker drivers, a metal frame, and the ability to simultaneously stream audio from a PC, Xbox, and PlayStation",
+        "• But is $599.99 too much, even for the best gaming headset?"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "5ba19d300b91",
       "title": "Amazon’s September 2025 hardware event: all the news and announcements",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements",
       "published_at": "2025-09-30T09:30:00-04:00",
       "bullets": [
-        "• Amazon will launch a fall event in New York City on September 30, 2015",
-        "• The company is expected to announce at least two new Echos, a new color Kindle and a new TV",
-        "• The event will be the third major event for CEO Panos Panay, who joined Amazon from Microsoft in 2023 "
+        "• Amazon will kick off its 2025 fall hardware event at 10AM ET / 7AM PT on September 30th",
+        "• There will be at least two new Echos, a new color Kindle, and some kind of TV hardware",
+        "• Amazon might also share new information about Alexa Plus, its AI-powered revamp of Alexa that launched earlier this year "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.948
+        "label": "negative",
+        "score": 0.993
       }
     },
     {
       "id": "42104ac42cc3",
-      "title": "Amazon event live blog: we’re here for new Echos, Kindles and more",
+      "title": "Amazon event live blog: we’re here for new Echos, Kindles, and more",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more",
       "published_at": "2025-09-30T09:30:00-04:00",
       "bullets": [
-        "• We're at Amazon’s fall 2025 hardware event in New York City, where the company is set to announce a bunch of new gadgets",
-        "• Amazon CEO Andy Jassy promised “beautiful” new hardware back in February",
-        "• The teaser image for today suggested new Kindles, Echos, and maybe a TV "
+        "• We're at Amazon’s fall 2025 hardware event in New York City",
+        "• The company is set to announce a bunch of new gadgets ahead of the holidays",
+        "• Amazon CEO Andy Jassy promised “beautiful” new hardware back in February "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.981
+        "score": 0.996
       }
     },
     {
@@ -773,40 +811,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "396f68681460",
-      "title": "Google&#8217;s AI Mode image search is getting more conversational",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update",
-      "published_at": "2025-09-30T09:00:00-04:00",
-      "bullets": [
-        "• Google’s latest AI Mode update makes it easier for users to search through images using vague descriptions and references",
-        "• Users in the US can now shop for products using natural language descriptions and reference images",
-        "• For example, users can look for “barrel jeans that aren’t too baggy” and then refine the results with additional requests "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
-      "id": "7311cf502918",
-      "title": "Microsoft’s new Security Store is like an app store for cybersecurity",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
-      "published_at": "2025-09-30T09:00:00-04:00",
-      "bullets": [
-        "• Microsoft is launching a Security Store that will be full of security software-as-a-service solutions and AI agents",
-        "• It's part of a broader effort to sell Microsoft’s Sentinel security platform to businesses",
-        "• Security Copilot AI agents can be built by security teams to help tackle the latest threats "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.848
       }
     },
     {
