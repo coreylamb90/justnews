@@ -1,21 +1,40 @@
 {
-  "generated_at": "2025-09-30T04:36:38Z",
+  "generated_at": "2025-09-30T04:53:33Z",
   "items": [
     {
-      "id": "54ecb7f44514",
-      "title": "Australia keeps policy rate steady at 3.6% as inflation creeps up",
+      "id": "d1a0673eb48a",
+      "title": "Taiwan should only produce half of America’s chips, says U.S. Commerce Secretary Howard Lutnick",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/australia-policy-cash-rate-september-decision.html",
-      "published_at": "Tue, 30 Sep 2025 04:32:07 GMT",
+      "url": "https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html",
+      "published_at": "Tue, 30 Sep 2025 04:42:29 GMT",
       "bullets": [
-        "• Australia's central bank expectedly held benchmark policy rates at 3.6% on Tuesday",
-        "• The move was in line with expectations from economists polled by Reuters",
-        "• The central bank has cut rates by 75 basis points this year, after holding them steady at 4.35% since November 2023 "
+        "• U.S",
+        "• Secretary of Commerce Howard Lutnick wants to shift investment and chip production to the United States",
+        "• Taiwan is said to produce over 90% of the world's advanced semiconductors",
+        "• The move could have implications for Taiwan's national defense "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.829
+        "score": 0.997
+      }
+    },
+    {
+      "id": "7385478e8e02",
+      "title": "Madagascar president dissolves government after 'Gen Z' protests",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y5j98p4pjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 30 Sep 2025 04:33:54 GMT",
+      "bullets": [
+        "• Madagascar president dissolves government after 'Gen-Z' protests",
+        "• Thousands of predominantly young demonstrators take to the streets in cities across the country",
+        "• UN's human rights chief condemns \"unnecessary force\" used by security forces to quell unrest",
+        "• At least 22 people have been killed and 100 others injured, UN says "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -409,24 +428,6 @@
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "7385478e8e02",
-      "title": "Madagascar president dissolves government after 'Gen Z' protests",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y5j98p4pjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Sep 2025 20:10:41 GMT",
-      "bullets": [
-        "• Madagascar president dissolves government after 'Gen-Z' protests",
-        "• Thousands of predominantly young demonstrators take to the streets in cities across the country",
-        "• UN's human rights chief condemns \"unnecessary force\" used by security forces to quell unrest",
-        "• At least 22 people have been killed and 100 others injured, UN says "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
         "score": 0.997
       }
     },
