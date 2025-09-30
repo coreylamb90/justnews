@@ -1,21 +1,55 @@
 {
-  "generated_at": "2025-09-30T19:26:35Z",
+  "generated_at": "2025-09-30T19:47:07Z",
   "items": [
+    {
+      "id": "a52ce851e57f",
+      "title": "Government on track to shut down after midnight with no funding deal in sight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Tue, 30 Sep 2025 19:36:01 GMT",
+      "bullets": [
+        "• The U.S",
+        "• government was set to shut down after midnight Tuesday",
+        "• House Speaker Mike Johnson said Democrats \"need to come to their senses here, and do the right thing\" Johnson accused Democrats of trying to protect Schumer's \"backside\" by pressing that and other demands "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
     {
       "id": "68792c56e973",
       "title": "Spirit Airlines touts 'massive progress' in bankruptcy",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/09/30/spirit-airlines-bankruptcy.html",
-      "published_at": "Tue, 30 Sep 2025 19:17:24 GMT",
+      "published_at": "Tue, 30 Sep 2025 19:35:06 GMT",
       "bullets": [
-        "• Spirit Airlines is making \"massive progress\" to revitalize the airline, restructuring lawyer says",
-        "• The struggling budget airline has reached an agreement with debtholders for up to $475 million",
-        "• Spirit last month filed for its second Chapter 11 bankruptcy protection in less than a year "
+        "• Spirit Airlines reaches agreement with debtholders for up to $475 million in financing",
+        "• Airline last month filed for its second Chapter 11 bankruptcy in less than a year",
+        "• Budget airline has been racing to cut costs and recently announced plans to cut 40 routes and furlough one-third of its flight attendants "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.885
+        "score": 0.987
+      }
+    },
+    {
+      "id": "5ba44431d594",
+      "title": "FTC sues Zillow and Redfin alleging antitrust violation in online rental listings",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/ftc-sues-zillow-redfin-alleging-antitrust-violation-in-online-rentals.html",
+      "published_at": "Tue, 30 Sep 2025 19:30:32 GMT",
+      "bullets": [
+        "• Zillow paid Redfin $100 million to essentially re-host rental listings on Redfin and its sites",
+        "• The FTC says Redfin agreed to terminate contracts with existing advertising customers and assisted in acquiring that business",
+        "• Redfin also agreed to stay out of the multifamily advertising market for up to nine years and reduce its role to merely syndicating listings "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -23,30 +57,13 @@
       "title": "Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 19:13:36 GMT",
+      "published_at": "Tue, 30 Sep 2025 19:28:15 GMT",
       "bullets": [
         "• Trump says government shutdown likely as House Democrats call out Republicans for delaying votes before funding deadline – live",
-        "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent Democrats from negotiating further",
+        "• Government funding is set to expire at midnight ET; Republican speaker Mike Johnson pushed back House return in order to prevent further negotiations",
         "• Undocumented immigrants are not eligible to enroll in subsidized programs like Medicaid, Medicare or the Affordable Care Act "
       ],
       "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "a52ce851e57f",
-      "title": "Government on track to shut down after midnight with no funding deal in sight",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-      "published_at": "Tue, 30 Sep 2025 18:52:55 GMT",
-      "bullets": [
-        "• The U.S",
-        "• government was set to shut down after midnight Tuesday",
-        "• House Speaker Mike Johnson said Democrats \"need to come to their senses here, and do the right thing\" Johnson accused Democrats of trying to protect Schumer's \"backside\" by pressing that and other demands "
-      ],
-      "category": "Business",
       "sentiment": {
         "label": "negative",
         "score": 0.993
@@ -67,24 +84,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.974
-      }
-    },
-    {
-      "id": "5c370e153ea7",
-      "title": "Oil companies slash jobs by the thousands as prices fall, tariffs rise and industry consolidates",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/oil-gas-layoff-job-cut-opec-trump-wti.html",
-      "published_at": "Tue, 30 Sep 2025 18:36:18 GMT",
-      "bullets": [
-        "• President Trump promised boom times for oil and gas when he took office in January",
-        "• Instead, the industry has shed 4,000 positions through August, according to the most recent data from the Bureau of Labor Statistics",
-        "• The three biggest U.S",
-        "• oil companies Exxon Mobil, Chevron and ConocoPhillips have all announced job cuts in 2025 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
       }
     },
     {
@@ -155,7 +154,7 @@
     },
     {
       "id": "303218b3cfbd",
-      "title": "US government heads toward first shutdown in six years as lawmakers fail to reach agreement",
+      "title": "US heads toward first government shutdown in nearly seven years",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
       "published_at": "Tue, 30 Sep 2025 17:44:31 GMT",
@@ -168,7 +167,7 @@
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.972
       }
     },
     {
