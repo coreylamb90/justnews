@@ -1,22 +1,143 @@
 {
-  "generated_at": "2025-10-01T14:53:59Z",
+  "generated_at": "2025-10-01T15:32:21Z",
   "items": [
     {
-      "id": "2aed3554c845",
-      "title": "Trump administration freezes $18 billion in New York City infrastructure projects, Vought says",
+      "id": "8c9bc22d4dd6",
+      "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/trump-new-york-funding-infrastructure-vought.html",
-      "published_at": "Wed, 01 Oct 2025 14:46:32 GMT",
+      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
+      "published_at": "Wed, 01 Oct 2025 15:27:34 GMT",
       "bullets": [
-        "• The funding is earmarked for the Hudson River Tunnel Project and the Second Avenue Subway project",
-        "• It was not immediately clear what triggered the freeze on that basis",
-        "• The announcement came on the first day of the shutdown of the U.S",
-        "• government "
+        "• Federal Reserve Governor Lisa Cook is allowed to remain in her post pending oral arguments in January",
+        "• Trump has repeatedly asked federal courts to allow him to terminate Cook from the Fed's Board of Governors without delay",
+        "• Cook denies any wrongdoing in connection with statements she made in applying for mortgages on two homes she owns "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.719
+      }
+    },
+    {
+      "id": "88e50b8f57ad",
+      "title": "Microsoft hikes price of top-tier Xbox Game Pass Ultimate by $10",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/microsoft-price-hike-xbox-game-pass-ultimate.html",
+      "published_at": "Wed, 01 Oct 2025 15:20:16 GMT",
+      "bullets": [
+        "• Microsoft is raising the Xbox Game Pass Ultimate subscription price by 50% to $29.99 per month",
+        "• The $10 spike comes with a slew of changes to all its Game Pass plans",
+        "• The Core tier will no longer exist and instead will be rolled into the Essential tier",
+        "• The Essential and Premium plans will remain the same price "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
         "score": 0.998
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: House will return to DC next week, says speaker, as Democrats blame ‘unhinged’ Trump for shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 15:19:32 GMT",
+      "bullets": [
+        "• House will return to D.C",
+        "• next week to put pressure on Democrats",
+        "• House website features a clock counting down how long the government shutdown has been going on",
+        "• White House website claims Democrats have shut down the government",
+        "• House will not return to the Capitol Hill to vote on a compromise "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "3ea4b226c707",
+      "title": "Federal reserve governor will stay in post for now following US supreme court announcement",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
+      "published_at": "Wed, 01 Oct 2025 15:16:51 GMT",
+      "bullets": [
+        "• Lisa Cook, the federal reserve governor, will stay in her post, the US supreme court announced on Wednesday",
+        "• The country’s highest court announced it would hear oral arguments on the case in January",
+        "• It is the first-ever bid by a president to fire a Federal Reserve official, in his unprecedented challenge to bank's independence "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      }
+    },
+    {
+      "id": "bc3dee09c0aa",
+      "title": "States sue Zillow, Redfin for alleged antitrust violation in online rental housing",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/state-ags-sue-zillow-redfin-for-alleged-antitrust-violation.html",
+      "published_at": "Wed, 01 Oct 2025 15:16:49 GMT",
+      "bullets": [
+        "• Attorneys general from five states sue Zillow and Redfin over a February deal",
+        "• New York Attorney General Letitia James: \"Zillow's attempt to shut down its competition could drive up costs for advertisers and leave renters with fewer options\" The lawsuit follows a similar one filed by the Federal Trade Commission "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "2aed3554c845",
+      "title": "Trump administration freezes $18 billion in New York City infrastructure projects, Vought says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/trump-new-york-funding-infrastructure-vought.html",
+      "published_at": "Wed, 01 Oct 2025 15:13:34 GMT",
+      "bullets": [
+        "• The funding is earmarked for the Hudson River Tunnel Project and the Second Avenue Subway project",
+        "• It was not immediately clear what triggered the freeze on that basis",
+        "• The Department of Transportation later said it had issued an interim final rule barring race and sex-based contracting requirements from federal grants "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "9363e20d2e6d",
+      "title": "Internet access returns to Afghanistan after Taliban blackout",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 15:11:55 GMT",
+      "bullets": [
+        "• Internet and telecom services are being restored in Afghanistan after a nationwide shutdown by the Taliban government",
+        "• Local reporters said communications were resuming across provinces while internet monitor Netblocks said live network data was showing a \"partial restoration\" of connectivity",
+        "• The Taliban government has not given an official explanation for the 48-hour blackout "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "debe65fa1426",
+      "title": "Israel 'tightens siege' of Gaza City as Hamas reviews Trump peace plan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgnznkjrx6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 15:04:39 GMT",
+      "bullets": [
+        "• Israel 'tightens siege' of Gaza City as Hamas reviews US peace plan",
+        "• Defence minister warns thousands of Palestinians to evacuate southwards",
+        "• 45 people killed by Israeli fire in Gaza City on Wednesday, ICRC says",
+        "• Israel says offensive aims to secure release of 48 hostages still held by Hamas "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
       }
     },
     {
@@ -39,39 +160,6 @@
       }
     },
     {
-      "id": "40f75f4c1555",
-      "title": "Private payrolls declined in September by 32,000 in key ADP report coming amid shutdown data blackout",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html",
-      "published_at": "Wed, 01 Oct 2025 14:36:20 GMT",
-      "bullets": [
-        "• Private payrolls dropped 32,000 jobs in September, the biggest drop since March 2023, ADP reported Wednesday",
-        "• The data comes as the government shutdown continues and the Bureau of Labor Statistics' payrolls report for September will not be released",
-        "• The August payrolls number was revised to a loss of 3,000 from an initially reported increase of 54,000 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 14:34:31 GMT",
-      "bullets": [
-        "• US government shutdown: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
-        "• They say Republicans shut down government ‘because they do not want to protect the American people’ They said their party remained willing to “find a bipartisan path forward to reopen the government”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "5c49189c6c48",
       "title": "Judges to hear Texas redistricting challenge giving Republicans five seats",
       "outlet": "US news | The Guardian",
@@ -89,32 +177,15 @@
       }
     },
     {
-      "id": "514550afa78e",
-      "title": "EVs, big SUVs drive Ford Q3 U.S. sales up 8.2%",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/third-quarter-us-auto-sales.html",
-      "published_at": "Wed, 01 Oct 2025 14:10:13 GMT",
-      "bullets": [
-        "• Sales of all-electric vehicles increased by 30.2% during the period to a new quarterly record of more than 30,600 units",
-        "• Ford's \"electrified\" vehicles, including EVs and hybrids, increased 20% compared with the same period a year earlier",
-        "• Buyers pulled ahead of plans to purchase a zero-emissions vehicle ahead of $7,500 federal incentives ending in September "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.578
-      }
-    },
-    {
       "id": "b3008b632544",
-      "title": "New York City high-rise apartment building partially collapses",
+      "title": "New York City high-rise apartment building partly collapses",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/01/nyc-bronx-apartment-building-collapse",
       "published_at": "Wed, 01 Oct 2025 14:03:29 GMT",
       "bullets": [
-        "• Part of a high-rise apartment building in New York City collapsed Wednesday morning, leaving a corner of the building a pile of rubble",
+        "• Part of a high-rise apartment building in New York City collapsed on Wednesday morning, with a corner reduced to a pile of rubble",
         "• The city’s fire department said it had no immediate reports of injuries",
-        "• It said it was responding to a report of a gas explosion that collapsed an incinerator shaft in the building "
+        "• It said it was responding to a report of a gas explosion that collapsed an incinerator shaft "
       ],
       "category": "US",
       "sentiment": {
@@ -158,23 +229,6 @@
       }
     },
     {
-      "id": "b7c9170b770a",
-      "title": "Border wall slicing through Arizona wildlife corridor begins construction: ‘A show of force for nothing’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/arizona-border-wall-san-rafael-valley",
-      "published_at": "Wed, 01 Oct 2025 14:00:22 GMT",
-      "bullets": [
-        "• The San Rafael Valley, south-east of Tucson, is considered one of the most biodiverse regions in North America",
-        "• But in recent days, a towering black steel wall has begun to rise on the landscape",
-        "• Trump administration is forging ahead with plans to erect a 27-mile section of the border wall here "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      }
-    },
-    {
       "id": "fc5c8e9f22a8",
       "title": "Amazon launches 'price-conscious' grocery brand with most products under $5",
       "outlet": "US Top News and Analysis",
@@ -190,23 +244,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "8abcd96821f3",
-      "title": "Trump's threats against late-night TV could spell more trouble for advertisers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/trump-late-night-tv-threats-trouble-advertisers.html",
-      "published_at": "Wed, 01 Oct 2025 13:15:02 GMT",
-      "bullets": [
-        "• Late-night TV has come under fire in recent months",
-        "• Shows like \"The Late Show with Stephen Colbert\" and \"Jimmy Kimmel Live!\" have been pulled off the air",
-        "• That could leave advertisers and media companies with an even smaller pool of options "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -227,23 +264,6 @@
       }
     },
     {
-      "id": "7ded6b705e7b",
-      "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 12:45:33 GMT",
-      "bullets": [
-        "• Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
-        "• Danish PM Mette Frederiksen: \"From a European perspective there is only one country",
-        "• willing to threaten us and that is Russia\" The incursions have become most acute for countries on the EU's eastern flank "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.916
-      }
-    },
-    {
       "id": "e5f5415d78b4",
       "title": "Jobs, travel, national parks - what impact will US shutdown have?",
       "outlet": "BBC News",
@@ -251,31 +271,13 @@
       "published_at": "Wed, 01 Oct 2025 12:13:57 GMT",
       "bullets": [
         "• Federal workers will not receive any pay cheques while the shutdown continues",
-        "• Air traffic control and law enforcement officers will continue to work through the shutdown",
-        "• Americans planning to travel abroad could also be affected by delays",
-        "• The shutdown is set to continue through October and beyond "
+        "• Air traffic controllers will continue to work, but will not be paid until the end of the year",
+        "• The shutdown could lead to long delays in flights and delays in travel across the country "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "bdb91512c3c6",
-      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 12:00:10 GMT",
-      "bullets": [
-        "• Donald Trump has made himself into a leader to whom it is hard to say no, says Bowen",
-        "• He says Hamas has 'three to four days' to decide whether to say yes or no to end the Gaza war",
-        "• Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
+        "score": 0.999
       }
     },
     {
@@ -293,6 +295,57 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
+      }
+    },
+    {
+      "id": "890e750cab76",
+      "title": "Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5556920/trump-fed-governor-fire-lisa-cook",
+      "published_at": "Wed, 01 Oct 2025 11:14:27 -0400",
+      "bullets": [
+        "• Supreme Court blocks President Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+        "• That means Cook can stay in her job at least until the high court hears arguments in January",
+        "• Critics had warned that allowing Cook to fire would have trampled on decades of research showing central banks function best when they're allowed to operate without political interference "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "c3fbd41e8a95",
+      "title": "Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559223/committee-for-the-first-amendment-jane-fonda-billie-eilish-pedro-pascal-gracie-abrams",
+      "published_at": "Wed, 01 Oct 2025 11:08:58 -0400",
+      "bullets": [
+        "• Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
+        "• The Committee for the First Amendment was founded in the 1940s to oppose the infamous House Un-American Activities Committee",
+        "• The current group is headlined by actor and activist Jane Fonda, whose father was one of the early members "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.925
+      }
+    },
+    {
+      "id": "246944bb0f71",
+      "title": "The billion-year reign of fungi that predated plants and made Earth livable",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251001092208.htm",
+      "published_at": "Wed, 01 Oct 2025 10:53:40 EDT",
+      "bullets": [
+        "• Fungi may have shaped Earth’s landscapes long before plants appeared",
+        "• They may have partnered with algae, recycling nutrients, breaking down rock, and creating primitive ecosystems",
+        "• The discovery could help explain the origin of life in the world's most complex ecosystems "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
       }
     },
     {
@@ -366,7 +419,7 @@
     {
       "id": "2f09d0b29f87",
       "title": "What happens now that the government has shut down. And, a pricing deal with Pfizer",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/g-s1-91399/up-first-newsletter-government-shutdown-pete-hegseth-trump-military-pfizer-pricing-deal",
       "published_at": "Wed, 01 Oct 2025 07:14:41 -0400",
       "bullets": [
@@ -375,24 +428,7 @@
         "• The last government shutdown lasted 35 days and was the longest in U.S",
         "• history "
       ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "9a5c772607e3",
-      "title": "Government shutdown could delay key economic reports at an especially sensitive time",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation",
-      "published_at": "Wed, 01 Oct 2025 07:00:00 -0400",
-      "bullets": [
-        "• Government shutdown could delay key economic reports at an especially sensitive time for the economy",
-        "• A key report on the job market will not be published on Friday, as scheduled, as a result of the government shutdown",
-        "• That means businesses and policymakers will be left guessing about the strength of the labor market at a time when the economy appears to be slowing "
-      ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -436,24 +472,6 @@
       }
     },
     {
-      "id": "49cd9aeac24f",
-      "title": "Poll: Agreement that political violence may be necessary to right the country grows",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Poll: Agreement that political violence may be necessary to right the country grows",
-        "• Three in 10 people now say that Americans may have to resort to violence to get the country back on track",
-        "• That's up 11 points since April 2024",
-        "• The findings come after a string of high-profile political violence, including the assassination of conservative activist Charlie Kirk "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.685
-      }
-    },
-    {
       "id": "ec2c7d31141e",
       "title": "Scientists may be closing in on dark matter’s true identity",
       "outlet": "All Top News -- ScienceDaily",
@@ -468,23 +486,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.969
-      }
-    },
-    {
-      "id": "0d9785bb8de7",
-      "title": "Scientists just found the strongest signs of life on Mars yet",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034204.htm",
-      "published_at": "Wed, 01 Oct 2025 00:54:17 EDT",
-      "bullets": [
-        "• Scientists just found the strongest signs of life on Mars yet",
-        "• The presence of iron-phosphate and iron-sulfide nodules suggests processes resembling microbial activity on Earth",
-        "• Scientists caution that only Earth-based labs can confirm their true origin "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
       }
     },
     {
@@ -777,6 +778,40 @@
       }
     },
     {
+      "id": "d2127e474dd8",
+      "title": "Satya Nadella appoints a new CEO to run Microsoft&#8217;s biggest businesses",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo",
+      "published_at": "2025-10-01T11:06:59-04:00",
+      "bullets": [
+        "• Nadella will take over the role of CEO of Microsoft’s biggest software firm",
+        "• He will be tasked with helping to develop a new AI-powered system",
+        "• The company says it wants to be able to use the technology to develop its own AI-driven system "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.952
+      }
+    },
+    {
+      "id": "4f8f13e38f81",
+      "title": "Everything about buying video games is getting more confusing and expensive",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/789734/game-consoles-too-expensive",
+      "published_at": "2025-10-01T11:00:00-04:00",
+      "bullets": [
+        "• Microsoft announced changes to its Game Pass subscription service, which, yes, also include a price hike",
+        "• Game Pass Ultimate is now $29.99 per month, a hefty $10 jump, and more games and features are being added",
+        "• Trying to figure out what to choose is like living in a Portlandia sketch "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "6fe66bb9111a",
       "title": "Apple&#8217;s next-gen Vision Pro revealed in new regulatory filing",
       "outlet": "The Verge",
@@ -824,40 +859,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "b19b0616cf19",
-      "title": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789461/xbox-cloud-gaming-launch-1440p-resolution-bitrate-changes",
-      "published_at": "2025-10-01T10:00:00-04:00",
-      "bullets": [
-        "• Xbox Cloud Gaming is finally coming out of its preview state, more than five years after the streaming service first launched in 2020",
-        "• Microsoft is also upping the bitrate quality of Xbox Cloud gaming streams for select games",
-        "• It’s the first major visual quality upgrade to the service since it launched in 2010 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.811
-      }
-    },
-    {
-      "id": "255da68fdd9a",
-      "title": "Eight Sleep&#8217;s first water-chilled pillow cover costs a cool $1,049",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789689/eight-sleep-pod-pillow-cover-cooling-system-temperature-regulate",
-      "published_at": "2025-10-01T10:00:00-04:00",
-      "bullets": [
-        "• Eight Sleep’s first water-chilled pillow cover costs a cool $1,049",
-        "• The Pod Pillow Cover circulates temperature-controlled water beneath your head",
-        "• Up to two sleepers can dial in an exact temperature anywhere between 55 and 110 degrees Fahrenheit and the cover will maintain it all night long "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
       }
     }
   ]
