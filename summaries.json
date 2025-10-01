@@ -1,21 +1,88 @@
 {
-  "generated_at": "2025-10-01T19:47:11Z",
+  "generated_at": "2025-10-01T20:36:26Z",
   "items": [
+    {
+      "id": "152b95b17895",
+      "title": "NASA employees on Artemis missions with SpaceX, Blue Origin to work through shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/nasa-employees-on-spacex-artemis-missions-to-work-through-shutdown.html",
+      "published_at": "Wed, 01 Oct 2025 20:05:03 GMT",
+      "bullets": [
+        "• NASA is requiring employees involved in Artemis missions with contractors SpaceX and Blue Origin to stay on the job during the government shutdown",
+        "• NASA employees are expected to receive pay for their work after a reopening",
+        "• NASA will continue to support \"planned operations\" of the International Space Station "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
+    },
+    {
+      "id": "4078741b6c17",
+      "title": "Intel stock pops on news company is in early talks to add AMD as a customer",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html",
+      "published_at": "Wed, 01 Oct 2025 20:03:48 GMT",
+      "bullets": [
+        "• Intel is in talks with AMD to manufacture chips for it in its foundry business, a report from Semafor says",
+        "• AMD currently manufactures its chips with TSMC",
+        "• Intel has added several significant investors in recent weeks, including the U.S",
+        "• government, Nvidia, and Softbank "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.602
+      }
+    },
     {
       "id": "b290c4b0faad",
       "title": "Trump administration suggests ‘imminent’ layoffs as bipartisan group of senators seek way out of government shutdown – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 19:32:28 GMT",
+      "published_at": "Wed, 01 Oct 2025 20:01:07 GMT",
       "bullets": [
-        "• White House warns of ‘imminent’ government layoffs if shutdown drags on",
-        "• White House: “We believe that layoffs are imminent” for government agencies",
-        "• Democrats in Congress have found the ground on which to fight the government shutdown "
+        "• White House preparing for ‘imminent’ government shutdown",
+        "• Democrats in Congress had demanded an extension to expiring health care benefits in order to pass the bill to extend government funding",
+        "• Republicans in Congress refused, but offered a stopgap bill to keep government open for several weeks "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.991
+      }
+    },
+    {
+      "id": "7153564c8df3",
+      "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 19:50:39 GMT",
+      "bullets": [
+        "• Israeli navy tells the Global Sumud Flotilla to change course",
+        "• Israel has not yet confirmed if the flotilla has reached its destination",
+        "• The Israeli Foreign Ministry said it was \"violating a lawful naval blockade\" that covers the area "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "29e1a2049aa4",
+      "title": "Cleveland bakery to represent US in ‘Bread Olympics’ in France",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/cleveland-bakery-bread-olympics-france",
+      "published_at": "Wed, 01 Oct 2025 19:43:12 GMT",
+      "bullets": [
+        "• On the Rise Artisan Breads, based in Ohio, has been selected for Team USA at the 'Bread Olympics' The biennial event, held in France, brings together elite bakers from around the world to compete in traditional breads, viiseries and elaborate creations "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
       }
     },
     {
@@ -33,24 +100,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "4078741b6c17",
-      "title": "Intel stock pops on news company is in early talks to add AMD as a customer",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html",
-      "published_at": "Wed, 01 Oct 2025 18:55:44 GMT",
-      "bullets": [
-        "• Intel is reportedly in talks with AMD to manufacture chips for it in its foundry business",
-        "• Intel shares rose as much as 6% on the news at one point during trading on Wednesday",
-        "• AMD currently manufactures its chips with TSMC",
-        "• It is unclear how much manufacturing AMD would do with Intel "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -86,24 +135,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "0e641b2b992a",
-      "title": "Germany arrests suspected Hamas members over alleged attack plot",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgknpzrkyvno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 18:37:32 GMT",
-      "bullets": [
-        "• Three men arrested in Germany over alleged plot to attack Israeli and Jewish institutions",
-        "• They are believed to be members of the Palestinian armed group Hamas",
-        "• The men, two of whom are German citizens, were arrested in Berlin on Tuesday",
-        "• The group is considered a terrorist organisation by the European Union "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
       }
     },
     {
@@ -164,14 +195,13 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
       "published_at": "Wed, 01 Oct 2025 18:10:54 GMT",
       "bullets": [
-        "• Donald Trump has launched an unprecedented campaign to exert greater control over the Fed",
-        "• The president tried to remove the Fed chief from his post in August, citing unconfirmed allegations of mortgage fraud dating back to before she joined the Fed in 2022",
-        "• The US supreme court deferred action on the request to allow the president to fire Cook, at least until January "
+        "• Lisa Cook, the US Federal Reserve governor, will keep her job for now, despite Donald Trump's bid to remove her from the central bank’s board with immediate effect",
+        "• Trump has launched an unprecedented campaign to exert greater control over the Fed, lambasting the US central bank over its decisions "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.979
+        "label": "positive",
+        "score": 0.756
       }
     },
     {
@@ -189,40 +219,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "fd2d3fb9e5cb",
-      "title": "The government shutdown is likely to cement additional Fed interest rate cuts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/lockdown-fed-interest-rates.html",
-      "published_at": "Wed, 01 Oct 2025 18:07:09 GMT",
-      "bullets": [
-        "• Federal Reserve may be easing its key interest rate later this month, Wall Street experts say",
-        "• The shutdown and data delays in Washington may have cemented the move, analysts say",
-        "• Potential damage from the shutdown combined with ongoing concerns over the labor market will outweigh inflation concerns, they say "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
-      "id": "deb1309aa019",
-      "title": "Los Angeles to pay $20m to family of boy tortured to death by his parents",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/los-angeles-settlement-family-child-tortured",
-      "published_at": "Wed, 01 Oct 2025 18:06:40 GMT",
-      "bullets": [
-        "• Noah Cuatro died in a hospital in 2019, days before his fifth birthday, after being found motionless",
-        "• His parents, Jose Maria Cuatro Jr and Ursula Elaine Juarez, pleaded no contest to murder and torture charges",
-        "• His great-grandmother, Eva Hernandez, sued the county’s department of children and family services in 2020 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -347,43 +343,108 @@
       }
     },
     {
-      "id": "153847fdf4ba",
-      "title": "Students, listen up! NPR's College Podcast Challenge is back for 2025",
+      "id": "c3373967707c",
+      "title": "Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5559784/nprs-college-podcast-challenge-returns-for-2025",
-      "published_at": "Wed, 01 Oct 2025 15:07:53 -0400",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91522/gaza-aid-flotilla-sumud-israel",
+      "published_at": "Wed, 01 Oct 2025 16:12:53 -0400",
       "bullets": [
-        "• NPR's College Podcast Challenge is back for its fifth year, with a $5,000 cash prize",
-        "• If you have a passion project or a story you want to get off your chest, here's your chance to make it happen",
-        "• The winner will be announced on NPR's Morning Edition and All Things Considered "
+        "• Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla",
+        "• The Global Sumud Flotilla consists of nearly 50 boats and 500 activists",
+        "• It has remained undeterred in its mission to break the Israeli blockade of the coastal strip "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.992
+      }
+    },
+    {
+      "id": "9e6875d86772",
+      "title": "A NPR visual series takes a look at the rhythm of cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-89852/npr-series-cumbia-across-latin-america",
+      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• NPR visual series takes a look at the rhythm of cumbia",
+        "• Cumbia's simple, yet contagious, rhythm absorbed local styles, morphed, and reinvented itself",
+        "• It has become one of the most listened-to genres in the Americas "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "48fe4d56edd3",
+      "title": "Colombia: The birthplace of cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/01/nx-s1-5548566/cumbia-in-colombia",
+      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• This is part of a special series, Cumbia Across Latin America, a visual report across six countries covering the people, places and cultures that keep this music genre alive",
+        "• The Caribbean coast of Colombia witnessed the birth of cumbia in the river system of the Mompos Depression, an immense wetland, and in a small mountain range known as Montes de María "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "9f73c07daad8",
+      "title": "Colombia: la cuna de la cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/01/g-s1-91022/colombia-la-cuna-de-la-cumbia",
+      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• La costa caribeña de Colombia vio nacer la cumbia, en el sistema fluvial de la depresión momposina y in los Montes de María",
+        "• La reportaje visual abarca seis países and cubre a personas, lugares y culturas that mantienen vivo this género musical "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.632
+      }
+    },
+    {
+      "id": "34bc997cadeb",
+      "title": "Una serie visual de NPR explora el ritmo de la cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91015/una-serie-visual-de-npr-explora-el-ritmo-de-la-cumbia",
+      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• Una serie visual de NPR explora el ritmo de la cumbia",
+        "• Cumbia Across Latin America recorries via Colombia, México, Ecuador, Perú, Argentina and Estados Unidos",
+        "• La banda sonora comenzó comencias y expandido by viajado de forma subterránea por América Latina "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.885
       }
     },
     {
       "id": "90312a7df2a7",
       "title": "Jane Goodall, legendary primatologist, has died at age 91",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/01/459238450/jane-goodall-primatologist-dead-91",
       "published_at": "Wed, 01 Oct 2025 14:28:16 -0400",
       "bullets": [
         "• Jane Goodall, a scientist whose studies of wild chimpanzees made her a household name, has died at the age of 91",
-        "• Her groundbreaking discoveries showed just how much chimps are like humans",
-        "• \"They kiss, embrace, hold hands, pat one another on the back,\" Goodall said "
+        "• Goodall was fascinated by both her easy familiarity with the creatures as well as her groundbreaking discoveries that showed just how much chimps are like humans "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.936
+        "score": 0.995
       }
     },
     {
       "id": "56c793fbccc2",
       "title": "Trump freezes $18 billion in funding for NYC, home to key Democratic leaders",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5559386/trump-freezes-18-billion-in-funding-for-nyc-home-to-key-democratic-leaders",
       "published_at": "Wed, 01 Oct 2025 13:55:39 -0400",
       "bullets": [
@@ -392,7 +453,7 @@
         "• The project is a key priority for Democrats in the U.S",
         "• Senate and House of Representatives "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.899
@@ -401,7 +462,7 @@
     {
       "id": "ec53cf4e80ec",
       "title": "When will the government reopen? Here's how long past shutdowns lasted",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5559267/government-shutdown-length-history",
       "published_at": "Wed, 01 Oct 2025 13:39:24 -0400",
       "bullets": [
@@ -410,7 +471,7 @@
         "• A new poll shows that more Americans hold Republicans responsible for the shutdown",
         "• It's not clear how long the shutdown could last, but multiweek shutdowns are more common in recent decades "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.998
@@ -419,7 +480,7 @@
     {
       "id": "4e7e0823e31f",
       "title": "What will Congress do after the shutdown? We asked a Republican and a Democrat",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/g-s1-91462/federal-government-shutdown-republicans-democrats-negotiation",
       "published_at": "Wed, 01 Oct 2025 13:02:33 -0400",
       "bullets": [
@@ -427,7 +488,7 @@
         "• Democrats wanted to extend Affordable Care Act subsidies used to make health insurance premiums more affordable",
         "• Republicans said they wanted to discuss extending the credits after reaching an agreement to fund the government "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.995
@@ -448,23 +509,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "c3fbd41e8a95",
-      "title": "Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5559223/committee-for-the-first-amendment-jane-fonda-billie-eilish-pedro-pascal-gracie-abrams",
-      "published_at": "Wed, 01 Oct 2025 11:08:58 -0400",
-      "bullets": [
-        "• Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
-        "• The Committee for the First Amendment was founded in the 1940s to oppose the infamous House Un-American Activities Committee",
-        "• The current group is headlined by Jane Fonda, whose father was one of the early members "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.871
       }
     },
     {
@@ -603,23 +647,6 @@
       }
     },
     {
-      "id": "eb57e9ca09a9",
-      "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
-      "published_at": "Sun, 11 Dec 2022 16:16:48 GMT",
-      "bullets": [
-        "• The White House has a long list of issues facing the nation's first two years of Congress",
-        "• President Barack Obama and his staff are working on a bipartisan agenda",
-        "• They say it's important to keep the public eye on what's happening in the U.S"
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
       "id": "e1fa1804fa80",
       "title": "What to know about the missions just launched in NASA's cosmic carpool",
       "outlet": "NPR Topics: Science",
@@ -740,6 +767,23 @@
       }
     },
     {
+      "id": "2e55df1e1802",
+      "title": "Trump&#8217;s solution for high drug prices is a discount portal called TrumpRx",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer",
+      "published_at": "2025-10-01T15:45:48-04:00",
+      "bullets": [
+        "• President Donald Trump is launching a new website that will let Americans buy medications at lower prices",
+        "• The new website, called TrumpRx, is expected to launch in 2026 and will direct consumers to discounts on drugmakers’ online stores",
+        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for investing in manufacturing "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.689
+      }
+    },
+    {
       "id": "6d5a5d42906c",
       "title": "Behold: The Lego Game Boy has already been modded to play games for real",
       "outlet": "The Verge",
@@ -805,58 +849,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.995
-      }
-    },
-    {
-      "id": "b8762ce559df",
-      "title": "The UK&#8217;s war on Apple encryption is back",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor",
-      "published_at": "2025-10-01T13:13:18-04:00",
-      "bullets": [
-        "• A new secret order has reportedly been issued, this time specifically targeting British citizens’ private iCloud data",
-        "• The UK government is reportedly once again demanding that Apple provide it with backdoor access to encrypted iCloud user data",
-        "• This follows the UK issuing a broader secret order in January demanding Apple create a backdoor for security officials to access global encrypted user files",
-        "• Apple responded by filing an appeal and removing a feature, Advanced Data Protection "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "c41ff758b36a",
-      "title": "CNN Political Briefing",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
-      "published_at": null,
-      "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
