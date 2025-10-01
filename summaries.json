@@ -1,12 +1,64 @@
 {
-  "generated_at": "2025-10-01T09:34:43Z",
+  "generated_at": "2025-10-01T10:33:37Z",
   "items": [
+    {
+      "id": "a2d2960e555c",
+      "title": "South African firebrand MP Malema convicted of firing a gun in public",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 10:13:43 GMT",
+      "bullets": [
+        "• South African firebrand MP found guilty of firing a gun in public seven years ago",
+        "• The offence carries a maximum sentence of 15 years in prison",
+        "• He was convicted of five offences, including unlawful possession of a firearm and reckless endangerment",
+        "• The case was postponed to January 20 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "057cbfa34900",
+      "title": "Veterans react to Hegseth’s ‘insulting’ address to generals and admirals",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/pete-hegseth-generals-speech-veterans-react",
+      "published_at": "Wed, 01 Oct 2025 10:00:22 GMT",
+      "bullets": [
+        "• Pete Hegseth's hour-long Ted talk-style address touched on physical fitness, the doctrine of lethality and the perils of DEI",
+        "• The attention came at the cost of respect, said retired army general Dana Pittard, a retired general "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.957
+      }
+    },
+    {
+      "id": "1a3d3b7537f1",
+      "title": "Gold hits fresh all-time high as U.S. government shutdown dents risk appetite",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/gold-hits-record-high-as-us-government-shutdown-dents-risk-appetite-.html",
+      "published_at": "Wed, 01 Oct 2025 09:53:00 GMT",
+      "bullets": [
+        "• Gold prices soared to new highs on Wednesday as the U.S",
+        "• government entered its first shutdown in almost seven years",
+        "• The timing of the shutdown is significant, as critical jobs data due to be published on Friday will be delayed",
+        "• President Donald Trump has threatened to use the shutdown to cut \"a lot\" of federal employees "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      }
+    },
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 09:19:47 GMT",
+      "published_at": "Wed, 01 Oct 2025 09:42:25 GMT",
       "bullets": [
         "• US government shutdown begins at midnight ET on 1 October",
         "• Republicans and Democrats accuse each other of partisan politics as deadline passes",
@@ -20,22 +72,37 @@
       }
     },
     {
-      "id": "c04103e5dc9d",
-      "title": "Lithium Americas stock pops 35% as government takes a stake to boost Nevada project",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/lithium-americas-stock-pops-as-government-takes-a-stake-to-boost-nevada-project.html",
-      "published_at": "Wed, 01 Oct 2025 09:11:22 GMT",
+      "id": "21ed1b5aa5af",
+      "title": "State of calamity in Philippines province as earthquake kills 69",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ced5pyjzej3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 09:19:59 GMT",
       "bullets": [
-        "• Shares of Lithium Americas soar more than 35% in extended trading",
-        "• The U.S",
-        "• Energy Secretary Chris Wright says the government will take a small stake in the company",
-        "• Thacker Pass is expected to become one of the largest sources of lithium in North America",
-        "• The first phase of the project expected to begin operations in late 2027 "
+        "• At least 69 people have been killed and dozens injured after a powerful 6.9 magnitude earthquake struck the central Philippines on Tuesday",
+        "• The province of Cebu, which suffered the brunt of the damage, declared a state of calamity early on Wednesday",
+        "• Thousands spent the night on the streets amid repeated aftershocks "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "2aad2aa4cafd",
+      "title": "What is the drone wall that Europe wants to deter Russia?",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/what-is-the-drone-wall-that-europe-wants.html",
+      "published_at": "Wed, 01 Oct 2025 09:12:00 GMT",
+      "bullets": [
+        "• A drone wall is proposed to protect European airspace from drone incursions",
+        "• It would be a coordinated system that could detect, track and intercept UAVs that are seen to be violating European airspace",
+        "• Sweden, Norway, Estonia and Denmark have reported incursions in their airspace "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.727
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -52,23 +119,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.977
-      }
-    },
-    {
-      "id": "2aa750322495",
-      "title": "Oktoberfest opening delayed in Munich after fatal fire and bomb threat",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3rv2pv20rvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 08:52:16 GMT",
-      "bullets": [
-        "• Theresienwiese will remain closed until at least 17:00 (15:00 GMT) on Wednesday because of a bomb threat",
-        "• Large-scale emergency operation is under way in Lerchenau in the north of Munich",
-        "• Police investigating the fire said they believed a residential building was deliberately set alight as part of a family dispute "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -112,14 +162,14 @@
       "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 01 Oct 2025 06:38:41 GMT",
       "bullets": [
-        "• European leaders meet in high-security Danish summit after Russian drone incursions",
-        "• Ten member states have already backed plans for a multi-layered \"drone wall\" to track and destroy Russian drones",
-        "• Denmark has banned all civilian flights until Friday and placed heavy restrictions on flights "
+        "• European leaders meet in high-security Danish summit after Russian incursions into EU airspace",
+        "• The incursions have become most acute for countries on the EU's eastern flank such as Poland and Estonia",
+        "• A number of member states have already backed plans for a multi-layered \"drone wall\" to detect and destroy Russian drones "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.937
+        "score": 0.824
       }
     },
     {
@@ -140,21 +190,37 @@
       }
     },
     {
+      "id": "188a7107b43c",
+      "title": "Kimmel and Colbert appear as guests on each other's shows",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91403/kimmel-colbert-guests-each-others-shows",
+      "published_at": "Wed, 01 Oct 2025 05:27:47 -0400",
+      "bullets": [
+        "• Jimmy Kimmel and Stephen Colbert appear as guests on each other's shows Tuesday night",
+        "• Kimmel's show was suspended temporarily on Sept",
+        "• 7 after his monologue was \"ill-timed and insensitive\" Colbert's show is on CBS and Kimmel's ABC show on ABC "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "e5f5415d78b4",
       "title": "Jobs, travel, national parks - what impact will US shutdown have?",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 01 Oct 2025 05:27:19 GMT",
       "bullets": [
-        "• The US federal government has shut down after a budget standoff",
-        "• About 800,000 people are expected to be put on unpaid leave",
-        "• Air traffic controllers will continue to work, but will not be paid until the shutdown ends",
-        "• The impact will also be felt by Americans planning to travel abroad, with passport agencies warning it could take longer to process travel documents "
+        "• Federal workers will not receive any pay while the shutdown continues",
+        "• Air traffic controllers will continue to work, but they will not be paid until the end of the shutdown",
+        "• The shutdown is expected to affect travel, air travel and national parks across the country "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.973
+        "score": 0.989
       }
     },
     {
@@ -175,6 +241,22 @@
       }
     },
     {
+      "id": "902df5a10784",
+      "title": "China's ride-hailing companies try to quell the smell in cars where some drivers sleep",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-90295/china-ride-hailing-car-odor",
+      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• China's ride-hailing companies try to quell the smell in cars where some drivers sleep",
+        "• The smell of economic hardship is in part the result of millions of Chinese being thrown out of work by the coronavirus pandemic and China's slowing economy "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "2a53923fa35e",
       "title": "A GOP push to restrict voting by overseas U.S. citizens continues before 2026 midterms",
       "outlet": "NPR Topics: News",
@@ -190,23 +272,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "49cd9aeac24f",
-      "title": "Poll: Agreement that political violence may be necessary to right the country grows",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Poll: Agreement that political violence may be necessary to right the country grows",
-        "• Three-in-10 people now say that Americans may have to resort to violence in order to get the country back on track",
-        "• The findings come after a string of high-profile acts of political violence "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.944
       }
     },
     {
@@ -229,7 +294,7 @@
     {
       "id": "71cbd76e300a",
       "title": "Federal agencies are rehiring workers and spending more after DOGE's push to cut",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5558298/doge-fiscal-year-savings-budget-rehired-government-shutdown",
       "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -237,27 +302,27 @@
         "• Agencies ordered to drastically slash their workforces are now hiring back hundreds of workers",
         "• The bulk of that spending goes to debt service, national defense, and entitlement programs "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.998
       }
     },
     {
-      "id": "cc6ff2222ff4",
-      "title": "‘Unprecedented in history’: global academic freedom group warns of dismantling in US",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us",
-      "published_at": "Wed, 01 Oct 2025 04:01:01 GMT",
+      "id": "49cd9aeac24f",
+      "title": "Poll: Agreement that political violence may be necessary to right the country grows",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump",
+      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• Academic Freedom Monitoring Project counted some 40 attacks against academic freedom in the US in the first half of 2025",
-        "• Report: Attacks range from the government’s revocation of research funds to the detention and attempted deportation of foreign scholars",
-        "• Report noted that the data points to a continued erosion of academic freedom "
+        "• Poll: Agreement that political violence may be necessary to right the country grows",
+        "• Three-in-10 people now say that Americans may have to resort to violence in order to get the country back on track",
+        "• That's up 11 points since April 2024, an increase driven by Democrats "
       ],
-      "category": "US",
+      "category": "Politics",
       "sentiment": {
-        "label": "negative",
-        "score": 0.964
+        "label": "neutral",
+        "score": 0.547
       }
     },
     {
@@ -278,22 +343,6 @@
       }
     },
     {
-      "id": "fee2ae10eaec",
-      "title": "Italy PM tells Gaza aid flotilla to stop or risk 'preventing peace'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyr2lwg1rjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 03:17:53 GMT",
-      "bullets": [
-        "• Italian PM tells Gaza aid flotilla to stop or risk 'preventing peace' Global Sumud Flotilla (GSF) says it is on \"high alert\" after it reaches 150 nautical miles from Gaza's shoreline",
-        "• GSF says it has entered the area where previous flotillas have been attacked or intercepted "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      }
-    },
-    {
       "id": "23fc959e1928",
       "title": "Warren Buffett is reportedly eyeing Berkshire Hathaway's biggest deal in three years",
       "outlet": "US Top News and Analysis",
@@ -308,6 +357,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.693
+      }
+    },
+    {
+      "id": "68792c56e973",
+      "title": "Spirit Airlines on track for a $475 million bankruptcy lifeline",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/spirit-airlines-bankruptcy.html",
+      "published_at": "Wed, 01 Oct 2025 01:12:26 GMT",
+      "bullets": [
+        "• Spirit Airlines is making \"massive progress\" to revitalize the airline, its restructuring lawyer says",
+        "• The struggling budget airline has reached an agreement with some of its debtholders for up to $475 million in financing",
+        "• Spirit last month filed for its second Chapter 11 bankruptcy protection in less than a year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.969
       }
     },
     {
@@ -362,23 +428,6 @@
       }
     },
     {
-      "id": "0f0aa365c3c3",
-      "title": "Trust in the market leads to long-term gains, Jim Cramer says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/trust-in-the-market-leads-to-long-term-gains-jim-cramer-says.html",
-      "published_at": "Tue, 30 Sep 2025 23:09:06 GMT",
-      "bullets": [
-        "• CNBC's Jim Cramer stressed his belief that the market can be vehicle for wealth in the long term",
-        "• He suggested investors park their money in both index funds and growth stocks",
-        "• Cramer also said he thinks younger generations have the opportunity to reap significant rewards from investments "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.68
-      }
-    },
-    {
       "id": "c84596d0c628",
       "title": "The world's first carbon border tax will soon go live — shaking up global trade",
       "outlet": "US Top News and Analysis",
@@ -409,23 +458,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "d3d5c30b9dba",
-      "title": "Nike posts surprise sales growth, but warns of sluggish holiday season and bigger than expected tariff hit",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/nike-nke-q1-2026-earnings.html",
-      "published_at": "Tue, 30 Sep 2025 22:41:35 GMT",
-      "bullets": [
-        "• Nike posted surprise sales growth in its fiscal first quarter",
-        "• But it warned it expects sales to fall again during most of the holiday shopping season",
-        "• The company now expects tariffs to cost it $1.5 billion and hit its gross margin by 1.2 percentage points "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -734,6 +766,23 @@
       }
     },
     {
+      "id": "16c875f4ac4b",
+      "title": "Brompton’s versatile Electric G folding e-bike is now available in the US",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us",
+      "published_at": "2025-10-01T05:59:19-04:00",
+      "bullets": [
+        "• The Brompton Electric G folding e-bike is now available to buy in the US starting at $4,950",
+        "• While it looks like a regular Brompton, it’s been scaled up with 20-inch wheels and an extended wheelbase",
+        "• The bike folds down small enough to be taken onto a train or hoisted into the back of a car "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      }
+    },
+    {
       "id": "9481ccac8b6b",
       "title": "Epic says it has proof Apple was scaring users off third-party app stores",
       "outlet": "The Verge",
@@ -798,57 +847,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
-      }
-    },
-    {
-      "id": "75ff346d577c",
-      "title": "Here’s where to preorder all of Amazon&#8217;s new Alexa devices and when they arrive",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date",
-      "published_at": "2025-09-30T20:15:13-04:00",
-      "bullets": [
-        "• Amazon’s latest hardware won’t begin shipping until mid-October, but you can preorder most devices starting today",
-        "• Amazon announced a redesigned Echo Dot model called the Echo Dot Max, which is more elegant than its predecessor thanks to a higher-quality 3D knit fabric and a flat face",
-        "• Amazon also announced a Kindle Scribe with a color screen "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.92
-      }
-    },
-    {
-      "id": "c41ff758b36a",
-      "title": "CNN Political Briefing",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
-      "published_at": null,
-      "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
