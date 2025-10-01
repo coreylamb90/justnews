@@ -1,21 +1,71 @@
 {
-  "generated_at": "2025-10-01T15:32:21Z",
+  "generated_at": "2025-10-01T15:52:10Z",
   "items": [
     {
       "id": "8c9bc22d4dd6",
       "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
-      "published_at": "Wed, 01 Oct 2025 15:27:34 GMT",
+      "published_at": "Wed, 01 Oct 2025 15:35:59 GMT",
       "bullets": [
-        "• Federal Reserve Governor Lisa Cook is allowed to remain in her post pending oral arguments in January",
+        "• Supreme Court allows Fed Governor Lisa Cook to remain in her post pending oral arguments in January",
         "• Trump has repeatedly asked federal courts to allow him to terminate Cook from the Fed's Board of Governors without delay",
-        "• Cook denies any wrongdoing in connection with statements she made in applying for mortgages on two homes she owns "
+        "• Cook denies wrongdoing in connection with statements she made in applying for mortgages on two homes she owns in Michigan and Georgia "
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.719
+        "score": 0.899
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: House will return to DC next week, says speaker, as Democrats blame ‘unhinged’ Trump for shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 15:35:08 GMT",
+      "bullets": [
+        "• The House will return to Washington next week, speaker Mike Johnson says",
+        "• Johnson says that he does not plan to call the House back on Friday",
+        "• The White House website has had a shutdown makeover to ram home the claim that “Democrats have shut down the government” It even features a ticking clock illustrating the shutdown "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "bc3dee09c0aa",
+      "title": "States sue Zillow, Redfin for alleged antitrust violation in online rental housing",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/state-ags-sue-zillow-redfin-for-alleged-antitrust-violation.html",
+      "published_at": "Wed, 01 Oct 2025 15:34:16 GMT",
+      "bullets": [
+        "• Attorneys general from five states sue Zillow and Redfin over a February deal",
+        "• New York Attorney General Letitia James: \"Zillow's attempt to shut down its competition could drive up costs for advertisers and leave renters with fewer options\" The lawsuit follows a similar one filed by the Federal Trade Commission "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "9363e20d2e6d",
+      "title": "Afghans rejoice as internet returns after Taliban blackout",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 15:28:38 GMT",
+      "bullets": [
+        "• Internet and telecom services are being restored in Afghanistan after a nationwide shutdown by the Taliban government",
+        "• The government has not given an official explanation for the shutdown",
+        "• The 48-hour blackout disrupted businesses and flights, limited access to emergency services and raised fears about isolating women and girls whose rights have been eroded since the Taliban swept back to power in 2021 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -31,25 +81,6 @@
         "• The Essential and Premium plans will remain the same price "
       ],
       "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: House will return to DC next week, says speaker, as Democrats blame ‘unhinged’ Trump for shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 15:19:32 GMT",
-      "bullets": [
-        "• House will return to D.C",
-        "• next week to put pressure on Democrats",
-        "• House website features a clock counting down how long the government shutdown has been going on",
-        "• White House website claims Democrats have shut down the government",
-        "• House will not return to the Capitol Hill to vote on a compromise "
-      ],
-      "category": "US",
       "sentiment": {
         "label": "negative",
         "score": 0.998
@@ -73,22 +104,6 @@
       }
     },
     {
-      "id": "bc3dee09c0aa",
-      "title": "States sue Zillow, Redfin for alleged antitrust violation in online rental housing",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/state-ags-sue-zillow-redfin-for-alleged-antitrust-violation.html",
-      "published_at": "Wed, 01 Oct 2025 15:16:49 GMT",
-      "bullets": [
-        "• Attorneys general from five states sue Zillow and Redfin over a February deal",
-        "• New York Attorney General Letitia James: \"Zillow's attempt to shut down its competition could drive up costs for advertisers and leave renters with fewer options\" The lawsuit follows a similar one filed by the Federal Trade Commission "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
       "id": "2aed3554c845",
       "title": "Trump administration freezes $18 billion in New York City infrastructure projects, Vought says",
       "outlet": "US Top News and Analysis",
@@ -103,23 +118,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "9363e20d2e6d",
-      "title": "Internet access returns to Afghanistan after Taliban blackout",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 15:11:55 GMT",
-      "bullets": [
-        "• Internet and telecom services are being restored in Afghanistan after a nationwide shutdown by the Taliban government",
-        "• Local reporters said communications were resuming across provinces while internet monitor Netblocks said live network data was showing a \"partial restoration\" of connectivity",
-        "• The Taliban government has not given an official explanation for the 48-hour blackout "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -323,12 +321,12 @@
       "bullets": [
         "• Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
         "• The Committee for the First Amendment was founded in the 1940s to oppose the infamous House Un-American Activities Committee",
-        "• The current group is headlined by actor and activist Jane Fonda, whose father was one of the early members "
+        "• The current group is headlined by Jane Fonda, whose father was one of the early members "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.925
+        "score": 0.871
       }
     },
     {
@@ -778,6 +776,73 @@
       }
     },
     {
+      "id": "a5729259d234",
+      "title": "FTC sues Zillow and Redfin for violating antitrust laws",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws",
+      "published_at": "2025-10-01T11:48:18-04:00",
+      "bullets": [
+        "• Federal Trade Commission sues Zillow and Redfin for violating antitrust laws",
+        "• FTC says the $100 million dollar “partnership” was more of a dismantling of Redfin as a competitor",
+        "• Redfin agreed to end its existing contracts with advertising customers, transfer them to Zillsow and, according to the FTC complaint, not compete with Zilow for multifamily property listings for up to nine years "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "45f31559cfcf",
+      "title": "Sony brings audio sharing to its flagship noise-canceling headphones",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
+      "published_at": "2025-10-01T11:37:22-04:00",
+      "bullets": [
+        "• Sony is adding support for audio sharing and Google’s Gemini Live conversational AI assistant to its premium noise-canceling headphones",
+        "• The features are being added as part of new firmware updates for the two year old Sony WF-1000XM5 wireless earbuds and the Sony WH-1000X6 wireless headphones "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.709
+      }
+    },
+    {
+      "id": "034389cf8919",
+      "title": "Samsung’s Galaxy Watch 7 is over $90 off at Amazon",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/789818/samsung-galaxy-watch-7-eufy-e28-robot-vacuum-deal-sale",
+      "published_at": "2025-10-01T11:35:00-04:00",
+      "bullets": [
+        "• Samsung’s Galaxy Watch 7 is one of the best Android smartwatches we’ve tested",
+        "• It comes with FDA-cleared sleep detection features as well as irregular heart rate notifications",
+        "• Its circular shape will please you if you’re coming from a traditional watch or aren’t a fan of the squircle design "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "005991a2e1ac",
+      "title": "Porsche’s electric Cayenne has so much screen they had to bend it",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789622/porsche-electric-cayenne-curved-screen-flow-display",
+      "published_at": "2025-10-01T11:31:21-04:00",
+      "bullets": [
+        "• The Porsche Cayenne Electric won’t make its official debut until later this year",
+        "• Porsche is calling it the Flow Display, a vertically installed screen that curves toward the bottom",
+        "• It is both the largest screen ever to be featured in a Porsche and the most unique "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      }
+    },
+    {
       "id": "d2127e474dd8",
       "title": "Satya Nadella appoints a new CEO to run Microsoft&#8217;s biggest businesses",
       "outlet": "The Verge",
@@ -792,73 +857,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.952
-      }
-    },
-    {
-      "id": "4f8f13e38f81",
-      "title": "Everything about buying video games is getting more confusing and expensive",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/789734/game-consoles-too-expensive",
-      "published_at": "2025-10-01T11:00:00-04:00",
-      "bullets": [
-        "• Microsoft announced changes to its Game Pass subscription service, which, yes, also include a price hike",
-        "• Game Pass Ultimate is now $29.99 per month, a hefty $10 jump, and more games and features are being added",
-        "• Trying to figure out what to choose is like living in a Portlandia sketch "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "6fe66bb9111a",
-      "title": "Apple&#8217;s next-gen Vision Pro revealed in new regulatory filing",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak",
-      "published_at": "2025-10-01T10:41:07-04:00",
-      "bullets": [
-        "• Apple has submitted a filing for a ‘Head Mounted Device’ that looks a lot like a new Vision Pro headset",
-        "• A new filing with the Federal Communications Commission seemingly confirms the company’s work on the new device",
-        "• It lists the upcoming headset under model number A3416 and says it will come with support for Wi-Fi 6, similar to the original Apple Vision Pro "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "bf799eb6c01e",
-      "title": "8BitDo’s fantastic Ultimate 2 controller is cheaper than ever",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/789728/8bitdo-ultimate-2-switch-pc-october-prime-day-deal-sale",
-      "published_at": "2025-10-01T10:20:42-04:00",
-      "bullets": [
-        "• 8BitDo’s fantastic Ultimate 2 wireless gamepad is $59.99 (originally $69.99) and $62.99 when you clip the coupon on its product page",
-        "• The second iteration boasts a handful of improvements, like the switch from Hall effect joysticks to more power-efficient tunneling magnetoresistance (TMR) ones "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      }
-    },
-    {
-      "id": "7a5fdb3c18db",
-      "title": "Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes",
-      "published_at": "2025-10-01T10:00:00-04:00",
-      "bullets": [
-        "• Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month",
-        "• Microsoft is also adding PC games and cloud gaming to its new Essential and Premium plans",
-        "• Microsoft increased the price of Game Pass Ultimate last year without improving the subscription "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     }
   ]
