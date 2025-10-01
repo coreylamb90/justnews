@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-10-01T10:33:37Z",
+  "generated_at": "2025-10-01T10:52:12Z",
   "items": [
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 10:23:01 GMT",
+      "bullets": [
+        "• US government shutdown begins at midnight ET on 1 October",
+        "• Republicans and Democrats accuse each other of partisan politics as deadline passes",
+        "• Hundreds of thousands of federal workers will be furloughed or laid off if no deal is reached",
+        "• President Donald Trump said he had 'no choice' but to lay off federal workers "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
     {
       "id": "a2d2960e555c",
       "title": "South African firebrand MP Malema convicted of firing a gun in public",
@@ -51,24 +69,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.991
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 09:42:25 GMT",
-      "bullets": [
-        "• US government shutdown begins at midnight ET on 1 October",
-        "• Republicans and Democrats accuse each other of partisan politics as deadline passes",
-        "• Hundreds of thousands of federal workers will be furloughed or laid off if no deal is reached",
-        "• President Donald Trump said he had 'no choice' but to lay off federal workers "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -292,23 +292,6 @@
       }
     },
     {
-      "id": "71cbd76e300a",
-      "title": "Federal agencies are rehiring workers and spending more after DOGE's push to cut",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558298/doge-fiscal-year-savings-budget-rehired-government-shutdown",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• DOGE has failed to deliver on its promises to cut costs and increase efficiency, NPR finds",
-        "• Agencies ordered to drastically slash their workforces are now hiring back hundreds of workers",
-        "• The bulk of that spending goes to debt service, national defense, and entitlement programs "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "49cd9aeac24f",
       "title": "Poll: Agreement that political violence may be necessary to right the country grows",
       "outlet": "NPR Topics: Politics",
@@ -323,6 +306,23 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.547
+      }
+    },
+    {
+      "id": "71cbd76e300a",
+      "title": "Federal agencies are rehiring workers and spending more after DOGE's push to cut",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558298/doge-fiscal-year-savings-budget-rehired-government-shutdown",
+      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• DOGE has failed to deliver on its promises to cut costs and increase efficiency, NPR finds",
+        "• Agencies ordered to drastically slash their workforces are now hiring back hundreds of workers",
+        "• The bulk of that spending goes to debt service, national defense, and entitlement programs "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -408,23 +408,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.985
-      }
-    },
-    {
-      "id": "2b07c1005749",
-      "title": "Government shuts down after Congress fails to reach a funding agreement",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558456/government-shutdown-trump-house",
-      "published_at": "Wed, 01 Oct 2025 00:01:00 -0400",
-      "bullets": [
-        "• Government shuts down after Congress fails to reach a funding agreement",
-        "• Republicans and Democrats failed to agree on a pair of dueling funding bills to keep the government open",
-        "• Critical services, including Social Security, VA benefits and Medicare and Medicaid payments, will continue, but people who need resources could face delays "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
       }
     },
     {
@@ -847,6 +830,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
+      }
+    },
+    {
+      "id": "c41ff758b36a",
+      "title": "CNN Political Briefing",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
+      "published_at": null,
+      "bullets": [
+        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
+        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
+        "• The race for New Jersey governor could be the sleeper contest of the year "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     }
   ]
