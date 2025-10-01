@@ -1,22 +1,123 @@
 {
-  "generated_at": "2025-10-01T13:41:16Z",
+  "generated_at": "2025-10-01T14:33:50Z",
   "items": [
     {
-      "id": "6155b05df0c4",
-      "title": "10-year Treasury yield falls after surprise decline in private payrolls, government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/us-treasury-yields-us-government-shuts-down-.html",
-      "published_at": "Wed, 01 Oct 2025 13:36:44 GMT",
+      "id": "5c49189c6c48",
+      "title": "Judges to hear Texas redistricting challenge giving Republicans five seats",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/texas-redistricting-map-republicans-gerrymandering",
+      "published_at": "Wed, 01 Oct 2025 14:18:32 GMT",
       "bullets": [
-        "• The U.S",
-        "• government shutdown delayed the release of the September payrolls report",
-        "• Private payrolls declined by 32,000 in September, according to ADP",
-        "• The 10-year Treasury bond yield fell more than 5 basis points to 4.094% "
+        "• The case is the first test of Texas’ new map, which was quickly redrawn this summer to give Republicans five more seats at the urging of Donald Trump",
+        "• Civil rights groups and dozens of Black and Hispanic voters joined the lawsuit, saying the new map intentionally reduces minority voters’ influence",
+        "• Texas Republican lawmakers and state leaders deny these claims, saying it is a legal partisan gerrymander "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "514550afa78e",
+      "title": "EVs, big SUVs drive Ford Q3 U.S. sales up 8.2%",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/third-quarter-us-auto-sales.html",
+      "published_at": "Wed, 01 Oct 2025 14:10:13 GMT",
+      "bullets": [
+        "• Sales of all-electric vehicles increased by 30.2% during the period to a new quarterly record of more than 30,600 units",
+        "• Ford's \"electrified\" vehicles, including EVs and hybrids, increased 20% compared with the same period a year earlier",
+        "• Buyers pulled ahead of plans to purchase a zero-emissions vehicle ahead of $7,500 federal incentives ending in September "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.578
+      }
+    },
+    {
+      "id": "b3008b632544",
+      "title": "New York City high-rise apartment building partially collapses",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/nyc-bronx-apartment-building-collapse",
+      "published_at": "Wed, 01 Oct 2025 14:03:29 GMT",
+      "bullets": [
+        "• Part of a high-rise apartment building in New York City collapsed Wednesday morning, leaving a corner of the building a pile of rubble",
+        "• The city’s fire department said it had no immediate reports of injuries",
+        "• It said it was responding to a report of a gas explosion that collapsed an incinerator shaft in the building "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "e5bec7ec1b83",
+      "title": "Wisconsin Planned Parenthood clinics pause abortion services amid funding crisis",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/wisconsin-planned-parenthood-abortion-funding",
+      "published_at": "Wed, 01 Oct 2025 14:01:38 GMT",
+      "bullets": [
+        "• Planned Parenthood clinics in Wisconsin will stop providing abortions on Wednesday",
+        "• A provision in Donald Trump’s new tax and spending bill blocks Planned Parenthood from receiving reimbursements from Medicaid",
+        "• Planned Parenthood of Wisconsin appears to be attempting to continue receiving Medicaid reimbursements for other services like cancer screenings and contraception "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "b7c9170b770a",
+      "title": "Border wall slicing through Arizona wildlife corridor begins construction: ‘A show of force for nothing’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/arizona-border-wall-san-rafael-valley",
+      "published_at": "Wed, 01 Oct 2025 14:00:22 GMT",
+      "bullets": [
+        "• The San Rafael Valley, south-east of Tucson, is considered one of the most biodiverse regions in North America",
+        "• But in recent days, a towering black steel wall has begun to rise on the landscape",
+        "• Trump administration is forging ahead with plans to erect a 27-mile section of the border wall here "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 13:58:35 GMT",
+      "bullets": [
+        "• US government shutdown: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
+        "• They say Republicans shut down government ‘because they do not want to protect the American people’ They said their party remained willing to “find a bipartisan path forward to reopen the government”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "fc5c8e9f22a8",
+      "title": "Amazon launches 'price-conscious' grocery brand with most products under $5",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/amazon-grocery-under-5-dollars.html",
+      "published_at": "Wed, 01 Oct 2025 13:50:13 GMT",
+      "bullets": [
+        "• Amazon launches a new grocery brand aimed at \"price-conscious\" shoppers",
+        "• The new offering includes more than 1,000 items priced under $5",
+        "• It's not the first time Amazon has experimented with a budget-friendly grocery brand",
+        "• The move comes as Amazon's grocery business is in flux "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.997
       }
     },
     {
@@ -24,16 +125,16 @@
       "title": "Private payrolls declined in September by 32,000 in key ADP report coming amid shutdown data blackout",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html",
-      "published_at": "Wed, 01 Oct 2025 13:20:41 GMT",
+      "published_at": "Wed, 01 Oct 2025 13:47:26 GMT",
       "bullets": [
-        "• Private payrolls dropped 32,000 jobs in September, the biggest drop since March 2023, ADP says",
-        "• The data comes as the government shutdown continues",
-        "• The Bureau of Labor Statistics' payrolls report for September will not be released, nor the Labor Department's weekly jobless claims count on Thursday "
+        "• Private payrolls dropped 32,000 jobs in September, the biggest drop since March 2023, ADP reported Wednesday",
+        "• The data comes as the government shutdown continues and the Bureau of Labor Statistics' payrolls report for September will not be released",
+        "• The August payrolls number was revised to a loss of 3,000 from an initially reported increase of 54,000 "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 1.0
       }
     },
     {
@@ -54,22 +155,6 @@
       }
     },
     {
-      "id": "e49d46cc6cb7",
-      "title": "US government shuts down after Democrats refuse to back Republican funding plan",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down",
-      "published_at": "Wed, 01 Oct 2025 13:09:06 GMT",
-      "bullets": [
-        "• The shutdown is the first since a 35-day closure that began in December 2018 and extended into the new year",
-        "• It comes as Democrats look to regain their footing with voters, who re-elected Trump last year and relegated them to the minority in both chambers of Congress "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      }
-    },
-    {
       "id": "68866120d8ef",
       "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2025 ranked",
       "outlet": "US Top News and Analysis",
@@ -83,57 +168,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.958
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 13:01:05 GMT",
-      "bullets": [
-        "• US government shutdown: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
-        "• They say Republicans shut down government ‘because they do not want to protect the American people’ They said their party remained willing to “find a bipartisan path forward to reopen the government”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "54ef0073f193",
-      "title": "‘Meant to be a deterrent’: asylum seekers face new, higher fees in US",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/asylum-seekers-immigration-fees",
-      "published_at": "Wed, 01 Oct 2025 13:00:25 GMT",
-      "bullets": [
-        "• The woman in question was stuck in the purgatory of immigration custody for about nine months",
-        "• She arrived at her court date in Laredo, Texas, with hope in the shape of strong evidence for her claim to asylum in the US",
-        "• Yet before she could make her case for refuge, the immigration judge demanded she turn over a new $100 asylum application fee "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      }
-    },
-    {
-      "id": "d378fd0bdbb6",
-      "title": "Trump's pharmaceutical tariff threat loses bite after Pfizer deal reassures drugmakers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/trump-pharmaceutical-tariffs-pfizer-deal.html",
-      "published_at": "Wed, 01 Oct 2025 12:56:49 GMT",
-      "bullets": [
-        "• Trump's deal with Pfizer included a three-year exemption from pharmaceutical-specific tariffs, as long as the firm further invests in domestic manufacturing",
-        "• Pfizer on Tuesday pledged to put $70 billion into U.S",
-        "• manufacturing and research, on top of previous investments",
-        "• That deal brought relief and clarity to Pfizer and the broader pharmaceutical industry "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.956
       }
     },
     {
@@ -169,40 +203,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "1a240301c246",
-      "title": "Miami deal for Trump library next to famous Freedom Tower angers critics",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/miami-deal-for-trump-library-angers-critics",
-      "published_at": "Wed, 01 Oct 2025 12:00:25 GMT",
-      "bullets": [
-        "• State of Florida votes to donate land for Donald Trump's presidential library",
-        "• Critics say it is a betrayal of Miami's famous El Refugio, a beacon of hope for immigrants",
-        "• Florida's Republican governor and three cabinet members voted unanimously on Tuesday "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "7b2a316ef481",
-      "title": "Golden retriever boyfriends and ick lists: gen Z’s dating rules are making them ‘constantly disappointed’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/01/gen-z-dating-rules",
-      "published_at": "Wed, 01 Oct 2025 12:00:24 GMT",
-      "bullets": [
-        "• Lea Veloso, 26, has an ever-growing ick list on her Notes app that she references whenever she starts seeing someone new",
-        "• It’s an ick if he doesn’t call his parents, sniffs every five seconds, is an unsuccessful DJ or is embarrassed to do karaoke",
-        "• “I think I’m constantly disappointed by real men.”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -398,20 +398,21 @@
       }
     },
     {
-      "id": "71cbd76e300a",
-      "title": "Federal agencies are rehiring workers and spending more after DOGE's push to cut",
+      "id": "49cd9aeac24f",
+      "title": "Poll: Agreement that political violence may be necessary to right the country grows",
       "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558298/doge-fiscal-year-savings-budget-rehired-government-shutdown",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump",
       "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• DOGE has failed to deliver on its promises to cut costs and increase efficiency, NPR finds",
-        "• Agencies ordered to drastically slash their workforces are now hiring back hundreds of workers",
-        "• The bulk of that spending goes to debt service, national defense, and entitlement programs "
+        "• Poll: Agreement that political violence may be necessary to right the country grows",
+        "• Three in 10 people now say that Americans may have to resort to violence to get the country back on track",
+        "• That's up 11 points since April 2024",
+        "• The findings come after a string of high-profile political violence, including the assassination of conservative activist Charlie Kirk "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.685
       }
     },
     {
@@ -771,67 +772,65 @@
       }
     },
     {
-      "id": "1cc499352933",
-      "title": "Spotify now lets you exclude specific songs from your algorithm",
+      "id": "bf799eb6c01e",
+      "title": "8BitDo’s fantastic Ultimate 2 controller is cheaper than ever",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789717/spotify-exclude-songs-taste-profile-algorithm",
-      "published_at": "2025-10-01T09:35:08-04:00",
+      "url": "https://www.theverge.com/tech/789728/8bitdo-ultimate-2-switch-pc-october-prime-day-deal-sale",
+      "published_at": "2025-10-01T10:20:42-04:00",
       "bullets": [
-        "• Spotify users can now exclude songs from their “Taste Profile’s” algorithm",
-        "• The feature is available globally for free and Premium listeners across the site",
-        "• Users can access the feature by tapping the three-dot menu at the top-right corner of the screen "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      }
-    },
-    {
-      "id": "fb69a2080396",
-      "title": "Sony’s updated PS5 Slim launches with less storage in Europe",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789686/sony-digital-ps5-slim-less-storage-europe",
-      "published_at": "2025-10-01T09:14:22-04:00",
-      "bullets": [
-        "• Sony's updated PlayStation 5 digital-only console in Europe comes with 825GB of internal storage, rather than 1TB",
-        "• Sony originally launched the slimmed-down version of the PS5 in 2023, coming with an upgraded 1TB SSD",
-        "• The updated PS5 comes with a new matte finish and smaller components that make it about 100 grams lighter than its predecessor "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "d3efd8b1374e",
-      "title": "Samsung teams up with OpenAI to deliver Stargate chips",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789687/openai-samsung-stargate-chips",
-      "published_at": "2025-10-01T09:07:49-04:00",
-      "bullets": [
-        "• Samsung will help meet OpenAI’s need for 900,000 semiconductor wafers per month",
-        "• The Korean firms said they will scale production in order to meet the demand for memory chips needed to power its compute-hungry AI models",
-        "• The partnerships are the latest in a series of strategic moves for OpenAI "
+        "• 8BitDo’s fantastic Ultimate 2 wireless gamepad is $59.99 (originally $69.99) and $62.99 when you clip the coupon on its product page",
+        "• The second iteration boasts a handful of improvements, like the switch from Hall effect joysticks to more power-efficient tunneling magnetoresistance (TMR) ones "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.985
       }
     },
     {
-      "id": "a1f9e06f4426",
-      "title": "Netflix&#8217;s latest Frankenstein trailer is all about the creature",
+      "id": "7a5fdb3c18db",
+      "title": "Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788304/netflix-frankenstein-trailer-monster-del-toro-jacob-elordi",
-      "published_at": "2025-10-01T09:06:49-04:00",
+      "url": "https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes",
+      "published_at": "2025-10-01T10:00:00-04:00",
       "bullets": [
-        "• Guillermo del Toro’s upcoming take on Frankenstein has looked great in trailers but one element has been largely shrouded in mystery",
-        "• Yesterday Netflix teased a bit of the creature's new look in a poster",
-        "• Now we have a trailer that shows how he looks in action",
-        "• The character is played by Jacob Elordi "
+        "• Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month",
+        "• Microsoft is also adding PC games and cloud gaming to its new Essential and Premium plans",
+        "• Microsoft increased the price of Game Pass Ultimate last year without improving the subscription "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "b19b0616cf19",
+      "title": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789461/xbox-cloud-gaming-launch-1440p-resolution-bitrate-changes",
+      "published_at": "2025-10-01T10:00:00-04:00",
+      "bullets": [
+        "• Xbox Cloud Gaming is finally coming out of its preview state, more than five years after the streaming service first launched in 2020",
+        "• Microsoft is also upping the bitrate quality of Xbox Cloud gaming streams for select games",
+        "• It’s the first major visual quality upgrade to the service since it launched in 2010 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.811
+      }
+    },
+    {
+      "id": "255da68fdd9a",
+      "title": "Eight Sleep&#8217;s first water-chilled pillow cover costs a cool $1,049",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789689/eight-sleep-pod-pillow-cover-cooling-system-temperature-regulate",
+      "published_at": "2025-10-01T10:00:00-04:00",
+      "bullets": [
+        "• Eight Sleep’s first water-chilled pillow cover costs a cool $1,049",
+        "• The Pod Pillow Cover circulates temperature-controlled water beneath your head",
+        "• Up to two sleepers can dial in an exact temperature anywhere between 55 and 110 degrees Fahrenheit and the cover will maintain it all night long "
       ],
       "category": "Technology",
       "sentiment": {
@@ -840,20 +839,20 @@
       }
     },
     {
-      "id": "7e5e74c658f9",
-      "title": "Walmart’s Onn cameras were developed with Google and start at just $23",
+      "id": "27687292dbe5",
+      "title": "Ubisoft launches Vantage Studios subsidiary to develop its biggest franchises",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home",
-      "published_at": "2025-10-01T09:00:00-04:00",
+      "url": "https://www.theverge.com/games/789721/ubisoft-vantage-studios-subsidiary-assassins-creed-far-cry",
+      "published_at": "2025-10-01T09:50:37-04:00",
       "bullets": [
-        "• Walmart’s Onn cameras were developed with Google and start at just $23",
-        "• The $22.96 Onn Indoor camera and $49.86 Video Doorbell launch today, October 1st, at Walmart.com",
-        "• Both cameras work with the Google Home app for setup and streaming live and recorded video "
+        "• Vantage Studios will be responsible for the Assassin’s Creed, Far Cry, and Rainbow Six series",
+        "• It includes studios in Montréal, Quebec, Sherbrooke, Saguenay, Barcelona, and Sofia",
+        "• The subsidiary will have two CEOs in Christophe Derennes and Charlie Guillemot "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "positive",
+        "score": 0.886
       }
     }
   ]
