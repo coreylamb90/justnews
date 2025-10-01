@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-10-01T07:47:27Z",
+  "generated_at": "2025-10-01T08:40:32Z",
   "items": [
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 07:32:27 GMT",
+      "published_at": "Wed, 01 Oct 2025 08:20:06 GMT",
       "bullets": [
         "• US government shutdown begins at midnight ET on 1 October",
         "• Republicans and Democrats accuse each other of partisan politics as deadline passes",
@@ -769,6 +769,23 @@
       }
     },
     {
+      "id": "515b74a5d078",
+      "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
+      "published_at": "2025-10-01T04:30:00-04:00",
+      "bullets": [
+        "• Wikipedia’s sister project Wikidata just got a new database that is easier for AI models to ingest",
+        "• The database comes from the Wikipedia Embedding Project out of the German chapter of the Wikimedia Foundation, Wikimedia Deutschland",
+        "• The Berlin-based team spent the past year using a large language model to turn the 19 million entries into vectors "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
       "id": "c97a62b53d43",
       "title": "Roland’s TR-1000 is its first analog drum machine in over 40 years",
       "outlet": "The Verge",
@@ -833,22 +850,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "d0d009912ef7",
-      "title": "TikTok, #freedom edition",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
-      "published_at": "2025-09-30T17:00:08-04:00",
-      "bullets": [
-        "• Today is the last day of The Verge’s very good subscription sale: $4 for a month and $35 for the year, for full access to the entire site",
-        "• Plus: What happens when Donald Trump faces off with Portland, a city of “angry, angry libs”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.887
       }
     }
   ]
