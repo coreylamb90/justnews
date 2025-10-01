@@ -1,20 +1,90 @@
 {
-  "generated_at": "2025-10-01T03:38:57Z",
+  "generated_at": "2025-10-01T04:36:38Z",
   "items": [
     {
       "id": "74be3ce48bb5",
-      "title": "Senate fails to pass stopgap funding bill as government heads for midnight shutdown – follow live",
+      "title": "US government shuts down after failure to pass funding bill – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Wed, 01 Oct 2025 03:20:14 GMT",
+      "published_at": "Wed, 01 Oct 2025 04:19:46 GMT",
       "bullets": [
-        "• Two labor unions have sued the Trump administration for threatening mass layoffs of federal workers during the impending government shutdown",
-        "• The unions argue that the layoffs violate the Antideficiency Act, a law which prohibits the federal government from spending beyond its budget, by ordering OMB and OPM staff to conduct firings "
+        "• US government shuts down for the first time in nearly seven years",
+        "• First time the government has shuttered since a 35-day shutdown during Donald Trump’s first presidency",
+        "• About 750,000 federal workers could be furloughed amid the shutdown "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.995
+      }
+    },
+    {
+      "id": "a52ce851e57f",
+      "title": "U.S. government shuts down after midnight as Congress fails to pass funding bills",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Wed, 01 Oct 2025 04:14:42 GMT",
+      "bullets": [
+        "• The U.S",
+        "• government shut down just after midnight on Wednesday",
+        "• Republicans and Democrats refused to budge from opposing positions on a funding deal to avoid a shutdown",
+        "• A key sticking point was Democrats' insistence on including the extension of enhanced Affordable Care Act tax credits "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "b41c0e9ccbfc",
+      "title": "Asia markets trade mixed after U.S. government shuts down",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/asia-markets-boj-tankan-index-rbi-india-rate-decision.html",
+      "published_at": "Wed, 01 Oct 2025 04:10:21 GMT",
+      "bullets": [
+        "• Gold prices surged 0.09% to hit a fresh record of $3,875.32 as of 11:04 a.m",
+        "• ET",
+        "• Japan's Nikkei 225 sunk 1.16%, while the broad based Topix was down 1.71%",
+        "• The Taiwan Weighted Index added 1.14% as healthcare and tech stocks powered the index's rise "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      }
+    },
+    {
+      "id": "cc6ff2222ff4",
+      "title": "‘Unprecedented in history’: global academic freedom group warns of dismantling in US",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/academic-freedom-us",
+      "published_at": "Wed, 01 Oct 2025 04:01:01 GMT",
+      "bullets": [
+        "• Academic Freedom Monitoring Project counted some 40 attacks against academic freedom in the US in the first half of 2025",
+        "• Report: Attacks range from the government’s revocation of research funds to the detention and attempted deportation of foreign scholars",
+        "• Report noted that the data points to a continued erosion of academic freedom "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      }
+    },
+    {
+      "id": "e49d46cc6cb7",
+      "title": "US government shuts down after Democrats refuse to back Republican funding plan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down",
+      "published_at": "Wed, 01 Oct 2025 04:00:51 GMT",
+      "bullets": [
+        "• The shutdown is the first since a 35-day closure that began in December 2018 and extended into the new year",
+        "• It comes as Democrats look to regain their footing with voters, who re-elected Trump last year and relegated them to the minority in both chambers of Congress "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
       }
     },
     {
@@ -32,24 +102,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "b41c0e9ccbfc",
-      "title": "Asia markets trade mixed after Wall Street shrugs off U.S. government shutdown concerns",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/asia-markets-boj-tankan-index-rbi-india-rate-decision.html",
-      "published_at": "Wed, 01 Oct 2025 03:06:26 GMT",
-      "bullets": [
-        "• Gold prices surged 0.09% to hit a fresh record of $3,875.32 as of 11:04 a.m",
-        "• ET",
-        "• Japan's Nikkei 225 sunk 1.16%, while the broad based Topix was down 1.71%",
-        "• The Taiwan Weighted Index added 1.14% as healthcare and tech stocks powered the index's rise "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -88,24 +140,6 @@
       }
     },
     {
-      "id": "a52ce851e57f",
-      "title": "U.S. government will shut down after midnight as Congress fails to pass funding bills",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-      "published_at": "Wed, 01 Oct 2025 01:59:30 GMT",
-      "bullets": [
-        "• The U.S",
-        "• government will shut down just after midnight on Wednesday",
-        "• Republicans and Democrats refused to budge from their opposing positions on a funding deal to avoid a shutdown",
-        "• A key sticking point was Democrats' insistence on including the extension of enhanced Affordable Care Act tax credits "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
       "id": "69f340f5597d",
       "title": "No more scribbling: Indian court tells doctors to fix their handwriting",
       "outlet": "BBC News",
@@ -141,23 +175,6 @@
       }
     },
     {
-      "id": "303218b3cfbd",
-      "title": "US on brink of government shutdown after Senate rejects funding plans",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
-      "published_at": "Wed, 01 Oct 2025 01:14:18 GMT",
-      "bullets": [
-        "• The US government is on the brink of a shutdown after the Senate rejects competing plans to extend funding beyond midnight",
-        "• Senate Democrats blocked legislation put forward by the Republican majority to fund the government through 21 November",
-        "• Republicans united to stop a separate Democratic-backed measure that would have extended healthcare benefits and other priorities "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "c04103e5dc9d",
       "title": "Lithium Americas stock pops 35% as government takes a stake to boost Nevada project",
       "outlet": "US Top News and Analysis",
@@ -177,20 +194,20 @@
       }
     },
     {
-      "id": "5bcc6786fe4e",
-      "title": "Trump news at a glance: Shutdown a chance to ‘get rid of a lot of things we didn’t want’, says president",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/trump-administration-news-updates-today-latest",
-      "published_at": "Wed, 01 Oct 2025 00:26:13 GMT",
+      "id": "2b07c1005749",
+      "title": "Government shuts down after Congress fails to reach a funding agreement",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558456/government-shutdown-trump-house",
+      "published_at": "Wed, 01 Oct 2025 00:01:00 -0400",
       "bullets": [
-        "• Shutdown a chance to ‘get rid of a lot of things we didn’t want’, says president",
-        "• Senate Democrats voted down a Republican bill to keep funding the government, putting it on a near certain path to a shutdown",
-        "• Democrats refused to vote for the bill unless it included a series of concessions centred on healthcare "
+        "• Government shuts down after Congress fails to reach a funding agreement",
+        "• Republicans and Democrats failed to agree on a pair of dueling funding bills to keep the government open",
+        "• Critical services, including Social Security, VA benefits and Medicare and Medicaid payments, will continue, but people who need resources could face delays "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.876
+        "score": 0.992
       }
     },
     {
@@ -444,24 +461,6 @@
         "• The group is also said to object to the deployment of an International Stabilisation Force (ISF) in Gaza "
       ],
       "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "92b5d1e4fcb9",
-      "title": "Here's what a shutdown means for Smithsonian museums, memorials and the zoo",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5558189/government-shutdown-smithsonian-zoo",
-      "published_at": "Tue, 30 Sep 2025 14:29:01 -0400",
-      "bullets": [
-        "• Smithsonian Institution receives about 62% of its budget from the federal government",
-        "• The National Zoo and the Smithsonian Conservation Biology Institute may face closure",
-        "• The Smithsonian says it will use prior-year funds to remain open to the public",
-        "• Zoo webcams will be turned off if a government shutdown occurs "
-      ],
-      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.999
