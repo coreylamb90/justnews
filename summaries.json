@@ -1,6 +1,21 @@
 {
-  "generated_at": "2025-10-01T21:28:59Z",
+  "generated_at": "2025-10-01T21:47:37Z",
   "items": [
+    {
+      "id": "b290c4b0faad",
+      "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in out of office email notes – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 21:35:24 GMT",
+      "bullets": [
+        "• The calculation includes salaries, supplies, food, lodging and other costs associated with the deployment of 200 guard members to Portland for 60 days based on the president’s false claim that a small protest outside an Immigration and Customs Enforcement office in the city makes the entire city “look like a war zone”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
     {
       "id": "7153564c8df3",
       "title": "Israeli naval ships intercept Gaza-bound flotilla",
@@ -15,22 +30,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in out of office email notes – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 20:59:11 GMT",
-      "bullets": [
-        "• White House warns layoffs are imminent if shutdown drags on",
-        "• White House says government agencies are already preparing for cuts and “layoffs are imminent” Corey Lewandowski, a former Trump campaign manager, said it was “shameful” that Puerto Rican super star Bad Bunny was headlining the 2026 Super Bowl halftime show "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -770,6 +769,24 @@
       }
     },
     {
+      "id": "d8a65aba95d7",
+      "title": "Instagram tests opening right onto Reels",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790255/instagram-test-reels-home-tab",
+      "published_at": "2025-10-01T17:39:00-04:00",
+      "bullets": [
+        "• Instagram is making Reels and DMs the first two tabs of the app",
+        "• The change is part of an opt-in test in India",
+        "• Photos from Instagram accounts will still be included in the new tab",
+        "• The home tab will be similar to what you see on the iPad "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
       "id": "2e55df1e1802",
       "title": "Trump&#8217;s solution for high drug prices is a discount portal called TrumpRx",
       "outlet": "The Verge",
@@ -835,23 +852,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.948
-      }
-    },
-    {
-      "id": "72b1df64384d",
-      "title": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
-      "published_at": "2025-10-01T13:13:30-04:00",
-      "bullets": [
-        "• Instagram head Adam Mosseri made a “myth busting” video attempting to set the record straight on a persistent rumor about Meta",
-        "• “I swear, we do not listen to your microphone,” he says",
-        "• In a 2018 Senate hearing, CEO Mark Zuckerberg responded to the question on the topic with a direct “no” response "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     }
   ]
