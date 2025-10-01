@@ -1,22 +1,122 @@
 {
-  "generated_at": "2025-10-01T16:39:01Z",
+  "generated_at": "2025-10-01T17:29:26Z",
   "items": [
+    {
+      "id": "8c9bc22d4dd6",
+      "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
+      "published_at": "Wed, 01 Oct 2025 17:12:56 GMT",
+      "bullets": [
+        "• Federal Reserve Governor Lisa Cook is allowed to remain in her post pending oral arguments in January on whether President Donald Trump has legal cause to fire her",
+        "• Trump has cited claims that Cook committed mortgage fraud as his reason for firing her",
+        "• Cook denies any wrongdoing in connection with statements she made before joining the Fed in applying for mortgages "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      }
+    },
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: Senate votes down Democratic continuing resolution as speaker says House will return next week",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 16:18:37 GMT",
+      "published_at": "Wed, 01 Oct 2025 17:02:42 GMT",
       "bullets": [
-        "• US Senate votes down Democratic continuing resolution to fund government",
-        "• Senate votes 47-53, with all Republicans opposed, to reject Democrats’ counterproposal",
-        "• Upper chamber now voting on House-passed Republican short-term spending bill",
-        "• House of Representatives will not return to Washington until next week "
+        "• Senate votes 55-45 against Republican bill with three Democrats crossing party lines to support measure",
+        "• Senate needed 60 votes to pass bill that would fund government for another seven weeks until 21 November",
+        "• Three Republicans voted against the measure, including Rand Paul of Kentucky "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.981
+      }
+    },
+    {
+      "id": "4f1176997918",
+      "title": "‘A righteous fight’: Democrats hold fast on healthcare but also use shutdown to pummel Trump",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/democrats-republicans-government-shutdown",
+      "published_at": "Wed, 01 Oct 2025 16:58:08 GMT",
+      "bullets": [
+        "• Democrats balked to vote for a Republican plan to keep the government open through mid-November, and instead laid out a series of demands that amounted to the undoing of much of what the GOP has accomplished over the past year",
+        "• It was a nonstarter for Republicans and, after days of bluster and fruitless voting, the government tipped into a shutdown just after midnight on Wednesday "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "3ea4b226c707",
+      "title": "Federal Reserve governor will keep job for now despite Trump’s bid to remove her",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
+      "published_at": "Wed, 01 Oct 2025 16:57:31 GMT",
+      "bullets": [
+        "• Donald Trump has launched an unprecedented campaign to exert greater control over the Fed",
+        "• The president tried to remove the Fed chief from his post in August, citing unconfirmed allegations of mortgage fraud dating back to before she joined the Fed in 2022",
+        "• The US supreme court deferred action on the request to allow the president to fire Cook, at least until January "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      }
+    },
+    {
+      "id": "9363e20d2e6d",
+      "title": "Afghans rejoice as internet returns after Taliban blackout",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 16:40:45 GMT",
+      "bullets": [
+        "• Afghans rejoice as internet returns after Taliban government shuts down internet services",
+        "• The hardline Islamist group has not given an official explanation for the shutdown",
+        "• The 48-hour blackout disrupted businesses and flights, limited access to emergency services and raised fears about further isolating women and girls "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "debe65fa1426",
+      "title": "Israel 'tightens siege' of Gaza City as Hamas reviews Trump peace plan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgnznkjrx6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 16:38:26 GMT",
+      "bullets": [
+        "• Israel's defence minister issues final warning to Gaza City residents to evacuate",
+        "• 45 people killed by Israeli fire in Gaza City on Wednesday, Red Cross forced to suspend operations there",
+        "• Israel has described Gaza City as Hamas's \"last stronghold\" and said offensive aims to ensure group's \"decisive defeat\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "883236634d78",
+      "title": "Leon Cooperman says we've reached the stage of the bull market that Warren Buffett warned about",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/leon-cooperman-says-weve-reached-the-stage-of-the-bull-market-that-warren-buffett-warned-about.html",
+      "published_at": "Wed, 01 Oct 2025 16:33:00 GMT",
+      "bullets": [
+        "• Longtime investor Leon Cooperman believes we are in the late innings of a bull market where bubbles can form and risks rise",
+        "• Warren Buffett warned in 1999 that bull markets often end when valuations are stretched and irrational exuberance is rampant",
+        "• The S&P 500 has surged almost 40% since April lows, returning to all-time highs "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.813
       }
     },
     {
@@ -37,24 +137,6 @@
       }
     },
     {
-      "id": "8c9bc22d4dd6",
-      "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
-      "published_at": "Wed, 01 Oct 2025 16:14:16 GMT",
-      "bullets": [
-        "• Supreme Court allows Fed Governor Lisa Cook to remain in her post pending oral arguments in January",
-        "• Trump has repeatedly asked federal courts to allow him to terminate Cook from the Fed's Board of Governors without delay",
-        "• The White House has cited claims that Cook committed mortgage fraud as his reason for firing her",
-        "• Cook denies any wrongdoing in connection with statements she made in applying for mortgages on two homes she owns in Michigan and Georgia "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.804
-      }
-    },
-    {
       "id": "08040004be73",
       "title": "White House puts hold on $18bn for New York rail tunnel and subway expansion",
       "outlet": "US news | The Guardian",
@@ -68,23 +150,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.977
-      }
-    },
-    {
-      "id": "3ea4b226c707",
-      "title": "Federal Reserve governor will keep her job despite Trump’s bid to remove her",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
-      "published_at": "Wed, 01 Oct 2025 16:03:52 GMT",
-      "bullets": [
-        "• Donald Trump's bid to remove US Federal Reserve chief is deferred until January",
-        "• Trump has been trying to exert greater control over the central bank's board of governors",
-        "• He is the first president to fire a Fed official in an attempt to remove her from the post "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
       }
     },
     {
@@ -122,22 +187,6 @@
       }
     },
     {
-      "id": "3133d34e9c15",
-      "title": "‘This is their shutdown’: Democrats and Republicans blame each other as government closes down",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/government-shutdown-reactions",
-      "published_at": "Wed, 01 Oct 2025 15:45:44 GMT",
-      "bullets": [
-        "• Democratic leaders say the blame for the shutdown lies solely with Donald Trump and the Republicans",
-        "• Chuck Schumer: “We’re going to say, ‘Go tell Trump he’s the one doing it.” Republicans say Democrats have prioritized taxpayer-funded benefits for illegals "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
       "id": "930b1c25f153",
       "title": "UK once again demands backdoor to Apple’s encrypted cloud storage",
       "outlet": "Ars Technica - All content",
@@ -168,42 +217,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "9363e20d2e6d",
-      "title": "Afghans rejoice as internet returns after Taliban blackout",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 15:28:38 GMT",
-      "bullets": [
-        "• Afghans rejoice as internet returns after Taliban government shut them down",
-        "• Local reporters say communications are resuming across provinces",
-        "• The government has not given an official explanation for the shutdown",
-        "• Last month a Taliban spokesman said internet access was being blocked \"for the prevention of vices\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "debe65fa1426",
-      "title": "Israel 'tightens siege' of Gaza City as Hamas reviews Trump peace plan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgnznkjrx6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 15:04:39 GMT",
-      "bullets": [
-        "• Israel 'tightens siege' of Gaza City as Hamas reviews US peace plan",
-        "• Defence minister warns thousands of Palestinians to evacuate southwards",
-        "• 45 people killed by Israeli fire in Gaza City on Wednesday, ICRC says",
-        "• Israel says offensive aims to secure release of 48 hostages still held by Hamas "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
@@ -261,21 +274,36 @@
       }
     },
     {
-      "id": "fc5c8e9f22a8",
-      "title": "Amazon launches 'price-conscious' grocery brand with most products under $5",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/amazon-grocery-under-5-dollars.html",
-      "published_at": "Wed, 01 Oct 2025 13:50:13 GMT",
+      "id": "4e7e0823e31f",
+      "title": "What will Congress do after the shutdown? We asked a Republican and a Democrat",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91462/federal-government-shutdown-republicans-democrats-negotiation",
+      "published_at": "Wed, 01 Oct 2025 13:02:33 -0400",
       "bullets": [
-        "• Amazon launches a new grocery brand aimed at \"price-conscious\" shoppers",
-        "• The new offering includes more than 1,000 items priced under $5",
-        "• It's not the first time Amazon has experimented with a budget-friendly grocery brand",
-        "• The move comes as Amazon's grocery business is in flux "
+        "• Most of the federal government is shut down after Senate Republicans and Democrats failed to reach a funding agreement to keep it open",
+        "• Democrats wanted to extend Affordable Care Act subsidies used to make health insurance premiums more affordable",
+        "• Republicans said they wanted to discuss extending the credits after reaching an agreement to fund the government "
       ],
-      "category": "Business",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.995
+      }
+    },
+    {
+      "id": "223e824e94fd",
+      "title": "The BET Hip Hop Awards cut the cord as DEI dies",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91314/bet-hip-hop-awards-dei-archival-history",
+      "published_at": "Wed, 01 Oct 2025 13:01:40 -0400",
+      "bullets": [
+        "• The BET Hip Hop Awards has been suspended as cultural history more broadly faces erasure at the institutional level",
+        "• The network hasn't pulled the plug outright; \"suspended\" is how BET's CEO Scott Mills described the current state of both its hip-hop and Soul Train award show franchises in an interview with Billboard "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -293,6 +321,24 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.6
+      }
+    },
+    {
+      "id": "ed8f77640bdb",
+      "title": "Trump's controversial nominee drops bid to head vital data-gathering agency",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559284/trumps-controversial-nominee-drops-bid-to-head-vital-data-gathering-agency",
+      "published_at": "Wed, 01 Oct 2025 12:34:16 -0400",
+      "bullets": [
+        "• E.J",
+        "• Antoni's nomination to head the Bureau of Labor Statistics was widely criticized",
+        "• The BLS produces some of the government's most closely-watched economic reports",
+        "• Critics said Antoni was too partisan and inexperienced to hold such an important role in government "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.89
       }
     },
     {
@@ -336,20 +382,19 @@
       "url": "https://www.npr.org/2025/10/01/nx-s1-5556920/trump-fed-governor-fire-lisa-cook",
       "published_at": "Wed, 01 Oct 2025 11:14:27 -0400",
       "bullets": [
-        "• Supreme Court blocks President Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-        "• That means Cook can stay in her job at least until the high court hears arguments in January",
-        "• Critics had warned that allowing Cook to fire would have trampled on decades of research showing central banks function best when they're allowed to operate without political interference "
+        "• Supreme Court says Federal Reserve Governor Lisa Cook can stay in her job at least until the high court hears oral arguments in January",
+        "• Critics had warned that allowing Trump to fire Cook would have trampled on decades of research showing central banks function best when they're allowed to operate without meddling from politicians "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.989
       }
     },
     {
       "id": "c3fbd41e8a95",
       "title": "Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5559223/committee-for-the-first-amendment-jane-fonda-billie-eilish-pedro-pascal-gracie-abrams",
       "published_at": "Wed, 01 Oct 2025 11:08:58 -0400",
       "bullets": [
@@ -357,7 +402,7 @@
         "• The Committee for the First Amendment was founded in the 1940s to oppose the infamous House Un-American Activities Committee",
         "• The current group is headlined by Jane Fonda, whose father was one of the early members "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.871
@@ -398,40 +443,6 @@
       }
     },
     {
-      "id": "b8ae7b49510b",
-      "title": "PEN America warns of rise in books 'systematically removed from school libraries'",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5559158/book-bans-challenges-pen-america",
-      "published_at": "Wed, 01 Oct 2025 08:56:20 -0400",
-      "bullets": [
-        "• PEN America released its list of the most-banned books of the 2024-2025 school year",
-        "• The group counted 6,870 bans during the past academic year",
-        "• That's down from 10,046 in the past two years, but it's still a sharp rise from 3,000 in 2021-2023",
-        "• PEN calls it a \"disturbing normalization of censorship\""
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.935
-      }
-    },
-    {
-      "id": "4d29e956299f",
-      "title": "Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5554518/video-ukraine-zelenskyy-maidan-postcard",
-      "published_at": "Wed, 01 Oct 2025 08:41:14 -0400",
-      "bullets": [
-        "• The Maidan, Kyiv's Independence Square, has been the heart of political change in Ukraine for more than two decades",
-        "• In 2004, a cop climbed on stage, knelt, and kissed the flag; a decade later, riot police snipers opened fire on demonstrators carrying wooden shields and European Union flags "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.984
-      }
-    },
-    {
       "id": "2f09d0b29f87",
       "title": "What happens now that the government has shut down. And, a pricing deal with Pfizer",
       "outlet": "NPR Topics: Politics",
@@ -450,22 +461,20 @@
       }
     },
     {
-      "id": "c13505a62d6b",
-      "title": "Rep. Mike Haridopolos, R-Fla., talks about the government shutdown",
+      "id": "9c1ecb74581e",
+      "title": "Government shutdown begins after Congress fails to agree on spending bill",
       "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558079/rep-mike-haridopolos-r-fla-talks-about-the-government-shutdown",
-      "published_at": "Wed, 01 Oct 2025 06:31:36 -0400",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558013/government-shutdown-begins-after-congress-fails-to-agree-on-spending-bill",
+      "published_at": "Wed, 01 Oct 2025 06:31:41 -0400",
       "bullets": [
-        "• Rep",
-        "• Mike Haridopolos, R-Fla., talks about the government shutdown",
-        "• NPR speaks with him about the shutdown",
-        "• Listen to the full transcript of this week's episode of Morning Edition on NPR's \"This Morning Edition\" at 7 p.m",
-        "• ET "
+        "• Government shutdown begins after Congress fails to agree on spending bill",
+        "• Much of the federal government shut down Wednesday after Congress failed to reach a deal to keep government programs and services running",
+        "• In a few minutes, we'll speak with Republican Congressman Mike Haridopolos about how to break the deadlock "
       ],
       "category": "Politics",
       "sentiment": {
-        "label": "positive",
-        "score": 0.887
+        "label": "negative",
+        "score": 0.996
       }
     },
     {
@@ -604,6 +613,22 @@
       }
     },
     {
+      "id": "e1fa1804fa80",
+      "title": "What to know about the missions just launched in NASA's cosmic carpool",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/09/27/nx-s1-5553628/what-to-know-about-the-missions-just-launched-in-nasas-cosmic-carpool",
+      "published_at": "Sat, 27 Sep 2025 17:15:19 -0400",
+      "bullets": [
+        "• All Things From The Heart of the Sun is available on CNN.com's iReport.com.com with details of the latest developments in space travel.com",
+        "• The world's largest telescope in the world's history is now orbiting the sun, and scientists say it could be used to study the solar system "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.71
+      }
+    },
+    {
       "id": "6ba3a9c29a03",
       "title": "Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week",
       "outlet": "NPR Topics: Science",
@@ -638,22 +663,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "f5efe52e2a82",
-      "title": "Meteorite collectors gather in Cincinnati this weekend for 'Meet a Meteorite'",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5551160/meteorite-collectors-gather-in-cincinnati-this-weekend-for-meet-a-meteorite",
-      "published_at": "Sat, 27 Sep 2025 07:45:18 -0400",
-      "bullets": [
-        "• Meteorite collectors gather in Cincinnati this weekend for 'Meet a Meteorite' The rocks that hurtle from outer space and make it to Earth get a moment to shine",
-        "• At the Cincinnati Observatory later today, collectors will be showing off some of their treasures "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
       }
     },
     {
@@ -742,6 +751,58 @@
       }
     },
     {
+      "id": "72b1df64384d",
+      "title": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
+      "published_at": "2025-10-01T13:13:30-04:00",
+      "bullets": [
+        "• Instagram head Adam Mosseri made a ‘myth busting’ video attempting to set the record straight on a persistent rumor about Meta",
+        "• “I swear, we do not listen to your microphone,” he says",
+        "• “We do not use your microphone unless you've given us permission, and even then, we only use it when you’re actively using a feature that requires the microphone "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "b8762ce559df",
+      "title": "The UK&#8217;s war on Apple encryption is back",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor",
+      "published_at": "2025-10-01T13:13:18-04:00",
+      "bullets": [
+        "• A new secret order has reportedly been issued, this time specifically targeting British citizens’ private iCloud data",
+        "• The UK government is reportedly once again demanding that Apple provide it with backdoor access to encrypted iCloud user data",
+        "• This follows the UK issuing a broader secret order in January demanding Apple create a backdoor for security officials to access global encrypted user files",
+        "• Apple responded by filing an appeal and removing a feature, Advanced Data Protection "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "70e472bd139c",
+      "title": "Microsoft’s Windows XP Crocs are here",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789982/microsoft-windows-xp-crocs-launch",
+      "published_at": "2025-10-01T13:03:50-04:00",
+      "bullets": [
+        "• Microsoft has officially debuted its Windows XP-themed Crocs, which feature a design inspired by the classic operating system’s “Bliss” wallpaper",
+        "• The nostalgic kicks come with a shoe charm of Clippy and the Internet Explorer logo",
+        "• Microsoft is holding a sweepstakes on its Instagram account for a chance to win a pair of the shoes "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      }
+    },
+    {
       "id": "7150c7fb0d8b",
       "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus",
       "outlet": "The Verge",
@@ -778,55 +839,6 @@
       }
     },
     {
-      "id": "52c805192204",
-      "title": "Ford and GM are buying their own EVs to keep the $7500 tax credit alive",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive",
-      "published_at": "2025-10-01T11:55:12-04:00",
-      "bullets": [
-        "• Ford and GM are working with dealers on short-term programs that would allow customers to continue to receive the tax credit on leased EVs through the rest of the year",
-        "• The automakers are hoping to soften the blow on car shoppers and keep up the momentum that many dealers saw in recent weeks "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.837
-      }
-    },
-    {
-      "id": "a5729259d234",
-      "title": "FTC accuses Zillow of paying $100 million to &#8216;dismantle&#8217; Redfin",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws",
-      "published_at": "2025-10-01T11:48:18-04:00",
-      "bullets": [
-        "• FTC accuses Zillow of paying $100 million to ‘dismantle’ Redfin as a competitor",
-        "• Federal Trade Commission is suing the companies saying their “partnership” violates antitrust laws",
-        "• As part of that deal, Redfin also agreed to end its existing contracts with advertising customers "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "45f31559cfcf",
-      "title": "Sony brings audio sharing to its flagship noise-canceling headphones",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
-      "published_at": "2025-10-01T11:37:22-04:00",
-      "bullets": [
-        "• Sony is adding support for audio sharing and Google’s Gemini Live conversational AI assistant to its premium noise-canceling headphones",
-        "• The features are being added as part of new firmware updates for the two year old Sony WF-1000XM5 wireless earbuds and the Sony WH-1000X6 wireless headphones "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.709
-      }
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -841,23 +853,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
