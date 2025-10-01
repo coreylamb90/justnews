@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-10-01T14:33:50Z",
+  "generated_at": "2025-10-01T14:53:59Z",
   "items": [
+    {
+      "id": "2aed3554c845",
+      "title": "Trump administration freezes $18 billion in New York City infrastructure projects, Vought says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/trump-new-york-funding-infrastructure-vought.html",
+      "published_at": "Wed, 01 Oct 2025 14:46:32 GMT",
+      "bullets": [
+        "• The funding is earmarked for the Hudson River Tunnel Project and the Second Avenue Subway project",
+        "• It was not immediately clear what triggered the freeze on that basis",
+        "• The announcement came on the first day of the shutdown of the U.S",
+        "• government "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "2aa750322495",
+      "title": "Munich Oktoberfest to re-open after fatal house fire and bomb threat",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3rv2pv20rvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 14:45:35 GMT",
+      "bullets": [
+        "• Theresienwiese will re-open at 17:30 (15:30 GMT) after being closed for much of the day",
+        "• The venue has been the venue for more than 200 years",
+        "• It was shut while investigators probed a potential bomb threat linked to a house fire",
+        "• A 57-year-old man is suspected of starting the fire as part of a family dispute",
+        "• His body was later found at a nearby lake and police said he was carrying an explosive device "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "40f75f4c1555",
+      "title": "Private payrolls declined in September by 32,000 in key ADP report coming amid shutdown data blackout",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html",
+      "published_at": "Wed, 01 Oct 2025 14:36:20 GMT",
+      "bullets": [
+        "• Private payrolls dropped 32,000 jobs in September, the biggest drop since March 2023, ADP reported Wednesday",
+        "• The data comes as the government shutdown continues and the Bureau of Labor Statistics' payrolls report for September will not be released",
+        "• The August payrolls number was revised to a loss of 3,000 from an initially reported increase of 54,000 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 14:34:31 GMT",
+      "bullets": [
+        "• US government shutdown: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
+        "• They say Republicans shut down government ‘because they do not want to protect the American people’ They said their party remained willing to “find a bipartisan path forward to reopen the government”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
     {
       "id": "5c49189c6c48",
       "title": "Judges to hear Texas redistricting challenge giving Republicans five seats",
@@ -70,6 +140,24 @@
       }
     },
     {
+      "id": "bec6d9bdb820",
+      "title": "Hands-on with Fallout 76’s next expansion: Yep, it has Walton Goggins",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gaming/2025/10/hands-on-with-fallout-76s-next-expansion-yep-it-has-walton-goggins/",
+      "published_at": "Wed, 01 Oct 2025 14:00:47 +0000",
+      "bullets": [
+        "• Fallout 76 has been my favorite online multiplayer game since its launch",
+        "• I've been surprised that it has actually grown over the past seven years",
+        "• It's still not for everyone, and in some ways, it has fallen behind the times since 2018",
+        "• The success of the streaming TV show based on the game franchise has attracted new players "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      }
+    },
+    {
       "id": "b7c9170b770a",
       "title": "Border wall slicing through Arizona wildlife corridor begins construction: ‘A show of force for nothing’",
       "outlet": "US news | The Guardian",
@@ -84,22 +172,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.992
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 13:58:35 GMT",
-      "bullets": [
-        "• US government shutdown: ‘erratic’ and ‘unhinged’ Trump to blame for shutdown, say senior Democrats",
-        "• They say Republicans shut down government ‘because they do not want to protect the American people’ They said their party remained willing to “find a bipartisan path forward to reopen the government”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -121,23 +193,6 @@
       }
     },
     {
-      "id": "40f75f4c1555",
-      "title": "Private payrolls declined in September by 32,000 in key ADP report coming amid shutdown data blackout",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html",
-      "published_at": "Wed, 01 Oct 2025 13:47:26 GMT",
-      "bullets": [
-        "• Private payrolls dropped 32,000 jobs in September, the biggest drop since March 2023, ADP reported Wednesday",
-        "• The data comes as the government shutdown continues and the Bureau of Labor Statistics' payrolls report for September will not be released",
-        "• The August payrolls number was revised to a loss of 3,000 from an initially reported increase of 54,000 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
       "id": "8abcd96821f3",
       "title": "Trump's threats against late-night TV could spell more trouble for advertisers",
       "outlet": "US Top News and Analysis",
@@ -155,19 +210,20 @@
       }
     },
     {
-      "id": "68866120d8ef",
-      "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2025 ranked",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/best-financial-advisors.html",
-      "published_at": "Wed, 01 Oct 2025 13:08:56 GMT",
+      "id": "dc4dcda194c6",
+      "title": "Google’s Gemini-powered smart home revamp is here with a new app and cameras",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/google/2025/10/googles-gemini-powered-smart-home-revamp-is-here-with-a-new-app-and-cameras/",
+      "published_at": "Wed, 01 Oct 2025 13:00:54 +0000",
       "bullets": [
-        "• CNBC created CNBC's Financial Advisor 100 in 2019 to recognize the country's best financial advisors and top financial advisory firms",
-        "• For 2025, the process began with 40,563 registered investment advisor firms, or RIAs, and that list was reduced to 1,015 that met CNBC's requirements "
+        "• Google launches a new Home app with AI-powered Gemini intelligence",
+        "• The app will allegedly gain deeper insights into what happens in your home, unlocking advanced video features and conversational commands",
+        "• The new app apparently boosts speed and reliability, with camera feeds loading 70 percent faster and with 80 percent fewer app crashes "
       ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.958
+        "label": "neutral",
+        "score": 0.6
       }
     },
     {
@@ -198,24 +254,6 @@
         "• Air traffic control and law enforcement officers will continue to work through the shutdown",
         "• Americans planning to travel abroad could also be affected by delays",
         "• The shutdown is set to continue through October and beyond "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "2aa750322495",
-      "title": "Oktoberfest closed in Munich after fatal fire and bomb threat",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3rv2pv20rvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 12:00:22 GMT",
-      "bullets": [
-        "• Oktoberfest closed in Munich after fatal fire and bomb threat at a house rigged with explosives",
-        "• A badly injured man was found at a nearby lake and later died",
-        "• Emergency operation was under way in Lerchenau in northern Munich",
-        "• Police said potential links to other locations were being investigated "
       ],
       "category": "World",
       "sentiment": {
@@ -500,39 +538,6 @@
       }
     },
     {
-      "id": "46cba8b43049",
-      "title": "Alexa’s survival hinges on you buying more expensive Amazon devices",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/09/alexas-survival-hinges-on-you-buying-more-expensive-amazon-devices/",
-      "published_at": "Tue, 30 Sep 2025 22:15:57 +0000",
-      "bullets": [
-        "• Amazon unveils new Alexa+ devices at its Devices event in New York City",
-        "• Amazon's Alexa+ is supposed to be more conversational and more powerful than the original voice assistant",
-        "• The new devices are supposed to have the power to make Alexa+ as successful as possible "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "2d92b29390eb",
-      "title": "Critics slam OpenAI’s parental controls while users rage, “Treat us like adults”",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/09/critics-slam-openais-parental-controls-while-users-rage-treat-us-like-adults/",
-      "published_at": "Tue, 30 Sep 2025 21:30:58 +0000",
-      "bullets": [
-        "• Parents sued OpenAI over claims ChatGPT acted as a \"suicide coach\" for 16-year-old Adam Raine",
-        "• The lawsuit was filed by parents, Matthew and Maria Raine, alleging that \"ChatGPT killed my son\" The company says it has been consistently rolling out safety updates since the lawsuit "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "55cef71c85ca",
       "title": "Former DRC president Joseph Kabila sentenced to death in absentia",
       "outlet": "World news | The Guardian",
@@ -772,6 +777,23 @@
       }
     },
     {
+      "id": "6fe66bb9111a",
+      "title": "Apple&#8217;s next-gen Vision Pro revealed in new regulatory filing",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak",
+      "published_at": "2025-10-01T10:41:07-04:00",
+      "bullets": [
+        "• Apple has submitted a filing for a ‘Head Mounted Device’ that looks a lot like a new Vision Pro headset",
+        "• A new filing with the Federal Communications Commission seemingly confirms the company’s work on the new device",
+        "• It lists the upcoming headset under model number A3416 and says it will come with support for Wi-Fi 6, similar to the original Apple Vision Pro "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
       "id": "bf799eb6c01e",
       "title": "8BitDo’s fantastic Ultimate 2 controller is cheaper than ever",
       "outlet": "The Verge",
@@ -836,23 +858,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "27687292dbe5",
-      "title": "Ubisoft launches Vantage Studios subsidiary to develop its biggest franchises",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/789721/ubisoft-vantage-studios-subsidiary-assassins-creed-far-cry",
-      "published_at": "2025-10-01T09:50:37-04:00",
-      "bullets": [
-        "• Vantage Studios will be responsible for the Assassin’s Creed, Far Cry, and Rainbow Six series",
-        "• It includes studios in Montréal, Quebec, Sherbrooke, Saguenay, Barcelona, and Sofia",
-        "• The subsidiary will have two CEOs in Christophe Derennes and Charlie Guillemot "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.886
       }
     }
   ]
