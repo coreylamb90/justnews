@@ -1,6 +1,41 @@
 {
-  "generated_at": "2025-10-01T20:36:26Z",
+  "generated_at": "2025-10-01T20:50:23Z",
   "items": [
+    {
+      "id": "491ee41672a4",
+      "title": "Hyundai gives the Ioniq 5 a huge price cut for model-year 2026",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2025/10/hyundai-gives-the-ioniq-5-a-huge-price-cut-for-model-year-2026/",
+      "published_at": "Wed, 01 Oct 2025 20:27:49 +0000",
+      "bullets": [
+        "• Hyundai is giving the Ioniq 5 a huge price cut",
+        "• The cheapest version of the electric vehicle is still the SE RWD",
+        "• The price cuts for other versions are even greater",
+        "• But the cuts have only been applied to cars built in the US "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "Trump administration suggests ‘imminent’ layoffs as bipartisan group of senators seek way out of government shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 20:25:33 GMT",
+      "bullets": [
+        "• White House preparing for ‘imminent’ government shutdown",
+        "• Democrats in Congress had demanded an extension to expiring health care benefits in order to pass the bill to extend government funding",
+        "• Republicans in Congress refused, but offered a stopgap bill to keep government open for several weeks "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
     {
       "id": "152b95b17895",
       "title": "NASA employees on Artemis missions with SpaceX, Blue Origin to work through shutdown",
@@ -37,23 +72,6 @@
       }
     },
     {
-      "id": "b290c4b0faad",
-      "title": "Trump administration suggests ‘imminent’ layoffs as bipartisan group of senators seek way out of government shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 20:01:07 GMT",
-      "bullets": [
-        "• White House preparing for ‘imminent’ government shutdown",
-        "• Democrats in Congress had demanded an extension to expiring health care benefits in order to pass the bill to extend government funding",
-        "• Republicans in Congress refused, but offered a stopgap bill to keep government open for several weeks "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
       "id": "7153564c8df3",
       "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
       "outlet": "BBC News",
@@ -83,6 +101,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
+      }
+    },
+    {
+      "id": "fec419ae43f3",
+      "title": "Cable nostalgia persists as streaming gets more expensive, fragmented",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/10/cable-nostalgia-lives-on-as-streaming-gets-more-expensive-fragmented/",
+      "published_at": "Wed, 01 Oct 2025 19:30:59 +0000",
+      "bullets": [
+        "• TiVo's Q2 2025 Video Trends Report: North America points to growth in cord reviving",
+        "• The report is based on a survey conducted by an unspecified third-party survey service",
+        "• It defines traditional TV services as pay-TV platforms offering linear television via cable, satellite, or managed IPTV platforms "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
       }
     },
     {
@@ -307,42 +342,6 @@
       }
     },
     {
-      "id": "e40bab9947c1",
-      "title": "Trailer for del Toro’s Frankenstein is pure macabre mythology",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/culture/2025/10/trailer-for-del-toros-frankenstein-is-pure-macabre-mythology/",
-      "published_at": "Wed, 01 Oct 2025 16:31:08 +0000",
-      "bullets": [
-        "• Guillermo del Toro's new film Frankenstein has been released",
-        "• The film stars Oscar Isaac as the brilliant mad scientist Victor Frankenstein",
-        "• Del Toro has been telling interviewers for years about his enduring love for Mary Shelley's novel",
-        "• After several false starts, del Toro finally signed on to film his vision for Netflix in 2023 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.933
-      }
-    },
-    {
-      "id": "597a1adab12b",
-      "title": "Taiwan rejects Trump’s demand to shift 50% of chip manufacturing into US",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/taiwan-says-trump-cant-pressure-it-into-giving-up-half-its-chip-supply/",
-      "published_at": "Wed, 01 Oct 2025 16:19:11 +0000",
-      "bullets": [
-        "• Taiwan has no plans to move half its chip production to the U.S",
-        "• President Donald Trump has ordered it to do so",
-        "• Taiwan currently makes about 95 percent of the chips used in popular tech products",
-        "• The move is linked to the need to protect the country's semiconductor supply chain "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
       "id": "c3373967707c",
       "title": "Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla",
       "outlet": "NPR Topics: News",
@@ -369,22 +368,6 @@
         "• NPR visual series takes a look at the rhythm of cumbia",
         "• Cumbia's simple, yet contagious, rhythm absorbed local styles, morphed, and reinvented itself",
         "• It has become one of the most listened-to genres in the Americas "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "48fe4d56edd3",
-      "title": "Colombia: The birthplace of cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/01/nx-s1-5548566/cumbia-in-colombia",
-      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
-      "bullets": [
-        "• This is part of a special series, Cumbia Across Latin America, a visual report across six countries covering the people, places and cultures that keep this music genre alive",
-        "• The Caribbean coast of Colombia witnessed the birth of cumbia in the river system of the Mompos Depression, an immense wetland, and in a small mountain range known as Montes de María "
       ],
       "category": "General",
       "sentiment": {
@@ -423,6 +406,22 @@
       "sentiment": {
         "label": "negative",
         "score": 0.885
+      }
+    },
+    {
+      "id": "48fe4d56edd3",
+      "title": "Colombia: The birthplace of cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/01/nx-s1-5548566/cumbia-in-colombia",
+      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• This is part of a special series, Cumbia Across Latin America, a visual report across six countries covering the people, places and cultures that keep this music genre alive",
+        "• The Caribbean coast of Colombia witnessed the birth of cumbia in the river system of the Mompos Depression, an immense wetland, and in a small mountain range known as Montes de María "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
       }
     },
     {
@@ -775,12 +774,12 @@
       "bullets": [
         "• President Donald Trump is launching a new website that will let Americans buy medications at lower prices",
         "• The new website, called TrumpRx, is expected to launch in 2026 and will direct consumers to discounts on drugmakers’ online stores",
-        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for investing in manufacturing "
+        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for manufacturing "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.689
+        "label": "neutral",
+        "score": 0.591
       }
     },
     {
