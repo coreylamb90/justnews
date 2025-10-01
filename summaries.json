@@ -1,6 +1,73 @@
 {
-  "generated_at": "2025-10-01T20:50:23Z",
+  "generated_at": "2025-10-01T21:28:59Z",
   "items": [
+    {
+      "id": "7153564c8df3",
+      "title": "Israeli naval ships intercept Gaza-bound flotilla",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 21:11:48 GMT",
+      "bullets": [
+        "• Israeli navy intercepts ships carrying aid to Gaza, including climate campaigner Greta Thunberg",
+        "• Global Sumud Flotilla (GSF) described the interception as \"illegal\" and \"a brazen act of desperation\" Israeli Foreign Ministry said the flotilla had been informed it was violating a naval blockade "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in out of office email notes – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 20:59:11 GMT",
+      "bullets": [
+        "• White House warns layoffs are imminent if shutdown drags on",
+        "• White House says government agencies are already preparing for cuts and “layoffs are imminent” Corey Lewandowski, a former Trump campaign manager, said it was “shameful” that Puerto Rican super star Bad Bunny was headlining the 2026 Super Bowl halftime show "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "e748cb8c6360",
+      "title": "Vance uses false claims to pin shutdown blame on Democrats as White House warns of layoffs",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/jd-vance-government-shutdown-layoffs",
+      "published_at": "Wed, 01 Oct 2025 20:53:31 GMT",
+      "bullets": [
+        "• US vice-president used false claims to blame Democrats for the government shutdown",
+        "• He said: “We are going to have to lay some people off if the shutdown continues",
+        "• We don’t like that",
+        "• We’re going to do what we have to do to keep the American people’s essential services continuing to run.”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "c07f0e1174cd",
+      "title": "Conservationist Dame Jane Goodall dies aged 91",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 20:30:56 GMT",
+      "bullets": [
+        "• Jane Goodall died of natural causes while in California on a speaking tour of the US",
+        "• Her observations helped reveal how closely related humans are to chimpanzees",
+        "• Her discoveries \"revolutionised science\" and she was a \"tireless advocate for the protection and restoration of our natural world\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
     {
       "id": "491ee41672a4",
       "title": "Hyundai gives the Ioniq 5 a huge price cut for model-year 2026",
@@ -17,23 +84,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.983
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "Trump administration suggests ‘imminent’ layoffs as bipartisan group of senators seek way out of government shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 20:25:33 GMT",
-      "bullets": [
-        "• White House preparing for ‘imminent’ government shutdown",
-        "• Democrats in Congress had demanded an extension to expiring health care benefits in order to pass the bill to extend government funding",
-        "• Republicans in Congress refused, but offered a stopgap bill to keep government open for several weeks "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -69,23 +119,6 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.602
-      }
-    },
-    {
-      "id": "7153564c8df3",
-      "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 19:50:39 GMT",
-      "bullets": [
-        "• Israeli navy tells the Global Sumud Flotilla to change course",
-        "• Israel has not yet confirmed if the flotilla has reached its destination",
-        "• The Israeli Foreign Ministry said it was \"violating a lawful naval blockade\" that covers the area "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -224,22 +257,6 @@
       }
     },
     {
-      "id": "3ea4b226c707",
-      "title": "Federal Reserve governor will keep job for now despite Trump’s bid to remove her",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
-      "published_at": "Wed, 01 Oct 2025 18:10:54 GMT",
-      "bullets": [
-        "• Lisa Cook, the US Federal Reserve governor, will keep her job for now, despite Donald Trump's bid to remove her from the central bank’s board with immediate effect",
-        "• Trump has launched an unprecedented campaign to exert greater control over the Fed, lambasting the US central bank over its decisions "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.756
-      }
-    },
-    {
       "id": "02153d3af089",
       "title": "FCC chairman leads “cruel” vote to take Wi-Fi access away from school kids",
       "outlet": "Ars Technica - All content",
@@ -288,6 +305,25 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "55d2641a517f",
+      "title": "A new documentary about a dastardly worm and a heroic effort by Jimmy Carter",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/01/g-s1-91262/jimmy-carter-guinea-worm-president-dragon-television-amazon",
+      "published_at": "Wed, 01 Oct 2025 17:00:23 -0400",
+      "bullets": [
+        "• The President and the Dragon premieres on Amazon Prime Video Oct",
+        "• 1",
+        "• Documentary explores the effects of Guinea worm disease",
+        "• Former President Jimmy Carter made it his life's mission to eliminate the disease",
+        "• Guinea worm disease is spread through contaminated water and undercooked fish "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.973
       }
     },
     {
@@ -409,22 +445,6 @@
       }
     },
     {
-      "id": "48fe4d56edd3",
-      "title": "Colombia: The birthplace of cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/01/nx-s1-5548566/cumbia-in-colombia",
-      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
-      "bullets": [
-        "• This is part of a special series, Cumbia Across Latin America, a visual report across six countries covering the people, places and cultures that keep this music genre alive",
-        "• The Caribbean coast of Colombia witnessed the birth of cumbia in the river system of the Mompos Depression, an immense wetland, and in a small mountain range known as Montes de María "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      }
-    },
-    {
       "id": "90312a7df2a7",
       "title": "Jane Goodall, legendary primatologist, has died at age 91",
       "outlet": "NPR Topics: Science",
@@ -432,12 +452,13 @@
       "published_at": "Wed, 01 Oct 2025 14:28:16 -0400",
       "bullets": [
         "• Jane Goodall, a scientist whose studies of wild chimpanzees made her a household name, has died at the age of 91",
-        "• Goodall was fascinated by both her easy familiarity with the creatures as well as her groundbreaking discoveries that showed just how much chimps are like humans "
+        "• Her groundbreaking discoveries showed just how much chimps are like humans",
+        "• \"They kiss, embrace, hold hands, pat one another on the back,\" Goodall said "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.995
+        "score": 0.936
       }
     },
     {
@@ -525,23 +546,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.987
-      }
-    },
-    {
-      "id": "21ed1b5aa5af",
-      "title": "State of calamity in Philippines province as earthquake kills 69",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ced5pyjzej3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 09:19:59 GMT",
-      "bullets": [
-        "• At least 69 people have been killed and dozens injured after a powerful 6.9 magnitude earthquake struck the Philippines on Tuesday",
-        "• The province of Cebu, which suffered the brunt of the damage, declared a state of calamity early on Wednesday",
-        "• Thousands spent the night on the streets amid repeated aftershocks "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
