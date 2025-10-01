@@ -1,6 +1,40 @@
 {
-  "generated_at": "2025-10-01T11:28:13Z",
+  "generated_at": "2025-10-01T11:47:29Z",
   "items": [
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 11:26:54 GMT",
+      "bullets": [
+        "• US government shuts down after Democrats refuse to back Republican funding plan",
+        "• Hundreds of thousands of federal workers stood to be furloughed or laid off",
+        "• President Donald Trump said he had 'no choice' but to lay off federal workers",
+        "• Senate Democratic leader Chuck Schumer said Republicans were trying to ‘bully’ Democrats "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "6a6d0446d87e",
+      "title": "First Thing: US government shuts down after Democrats refuse to back Republican funding plan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/first-thing-us-government-shuts-down-after-democrats-refuse-to-back-republican-funding-plan",
+      "published_at": "Wed, 01 Oct 2025 11:15:54 GMT",
+      "bullets": [
+        "• The US government shut down on Wednesday, after Democrats refused to support a Republican plan to extend funding unless they were granted concessions on healthcare",
+        "• The GOP, which controls the Senate and the House of Representatives, refused their demands, and the Senate failed to advance both parties’ bills to keep funding going past midnight "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
     {
       "id": "90fc16b874b8",
       "title": "Mortgage refinance demand plunges 21%, as interest rates hit 3-week high",
@@ -32,24 +66,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.958
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 11:02:54 GMT",
-      "bullets": [
-        "• US government shuts down after Democrats refuse to back Republican funding plan",
-        "• Hundreds of thousands of federal workers stood to be furloughed or laid off",
-        "• President Donald Trump said he had 'no choice' but to lay off federal workers",
-        "• Senate Democratic leader Chuck Schumer said Republicans were trying to ‘bully’ Democrats "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -110,7 +126,7 @@
       "url": "https://www.bbc.com/news/articles/ced5pyjzej3o?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 01 Oct 2025 09:19:59 GMT",
       "bullets": [
-        "• At least 69 people have been killed and dozens injured after a powerful 6.9 magnitude earthquake struck the central Philippines on Tuesday",
+        "• At least 69 people have been killed and dozens injured after a powerful 6.9 magnitude earthquake struck the Philippines on Tuesday",
         "• The province of Cebu, which suffered the brunt of the damage, declared a state of calamity early on Wednesday",
         "• Thousands spent the night on the streets amid repeated aftershocks "
       ],
@@ -223,20 +239,22 @@
       }
     },
     {
-      "id": "74be3ce48bb5",
-      "title": "First closure of US government since 2018 begins after funding bill fails – as it happened",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Wed, 01 Oct 2025 06:29:50 GMT",
+      "id": "c13505a62d6b",
+      "title": "Rep. Mike Haridopolos, R-Fla., talks about the government shutdown",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558079/rep-mike-haridopolos-r-fla-talks-about-the-government-shutdown",
+      "published_at": "Wed, 01 Oct 2025 06:31:36 -0400",
       "bullets": [
-        "• US government shuts down for the first time in nearly seven years",
-        "• Democratic leaders Hakeem Jeffries and Chuck Schumer blame Donald Trump and Republicans for the shutdown",
-        "• The shutdown is the first since a 35-day closure that began in December 2018 and extended into early 2019 "
+        "• Rep",
+        "• Mike Haridopolos, R-Fla., talks about the government shutdown",
+        "• NPR speaks with him about the shutdown",
+        "• Listen to the full transcript of this week's episode of Morning Edition on NPR's \"This Morning Edition\" at 7 p.m",
+        "• ET "
       ],
-      "category": "US",
+      "category": "Politics",
       "sentiment": {
-        "label": "negative",
-        "score": 0.993
+        "label": "positive",
+        "score": 0.887
       }
     },
     {
@@ -748,6 +766,22 @@
       }
     },
     {
+      "id": "2440117dc7cf",
+      "title": "Apple asks judge to toss Musk&#8217;s lawsuit over ChatGPT on iPhone",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
+      "published_at": "2025-10-01T07:28:06-04:00",
+      "bullets": [
+        "• Apple's lawyers asked a federal judge to dismiss a lawsuit filed by Elon Musk’s companies xAI and X Corp",
+        "• The lawsuit was filed in August, accusing Apple of rigging App Store rankings against chatbots and apps competing with OpenAI, including Grok and X "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "a22814621e72",
       "title": "Peloton ushers in a new era with revamped hardware and AI",
       "outlet": "The Verge",
@@ -813,40 +847,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "c97a62b53d43",
-      "title": "Roland’s TR-1000 is its first analog drum machine in over 40 years",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909",
-      "published_at": "2025-10-01T03:00:00-04:00",
-      "bullets": [
-        "• The TR-1000 is Roland’s first analog drum machine in over 40 years",
-        "• It recreates 16 analog sound circuits from the 808 and the 909",
-        "• It pairs those authentic analog voices with digital ACB sound, FM percussion, PCM samples, and more "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "c41ff758b36a",
-      "title": "CNN Political Briefing",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
-      "published_at": null,
-      "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     }
   ]
