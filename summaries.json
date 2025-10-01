@@ -1,22 +1,72 @@
 {
-  "generated_at": "2025-10-01T10:52:12Z",
+  "generated_at": "2025-10-01T11:28:13Z",
   "items": [
+    {
+      "id": "90fc16b874b8",
+      "title": "Mortgage refinance demand plunges 21%, as interest rates hit 3-week high",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/mortgage-refinance-demand-plunges-21percent-as-interest-rates-hit-3-week-high.html",
+      "published_at": "Wed, 01 Oct 2025 11:10:29 GMT",
+      "bullets": [
+        "• After dropping to a three-year low two weeks ago, rates shot right back up again",
+        "• Total mortgage application volume dropped 12.7% last week compared with the previous week",
+        "• The drop was mostly driven by a pullback in refinance applications "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "68866120d8ef",
+      "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2025 ranked",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/best-financial-advisors.html",
+      "published_at": "Wed, 01 Oct 2025 11:09:13 GMT",
+      "bullets": [
+        "• CNBC created CNBC's Financial Advisor 100 in 2019 to recognize the country's best financial advisors and top financial advisory firms",
+        "• For 2025, the process began with 40,563 registered investment advisor firms, or RIAs, and that list was reduced to 1,015 that met CNBC's requirements "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.958
+      }
+    },
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 10:23:01 GMT",
+      "published_at": "Wed, 01 Oct 2025 11:02:54 GMT",
       "bullets": [
-        "• US government shutdown begins at midnight ET on 1 October",
-        "• Republicans and Democrats accuse each other of partisan politics as deadline passes",
-        "• Hundreds of thousands of federal workers will be furloughed or laid off if no deal is reached",
-        "• President Donald Trump said he had 'no choice' but to lay off federal workers "
+        "• US government shuts down after Democrats refuse to back Republican funding plan",
+        "• Hundreds of thousands of federal workers stood to be furloughed or laid off",
+        "• President Donald Trump said he had 'no choice' but to lay off federal workers",
+        "• Senate Democratic leader Chuck Schumer said Republicans were trying to ‘bully’ Democrats "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.994
+      }
+    },
+    {
+      "id": "80cd5c89da05",
+      "title": "Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/peloton-revamps-equipment-raises-prices-ahead-of-holidays-.html",
+      "published_at": "Wed, 01 Oct 2025 11:00:01 GMT",
+      "bullets": [
+        "• Peloton is relaunching its product assortment, introducing a commercial equipment line and raising prices for both subscriptions and hardware",
+        "• The revamped assortment includes better audio, processors and WiFi across all of its machines",
+        "• Its refreshed plus line will feature an AI-powered tracking camera, speakers and a 360-degree swivel screen "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.783
       }
     },
     {
@@ -24,7 +74,7 @@
       "title": "South African firebrand MP Malema convicted of firing a gun in public",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 10:13:43 GMT",
+      "published_at": "Wed, 01 Oct 2025 10:57:45 GMT",
       "bullets": [
         "• South African firebrand MP found guilty of firing a gun in public seven years ago",
         "• The offence carries a maximum sentence of 15 years in prison",
@@ -54,24 +104,6 @@
       }
     },
     {
-      "id": "1a3d3b7537f1",
-      "title": "Gold hits fresh all-time high as U.S. government shutdown dents risk appetite",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/gold-hits-record-high-as-us-government-shutdown-dents-risk-appetite-.html",
-      "published_at": "Wed, 01 Oct 2025 09:53:00 GMT",
-      "bullets": [
-        "• Gold prices soared to new highs on Wednesday as the U.S",
-        "• government entered its first shutdown in almost seven years",
-        "• The timing of the shutdown is significant, as critical jobs data due to be published on Friday will be delayed",
-        "• President Donald Trump has threatened to use the shutdown to cut \"a lot\" of federal employees "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      }
-    },
-    {
       "id": "21ed1b5aa5af",
       "title": "State of calamity in Philippines province as earthquake kills 69",
       "outlet": "BBC News",
@@ -86,23 +118,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.993
-      }
-    },
-    {
-      "id": "2aad2aa4cafd",
-      "title": "What is the drone wall that Europe wants to deter Russia?",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/what-is-the-drone-wall-that-europe-wants.html",
-      "published_at": "Wed, 01 Oct 2025 09:12:00 GMT",
-      "bullets": [
-        "• A drone wall is proposed to protect European airspace from drone incursions",
-        "• It would be a coordinated system that could detect, track and intercept UAVs that are seen to be violating European airspace",
-        "• Sweden, Norway, Estonia and Denmark have reported incursions in their airspace "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -139,6 +154,24 @@
       }
     },
     {
+      "id": "2f09d0b29f87",
+      "title": "What happens now that the government has shut down. And, a pricing deal with Pfizer",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/g-s1-91399/up-first-newsletter-government-shutdown-pete-hegseth-trump-military-pfizer-pricing-deal",
+      "published_at": "Wed, 01 Oct 2025 07:14:41 -0400",
+      "bullets": [
+        "• Government shutdown begins after Senate unable to reach agreement on two competing funding bills",
+        "• Some ethics experts say that could violate the Hatch Act, which is intended to keep politics out of government work",
+        "• The last government shutdown lasted 35 days and was the longest in U.S",
+        "• history "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "bdb91512c3c6",
       "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
       "outlet": "BBC News",
@@ -153,6 +186,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
+      }
+    },
+    {
+      "id": "9a5c772607e3",
+      "title": "Government shutdown could delay key economic reports at an especially sensitive time",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation",
+      "published_at": "Wed, 01 Oct 2025 07:00:00 -0400",
+      "bullets": [
+        "• Government shutdown could delay key economic reports at an especially sensitive time for the economy",
+        "• A key report on the job market will not be published on Friday, as scheduled, as a result of the government shutdown",
+        "• That means businesses and policymakers will be left guessing about the strength of the labor market at a time when the economy appears to be slowing "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -215,12 +265,12 @@
       "bullets": [
         "• Federal workers will not receive any pay while the shutdown continues",
         "• Air traffic controllers will continue to work, but they will not be paid until the end of the shutdown",
-        "• The shutdown is expected to affect travel, air travel and national parks across the country "
+        "• The impact of the government shutdown will also be felt in other areas, such as travel and security "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.985
       }
     },
     {
@@ -259,7 +309,7 @@
     {
       "id": "2a53923fa35e",
       "title": "A GOP push to restrict voting by overseas U.S. citizens continues before 2026 midterms",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5542344/overseas-active-duty-military-voting-uocava",
       "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -268,44 +318,10 @@
         "• GOP officials are pushing to block voting by citizens who've never lived in the United States",
         "• Advocates fear GOP-led lawsuits and proposals could drive down participation of overseas voters "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "7aea1a839f1f",
-      "title": "Fans of the mysterious Mothman bring its West Virginia hometown new life",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/g-s1-90648/mothman-festival-point-pleasant-west-virginia",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Every September, the streets in Point Pleasant, West Virginia, are taken over by Mothman",
-        "• The mysterious creature has inspired books, movies, podcasts and devoted fans",
-        "• It's local origins lie in a late-night sighting in 1966, when two young couples reported seeing a winged humanoid creature "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.967
-      }
-    },
-    {
-      "id": "49cd9aeac24f",
-      "title": "Poll: Agreement that political violence may be necessary to right the country grows",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Poll: Agreement that political violence may be necessary to right the country grows",
-        "• Three-in-10 people now say that Americans may have to resort to violence in order to get the country back on track",
-        "• That's up 11 points since April 2024, an increase driven by Democrats "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.547
       }
     },
     {
@@ -357,23 +373,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.693
-      }
-    },
-    {
-      "id": "68792c56e973",
-      "title": "Spirit Airlines on track for a $475 million bankruptcy lifeline",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/spirit-airlines-bankruptcy.html",
-      "published_at": "Wed, 01 Oct 2025 01:12:26 GMT",
-      "bullets": [
-        "• Spirit Airlines is making \"massive progress\" to revitalize the airline, its restructuring lawyer says",
-        "• The struggling budget airline has reached an agreement with some of its debtholders for up to $475 million in financing",
-        "• Spirit last month filed for its second Chapter 11 bankruptcy protection in less than a year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.969
       }
     },
     {
@@ -749,6 +748,24 @@
       }
     },
     {
+      "id": "a22814621e72",
+      "title": "Peloton ushers in a new era with revamped hardware and AI",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness",
+      "published_at": "2025-10-01T07:00:00-04:00",
+      "bullets": [
+        "• Peloton ushers in a new era with revamped hardware and AI",
+        "• The Cross Training Series is a total refresh of the company's product lineup",
+        "• The new lineup includes a new Bike, Bike Plus, Tread Plus, Row Plus, and Row Plus",
+        "• Peloton has been angling for a redemption arc since its status as a pandemic darling "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
+    {
       "id": "16c875f4ac4b",
       "title": "Brompton’s versatile Electric G folding e-bike is now available in the US",
       "outlet": "The Verge",
@@ -813,23 +830,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "b15efd5b2638",
-      "title": "All hail the new Fat Bear Champion",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789358/new-fat-bear-week-champion",
-      "published_at": "2025-09-30T21:10:31-04:00",
-      "bullets": [
-        "• The votes are in, and the winner of Fat Bear Week 2025 is the indomitable Bear 32, also known as Chunk",
-        "• Chunk captured voters’ hearts this year with his perseverance",
-        "• This year’s contenders got extra fat and healthy thanks to an enormous salmon run "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
       }
     },
     {
