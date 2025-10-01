@@ -1,12 +1,46 @@
 {
-  "generated_at": "2025-10-01T11:47:29Z",
+  "generated_at": "2025-10-01T13:00:55Z",
   "items": [
+    {
+      "id": "7ded6b705e7b",
+      "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 12:45:33 GMT",
+      "bullets": [
+        "• Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
+        "• Danish PM Mette Frederiksen: \"From a European perspective there is only one country",
+        "• willing to threaten us and that is Russia\" The incursions have become most acute for countries on the EU's eastern flank "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.916
+      }
+    },
+    {
+      "id": "40f75f4c1555",
+      "title": "Private payrolls declined in September by 32,000 in key ADP report coming amid shutdown data blackout",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html",
+      "published_at": "Wed, 01 Oct 2025 12:40:43 GMT",
+      "bullets": [
+        "• Private payrolls dropped 32,000 jobs in September, the biggest drop since March 2023",
+        "• The report comes as the government shutdown continues",
+        "• The Bureau of Labor Statistics' payrolls report for September will not be released, nor will the Labor Department put out the weekly jobless claims count on Thursday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 11:26:54 GMT",
+      "published_at": "Wed, 01 Oct 2025 12:36:23 GMT",
       "bullets": [
         "• US government shuts down after Democrats refuse to back Republican funding plan",
         "• Hundreds of thousands of federal workers stood to be furloughed or laid off",
@@ -14,6 +48,160 @@
         "• Senate Democratic leader Chuck Schumer said Republicans were trying to ‘bully’ Democrats "
       ],
       "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "90fc16b874b8",
+      "title": "Mortgage refinance demand plunges 21%, as interest rates hit 3-week high",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/mortgage-refinance-demand-plunges-21percent-as-interest-rates-hit-3-week-high.html",
+      "published_at": "Wed, 01 Oct 2025 12:32:39 GMT",
+      "bullets": [
+        "• Applications to refinance a home loan fell 21% for the week and were 16% higher than the same week one year ago",
+        "• The drop was mostly driven by a pullback in refinancing",
+        "• The average contract interest rate for 30-year fixed-rate mortgages increased to 6.46% from 6.34% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "e5f5415d78b4",
+      "title": "Jobs, travel, national parks - what impact will US shutdown have?",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 12:13:57 GMT",
+      "bullets": [
+        "• Federal workers will not receive any pay cheques while the shutdown continues",
+        "• Air traffic control and law enforcement officers will continue to work through the shutdown",
+        "• Americans planning to travel abroad could also be affected by delays",
+        "• The shutdown is set to continue through October and beyond "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "e49d46cc6cb7",
+      "title": "US government shuts down after Democrats refuse to back Republican funding plan",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down",
+      "published_at": "Wed, 01 Oct 2025 12:09:19 GMT",
+      "bullets": [
+        "• The shutdown is the first since a 35-day closure that began in December 2018 and extended into the new year",
+        "• It comes as Democrats look to regain their footing with voters, who re-elected Trump last year and relegated them to the minority in both chambers of Congress "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      }
+    },
+    {
+      "id": "80cd5c89da05",
+      "title": "Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/peloton-revamps-equipment-raises-prices-ahead-of-holidays-.html",
+      "published_at": "Wed, 01 Oct 2025 12:07:14 GMT",
+      "bullets": [
+        "• Peloton is relaunching its product assortment, introducing a commercial equipment line and raising prices for both subscriptions and hardware",
+        "• The revamped assortment includes better audio, processors and WiFi across all of its machines",
+        "• Its refreshed plus line will feature an AI-powered tracking camera, speakers and a 360-degree swivel screen "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.783
+      }
+    },
+    {
+      "id": "1a240301c246",
+      "title": "Miami deal for Trump library next to famous Freedom Tower angers critics",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/miami-deal-for-trump-library-angers-critics",
+      "published_at": "Wed, 01 Oct 2025 12:00:25 GMT",
+      "bullets": [
+        "• State of Florida votes to donate land for Donald Trump's presidential library",
+        "• Critics say it is a betrayal of Miami's famous El Refugio, a beacon of hope for immigrants",
+        "• Florida's Republican governor and three cabinet members voted unanimously on Tuesday "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "7b2a316ef481",
+      "title": "Golden retriever boyfriends and ick lists: gen Z’s dating rules are making them ‘constantly disappointed’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/01/gen-z-dating-rules",
+      "published_at": "Wed, 01 Oct 2025 12:00:24 GMT",
+      "bullets": [
+        "• Lea Veloso, 26, has an ever-growing ick list on her Notes app that she references whenever she starts seeing someone new",
+        "• It’s an ick if he doesn’t call his parents, sniffs every five seconds, is an unsuccessful DJ or is embarrassed to do karaoke",
+        "• “I think I’m constantly disappointed by real men.”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "bdb91512c3c6",
+      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 12:00:10 GMT",
+      "bullets": [
+        "• Donald Trump has made himself into a leader to whom it is hard to say no, says Bowen",
+        "• He says Hamas has 'three to four days' to decide whether to say yes or no to end the Gaza war",
+        "• Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "4494de752bc4",
+      "title": "Ford CEO Jim Farley eyes further improvements after five years of ‘surprises,’ including investor returns",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/ford-ceo-jim-farley.html",
+      "published_at": "Wed, 01 Oct 2025 11:41:28 GMT",
+      "bullets": [
+        "• Ford Motor CEO Jim Farley marks his fifth anniversary as CEO on Wednesday",
+        "• Farley has been working to make Ford more capital efficient, improve quality and grow profit margins",
+        "• He's optimistic about Ford continuing to improve overall performance and grow shareholder value",
+        "• \"I think there were certainly a lot of surprises,\" he says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "a8aefd9aff58",
+      "title": "In their own words: The Artemis II crew on the frenetic first hours of their flight",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/",
+      "published_at": "Wed, 01 Oct 2025 11:30:24 +0000",
+      "bullets": [
+        "• Astronaut Jeremy Hansen: \"There's enough time built in there to have a nap",
+        "• I’ve been practicing falling asleep",
+        "• So if the loops are quiet enough, and I get a minute, I'll try for a nap\" The Artemis II mission is NASA's first Moon mission in more than 50 years "
+      ],
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
         "score": 0.994
@@ -36,23 +224,6 @@
       }
     },
     {
-      "id": "90fc16b874b8",
-      "title": "Mortgage refinance demand plunges 21%, as interest rates hit 3-week high",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/mortgage-refinance-demand-plunges-21percent-as-interest-rates-hit-3-week-high.html",
-      "published_at": "Wed, 01 Oct 2025 11:10:29 GMT",
-      "bullets": [
-        "• After dropping to a three-year low two weeks ago, rates shot right back up again",
-        "• Total mortgage application volume dropped 12.7% last week compared with the previous week",
-        "• The drop was mostly driven by a pullback in refinance applications "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      }
-    },
-    {
       "id": "68866120d8ef",
       "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2025 ranked",
       "outlet": "US Top News and Analysis",
@@ -69,54 +240,21 @@
       }
     },
     {
-      "id": "80cd5c89da05",
-      "title": "Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/peloton-revamps-equipment-raises-prices-ahead-of-holidays-.html",
-      "published_at": "Wed, 01 Oct 2025 11:00:01 GMT",
-      "bullets": [
-        "• Peloton is relaunching its product assortment, introducing a commercial equipment line and raising prices for both subscriptions and hardware",
-        "• The revamped assortment includes better audio, processors and WiFi across all of its machines",
-        "• Its refreshed plus line will feature an AI-powered tracking camera, speakers and a 360-degree swivel screen "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.783
-      }
-    },
-    {
       "id": "a2d2960e555c",
       "title": "South African firebrand MP Malema convicted of firing a gun in public",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 01 Oct 2025 10:57:45 GMT",
       "bullets": [
-        "• South African firebrand MP found guilty of firing a gun in public seven years ago",
-        "• The offence carries a maximum sentence of 15 years in prison",
-        "• He was convicted of five offences, including unlawful possession of a firearm and reckless endangerment",
-        "• The case was postponed to January 20 "
+        "• Julius Malema found guilty of unlawful possession of a firearm and firing it in public",
+        "• The charges carry a minimum sentence of 15 years in prison",
+        "• Malema was convicted of hate speech less than two months ago",
+        "• He often lashes out at the white minority in a country where racial tensions still run high "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "057cbfa34900",
-      "title": "Veterans react to Hegseth’s ‘insulting’ address to generals and admirals",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/pete-hegseth-generals-speech-veterans-react",
-      "published_at": "Wed, 01 Oct 2025 10:00:22 GMT",
-      "bullets": [
-        "• Pete Hegseth's hour-long Ted talk-style address touched on physical fitness, the doctrine of lethality and the perils of DEI",
-        "• The attention came at the cost of respect, said retired army general Dana Pittard, a retired general "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
+        "score": 0.98
       }
     },
     {
@@ -137,36 +275,36 @@
       }
     },
     {
-      "id": "e49d46cc6cb7",
-      "title": "US government shuts down after Democrats refuse to back Republican funding plan",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down",
-      "published_at": "Wed, 01 Oct 2025 08:56:11 GMT",
+      "id": "4d29e956299f",
+      "title": "Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5554518/video-ukraine-zelenskyy-maidan-postcard",
+      "published_at": "Wed, 01 Oct 2025 08:41:14 -0400",
       "bullets": [
-        "• The shutdown is the first since a 35-day closure that began in December 2018 and extended into the new year",
-        "• It comes as Democrats look to regain their footing with voters, who re-elected Trump last year and relegated them to the minority in both chambers of Congress "
+        "• The Maidan, Kyiv's Independence Square, has been the heart of political change in Ukraine for more than two decades",
+        "• In 2004, a cop climbed on stage, knelt, and kissed the flag; a decade later, riot police snipers opened fire on demonstrators carrying wooden shields and European Union flags "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.977
+        "label": "positive",
+        "score": 0.984
       }
     },
     {
-      "id": "5c0cedc9d528",
-      "title": "What does a government shutdown mean and why is this year’s threat more serious?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/government-shutdown-explainer",
-      "published_at": "Wed, 01 Oct 2025 08:22:51 GMT",
+      "id": "81fbc4e572cf",
+      "title": "Where things stand with Trump's National Guard deployments",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5558457/portland-chicago-memphis-trump-national-guard",
+      "published_at": "Wed, 01 Oct 2025 08:05:25 -0400",
       "bullets": [
-        "• Much of the federal government officially began to shut down on Wednesday, after Congress failed to reach a funding agreement before the midnight deadline",
-        "• The shutdown will have a wide range of effects on government services and potentially the US economy",
-        "• Republicans put forward a stopgap measure to keep agencies open through 21 November, but Democrats have withheld their support "
+        "• The Trump administration has deployed or threatened to deploy National Guard troops in more than half a dozen American cities that it says are crime-ridden",
+        "• The announcements have led to protests, lawsuits and, in certain cases, open arms",
+        "• With so many cities, agencies and legal challenges in the mix, we break down where everything stands with deployments "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.989
       }
     },
     {
@@ -188,23 +326,6 @@
       }
     },
     {
-      "id": "bdb91512c3c6",
-      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 07:05:33 GMT",
-      "bullets": [
-        "• Donald Trump has made himself into a leader to whom it is hard to say no, says Bowen",
-        "• He says Hamas has 'three to four days' to decide whether to say yes or no to end the Gaza war",
-        "• Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
       "id": "9a5c772607e3",
       "title": "Government shutdown could delay key economic reports at an especially sensitive time",
       "outlet": "NPR Topics: News",
@@ -219,23 +340,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "7ded6b705e7b",
-      "title": "European leaders meet in high-security Danish summit after drone disruption",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 06:38:41 GMT",
-      "bullets": [
-        "• European leaders meet in high-security Danish summit after Russian incursions into EU airspace",
-        "• The incursions have become most acute for countries on the EU's eastern flank such as Poland and Estonia",
-        "• A number of member states have already backed plans for a multi-layered \"drone wall\" to detect and destroy Russian drones "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.824
       }
     },
     {
@@ -267,56 +371,6 @@
         "• Jimmy Kimmel and Stephen Colbert appear as guests on each other's shows Tuesday night",
         "• Kimmel's show was suspended temporarily on Sept",
         "• 7 after his monologue was \"ill-timed and insensitive\" Colbert's show is on CBS and Kimmel's ABC show on ABC "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "e5f5415d78b4",
-      "title": "Jobs, travel, national parks - what impact will US shutdown have?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 05:27:19 GMT",
-      "bullets": [
-        "• Federal workers will not receive any pay while the shutdown continues",
-        "• Air traffic controllers will continue to work, but they will not be paid until the end of the shutdown",
-        "• The impact of the government shutdown will also be felt in other areas, such as travel and security "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      }
-    },
-    {
-      "id": "5f1e6a70daa4",
-      "title": "Fool me once: the magical origin of the word hoax",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5557924/hoax-hocus-pocus-history",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• NPR's Word of the Week series delves into the curious, magical backstory of hoaxes",
-        "• The word \"hoax\" sprang like a rabbit out of a hat from the magician's incantation hocus pocus",
-        "• One theory suggests that it is a deliberate corruption of the Latin used as part of the Catholic Eucharistic liturgy "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "902df5a10784",
-      "title": "China's ride-hailing companies try to quell the smell in cars where some drivers sleep",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/g-s1-90295/china-ride-hailing-car-odor",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• China's ride-hailing companies try to quell the smell in cars where some drivers sleep",
-        "• The smell of economic hardship is in part the result of millions of Chinese being thrown out of work by the coronavirus pandemic and China's slowing economy "
       ],
       "category": "General",
       "sentiment": {
@@ -377,23 +431,6 @@
       }
     },
     {
-      "id": "23fc959e1928",
-      "title": "Warren Buffett is reportedly eyeing Berkshire Hathaway's biggest deal in three years",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/warren-buffett-is-reportedly-eyeing-berkshire-hathaways-biggest-deal-in-three-years.html",
-      "published_at": "Wed, 01 Oct 2025 01:16:35 GMT",
-      "bullets": [
-        "• Berkshire Hathaway is closing in on a deal to buy Occidental Petroleum's petrochemical unit OxyChem for roughly $10 billion",
-        "• The potential deal could be Berkshire's largest since it bought insurer Alleghany for $11.6 billion in 2022",
-        "• Buffett, 95, is stepping down as Berkshire CEO at the end of 2025 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.693
-      }
-    },
-    {
       "id": "0d9785bb8de7",
       "title": "Scientists just found the strongest signs of life on Mars yet",
       "outlet": "All Top News -- ScienceDaily",
@@ -428,31 +465,15 @@
       }
     },
     {
-      "id": "c84596d0c628",
-      "title": "The world's first carbon border tax will soon go live — shaking up global trade",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/carbon-border-tax-us-china-and-india-lash-out-at-eu-climate-policy.html",
-      "published_at": "Tue, 30 Sep 2025 23:04:28 GMT",
-      "bullets": [
-        "• The EU's Carbon Border Adjustment Mechanism (CBAM) will impose a cost on goods such as steel, fertilizers, cement, aluminum and hydrogen imported from outside the EU",
-        "• The U.S., China, India and Brazil are among the countries that have raised concerns about the policy "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.939
-      }
-    },
-    {
       "id": "aafbaf539041",
       "title": "The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents",
       "outlet": "Ars Technica - All content",
       "url": "https://arstechnica.com/culture/2025/09/ai-leadership-trump-posts-deepfakes-of-dems-calling-themselves-woke-pieces-of-s-t/",
       "published_at": "Tue, 30 Sep 2025 22:52:14 +0000",
       "bullets": [
-        "• AI poses an obvious danger to millennia-long human fight to find the truth",
-        "• Large language model \"hallucinations\" and vocal deepfakes have all had a blurring effect on facts",
-        "• In such a climate, our most senior elected officials have a special duty to model truth-seeking behavior and responsible AI use "
+        "• AI poses an obvious danger to the millennia-long human fight to find the truth",
+        "• Large language model \"hallucinations\" and vocal deepfakes have had a blurring effect on facts",
+        "• The danger is perhaps most acute in the political realm, where deepfake audio and video can make any politician say or appear to do anything "
       ],
       "category": "Technology",
       "sentiment": {
@@ -508,22 +529,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "a255bcc24dc5",
-      "title": "Researchers find a carbon-rich moon-forming disk around giant exoplanet",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/09/researchers-find-a-carbon-rich-moon-forming-disk-around-giant-exoplanet/",
-      "published_at": "Tue, 30 Sep 2025 21:14:15 +0000",
-      "bullets": [
-        "• James Webb Space Telescope has obtained a spectrum of the ring-forming disk around a giant super-Jupiter, and found that it's rich in small carbon-based molecules",
-        "• That's despite the fact that the star it's orbiting seems to have a planet forming disk that's mostly water "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.981
       }
     },
     {
@@ -766,87 +771,88 @@
       }
     },
     {
-      "id": "2440117dc7cf",
-      "title": "Apple asks judge to toss Musk&#8217;s lawsuit over ChatGPT on iPhone",
+      "id": "be36ee042106",
+      "title": "Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
-      "published_at": "2025-10-01T07:28:06-04:00",
+      "url": "https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses",
+      "published_at": "2025-10-01T08:30:00-04:00",
       "bullets": [
-        "• Apple's lawyers asked a federal judge to dismiss a lawsuit filed by Elon Musk’s companies xAI and X Corp",
-        "• The lawsuit was filed in August, accusing Apple of rigging App Store rankings against chatbots and apps competing with OpenAI, including Grok and X "
+        "• The second-generation Ray-Ban Meta smart glasses aren’t too different from the first",
+        "• The biggest change is that they have a better battery life, making them easier to rely on as a private set of speakers or an eye-level camera for an all-day adventure",
+        "• The glasses were fully charged when I put them on right before 9AM PT "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.969
       }
     },
     {
-      "id": "a22814621e72",
-      "title": "Peloton ushers in a new era with revamped hardware and AI",
+      "id": "9aa94817b271",
+      "title": "Oura adds colorful ceramic rings and charging case to lineup",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness",
-      "published_at": "2025-10-01T07:00:00-04:00",
+      "url": "https://www.theverge.com/news/787210/oura-ring-ceramic-charging-case-price-specs",
+      "published_at": "2025-10-01T08:00:00-04:00",
       "bullets": [
-        "• Peloton ushers in a new era with revamped hardware and AI",
-        "• The Cross Training Series is a total refresh of the company's product lineup",
-        "• The new lineup includes a new Bike, Bike Plus, Tread Plus, Row Plus, and Row Plus",
-        "• Peloton has been angling for a redemption arc since its status as a pandemic darling "
+        "• Oura adds colorful ceramic rings and charging case to lineup of smart rings",
+        "• The company is also introducing health panels for blood work, a recycling program, and multi-ring device support",
+        "• The ceramic rings start at $499, and will come in four colors: midnight, petal, tide, and cloud "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.996
       }
     },
     {
-      "id": "16c875f4ac4b",
-      "title": "Brompton’s versatile Electric G folding e-bike is now available in the US",
+      "id": "e0911164a835",
+      "title": "OpenAI made a TikTok for deepfakes, and it&#8217;s getting hard to tell what&#8217;s real",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us",
-      "published_at": "2025-10-01T05:59:19-04:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real",
+      "published_at": "2025-10-01T08:00:00-04:00",
       "bullets": [
-        "• The Brompton Electric G folding e-bike is now available to buy in the US starting at $4,950",
-        "• While it looks like a regular Brompton, it’s been scaled up with 20-inch wheels and an extended wheelbase",
-        "• The bike folds down small enough to be taken onto a train or hoisted into the back of a car "
+        "• OpenAI announced its new AI video- and audio-generation system, Sora 2, on Tuesday",
+        "• It's being released as a way for consumers to play around with a new AI tool",
+        "• It includes a social media app with the ability to create realistic videos of real people saying real things "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.988
+        "label": "positive",
+        "score": 0.687
       }
     },
     {
-      "id": "9481ccac8b6b",
-      "title": "Epic says it has proof Apple was scaring users off third-party app stores",
+      "id": "fd70ad49d9e2",
+      "title": "Allowing more tailpipe pollution means higher fuel costs for Americans",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789421/epic-games-store-ios-android-installations",
-      "published_at": "2025-10-01T05:00:23-04:00",
+      "url": "https://www.theverge.com/news/789136/ev-fuel-costs-poll-greenhouse-gas-endangerment-repeal",
+      "published_at": "2025-10-01T08:00:00-04:00",
       "bullets": [
-        "• Epic Games Store has seen an uptick in downloads since the EU’s Digital Markets Act prompted Apple to streamline its process for installing third-party app marketplaces",
-        "• EU commission raised concerns in April that “Apple makes it overly burdensome and confusing for end users to install apps when using alternative app distribution channels”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "515b74a5d078",
-      "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
-      "published_at": "2025-10-01T04:30:00-04:00",
-      "bullets": [
-        "• Wikipedia’s sister project Wikidata just got a new database that is easier for AI models to ingest",
-        "• The database comes from the Wikipedia Embedding Project out of the German chapter of the Wikimedia Foundation, Wikimedia Deutschland",
-        "• The Berlin-based team spent the past year using a large language model to turn the 19 million entries into vectors "
+        "• Americans will pay more at the pump if Donald Trump succeeds in tossing out tailpipe pollution regulations, a new analysis shows",
+        "• That’s on top of job and GDP losses that could result from stifling innovation in cleaner transportation",
+        "• Trump has misleadingly cast the climate pollution standards as an “EV mandate” that would force consumers to buy more costly electric cars "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
         "score": 0.998
+      }
+    },
+    {
+      "id": "e65db748636e",
+      "title": "Keychron made the first almost entirely ceramic keyboard",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789538/keychron-q16he-fully-ceramic-mechanical-keyboard",
+      "published_at": "2025-10-01T08:00:00-04:00",
+      "bullets": [
+        "• The Q16 HE 8K is the “first-to-market full-ceramic build keyboard,” says Keychron",
+        "• The ceramic material is described as durable, scratch-resistant, and suitable for reliability",
+        "• It comes in a 65 percent layout and comes in blue or minty white color options "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
       }
     }
   ]
