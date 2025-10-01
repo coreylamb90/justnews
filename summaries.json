@@ -1,16 +1,34 @@
 {
-  "generated_at": "2025-09-30T23:46:54Z",
+  "generated_at": "2025-10-01T02:10:59Z",
   "items": [
+    {
+      "id": "a52ce851e57f",
+      "title": "U.S. government will shut down after midnight as Congress fails to pass funding bills",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+      "published_at": "Wed, 01 Oct 2025 01:59:30 GMT",
+      "bullets": [
+        "• The U.S",
+        "• government will shut down just after midnight on Wednesday",
+        "• Republicans and Democrats refused to budge from their opposing positions on a funding deal to avoid a shutdown",
+        "• A key sticking point was Democrats' insistence on including the extension of enhanced Affordable Care Act tax credits "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
     {
       "id": "74be3ce48bb5",
       "title": "Senate fails to pass stopgap funding bill as government heads for midnight shutdown – follow live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Tue, 30 Sep 2025 23:35:10 GMT",
+      "published_at": "Wed, 01 Oct 2025 01:48:06 GMT",
       "bullets": [
-        "• Senate rejects Democratic resolution to keep government funded until end of October",
-        "• Fifty-three Republicans voted against the resolution, while 47 Democrats voted for it",
-        "• This version of a shortterm funding patch also included several healthcare provisions – including extending Affordable Care Act subsidies that are due to expire at the end of this year "
+        "• Senate rejects Democratic resolution to keep government funded until the end of October",
+        "• The Senate rejected a stopgap funding bill, drawn up by congressional Democrats, that would keep the government funded",
+        "• The bill also included several healthcare provisions, including extending Affordable Care Act subsidies that are due to expire in October "
       ],
       "category": "US",
       "sentiment": {
@@ -19,20 +37,107 @@
       }
     },
     {
-      "id": "4b8a6e687651",
-      "title": "Palantir's stock is up 1,700% since its NYSE debut five years ago. Here's how it got there",
+      "id": "b41c0e9ccbfc",
+      "title": "Asia markets trade mixed after Wall Street shrugs off U.S. government shutdown concerns",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/palantir-direct-listing-five-year-anniversary.html",
-      "published_at": "Tue, 30 Sep 2025 23:13:47 GMT",
+      "url": "https://www.cnbc.com/2025/10/01/asia-markets-boj-tankan-index-rbi-india-rate-decision.html",
+      "published_at": "Wed, 01 Oct 2025 01:41:20 GMT",
       "bullets": [
-        "• Palantir's stock price has surged more than 1,700% since September 2020",
-        "• At its opening price of $10 per share, the company was valued at $16.5 billion",
-        "• The company is now valued at over $432 billion "
+        "• Japan's Nikkei 225 sunk 1.05%, while the broad based Topix was down 1.52%",
+        "• South Korea's Kospi was up 0.68% and the small-cap Kosdaq gained 0.77% in early trade",
+        "• The Reserve Bank of India's interest-rate decision is due later in the day "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "303218b3cfbd",
+      "title": "US on brink of government shutdown after Senate rejects funding plans",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
+      "published_at": "Wed, 01 Oct 2025 01:14:18 GMT",
+      "bullets": [
+        "• The US government is on the brink of a shutdown after the Senate rejects competing plans to extend funding beyond midnight",
+        "• Senate Democrats blocked legislation put forward by the Republican majority to fund the government through 21 November",
+        "• Republicans united to stop a separate Democratic-backed measure that would have extended healthcare benefits and other priorities "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "c04103e5dc9d",
+      "title": "Lithium Americas stock pops 35% as government takes a stake to boost Nevada project",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/09/30/lithium-americas-stock-pops-as-government-takes-a-stake-to-boost-nevada-project.html",
+      "published_at": "Wed, 01 Oct 2025 01:10:34 GMT",
+      "bullets": [
+        "• Shares of Lithium Americas soar more than 35% in extended trading",
+        "• The U.S",
+        "• Energy Secretary Chris Wright says the government will take a small stake in the company",
+        "• Thacker Pass is expected to become one of the largest sources of lithium in North America",
+        "• The first phase of the project expected to begin operations in late 2027 "
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.985
+        "score": 0.727
+      }
+    },
+    {
+      "id": "5bcc6786fe4e",
+      "title": "Trump news at a glance: Shutdown a chance to ‘get rid of a lot of things we didn’t want’, says president",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/trump-administration-news-updates-today-latest",
+      "published_at": "Wed, 01 Oct 2025 00:26:13 GMT",
+      "bullets": [
+        "• Shutdown a chance to ‘get rid of a lot of things we didn’t want’, says president",
+        "• Senate Democrats voted down a Republican bill to keep funding the government, putting it on a near certain path to a shutdown",
+        "• Democrats refused to vote for the bill unless it included a series of concessions centred on healthcare "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.876
+      }
+    },
+    {
+      "id": "bdb40010efc3",
+      "title": "Tracker: how each US senator voted on the Republican plan to avert shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/sep/30/us-senate-government-funding-votes",
+      "published_at": "Wed, 01 Oct 2025 00:23:24 GMT",
+      "bullets": [
+        "• Both parties failed to block each other’s stopgap funding proposal, all but ensuring a partial shutdown for the first time in nearly seven years",
+        "• Both measures needed 60 votes to pass",
+        "• Republicans and Democrats united against a plan offered by Democrats to fund the government through the end of October "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "d352b67b7150",
+      "title": "Zillow and Redfin accused of suppressing competition in lawsuit",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/zillow-redfin-sued-competition-ftc",
+      "published_at": "Wed, 01 Oct 2025 00:14:35 GMT",
+      "bullets": [
+        "• Federal Trade Commission sues real estate companies Zillow and Redfin over $100m deal",
+        "• FTC: Redfin agreed to end contracts with advertising partners, stop competing ads for multifamily properties for up to nine years and serve as a syndicator of listings on its own sites",
+        "• Redfin fired hundreds of employees shortly after the announcement of this plan, FTC says "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -50,42 +155,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "8c4d5a989604",
-      "title": "Federal agencies blame Democrats for looming shutdown in apparent Hatch Act violation",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/federal-agencies-democrats-shutdown",
-      "published_at": "Tue, 30 Sep 2025 22:47:46 GMT",
-      "bullets": [
-        "• Several US federal agencies on Tuesday began blaming Democrats for an impending government shutdown at midnight",
-        "• Experts say the move appears to violate the Hatch Act, which limits the political activities of government employees",
-        "• Some agencies reportedly sent emails to employees on Tuesday afternoon, while others posted public statements faulting Democrats, the ‘radical left,” and “radical liberals in Congress” for a potential government shutdown "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "c04103e5dc9d",
-      "title": "Lithium Americas stock pops 35% as government takes a stake to boost Nevada project",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/lithium-americas-stock-pops-as-government-takes-a-stake-to-boost-nevada-project.html",
-      "published_at": "Tue, 30 Sep 2025 22:46:07 GMT",
-      "bullets": [
-        "• Shares of Lithium Americas soar more than 35% in extended trading",
-        "• The U.S",
-        "• Energy Secretary Chris Wright says the government will take a small stake in the company",
-        "• Thacker Pass is expected to become one of the largest sources of lithium in North America",
-        "• The first phase of the project expected to begin operations in late 2027 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.727
       }
     },
     {
@@ -155,22 +224,6 @@
       }
     },
     {
-      "id": "ff399a0c61ae",
-      "title": "Why healthcare spending is at the center of the US government shutdown battle",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/government-shutdown-healthcare-medicaid",
-      "published_at": "Tue, 30 Sep 2025 21:46:02 GMT",
-      "bullets": [
-        "• Democrats say they will not vote for legislation to keep government open unless Republicans agree to reverse cuts to Medicaid and extend subsidies for Affordable Care Act plans",
-        "• In June, the US president approved legislation he calls his “big, beautiful bill” which the Congressional Budget Office estimated would reduce federal Medicaid spending by $793bn "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      }
-    },
-    {
       "id": "2d92b29390eb",
       "title": "Critics slam OpenAI’s parental controls while users rage, “Treat us like adults”",
       "outlet": "Ars Technica - All content",
@@ -201,59 +254,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.981
-      }
-    },
-    {
-      "id": "85b55184ca3c",
-      "title": "FCC chair claims he never threatened TV networks over Jimmy Kimmel",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/fcc-brendan-carr-jimmy-kimmel-networks",
-      "published_at": "Tue, 30 Sep 2025 20:46:19 GMT",
-      "bullets": [
-        "• Brendan Carr claimed Democrats and the media had “misrepresented” critical comments he made about Jimmy Kimmel Live! The FCC chair said there was no threat made that Kimmel would lose his license",
-        "• ABC announced it would “indefinitely” pre-empt the late-night talk show, hours after Carr had appeared on a conservative podcast "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      }
-    },
-    {
-      "id": "95b54fca6ca5",
-      "title": "Delayed US report on global human trafficking is released",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/human-trafficking-tip-report-state-department",
-      "published_at": "Tue, 30 Sep 2025 20:44:07 GMT",
-      "bullets": [
-        "• The long-awaited release of a new report by the U.S",
-        "• government has been delayed",
-        "• It is not clear why the report was delayed by the delay",
-        "• The report is expected to be released by the end of the year",
-        "• The U.N"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "a52ce851e57f",
-      "title": "Government shutdown would furlough about 750,000 federal workers, CBO says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-      "published_at": "Tue, 30 Sep 2025 19:54:24 GMT",
-      "bullets": [
-        "• The U.S",
-        "• government is set to go into a shutdown after midnight Tuesday",
-        "• Democrats and Republicans are refusing to compromise on a deal to keep the government open",
-        "• The Congressional Budget Office estimates the cost of the shutdown would be about $400 million "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -309,19 +309,56 @@
       }
     },
     {
+      "id": "41a5be5344db",
+      "title": "Newt Gingrich thinks Democrats 'don't have what it takes' to win shutdown",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558143/newt-gingrich-thinks-democrats-dont-have-what-it-takes-to-win-shutdown",
+      "published_at": "Tue, 30 Sep 2025 17:09:33 -0400",
+      "bullets": [
+        "• Newt Gingrich thinks Democrats 'don't have what it takes' to win shutdown",
+        "• Newt Gingrich was speaker of the House when Republicans shut down the government twice during the Clinton administration in the mid-'90s",
+        "• Gingrich: \"There's Only One Way To Win A Shutdown",
+        "• Democrats Don't Have What It Takes\""
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "1da30af32dc7",
+      "title": "Sen. Duckworth on Hegseth's Quantico speech",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558122/sen-duckworth-on-hegseths-quantico-speech",
+      "published_at": "Tue, 30 Sep 2025 17:06:42 -0400",
+      "bullets": [
+        "• President Trump and his defense secretary addressed hundreds of senior generals and admirals at a base outside of Washington, D.C., today",
+        "• President Trump defended the use of troops in U.S",
+        "• cities while Defense Secretary Pete Hegseth told military commanders about new physical fitness and grooming requirements for uniformed personnel "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.982
+      }
+    },
+    {
       "id": "3a682199e46a",
       "title": "Shutdown appears inevitable without last ditch intervention",
       "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/09/30/nx-s1-5558015/shutdown-appears-inevitable-without-last-ditch-intervention",
       "published_at": "Tue, 30 Sep 2025 16:29:17 -0400",
       "bullets": [
-        "• Shutdown appears inevitable without last ditch intervention September 30, 20254:29 PM ET Heard on All Things Considered By Barbara Sprunt",
-        "• The government shuts down at midnight and the two parties remain far apart on a solution to prevent the shutdown "
+        "• Shutdown appears inevitable without last ditch intervention, says NPR's Ailsa Chang",
+        "• The government shuts down at midnight on January 1",
+        "• The Senate is expected to vote today on two different partisan options to fund the government, at least temporarily",
+        "• Both are currently expected to fail "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.999
       }
     },
     {
@@ -348,15 +385,14 @@
       "url": "https://www.npr.org/2025/09/30/nx-s1-5558312/privacy-personal-data-trump-lawsuit-doge",
       "published_at": "Tue, 30 Sep 2025 16:11:55 -0400",
       "bullets": [
-        "• A lawsuit is filed in federal court in Washington, D.C",
-        "• on behalf of the League of Women Voters, the Electronic Privacy Information Center and five unnamed U.S",
+        "• A class action federal lawsuit is filed in federal court in Washington, D.C., on behalf of the League of Women Voters, the Electronic Privacy Information Center and five unnamed U.S",
         "• citizens",
         "• The suit argues that the Department of Homeland Security and Department of Government Efficiency are creating \"national data banks\""
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.995
       }
     },
     {
@@ -737,6 +773,40 @@
       }
     },
     {
+      "id": "b15efd5b2638",
+      "title": "All hail the new Fat Bear Champion",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789358/new-fat-bear-week-champion",
+      "published_at": "2025-09-30T21:10:31-04:00",
+      "bullets": [
+        "• The votes are in, and the winner of Fat Bear Week 2025 is the indomitable Bear 32, also known as Chunk",
+        "• Chunk captured voters’ hearts this year with his perseverance",
+        "• This year’s contenders got extra fat and healthy thanks to an enormous salmon run "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "75ff346d577c",
+      "title": "Here’s where to preorder all of Amazon&#8217;s new Alexa devices and when they arrive",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date",
+      "published_at": "2025-09-30T20:15:13-04:00",
+      "bullets": [
+        "• Amazon’s latest hardware won’t begin shipping until mid-October, but you can preorder most devices starting today",
+        "• Amazon announced a redesigned Echo Dot model called the Echo Dot Max, which is more elegant than its predecessor thanks to a higher-quality 3D knit fabric and a flat face",
+        "• Amazon also announced a Kindle Scribe with a color screen "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.92
+      }
+    },
+    {
       "id": "dc6afc7cf46d",
       "title": "Google is blocking AI searches for Trump and dementia",
       "outlet": "The Verge",
@@ -783,74 +853,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.993
-      }
-    },
-    {
-      "id": "ef392a5d6069",
-      "title": "You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder",
-      "published_at": "2025-09-30T14:27:23-04:00",
-      "bullets": [
-        "• The new UltraFine 32U990A is the world’s first 6K display with Thunderbolt 5 connectivity built right in",
-        "• It can move data around at 120Gbps speeds without the need for a separate USB hub",
-        "• The display is currently available for preorder through B&H's online store for $1,999.99 with shipping expected to start on October 20th "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.674
-      }
-    },
-    {
-      "id": "38caafc40ffc",
-      "title": "Imgur is blocking users in the UK",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation",
-      "published_at": "2025-09-30T13:40:22-04:00",
-      "bullets": [
-        "• Image-sharing site Imgur has shut off access to UK users",
-        "• UK's data watchdog warned Imgur of a potential fine earlier this month",
-        "• Imgur will also block UK users from seeing content from the platform embedded on third-party sites like Reddit "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
-      "id": "c41ff758b36a",
-      "title": "CNN Political Briefing",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
-      "published_at": null,
-      "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "bff3bbb6ccff",
-      "title": "The Axe Files with David Axelrod",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/axe-files",
-      "published_at": null,
-      "bullets": [
-        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
-        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
-        "• Scott Jennings is well known as a conservative firebrand on CNN "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
       }
     }
   ]
