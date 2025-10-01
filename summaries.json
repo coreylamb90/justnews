@@ -1,6 +1,41 @@
 {
-  "generated_at": "2025-10-01T22:29:45Z",
+  "generated_at": "2025-10-01T22:48:36Z",
   "items": [
+    {
+      "id": "7153564c8df3",
+      "title": "Israeli naval ships intercept Gaza-bound flotilla",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 22:39:57 GMT",
+      "bullets": [
+        "• Israeli navy intercepts boats carrying aid to Gaza and detains activists aboard",
+        "• Global Sumud Flotilla activists include climate campaigner Greta Thunberg",
+        "• Israeli Foreign Ministry says vessels were \"safely stopped\" and are being transferred to an Israeli port "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      }
+    },
+    {
+      "id": "0f7a2f9ada85",
+      "title": "Trump falsely claims that national guard troops are ‘in place’ in Portland",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/trump-national-guard-portland-misinformation",
+      "published_at": "Wed, 01 Oct 2025 22:33:49 GMT",
+      "bullets": [
+        "• Donald Trump’s plan to deport immigrants to the U.S",
+        "• could cost $10 million",
+        "• The plan is expected to be made up of members of the Oregon National Guard",
+        "• It will take until at least two weeks to complete the process "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
     {
       "id": "b290c4b0faad",
       "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in out of office email notes – live",
@@ -32,22 +67,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "7153564c8df3",
-      "title": "Israeli naval ships intercept Gaza-bound flotilla",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 21:11:48 GMT",
-      "bullets": [
-        "• Israeli navy intercepts ships carrying aid to Gaza, including climate campaigner Greta Thunberg",
-        "• Global Sumud Flotilla (GSF) described the interception as \"illegal\" and \"a brazen act of desperation\" Israeli Foreign Ministry said the flotilla had been informed it was violating a naval blockade "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -254,23 +273,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "8e614aab5aa8",
-      "title": "Democrats liken Trump to Putin after call to use US cities for military training",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/democrats-jb-pritzker-trump-putin-immigration",
-      "published_at": "Wed, 01 Oct 2025 18:12:46 GMT",
-      "bullets": [
-        "• J",
-        "• Pritzker: 'It appears that Donald Trump not only has dementia set in but he’s copying tactics of Vladimir Putin’ The Illinois governor is concerned for the president's mental health",
-        "• Trump has used crime and illegal immigration as a pretext to expand national guard troops into cities "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
       }
     },
     {
@@ -844,14 +846,14 @@
       "url": "https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer",
       "published_at": "2025-10-01T15:45:48-04:00",
       "bullets": [
-        "• President Donald Trump is launching a new website that will let Americans buy medications at lower prices",
-        "• The new website, called TrumpRx, is expected to launch in 2026 and will direct consumers to discounts on drugmakers’ online stores",
-        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for manufacturing "
+        "• The new website, called TrumpRx, is expected to launch in 2026",
+        "• It will link Americans to drugmakers’ websites to buy medications at a discount",
+        "• The website is part of a deal that grants Pfizer a three-year reprieve from tariffs in exchange for investing in US-based manufacturing "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.591
+        "label": "positive",
+        "score": 0.8
       }
     }
   ]
