@@ -1,19 +1,37 @@
 {
-  "generated_at": "2025-10-01T21:47:37Z",
+  "generated_at": "2025-10-01T22:29:45Z",
   "items": [
     {
       "id": "b290c4b0faad",
       "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in out of office email notes – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 21:35:24 GMT",
+      "published_at": "Wed, 01 Oct 2025 22:09:02 GMT",
       "bullets": [
-        "• The calculation includes salaries, supplies, food, lodging and other costs associated with the deployment of 200 guard members to Portland for 60 days based on the president’s false claim that a small protest outside an Immigration and Customs Enforcement office in the city makes the entire city “look like a war zone”"
+        "• White House warns layoffs are imminent if shutdown drags on",
+        "• Government agencies are already preparing for cuts and ‘layoffs are imminent’ Hakeem Jeffries and Chuck Schumer accuse the Trump administration of retaliating against their constituents by putting billions of dollars to revamp transportation infrastructure on hold "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.996
+      }
+    },
+    {
+      "id": "a4ff43138b70",
+      "title": "OpenAI mocks Musk’s math in suit over iPhone/ChatGPT integration",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/openai-mocks-musks-math-in-suit-over-iphone-chatgpt-integration/",
+      "published_at": "Wed, 01 Oct 2025 21:15:09 +0000",
+      "bullets": [
+        "• Apple and OpenAI are fighting to block OpenAI from using ChatGPT to compete with Apple's ChatGPS",
+        "• The company says it will only have access to \"a small fraction of the potential market\" of potential users",
+        "• OpenAI and Apple argue that this gives them access to a portion of the market for new features "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -196,7 +214,7 @@
       "bullets": [
         "• Planned Parenthood clinics in Wisconsin will stop providing abortions on Wednesday",
         "• A provision in Donald Trump’s new tax and spending bill blocks Planned Parenthood from receiving reimbursements from Medicaid",
-        "• Planned Parenthood of Wisconsin appears to be attempting to continue receiving Medicaid reimbursements for other services like cancer screenings and contraception "
+        "• Planned Parenthood of Wisconsin appears to be attempting to continue receiving Medicaid reimbursements for services such as contraception and cancer screenings "
       ],
       "category": "US",
       "sentiment": {
@@ -273,6 +291,23 @@
       }
     },
     {
+      "id": "23359e986412",
+      "title": "Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5560169/pope-leo-xiv-says-inhuman-treatment-of-immigrants-in-the-u-s-isnt-pro-life",
+      "published_at": "Wed, 01 Oct 2025 17:53:21 -0400",
+      "bullets": [
+        "• Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S",
+        "• isn't 'pro-life' Pope says Catholic politicians must be judged on full range of policy positions",
+        "• White House spokesman: \"I would reject there is inhumane treatment of illegal immigrants under this administration\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      }
+    },
+    {
       "id": "9363e20d2e6d",
       "title": "Afghans rejoice as internet returns after Taliban blackout",
       "outlet": "BBC News",
@@ -323,23 +358,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.973
-      }
-    },
-    {
-      "id": "83d1a0f72eeb",
-      "title": "Can today’s AI video models accurately model how the real world works?",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/10/can-todays-ai-video-models-accurately-model-how-the-real-world-works/",
-      "published_at": "Wed, 01 Oct 2025 16:43:24 +0000",
-      "bullets": [
-        "• Google's Veo 3 video model tests its ability to learn about the real world from its training data",
-        "• The researchers tested thousands of videos designed to test the model's abilities across dozens of tasks",
-        "• They say the model is on a \"path to becoming unified, generalist vision foundation models\""
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -424,23 +442,6 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.632
-      }
-    },
-    {
-      "id": "34bc997cadeb",
-      "title": "Una serie visual de NPR explora el ritmo de la cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/g-s1-91015/una-serie-visual-de-npr-explora-el-ritmo-de-la-cumbia",
-      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
-      "bullets": [
-        "• Una serie visual de NPR explora el ritmo de la cumbia",
-        "• Cumbia Across Latin America recorries via Colombia, México, Ecuador, Perú, Argentina and Estados Unidos",
-        "• La banda sonora comenzó comencias y expandido by viajado de forma subterránea por América Latina "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.885
       }
     },
     {
@@ -769,6 +770,56 @@
       }
     },
     {
+      "id": "4c9523ba8819",
+      "title": "Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats",
+      "published_at": "2025-10-01T18:23:19-04:00",
+      "bullets": [
+        "• The Trump administration has put up banners across federal websites blaming Democrats for the government shutdown",
+        "• One banner on the US Department of Agriculture’s site says, “The Radical Left Democrats shut down the government” The White House website similarly includes a timer showing how long the shutdown has lasted so far "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "f0398d18629d",
+      "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
+      "published_at": "2025-10-01T18:22:51-04:00",
+      "bullets": [
+        "• Apple is speeding up work on smart glasses that would compete with similar offerings from Meta",
+        "• The company may not release its first pair of smart glasses until 2027, putting it well behind Meta",
+        "• Apple is also halting plans for a lighter Vision Pro headset, Bloomberg reports "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "b93a34d16788",
+      "title": "Amazon says its AI will let NBA fans track brand-new stats",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats",
+      "published_at": "2025-10-01T18:21:37-04:00",
+      "bullets": [
+        "• Amazon is rolling out a new AI-powered platform called NBA Inside the Game",
+        "• New stats will track players' movement and their ability to make a shot",
+        "• Analytics will also be able to predict the difficulty of each shot made by a player "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.849
+      }
+    },
+    {
       "id": "d8a65aba95d7",
       "title": "Instagram tests opening right onto Reels",
       "outlet": "The Verge",
@@ -801,57 +852,6 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.591
-      }
-    },
-    {
-      "id": "6d5a5d42906c",
-      "title": "Behold: The Lego Game Boy has already been modded to play games for real",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd",
-      "published_at": "2025-10-01T15:36:13-04:00",
-      "bullets": [
-        "• A self-taught circuit board designer and Game Boy modder has already made the Lego Game Boy playable",
-        "• Natalie the Nerd is selling aftermarket components for modding",
-        "• The working buttons, for instance, aren’t yet mounted on a PCB; they’ll fit on a custom 3D-printed Lego piece "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
-      "id": "e8bdfd5bc283",
-      "title": "Plenty of robot vacuums are already discounted ahead of October Prime Day",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025",
-      "published_at": "2025-10-01T15:20:41-04:00",
-      "bullets": [
-        "• Some of the biggest savings so far are on robot vacuums",
-        "• Roborock’s S8 MaxV Ultra — our favorite robot vacuum overall — is down to its best price to date",
-        "• Even budget-friendly picks like the Tapo RV30 Max Plus are receiving sizable discounts "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      }
-    },
-    {
-      "id": "f2b19a86238c",
-      "title": "US government takes equity stake in one of the world’s largest lithium mines",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass",
-      "published_at": "2025-10-01T14:31:27-04:00",
-      "bullets": [
-        "• US government takes equity stake in one of the world’s largest lithium mines",
-        "• The mine at Thacker Pass is expected to become the largest producer of lithium in the Western Hemisphere once it opens in 2028",
-        "• Both the Biden and Trump administrations have sought to wean the US off foreign imports of lithium "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.948
       }
     }
   ]
