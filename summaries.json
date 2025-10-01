@@ -1,6 +1,90 @@
 {
-  "generated_at": "2025-10-01T17:29:26Z",
+  "generated_at": "2025-10-01T17:49:12Z",
   "items": [
+    {
+      "id": "9363e20d2e6d",
+      "title": "Afghans rejoice as internet returns after Taliban blackout",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 17:35:33 GMT",
+      "bullets": [
+        "• Afghans rejoice as internet returns after Taliban government shut them down",
+        "• Local reporters said communications were resuming, while internet monitor Netblocks said network data showed a \"partial restoration\" of connectivity",
+        "• The Taliban government has not given an official explanation for the shutdown "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "5e447dd431e6",
+      "title": "Government shutdown leaves federal workers ‘on edge’ as Trump eyes more job cuts",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-workers-government-shutdown-trump",
+      "published_at": "Wed, 01 Oct 2025 17:35:15 GMT",
+      "bullets": [
+        "• An estimated 750,000 federal employees are furloughed as a result of the first federal government shutdown since 2018",
+        "• Many have been “on edge for months” according to James Kirwan, who works as a labor attorney inside a government agency "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      }
+    },
+    {
+      "id": "e0f4ea4e9f4a",
+      "title": "Chunk of NYC building collapses in possible explosion",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8jp4y0jdmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 17:33:39 GMT",
+      "bullets": [
+        "• A section of a 20-storey residential building partially collapsed in New York City on Wednesday morning",
+        "• Authorities say there are no injuries, but some residents have been evacuated as a precautionary measure",
+        "• The collapse seems to have originated from an explosion in the ventilation shaft of a boiler room, officials say "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "588d4c40feb9",
+      "title": "Economists relieved as White House withdraws controversial pick to lead Bureau of Labor Statistics",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/trump-administration-withdraws-ej-antoni-bureau-of-labor-statistics",
+      "published_at": "Wed, 01 Oct 2025 17:33:23 GMT",
+      "bullets": [
+        "• Donald Trump nominated EJ Antoni to head of the Bureau of Labor Statistics",
+        "• Antoni was an outspoken critic of the bureau and implied, with no evidence, that its data reporting was biased",
+        "• The nomination ignited a rare consensus among both liberal and conservative economists, who said that Antoni's nomination was too partisan "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.97
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: White House holds press briefing on shutdown as Senate again fails to pass stopgap funding measures",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 17:32:31 GMT",
+      "bullets": [
+        "• GOP's House-passed funding bill fails again in the Senate",
+        "• Earlier this afternoon, the Senate failed to advance Republicans’ stopgap funding bill once again in a 55-45 vote",
+        "• The GOP needed 60 votes to pass the bill that would fund the government for another seven weeks until 21 November "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
     {
       "id": "8c9bc22d4dd6",
       "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument",
@@ -19,20 +103,19 @@
       }
     },
     {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: Senate votes down Democratic continuing resolution as speaker says House will return next week",
+      "id": "ff399a0c61ae",
+      "title": "Why healthcare spending was at the center of the US government shutdown battle",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 17:02:42 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/government-shutdown-healthcare-medicaid",
+      "published_at": "Wed, 01 Oct 2025 17:08:31 GMT",
       "bullets": [
-        "• Senate votes 55-45 against Republican bill with three Democrats crossing party lines to support measure",
-        "• Senate needed 60 votes to pass bill that would fund government for another seven weeks until 21 November",
-        "• Three Republicans voted against the measure, including Rand Paul of Kentucky "
+        "• The federal government shut down on Wednesday in part due to a battle between Democrats and Republicans over healthcare spending",
+        "• Democrats had said that they would not vote for legislation to keep the government open unless Republicans agreed to reverse cuts to Medicaid and extend subsidies for Affordable Care Act plans "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.981
+        "score": 0.997
       }
     },
     {
@@ -49,40 +132,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "3ea4b226c707",
-      "title": "Federal Reserve governor will keep job for now despite Trump’s bid to remove her",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
-      "published_at": "Wed, 01 Oct 2025 16:57:31 GMT",
-      "bullets": [
-        "• Donald Trump has launched an unprecedented campaign to exert greater control over the Fed",
-        "• The president tried to remove the Fed chief from his post in August, citing unconfirmed allegations of mortgage fraud dating back to before she joined the Fed in 2022",
-        "• The US supreme court deferred action on the request to allow the president to fire Cook, at least until January "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      }
-    },
-    {
-      "id": "9363e20d2e6d",
-      "title": "Afghans rejoice as internet returns after Taliban blackout",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 16:40:45 GMT",
-      "bullets": [
-        "• Afghans rejoice as internet returns after Taliban government shuts down internet services",
-        "• The hardline Islamist group has not given an official explanation for the shutdown",
-        "• The 48-hour blackout disrupted businesses and flights, limited access to emergency services and raised fears about further isolating women and girls "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -117,39 +166,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.813
-      }
-    },
-    {
-      "id": "c5c56d05f342",
-      "title": "US national parks to remain partly open during government shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-national-parks-government-shutdown",
-      "published_at": "Wed, 01 Oct 2025 16:14:53 GMT",
-      "bullets": [
-        "• Parts of the US government shutdown will remain open to the public",
-        "• More than 9,200 employees will be furloughed, reducing staff by 64%",
-        "• Only workers deemed necessary to protect ‘life and property’ will be on duty "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      }
-    },
-    {
-      "id": "08040004be73",
-      "title": "White House puts hold on $18bn for New York rail tunnel and subway expansion",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/new-york-rail-funding-trump",
-      "published_at": "Wed, 01 Oct 2025 16:10:15 GMT",
-      "bullets": [
-        "• $18bn to fund a new rail tunnel beneath the Hudson River between New York City and New Jersey and expanded Second Avenue subway project",
-        "• White House budget director Russell Vought said the step was taken due to the Republican administration’s belief that the money was “based on unconstitutional DEI principles’, a reference to diversity, equity and inclusion "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
       }
     },
     {
@@ -237,25 +253,6 @@
       }
     },
     {
-      "id": "2aa750322495",
-      "title": "Munich Oktoberfest to re-open after fatal house fire and bomb threat",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3rv2pv20rvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 14:45:35 GMT",
-      "bullets": [
-        "• Theresienwiese will re-open at 17:30 (15:30 GMT) after being closed for much of the day",
-        "• The venue has been the venue for more than 200 years",
-        "• It was shut while investigators probed a potential bomb threat linked to a house fire",
-        "• A 57-year-old man is suspected of starting the fire as part of a family dispute",
-        "• His body was later found at a nearby lake and police said he was carrying an explosive device "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
       "id": "bec6d9bdb820",
       "title": "Hands-on with Fallout 76’s next expansion: Yep, it has Walton Goggins",
       "outlet": "Ars Technica - All content",
@@ -271,6 +268,24 @@
       "sentiment": {
         "label": "positive",
         "score": 0.984
+      }
+    },
+    {
+      "id": "ec53cf4e80ec",
+      "title": "When will the government reopen? Here's how long past shutdowns lasted",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559267/government-shutdown-length-history",
+      "published_at": "Wed, 01 Oct 2025 13:39:24 -0400",
+      "bullets": [
+        "• The first shutdown in over five years began just after midnight on Wednesday",
+        "• The government's most recent shutdown was the longest in history, lasting at 35 days",
+        "• A new poll shows that more Americans hold Republicans responsible for the shutdown",
+        "• It's not clear how long the shutdown could last, but multiweek shutdowns are more common in recent decades "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -376,22 +391,6 @@
       }
     },
     {
-      "id": "890e750cab76",
-      "title": "Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5556920/trump-fed-governor-fire-lisa-cook",
-      "published_at": "Wed, 01 Oct 2025 11:14:27 -0400",
-      "bullets": [
-        "• Supreme Court says Federal Reserve Governor Lisa Cook can stay in her job at least until the high court hears oral arguments in January",
-        "• Critics had warned that allowing Trump to fire Cook would have trampled on decades of research showing central banks function best when they're allowed to operate without meddling from politicians "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
       "id": "c3fbd41e8a95",
       "title": "Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech",
       "outlet": "NPR Topics: Politics",
@@ -458,23 +457,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "9c1ecb74581e",
-      "title": "Government shutdown begins after Congress fails to agree on spending bill",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558013/government-shutdown-begins-after-congress-fails-to-agree-on-spending-bill",
-      "published_at": "Wed, 01 Oct 2025 06:31:41 -0400",
-      "bullets": [
-        "• Government shutdown begins after Congress fails to agree on spending bill",
-        "• Much of the federal government shut down Wednesday after Congress failed to reach a deal to keep government programs and services running",
-        "• In a few minutes, we'll speak with Republican Congressman Mike Haridopolos about how to break the deadlock "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -853,6 +835,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
+      }
+    },
+    {
+      "id": "bff3bbb6ccff",
+      "title": "The Axe Files with David Axelrod",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/axe-files",
+      "published_at": null,
+      "bullets": [
+        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
+        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
+        "• Scott Jennings is well known as a conservative firebrand on CNN "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
       }
     }
   ]
