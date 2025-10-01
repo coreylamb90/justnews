@@ -1,38 +1,157 @@
 {
-  "generated_at": "2025-10-01T15:52:10Z",
+  "generated_at": "2025-10-01T16:39:01Z",
   "items": [
+    {
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: Senate votes down Democratic continuing resolution as speaker says House will return next week",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 16:18:37 GMT",
+      "bullets": [
+        "• US Senate votes down Democratic continuing resolution to fund government",
+        "• Senate votes 47-53, with all Republicans opposed, to reject Democrats’ counterproposal",
+        "• Upper chamber now voting on House-passed Republican short-term spending bill",
+        "• House of Representatives will not return to Washington until next week "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      }
+    },
+    {
+      "id": "c5c56d05f342",
+      "title": "US national parks to remain partly open during government shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/sep/30/us-national-parks-government-shutdown",
+      "published_at": "Wed, 01 Oct 2025 16:14:53 GMT",
+      "bullets": [
+        "• Parts of the US government shutdown will remain open to the public",
+        "• More than 9,200 employees will be furloughed, reducing staff by 64%",
+        "• Only workers deemed necessary to protect ‘life and property’ will be on duty "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      }
+    },
     {
       "id": "8c9bc22d4dd6",
       "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
-      "published_at": "Wed, 01 Oct 2025 15:35:59 GMT",
+      "published_at": "Wed, 01 Oct 2025 16:14:16 GMT",
       "bullets": [
         "• Supreme Court allows Fed Governor Lisa Cook to remain in her post pending oral arguments in January",
         "• Trump has repeatedly asked federal courts to allow him to terminate Cook from the Fed's Board of Governors without delay",
-        "• Cook denies wrongdoing in connection with statements she made in applying for mortgages on two homes she owns in Michigan and Georgia "
+        "• The White House has cited claims that Cook committed mortgage fraud as his reason for firing her",
+        "• Cook denies any wrongdoing in connection with statements she made in applying for mortgages on two homes she owns in Michigan and Georgia "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.899
+        "label": "negative",
+        "score": 0.804
       }
     },
     {
-      "id": "b290c4b0faad",
-      "title": "US government shutdown live: House will return to DC next week, says speaker, as Democrats blame ‘unhinged’ Trump for shutdown",
+      "id": "08040004be73",
+      "title": "White House puts hold on $18bn for New York rail tunnel and subway expansion",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 15:35:08 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/new-york-rail-funding-trump",
+      "published_at": "Wed, 01 Oct 2025 16:10:15 GMT",
       "bullets": [
-        "• The House will return to Washington next week, speaker Mike Johnson says",
-        "• Johnson says that he does not plan to call the House back on Friday",
-        "• The White House website has had a shutdown makeover to ram home the claim that “Democrats have shut down the government” It even features a ticking clock illustrating the shutdown "
+        "• $18bn to fund a new rail tunnel beneath the Hudson River between New York City and New Jersey and expanded Second Avenue subway project",
+        "• White House budget director Russell Vought said the step was taken due to the Republican administration’s belief that the money was “based on unconstitutional DEI principles’, a reference to diversity, equity and inclusion "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.977
+      }
+    },
+    {
+      "id": "3ea4b226c707",
+      "title": "Federal Reserve governor will keep her job despite Trump’s bid to remove her",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
+      "published_at": "Wed, 01 Oct 2025 16:03:52 GMT",
+      "bullets": [
+        "• Donald Trump's bid to remove US Federal Reserve chief is deferred until January",
+        "• Trump has been trying to exert greater control over the central bank's board of governors",
+        "• He is the first president to fire a Fed official in an attempt to remove her from the post "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.953
+      }
+    },
+    {
+      "id": "6b52dee8a815",
+      "title": "Microsoft sales chief Althoff gets new role as CEO of company's commercial business",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/microsoft-makes-co.html",
+      "published_at": "Wed, 01 Oct 2025 16:03:01 GMT",
+      "bullets": [
+        "• Judson Althoff, Microsoft's top-ranking sales leader, has been promoted to a bigger role as CEO of the company's commercial business",
+        "• Most of Microsoft's revenue comes from commercial offerings such as productivity software subscriptions and cloud-based Nvidia chips for running artificial intelligence models "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      }
+    },
+    {
+      "id": "8de80216c463",
+      "title": "Microsoft launches AI and productivity software bundle for consumers",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/microsoft-365-premium-bundle-ai-copilot.html",
+      "published_at": "Wed, 01 Oct 2025 16:00:01 GMT",
+      "bullets": [
+        "• Microsoft will stop promoting a consumer subscription for artificial intelligence services",
+        "• The software company introduced Copilot Pro at $20 per month in early 2024",
+        "• The new Microsoft 365 Premium tier essentially combines both and will cost $19.99 a month",
+        "• Microsoft 365 Family goes for $12.99 each month "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "3133d34e9c15",
+      "title": "‘This is their shutdown’: Democrats and Republicans blame each other as government closes down",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/government-shutdown-reactions",
+      "published_at": "Wed, 01 Oct 2025 15:45:44 GMT",
+      "bullets": [
+        "• Democratic leaders say the blame for the shutdown lies solely with Donald Trump and the Republicans",
+        "• Chuck Schumer: “We’re going to say, ‘Go tell Trump he’s the one doing it.” Republicans say Democrats have prioritized taxpayer-funded benefits for illegals "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "930b1c25f153",
+      "title": "UK once again demands backdoor to Apple’s encrypted cloud storage",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/",
+      "published_at": "Wed, 01 Oct 2025 15:40:03 +0000",
+      "bullets": [
+        "• UK Home Office demands Apple create a means to allow officials access to encrypted cloud backups",
+        "• Apple says it has never built a back door or master key to any of its products or services and never will",
+        "• Apple withdrew its most secure cloud storage service from the UK in February "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -58,66 +177,15 @@
       "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 01 Oct 2025 15:28:38 GMT",
       "bullets": [
-        "• Internet and telecom services are being restored in Afghanistan after a nationwide shutdown by the Taliban government",
+        "• Afghans rejoice as internet returns after Taliban government shut them down",
+        "• Local reporters say communications are resuming across provinces",
         "• The government has not given an official explanation for the shutdown",
-        "• The 48-hour blackout disrupted businesses and flights, limited access to emergency services and raised fears about isolating women and girls whose rights have been eroded since the Taliban swept back to power in 2021 "
+        "• Last month a Taliban spokesman said internet access was being blocked \"for the prevention of vices\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "88e50b8f57ad",
-      "title": "Microsoft hikes price of top-tier Xbox Game Pass Ultimate by $10",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/microsoft-price-hike-xbox-game-pass-ultimate.html",
-      "published_at": "Wed, 01 Oct 2025 15:20:16 GMT",
-      "bullets": [
-        "• Microsoft is raising the Xbox Game Pass Ultimate subscription price by 50% to $29.99 per month",
-        "• The $10 spike comes with a slew of changes to all its Game Pass plans",
-        "• The Core tier will no longer exist and instead will be rolled into the Essential tier",
-        "• The Essential and Premium plans will remain the same price "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "3ea4b226c707",
-      "title": "Federal reserve governor will stay in post for now following US supreme court announcement",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
-      "published_at": "Wed, 01 Oct 2025 15:16:51 GMT",
-      "bullets": [
-        "• Lisa Cook, the federal reserve governor, will stay in her post, the US supreme court announced on Wednesday",
-        "• The country’s highest court announced it would hear oral arguments on the case in January",
-        "• It is the first-ever bid by a president to fire a Federal Reserve official, in his unprecedented challenge to bank's independence "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      }
-    },
-    {
-      "id": "2aed3554c845",
-      "title": "Trump administration freezes $18 billion in New York City infrastructure projects, Vought says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/trump-new-york-funding-infrastructure-vought.html",
-      "published_at": "Wed, 01 Oct 2025 15:13:34 GMT",
-      "bullets": [
-        "• The funding is earmarked for the Hudson River Tunnel Project and the Second Avenue Subway project",
-        "• It was not immediately clear what triggered the freeze on that basis",
-        "• The Department of Transportation later said it had issued an interim final rule barring race and sex-based contracting requirements from federal grants "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "score": 0.996
       }
     },
     {
@@ -139,6 +207,23 @@
       }
     },
     {
+      "id": "3fc45138d013",
+      "title": "How automakers are reacting to the end of the $7,500 EV tax credit",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2025/10/its-october-1-so-the-electric-vehicle-tax-credit-is-dead-now/",
+      "published_at": "Wed, 01 Oct 2025 15:00:56 +0000",
+      "bullets": [
+        "• Federal tax credits for new electric vehicles, used electric vehicles and commercial electric vehicles have been lost",
+        "• During last year's election, the Trump campaign made no secret of its disgust toward clean vehicles",
+        "• A new EV had to have its final assembly in North America, and certain percentages of its battery content needed to be domestically sourced "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "2aa750322495",
       "title": "Munich Oktoberfest to re-open after fatal house fire and bomb threat",
       "outlet": "BBC News",
@@ -155,57 +240,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
-      }
-    },
-    {
-      "id": "5c49189c6c48",
-      "title": "Judges to hear Texas redistricting challenge giving Republicans five seats",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/texas-redistricting-map-republicans-gerrymandering",
-      "published_at": "Wed, 01 Oct 2025 14:18:32 GMT",
-      "bullets": [
-        "• The case is the first test of Texas’ new map, which was quickly redrawn this summer to give Republicans five more seats at the urging of Donald Trump",
-        "• Civil rights groups and dozens of Black and Hispanic voters joined the lawsuit, saying the new map intentionally reduces minority voters’ influence",
-        "• Texas Republican lawmakers and state leaders deny these claims, saying it is a legal partisan gerrymander "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "b3008b632544",
-      "title": "New York City high-rise apartment building partly collapses",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/nyc-bronx-apartment-building-collapse",
-      "published_at": "Wed, 01 Oct 2025 14:03:29 GMT",
-      "bullets": [
-        "• Part of a high-rise apartment building in New York City collapsed on Wednesday morning, with a corner reduced to a pile of rubble",
-        "• The city’s fire department said it had no immediate reports of injuries",
-        "• It said it was responding to a report of a gas explosion that collapsed an incinerator shaft "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
-      "id": "e5bec7ec1b83",
-      "title": "Wisconsin Planned Parenthood clinics pause abortion services amid funding crisis",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/wisconsin-planned-parenthood-abortion-funding",
-      "published_at": "Wed, 01 Oct 2025 14:01:38 GMT",
-      "bullets": [
-        "• Planned Parenthood clinics in Wisconsin will stop providing abortions on Wednesday",
-        "• A provision in Donald Trump’s new tax and spending bill blocks Planned Parenthood from receiving reimbursements from Medicaid",
-        "• Planned Parenthood of Wisconsin appears to be attempting to continue receiving Medicaid reimbursements for other services like cancer screenings and contraception "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -398,23 +432,6 @@
       }
     },
     {
-      "id": "81fbc4e572cf",
-      "title": "Where things stand with Trump's National Guard deployments",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5558457/portland-chicago-memphis-trump-national-guard",
-      "published_at": "Wed, 01 Oct 2025 08:05:25 -0400",
-      "bullets": [
-        "• The Trump administration has deployed or threatened to deploy National Guard troops in more than half a dozen American cities that it says are crime-ridden",
-        "• The announcements have led to protests, lawsuits and, in certain cases, open arms",
-        "• With so many cities, agencies and legal challenges in the mix, we break down where everything stands with deployments "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
       "id": "2f09d0b29f87",
       "title": "What happens now that the government has shut down. And, a pricing deal with Pfizer",
       "outlet": "NPR Topics: Politics",
@@ -452,24 +469,6 @@
       }
     },
     {
-      "id": "2a53923fa35e",
-      "title": "A GOP push to restrict voting by overseas U.S. citizens continues before 2026 midterms",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5542344/overseas-active-duty-military-voting-uocava",
-      "published_at": "Wed, 01 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Some 2.8 million U.S",
-        "• adult citizens living abroad were eligible to vote in 2022",
-        "• GOP officials are pushing to block voting by citizens who've never lived in the United States",
-        "• Advocates fear GOP-led lawsuits and proposals could drive down participation of overseas voters "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      }
-    },
-    {
       "id": "ec2c7d31141e",
       "title": "Scientists may be closing in on dark matter’s true identity",
       "outlet": "All Top News -- ScienceDaily",
@@ -501,39 +500,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.985
-      }
-    },
-    {
-      "id": "aafbaf539041",
-      "title": "The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/culture/2025/09/ai-leadership-trump-posts-deepfakes-of-dems-calling-themselves-woke-pieces-of-s-t/",
-      "published_at": "Tue, 30 Sep 2025 22:52:14 +0000",
-      "bullets": [
-        "• AI poses an obvious danger to the millennia-long human fight to find the truth",
-        "• Large language model \"hallucinations\" and vocal deepfakes have had a blurring effect on facts",
-        "• The danger is perhaps most acute in the political realm, where deepfake audio and video can make any politician say or appear to do anything "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
-      "id": "5c1f1755a214",
-      "title": "In 2022, the world axed a disease name seen as racist. US just switched back.",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/health/2025/09/trumps-cdc-brings-back-monkeypox-disease-name-despite-racist-connotation/",
-      "published_at": "Tue, 30 Sep 2025 22:29:20 +0000",
-      "bullets": [
-        "• The US Centers for Disease Control and Prevention has reverted from using the disease name \"mpox\" to the obsolete \"monkeypox\" The name came about because scientists discovered the virus in captive Asian monkeys that had been shipped to Denmark in 1958",
-        "• The term \"monkey\" has a long history of being used as a slur toward Black people "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -776,20 +742,72 @@
       }
     },
     {
-      "id": "a5729259d234",
-      "title": "FTC sues Zillow and Redfin for violating antitrust laws",
+      "id": "7150c7fb0d8b",
+      "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws",
-      "published_at": "2025-10-01T11:48:18-04:00",
+      "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
+      "published_at": "2025-10-01T12:00:00-04:00",
       "bullets": [
-        "• Federal Trade Commission sues Zillow and Redfin for violating antitrust laws",
-        "• FTC says the $100 million dollar “partnership” was more of a dismantling of Redfin as a competitor",
-        "• Redfin agreed to end its existing contracts with advertising customers, transfer them to Zillsow and, according to the FTC complaint, not compete with Zilow for multifamily property listings for up to nine years "
+        "• Microsoft is merging Copilot Pro and Microsoft 365 into a new Microsoft 365 Premium subscription",
+        "• It will be priced at $19.99 per month, the same price as OpenAI’s ChatGPT Plus subscription",
+        "• The subscription includes Copilot Podcasts, Deep Research, Vision, and Actions",
+        "• It also includes access to Office desktop apps for six people, 1TB of storage per person "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.968
+      }
+    },
+    {
+      "id": "1f8bf07d9d9c",
+      "title": "Microsoft’s new Office icons are more curvy and colorful",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789533/microsoft-office-new-icons-design",
+      "published_at": "2025-10-01T12:00:00-04:00",
+      "bullets": [
+        "• Microsoft is officially unveiling its new Office icons today, after they leaked earlier this year",
+        "• The icons have a modern design that’s more colorful and playful, with subtle changes",
+        "• This is the first major change to the Office icons since their overhaul in 2018",
+        "• The new icons are meant to represent a more connected design system "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "52c805192204",
+      "title": "Ford and GM are buying their own EVs to keep the $7500 tax credit alive",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive",
+      "published_at": "2025-10-01T11:55:12-04:00",
+      "bullets": [
+        "• Ford and GM are working with dealers on short-term programs that would allow customers to continue to receive the tax credit on leased EVs through the rest of the year",
+        "• The automakers are hoping to soften the blow on car shoppers and keep up the momentum that many dealers saw in recent weeks "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.837
+      }
+    },
+    {
+      "id": "a5729259d234",
+      "title": "FTC accuses Zillow of paying $100 million to &#8216;dismantle&#8217; Redfin",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws",
+      "published_at": "2025-10-01T11:48:18-04:00",
+      "bullets": [
+        "• FTC accuses Zillow of paying $100 million to ‘dismantle’ Redfin as a competitor",
+        "• Federal Trade Commission is suing the companies saying their “partnership” violates antitrust laws",
+        "• As part of that deal, Redfin also agreed to end its existing contracts with advertising customers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -809,54 +827,37 @@
       }
     },
     {
-      "id": "034389cf8919",
-      "title": "Samsung’s Galaxy Watch 7 is over $90 off at Amazon",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/789818/samsung-galaxy-watch-7-eufy-e28-robot-vacuum-deal-sale",
-      "published_at": "2025-10-01T11:35:00-04:00",
+      "id": "c41ff758b36a",
+      "title": "CNN Political Briefing",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
+      "published_at": null,
       "bullets": [
-        "• Samsung’s Galaxy Watch 7 is one of the best Android smartwatches we’ve tested",
-        "• It comes with FDA-cleared sleep detection features as well as irregular heart rate notifications",
-        "• Its circular shape will please you if you’re coming from a traditional watch or aren’t a fan of the squircle design "
+        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
+        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
+        "• The race for New Jersey governor could be the sleeper contest of the year "
       ],
-      "category": "Technology",
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "bff3bbb6ccff",
+      "title": "The Axe Files with David Axelrod",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/axe-files",
+      "published_at": null,
+      "bullets": [
+        "• The Axe Files with David Axelrod is a series of revealing interviews with key figures in the political world",
+        "• This week marks the final episode of the series of interviews with Axelrod's friend, US Ambassador to Japan Rahm Emanuel",
+        "• Scott Jennings is well known as a conservative firebrand on CNN "
+      ],
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.996
-      }
-    },
-    {
-      "id": "005991a2e1ac",
-      "title": "Porsche’s electric Cayenne has so much screen they had to bend it",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789622/porsche-electric-cayenne-curved-screen-flow-display",
-      "published_at": "2025-10-01T11:31:21-04:00",
-      "bullets": [
-        "• The Porsche Cayenne Electric won’t make its official debut until later this year",
-        "• Porsche is calling it the Flow Display, a vertically installed screen that curves toward the bottom",
-        "• It is both the largest screen ever to be featured in a Porsche and the most unique "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      }
-    },
-    {
-      "id": "d2127e474dd8",
-      "title": "Satya Nadella appoints a new CEO to run Microsoft&#8217;s biggest businesses",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo",
-      "published_at": "2025-10-01T11:06:59-04:00",
-      "bullets": [
-        "• Nadella will take over the role of CEO of Microsoft’s biggest software firm",
-        "• He will be tasked with helping to develop a new AI-powered system",
-        "• The company says it wants to be able to use the technology to develop its own AI-driven system "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.952
       }
     }
   ]
