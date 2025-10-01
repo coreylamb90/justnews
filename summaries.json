@@ -1,21 +1,38 @@
 {
-  "generated_at": "2025-10-01T05:50:24Z",
+  "generated_at": "2025-10-01T06:44:14Z",
   "items": [
     {
-      "id": "413dd6499d22",
-      "title": "Russia named a 'permanent threat' to Europe's security as leaders discuss a drone wall",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/russia-has-become-a-permanent-security-threat-to-europe-luxembourg-pm-says.html",
-      "published_at": "Wed, 01 Oct 2025 05:39:08 GMT",
+      "id": "b290c4b0faad",
+      "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 06:33:28 GMT",
       "bullets": [
-        "• Luxembourg's prime minister says Europe is not at war with Russia, but it needs to take its threats seriously",
-        "• A number of European nations have flagged new Russian threats in recent weeks",
-        "• Poland, Romania and Estonia have all reported airspace violations by Russian jets or drones "
+        "• The law requires agencies to furlough their ‘non-excepted’ employees",
+        "• Excepted employees stay on the job but don’t get paid until after the shutdown ends",
+        "• The Congressional Budget Office estimates that roughly 750,000 federal employees could be furloughed "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.981
+        "score": 0.992
+      }
+    },
+    {
+      "id": "74be3ce48bb5",
+      "title": "First closure of US government since 2018 begins after funding bill fails – as it happened",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
+      "published_at": "Wed, 01 Oct 2025 06:29:50 GMT",
+      "bullets": [
+        "• US government shuts down for the first time in nearly seven years",
+        "• Democratic leaders Hakeem Jeffries and Chuck Schumer blame Donald Trump and Republicans for the shutdown",
+        "• The shutdown is the first since a 35-day closure that began in December 2018 and extended into early 2019 "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
       }
     },
     {
@@ -23,7 +40,7 @@
       "title": "CNBC's UK Exchange newsletter: AstraZeneca gets a shot on Wall Street",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/01/cnbcs-uk-exchange-newsletter-astrazeneca-gets-a-shot-on-wall-street.html",
-      "published_at": "Wed, 01 Oct 2025 05:30:01 GMT",
+      "published_at": "Wed, 01 Oct 2025 06:26:18 GMT",
       "bullets": [
         "• GSK said Emma Walmsley, its CEO of nine years, will leave at the end of the year",
         "• AstraZeneca announced plans to \"harmonise its share listing structure to deliver a global listing for global investors in a global company\""
@@ -32,23 +49,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.978
-      }
-    },
-    {
-      "id": "74be3ce48bb5",
-      "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/30/us-government-shutdown-funding-trump-vance-portland-hegseth-latest-updates",
-      "published_at": "Wed, 01 Oct 2025 05:29:31 GMT",
-      "bullets": [
-        "• The US government has officially shut down for the first time in nearly seven years",
-        "• The shutdown follows a 35-day shutdown that lasted from late 2018 to early 2019",
-        "• Health and Human Services will furlough 41% of its staff out of nearly 80,000 employees "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -133,23 +133,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "fbcd9a5b6623",
-      "title": "DoJ sues LA sheriff for processing concealed carry gun licenses too slowly",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/30/justice-department-la-sheriff-gun-licenses",
-      "published_at": "Wed, 01 Oct 2025 03:16:17 GMT",
-      "bullets": [
-        "• The US Department of Justice filed a lawsuit against the Los Angeles county sheriff’s department on Tuesday",
-        "• The department says it has processed all concealed carry weapons applications in compliance with state and local laws",
-        "• A spokesperson for the sheriff's department disputed the claim, saying they have been issuing permits at a significantly increased rate "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
       }
     },
     {
@@ -240,6 +223,22 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
+      }
+    },
+    {
+      "id": "c84596d0c628",
+      "title": "The world's first carbon border tax will soon go live — shaking up global trade",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/carbon-border-tax-us-china-and-india-lash-out-at-eu-climate-policy.html",
+      "published_at": "Tue, 30 Sep 2025 23:04:28 GMT",
+      "bullets": [
+        "• The EU's Carbon Border Adjustment Mechanism (CBAM) will impose a cost on goods such as steel, fertilizers, cement, aluminum and hydrogen imported from outside the EU",
+        "• The U.S., China, India and Brazil are among the countries that have raised concerns about the policy "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.939
       }
     },
     {
