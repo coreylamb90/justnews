@@ -1,21 +1,56 @@
 {
-  "generated_at": "2025-10-01T06:44:14Z",
+  "generated_at": "2025-10-01T07:32:30Z",
   "items": [
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: first closure since 2018 begins after funding bill fails",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 06:33:28 GMT",
+      "published_at": "Wed, 01 Oct 2025 07:15:17 GMT",
       "bullets": [
-        "• The law requires agencies to furlough their ‘non-excepted’ employees",
-        "• Excepted employees stay on the job but don’t get paid until after the shutdown ends",
-        "• The Congressional Budget Office estimates that roughly 750,000 federal employees could be furloughed "
+        "• US government shutdown begins at midnight ET on 1 October",
+        "• Republicans and Democrats accuse each other of partisan politics as deadline passes",
+        "• Hundreds of thousands of federal workers will be furloughed or laid off if no deal is reached",
+        "• President Donald Trump said he had 'no choice' but to lay off federal workers "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.993
+      }
+    },
+    {
+      "id": "bdb91512c3c6",
+      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 07:05:33 GMT",
+      "bullets": [
+        "• Donald Trump has made himself into a leader to whom it is hard to say no, says Bowen",
+        "• He says Hamas has 'three to four days' to decide whether to say yes or no to end the Gaza war",
+        "• Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "7ded6b705e7b",
+      "title": "European leaders meet in high-security Danish summit after drone disruption",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 06:38:41 GMT",
+      "bullets": [
+        "• European leaders meet in high-security Danish summit after Russian drone incursions",
+        "• Ten member states have already backed plans for a multi-layered \"drone wall\" to track and destroy Russian drones",
+        "• Denmark has banned all civilian flights until Friday and placed heavy restrictions on flights "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.937
       }
     },
     {
@@ -49,6 +84,24 @@
       "sentiment": {
         "label": "negative",
         "score": 0.978
+      }
+    },
+    {
+      "id": "e5f5415d78b4",
+      "title": "Jobs, travel, national parks - what impact will US shutdown have?",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 05:27:19 GMT",
+      "bullets": [
+        "• The US federal government has shut down after a budget standoff",
+        "• About 800,000 people are expected to be put on unpaid leave",
+        "• Air traffic controllers will continue to work, but will not be paid until the shutdown ends",
+        "• The impact will also be felt by Americans planning to travel abroad, with passport agencies warning it could take longer to process travel documents "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
       }
     },
     {
@@ -120,6 +173,23 @@
       }
     },
     {
+      "id": "ec2c7d31141e",
+      "title": "Scientists may be closing in on dark matter’s true identity",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034209.htm",
+      "published_at": "Wed, 01 Oct 2025 03:21:00 EDT",
+      "bullets": [
+        "• Scientists may be closing in on dark matter’s true identity",
+        "• LUX-ZEPLIN is rewriting the rules in the epic quest to uncover dark matter",
+        "• The world's most sensitive dark matter detector, LZ (LZ) hunts for dark matter from a cavern nearly one mile underground in South Dakota "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.969
+      }
+    },
+    {
       "id": "fee2ae10eaec",
       "title": "Italy PM tells Gaza aid flotilla to stop or risk 'preventing peace'",
       "outlet": "BBC News",
@@ -173,6 +243,40 @@
       }
     },
     {
+      "id": "0d9785bb8de7",
+      "title": "Scientists just found the strongest signs of life on Mars yet",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034204.htm",
+      "published_at": "Wed, 01 Oct 2025 00:54:17 EDT",
+      "bullets": [
+        "• Scientists just found the strongest signs of life on Mars yet",
+        "• The presence of iron-phosphate and iron-sulfide nodules suggests processes resembling microbial activity on Earth",
+        "• Scientists caution that only Earth-based labs can confirm their true origin "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      }
+    },
+    {
+      "id": "be52766d3f7f",
+      "title": "Webb spots first hints of atmosphere on a potentially habitable world",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034237.htm",
+      "published_at": "Wed, 01 Oct 2025 00:28:50 EDT",
+      "bullets": [
+        "• Webb spots first hints of atmosphere on a potentially habitable world 40 light years away",
+        "• Early data suggests hints of an atmosphere, but much remains uncertain",
+        "• Researchers have already ruled out a hydrogen-rich primordial atmosphere, pointing to the possibility of a secondary atmosphere that could sustain oceans or ice "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      }
+    },
+    {
       "id": "2b07c1005749",
       "title": "Government shuts down after Congress fails to reach a funding agreement",
       "outlet": "NPR Topics: News",
@@ -187,24 +291,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.992
-      }
-    },
-    {
-      "id": "7ded6b705e7b",
-      "title": "European leaders meet in high-security Danish summit after drone disruption",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 23:21:17 GMT",
-      "bullets": [
-        "• European leaders meet in high-security European summit in Denmark",
-        "• Drones have been deployed in the country's airspace in the past week",
-        "• The EU has banned Russian drones from using its airspace in a bid to counter the threat posed by Russia",
-        "• The European Union has also banned Russian airspace from using drones "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.91
       }
     },
     {
@@ -428,23 +514,6 @@
       }
     },
     {
-      "id": "bdb91512c3c6",
-      "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 16:15:13 GMT",
-      "bullets": [
-        "• Donald Trump has made himself into a leader to whom it is hard to say no, says Bowen",
-        "• He says Hamas has 'three to four days' to decide whether to say yes or no to end the Gaza war",
-        "• Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      }
-    },
-    {
       "id": "864c18b4b98f",
       "title": "A lawsuit tries to block the Trump administration's efforts to merge personal data",
       "outlet": "NPR Topics: News",
@@ -478,88 +547,36 @@
       }
     },
     {
-      "id": "2f8fc84cce06",
-      "title": "For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jq63edv21o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 30 Sep 2025 13:36:59 GMT",
-      "bullets": [
-        "• For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
-        "• Netanyahu's far-right allies have threatened to leave – and possibly collapse – his government if he makes too many concessions in ending the war",
-        "• In return, he is dangling the prospect of a new, more peaceful future for the region "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      }
-    },
-    {
-      "id": "bc71e271397c",
-      "title": "Pollen holds a secret that could save honeybees",
+      "id": "14d2aa2fed63",
+      "title": "Scientists just solved Uranus’ coldest mystery",
       "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034200.htm",
-      "published_at": "Tue, 30 Sep 2025 09:08:38 EDT",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034246.htm",
+      "published_at": "Tue, 30 Sep 2025 03:42:46 EDT",
       "bullets": [
-        "• Symbiotic bacteria called Streptomyces produce antimicrobial compounds that fight deadly bee and plant pathogens",
-        "• Bees collect these bacteria along with pollen and store them in hives, creating a natural defense system",
-        "• This could lead to new, sustainable ways of protecting pollinators and crops "
+        "• For decades, Uranus baffled scientists because it seemed to have no internal heat",
+        "• New computer modeling shows the planet actually emits more energy than it receives from the Sun",
+        "• This subtle warmth suggests Uranus’ story is more complex than previously thought, offering fresh clues about its violent past "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.674
+        "score": 0.923
       }
     },
     {
-      "id": "b342d951c885",
-      "title": "New rocket fuel compound packs 150% more energy",
+      "id": "d3e1fecc2a32",
+      "title": "A plant compound might be the secret weapon against gum disease",
       "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
-      "published_at": "Tue, 30 Sep 2025 05:52:30 EDT",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034211.htm",
+      "published_at": "Tue, 30 Sep 2025 03:42:11 EDT",
       "bullets": [
-        "• University at Albany has created a new high-energy compound that could revolutionize rocket fuel and make space flights more efficient",
-        "• The compound releases more energy relative to its weight and volume compared to current fuels",
-        "• In a rocket, this would mean less fuel required to power the same flight duration or payload and more room for mission-critical supplies "
+        "• Morin-based powder, extracted from guava leaves, apple peel, and figs, can be slowly released with the help of polymers and serve as an alternative to antibiotics",
+        "• This could replace antibiotics, avoid side effects from existing treatments, and help vulnerable patients maintain oral health "
       ],
       "category": "Science",
       "sentiment": {
         "label": "negative",
-        "score": 0.956
-      }
-    },
-    {
-      "id": "dab46c87ff7c",
-      "title": "The hidden forces inside diamonds that could make tech 1,000x faster",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
-      "published_at": "Tue, 30 Sep 2025 05:00:59 EDT",
-      "bullets": [
-        "• Virtual charges, which exist only during brief interactions with light, play a critical role in ultrafast material responses",
-        "• Using attosecond pulses on diamonds, they showed these hidden carriers significantly influence optical behavior",
-        "• The findings could accelerate the development of petahertz-speed devices, unlocking a new era of ultrafast electronics "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "f2c1015941cc",
-      "title": "First living cochlea outside the body shows how hearing really works",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929055003.htm",
-      "published_at": "Tue, 30 Sep 2025 03:01:46 EDT",
-      "bullets": [
-        "• Scientists have kept a tiny slice of the cochlea alive outside the body, directly witnessing how hair cells amplify sound",
-        "• The finding confirms a universal principle of hearing and could pave the way for long-sought treatments for hearing loss",
-        "• The innovation is a product of five decades of work illuminating the molecular and neural mechanisms of hearing "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
+        "score": 0.991
       }
     },
     {
@@ -685,24 +702,6 @@
       }
     },
     {
-      "id": "525c760b9383",
-      "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
-      "published_at": "Mon, 29 Sep 2025 23:31:07 EDT",
-      "bullets": [
-        "• This tiny butterfly has the most chromosomes of any animal on Earth",
-        "• Unlike duplication, its chromosomes split apart, reshaping its genome in surprising ways",
-        "• Discovery sheds light on evolution, conservation, and even cancer research",
-        "• The Atlas blue butterfly is increasingly threatened by climate change and human impact "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      }
-    },
-    {
       "id": "c357cde442a9",
       "title": "Madagascar’s president dissolves government amid youth-led protests",
       "outlet": "World news | The Guardian",
@@ -770,6 +769,23 @@
       }
     },
     {
+      "id": "c97a62b53d43",
+      "title": "Roland’s TR-1000 is its first analog drum machine in over 40 years",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909",
+      "published_at": "2025-10-01T03:00:00-04:00",
+      "bullets": [
+        "• The TR-1000 is Roland’s first analog drum machine in over 40 years",
+        "• It recreates 16 analog sound circuits from the 808 and the 909",
+        "• It pairs those authentic analog voices with digital ACB sound, FM percussion, PCM samples, and more "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      }
+    },
+    {
       "id": "b15efd5b2638",
       "title": "All hail the new Fat Bear Champion",
       "outlet": "The Verge",
@@ -833,23 +849,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.887
-      }
-    },
-    {
-      "id": "41317fc078d8",
-      "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale",
-      "published_at": "2025-09-30T14:28:35-04:00",
-      "bullets": [
-        "• Right now, Sonos is offering up to 25 percent off a range of refurbished Sonos devices",
-        "• The Sonos Era 100, Era 300, and the portable Move 2 are among the deals",
-        "• Deals include a one-year subscription of The Criterion Channel and a powerful HP gaming laptop "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     }
   ]
