@@ -1,6 +1,23 @@
 {
-  "generated_at": "2025-10-01T23:28:47Z",
+  "generated_at": "2025-10-01T23:46:48Z",
   "items": [
+    {
+      "id": "b290c4b0faad",
+      "title": "White House plays racist deepfake videos of Chuck Schumer and Hakeem Jeffries on loop – live updates",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Wed, 01 Oct 2025 23:26:44 GMT",
+      "bullets": [
+        "• White House warns layoffs are imminent if shutdown drags on",
+        "• White House plays racist deepfake videos of Democratic leaders on a loop in briefing room",
+        "• Leavitt tells reporters that government agencies are already preparing for cuts and “layoffs are imminent”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
     {
       "id": "27ec502c3522",
       "title": "‘When you’re in the corn, everything looks the same’: it’s fun to get lost in California’s giant corn maze",
@@ -85,23 +102,6 @@
       "sentiment": {
         "label": "negative",
         "score": 1.0
-      }
-    },
-    {
-      "id": "b290c4b0faad",
-      "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in their out-of-office email notes – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 22:09:02 GMT",
-      "bullets": [
-        "• White House warns layoffs are imminent if shutdown drags on",
-        "• White House plays racist deepfake videos of Democratic leaders on a loop in briefing room",
-        "• Leavitt tells reporters that government agencies are already preparing for cuts and “layoffs are imminent”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -846,14 +846,14 @@
       "url": "https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer",
       "published_at": "2025-10-01T15:45:48-04:00",
       "bullets": [
-        "• President Donald Trump is launching a new website that will let Americans buy medications at lower prices",
-        "• The new website, called TrumpRx, is expected to launch in 2026 and will direct consumers to discounts on drugmakers’ online stores",
-        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for manufacturing "
+        "• The new website, called TrumpRx, is expected to launch in 2026",
+        "• It will link Americans to drugmakers’ websites to buy medications at a discount",
+        "• The website is part of a deal that grants Pfizer a three-year reprieve from tariffs in exchange for investing in US-based manufacturing "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.591
+        "label": "positive",
+        "score": 0.8
       }
     }
   ]
