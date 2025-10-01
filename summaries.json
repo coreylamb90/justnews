@@ -1,6 +1,41 @@
 {
-  "generated_at": "2025-10-01T22:48:36Z",
+  "generated_at": "2025-10-01T23:28:47Z",
   "items": [
+    {
+      "id": "27ec502c3522",
+      "title": "‘When you’re in the corn, everything looks the same’: it’s fun to get lost in California’s giant corn maze",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/california-corn-maze",
+      "published_at": "Wed, 01 Oct 2025 23:02:38 GMT",
+      "bullets": [
+        "• Cool Patch Pumpkins once crowned the world’s largest corn maze in 2007 and again in 2014",
+        "• The maze is spread out over 40 acres and takes at least 45 minutes to complete",
+        "• It is also known for the elaborate designs Cooley and his team create in the corn that can be seen overhead "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "c07f0e1174cd",
+      "title": "Conservationist Dame Jane Goodall dies aged 91",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 22:47:06 GMT",
+      "bullets": [
+        "• Conservationist Dame Jane Goodall died of natural causes while on a speaking tour of the US",
+        "• Her observations helped reveal how closely related humans are to chimpanzees",
+        "• She also worked tirelessly for conservation projects around the world",
+        "• Her discoveries \"revolutionised science\" and \"left an extraordinary legacy for humanity and nature\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      }
+    },
     {
       "id": "7153564c8df3",
       "title": "Israeli naval ships intercept Gaza-bound flotilla",
@@ -37,19 +72,52 @@
       }
     },
     {
+      "id": "6d520616ddaf",
+      "title": "That annoying SMS phish you just got may have come from a box like this",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/",
+      "published_at": "Wed, 01 Oct 2025 22:16:07 +0000",
+      "bullets": [
+        "• Scammers have been abusing unsecured cellular routers used in industrial settings to blast SMS-based phishing messages in campaigns that have been ongoing since 2023, researchers say",
+        "• The routers are rugged Internet of Things devices that use cellular networks to connect traffic lights, electric power meters, and other sorts of remote industrial devices to central hubs "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
       "id": "b290c4b0faad",
-      "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in out of office email notes – live",
+      "title": "Trump administration suggests layoffs ‘imminent’ as some federal staff told to ‘blame Democrats’ in their out-of-office email notes – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
       "published_at": "Wed, 01 Oct 2025 22:09:02 GMT",
       "bullets": [
         "• White House warns layoffs are imminent if shutdown drags on",
-        "• Government agencies are already preparing for cuts and ‘layoffs are imminent’ Hakeem Jeffries and Chuck Schumer accuse the Trump administration of retaliating against their constituents by putting billions of dollars to revamp transportation infrastructure on hold "
+        "• White House plays racist deepfake videos of Democratic leaders on a loop in briefing room",
+        "• Leavitt tells reporters that government agencies are already preparing for cuts and “layoffs are imminent”"
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.997
+      }
+    },
+    {
+      "id": "295a50e670ea",
+      "title": "Megafauna was the meat of choice for South American hunters",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/10/ice-age-hunters-in-south-america-preferred-now-extinct-megafauna/",
+      "published_at": "Wed, 01 Oct 2025 21:52:45 +0000",
+      "bullets": [
+        "• Archaeologists examined animal bones at sites dating to the waning years of the last Ice Age",
+        "• They found evidence that people butchered giant sloths, giant armadillos, and elephant-like creatures were on the menu for hunters in South America "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.688
       }
     },
     {
@@ -85,23 +153,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "c07f0e1174cd",
-      "title": "Conservationist Dame Jane Goodall dies aged 91",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 20:30:56 GMT",
-      "bullets": [
-        "• Jane Goodall died of natural causes while in California on a speaking tour of the US",
-        "• Her observations helped reveal how closely related humans are to chimpanzees",
-        "• Her discoveries \"revolutionised science\" and she was a \"tireless advocate for the protection and restoration of our natural world\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
       }
     },
     {
@@ -225,40 +276,6 @@
       }
     },
     {
-      "id": "e5bec7ec1b83",
-      "title": "Wisconsin Planned Parenthood clinics suspend abortion services amid funding crisis",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/wisconsin-planned-parenthood-abortion-funding",
-      "published_at": "Wed, 01 Oct 2025 18:54:52 GMT",
-      "bullets": [
-        "• Planned Parenthood clinics in Wisconsin will stop providing abortions on Wednesday",
-        "• A provision in Donald Trump’s new tax and spending bill blocks Planned Parenthood from receiving reimbursements from Medicaid",
-        "• Planned Parenthood of Wisconsin appears to be attempting to continue receiving Medicaid reimbursements for services such as contraception and cancer screenings "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "323e2cb18451",
-      "title": "OpenAI’s Sora 2 lets users insert themselves into AI videos with sound",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/10/openais-sora-2-lets-users-insert-themselves-into-ai-videos-with-sound/",
-      "published_at": "Wed, 01 Oct 2025 18:37:00 +0000",
-      "bullets": [
-        "• OpenAI announces its second-generation video-synthesis AI model, Sora 2",
-        "• The new model can generate synchronized dialogue and sound effects with a high degree of realism",
-        "• The model represents what OpenAI describes as its \"GPT-3.5 moment for video\""
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      }
-    },
-    {
       "id": "d1996f8addfb",
       "title": "Four ways this US government shutdown could end",
       "outlet": "BBC News",
@@ -270,23 +287,6 @@
         "• Here are four scenarios for how that might play out "
       ],
       "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "02153d3af089",
-      "title": "FCC chairman leads “cruel” vote to take Wi-Fi access away from school kids",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/fcc-chairman-leads-cruel-vote-to-take-wi-fi-access-away-from-school-kids/",
-      "published_at": "Wed, 01 Oct 2025 18:09:47 +0000",
-      "bullets": [
-        "• The FCC voted to end funding for two programs designed to help schoolchildren access the Internet",
-        "• The FCC says Biden-era orders to establish the programs exceeded the FCC's authority",
-        "• With the vote, the Universal Service Fund administrator will deny requests to fund Wi-Fi hotspots on school buses "
-      ],
-      "category": "Technology",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -846,14 +846,14 @@
       "url": "https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer",
       "published_at": "2025-10-01T15:45:48-04:00",
       "bullets": [
-        "• The new website, called TrumpRx, is expected to launch in 2026",
-        "• It will link Americans to drugmakers’ websites to buy medications at a discount",
-        "• The website is part of a deal that grants Pfizer a three-year reprieve from tariffs in exchange for investing in US-based manufacturing "
+        "• President Donald Trump is launching a new website that will let Americans buy medications at lower prices",
+        "• The new website, called TrumpRx, is expected to launch in 2026 and will direct consumers to discounts on drugmakers’ online stores",
+        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for manufacturing "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.8
+        "label": "neutral",
+        "score": 0.591
       }
     }
   ]
