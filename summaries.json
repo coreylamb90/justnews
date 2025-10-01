@@ -1,21 +1,125 @@
 {
-  "generated_at": "2025-10-01T18:42:31Z",
+  "generated_at": "2025-10-01T19:26:58Z",
   "items": [
     {
       "id": "b290c4b0faad",
       "title": "US government shutdown live: White House says ‘layoffs are imminent’ as JD Vance uses false claims to blame Democrats for shutdown",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 18:20:03 GMT",
+      "published_at": "Wed, 01 Oct 2025 18:56:10 GMT",
       "bullets": [
         "• White House warns of 'imminent' layoffs if government shutdown drags on",
-        "• No decision yet made on what to do about furloughs, says vice-president",
-        "• Largest number of people in the country will be affected by the shutdown "
+        "• White House says agencies are already preparing for cuts and ‘layoffs are imminent’ Senator Blumenthal of Connecticut says ‘there is a lot of bipartisan hopefuls’ on the shutdown "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.992
+      }
+    },
+    {
+      "id": "4078741b6c17",
+      "title": "Intel stock pops on news company is in early talks to add AMD as a customer",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html",
+      "published_at": "Wed, 01 Oct 2025 18:55:44 GMT",
+      "bullets": [
+        "• Intel is reportedly in talks with AMD to manufacture chips for it in its foundry business",
+        "• Intel shares rose as much as 6% on the news at one point during trading on Wednesday",
+        "• AMD currently manufactures its chips with TSMC",
+        "• It is unclear how much manufacturing AMD would do with Intel "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "8c9bc22d4dd6",
+      "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
+      "published_at": "Wed, 01 Oct 2025 18:55:02 GMT",
+      "bullets": [
+        "• Federal Reserve Governor Lisa Cook is allowed to remain in her post pending oral arguments in January",
+        "• The Supreme Court's move is a blow to President Donald Trump, who has repeatedly tried to remove Cook from the Fed's Board of Governors without delay",
+        "• Trump has cited claims that Cook committed mortgage fraud as his reason for firing her",
+        "• Cook denies any wrongdoing in connection with statements she made before joining the Fed in applying for mortgages "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "e5bec7ec1b83",
+      "title": "Wisconsin Planned Parenthood clinics suspend abortion services amid funding crisis",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/wisconsin-planned-parenthood-abortion-funding",
+      "published_at": "Wed, 01 Oct 2025 18:54:52 GMT",
+      "bullets": [
+        "• Planned Parenthood clinics in Wisconsin will stop providing abortions on Wednesday",
+        "• A provision in Donald Trump’s new tax and spending bill blocks Planned Parenthood from receiving reimbursements from Medicaid",
+        "• Planned Parenthood of Wisconsin appears to be attempting to continue receiving Medicaid reimbursements for other services like cancer screenings and contraception "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "0e641b2b992a",
+      "title": "Germany arrests suspected Hamas members over alleged attack plot",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgknpzrkyvno?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 18:37:32 GMT",
+      "bullets": [
+        "• Three men arrested in Germany over alleged plot to attack Israeli and Jewish institutions",
+        "• They are believed to be members of the Palestinian armed group Hamas",
+        "• The men, two of whom are German citizens, were arrested in Berlin on Tuesday",
+        "• The group is considered a terrorist organisation by the European Union "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      }
+    },
+    {
+      "id": "323e2cb18451",
+      "title": "OpenAI’s Sora 2 lets users insert themselves into AI videos with sound",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2025/10/openais-sora-2-lets-users-insert-themselves-into-ai-videos-with-sound/",
+      "published_at": "Wed, 01 Oct 2025 18:37:00 +0000",
+      "bullets": [
+        "• OpenAI announces its second-generation video-synthesis AI model, Sora 2",
+        "• The new model can generate synchronized dialogue and sound effects with a high degree of realism",
+        "• The model represents what OpenAI describes as its \"GPT-3.5 moment for video\""
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      }
+    },
+    {
+      "id": "d1996f8addfb",
+      "title": "Four ways this US government shutdown could end",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdr6pnky7vyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 01 Oct 2025 18:25:22 GMT",
+      "bullets": [
+        "• US Senate was unable to pass a spending bill that would have kept the US government funded",
+        "• At some point, this shutdown – like all the ones before it - will end at some point",
+        "• Here are four scenarios for how that might play out "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -104,41 +208,6 @@
       }
     },
     {
-      "id": "0e641b2b992a",
-      "title": "Germany arrests suspected Hamas members over alleged attack plot",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgknpzrkyvno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 17:49:46 GMT",
-      "bullets": [
-        "• Germany arrests three suspected Hamas members over alleged attack plot",
-        "• They are suspected of planning attacks on Israeli and Jewish institutions in Germany",
-        "• The men, two of whom are German citizens and one of whom is Lebanese-born, were arrested in Berlin",
-        "• The arrests came a day before Yom Kippur, the holiest day of the Jewish calendar "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      }
-    },
-    {
-      "id": "e49d46cc6cb7",
-      "title": "US government shuts down after Senate fails to advance both parties’ bills",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down",
-      "published_at": "Wed, 01 Oct 2025 17:47:09 GMT",
-      "bullets": [
-        "• Lawmakers failed to pass a GOP-drafted short-term extension in a 55-45 vote",
-        "• This version would keep the government funded until 21 November",
-        "• Only one Republican, senator Rand Paul of Kentucky, voted “no”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "9363e20d2e6d",
       "title": "Afghans rejoice as internet returns after Taliban blackout",
       "outlet": "BBC News",
@@ -170,23 +239,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "8c9bc22d4dd6",
-      "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
-      "published_at": "Wed, 01 Oct 2025 17:12:56 GMT",
-      "bullets": [
-        "• Federal Reserve Governor Lisa Cook is allowed to remain in her post pending oral arguments in January on whether President Donald Trump has legal cause to fire her",
-        "• Trump has cited claims that Cook committed mortgage fraud as his reason for firing her",
-        "• Cook denies any wrongdoing in connection with statements she made before joining the Fed in applying for mortgages "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
       }
     },
     {
@@ -295,36 +347,20 @@
       }
     },
     {
-      "id": "930b1c25f153",
-      "title": "UK once again demands backdoor to Apple’s encrypted cloud storage",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/",
-      "published_at": "Wed, 01 Oct 2025 15:40:03 +0000",
+      "id": "153847fdf4ba",
+      "title": "Students, listen up! NPR's College Podcast Challenge is back for 2025",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559784/nprs-college-podcast-challenge-returns-for-2025",
+      "published_at": "Wed, 01 Oct 2025 15:07:53 -0400",
       "bullets": [
-        "• UK Home Office demands Apple create a means to allow officials access to encrypted cloud backups",
-        "• Apple says it has never built a back door or master key to any of its products or services and never will",
-        "• Apple withdrew its most secure cloud storage service from the UK in February "
+        "• NPR's College Podcast Challenge is back for its fifth year, with a $5,000 cash prize",
+        "• If you have a passion project or a story you want to get off your chest, here's your chance to make it happen",
+        "• The winner will be announced on NPR's Morning Edition and All Things Considered "
       ],
-      "category": "Technology",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "bc3dee09c0aa",
-      "title": "States sue Zillow, Redfin for alleged antitrust violation in online rental housing",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/state-ags-sue-zillow-redfin-for-alleged-antitrust-violation.html",
-      "published_at": "Wed, 01 Oct 2025 15:34:16 GMT",
-      "bullets": [
-        "• Attorneys general from five states sue Zillow and Redfin over a February deal",
-        "• New York Attorney General Letitia James: \"Zillow's attempt to shut down its competition could drive up costs for advertisers and leave renters with fewer options\" The lawsuit follows a similar one filed by the Federal Trade Commission "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
+        "score": 0.983
       }
     },
     {
@@ -398,33 +434,17 @@
       }
     },
     {
-      "id": "223e824e94fd",
-      "title": "The BET Hip Hop Awards cut the cord as DEI dies",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/g-s1-91314/bet-hip-hop-awards-dei-archival-history",
-      "published_at": "Wed, 01 Oct 2025 13:01:40 -0400",
+      "id": "a70398fa53c4",
+      "title": "What happens when the firewall between the White House and the DOJ comes down?",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559205/what-happens-when-the-firewall-between-the-white-house-and-the-doj-comes-down",
+      "published_at": "Wed, 01 Oct 2025 12:03:35 -0400",
       "bullets": [
-        "• The BET Hip Hop Awards has been suspended as cultural history more broadly faces erasure at the institutional level",
-        "• The network hasn't pulled the plug outright; \"suspended\" is how BET's CEO Scott Mills described the current state of both its hip-hop and Soul Train award show franchises in an interview with Billboard "
+        "• President Trump is pressuring the Department of Justice to pursue his political enemies",
+        "• Legal scholar Barbara McQuade explains how this damages the rule of law",
+        "• This week, the Justice Department ordered federal prosecutors in at least seven states to draft plans to investigate George Soros' Open Society Foundations "
       ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "e5f5415d78b4",
-      "title": "Jobs, travel, national parks - what impact will US shutdown have?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgj1p485p0no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 12:13:57 GMT",
-      "bullets": [
-        "• Federal workers will not receive any pay cheques while the shutdown continues",
-        "• Air traffic controllers will continue to work, but will not be paid until the end of the year",
-        "• The shutdown could lead to long delays in flights and delays in travel across the country "
-      ],
-      "category": "World",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -720,20 +740,37 @@
       }
     },
     {
+      "id": "e8bdfd5bc283",
+      "title": "Plenty of robot vacuums are already discounted ahead of October Prime Day",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025",
+      "published_at": "2025-10-01T15:20:41-04:00",
+      "bullets": [
+        "• Some of the biggest savings so far are on robot vacuums",
+        "• Roborock’s S8 MaxV Ultra — our favorite robot vacuum overall — is down to its best price to date",
+        "• Even budget-friendly picks like the Tapo RV30 Max Plus are receiving sizable discounts "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      }
+    },
+    {
       "id": "f2b19a86238c",
       "title": "US government takes equity stake in one of the world’s largest lithium mines",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass",
       "published_at": "2025-10-01T14:31:27-04:00",
       "bullets": [
-        "• The Trump administration is taking a 5 percent equity ownership of mining company Lithium Americas",
-        "• The mine at Thacker Pass is expected to become the largest producer of lithium in the western hemisphere once it opens in 2028",
+        "• US government takes equity stake in one of the world’s largest lithium mines",
+        "• The mine at Thacker Pass is expected to become the largest producer of lithium in the Western Hemisphere once it opens in 2028",
         "• Both the Biden and Trump administrations have sought to wean the US off foreign imports of lithium "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.885
+        "score": 0.948
       }
     },
     {
@@ -789,24 +826,6 @@
       }
     },
     {
-      "id": "7150c7fb0d8b",
-      "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
-      "published_at": "2025-10-01T12:00:00-04:00",
-      "bullets": [
-        "• Microsoft is merging Copilot Pro and Microsoft 365 into a new Microsoft 365 Premium subscription",
-        "• It will be priced at $19.99 per month, the same price as OpenAI’s ChatGPT Plus subscription",
-        "• The subscription includes Copilot Podcasts, Deep Research, Vision, and Actions",
-        "• It also includes access to Office desktop apps for six people, 1TB of storage per person "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      }
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -838,23 +857,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.996
-      }
-    },
-    {
-      "id": "8113583c1aab",
-      "title": "Margins of Error",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/margins-of-error",
-      "published_at": null,
-      "bullets": [
-        "• This season on Margins of Error, Harry teases out big ideas like what accents say about where we live, how much money it takes to be happy, and whether the U.S",
-        "• should finally switch to the metric system",
-        "• Harry talks to some very smart people who are doing their best to optimize the way we travel "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
       }
     }
   ]
