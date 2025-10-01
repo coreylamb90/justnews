@@ -1,20 +1,38 @@
 {
-  "generated_at": "2025-10-01T19:26:58Z",
+  "generated_at": "2025-10-01T19:47:11Z",
   "items": [
     {
       "id": "b290c4b0faad",
-      "title": "US government shutdown live: White House says ‘layoffs are imminent’ as JD Vance uses false claims to blame Democrats for shutdown",
+      "title": "Trump administration suggests ‘imminent’ layoffs as bipartisan group of senators seek way out of government shutdown – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Wed, 01 Oct 2025 18:56:10 GMT",
+      "published_at": "Wed, 01 Oct 2025 19:32:28 GMT",
       "bullets": [
-        "• White House warns of 'imminent' layoffs if government shutdown drags on",
-        "• White House says agencies are already preparing for cuts and ‘layoffs are imminent’ Senator Blumenthal of Connecticut says ‘there is a lot of bipartisan hopefuls’ on the shutdown "
+        "• White House warns of ‘imminent’ government layoffs if shutdown drags on",
+        "• White House: “We believe that layoffs are imminent” for government agencies",
+        "• Democrats in Congress have found the ground on which to fight the government shutdown "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.983
+      }
+    },
+    {
+      "id": "b8ec60d742e2",
+      "title": "Google cuts more than 100 design-related roles in cloud unit",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/google-cloud-unit-layoffs.html",
+      "published_at": "Wed, 01 Oct 2025 19:23:20 GMT",
+      "bullets": [
+        "• Google has laid off more than 100 employees in design-related roles, CNBC has learned",
+        "• The cloud unit's \"quantitative user experience research\" teams and \"platform and service experience\" teams were laid off earlier this week",
+        "• The roles often use data, surveys and other tools to understand and implement user behaviors "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -326,24 +344,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.989
-      }
-    },
-    {
-      "id": "8de80216c463",
-      "title": "Microsoft launches AI and productivity software bundle for consumers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/microsoft-365-premium-bundle-ai-copilot.html",
-      "published_at": "Wed, 01 Oct 2025 16:00:01 GMT",
-      "bullets": [
-        "• Microsoft will stop promoting a consumer subscription for artificial intelligence services",
-        "• The software company introduced Copilot Pro at $20 per month in early 2024",
-        "• The new Microsoft 365 Premium tier essentially combines both and will cost $19.99 a month",
-        "• Microsoft 365 Family goes for $12.99 each month "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
       }
     },
     {
@@ -740,6 +740,23 @@
       }
     },
     {
+      "id": "6d5a5d42906c",
+      "title": "Behold: The Lego Game Boy has already been modded to play games for real",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd",
+      "published_at": "2025-10-01T15:36:13-04:00",
+      "bullets": [
+        "• A self-taught circuit board designer and Game Boy modder has already made the Lego Game Boy playable",
+        "• Natalie the Nerd is selling aftermarket components for modding",
+        "• The working buttons, for instance, aren’t yet mounted on a PCB; they’ll fit on a custom 3D-printed Lego piece "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
       "id": "e8bdfd5bc283",
       "title": "Plenty of robot vacuums are already discounted ahead of October Prime Day",
       "outlet": "The Verge",
@@ -780,9 +797,9 @@
       "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
       "published_at": "2025-10-01T13:13:30-04:00",
       "bullets": [
-        "• Instagram head Adam Mosseri made a ‘myth busting’ video attempting to set the record straight on a persistent rumor about Meta",
+        "• Instagram head Adam Mosseri made a “myth busting” video attempting to set the record straight on a persistent rumor about Meta",
         "• “I swear, we do not listen to your microphone,” he says",
-        "• “We do not use your microphone unless you've given us permission, and even then, we only use it when you’re actively using a feature that requires the microphone "
+        "• In a 2018 Senate hearing, CEO Mark Zuckerberg responded to the question on the topic with a direct “no” response "
       ],
       "category": "Technology",
       "sentiment": {
@@ -806,23 +823,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "70e472bd139c",
-      "title": "Microsoft’s Windows XP Crocs are here",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/789982/microsoft-windows-xp-crocs-launch",
-      "published_at": "2025-10-01T13:03:50-04:00",
-      "bullets": [
-        "• Microsoft has officially debuted its Windows XP-themed Crocs, which feature a design inspired by the classic operating system’s ‘Bliss’ wallpaper",
-        "• The nostalgic kicks come with a shoe charm of Clippy and the Internet Explorer logo",
-        "• Microsoft is holding a sweepstakes on its Instagram account for a chance to win a pair "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
       }
     },
     {
