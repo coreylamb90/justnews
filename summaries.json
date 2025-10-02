@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T19:32:02Z",
+  "generated_at": "2025-10-02T19:53:26Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -391,6 +391,42 @@
       }
     },
     {
+      "id": "6ae10e5ca7b1",
+      "title": "Amazon faces FAA, NTSB probe after two delivery drones crashed into crane in Arizona",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/amazon-drone-crash-faa-ntsb.html",
+      "published_at": "Thu, 02 Oct 2025 19:41:24 GMT",
+      "bullets": [
+        "• Two drones collided with a crane in Tolleson, Arizona, on Wednesday afternoon",
+        "• The drones were flying back-to-back when they collided with the crane, police say",
+        "• One person was evaluated on the scene for possible smoke inhalation",
+        "• The incident prompted Amazon to temporarily pause drone service in the area "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "9a194a665226",
+      "title": "Intel stock is up 50% over the last month, putting U.S. stake at $16 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/intel-stock-us-trump-stake.html",
+      "published_at": "Thu, 02 Oct 2025 19:33:51 GMT",
+      "bullets": [
+        "• Shares of U.S",
+        "• chipmaker Intel climbed 3% Thursday, putting the monthly gain over 50%",
+        "• The surge pushed the stock past $37, hiking the value of the government's 10% stake in Intel to roughly $16 billion",
+        "• The Trump administration negotiated an $8.9 billion investment in Intel common stock in August "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
       "id": "bf6d12e7ece1",
       "title": "‘Ikatan Darah’ Review: A Revenge Film Packed To The Brim with Action [Fantastic Fest 2025]",
       "outlet": "Dread Central",
@@ -404,6 +440,22 @@
       "sentiment": {
         "label": "positive",
         "score": 1.0
+      }
+    },
+    {
+      "id": "ffc7597ff70f",
+      "title": "Federal agencies blaming Democrats for shutdown in potentially illegal move",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/02/government-shutdown-emails-blaming-democrats",
+      "published_at": "Thu, 02 Oct 2025 19:24:12 GMT",
+      "bullets": [
+        "• Furloughed federal employees at some agencies have been instructed to set out-of-office messages explaining that they are not working because Democrats caused a shutdown",
+        "• The political messaging may be a violation of the Hatch Act, which prohibits federal employees from engaging in partisan political activity "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -480,12 +532,12 @@
       "published_at": "Thu, 02 Oct 2025 19:05:13 GMT",
       "bullets": [
         "• US government layoffs 'likely to be in the thousands', says White House spokeswoman Karoline Leavitt",
-        "• White House looking at agencies that 'don't align with president’s values' WIC, the federal program that provides free, healthy food to low-income pregnant women, new mothers and children under five, could run out of funds if the government shutdown persists "
+        "• White House seeking to strike deals with companies across 30 different industries deemed critical to national or economic security, Reuters reports, in a concerted push before next year's midterm elections "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.995
       }
     },
     {
@@ -536,24 +588,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.938
-      }
-    },
-    {
-      "id": "6ae10e5ca7b1",
-      "title": "Amazon faces FAA, NTSB probe after two delivery drones crashed into crane in Arizona",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/amazon-drone-crash-faa-ntsb.html",
-      "published_at": "Thu, 02 Oct 2025 18:54:54 GMT",
-      "bullets": [
-        "• Two drones collided with a crane in Tolleson, Arizona, on Wednesday afternoon",
-        "• The drones were flying back-to-back when they collided with the crane, police say",
-        "• One person was evaluated on the scene for possible smoke inhalation",
-        "• The incident prompted Amazon to temporarily pause drone service in the area "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -809,40 +843,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "9e8648aacf05",
-      "title": "Slash and burn: Trump budget chief relishes chance to cut, fire and cancel",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/02/trump-russ-vought-government-shutdown",
-      "published_at": "Thu, 02 Oct 2025 17:43:17 GMT",
-      "bullets": [
-        "• Donald Trump's social media post about government shutdown taunts 'Project 2025' Project 2025' may have been a deliberate taunt",
-        "• The document is the rightwing blueprint for remaking American government",
-        "• Trump has denied all knowledge of or connection to the document during the 2016 election campaign "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "9a194a665226",
-      "title": "Intel stock is up 50% over the last month, putting U.S. stake at $16 billion",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/intel-stock-us-trump-stake.html",
-      "published_at": "Thu, 02 Oct 2025 17:37:40 GMT",
-      "bullets": [
-        "• The surge pushed the stock past $37, hiking the value of the U.S",
-        "• government's 10% stake in Intel to roughly $16 billion",
-        "• The Trump administration negotiated an $8.9 billion investment in Intel common stock in August, purchasing 433.3 million shares "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
       }
     },
     {
@@ -1515,6 +1515,22 @@
       }
     },
     {
+      "id": "8a5cdc693dad",
+      "title": "Strava sues Garmin over alleged patent infringement",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790922/strava-garmin-patent-infringement-lawsuit",
+      "published_at": "2025-10-02T15:37:59-04:00",
+      "bullets": [
+        "• Strava is suing its long-time partner Garmin, and is seeking to permanently block the company from selling most of its current fitness and cycling gadgets",
+        "• The lawsuit filed in the US District Court of Colorado on September 30th alleges that Garmin violated an agreement between the companies by infringing on its patents for segments and heat maps "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      }
+    },
+    {
       "id": "abb8ef06d5fb",
       "title": "Here are 65 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event",
       "outlet": "The Verge",
@@ -1580,23 +1596,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "7dd6aa57009e",
-      "title": "Perplexity’s Comet browser is now available to everyone for free",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
-      "published_at": "2025-10-02T13:00:00-04:00",
-      "bullets": [
-        "• Perplexity’s Comet browser is now available to everyone for free",
-        "• The AI-powered browser launched in July, but was only available for users who paid $200 per month",
-        "• It incorporates AI search tools and a personal AI assistant that actually “travels the web with” users "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
       }
     },
     {
