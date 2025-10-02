@@ -1,24 +1,6 @@
 {
-  "generated_at": "2025-10-02T01:58:51Z",
+  "generated_at": "2025-10-02T03:08:45Z",
   "items": [
-    {
-      "id": "c07f0e1174cd",
-      "title": "Conservationist Dame Jane Goodall dies aged 91",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 22:47:06 GMT",
-      "bullets": [
-        "• Conservationist Dame Jane Goodall died of natural causes while on a speaking tour of the US",
-        "• Her observations helped reveal how closely related humans are to chimpanzees",
-        "• She also worked tirelessly for conservation projects around the world",
-        "• Her discoveries \"revolutionised science\" and \"left an extraordinary legacy for humanity and nature\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      }
-    },
     {
       "id": "6d520616ddaf",
       "title": "That annoying SMS phish you just got may have come from a box like this",
@@ -121,24 +103,6 @@
       }
     },
     {
-      "id": "8c9bc22d4dd6",
-      "title": "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
-      "published_at": "Wed, 01 Oct 2025 18:55:02 GMT",
-      "bullets": [
-        "• Federal Reserve Governor Lisa Cook is allowed to remain in her post pending oral arguments in January",
-        "• The Supreme Court's move is a blow to President Donald Trump, who has repeatedly tried to remove Cook from the Fed's Board of Governors without delay",
-        "• Trump has cited claims that Cook committed mortgage fraud as his reason for firing her",
-        "• Cook denies any wrongdoing in connection with statements she made before joining the Fed in applying for mortgages "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "d1996f8addfb",
       "title": "Four ways this US government shutdown could end",
       "outlet": "BBC News",
@@ -206,6 +170,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.973
+      }
+    },
+    {
+      "id": "1934705a04f0",
+      "title": "Jane Fonda calls for 'creative nonviolent noncooperation' to defend free speech",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559359/jane-fonda-calls-for-creative-nonviolent-noncooperation-to-defend-free-speech",
+      "published_at": "Wed, 01 Oct 2025 16:42:44 -0400",
+      "bullets": [
+        "• Hundreds of A-list celebrities have signed on to support the Committee for the First Amendment",
+        "• Jane Fonda calls for 'creative nonviolent noncooperation' to defend free speech",
+        "• She's leading the organization, following in the footsteps of her father, Henry Fonda "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
       }
     },
     {
@@ -277,20 +258,21 @@
       }
     },
     {
-      "id": "34bc997cadeb",
-      "title": "Una serie visual de NPR explora el ritmo de la cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/01/g-s1-91015/una-serie-visual-de-npr-explora-el-ritmo-de-la-cumbia",
-      "published_at": "Wed, 01 Oct 2025 16:00:00 -0400",
+      "id": "85fb4aefb092",
+      "title": "Sen. Cortez Masto explains why she broke ranks with democrats on shutdown vote",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5559633/sen-cortez-masto-explains-why-she-broke-ranks-with-democrats-on-shutdown-vote",
+      "published_at": "Wed, 01 Oct 2025 15:58:12 -0400",
       "bullets": [
-        "• Una serie visual de NPR explora el ritmo de la cumbia",
-        "• Cumbia Across Latin America recorries via Colombia, México, Ecuador, Perú, Argentina and Estados Unidos",
-        "• La banda sonora comenzó comencias y expandido by viajado de forma subterránea por América Latina "
+        "• Sen",
+        "• Cortez Masto explains why she broke ranks with democrats on shutdown vote",
+        "• Three Senate Democrats broke with their party and voted with Republicans to fund the government and avert a shut down",
+        "• One of the few exceptions is Nevada Senator Catherine Cortez-Masto of Nevada "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.885
+        "score": 0.953
       }
     },
     {
@@ -499,11 +481,63 @@
       }
     },
     {
+      "id": "c07f0e1174cd",
+      "title": "Conservationist Dame Jane Goodall dies aged 91",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 02:45:00 GMT",
+      "bullets": [
+        "• Jane Goodall died of natural causes while in California on a speaking tour of the US",
+        "• Her observations helped reveal how closely related humans are to chimpanzees",
+        "• She also worked tirelessly for conservation projects around the world",
+        "• Her discoveries \"revolutionised science\" and she was a \"tireless advocate for the protection and restoration of our natural world\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "5f5eebfce7fd",
+      "title": "South Korea's Kospi hits record high as Samsung and SK Hynix soar on OpenAI partnership",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/asia-markets-live-thursday-singapore-pmi-.html",
+      "published_at": "Thu, 02 Oct 2025 02:27:56 GMT",
+      "bullets": [
+        "• South Korea's Kospi index jumped more than 3% Thursday to hit an all-time high",
+        "• Shares in Samsung Electronics and SK Hynix, which announced a partnership with OpenAI, rose over 4% and 11%",
+        "• Consumer price index climbed 2.1% year on year in September, more than the 2% expected by economists in a Reuters poll "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.601
+      }
+    },
+    {
+      "id": "7153564c8df3",
+      "title": "Israeli naval ships intercept Gaza-bound flotilla",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 02:19:40 GMT",
+      "bullets": [
+        "• Israeli navy intercepts boats carrying aid to Gaza and detains activists aboard",
+        "• Global Sumud Flotilla activists include climate campaigner Greta Thunberg",
+        "• Israeli Foreign Ministry says vessels were \"safely stopped\" and are being transferred to an Israeli port "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      }
+    },
+    {
       "id": "6328b6924a95",
-      "title": "SK Hynix shares hit multidecade highs, Samsung also surges as chipmakers partner with OpenAI",
+      "title": "SK Hynix shares hit 25-year high, Samsung also surges as chipmakers partner with OpenAI",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html",
-      "published_at": "Thu, 02 Oct 2025 01:45:50 GMT",
+      "published_at": "Thu, 02 Oct 2025 02:08:58 GMT",
       "bullets": [
         "• Samsung and SK Hynix have partnered with artificial-intelligence major OpenAI",
         "• The two companies plan to scale up production of advanced memory chips",
@@ -514,7 +548,41 @@
       "category": "Business",
       "sentiment": {
         "label": "positive",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "3fd701325b0d",
+      "title": "Perky Maxwell House viral ad takes on housing crisis as ‘Maxwell Apartment’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/maxwell-house-ad-campaign-apartment",
+      "published_at": "Thu, 02 Oct 2025 01:54:33 GMT",
+      "bullets": [
+        "• Coffee company rebranding themselves as ‘Maxwell Apartment Coffee’ The company is also offering a year’s supply of its coffee for “under $40” on Amazon",
+        "• Last year, the median age of first-time homebuyers in the US hit an all-time high of 38, according to statistics from the National Association of Realtors "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
         "score": 0.996
+      }
+    },
+    {
+      "id": "b290c4b0faad",
+      "title": "White House plays racist deepfake videos of Chuck Schumer and Hakeem Jeffries on loop – as it happened.",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
+      "published_at": "Thu, 02 Oct 2025 01:51:58 GMT",
+      "bullets": [
+        "• White House warns that government shutdown is imminent",
+        "• No end in sight for the government shutdown, says White House",
+        "• White House plays racist videos of President Obama and Hillary Clinton on the shutdown",
+        "• President Obama says the government is working on a compromise deal to avoid a shutdown "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -566,24 +634,6 @@
       }
     },
     {
-      "id": "b290c4b0faad",
-      "title": "White House plays racist deepfake videos of Chuck Schumer and Hakeem Jeffries on loop – live updates",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Thu, 02 Oct 2025 00:41:29 GMT",
-      "bullets": [
-        "• White House warns that government shutdown is imminent",
-        "• No end in sight for the government shutdown, says White House",
-        "• White House plays racist videos of President Obama and Hillary Clinton on the shutdown",
-        "• President Obama says the government is working on a compromise deal to avoid a shutdown "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "e7ba8c54248c",
       "title": "US citizen sues after twice being detained by immigration agents",
       "outlet": "US news | The Guardian",
@@ -597,38 +647,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "0f7a2f9ada85",
-      "title": "Trump falsely claims that national guard troops are ‘in place’ in Portland",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/trump-national-guard-portland-misinformation",
-      "published_at": "Thu, 02 Oct 2025 00:16:44 GMT",
-      "bullets": [
-        "• Donald Trump shared misinformation about Portland, Oregon, on social media on Wednesday, when he announced that the national guard troops he called up in response to a small protest outside an Immigration and Customs Enforcement (Ice) office are “now in place” and have begun restoring “LAW AND ORDER” However, Portland’s NBC News affiliate KGW reported 90 minutes after Trump’�s social media post that no members of the guard were yet in place around the Ice field office "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      }
-    },
-    {
-      "id": "7153564c8df3",
-      "title": "Israeli naval ships intercept Gaza-bound flotilla",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 00:13:19 GMT",
-      "bullets": [
-        "• Israeli navy intercepts boats carrying aid to Gaza and detains activists aboard",
-        "• Global Sumud Flotilla activists include climate campaigner Greta Thunberg",
-        "• Israeli Foreign Ministry says vessels were \"safely stopped\" and are being transferred to an Israeli port "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
       }
     },
     {
@@ -681,24 +699,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.961
-      }
-    },
-    {
-      "id": "28d65d9f6170",
-      "title": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
-      "published_at": "Sat, 10 Dec 2022 17:24:17 GMT",
-      "bullets": [
-        "• Arizona Sen",
-        "• Kyrsten Sinema has always been a thorn in the Democrats side during her time in Congress",
-        "• She voted against her party more than almost any other member of Congress",
-        "• Now, the Democratic caucus has 48 Democrats and three independents "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
       }
     },
     {
