@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T09:49:33Z",
+  "generated_at": "2025-10-02T10:32:16Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -15,23 +15,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.995
-      }
-    },
-    {
-      "id": "ab85fc87eb27",
-      "title": "White House says layoffs 'imminent' with no end to shutdown in sight",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8xrwdny8p1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 22:36:28 GMT",
-      "bullets": [
-        "• White House says mass layoffs 'imminent' with no end to shutdown in sight",
-        "• The shutdown began on Wednesday after Republicans and Democrats failed to agree a new spending plan",
-        "• The Senate has since adjourned, raising fears that the shutdown could drag on and cost the US economy billions "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
       }
     },
     {
@@ -124,14 +107,13 @@
       "url": "https://www.bbc.com/news/articles/cdr6pnky7vyo?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 01 Oct 2025 18:25:22 GMT",
       "bullets": [
-        "• US Senate was unable to pass a spending bill that would have kept the US government funded",
-        "• At some point, this shutdown – like all the ones before it - will end at some point",
-        "• Here are four scenarios for how that might play out "
+        "• US Senate was unable to pass a spending bill that would have kept the US government funded, and for the first time in nearly seven years, federal operations have been drastically curtailed",
+        "• At some point, this shutdown – like all the ones before it - will end "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 1.0
       }
     },
     {
@@ -149,23 +131,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
-      }
-    },
-    {
-      "id": "883236634d78",
-      "title": "Leon Cooperman says we've reached the stage of the bull market that Warren Buffett warned about",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/leon-cooperman-says-weve-reached-the-stage-of-the-bull-market-that-warren-buffett-warned-about.html",
-      "published_at": "Wed, 01 Oct 2025 16:33:00 GMT",
-      "bullets": [
-        "• Longtime investor Leon Cooperman believes we are in the late innings of a bull market where bubbles can form and risks rise",
-        "• Warren Buffett warned in 1999 that bull markets often end when valuations are stretched and irrational exuberance is rampant",
-        "• The S&P 500 has surged almost 40% since April lows, returning to all-time highs "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.813
       }
     },
     {
@@ -290,20 +255,92 @@
       }
     },
     {
-      "id": "99381e1dda89",
-      "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
-      "published_at": "Thu, 02 Oct 2025 09:21:06 GMT",
+      "id": "8df57be6bb43",
+      "title": "What does the US government shutdown mean for everyday people?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/02/government-shutdown-regular-people-effect",
+      "published_at": "Thu, 02 Oct 2025 10:00:46 GMT",
       "bullets": [
-        "• PIMCO President Christian Stracke is upbeat on the asset-based finance segment of the private credit market",
-        "• But he warns of \"cracks\" in corporate direct lending, which makes up the bulk of the sector",
-        "• The widening gap stems from the aftermath of the 2008 Global Financial Crisis "
+        "• Federal employees who are furloughed will receive back pay under a law passed in 2019",
+        "• The EPA is hit hardest, with 89% of its staff furloughed, followed by the Department of Commerce at 81%",
+        "• The US Postal Service will continue to work without pay because it relies on revenue from its employees "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "7153564c8df3",
+      "title": "Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 09:57:18 GMT",
+      "bullets": [
+        "• Israel says it has stopped ships carrying aid from the Gaza flotilla",
+        "• International waters are in international waters but Israel does not have jurisdiction",
+        "• South African President Cyril Ramaphosa has called for the interception as an act of terrorism",
+        "• The GSF described the interception of the ships as \"a brazen act of desperation\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "ab85fc87eb27",
+      "title": "White House says layoffs 'imminent' with no end to shutdown in sight",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xrwdny8p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 09:47:47 GMT",
+      "bullets": [
+        "• White House says layoffs 'imminent' with no end to shutdown in sight",
+        "• Mass layoffs of federal workers are \"imminent\" and could begin within two days, says White House press secretary",
+        "• First government shutdown in almost seven years after Congress failed to agree a new spending plan "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "d906e48b0cfd",
+      "title": "Tokenization of real world assets is an unstoppable ‘freight train’ coming to major markets: Robinhood CEO",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/tokenization-of-assets-is-freight-train-coming-to-markets-robinhood-ceo.html",
+      "published_at": "Thu, 02 Oct 2025 09:45:10 GMT",
+      "bullets": [
+        "• A tokenized asset is a digital representation of a real-world asset, like stocks, or commodities, that can be recorded and traded on a blockchain or distributed ledger",
+        "• In June, the U.S",
+        "• began offering more than 200 tokenized U.K",
+        "• stocks to the European market "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.79
+      }
+    },
+    {
+      "id": "a6f04f23ae39",
+      "title": "Trump Jr. dismisses crypto conflicts of interest, says dad’s not checking blockchain ledgers",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/trump-jr-zach-wilkoff-steve-dismisses-world-liberty-financial-conflict-of-interest-concerns-usd1.html",
+      "published_at": "Thu, 02 Oct 2025 08:06:44 GMT",
+      "bullets": [
+        "• Donald Trump Jr",
+        "• dismissed criticism that a crypto venture tied to his family had potential conflicts of interest",
+        "• His firm, World Liberty Financial, seeks global investors",
+        "• Critics have questioned the company's open connections to the Trump administration",
+        "• The company launched its stablecoin, dubbed USD1, in September 2024 "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.997
       }
     },
     {
@@ -320,24 +357,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "7153564c8df3",
-      "title": "Israeli naval ships intercept Gaza-bound flotilla",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 07:11:37 GMT",
-      "bullets": [
-        "• Israeli navy intercept boats carrying aid to Gaza and detain activists aboard",
-        "• Global Sumud Flotilla (GSF) says boats are still being intercepted on Thursday morning",
-        "• Swedish climate campaigner Greta Thunberg among those detained aboard",
-        "• Israeli Foreign Ministry says vessels are being transferred to an Israeli port "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
       }
     },
     {
@@ -415,31 +434,14 @@
       "url": "https://www.npr.org/2025/10/02/nx-s1-5558288/madagascar-morocco-gen-z-protests",
       "published_at": "Thu, 02 Oct 2025 05:01:00 -0400",
       "bullets": [
-        "• From Madagascar to Morocco: Gen Z protests shake Africa",
-        "• Members of so-called Generation Z – those under 28 years old – taking to the streets in frustration over poor governance",
-        "• Less than a week of protests over water and electricity shortages in Madagascar, an island off the coast "
+        "• So-called Generation Z – those under 28 years old – are taking to the streets in frustration over years of poor governance",
+        "• Protests over water and electricity shortages in Madagascar prompted President Andry Rajoelina to dissolve his government on Monday",
+        "• Demonstrators say the government's handling of the protests has strengthened the youth's resolve "
       ],
       "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.925
-      }
-    },
-    {
-      "id": "05687420f25e",
-      "title": "Hours before the Eaton fire, distribution lines failed and fire started in Altadena",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5387668/california-wildfire-lawsuit-eaton-fire-altadena",
-      "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• The Eaton fire blazed through neighborhoods of Los Angeles County in January, destroying more than 9,000 buildings and causing billions of dollars in damages",
-        "• Dozens of lawsuits have blamed high power transmission lines managed by Southern California Edison for starting the flames",
-        "• SoCal Edison acknowledges that its transmission equipment could have been associated with the ignition of a fire "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "positive",
+        "score": 0.717
       }
     },
     {
@@ -474,6 +476,43 @@
       "sentiment": {
         "label": "negative",
         "score": 0.98
+      }
+    },
+    {
+      "id": "0fa466d8dba8",
+      "title": "What Mississippi's infant mortality crisis says about the risks of Medicaid cuts",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5558448/mississippi-medicaid-infant-mortality-crisis",
+      "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Nearly 10 babies died for every 1,000 live births in Mississippi in 2024",
+        "• For Black babies, it was even higher at 15.2",
+        "• The state of Mississippi declared a public health emergency on Aug",
+        "• 21",
+        "• Advocates warn that the rate across the U.S"
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "c99d0572f595",
+      "title": "Remembering Jane Goodall: Legendary primatologist dies at age 91",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5559832/remembering-jane-goodall-legendary-primatologist-dies-at-age-91",
+      "published_at": "Thu, 02 Oct 2025 04:48:23 -0400",
+      "bullets": [
+        "• Remembering Jane Goodall: Legendary primatologist dies at age 91",
+        "• Her studies of wild chimpanzees transformed our understanding of apes",
+        "• Goodall's studies helped us learn more about apes than we thought of them",
+        "• She died Wednesday at 91 "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
       }
     },
     {
@@ -559,22 +598,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.997
-      }
-    },
-    {
-      "id": "6d27f9315938",
-      "title": "Trump signs order promising measures, including military, to defend Qatar",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/trump-order-qatar-military-defense",
-      "published_at": "Thu, 02 Oct 2025 01:35:42 GMT",
-      "bullets": [
-        "• The text of the order appears to be another measure by Trump to assure the Qataris following Israel’s surprise attack on the country targeting Hamas leaders",
-        "• The order cites the two countries’ “close cooperation” and “shared interest”, vowing to “guarantee the security and territorial integrity of the state of Qatar against external attack”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.741
       }
     },
     {
@@ -748,6 +771,40 @@
       }
     },
     {
+      "id": "983875ce615a",
+      "title": "HP&#8217;s new 49-inch curved ultrawide monitor has a pop-up webcam",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam",
+      "published_at": "2025-10-02T06:00:00-04:00",
+      "bullets": [
+        "• The HP Series 5 Pro 49-inch Conferencing Monitor uses a 32:9 VA IPS panel with 5120 x 1440 resolution, 165Hz refresh, and an 1800R curvature",
+        "• It sports a hidden 5-megapixel webcam that extends from its top when you push to unlock it",
+        "• While the panel goes up to 165Hz and covers 99 percent of the sRGB color space, its 5ms response time and 8-bit color depth make it less than ideal for gaming "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "cfc316996755",
+      "title": "Music’s biggest labels are weeks away from major AI licensing deals",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790405/warner-universal-music-ai-deals",
+      "published_at": "2025-10-02T05:48:03-04:00",
+      "bullets": [
+        "• Universal Music and Warner Music are reportedly close to striking AI licensing deals with tech heavyweights like Google and Spotify",
+        "• The deals could redefine how the music industry handles the AI era, the Financial Times reports",
+        "• The labels are pushing for a streaming-inspired payment model, the report says "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.829
+      }
+    },
+    {
       "id": "4c9523ba8819",
       "title": "Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites",
       "outlet": "The Verge",
@@ -795,58 +852,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.849
-      }
-    },
-    {
-      "id": "d8a65aba95d7",
-      "title": "Instagram tests opening right onto Reels",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790255/instagram-test-reels-home-tab",
-      "published_at": "2025-10-01T17:39:00-04:00",
-      "bullets": [
-        "• Instagram is making Reels and DMs the first two tabs of the app",
-        "• The change is part of an opt-in test in India",
-        "• Photos from Instagram accounts will still be included in the new tab",
-        "• The home tab will be similar to what you see on the iPad "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      }
-    },
-    {
-      "id": "2e55df1e1802",
-      "title": "Trump&#8217;s solution for high drug prices is a discount portal called TrumpRx",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer",
-      "published_at": "2025-10-01T15:45:48-04:00",
-      "bullets": [
-        "• President Donald Trump is launching a new website that will let Americans buy medications at lower prices",
-        "• The new website, called TrumpRx, is expected to launch in 2026 and will direct consumers to discounts on drugmakers’ online stores",
-        "• The website is part of a deal that grants a three-year reprieve from tariffs in exchange for investing in manufacturing "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.689
-      }
-    },
-    {
-      "id": "c41ff758b36a",
-      "title": "CNN Political Briefing",
-      "outlet": "CNN.com - RSS Channel - Politics",
-      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
-      "published_at": null,
-      "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     }
   ]
