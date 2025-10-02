@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T06:42:39Z",
+  "generated_at": "2025-10-02T07:30:00Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -32,23 +32,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "c3f81f596544",
-      "title": "A new China tech visa has caught India's attention - now locals aren't happy",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg4eeerzrwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 01 Oct 2025 22:24:03 GMT",
-      "bullets": [
-        "• A new China visa targeting foreign professionals in science and technology went into effect on Wednesday",
-        "• Indian media referred to it as \"China's H-1B\" - a reference to the US visa for skilled workers",
-        "• It is still unclear whether the visa will actually allow foreigners to work in China or whether it just allows them easier access "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -203,23 +186,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
-      }
-    },
-    {
-      "id": "883236634d78",
-      "title": "Leon Cooperman says we've reached the stage of the bull market that Warren Buffett warned about",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/leon-cooperman-says-weve-reached-the-stage-of-the-bull-market-that-warren-buffett-warned-about.html",
-      "published_at": "Wed, 01 Oct 2025 16:33:00 GMT",
-      "bullets": [
-        "• Longtime investor Leon Cooperman believes we are in the late innings of a bull market where bubbles can form and risks rise",
-        "• Warren Buffett warned in 1999 that bull markets often end when valuations are stretched and irrational exuberance is rampant",
-        "• The S&P 500 has surged almost 40% since April lows, returning to all-time highs "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.813
       }
     },
     {
@@ -400,16 +366,71 @@
       "title": "Israeli naval ships intercept Gaza-bound flotilla",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 06:13:34 GMT",
+      "published_at": "Thu, 02 Oct 2025 07:11:37 GMT",
       "bullets": [
-        "• Israeli naval ships intercept ships carrying aid to Gaza",
-        "• The ships were part of the Global Sumud Flotilla (GSF) and were being transferred to an Israeli port",
-        "• GSF described the interception as \"not an act of defence\" and \"a brazen act of desperation\""
+        "• Israeli navy intercept boats carrying aid to Gaza and detain activists aboard",
+        "• Global Sumud Flotilla (GSF) says boats are still being intercepted on Thursday morning",
+        "• Swedish climate campaigner Greta Thunberg among those detained aboard",
+        "• Israeli Foreign Ministry says vessels are being transferred to an Israeli port "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      }
+    },
+    {
+      "id": "16ee690ede9c",
+      "title": "Dozens feared dead in Indonesia school collapse, officials say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 07:04:20 GMT",
+      "bullets": [
+        "• At least 59 people are still missing after the collapse of a school in Indonesia",
+        "• At least five students were killed and 100 injured in the collapse on Monday",
+        "• Officials say they are still trying to find any signs of life from the rubble",
+        "• The debris is expected to be lifted and cut into smaller pieces of concrete blocks "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
         "score": 0.999
+      }
+    },
+    {
+      "id": "a6f04f23ae39",
+      "title": "Trump Jr. dismisses crypto conflicts of interest, says dad’s not checking blockchain ledgers",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/trump-jr-zach-wilkoff-steve-dismisses-world-liberty-financial-conflict-of-interest-concerns-usd1.html",
+      "published_at": "Thu, 02 Oct 2025 07:01:09 GMT",
+      "bullets": [
+        "• Donald Trump Jr",
+        "• dismissed criticism that a crypto venture tied to his family had potential conflicts of interest",
+        "• His firm, World Liberty Financial, seeks global investors",
+        "• Critics have questioned the company's open connections to the Trump administration",
+        "• The company launched its stablecoin, dubbed USD1, in September 2024 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "99381e1dda89",
+      "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
+      "published_at": "Thu, 02 Oct 2025 06:50:20 GMT",
+      "bullets": [
+        "• PIMCO President Christian Stracke is upbeat on the asset-based finance segment of the private credit market",
+        "• But he warns of \"cracks\" in corporate direct lending, which makes up the bulk of the sector",
+        "• The widening gap stems from the aftermath of the 2008 Global Financial Crisis "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
       }
     },
     {
@@ -426,23 +447,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.87
-      }
-    },
-    {
-      "id": "6c4c62d64643",
-      "title": "‘We stand ready’: Defense giants welcome Europe’s push to build a drone wall to repel Russia",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/defense-bae-saab-and-rheinmetall-welcome-europes-drone-wall-plans.html",
-      "published_at": "Thu, 02 Oct 2025 05:39:08 GMT",
-      "bullets": [
-        "• Dozens of political leaders convened in Copenhagen, Denmark on Wednesday to thrash out how to bolster the European Union's defenses",
-        "• Sweden's Saab said it welcomed initiatives designed to strengthen Europe's defense capabilities",
-        "• Poland, Estonia, Lithuania and Romania have all recently reported airspace incursions allegedly involving Russian jets or drones "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
