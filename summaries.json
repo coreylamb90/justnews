@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T16:43:42Z",
+  "generated_at": "2025-10-02T17:33:04Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -50,22 +50,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "6d520616ddaf",
-      "title": "That annoying SMS phish you just got may have come from a box like this",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/",
-      "published_at": "Wed, 01 Oct 2025 22:16:07 +0000",
-      "bullets": [
-        "• Scammers have been abusing unsecured cellular routers used in industrial settings to blast SMS-based phishing messages in campaigns that have been ongoing since 2023, researchers say",
-        "• The routers are rugged Internet of Things devices that use cellular networks to connect traffic lights, electric power meters, and other sorts of remote industrial devices to central hubs "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
       }
     },
     {
@@ -145,7 +129,7 @@
       "published_at": "Wed, 01 Oct 2025 17:25:04 +0000",
       "bullets": [
         "• Matt Wagner (Grendel) and Kelley Jones (Batman: Red Rain) are returning to their fresh take on Bram Stoker’s 1897 novel Dracula with a new chapter",
-        "• Dracula Book II – The Count continues their re-telling from the point-of-view of Dracula himself "
+        "• The Count continues their re-telling from the point-of-view of Dracula himself and moves further along in the story in graphic novel form "
       ],
       "category": "Horror",
       "sentiment": {
@@ -391,6 +375,23 @@
       }
     },
     {
+      "id": "261e3da66dc2",
+      "title": "RFR Q&A #267: Star Wars Inspired Nachos",
+      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
+      "url": "https://www.rebelforceradio.com/shows/2025/9/30/rfr-qampa-267-star-wars-inspired-nachos",
+      "published_at": "Tue, 30 Sep 2025 17:13:00 +0000",
+      "bullets": [
+        "• RFR Q&A #267: Star Wars Inspired Nachos",
+        "• Plus, we discuss RFR at Rancho Obi-Wan, LEGO Star Wars: Rebuild The Galaxy",
+        "• Joe Dallas was gifted an odd-ball piece of Star Wars bootleg memorabilia "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      }
+    },
+    {
       "id": "8b77d61d6f01",
       "title": "New Star Wars: Starfighter Rumors",
       "outlet": "Jedi Temple Archives",
@@ -440,52 +441,208 @@
       }
     },
     {
-      "id": "ad9d7a7763ba",
-      "title": "Trailer + Poster Debut — V/H/S/HALLOWEEN Debuts on Shudder on Oct. 3rd",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/trailer-poster-debut-v-h-s-halloween-debuts-on-shudder-on-oct-3rd/",
-      "published_at": "Thu, 25 Sep 2025 18:15:23 +0000",
+      "id": "2375340b9db8",
+      "title": "‘Friday the 13th Part III’ Is Playing at Regal Cinemas Tomorrow in RealD 3D!",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3906959/friday-the-13th-part-iii-regal-cinemas-reald-3d/?utm_source=rss&utm_medium=rss&utm_campaign=friday-the-13th-part-iii-regal-cinemas-reald-3d",
+      "published_at": "Thu, 02 Oct 2025 17:24:28 +0000",
       "bullets": [
-        "• \"DIET PHANTASMA\" is streaming exclusively on Shudder starting Friday, October 3rd",
-        "• A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival",
-        "• A remarkably satisfying, raucously good time "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      }
-    },
-    {
-      "id": "d1e85080847a",
-      "title": "NEW TRAILER & POSTER – THE ASTRONAUT // – In Theaters October 17",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/new-trailer-poster-the-astronaut-in-theaters-october-17/",
-      "published_at": "Thu, 25 Sep 2025 18:14:00 +0000",
-      "bullets": [
-        "• When an astronaut (Kate Mara) crash lands back to Earth, a General (Laurence Fishburne) places her in quarantine for rehabilitation and testing",
-        "• As disturbing events unfold, she fears that something extraterrestrial has followed her home "
+        "• Friday the 13th Part III slashes back onto the big screen in 3D tomorrow as part of Regal’s 31 Screams on Screen",
+        "• Tickets are only $8.99 for the one-night-only screening",
+        "• It will be presented in RealD 3D, a digital stereoscopic projection technology that offers major upgrade from old anaglyph red/blue glasses "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "negative",
-        "score": 0.985
+        "score": 0.984
       }
     },
     {
-      "id": "e1a7eed23501",
-      "title": "8 Questions with Yuletide writer George Northy",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/8-questions-with-yuletide-writer-george-northy/",
-      "published_at": "Thu, 18 Sep 2025 08:08:00 +0000",
+      "id": "f98cff9e1002",
+      "title": "Meta won’t allow users to opt out of targeted ads based on AI chats",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/meta-wont-allow-users-to-opt-out-of-targeted-ads-based-on-ai-chats/",
+      "published_at": "Thu, 02 Oct 2025 17:16:38 +0000",
       "bullets": [
-        "• The upcoming graphic adventure series Yuletide from creator/writer George Northy is almost a perfect confluence of elements for horror fans",
-        "• It’s being described as “a fast-paced family adventure in the tradition of The Goonies, Goosebumps, and Hocus Pocus.” Northy – a writer/producer best known for his work on Charmed for The CW – will produce and script the film adaptation "
+        "• Meta AI will soon be using AI interactions to personalize content and ad recommendations",
+        "• The company will notify users on October 7th that their interactions with AI will influence recommendations beginning on December 16th",
+        "• Users will have to click through to understand that the changes specifically apply to Meta AI "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      }
+    },
+    {
+      "id": "a22cbf0678e5",
+      "title": "Trump touts shutdown as 'unprecedented opportunity' to cut more Democratic priorities",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/trump-government-shutdown-updates-vought.html",
+      "published_at": "Thu, 02 Oct 2025 17:09:34 GMT",
+      "bullets": [
+        "• President Donald Trump says Democrats have given him an \"unprecedented opportunity\" to slash federal agencies",
+        "• He says he will meet with Sen",
+        "• Chuck Schumer and Rep",
+        "• Hakeem Jeffries to decide what to do with the government shutdown",
+        "• The White House has already cut $18 billion for two major projects in New York City and $8 billion for climate-related projects "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      }
+    },
+    {
+      "id": "cfb19d1eadc3",
+      "title": "Perplexity AI rolls out Comet browser for free worldwide",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/perplexity-ai-comet-browser-free-.html",
+      "published_at": "Thu, 02 Oct 2025 17:07:46 GMT",
+      "bullets": [
+        "• AI-powered web browser Comet is available for free to users worldwide",
+        "• Comet is designed to serve as a personal assistant that can search the web, organize tabs, draft emails, shop and more",
+        "• The company initially launched Comet in July to Perplexity Max subscribers for $200 a month "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      }
+    },
+    {
+      "id": "cbea3e049342",
+      "title": "Trump to cut ‘Democrat agencies’ as White House says government shutdown layoffs could be in the thousands – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
+      "published_at": "Thu, 02 Oct 2025 17:06:46 GMT",
+      "bullets": [
+        "• Trump to cut ‘Democrat agencies’ as White House says government shutdown layoffs could be in the thousands – live live live",
+        "• Trump touts meeting with Russ Vought ‘of Project 2025 fame’ to determine where cuts can be made "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      }
+    },
+    {
+      "id": "e7234515c278",
+      "title": "New York Premiere Of GOOD BOY |  Opens In Theaters On October 3rd",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/new-york-premiere-of-good-boy-opens-in-theaters-on-october-3rd/",
+      "published_at": "Thu, 02 Oct 2025 17:05:18 +0000",
+      "bullets": [
+        "• The DOG FRIENDLY New York Premiere of Good Boy was held at the Crown Hill Theatre on September 30th, 2025",
+        "• Notable Dog Guests in attendance included Maxine the Fluffy Corgi, Nico Minisausage, Edna the Runt and more!"
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 1.0
+        "score": 0.989
+      }
+    },
+    {
+      "id": "29577a3d17ae",
+      "title": "A terrifying psychological tale emerges in the new The 9th Charnel trailer!",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/a-terrifying-psychological-tale-emerges-in-the-new-the-9th-charnel-trailer/",
+      "published_at": "Thu, 02 Oct 2025 17:02:38 +0000",
+      "bullets": [
+        "• The 9th Charnel explores its terrifying psychological horror in new Story trailer",
+        "• Free demo of the game is available now on Steam, offering a first taste of the thrilling psychological horror experience",
+        "• The game is set to be released on PC, PlayStation®5, and Xbox Series X|S soon "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.97
+      }
+    },
+    {
+      "id": "ab3b75c35871",
+      "title": "Mason Thames Teases The Grabber’s Return in ‘Black Phone 2’ Featurette",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3906948/mason-thames-teases-the-grabbers-return-in-black-phone-2-featurette/?utm_source=rss&utm_medium=rss&utm_campaign=mason-thames-teases-the-grabbers-return-in-black-phone-2-featurette",
+      "published_at": "Thu, 02 Oct 2025 16:54:47 +0000",
+      "bullets": [
+        "• Mason Thames discusses reprising his role as Finney in a new featurette",
+        "• The horror sequel opens in theaters on October 17 from Blumhouse and Universal",
+        "• Scott Derrickson returns to the director’s chair with a script he co-wrote "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.894
+      }
+    },
+    {
+      "id": "74a7d9f535a1",
+      "title": "5 Questions With Artist Kelley Jones About Dracula Book 3: The Count",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/5-questions-with-artist-kelley-jones-about-dracula-book-3-the-count/",
+      "published_at": "Thu, 02 Oct 2025 16:48:19 +0000",
+      "bullets": [
+        "• Matt Wagner and Kelley Jones have created a graphic novel series based on the famous Transylvanian nobleman",
+        "• A Kickstarter is now underway for the new volume in the series",
+        "• It continues a re-telling of the story from the point-of-view of the Count "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.973
+      }
+    },
+    {
+      "id": "5a0356d2e657",
+      "title": "World-famous primatologist Jane Goodall dead at 91",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/10/world-famous-primatologist-jane-goodall-dead-at-91/",
+      "published_at": "Thu, 02 Oct 2025 16:44:31 +0000",
+      "bullets": [
+        "• Jane Goodall died of natural causes while in California as part of a US speaking tour",
+        "• Her field research in the 1960s essentially redefined the relationship between humans and animals",
+        "• Goodall was passionate about empowering young people to become involved in conservation "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "0f140b2c7d5a",
+      "title": "First killings in Morocco since Gen Z protests erupted",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrqpekyxpvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 16:39:45 GMT",
+      "bullets": [
+        "• First deaths in Morocco since huge youth-led protests broke out on Saturday",
+        "• Police say they were forced to open fire to prevent protesters from storming a police station",
+        "• One protester said the hospital where he was being held was like a \"jail\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "2eec05dfaf52",
+      "title": "FICO provider is shaking up its credit score business. Its stock is surging",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/fico-provider-is-shaking-up-its-credit-score-business-its-stock-is-surging.html",
+      "published_at": "Thu, 02 Oct 2025 16:35:23 GMT",
+      "bullets": [
+        "• FICO score creator Fair Isaac unveils new pricing model for mortgage lenders",
+        "• Shares of credit bureaus Experian, TransUnion and Equifax fell between 4% and 10% each",
+        "• The pop in Fair Isaac's stock is its largest increase since Nov",
+        "• 22 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -540,22 +697,6 @@
       }
     },
     {
-      "id": "cbea3e049342",
-      "title": "Trump to cut ‘Democrat agencies’ as White House says government shutdown layoffs could be in the thousands – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
-      "published_at": "Thu, 02 Oct 2025 16:17:41 GMT",
-      "bullets": [
-        "• Trump to cut ‘Democrat agencies’ as White House says government shutdown layoffs could be in the thousands – live live live",
-        "• Trump touts meeting with Russ Vought ‘of Project 2025 fame’ to determine where cuts can be made "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      }
-    },
-    {
       "id": "7546f11d277d",
       "title": "Judge denies Kilmar Ábrego García’s bid for asylum in the US",
       "outlet": "US news | The Guardian",
@@ -571,25 +712,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.98
-      }
-    },
-    {
-      "id": "a22cbf0678e5",
-      "title": "Trump touts shutdown as 'unprecedented opportunity' to cut more Democratic priorities",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/trump-government-shutdown-updates-vought.html",
-      "published_at": "Thu, 02 Oct 2025 16:10:35 GMT",
-      "bullets": [
-        "• President Donald Trump says Democrats have given him an \"unprecedented opportunity\" to slash federal agencies",
-        "• He says he will meet with Sen",
-        "• Chuck Schumer and Rep",
-        "• Hakeem Jeffries to decide what to do with the government shutdown",
-        "• The White House has already cut $18 billion for two major projects in New York City and $8 billion for climate-related projects "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
       }
     },
     {
@@ -610,22 +732,6 @@
       }
     },
     {
-      "id": "16933311fc6f",
-      "title": "You Can Buy a 26-Foot Inflatable Haunted House Maze for $2,000",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/the-further/3906925/you-can-buy-a-26-foot-inflatable-haunted-house-maze-for-2000/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-buy-a-26-foot-inflatable-haunted-house-maze-for-2000",
-      "published_at": "Thu, 02 Oct 2025 15:54:59 +0000",
-      "bullets": [
-        "• Amazon is selling a massive inflatable haunted house maze that measures 26′ long, 26′ wide, and 6.6′ tall",
-        "• The bad boy sells for $1,980, but a clickable coupon brings the price down to a reasonable $2,881 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      }
-    },
-    {
       "id": "14a4693bdd45",
       "title": "Trump sees ‘unprecedented opportunity’ to punish Democrats as shutdown enters day two",
       "outlet": "US news | The Guardian",
@@ -640,22 +746,6 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.576
-      }
-    },
-    {
-      "id": "ac9010504779",
-      "title": "Greg Nicotero Shares ‘Army of Darkness’ Tribute Zombie That Was Cut from ‘Daryl Dixon’ Series",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/tv/3906919/greg-nicotero-shares-army-of-darkness-tribute-zombie-that-was-cut-from-daryl-dixon-series/?utm_source=rss&utm_medium=rss&utm_campaign=greg-nicotero-shares-army-of-darkness-tribute-zombie-that-was-cut-from-daryl-dixon-series",
-      "published_at": "Thu, 02 Oct 2025 15:50:05 +0000",
-      "bullets": [
-        "• Greg Nicotero shared a tribute zombie that was cut from the latest episode of \"The Walking Dead\" The zombie paid tribute to a Deadite from the 1993 horror-comedy Army of Darkness",
-        "• The zombie was part of the Tribute Walkers series that pays homage to horror movies "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.889
       }
     },
     {
@@ -791,23 +881,6 @@
       }
     },
     {
-      "id": "39c42c675cc9",
-      "title": "Berkshire Hathaway to buy Occidental's OxyChem for $9.7 billion, in Buffett's biggest deal in three years",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/warren-buffett-berkshire-occidental-oxychem.html",
-      "published_at": "Thu, 02 Oct 2025 14:52:02 GMT",
-      "bullets": [
-        "• Berkshire Hathaway buys Occidental Petroleum's petrochemical unit OxyChem for $9.7 billion in cash",
-        "• The deal marks Berkshire's largest since 2022, when it paid $11.6 billion for insurer Alleghany",
-        "• Occidental says it will use $6.5 billion of the proceeds to pay down debt "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.929
-      }
-    },
-    {
       "id": "7153564c8df3",
       "title": "Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
       "outlet": "BBC News",
@@ -822,24 +895,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.994
-      }
-    },
-    {
-      "id": "d906e48b0cfd",
-      "title": "Tokenization of real world assets is an unstoppable ‘freight train’ coming to major markets: Robinhood CEO",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/tokenization-of-assets-is-freight-train-coming-to-markets-robinhood-ceo.html",
-      "published_at": "Thu, 02 Oct 2025 14:15:22 GMT",
-      "bullets": [
-        "• A tokenized asset is a digital representation of a real-world asset, like stocks, or commodities, that can be recorded and traded on a blockchain or distributed ledger",
-        "• In June, the U.S",
-        "• began offering more than 200 tokenized U.K",
-        "• stocks to the European market "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.79
       }
     },
     {
@@ -949,6 +1004,23 @@
       }
     },
     {
+      "id": "f726edd5f070",
+      "title": "The Energy Department canceled billions in funding. Democrats say it's retribution",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5560869/energy-trump-democrats-shutdown",
+      "published_at": "Thu, 02 Oct 2025 12:37:09 -0400",
+      "bullets": [
+        "• Department of Energy cancels more than $7 billion in funding for 223 projects",
+        "• The White House Office of Management and Budget Director Russ Vought said the funding was for projects in 16 states",
+        "• Vought posted on social media site X that the projects were in 16 of which voted for former Vice President Kamala Harris "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
       "id": "fb9dd96631e6",
       "title": "The Trump Administration Is Coming for Nonprofits. They're Getting Ready",
       "outlet": "WIRED",
@@ -997,23 +1069,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
-      }
-    },
-    {
-      "id": "0f140b2c7d5a",
-      "title": "First killings in Morocco since Gen Z protests erupted",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgrqpekyxpvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 11:31:03 GMT",
-      "bullets": [
-        "• First deaths in Morocco since huge youth-led protests broke out on Saturday",
-        "• Police say they were forced to open fire to prevent protesters from storming a police station",
-        "• One protester said the hospital where he was being held was like a \"jail\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
       }
     },
     {
@@ -1141,7 +1196,7 @@
       "published_at": "Thu, 02 Oct 2025 09:03:32 -0400",
       "bullets": [
         "• U.K",
-        "• police label Manchester's deadly synagogue attack as a \"terrorist incident\" Two people were killed and four injured in a car-ramming and stabbing outside a synagogue in northern England",
+        "• police label Manchester's deadly synagogue attack as a 'terrorist incident' Two people were killed and four injured in a car-ramming and stabbing outside a synagogue in northern England",
         "• The attack occurred as Jewish community members were gathering at Manchester's Heaton Park Hebrew Congregation synagogue "
       ],
       "category": "General",
@@ -1222,7 +1277,7 @@
     {
       "id": "4623e34f8d4d",
       "title": "Pressure on Democrats grows to end shutdown. And, Gaza City receives evacuation orders",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/02/g-s1-91609/up-first-newsletter-government-shutdown-israel-gaza-andy-beshear",
       "published_at": "Thu, 02 Oct 2025 07:15:36 -0400",
       "bullets": [
@@ -1230,28 +1285,10 @@
         "• Vice President JD Vance has warned that federal workforce layoffs will happen if the shutdown continues",
         "• Government services, like Social Security payments and Medicaid, are expected to be unaffected by the shutdown "
       ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      }
-    },
-    {
-      "id": "940425fa1ccf",
-      "title": "In Trump country, a Democrat critiques Trump — and talks of succeeding him",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5556912/kentucky-democrat-andy-beshear",
-      "published_at": "Thu, 02 Oct 2025 07:00:00 -0400",
-      "bullets": [
-        "• Andy Beshear has twice won election as governor of Kentucky",
-        "• He is considering a run for president",
-        "• He spoke in an all-platform interview with NPR's Up First podcast and Morning Edition",
-        "• He says Trump owns any damage from the government shutdown "
-      ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.96
+        "score": 0.989
       }
     },
     {
@@ -1261,31 +1298,15 @@
       "url": "https://www.npr.org/2025/10/02/nx-s1-5559832/remembering-jane-goodall-legendary-primatologist-dies-at-age-91",
       "published_at": "Thu, 02 Oct 2025 04:48:23 -0400",
       "bullets": [
-        "• Remembering Jane Goodall: Legendary primatologist dies at age 91",
-        "• Her studies of wild chimpanzees transformed our understanding of apes",
-        "• Goodall's studies helped us learn more about apes than we thought of them",
-        "• She died Wednesday at 91 "
+        "• In 1960, Jane Goodall, a 26-year-old primatologist, began studying chimpanzees in East Africa",
+        "• She had no higher education in science",
+        "• Goodall would go on to become one of the best-known scientists and conservationists in the world",
+        "• She inspired generations of scientists hoping to better understand apes' place in world "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "25f94dbc5a5a",
-      "title": "Meet the Arc spacecraft: It aims to deliver cargo anywhere in the world in an hour",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/",
-      "published_at": "Thu, 02 Oct 2025 02:00:27 +0000",
-      "bullets": [
-        "• A new spacecraft company, Inversion, revealed its new \"on demand\" delivery vehicle Wednesday evening",
-        "• The company said it is building the Arc spacecraft to provide a capability to the US military to deliver as much as 500 pounds of supplies almost anywhere in the world, almost instantaneously "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.919
+        "score": 0.999
       }
     },
     {
@@ -1336,23 +1357,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.965
-      }
-    },
-    {
-      "id": "1f3333f667a0",
-      "title": "The endangered cactus behind Mexico's sweet secret",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/09/28/nx-s1-5535767/mexico-endangered-cactus-mexican-food",
-      "published_at": "Sun, 28 Sep 2025 06:00:00 -0400",
-      "bullets": [
-        "• Barches of barrel cactus have been chopped up and seeped in vats of sugar until they're crystalized",
-        "• The Mexican government began banning the sale of acitrón in the early 2000s",
-        "• The biznaga cactus was found to be in danger of extinction due to overexploitation "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
       }
     },
     {
@@ -1476,20 +1480,20 @@
       }
     },
     {
-      "id": "73ab6f16f7b4",
-      "title": "Andrew Pierson, Carissa Pierson & Kristina Lafser Unite for Chilling New Short The Crossroads Hitcher",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/andrew-pierson-carissa-pierson-kristina-lafser-unite-for-chilling-new-short-the-crossroads-hitcher/",
-      "published_at": "Fri, 19 Sep 2025 15:19:19 +0000",
+      "id": "8e5641a3e26d",
+      "title": "RFR Q&A #266: Underappreciated Scenes from Star Wars",
+      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
+      "url": "https://www.rebelforceradio.com/shows/2025/9/26/rfr-qampa-266-underappreciated-scenes-from-star-wars",
+      "published_at": "Fri, 26 Sep 2025 18:04:39 +0000",
       "bullets": [
-        "• Horror talents Andrew Pierson, Carissa Pierson and Kristina Lafser lead the cast in a tense, terrifying story of trust gone wrong",
-        "• The film is directed by Guthrie Lowe, with Carissa serving as Assistant Director",
-        "• The production has confirmed that a celebrity cast announcement is coming soon "
+        "• RFR Q&A #266: Underappreciated Scenes from Star Wars",
+        "• Dominique Garant explains why we need to pay a little more attention to some of the more subtle Star Wars moments",
+        "• The series of episodes is exclusively available to RFR INSIDER+ supporters and higher of RFR on Patreon "
       ],
-      "category": "Horror",
+      "category": "Star Wars",
       "sentiment": {
-        "label": "positive",
-        "score": 0.996
+        "label": "negative",
+        "score": 0.987
       }
     },
     {
@@ -1507,6 +1511,57 @@
       "sentiment": {
         "label": "positive",
         "score": 0.989
+      }
+    },
+    {
+      "id": "9bd0eb3f200e",
+      "title": "Elon Musk is leading a pressure campaign to make Netflix un-woke",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790740/elon-musk-netflix-pressure-campaign-woke",
+      "published_at": "2025-10-02T13:21:05-04:00",
+      "bullets": [
+        "• Elon Musk says he canceled his Netflix subscription over the presence of transgender characters in series that made their debut (and in some cases ended) years ago",
+        "• The first season of Dead End: Paranormal Park aired on Netflix in 2022, but it was canceled in 2023",
+        "• Musk only continued stoking the firestorm since then, calling on followers to get rid of their Netflix subscription "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "7dd6aa57009e",
+      "title": "Perplexity’s Comet browser is now available to everyone for free",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
+      "published_at": "2025-10-02T13:00:00-04:00",
+      "bullets": [
+        "• Perplexity’s Comet browser is now available to everyone for free",
+        "• The AI-powered browser launched in July, but was only available for users who paid $200 per month",
+        "• It incorporates AI search tools and a personal AI assistant that actually “travels the web with” users "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "b9aeed2cc235",
+      "title": "Threads adds communities to help you find your people",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790436/threads-communities-topics-launch",
+      "published_at": "2025-10-02T13:00:00-04:00",
+      "bullets": [
+        "• Threads adds communities to help you find posts related to specific topics",
+        "• The feature is rolling out globally on the web and mobile",
+        "• It's a bit like communities on X, as you can join different communities and view feeds dedicated to each one "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
       }
     },
     {
@@ -1541,56 +1596,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.668
-      }
-    },
-    {
-      "id": "895d6e904fe6",
-      "title": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
-      "published_at": "2025-10-02T11:30:00-04:00",
-      "bullets": [
-        "• Amazon’s Vega-based Fire TV Stick 4K Select will run Android versions of popular apps that haven’t been ported to Vega yet in the cloud",
-        "• Amazon will stream the apps to the stick, and stream them to the device later this month "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.937
-      }
-    },
-    {
-      "id": "4771ce4a6e86",
-      "title": "Everything is terrorism in Trump&#8217;s America",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice",
-      "published_at": "2025-10-02T11:00:00-04:00",
-      "bullets": [
-        "• The Trump administration declared war on the “terrorist organization” of “antifa” and the supposed “networks” associated with it last week",
-        "• The plain intent of the memo is to make Americans afraid to call fascism what it is — or worse, to say fascism is bad "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "fc6eb745a94d",
-      "title": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause",
-      "published_at": "2025-10-02T10:57:24-04:00",
-      "bullets": [
-        "• The two drones crashed into each other at around 10am on Wednesday morning in Arizona",
-        "• One of the drones clipped the cable causing it to fall to the ground",
-        "• No one was injured in the incident",
-        "• The incident is the first time the two have crashed together in two years "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
