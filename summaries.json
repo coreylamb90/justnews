@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T22:54:43Z",
+  "generated_at": "2025-10-02T23:34:55Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -32,24 +32,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "451895fce741",
-      "title": "National Parks Are Staying Open During the Government Shutdown, Putting Visitors and Resources at Risk",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/01102025/national-parks-at-risk-during-government-shutdown/",
-      "published_at": "Wed, 01 Oct 2025 22:56:14 +0000",
-      "bullets": [
-        "• The U.S",
-        "• government officially shut down at midnight Wednesday after a deadlock between President Donald Trump and Congress over spending",
-        "• 12,000 National Park Service employees were furloughed, including 3,000 employees to run the country’s 433 sites maintained by the agency",
-        "• Advocates fear the situation may be worse because it comes after the Trump administration slashed staff "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
       }
     },
     {
@@ -239,6 +221,23 @@
       }
     },
     {
+      "id": "d2f8401dc44b",
+      "title": "Why scientists are using corals from other countries to help save Florida's reefs",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5547122/florida-coral-reef-climate-change",
+      "published_at": "Wed, 01 Oct 2025 04:46:14 -0400",
+      "bullets": [
+        "• Scientists are breeding corals from Florida, Honduras and the Cayman Islands to combat climate change",
+        "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat, which causes coral to bleach",
+        "• Florida coral has been crossbred with coral from Honduras, creating what researchers call \"Flonduran\" corals "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
       "id": "42e8761b5928",
       "title": "‘Dominant on the river’: 32 Chunk crowned champion in ‘biggest Fat Bear Week yet’",
       "outlet": "Environment | The Guardian",
@@ -340,6 +339,40 @@
       }
     },
     {
+      "id": "459ac1bce4db",
+      "title": "In First Address on Climate Change, Pope Leo Signals Continuity With Francis—and Opposition to Trump",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/02102025/pope-leo-addresses-climate-change-trump-opposition/",
+      "published_at": "Thu, 02 Oct 2025 23:06:19 +0000",
+      "bullets": [
+        "• Pope Leo addressed a crowd of roughly 1,000 people at a climate conference in Vatican City",
+        "• The remarks were the strongest signal yet that the new pope intends to continue his predecessor’s legacy on climate issues",
+        "• Former California governor Arnold Schwarzenegger also spoke alongside Leo, urging the world to \"terminate fossil fuels\""
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      }
+    },
+    {
+      "id": "7ce0371c4b65",
+      "title": "USA Rare Earth jumps 6% after CEO confirms discussions with Trump administration",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/usa-rare-earth-lithium-americas-mp-materials-trump.html",
+      "published_at": "Thu, 02 Oct 2025 22:45:01 GMT",
+      "bullets": [
+        "• CEO Barbara Humpton says rare earth miner USA Rare Earth is \"in close communcation\" with the White House",
+        "• Humpton's comment comes after the Trump administration took a 5% stake in Lithium Americas this week",
+        "• The Defense Department also took a stake in rare earth mining company MP Materials in July "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.707
+      }
+    },
+    {
       "id": "6cc5d565ca2a",
       "title": "‘Deathstalker’ Review: A Blood-Soaked Adventure Driven by Glorious Practical Effects [Beyond Fest 2025]",
       "outlet": "Dread Central",
@@ -354,6 +387,23 @@
       "sentiment": {
         "label": "positive",
         "score": 1.0
+      }
+    },
+    {
+      "id": "cbea3e049342",
+      "title": "US government shutdown: Donald Trump promises firings and cuts to ‘Democrats’ favorite projects’ if shutdown continues – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
+      "published_at": "Thu, 02 Oct 2025 22:40:54 GMT",
+      "bullets": [
+        "• Trump promises firings, cuts to Democrats' 'favorite projects' if government shutdown continues",
+        "• White House officials already have a list of federal agencies they're planning to target with firings",
+        "• Trump said he had 'big plans' for the 2026 midterm elections, blaming Democrats for fomenting political violence "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
       }
     },
     {
@@ -422,23 +472,6 @@
       }
     },
     {
-      "id": "cbea3e049342",
-      "title": "US government shutdown: Donald Trump promises firings and cuts to ‘Democrats’ favorite projects’ if shutdown continues – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
-      "published_at": "Thu, 02 Oct 2025 22:18:53 GMT",
-      "bullets": [
-        "• Trump promises firings, cuts to Democrats' 'favorite projects' if government shutdown continues",
-        "• White House officials already have a list of federal agencies they're planning to target with firings",
-        "• Trump said he had 'big plans' for the 2026 midterm elections, blaming Democrats for fomenting political violence "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      }
-    },
-    {
       "id": "e8241f99018b",
       "title": "Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission",
       "outlet": "Ars Technica - All content",
@@ -470,23 +503,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.971
-      }
-    },
-    {
-      "id": "3f74d00a49bd",
-      "title": "Energy Dept. axes hundreds of 'green' projects in 'blue states' during shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/energy-department-cancels-green-projects-in-united-states.html",
-      "published_at": "Thu, 02 Oct 2025 22:03:07 GMT",
-      "bullets": [
-        "• The Energy Department rescinded more than 300 awards to projects in 16 states won by Kamala Harris in the 2024 presidential election",
-        "• The rescissions of nearly $8 billion in funding were announced on Wednesday, the first day of the federal government shutdown",
-        "• Some of the cancellations were previously announced in May "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.944
       }
     },
     {
@@ -952,24 +968,6 @@
       }
     },
     {
-      "id": "35a242029a27",
-      "title": "Shutdown fears leave voters in Georgia wondering who to blame",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5560157/shutdown-fears-leave-voters-in-georgia-wondering-who-to-blame",
-      "published_at": "Thu, 02 Oct 2025 17:04:02 -0400",
-      "bullets": [
-        "• Shutdown fears leave voters in Georgia wondering who to blame",
-        "• Voters in critical swing areas of Georgia are preparing to weather the consequences of a federal shutdown",
-        "• Voters question which party is responsible for the shutdown and who they think is responsible",
-        "• The shutdown is expected to affect the midterm elections in November "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "74a7d9f535a1",
       "title": "5 Questions With Artist Kelley Jones About Dracula Book 3: The Count",
       "outlet": "Wicked Horror",
@@ -1037,23 +1035,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.996
-      }
-    },
-    {
-      "id": "de055c76e9af",
-      "title": "House Minority Leader Jeffries defends Democrats' healthcare push amid shutdown",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5560801/house-minority-leader-jeffries-defends-democrats-healthcare-push-amid-shutdown",
-      "published_at": "Thu, 02 Oct 2025 16:26:48 -0400",
-      "bullets": [
-        "• NPR's Scott Detrow talks with House Minority Leader Hakeem Jeffries on his Democratic Party's strategy to resolve the government shutdown",
-        "• Jeffries defends Democrats' healthcare push amid shutdown",
-        "• Hear on All Things Considered on October 2, 20254:26 PM ET "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.909
       }
     },
     {
@@ -1362,6 +1343,24 @@
       }
     },
     {
+      "id": "c99d0572f595",
+      "title": "Remembering Jane Goodall: Legendary primatologist dies at age 91",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5559832/remembering-jane-goodall-legendary-primatologist-dies-at-age-91",
+      "published_at": "Thu, 02 Oct 2025 04:48:23 -0400",
+      "bullets": [
+        "• In 1960, Jane Goodall, a 26-year-old primatologist, began studying chimpanzees in East Africa",
+        "• She had no higher education in science",
+        "• Goodall would go on to become one of the best-known scientists and conservationists in the world",
+        "• She inspired generations of scientists hoping to better understand apes' place in world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
       "id": "443cab740aae",
       "title": "Coming to Wicked Horror TV in October",
       "outlet": "Wicked Horror",
@@ -1499,6 +1498,23 @@
       }
     },
     {
+      "id": "c8dbaea9d201",
+      "title": "NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn",
+      "published_at": "2025-10-02T19:20:53-04:00",
+      "bullets": [
+        "• NBCUniversal and YouTube announced a new carriage deal on YouTube TV",
+        "• It includes a multi-year, long-term commitment for carriage of NBCUniversal’s full portfolio of networks",
+        "• NBC Sports Network will come back this fall, and Peacock is joining YouTube Primetime Channels "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.747
+      }
+    },
+    {
       "id": "d90f3aba7d43",
       "title": "Redbox’s next product may be piracy lawsuits",
       "outlet": "The Verge",
@@ -1564,23 +1580,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.988
-      }
-    },
-    {
-      "id": "d0612eac82ff",
-      "title": "Google is destroying independent websites, and one sees no choice but to defend it anyway",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web",
-      "published_at": "2025-10-02T16:00:00-04:00",
-      "bullets": [
-        "• Google’s new ad-tech ad tools give it stability, even as other parts of the world are changing",
-        "• Users are clicking through to the ads less and clicking on them less, as a result of the new tools",
-        "• Google says it has no choice but to continue to use the tools to help people navigate the web "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
