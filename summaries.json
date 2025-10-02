@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T09:32:25Z",
+  "generated_at": "2025-10-02T09:49:33Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -118,23 +118,6 @@
       }
     },
     {
-      "id": "b8ec60d742e2",
-      "title": "Google cuts more than 100 design-related roles in cloud unit",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/google-cloud-unit-layoffs.html",
-      "published_at": "Wed, 01 Oct 2025 19:23:20 GMT",
-      "bullets": [
-        "• Google has laid off more than 100 employees in design-related roles, CNBC has learned",
-        "• The cloud unit's \"quantitative user experience research\" teams and \"platform and service experience\" teams were laid off earlier this week",
-        "• The roles often use data, surveys and other tools to understand and implement user behaviors "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "d1996f8addfb",
       "title": "Four ways this US government shutdown could end",
       "outlet": "BBC News",
@@ -166,6 +149,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.982
+      }
+    },
+    {
+      "id": "883236634d78",
+      "title": "Leon Cooperman says we've reached the stage of the bull market that Warren Buffett warned about",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/leon-cooperman-says-weve-reached-the-stage-of-the-bull-market-that-warren-buffett-warned-about.html",
+      "published_at": "Wed, 01 Oct 2025 16:33:00 GMT",
+      "bullets": [
+        "• Longtime investor Leon Cooperman believes we are in the late innings of a bull market where bubbles can form and risks rise",
+        "• Warren Buffett warned in 1999 that bull markets often end when valuations are stretched and irrational exuberance is rampant",
+        "• The S&P 500 has surged almost 40% since April lows, returning to all-time highs "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.813
       }
     },
     {
@@ -290,22 +290,20 @@
       }
     },
     {
-      "id": "023b315d050f",
-      "title": "Jeep owner Stellantis pops 6.7% after reporting growth in U.S. sales",
+      "id": "99381e1dda89",
+      "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/european-markets-on-oct-2-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Thu, 02 Oct 2025 08:11:21 GMT",
+      "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
+      "published_at": "Thu, 02 Oct 2025 09:21:06 GMT",
       "bullets": [
-        "• The pan-European Stoxx 600 was 0.5% higher by 9 a.m",
-        "• in London",
-        "• Autos and technology stocks led gains, with their respective indexes each trading around 2% higher",
-        "• Shares of Stellantis popped 6.7% in morning trade, taking the stock to the top of the index",
-        "• Tesco reported better-than-expected first-half earnings on Thursday "
+        "• PIMCO President Christian Stracke is upbeat on the asset-based finance segment of the private credit market",
+        "• But he warns of \"cracks\" in corporate direct lending, which makes up the bulk of the sector",
+        "• The widening gap stems from the aftermath of the 2008 Global Financial Crisis "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.895
+        "label": "negative",
+        "score": 0.99
       }
     },
     {
@@ -428,62 +426,26 @@
       }
     },
     {
-      "id": "4c324e8f065e",
-      "title": "Want fewer morning aches? You might have to change the way you sleep",
+      "id": "05687420f25e",
+      "title": "Hours before the Eaton fire, distribution lines failed and fire started in Altadena",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5435668/sleep-body-pain-minimize-morning-aches-soreness",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5387668/california-wildfire-lawsuit-eaton-fire-altadena",
       "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• The best defense against an achy neck or back in the morning is to sleep just like you stand, experts say",
-        "• Sleep in a position that follows the natural curvature of your spine reduces the possibility of muscle strain",
-        "• Experts share advice for those looking to minimize morning aches and pains "
+        "• The Eaton fire blazed through neighborhoods of Los Angeles County in January, destroying more than 9,000 buildings and causing billions of dollars in damages",
+        "• Dozens of lawsuits have blamed high power transmission lines managed by Southern California Edison for starting the flames",
+        "• SoCal Edison acknowledges that its transmission equipment could have been associated with the ignition of a fire "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
-      }
-    },
-    {
-      "id": "2db11f69b131",
-      "title": "How rising costs are changing the way Americans travel",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5553637/rising-costs-travel-scaling-back",
-      "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of inflation",
-        "• How are higher prices changing the way you live? Fill out this form to share your story with NPR",
-        "• The cost of gas, lodging and recreation have all risen sharply since the pandemic "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.964
-      }
-    },
-    {
-      "id": "0fa466d8dba8",
-      "title": "What Mississippi's infant mortality crisis says about the risks of Medicaid cuts",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5558448/mississippi-medicaid-infant-mortality-crisis",
-      "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Nearly 10 babies died for every 1,000 live births in Mississippi in 2024",
-        "• For Black babies, it was even higher at 15.2",
-        "• The state of Mississippi declared a public health emergency on Aug",
-        "• 21",
-        "• Advocates warn that the rate across the U.S"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
+        "score": 0.997
       }
     },
     {
       "id": "04d940690051",
       "title": "Furloughs, closures and mass firings threats: What's next in the shutdown fight",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5559296/government-shutdown-trump-house",
       "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -491,7 +453,7 @@
         "• Yesterday, federal workers stayed home from work and national parks prepared to close down",
         "• White House officials and Congressional leaders spent the day pointing blame in public while a small group of lawmakers in the Senate began talks about a potential deal "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.972
@@ -500,7 +462,7 @@
     {
       "id": "0e46866ddb9d",
       "title": "Air traffic controllers helped end the last government shutdown, and may again",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5560219/air-traffic-controllers-ending-government-shutdown",
       "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -508,7 +470,7 @@
         "• With another government shutdown underway, U.S",
         "• airlines are bracing for the possibility of delays and disruptions to commercial aviation "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.98
@@ -665,6 +627,23 @@
       "sentiment": {
         "label": "negative",
         "score": 0.986
+      }
+    },
+    {
+      "id": "eb57e9ca09a9",
+      "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+      "published_at": "Sun, 11 Dec 2022 16:16:48 GMT",
+      "bullets": [
+        "• The White House has a long list of issues facing the nation's first two years of Congress",
+        "• President Barack Obama and his staff are working on a bipartisan agenda",
+        "• They say it's important to keep the public eye on what's happening in the U.S"
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     },
     {
@@ -851,6 +830,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.689
+      }
+    },
+    {
+      "id": "c41ff758b36a",
+      "title": "CNN Political Briefing",
+      "outlet": "CNN.com - RSS Channel - Politics",
+      "url": "https://www.cnn.com/audio/podcasts/political-briefing",
+      "published_at": null,
+      "bullets": [
+        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
+        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
+        "• The race for New Jersey governor could be the sleeper contest of the year "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
       }
     }
   ]
