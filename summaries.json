@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T05:30:12Z",
+  "generated_at": "2025-10-02T05:48:24Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -396,19 +396,20 @@
       }
     },
     {
-      "id": "d3e1fecc2a32",
-      "title": "A plant compound might be the secret weapon against gum disease",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034211.htm",
-      "published_at": "Tue, 30 Sep 2025 03:42:11 EDT",
+      "id": "6c4c62d64643",
+      "title": "‘We stand ready’: Defense giants welcome Europe’s push to build a drone wall to repel Russia",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/defense-bae-saab-and-rheinmetall-welcome-europes-drone-wall-plans.html",
+      "published_at": "Thu, 02 Oct 2025 05:39:08 GMT",
       "bullets": [
-        "• Morin-based powder, extracted from guava leaves, apple peel, and figs, can be slowly released with the help of polymers and serve as an alternative to antibiotics",
-        "• This could replace antibiotics, avoid side effects from existing treatments, and help vulnerable patients maintain oral health "
+        "• Dozens of political leaders convened in Copenhagen, Denmark on Wednesday to thrash out how to bolster the European Union's defenses",
+        "• Sweden's Saab said it welcomed initiatives designed to strengthen Europe's defense capabilities",
+        "• Poland, Estonia, Lithuania and Romania have all recently reported airspace incursions allegedly involving Russian jets or drones "
       ],
-      "category": "Science",
+      "category": "Business",
       "sentiment": {
-        "label": "negative",
-        "score": 0.991
+        "label": "positive",
+        "score": 0.997
       }
     },
     {
@@ -425,23 +426,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "6c4c62d64643",
-      "title": "‘We stand ready’: Defense giants welcome Europe’s push to build a drone wall to repel Russia",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/defense-bae-saab-and-rheinmetall-welcome-europes-drone-wall-plans.html",
-      "published_at": "Thu, 02 Oct 2025 05:15:07 GMT",
-      "bullets": [
-        "• Dozens of political leaders convened in Copenhagen, Denmark on Wednesday to thrash out how to bolster the European Union's defenses",
-        "• Sweden's Saab said it welcomed initiatives designed to strengthen Europe's defense capabilities",
-        "• Poland, Estonia, Lithuania and Romania have all recently reported airspace incursions allegedly involving Russian jets or drones "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
@@ -596,6 +580,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.741
+      }
+    },
+    {
+      "id": "c8b605f9e374",
+      "title": "Saturn’s icy moon Enceladus just revealed stunning new clues to life",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251001092210.htm",
+      "published_at": "Thu, 02 Oct 2025 01:32:51 EDT",
+      "bullets": [
+        "• Analysis of Cassini data has revealed new complex organic molecules inside ice grains spewing from Enceladus",
+        "• This is a clear sign that complex chemical reactions are taking place within the moon's underground ocean",
+        "• Scientists now believe the moon could be habitable, and plans are underway for a European mission to sample its surface and jets "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
       }
     },
     {
