@@ -20,7 +20,7 @@ DEFAULT_FEEDS: List[Dict[str, str]] = [
 ]
 
 # ---------------- Tunables ----------------
-MAX_ARTICLES_TOTAL = 50       # keep small while testing
+MAX_ARTICLES_TOTAL = 100       # keep small while testing
 MAX_PER_FEED = 5              # per feed limit
 REQUEST_TIMEOUT = 12          # seconds
 MIN_TEXT_LEN = 500            # skip very short pages

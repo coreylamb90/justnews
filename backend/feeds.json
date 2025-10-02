@@ -11,6 +11,10 @@
   { "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "category": "Business" },
   { "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "category": "Business" },
 
+  { "url": "https://www.aitrends.com/feed/", "category": "AI" },
+
+  { "url": "https://venturebeat.com/feed/", "category": "Technology" },
+  { "url": "https://www.wired.com/feed/rss", "category": "Technology" },
   { "url": "https://www.theverge.com/rss/index.xml", "category": "Technology" },
   { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "category": "Technology" },
   { "url": "http://feeds.arstechnica.com/arstechnica/index", "category": "Technology" },
@@ -26,4 +30,40 @@
   { "url": "https://www.theguardian.com/environment/rss", "category": "Environment" },
   { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml", "category": "Environment" },
   { "url": "https://insideclimatenews.org/feed/", "category": "Environment" }
+
+  { "url": "https://www.firstshowing.net/movienews/", "category": "Movies" },
+  { "url": "https://celluloidjunkie.com/rss-2/", "category": "Movies" },
+  { "url": "https://www.the-numbers.com/news/rss.php", "category": "Movies" },
+  { "url": "https://www.fandango.com/rss/moviefeed", "category": "Movies" },
+
+  { "url": "https://bloody-disgusting.com/feed", "category": "Horror" },
+  { "url": "https://dailydead.com/feed", "category": "Horror" },
+  { "url": "https://www.dreadcentral.com/feed", "category": "Horror" },
+  { "url": "https://wickedhorror.com/feed", "category": "Horror" },
+  { "url": "https://www.upcominghorrormovies.com/rss", "category": "Horror" },
+  { "url": "https://horror-fix.com/feed", "category": "Horror" },
+
+  { "url": "https://www.theforce.net/tfnrss.asp", "category": "Star Wars" },
+  { "url": "https://www.jeditemplearchives.com/feed/", "category": "Star Wars" },
+  { "url": "http://feeds.feedburner.com/starwarsreport_podcast", "category": "Star Wars" },
+  { "url": "https://www.rebelforceradio.com/shows?format=rss", "category": "Star Wars" },
+
+  { "url": "https://www.goodnewsnetwork.org/more/rss-feeds/", "category": "Good News" },
+  { "url": "https://www.onlygoodnewsdaily.com/rss", "category": "Good News" },
+  { "url": "https://www.sunnyskyz.com/good-news/feed", "category": "Good News" },
+  { "url": "https://positive.news/feed", "category": "Good News" }
+
+  { "url": "https://comicbookrealm.com/rss", "category": "Comics" },
+  { "url": "https://www.cbr.com/feed/", "category": "Comics" },
+  { "url": "https://comicquarters.com/feed/", "category": "Comics" },
+
+  { "url": "https://www.rollingstone.com/music/music-news/feed/", "category": "Music" },
+  { "url": "https://pitchfork.com/rss/news/", "category": "Music" },
+  { "url": "https://www.nme.com/rss/news", "category": "Music" },
+
+  { "url": "https://feeds.texastribune.org/feeds/main/", "category": "Texas" },
+  { "url": "https://www.click2houston.com/rss/", "category": "Texas" },
+  { "url": "https://www.statesman.com/arcio/rss/", "category": "Texas" },
+  { "url": "https://www.dallasnews.com/arcio/rss/", "category": "Texas" },
+  { "url": "https://www.cedarparktexas.gov/rss.aspx", "category": "Texas" }
 ]
