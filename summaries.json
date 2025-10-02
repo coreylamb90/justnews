@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T10:49:48Z",
+  "generated_at": "2025-10-02T11:26:19Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -134,24 +134,6 @@
       }
     },
     {
-      "id": "85fb4aefb092",
-      "title": "Sen. Cortez Masto explains why she broke ranks with democrats on shutdown vote",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5559633/sen-cortez-masto-explains-why-she-broke-ranks-with-democrats-on-shutdown-vote",
-      "published_at": "Wed, 01 Oct 2025 15:58:12 -0400",
-      "bullets": [
-        "• Sen",
-        "• Cortez Masto explains why she broke ranks with democrats on shutdown vote",
-        "• Three Senate Democrats broke with their party and voted with Republicans to fund the government and avert a shut down",
-        "• One of the few exceptions is Nevada Senator Catherine Cortez-Masto of Nevada "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      }
-    },
-    {
       "id": "90312a7df2a7",
       "title": "Jane Goodall, legendary primatologist, has died at age 91",
       "outlet": "NPR Topics: Science",
@@ -166,24 +148,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.936
-      }
-    },
-    {
-      "id": "56c793fbccc2",
-      "title": "Trump freezes $18 billion in funding for NYC, home to key Democratic leaders",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/01/nx-s1-5559386/trump-freezes-18-billion-in-funding-for-nyc-home-to-key-democratic-leaders",
-      "published_at": "Wed, 01 Oct 2025 13:55:39 -0400",
-      "bullets": [
-        "• $18 billion in funding for New York City's Second Avenue subway project is put on hold",
-        "• The money will be used to build a tunnel under the Hudson River",
-        "• The project is a key priority for Democrats in the U.S",
-        "• Senate and House of Representatives "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.899
       }
     },
     {
@@ -237,6 +201,23 @@
       }
     },
     {
+      "id": "d2f8401dc44b",
+      "title": "Why scientists are using corals from other countries to help save Florida's reefs",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5547122/florida-coral-reef-climate-change",
+      "published_at": "Wed, 01 Oct 2025 04:46:14 -0400",
+      "bullets": [
+        "• Scientists are breeding corals from Florida, Honduras and the Cayman Islands to combat climate change",
+        "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat, which causes coral to bleach",
+        "• Florida coral has been crossbred with coral from Honduras, creating what researchers call \"Flonduran\" corals "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      }
+    },
+    {
       "id": "55cef71c85ca",
       "title": "Former DRC president Joseph Kabila sentenced to death in absentia",
       "outlet": "World news | The Guardian",
@@ -251,6 +232,55 @@
       "sentiment": {
         "label": "negative",
         "score": 0.995
+      }
+    },
+    {
+      "id": "39c42c675cc9",
+      "title": "Berkshire Hathaway to buy Occidental's OxyChem for $9.7 billion, in Buffett's biggest deal in three years",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/warren-buffett-berkshire-occidental-oxychem.html",
+      "published_at": "Thu, 02 Oct 2025 11:21:02 GMT",
+      "bullets": [
+        "• Berkshire Hathaway buys Occidental Petroleum's petrochemical unit OxyChem for $9.7 billion in cash",
+        "• The deal marks Berkshire's largest since 2022, when it paid $11.6 billion for insurer Alleghany",
+        "• Berkshire is already a major investor in Occidental, holding a 28.2% stake as of the end of June "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.962
+      }
+    },
+    {
+      "id": "3befcbe95b03",
+      "title": "‘We are the last hope’: Gen Z Madagascar vows to fight on until president resigns",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/02/gen-z-madagascar-vows-protest-until-president-resigns",
+      "published_at": "Thu, 02 Oct 2025 10:55:47 GMT",
+      "bullets": [
+        "• The unrest broke out on 25 September when local councillors were arrested for protesting against water and electricity outages in the capital, Antananarivo",
+        "• The youth-led protests quickly spread to other towns and cities, fuelled by social media and other “Gen Z protests in Indonesia and Nepal, where the government was toppled "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.909
+      }
+    },
+    {
+      "id": "b67401bf668a",
+      "title": "Hamas military leader in Gaza objects to ceasefire plan, BBC understands",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c708v2q5r09o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 10:54:37 GMT",
+      "bullets": [
+        "• Izz al-Din al-Haddad is thought to believe the plan was designed to finish Hamas, whether the group accepts it or not",
+        "• US President Donald Trump's 20-point framework to end the war stipulates that Hamas disarm and have no role in governing Gaza "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
       }
     },
     {
@@ -324,25 +354,6 @@
       }
     },
     {
-      "id": "a6f04f23ae39",
-      "title": "Trump Jr. dismisses crypto conflicts of interest, says dad’s not checking blockchain ledgers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/trump-jr-zach-wilkoff-steve-dismisses-world-liberty-financial-conflict-of-interest-concerns-usd1.html",
-      "published_at": "Thu, 02 Oct 2025 08:06:44 GMT",
-      "bullets": [
-        "• Donald Trump Jr",
-        "• dismissed criticism that a crypto venture tied to his family had potential conflicts of interest",
-        "• His firm, World Liberty Financial, seeks global investors",
-        "• Critics have questioned the company's open connections to the Trump administration",
-        "• The company launched its stablecoin, dubbed USD1, in September 2024 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "26a8cbe58eef",
       "title": "Stars and stripes flags for Trump UK visit had to be changed for brighter red",
       "outlet": "US news | The Guardian",
@@ -359,21 +370,55 @@
       }
     },
     {
-      "id": "16ee690ede9c",
-      "title": "Dozens feared dead in Indonesia school collapse, officials say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 07:04:20 GMT",
+      "id": "4623e34f8d4d",
+      "title": "Pressure on Democrats grows to end shutdown. And, Gaza City receives evacuation orders",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/g-s1-91609/up-first-newsletter-government-shutdown-israel-gaza-andy-beshear",
+      "published_at": "Thu, 02 Oct 2025 07:15:36 -0400",
       "bullets": [
-        "• At least 59 people are still missing after the collapse of a school in Indonesia",
-        "• At least five students were killed and 100 injured in the collapse on Monday",
-        "• Officials say they are still trying to find any signs of life from the rubble",
-        "• The debris is expected to be lifted and cut into smaller pieces of concrete blocks "
+        "• White House budget director, Russ Vought, announces $8 billion for energy projects in 16 states, all of which are considered blue states",
+        "• Vice President JD Vance has warned that federal workforce layoffs will happen if the shutdown continues",
+        "• Government services, like Social Security payments and Medicaid, are expected to be unaffected by the shutdown "
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.989
+      }
+    },
+    {
+      "id": "08be32dfdfae",
+      "title": "5 takeaways from NPR's investigation into the role of distribution lines in LA fires",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/g-s1-90701/california-wildfire-altadena-socal-edison-investigation",
+      "published_at": "Thu, 02 Oct 2025 07:15:36 -0400",
+      "bullets": [
+        "• NPR's investigation into the role of distribution lines in the Eaton fire in Los Angeles",
+        "• The Eaton fire destroyed more than 9,000 buildings and led to 19 deaths in January",
+        "• NPR found that high power transmission lines were not the only kind of electrical equipment that caused problems "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      }
+    },
+    {
+      "id": "940425fa1ccf",
+      "title": "In Trump country, a Democrat critiques Trump — and talks of succeeding him",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5556912/kentucky-democrat-andy-beshear",
+      "published_at": "Thu, 02 Oct 2025 07:00:00 -0400",
+      "bullets": [
+        "• Andy Beshear has twice won election as governor of Kentucky",
+        "• He is considering a run for president",
+        "• He spoke in an all-platform interview with NPR's Up First podcast and Morning Edition",
+        "• He says Trump owns any damage from the government shutdown "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
       }
     },
     {
@@ -446,7 +491,7 @@
     {
       "id": "04d940690051",
       "title": "Furloughs, closures and mass firings threats: What's next in the shutdown fight",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5559296/government-shutdown-trump-house",
       "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -454,7 +499,7 @@
         "• Yesterday, federal workers stayed home from work and national parks prepared to close down",
         "• White House officials and Congressional leaders spent the day pointing blame in public while a small group of lawmakers in the Senate began talks about a potential deal "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.972
@@ -463,7 +508,7 @@
     {
       "id": "0e46866ddb9d",
       "title": "Air traffic controllers helped end the last government shutdown, and may again",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5560219/air-traffic-controllers-ending-government-shutdown",
       "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -471,29 +516,10 @@
         "• With another government shutdown underway, U.S",
         "• airlines are bracing for the possibility of delays and disruptions to commercial aviation "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.98
-      }
-    },
-    {
-      "id": "0fa466d8dba8",
-      "title": "What Mississippi's infant mortality crisis says about the risks of Medicaid cuts",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5558448/mississippi-medicaid-infant-mortality-crisis",
-      "published_at": "Thu, 02 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Nearly 10 babies died for every 1,000 live births in Mississippi in 2024",
-        "• For Black babies, it was even higher at 15.2",
-        "• The state of Mississippi declared a public health emergency on Aug",
-        "• 21",
-        "• Advocates warn that the rate across the U.S"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
       }
     },
     {
@@ -624,14 +650,14 @@
       "published_at": "Thu, 02 Oct 2025 00:01:00 -0400",
       "bullets": [
         "• The federal shutdown puts nutrition aid for millions of new parents at risk",
-        "• The shutdown won't impact benefits from Medicare, Medicaid and Social Security",
-        "• Many pregnant women and new parents depend on nutrition assistance",
-        "• Lucia Graves found out she was pregnant in March 2020, just days before the world shut down for the Covid-19 pandemic "
+        "• The shutdown won't impact major programs such as Medicare, Medicaid and Social Security",
+        "• The nutrition assistance that many women and new parents depend on is known as WIC",
+        "• WIC also provides breastfeeding support, nutrition counseling and serves children up to age 5 "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.995
       }
     },
     {
@@ -666,22 +692,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.997
-      }
-    },
-    {
-      "id": "e1fa1804fa80",
-      "title": "What to know about the missions just launched in NASA's cosmic carpool",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5553628/what-to-know-about-the-missions-just-launched-in-nasas-cosmic-carpool",
-      "published_at": "Sat, 27 Sep 2025 17:15:19 -0400",
-      "bullets": [
-        "• All Things From The Heart of the Sun is available on CNN.com's iReport.com.com with details of the latest developments in space travel.com",
-        "• The world's largest telescope in the world's history is now orbiting the sun, and scientists say it could be used to study the solar system "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.71
       }
     },
     {
@@ -734,22 +744,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.984
-      }
-    },
-    {
-      "id": "2f0f222e2392",
-      "title": "West Africans deported from US to Ghana ‘dumped without documents in Togo’",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/sep/29/west-africans-deported-us-ice-ghana-togo",
-      "published_at": "Mon, 29 Sep 2025 16:20:54 GMT",
-      "bullets": [
-        "• Eight to 10 west African nationals have been forcibly sent by Ghana to Togo, bypassing a formal border crossing, and then left on the street without passports",
-        "• Up to 28 people have arrived in the west African nation from the US so far in the deportation programme "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
       }
     },
     {
