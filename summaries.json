@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T20:56:15Z",
+  "generated_at": "2025-10-02T21:34:03Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -374,6 +374,73 @@
       }
     },
     {
+      "id": "38cc4647d102",
+      "title": "‘Scurry’ Review – A Spider Creature Feature Hampered by its One-Shot Gimmick",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/reviews/3906649/scurry-review-creature-feature-single-take/?utm_source=rss&utm_medium=rss&utm_campaign=scurry-review-creature-feature-single-take",
+      "published_at": "Thu, 02 Oct 2025 21:27:54 +0000",
+      "bullets": [
+        "• Australian filmmaker Luke Sparke has created an ambitious creature feature called Scurry",
+        "• The film follows a man trapped in a series of tunnels underneath a city undergoing a giant monst",
+        "• Scurry was completed before Primitive War, with its wide release having been held back until the film's release was released "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.95
+      }
+    },
+    {
+      "id": "3f74d00a49bd",
+      "title": "Hundreds of 'green' projects axed by Energy Dept. across U.S. concentrated in 'blue states'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/energy-department-cancels-green-projects-in-united-states.html",
+      "published_at": "Thu, 02 Oct 2025 21:17:01 GMT",
+      "bullets": [
+        "• The Energy Department rescinded more than 300 awards to projects in 16 states won by Kamala Harris in the 2024 presidential election",
+        "• The cancellations of nearly $8 billion in funding were announced on Wednesday, the first day of the federal government shutdown",
+        "• Some of the awards had been issued in May "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "d01f167295f8",
+      "title": "Why iRobot’s founder won’t go within 10 feet of today’s walking robots",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2025/10/why-irobots-founder-wont-go-within-10-feet-of-todays-walking-robots/",
+      "published_at": "Thu, 02 Oct 2025 21:10:23 +0000",
+      "bullets": [
+        "• MIT professor emeritus Rodney Brooks says walkers are unsafe for humans to be near to walk robots",
+        "• Brooks: \"We will not see humanoid robots get certified to be deployed in zones that also have people in them\" He says companies pouring billions into humanoid development are chasing an expensive fantasy "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
+      "id": "cbea3e049342",
+      "title": "US government shutdown: Donald Trump promises firings and cuts to ‘Democrats’ favorite projects’ if shutdown continues – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
+      "published_at": "Thu, 02 Oct 2025 21:02:58 GMT",
+      "bullets": [
+        "• Trump promises firings, cuts to Democrats' 'favorite projects' if shutdown continues",
+        "• California governor threatens to cut state funding to any California universities who sign a deal with the president",
+        "• Trump: \"There could be firings and that’s their fault.”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
       "id": "15d442168587",
       "title": "‘Dangerous Animals’ Swims Onto Steelbook 4K UHD Next Week",
       "outlet": "Bloody Disgusting!",
@@ -407,21 +474,20 @@
       }
     },
     {
-      "id": "cbea3e049342",
-      "title": "US government shutdown: federal layoffs ‘likely to be in the thousands’, says White House – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
-      "published_at": "Thu, 02 Oct 2025 20:39:53 GMT",
+      "id": "04fdfd84bdaa",
+      "title": "Elon Musk is telling his followers to cancel Netflix subscriptions. Here's what's happening",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/elon-musk-calls-for-canceling-netflix-whats-happening.html",
+      "published_at": "Thu, 02 Oct 2025 20:46:49 GMT",
       "bullets": [
-        "• President Donald Trump says government shutdown could continue",
-        "• He says he is allowed to cut things that should have been approved",
-        "• The shutdown will likely continue into next week, he says",
-        "• The president says he will not negotiate the Affordable Care Act tax credits "
+        "• Elon Musk calls for cancellation of \"Dead End: Paranormal Park\" The show was canceled after two seasons",
+        "• The show's creator says the show was mocking the death of a character",
+        "• Netflix has more than 300,000 subscribers in the next year "
       ],
-      "category": "US",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 1.0
       }
     },
     {
@@ -439,6 +505,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.995
+      }
+    },
+    {
+      "id": "01c7f285e774",
+      "title": "RFK Jr. drags feet on COVID-19 vaccine recommendations, delaying shots for kids",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/health/2025/10/rfk-jr-drags-feet-on-covid-19-vaccine-recommendations-delaying-shots-for-kids/",
+      "published_at": "Thu, 02 Oct 2025 20:34:23 +0000",
+      "bullets": [
+        "• No federal health official has signed off on recommendations for this year's updated COVID-19 vaccines",
+        "• This leaves the federal vaccination schedule without an update and access to the shots in limbo for some low-income children",
+        "• The CDC is currently without a director to sign off on ACIP recommendations "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
       }
     },
     {
@@ -512,57 +595,6 @@
       }
     },
     {
-      "id": "04fdfd84bdaa",
-      "title": "Elon Musk is telling his followers to cancel Netflix subscriptions. Here's what's happening",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/elon-musk-calls-for-canceling-netflix-whats-happening.html",
-      "published_at": "Thu, 02 Oct 2025 19:58:22 GMT",
-      "bullets": [
-        "• Elon Musk urges followers to cancel their Netflix subscriptions over a controversy",
-        "• The post was in response to an image accusing Netflix of carrying out a \"transgender woke agenda\" The controversy seems to stem from conservative backlash over an animated Netflix show \"Dead End: Paranormal Park\" The show was canceled in 2023 after two seasons "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      }
-    },
-    {
-      "id": "cfb19d1eadc3",
-      "title": "Perplexity AI rolls out Comet browser for free worldwide",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/perplexity-ai-comet-browser-free-.html",
-      "published_at": "Thu, 02 Oct 2025 19:56:13 GMT",
-      "bullets": [
-        "• AI-powered web browser Comet is available for free to users worldwide",
-        "• Comet is designed to serve as a personal assistant that can search the web, organize tabs, draft emails, shop and more",
-        "• The company initially launched Comet in July to Perplexity Max subscribers for $200 a month "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "6ae10e5ca7b1",
-      "title": "Amazon faces FAA, NTSB probe after two delivery drones crashed into crane in Arizona",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/amazon-drone-crash-faa-ntsb.html",
-      "published_at": "Thu, 02 Oct 2025 19:43:52 GMT",
-      "bullets": [
-        "• Two drones collided with a crane in Tolleson, Arizona, on Wednesday afternoon",
-        "• The drones were flying back-to-back when they collided with the crane, police say",
-        "• One person was evaluated on the scene for possible smoke inhalation",
-        "• The incident prompted Amazon to temporarily pause drone service in the area "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      }
-    },
-    {
       "id": "9a194a665226",
       "title": "Intel stock is up 50% over the last month, putting U.S. stake at $16 billion",
       "outlet": "US Top News and Analysis",
@@ -626,23 +658,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.999
-      }
-    },
-    {
-      "id": "3e728bd157fe",
-      "title": "5 Must-Have Horror Releases Coming to Physical Media in October 2025",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/home-video/3906999/5-must-have-horror-releases-coming-to-physical-media-in-october-2025/?utm_source=rss&utm_medium=rss&utm_campaign=5-must-have-horror-releases-coming-to-physical-media-in-october-2025",
-      "published_at": "Thu, 02 Oct 2025 19:13:07 +0000",
-      "bullets": [
-        "• Jennifer Love Hewitt and Freddie Prinze Jr",
-        "• return to star in a legacy sequel to the 1997 slasher classic",
-        "• Madelyn Cline, Chase Sui Wonders, Jonah Hauer-King, Tyriq Withers, Sarah Pidgeon also star "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
       }
     },
     {
@@ -968,6 +983,25 @@
       }
     },
     {
+      "id": "8a8c7a4068ba",
+      "title": "Pope Leo's religious community is drawing renewed interest. Here's what makes it unique",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5469959/pope-leos-religious-community-is-drawing-renewed-interest-heres-what-makes-it-unique",
+      "published_at": "Thu, 02 Oct 2025 16:35:50 -0400",
+      "bullets": [
+        "• James Schloegel is one of three men who formally entered the U.S",
+        "• province of the Order of St",
+        "• Augustin, known as the Augustinians",
+        "• He is part of a noticeable uptick in interest in the small Roman Catholic religious order",
+        "• Pope Leo XIV was the first North American pontiff and first Augustinian to lead the global Church "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      }
+    },
+    {
       "id": "254fd0d10c4e",
       "title": "The CDC still hasn't issued COVID vaccine guidelines, leaving access in limbo",
       "outlet": "NPR Topics: News",
@@ -1000,6 +1034,55 @@
       "sentiment": {
         "label": "positive",
         "score": 0.909
+      }
+    },
+    {
+      "id": "52430399c7c2",
+      "title": "National Guard presence may deter crime, but crime experts warn of the long-term costs",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5558372/nationa-guard-deter-crime-long-term-cost",
+      "published_at": "Thu, 02 Oct 2025 16:26:44 -0400",
+      "bullets": [
+        "• National Guard presence may deter crime, but crime experts warn of the long-term costs",
+        "• Some research suggests their visible presence could make a difference",
+        "• The Guard's military identity, coupled with their presence in cities that did not request them, could generate resentment "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      }
+    },
+    {
+      "id": "f530be3bcf7d",
+      "title": "Israel intercepts aid flotilla headed for Gaza",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5560861/israel-intercepts-aid-flotilla-headed-for-gaza",
+      "published_at": "Thu, 02 Oct 2025 16:24:50 -0400",
+      "bullets": [
+        "• Israel intercepts aid flotilla headed for Gaza October 2, 20254:24 PM ET Heard on All Things Considered Ruth Sherlock Israel",
+        "• As Israel intercepted the aid ships, an airstrike also killed at least one aid worker in Gaza "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
+      "id": "245b08b85862",
+      "title": "Disney's image tanks among Republicans, Democrats after Jimmy Kimmel controversy",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/disney-brand-kimmel-kirk.html",
+      "published_at": "Thu, 02 Oct 2025 15:48:11 GMT",
+      "bullets": [
+        "• Sentiment for Disney and its streaming service plunged to multiyear lows after Jimmy Kimmel's show was pulled off air",
+        "• Disney became a cultural flashpoint after taking Kimmel's late-night comedy show briefly off the air in the wake of his comments about slain conservative activist Charlie Kirk "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
       }
     },
     {
@@ -1067,42 +1150,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "d0c267755283",
-      "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/",
-      "published_at": "Thu, 02 Oct 2025 13:55:36 +0000",
-      "bullets": [
-        "• Tesla released its production and delivery numbers for the third quarter of the year",
-        "• The automaker built 447,450 electric vehicles between July and September this year",
-        "• That's actually a 4.8 percent decrease compared to the same three months last year",
-        "• Sales of the Models S and X, grouped together with the US-only Cybertruck, saw the greatest cutbacks "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
-      "id": "1998ccd700ac",
-      "title": "Japan is running out of its favorite beer after ransomware attack",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/security/2025/10/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack/",
-      "published_at": "Thu, 02 Oct 2025 13:44:40 +0000",
-      "bullets": [
-        "• Asahi Group's 30 factories in Japan have not operated since Monday after the attack disabled its ordering and delivery system",
-        "• Retailers are already expecting empty shelves as the outage stretches into its fourth day",
-        "• Super Dry could also run out at izakaya pubs, which rely on draught and bottles",
-        "• Asahi declined to comment on any possible shortage or retailer inventories "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
       }
     },
     {
@@ -1178,7 +1225,7 @@
     {
       "id": "f726edd5f070",
       "title": "The Energy Department canceled billions in funding. Democrats say it's retribution",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5560869/energy-trump-democrats-shutdown",
       "published_at": "Thu, 02 Oct 2025 12:37:09 -0400",
       "bullets": [
@@ -1186,27 +1233,10 @@
         "• The White House Office of Management and Budget Director Russ Vought said the funding was for projects in 16 states",
         "• Vought posted on social media site X that the projects were in 16 of which voted for former Vice President Kamala Harris "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
         "score": 0.999
-      }
-    },
-    {
-      "id": "20e05b03fab4",
-      "title": "Sean Combs, in custody for a year, to face sentencing on split verdict",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5558313/sean-combs-sentencing",
-      "published_at": "Thu, 02 Oct 2025 12:17:28 -0400",
-      "bullets": [
-        "• Sean Combs' trial began in May and ended in a split verdict on July 2",
-        "• He was convicted on two counts of transportation for prostitution; each carries a maximum sentence of 10 years",
-        "• But he was acquitted of more serious charges of sex trafficking and racketeering conspiracy "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
       }
     },
     {
@@ -1267,13 +1297,13 @@
       "published_at": "Thu, 02 Oct 2025 10:03:53 -0400",
       "bullets": [
         "• At issue is the cost of premiums for health care plans people buy on Obamacare marketplaces",
-        "• Enhanced tax credits for these premiums expire at the end of the year",
-        "• Since 2021, those have kept ACA plans affordable for people who get their insurance this way "
+        "• The enhanced tax credits are important for people who don't get health insurance through their job or a public program like Medicare or Medicaid",
+        "• This year enrollment hit a record 24 million "
       ],
       "category": "Politics",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.569
+        "label": "negative",
+        "score": 0.866
       }
     },
     {
@@ -1343,24 +1373,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.679
-      }
-    },
-    {
-      "id": "3394cc54cc53",
-      "title": "VIDEO: Trump's tariffs, changing markets and what an uncertain economy means for you",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/02/g-s1-91495/trump-tariffs-economy-shutdown",
-      "published_at": "Thu, 02 Oct 2025 07:50:40 -0400",
-      "bullets": [
-        "• President Trump promised to fuel an economic boom with a magic bullet: tariffs",
-        "• They're taxes added to a wide range of imports and money is coming in, more than $30 billion a month",
-        "• It's unclear what the larger impact of these tariffs will have on the economy",
-        "• Despite that, the president keeps promising to roll out new ones "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.796
       }
     },
     {
@@ -1485,23 +1497,6 @@
       }
     },
     {
-      "id": "8e5641a3e26d",
-      "title": "RFR Q&A #266: Underappreciated Scenes from Star Wars",
-      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
-      "url": "https://www.rebelforceradio.com/shows/2025/9/26/rfr-qampa-266-underappreciated-scenes-from-star-wars",
-      "published_at": "Fri, 26 Sep 2025 18:04:39 +0000",
-      "bullets": [
-        "• RFR Q&A #266: Underappreciated Scenes from Star Wars",
-        "• Dominique Garant explains why we need to pay a little more attention to some of the more subtle Star Wars moments",
-        "• The series of episodes is exclusively available to RFR INSIDER+ supporters and higher of RFR on Patreon "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      }
-    },
-    {
       "id": "7ce1c96754d9",
       "title": "Artist Rachele Aragno talks Yuletide horror",
       "outlet": "Wicked Horror",
@@ -1516,6 +1511,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.989
+      }
+    },
+    {
+      "id": "502263103322",
+      "title": "Here’s how to get Xbox Game Pass Ultimate at the old price",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price",
+      "published_at": "2025-10-02T17:03:56-04:00",
+      "bullets": [
+        "• Microsoft recently announced price hikes for some tiers of Xbox Game Pass, including Ultimate and PC Game Pass",
+        "• The Ultimate tier, which offers the most games and features, went from $19.99 per month to $29.99",
+        "• You can get a one-month subscription to Game Pass Ultimate for $59.99 at Amazon, GameStop, Best Buy, or Walmart "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
       }
     },
     {
@@ -1583,23 +1595,6 @@
       "sentiment": {
         "label": "negative",
         "score": 1.0
-      }
-    },
-    {
-      "id": "abb8ef06d5fb",
-      "title": "Here are 65 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025",
-      "published_at": "2025-10-02T14:59:10-04:00",
-      "bullets": [
-        "• Amazon announced that its fall Prime Day sale will kick off on Tuesday, October 7th, and run through October 8th",
-        "• Amazon has already started dropping early deals and discounts on a range of gadgets, from wireless earbuds to charging stations",
-        "• You can even get three months of Kindle Unlimited for free "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
       }
     },
     {
