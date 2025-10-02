@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T11:26:19Z",
+  "generated_at": "2025-10-02T11:46:47Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -235,20 +235,55 @@
       }
     },
     {
+      "id": "7c77983ad8bf",
+      "title": "Vance uses false claims to blame shutdown on Democrats as White House touts imminent layoffs | First Thing",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/02/first-thing-vance-uses-false-claims-to-blame-shutdown-on-democrats-as-white-house-touts-imminent-layoffs",
+      "published_at": "Thu, 02 Oct 2025 11:35:32 GMT",
+      "bullets": [
+        "• The vice-president used false claims to blame Democrats for the government shutdown",
+        "• The White House has warned that furloughs are imminent",
+        "• The crisis has higher stakes than previous shutdowns, with Trump racing to slash government departments",
+        "• About 750,000 federal employees are expected to be placed on furlougough, an enforced leave "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
       "id": "39c42c675cc9",
       "title": "Berkshire Hathaway to buy Occidental's OxyChem for $9.7 billion, in Buffett's biggest deal in three years",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/02/warren-buffett-berkshire-occidental-oxychem.html",
-      "published_at": "Thu, 02 Oct 2025 11:21:02 GMT",
+      "published_at": "Thu, 02 Oct 2025 11:33:35 GMT",
       "bullets": [
         "• Berkshire Hathaway buys Occidental Petroleum's petrochemical unit OxyChem for $9.7 billion in cash",
         "• The deal marks Berkshire's largest since 2022, when it paid $11.6 billion for insurer Alleghany",
-        "• Berkshire is already a major investor in Occidental, holding a 28.2% stake as of the end of June "
+        "• Buffett, who is 95, has said he wouldn't take complete control of the Houston-based oil company "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.962
+        "label": "negative",
+        "score": 0.872
+      }
+    },
+    {
+      "id": "643524bf36a7",
+      "title": "Russia's economy is creaking — and the Kremlin wants Russians to pay more for the war",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/russia-will-raise-taxes-to-pay-for-the-ukraine-war.html",
+      "published_at": "Thu, 02 Oct 2025 11:20:32 GMT",
+      "bullets": [
+        "• Russia is set to hike taxes on businesses and consumers as the government looks for ways to support military spending while its war-focused economy creaks at the seams",
+        "• The proposed tax hikes come as economic growth is expected to stutter to 1.3% in 2026",
+        "• The Kremlin's commitment to the ongoing war with Ukraine came under renewed scrutiny Monday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -302,7 +337,7 @@
     },
     {
       "id": "8df57be6bb43",
-      "title": "What does the US government shutdown mean for everyday people?",
+      "title": "Travel, national parks and housing: what does the US government shutdown mean for everyday people?",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/02/government-shutdown-regular-people-effect",
       "published_at": "Thu, 02 Oct 2025 10:00:46 GMT",
@@ -419,22 +454,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.96
-      }
-    },
-    {
-      "id": "1955b49da026",
-      "title": "OpenAI wraps $6.6 billion share sale at $500 billion valuation",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html",
-      "published_at": "Thu, 02 Oct 2025 06:09:59 GMT",
-      "bullets": [
-        "• OpenAI has completed a secondary share sale of $6.6 billion, allowing current and former employees to sell stock at a record $500 billion valuation",
-        "• The sale marks OpenAI's second major tender offer in less than a year, following a $1.5 billion deal with SoftBank in November "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.87
       }
     },
     {
@@ -608,24 +627,6 @@
       }
     },
     {
-      "id": "b290c4b0faad",
-      "title": "White House plays racist deepfake videos of Chuck Schumer and Hakeem Jeffries on loop – as it happened.",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
-      "published_at": "Thu, 02 Oct 2025 01:51:58 GMT",
-      "bullets": [
-        "• White House warns that government shutdown is imminent",
-        "• No end in sight for the government shutdown, says White House",
-        "• White House plays racist videos of President Obama and Hillary Clinton on the shutdown",
-        "• President Obama says the government is working on a compromise deal to avoid a shutdown "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "c8b605f9e374",
       "title": "Saturn’s icy moon Enceladus just revealed stunning new clues to life",
       "outlet": "All Top News -- ScienceDaily",
@@ -764,6 +765,23 @@
       }
     },
     {
+      "id": "58f3400b41b5",
+      "title": "T-Mobile&#8217;s satellite service now supports Google Maps, WhatsApp, X, and more",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps",
+      "published_at": "2025-10-02T07:34:48-04:00",
+      "bullets": [
+        "• T-Mobile’s satellite-to-cell service now supports WhatsApp, Google Maps, X, AccuWeather, and more",
+        "• The Starlink-powered “T-Satellite” service lets users stay connected without cellular coverage",
+        "• The service already provides connectivity to native apps on select iPhone, Pixel, and Samsung phones "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
       "id": "983875ce615a",
       "title": "HP&#8217;s new 49-inch curved ultrawide monitor has a pop-up webcam",
       "outlet": "The Verge",
@@ -828,23 +846,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.998
-      }
-    },
-    {
-      "id": "b93a34d16788",
-      "title": "Amazon says its AI will let NBA fans track brand-new stats",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats",
-      "published_at": "2025-10-01T18:21:37-04:00",
-      "bullets": [
-        "• Amazon is rolling out a new AI-powered platform called NBA Inside the Game",
-        "• New stats will track players' movement and their ability to make a shot",
-        "• Analytics will also be able to predict the difficulty of each shot made by a player "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.849
       }
     }
   ]
