@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T22:35:56Z",
+  "generated_at": "2025-10-02T22:54:43Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -172,6 +172,23 @@
       }
     },
     {
+      "id": "90312a7df2a7",
+      "title": "Jane Goodall, legendary primatologist, has died at age 91",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/01/459238450/jane-goodall-primatologist-dead-91",
+      "published_at": "Wed, 01 Oct 2025 14:28:16 -0400",
+      "bullets": [
+        "• Jane Goodall, a scientist whose studies of wild chimpanzees made her a household name, has died at the age of 91",
+        "• Her groundbreaking discoveries showed just how much chimps are like humans",
+        "• \"They kiss, embrace, hold hands, pat one another on the back,\" Goodall said "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.936
+      }
+    },
+    {
       "id": "b7c9170b770a",
       "title": "Border wall slicing through Arizona wildlife corridor begins construction: ‘A show of force for nothing’",
       "outlet": "Environment | The Guardian",
@@ -219,22 +236,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.728
-      }
-    },
-    {
-      "id": "eba2b120ba07",
-      "title": "Swiping less, living more. How to take control of your digital life",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/swiping-less-living-more-how-to-take-control-of-our-digital-lives/",
-      "published_at": "Wed, 01 Oct 2025 09:06:49 +0000",
-      "bullets": [
-        "• In an always-on world, our phones have become lifelines – but at what cost? In Smartphone Nation, digital ‘nutritionist’ Kaitlyn Regehr explores our tangled relationship with screens",
-        "• She makes a case for reclaiming control through honesty, intention and digital literacy "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
       }
     },
     {
@@ -339,6 +340,23 @@
       }
     },
     {
+      "id": "6cc5d565ca2a",
+      "title": "‘Deathstalker’ Review: A Blood-Soaked Adventure Driven by Glorious Practical Effects [Beyond Fest 2025]",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/545047/deathstalker-review-a-blood-soaked-adventure-driven-by-glorious-practical-effects-beyond-fest-2025/",
+      "published_at": "Thu, 02 Oct 2025 22:44:44 +0000",
+      "bullets": [
+        "• 'Deathstalker' is the gory, creature-packed, wildly entertaining adventure that the 1983 film wishes it was",
+        "• Director Steven Kostanski’s Deathstalker reboot eschews all of that",
+        "• Set in a fantastical world full of magic and roaming monsters, we meet a man who walks the line between life and death "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
       "id": "d05acdf1cce7",
       "title": "Rejoice: Netflix Just Added ’28 Days Later,’ the Best Zombie Movie Ever Made",
       "outlet": "Dread Central",
@@ -371,6 +389,22 @@
       }
     },
     {
+      "id": "32a890744c47",
+      "title": "California vows to ‘instantly’ cut funding to universities that cave to Trump ‘compact’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/02/california-university-funding-trump-compact",
+      "published_at": "Thu, 02 Oct 2025 22:21:23 GMT",
+      "bullets": [
+        "• Trump administration offers nine universities chance to sign 'Compact for Academic Excellence in Higher Education' California governor Gavin Newsom described the offer as “nothing short of a hostile takeover of America’s universities’",
+        "• Newsom: “If any California University signs this radical agreement, they’ll lose billions in state funding – including Cal Grants – instantly.”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
       "id": "fa815d00f29c",
       "title": "‘Camp’ Review: Melancholy Magical Perfection from Avalon Fast [Fantastic Fest 2025]",
       "outlet": "Dread Central",
@@ -385,6 +419,40 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
+      }
+    },
+    {
+      "id": "cbea3e049342",
+      "title": "US government shutdown: Donald Trump promises firings and cuts to ‘Democrats’ favorite projects’ if shutdown continues – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
+      "published_at": "Thu, 02 Oct 2025 22:18:53 GMT",
+      "bullets": [
+        "• Trump promises firings, cuts to Democrats' 'favorite projects' if government shutdown continues",
+        "• White House officials already have a list of federal agencies they're planning to target with firings",
+        "• Trump said he had 'big plans' for the 2026 midterm elections, blaming Democrats for fomenting political violence "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      }
+    },
+    {
+      "id": "e8241f99018b",
+      "title": "Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/10/blue-origin-aims-to-land-next-new-glenn-booster-then-reuse-it-for-moon-mission/",
+      "published_at": "Thu, 02 Oct 2025 22:17:34 +0000",
+      "bullets": [
+        "• The fate of a NASA science mission to study Mars's upper atmosphere hinges on a successful launch",
+        "• The second flight of Blue Origin's New Glenn rocket will send two NASA-funded satellites toward the red planet",
+        "• A successful launch would also nudge Blue Origin closer to winning certification from the Space Force to launch national security satellites "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.58
       }
     },
     {
@@ -436,23 +504,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.996
-      }
-    },
-    {
-      "id": "cbea3e049342",
-      "title": "US government shutdown: Donald Trump promises firings and cuts to ‘Democrats’ favorite projects’ if shutdown continues – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
-      "published_at": "Thu, 02 Oct 2025 21:56:13 GMT",
-      "bullets": [
-        "• Trump promises firings, cuts to Democrats' 'favorite projects' if shutdown continues",
-        "• 'There could be firings and that's their fault, and that’s their fault,' he said of Democrats in Congress",
-        "• Trump said he had 'big plans' for the 2026 midterm elections "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
       }
     },
     {
@@ -539,23 +590,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.974
-      }
-    },
-    {
-      "id": "a12702b98b16",
-      "title": "Trailer for Biblical Horror Film Starring Nic Cage Sparks Outrage: “Playing with God like that is not to be taken lightly”",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/544974/trailer-for-biblical-horror-film-starring-nic-cage-sparks-outrage-playing-with-god-like-that-is-not-to-be-taken-lightly/",
-      "published_at": "Thu, 02 Oct 2025 21:38:23 +0000",
-      "bullets": [
-        "• The Carpenter’s Son is based on the Infancy Gospel of Thomas",
-        "• The film stars Nicolas Cage as Jesus' father, Joseph, and FKA twigs as Joseph's wife, Mary",
-        "• Conservative Christians are up in arms over the idea of a film depicting a teenage Jesus tempted by a playmate "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.934
       }
     },
     {
@@ -762,23 +796,6 @@
       }
     },
     {
-      "id": "8df57be6bb43",
-      "title": "Travel, national parks and housing: what does the US government shutdown mean for everyday people?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/02/government-shutdown-regular-people-effect",
-      "published_at": "Thu, 02 Oct 2025 18:51:24 GMT",
-      "bullets": [
-        "• Federal employees who are furloughed or required to work without pay will receive back pay",
-        "• The EPA was expected to be hit hardest, with 89% of its staff furloughed",
-        "• The US Postal Service is an independent service that relies on revenue from its products and services, not tax dollars "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      }
-    },
-    {
       "id": "e55099065714",
       "title": "Evil Dead in Concert Hits Los Angeles with Immersive Underground Horror Experience",
       "outlet": "HorrorFix",
@@ -798,7 +815,7 @@
     {
       "id": "fa68f42c9c75",
       "title": "As the shutdown drags on, the threat of permanent cuts is mired in politics",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5560994/trump-vought-shutdown-democrats",
       "published_at": "Thu, 02 Oct 2025 18:26:46 -0400",
       "bullets": [
@@ -807,7 +824,7 @@
         "• The budget director has also warned that layoffs of federal workers would begin within days",
         "• Some call the threats a political \"bluff\" to force Democrats to come back to the table "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -935,6 +952,24 @@
       }
     },
     {
+      "id": "35a242029a27",
+      "title": "Shutdown fears leave voters in Georgia wondering who to blame",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5560157/shutdown-fears-leave-voters-in-georgia-wondering-who-to-blame",
+      "published_at": "Thu, 02 Oct 2025 17:04:02 -0400",
+      "bullets": [
+        "• Shutdown fears leave voters in Georgia wondering who to blame",
+        "• Voters in critical swing areas of Georgia are preparing to weather the consequences of a federal shutdown",
+        "• Voters question which party is responsible for the shutdown and who they think is responsible",
+        "• The shutdown is expected to affect the midterm elections in November "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      }
+    },
+    {
       "id": "74a7d9f535a1",
       "title": "5 Questions With Artist Kelley Jones About Dracula Book 3: The Count",
       "outlet": "Wicked Horror",
@@ -949,23 +984,6 @@
       "sentiment": {
         "label": "positive",
         "score": 0.973
-      }
-    },
-    {
-      "id": "5a0356d2e657",
-      "title": "World-famous primatologist Jane Goodall dead at 91",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/10/world-famous-primatologist-jane-goodall-dead-at-91/",
-      "published_at": "Thu, 02 Oct 2025 16:44:31 +0000",
-      "bullets": [
-        "• Jane Goodall died of natural causes while in California as part of a US speaking tour",
-        "• Her field research in the 1960s essentially redefined the relationship between humans and animals",
-        "• Goodall was passionate about empowering young people to become involved in conservation "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
       }
     },
     {
@@ -1004,6 +1022,24 @@
       }
     },
     {
+      "id": "254fd0d10c4e",
+      "title": "The CDC still hasn't issued COVID vaccine guidelines, leaving access in limbo",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines",
+      "published_at": "Thu, 02 Oct 2025 16:35:49 -0400",
+      "bullets": [
+        "• The CDC still hasn't issued COVID vaccine guidelines, leaving access in limbo",
+        "• The rules are necessary for the federal Vaccines for Children Program to start shipping the vaccines to doctors, health departments and others",
+        "• About half of U.S",
+        "• kids are eligible for shots through the program "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      }
+    },
+    {
       "id": "de055c76e9af",
       "title": "House Minority Leader Jeffries defends Democrats' healthcare push amid shutdown",
       "outlet": "NPR Topics: Politics",
@@ -1035,22 +1071,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.991
-      }
-    },
-    {
-      "id": "f530be3bcf7d",
-      "title": "Israel intercepts aid flotilla headed for Gaza",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5560861/israel-intercepts-aid-flotilla-headed-for-gaza",
-      "published_at": "Thu, 02 Oct 2025 16:24:50 -0400",
-      "bullets": [
-        "• Israel intercepts aid flotilla headed for Gaza October 2, 20254:24 PM ET Heard on All Things Considered Ruth Sherlock Israel",
-        "• As Israel intercepted the aid ships, an airstrike also killed at least one aid worker in Gaza "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
       }
     },
     {
@@ -1122,7 +1142,7 @@
     {
       "id": "cddeeb92d51f",
       "title": "AI designs for dangerous DNA can slip past biosecurity measures, study shows",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5558145/ai-artificial-intelligence-dangerous-proteins-biosecurity",
       "published_at": "Thu, 02 Oct 2025 14:00:30 -0400",
       "bullets": [
@@ -1130,7 +1150,7 @@
         "• Biotech companies have protections in place to keep dangerous biological material out of the hands of would-be evil-doers",
         "• Researchers found that protein-design tools could be used to \"paraphrase\" DNA codes of toxic proteins "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
         "score": 0.991
@@ -1342,24 +1362,6 @@
       }
     },
     {
-      "id": "354aa9e01458",
-      "title": "Life after: being on death row",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/life-after-being-on-death-row/",
-      "published_at": "Thu, 02 Oct 2025 07:00:48 +0000",
-      "bullets": [
-        "• Anthony Ray Hinton spent nearly 30 years on Alabama's death row",
-        "• He was wrongly convicted of two murders and sentenced to death in 1985",
-        "• Hinton was saddled with an incompetent public defender",
-        "• He now dedicates his time to preventing others experiencing the same fate "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.806
-      }
-    },
-    {
       "id": "443cab740aae",
       "title": "Coming to Wicked Horror TV in October",
       "outlet": "Wicked Horror",
@@ -1460,23 +1462,6 @@
       "sentiment": {
         "label": "negative",
         "score": 0.786
-      }
-    },
-    {
-      "id": "409a6e83e68a",
-      "title": "RFR Q&A #265: The Posters of RETURN OF THE JEDI",
-      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
-      "url": "https://www.rebelforceradio.com/shows/2025/9/26/rfr-qampa-265-the-posters-of-return-of-the-jedi",
-      "published_at": "Mon, 22 Sep 2025 19:28:00 +0000",
-      "bullets": [
-        "• RFR Q&A #265: The Posters of RETURN OF THE JEDI///",
-        "• The final film of the Original Trilogy was released with a slew of fresh and original poster artwork",
-        "• Peter Beisser conducts interviews with artists who worked on the iconic ROTJ \"lightsaber\" poster "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
       }
     },
     {
@@ -1647,6 +1632,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.976
+      }
+    },
+    {
+      "id": "45c23c8d0be7",
+      "title": "Theater counts: Can One Battle After Another hold the line against Swift competition?",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260060830-Theater-counts-Can-One-Battle-After-Another-hold-the-line-against-Swift-competition",
+      "published_at": null,
+      "bullets": [
+        "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.698
       }
     },
     {
