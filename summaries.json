@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T05:48:24Z",
+  "generated_at": "2025-10-02T06:42:39Z",
   "items": [
     {
       "id": "6f467b5a68d8",
@@ -119,23 +119,6 @@
       }
     },
     {
-      "id": "152b95b17895",
-      "title": "NASA employees on Artemis missions with SpaceX, Blue Origin to work through shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/01/nasa-employees-on-spacex-artemis-missions-to-work-through-shutdown.html",
-      "published_at": "Wed, 01 Oct 2025 20:05:03 GMT",
-      "bullets": [
-        "• NASA is requiring employees involved in Artemis missions with contractors SpaceX and Blue Origin to stay on the job during the government shutdown",
-        "• NASA employees are expected to receive pay for their work after a reopening",
-        "• NASA will continue to support \"planned operations\" of the International Space Station "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      }
-    },
-    {
       "id": "d1996f8addfb",
       "title": "Four ways this US government shutdown could end",
       "outlet": "BBC News",
@@ -220,6 +203,23 @@
       "sentiment": {
         "label": "positive",
         "score": 0.998
+      }
+    },
+    {
+      "id": "883236634d78",
+      "title": "Leon Cooperman says we've reached the stage of the bull market that Warren Buffett warned about",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/01/leon-cooperman-says-weve-reached-the-stage-of-the-bull-market-that-warren-buffett-warned-about.html",
+      "published_at": "Wed, 01 Oct 2025 16:33:00 GMT",
+      "bullets": [
+        "• Longtime investor Leon Cooperman believes we are in the late innings of a bull market where bubbles can form and risks rise",
+        "• Warren Buffett warned in 1999 that bull markets often end when valuations are stretched and irrational exuberance is rampant",
+        "• The S&P 500 has surged almost 40% since April lows, returning to all-time highs "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.813
       }
     },
     {
@@ -396,6 +396,39 @@
       }
     },
     {
+      "id": "7153564c8df3",
+      "title": "Israeli naval ships intercept Gaza-bound flotilla",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 02 Oct 2025 06:13:34 GMT",
+      "bullets": [
+        "• Israeli naval ships intercept ships carrying aid to Gaza",
+        "• The ships were part of the Global Sumud Flotilla (GSF) and were being transferred to an Israeli port",
+        "• GSF described the interception as \"not an act of defence\" and \"a brazen act of desperation\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      }
+    },
+    {
+      "id": "1955b49da026",
+      "title": "OpenAI wraps $6.6 billion share sale at $500 billion valuation",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html",
+      "published_at": "Thu, 02 Oct 2025 06:09:59 GMT",
+      "bullets": [
+        "• OpenAI has completed a secondary share sale of $6.6 billion, allowing current and former employees to sell stock at a record $500 billion valuation",
+        "• The sale marks OpenAI's second major tender offer in less than a year, following a $1.5 billion deal with SoftBank in November "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.87
+      }
+    },
+    {
       "id": "6c4c62d64643",
       "title": "‘We stand ready’: Defense giants welcome Europe’s push to build a drone wall to repel Russia",
       "outlet": "US Top News and Analysis",
@@ -429,20 +462,20 @@
       }
     },
     {
-      "id": "023b315d050f",
-      "title": "European markets set to open higher, building on positive momentum",
+      "id": "6f6195ad0d9f",
+      "title": "Why current AI models won't make scientific breakthroughs, according to a top tech exec",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/european-markets-on-oct-2-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Thu, 02 Oct 2025 05:03:10 GMT",
+      "url": "https://www.cnbc.com/2025/10/02/why-current-ai-models-wont-make-scientific-breakthroughs-thomas-wolf.html",
+      "published_at": "Thu, 02 Oct 2025 05:17:21 GMT",
       "bullets": [
-        "• European stocks are expected to open higher on Thursday, building on positive momentum in the previous session",
-        "• The pan-European Stoxx 600 finished trading up 1.2% on Wednesday",
-        "• South Korea's Kospi index jumped more than 3% Thursday to hit an all-time high "
+        "• Thomas Wolf, co-founder of $4.5 billion AI startup Hugging Face, says AI chatbots are unlikely to lead to major scientific breakthroughs",
+        "• Wolf: Chatbots are designed to \"predict the most likely next token\" or \"word\" in a sentence",
+        "• He says scientists who make major breakthroughs are often contrarian "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.987
+        "label": "negative",
+        "score": 0.999
       }
     },
     {
@@ -463,23 +496,6 @@
       }
     },
     {
-      "id": "7153564c8df3",
-      "title": "Israeli naval ships intercept Gaza-bound flotilla",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 03:54:05 GMT",
-      "bullets": [
-        "• Israeli naval ships intercept ships carrying aid to Gaza",
-        "• Global Sumud Flotilla said they were being transferred to an Israeli port",
-        "• Group described the interception as \"not an act of defence\" but a 'brazen act of desperation' by Israel "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      }
-    },
-    {
       "id": "c07f0e1174cd",
       "title": "Dame Jane Goodall remembered as a 'true hero for the planet'",
       "outlet": "BBC News",
@@ -495,25 +511,6 @@
       "sentiment": {
         "label": "positive",
         "score": 1.0
-      }
-    },
-    {
-      "id": "6328b6924a95",
-      "title": "SK Hynix shares hit 25-year high, Samsung also surges as chipmakers partner with OpenAI",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html",
-      "published_at": "Thu, 02 Oct 2025 02:08:58 GMT",
-      "bullets": [
-        "• Samsung and SK Hynix have partnered with artificial-intelligence major OpenAI",
-        "• The two companies plan to scale up production of advanced memory chips",
-        "• The partnership is part of the U.S",
-        "• firm's Stargate initiative",
-        "• OpenAI CEO Sam Altman met with South Korean President Lee Jae Myung in Seoul "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
       }
     },
     {
