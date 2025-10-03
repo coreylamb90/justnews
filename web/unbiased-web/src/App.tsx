@@ -100,8 +100,6 @@ export default function App() {
   const [generatedAt, setGeneratedAt] = useState<string>("");
 
   const [category, setCategory] = useState<string>("All");
-  const [sentiFilter, setSentiFilter] =
-    useState<"All" | "Good News" | "Neutral" | "Bad News">("All");
   const [mood, setMood] =
     useState<"Standard" | "Brief" | "Hopeful" | "Stakes">("Standard");
   const [topicFilter, setTopicFilter] = useState<string>("");
@@ -193,10 +191,6 @@ export default function App() {
       list = list.filter((i) => (i.category || "General") === category);
     }
 
-    if (sentiFilter !== "All") {
-      list = list.filter((i) => prettySentimentLabel(i.sentiment) === sentiFilter);
-    }
-
     if (showBookmarksOnly) {
       list = list.filter((i) => bookmarks.has(i.id));
     }
@@ -211,7 +205,7 @@ export default function App() {
     }
 
     return [...list].sort((a, b) => ts(b.published_at) - ts(a.published_at));
-  }, [items, category, sentiFilter, showBookmarksOnly, topicFilter, clusterOnly, clusters, bookmarks]);
+  }, [items, category, showBookmarksOnly, topicFilter, clusterOnly, clusters, bookmarks]);
 
   /* ----- Trending (from all items) ----- */
   const trending = useMemo(() => extractTrending(items, 12), [items]);
@@ -246,18 +240,6 @@ export default function App() {
               {categories.map((c) => (
                 <option key={c} value={c}>{c}</option>
               ))}
-            </select>
-
-            <select
-              value={sentiFilter}
-              onChange={(e) => setSentiFilter(e.target.value as any)}
-              className="rounded-lg border bg-white px-3 py-2 text-sm shadow-sm dark:bg-neutral-800 dark:border-neutral-700"
-              aria-label="Filter by sentiment"
-            >
-              <option>All</option>
-              <option>Good News</option>
-              <option>Neutral</option>
-              <option>Bad News</option>
             </select>
 
             <select
@@ -329,7 +311,7 @@ export default function App() {
                   <div className="mb-4 text-5xl">📰</div>
                   <h2 className="mb-2 text-xl font-semibold">No stories</h2>
                   <p className="text-sm text-gray-600 dark:text-neutral-400">
-                    Try a different category/sentiment, change the mood, or clear filters.
+                    Try a different category, change the mood, or clear filters.
                   </p>
                 </div>
               </div>
