@@ -26,13 +26,8 @@ DEFAULT_FEEDS: List[Dict[str, str]] = [
 ]
 
 # ---------------- Tunables ----------------
-<<<<<<< HEAD
-MAX_ARTICLES_TOTAL = 300       # global cap per run
-MAX_PER_FEED = 5              # per feed cap
-=======
 MAX_ARTICLES_TOTAL = 500       # global cap per run
 MAX_PER_FEED = 10              # per feed cap
->>>>>>> 2d147e7 (feat: update App.tsx (remove sentiment filter) and build_json.py (clustering & moods))
 REQUEST_TIMEOUT = 12          # seconds
 MIN_TEXT_LEN = 500            # skip very short pages
 EXCERPT_LEN = 1500            # summarize only the first N chars for speed
