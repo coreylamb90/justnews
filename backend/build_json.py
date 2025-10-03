@@ -26,8 +26,8 @@ DEFAULT_FEEDS: List[Dict[str, str]] = [
 ]
 
 # ---------------- Tunables ----------------
-MAX_ARTICLES_TOTAL = 40       # global cap per run
-MAX_PER_FEED = 6              # per feed cap
+MAX_ARTICLES_TOTAL = 300       # global cap per run
+MAX_PER_FEED = 5              # per feed cap
 REQUEST_TIMEOUT = 12          # seconds
 MIN_TEXT_LEN = 500            # skip very short pages
 EXCERPT_LEN = 1500            # summarize only the first N chars for speed
