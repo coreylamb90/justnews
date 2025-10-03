@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-03T07:57:24Z",
+  "generated_at": "2025-10-03T08:48:46Z",
   "items": [
     {
       "id": "c58a0fd655f3",
@@ -1724,39 +1724,6 @@
         ]
       },
       "cluster_id": "b5a48e108fc1"
-    },
-    {
-      "id": "7153564c8df3",
-      "title": "Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 02 Oct 2025 18:14:25 GMT",
-      "bullets": [
-        "• Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
-        "• Global Sumud Flotilla (GSF) was carrying aid bound for Gaza",
-        "• Israel said its navy told the boats to change course as they were \"approaching an active combat zone\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
-          "• Global Sumud Flotilla (GSF) was carrying aid bound for Gaza"
-        ],
-        "hopeful_bullets": [
-          "• Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
-          "• Global Sumud Flotilla (GSF) was carrying aid bound for Gaza"
-        ],
-        "stakes_bullets": [
-          "• Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
-          "• Global Sumud Flotilla (GSF) was carrying aid bound for Gaza",
-          "• Israel said its navy told the boats to change course as they were \"approaching an active combat zone\""
-        ]
-      },
-      "cluster_id": "322b783145a5"
     },
     {
       "id": "c3bc13ec2cd8",
@@ -3601,6 +3568,40 @@
       "cluster_id": "776ad3c6b4e2"
     },
     {
+      "id": "db788f884d5c",
+      "title": "'When I stand, I feel dizzy': Deadly earthquake leaves Filipinos struggling in ghost towns",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c80g9ng3ed4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 03 Oct 2025 02:59:13 GMT",
+      "bullets": [
+        "• At least 500 people have been killed in the Philippines since September 1",
+        "• Many of the dead are believed to have been in the country illegally",
+        "• The deaths have been linked to the deaths of more than 100 people",
+        "• The Philippines is one of the poorest countries in the world, with more than 1,000 dead "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 500 people have been killed in the Philippines since September 1",
+          "• Many of the dead are believed to have been in the country illegally"
+        ],
+        "hopeful_bullets": [
+          "• At least 500 people have been killed in the Philippines since September 1",
+          "• Many of the dead are believed to have been in the country illegally"
+        ],
+        "stakes_bullets": [
+          "• At least 500 people have been killed in the Philippines since September 1",
+          "• Many of the dead are believed to have been in the country illegally",
+          "• The deaths have been linked to the deaths of more than 100 people"
+        ]
+      },
+      "cluster_id": "639098fd2394"
+    },
+    {
       "id": "212e69c2c091",
       "title": "US archivist ousted after refusing to let Trump give Eisenhower’s sword to King Charles – reports",
       "outlet": "US news | The Guardian",
@@ -4055,26 +4056,28 @@
       "url": "https://www.cnn.com/audio/podcasts/political-briefing",
       "published_at": null,
       "bullets": [
-        "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026",
-        "• The race for New Jersey governor could be the sleeper contest of the year "
+        "• CNN Political Briefing podcast takes you inside the latest developments with insight and analysis from the key players in politics",
+        "• Join CNN Political Director David Chalian as he guides you through our ever-changing political landscape",
+        "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026 "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-          "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026"
+          "• CNN Political Briefing podcast takes you inside the latest developments with insight and analysis from the key players in politics",
+          "• Join CNN Political Director David Chalian as he guides you through our ever-changing political landscape"
         ],
         "hopeful_bullets": [
-          "• CNN Political Director David Chalian takes you inside the latest developments with insight and analysis from the key players in politics",
-          "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026"
+          "• CNN Political Briefing podcast takes you inside the latest developments with insight and analysis from the key players in politics",
+          "• Join CNN Political Director David Chalian as he guides you through our ever-changing political landscape"
         ],
         "stakes_bullets": [
-          "• The race for New Jersey governor could be the sleeper contest of the year "
+          "• CNN Political Briefing podcast takes you inside the latest developments with insight and analysis from the key players in politics",
+          "• Join CNN Political Director David Chalian as he guides you through our ever-changing political landscape",
+          "• Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026 "
         ]
       },
       "cluster_id": "76c15bea038c"
@@ -4293,6 +4296,24 @@
       ]
     },
     {
+      "id": "639098fd2394",
+      "topic": "deadly dizzy earthquake feel",
+      "keywords": [
+        "deadly",
+        "dizzy",
+        "earthquake",
+        "feel",
+        "leave",
+        "stand"
+      ],
+      "item_ids": [
+        "db788f884d5c"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "3ae37fb45bd6",
       "topic": "begs diddy judge leniency",
       "keywords": [
@@ -4341,24 +4362,6 @@
       ],
       "item_ids": [
         "b67401bf668a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "322b783145a5",
-      "topic": "activist detain flotilla gaza",
-      "keywords": [
-        "activist",
-        "detain",
-        "flotilla",
-        "gaza",
-        "intercept",
-        "israel"
-      ],
-      "item_ids": [
-        "7153564c8df3"
       ],
       "outlets": [
         "BBC News"
