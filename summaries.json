@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-03T21:53:44Z",
+  "generated_at": "2025-10-03T22:11:27Z",
   "items": [
     {
       "id": "9fc6e253bd63",
@@ -425,38 +425,6 @@
       "cluster_id": "5498413bc8a0"
     },
     {
-      "id": "05ffdc733005",
-      "title": "Texas launches task force to target repeat criminal offenders in Houston area",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17175603/texas-greg-abbott-houston-public-safety-task-force-repeat-offenders",
-      "published_at": "Wed, 01 Oct 2025 17:08:42 -0500",
-      "bullets": [
-        "• Texas launches task force to target repeat criminal offenders in Houston area",
-        "• Gov",
-        "• Abbott says he plans to expand the initiative to other parts of the state",
-        "• He hopes it will be “the national model for public safety in America’s largest cities "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas launches task force to target repeat criminal offenders in Houston area",
-          "• Gov"
-        ],
-        "hopeful_bullets": [
-          "• He hopes it will be “the national model for public safety in America’s largest cities "
-        ],
-        "stakes_bullets": [
-          "• Abbott says he plans to expand the initiative to other parts of the state",
-          "• He hopes it will be “the national model for public safety in America’s largest cities "
-        ]
-      },
-      "cluster_id": "98e8fe104252"
-    },
-    {
       "id": "c5c56d05f342",
       "title": "US national parks to remain partly open during government shutdown",
       "outlet": "Environment | The Guardian",
@@ -717,34 +685,36 @@
     },
     {
       "id": "d2f8401dc44b",
-      "title": "Why scientists are using corals from other countries to help save Florida's reefs",
+      "title": "Scientists are using corals from other countries to save Florida's dying reefs",
       "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/01/nx-s1-5547122/florida-coral-reef-climate-change",
       "published_at": "Wed, 01 Oct 2025 04:46:14 -0400",
       "bullets": [
-        "• Scientists are breeding corals from Florida, Honduras and the Cayman Islands to combat climate change",
-        "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat, which causes coral to bleach",
-        "• Florida coral has been crossbred with coral from Honduras, creating what researchers call \"Flonduran\" corals "
+        "• Scientists are using corals from other countries to save Florida's dying reefs",
+        "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat",
+        "• Florida coral has been crossbred with coral from Honduras, creating \"Flonduran\" corals "
       ],
       "category": "Science",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.961
       },
       "moods": {
         "brief_bullets": [
-          "• Scientists are breeding corals from Florida, Honduras and the Cayman Islands to combat climate change",
-          "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat, which causes coral to bleach"
+          "• Scientists are using corals from other countries to save Florida's dying reefs",
+          "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat"
         ],
         "hopeful_bullets": [
-          "• Scientists are breeding corals from Florida, Honduras and the Cayman Islands to combat climate change",
-          "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat, which causes coral to bleach"
+          "• Scientists are using corals from other countries to save Florida's dying reefs",
+          "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat"
         ],
         "stakes_bullets": [
-          "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat, which causes coral to bleach"
+          "• Scientists are using corals from other countries to save Florida's dying reefs",
+          "• Over the past two years, 80% of the world's reefs saw dangerous levels of heat",
+          "• Florida coral has been crossbred with coral from Honduras, creating \"Flonduran\" corals "
         ]
       },
-      "cluster_id": "deb5f8852752"
+      "cluster_id": "0e42f2338c45"
     },
     {
       "id": "42e8761b5928",
@@ -2182,27 +2152,25 @@
       "published_at": "Thu, 02 Oct 2025 14:00:30 -0400",
       "bullets": [
         "• AI designs for dangerous DNA can slip past biosecurity measures, study shows",
-        "• Biotechnology companies have protections in place to keep dangerous material out of the hands of would-be evil-doers",
-        "• New study shows AI can be used to \"paraphrase\" the DNA codes of toxic proteins "
+        "• Biotech companies have protections in place to keep dangerous biological material out of the hands of would-be evil-doers",
+        "• Researchers found that protein-design tools could be used to \"paraphrase\" DNA codes of toxic proteins "
       ],
       "category": "Science",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
           "• AI designs for dangerous DNA can slip past biosecurity measures, study shows",
-          "• Biotechnology companies have protections in place to keep dangerous material out of the hands of would-be evil-doers"
+          "• Biotech companies have protections in place to keep dangerous biological material out of the hands of would-be evil-doers"
         ],
         "hopeful_bullets": [
           "• AI designs for dangerous DNA can slip past biosecurity measures, study shows",
-          "• Biotechnology companies have protections in place to keep dangerous material out of the hands of would-be evil-doers"
+          "• Biotech companies have protections in place to keep dangerous biological material out of the hands of would-be evil-doers"
         ],
         "stakes_bullets": [
-          "• AI designs for dangerous DNA can slip past biosecurity measures, study shows",
-          "• Biotechnology companies have protections in place to keep dangerous material out of the hands of would-be evil-doers",
-          "• New study shows AI can be used to \"paraphrase\" the DNA codes of toxic proteins "
+          "• Researchers found that protein-design tools could be used to \"paraphrase\" DNA codes of toxic proteins "
         ]
       },
       "cluster_id": "b0b783af3bfd"
@@ -3825,6 +3793,134 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "f639382f3c34",
+      "title": "AI chipmaker Cerebras withdraws IPO",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/03/cerebras-withdraws-ipo-ai.html",
+      "published_at": "Fri, 03 Oct 2025 21:42:59 GMT",
+      "bullets": [
+        "• Artificial intelligence chipmaker Cerebras says it's withdrawing plans for an IPO",
+        "• The company says it doesn't intend to go public \"at this time,\" but doesn't give a reason",
+        "• The announcement comes three days into a U.S",
+        "• government shutdown that's left agencies operating with a small staff "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Artificial intelligence chipmaker Cerebras says it's withdrawing plans for an IPO",
+          "• The company says it doesn't intend to go public \"at this time,\" but doesn't give a reason"
+        ],
+        "hopeful_bullets": [
+          "• Artificial intelligence chipmaker Cerebras says it's withdrawing plans for an IPO"
+        ],
+        "stakes_bullets": [
+          "• Artificial intelligence chipmaker Cerebras says it's withdrawing plans for an IPO"
+        ]
+      },
+      "cluster_id": "e2e2de686f3e"
+    },
+    {
+      "id": "0e3dd2d668fb",
+      "title": "Treasury weighs minting $1 coin with Trump's face for U.S. 250th anniversary",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/03/trump-face-coin-treasury-dollar.html",
+      "published_at": "Fri, 03 Oct 2025 21:33:09 GMT",
+      "bullets": [
+        "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
+        "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026",
+        "• The other side of the coin shows a defiant-looking Trump raising his fist, closely matching the pose he struck moments after surviving an assassination attempt "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.756
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
+          "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026"
+        ],
+        "hopeful_bullets": [
+          "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
+          "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026"
+        ],
+        "stakes_bullets": [
+          "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
+          "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026",
+          "• The other side of the coin shows a defiant-looking Trump raising his fist, closely matching the pose he struck moments after surviving an assassination attempt "
+        ]
+      },
+      "cluster_id": "9b2ba9ec9792"
+    },
+    {
+      "id": "0a7334689d55",
+      "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 03 Oct 2025 21:29:51 GMT",
+      "bullets": [
+        "• Hamas says it agrees to release Israeli hostages but seeks changes to US peace plan",
+        "• Group says it will release all Israeli prisoners, both living and dead, if the proper conditions are met",
+        "• But it appears to suggest it is seeking further negotiation on future of Gaza and rights of Palestinians",
+        "• US President Donald Trump gave Hamas a Sunday deadline to accept peace plan or face \"all hell\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hamas says it agrees to release Israeli hostages but seeks changes to US peace plan",
+          "• Group says it will release all Israeli prisoners, both living and dead, if the proper conditions are met"
+        ],
+        "hopeful_bullets": [
+          "• Hamas says it agrees to release Israeli hostages but seeks changes to US peace plan",
+          "• Group says it will release all Israeli prisoners, both living and dead, if the proper conditions are met"
+        ],
+        "stakes_bullets": [
+          "• Hamas says it agrees to release Israeli hostages but seeks changes to US peace plan",
+          "• Group says it will release all Israeli prisoners, both living and dead, if the proper conditions are met",
+          "• US President Donald Trump gave Hamas a Sunday deadline to accept peace plan or face \"all hell\""
+        ]
+      },
+      "cluster_id": "ec99d22fb834"
+    },
+    {
+      "id": "3531d5d3c0c7",
+      "title": "Hamas agrees to release all Israeli hostages, dead or alive, as it accepts parts of Trump’s Gaza plan – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates",
+      "published_at": "Fri, 03 Oct 2025 21:24:51 GMT",
+      "bullets": [
+        "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Trump urges Israel to stop bombing Gaza 'immediately' in social media post",
+        "• Egypt welcomes Hamas response to peace plan announced this week by Donald Trump and Benjamin Netanyahu "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Trump urges Israel to stop bombing Gaza 'immediately' in social media post",
+          "• Egypt welcomes Hamas response to peace plan announced this week by Donald Trump and Benjamin Netanyahu "
+        ],
+        "hopeful_bullets": [
+          "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Trump urges Israel to stop bombing Gaza 'immediately' in social media post",
+          "• Egypt welcomes Hamas response to peace plan announced this week by Donald Trump and Benjamin Netanyahu "
+        ],
+        "stakes_bullets": [
+          "• Egypt welcomes Hamas response to peace plan announced this week by Donald Trump and Benjamin Netanyahu "
+        ]
+      },
+      "cluster_id": "ec99d22fb834"
+    },
+    {
       "id": "8b3df25c4373",
       "title": "‘Tenement’ Trailer Uncovers Dark Secrets and Evil Spirits in Cambodia’s Official Oscar Entry",
       "outlet": "Bloody Disgusting!",
@@ -3854,39 +3950,6 @@
         ]
       },
       "cluster_id": "3f6c2bfa702a"
-    },
-    {
-      "id": "0e3dd2d668fb",
-      "title": "Treasury weighs minting $1 coin with Trump's face for U.S. 250th anniversary",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/03/trump-face-coin-treasury-dollar.html",
-      "published_at": "Fri, 03 Oct 2025 21:22:47 GMT",
-      "bullets": [
-        "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
-        "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026",
-        "• The other side mirrors a widely viewed photo taken of Trump in the moments after he survived an assassination attempt at a 2024 campaign rally "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.872
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
-          "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026"
-        ],
-        "hopeful_bullets": [
-          "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
-          "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026"
-        ],
-        "stakes_bullets": [
-          "• The Treasury Department is considering a $1 coin bearing President Donald Trump's likeness on both sides",
-          "• A first draft of that coin depicts Trump's head in profile on one side, above the words \"IN GOD WE TRUST\" and the dates 1776 and 2026",
-          "• The other side mirrors a widely viewed photo taken of Trump in the moments after he survived an assassination attempt at a 2024 campaign rally "
-        ]
-      },
-      "cluster_id": "9b2ba9ec9792"
     },
     {
       "id": "8ed96dea4d39",
@@ -3920,37 +3983,6 @@
         ]
       },
       "cluster_id": "678172b09c2f"
-    },
-    {
-      "id": "f639382f3c34",
-      "title": "AI chipmaker Cerebras withdraws IPO",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/03/cerebras-withdraws-ipo-ai.html",
-      "published_at": "Fri, 03 Oct 2025 21:20:36 GMT",
-      "bullets": [
-        "• Artificial intelligence chipmaker Cerebras withdraws plans for initial public offering",
-        "• The company filed for an IPO last year as it went up against Nvidia to make the most capable processors for running generative AI models",
-        "• The agency is operating at a low volume after the U.S",
-        "• government shutdown "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Artificial intelligence chipmaker Cerebras withdraws plans for initial public offering",
-          "• The company filed for an IPO last year as it went up against Nvidia to make the most capable processors for running generative AI models"
-        ],
-        "hopeful_bullets": [
-          "• The company filed for an IPO last year as it went up against Nvidia to make the most capable processors for running generative AI models"
-        ],
-        "stakes_bullets": [
-          "• Artificial intelligence chipmaker Cerebras withdraws plans for initial public offering"
-        ]
-      },
-      "cluster_id": "e2e2de686f3e"
     },
     {
       "id": "44d25b56e80c",
@@ -4015,34 +4047,35 @@
       "cluster_id": "d83c32977761"
     },
     {
-      "id": "3531d5d3c0c7",
-      "title": "Hamas agrees to release all Israeli hostages, dead or alive, as it accepts parts of Trump’s Gaza plan – live",
+      "id": "f08228d5d8d2",
+      "title": "FBI cuts ties with two advocacy groups that track US extremism after rightwing backlash",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates",
-      "published_at": "Fri, 03 Oct 2025 21:07:25 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/oct/03/fbi-splc-adl-kash-patel-extremism",
+      "published_at": "Fri, 03 Oct 2025 21:10:56 GMT",
       "bullets": [
-        "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Hamas accepts some elements of Trump's Gaza plan but says others require further negotiations",
-        "• White House posts full text of Hamas statement on its official X account "
+        "• FBI director Kash Patel says the agency is cutting ties with two organizations",
+        "• The Southern Poverty Law Center and the Anti-Defamation League have been criticized by some conservatives",
+        "• The move follows complaints about the groups from some conservatives and prominent allies of president Donald Trump "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Hamas accepts some elements of Trump's Gaza plan but says others require further negotiations",
-          "• White House posts full text of Hamas statement on its official X account "
+          "• FBI director Kash Patel says the agency is cutting ties with two organizations",
+          "• The Southern Poverty Law Center and the Anti-Defamation League have been criticized by some conservatives"
         ],
         "hopeful_bullets": [
-          "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Hamas accepts some elements of Trump's Gaza plan but says others require further negotiations",
-          "• White House posts full text of Hamas statement on its official X account "
+          "• FBI director Kash Patel says the agency is cutting ties with two organizations",
+          "• The Southern Poverty Law Center and the Anti-Defamation League have been criticized by some conservatives"
         ],
         "stakes_bullets": [
-          "• Trump says Hamas is ready for peace, says 'Israel must immediately stop the bombing of Gaza' Hamas accepts some elements of Trump's Gaza plan but says others require further negotiations"
+          "• FBI director Kash Patel says the agency is cutting ties with two organizations"
         ]
       },
-      "cluster_id": "ec99d22fb834"
+      "cluster_id": "a7516b2754de"
     },
     {
       "id": "4b73fa07509c",
@@ -4051,28 +4084,26 @@
       "url": "https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates",
       "published_at": "Fri, 03 Oct 2025 21:01:34 GMT",
       "bullets": [
-        "• Sean ‘Diddy’ Combs sentenced to over four years in prison",
-        "• Combs was convicted of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal acts",
-        "• The judge said a “substantial sentence” was necessary to send a message to abusers "
+        "• Sean 'Diddy' Combs sentenced to over four years in prison",
+        "• Combs was convicted earlier this year of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal sex acts",
+        "• He also required Combs to pay a $500,000 fine "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Sean ‘Diddy’ Combs sentenced to over four years in prison",
-          "• Combs was convicted of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal acts"
+          "• Sean 'Diddy' Combs sentenced to over four years in prison",
+          "• Combs was convicted earlier this year of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal sex acts"
         ],
         "hopeful_bullets": [
-          "• Sean ‘Diddy’ Combs sentenced to over four years in prison",
-          "• Combs was convicted of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal acts"
+          "• Sean 'Diddy' Combs sentenced to over four years in prison",
+          "• Combs was convicted earlier this year of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal sex acts"
         ],
         "stakes_bullets": [
-          "• Sean ‘Diddy’ Combs sentenced to over four years in prison",
-          "• Combs was convicted of violating the Mann Act, a law prohibiting the transport of individuals across state lines for illegal acts",
-          "• The judge said a “substantial sentence” was necessary to send a message to abusers "
+          "• He also required Combs to pay a $500,000 fine "
         ]
       },
       "cluster_id": "6e6de5252aca"
@@ -4214,26 +4245,25 @@
       "published_at": "Fri, 03 Oct 2025 20:45:46 +0000",
       "bullets": [
         "• Sean \"Diddy\" Combs sentenced to four years and two months in prison",
-        "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons",
-        "• The punishment was meant “to send a message to abusers and victims alike that exploitation and violence against women is met with real accountability”"
+        "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons known as \"freak-offs\" The term far exceeded the 14-month sentence requested by the music mogul "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.985
       },
       "moods": {
         "brief_bullets": [
           "• Sean \"Diddy\" Combs sentenced to four years and two months in prison",
-          "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons"
+          "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons known as \"freak-offs\" The term far exceeded the 14-month sentence requested by the music mogul "
         ],
         "hopeful_bullets": [
-          "• The punishment was meant “to send a message to abusers and victims alike that exploitation and violence against women is met with real accountability”"
+          "• Sean \"Diddy\" Combs sentenced to four years and two months in prison",
+          "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons known as \"freak-offs\" The term far exceeded the 14-month sentence requested by the music mogul "
         ],
         "stakes_bullets": [
           "• Sean \"Diddy\" Combs sentenced to four years and two months in prison",
-          "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons",
-          "• The punishment was meant “to send a message to abusers and victims alike that exploitation and violence against women is met with real accountability”"
+          "• He was convicted of transporting his ex-girlfriends and male escorts across state lines for days-long, drug-fueled sex marathons known as \"freak-offs\" The term far exceeded the 14-month sentence requested by the music mogul "
         ]
       },
       "cluster_id": "3b6887257003"
@@ -4336,37 +4366,6 @@
         ]
       },
       "cluster_id": "6fb06797461c"
-    },
-    {
-      "id": "0a7334689d55",
-      "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 03 Oct 2025 20:40:56 GMT",
-      "bullets": [
-        "• Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-        "• US President Donald Trump gave Hamas a Sunday deadline to accept the peace plan or face \"all hell\" The group appears to suggest it is seeking further negotiation on future of Gaza and rights of Palestinians "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-          "• US President Donald Trump gave Hamas a Sunday deadline to accept the peace plan or face \"all hell\" The group appears to suggest it is seeking further negotiation on future of Gaza and rights of Palestinians "
-        ],
-        "hopeful_bullets": [
-          "• Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-          "• US President Donald Trump gave Hamas a Sunday deadline to accept the peace plan or face \"all hell\" The group appears to suggest it is seeking further negotiation on future of Gaza and rights of Palestinians "
-        ],
-        "stakes_bullets": [
-          "• Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-          "• US President Donald Trump gave Hamas a Sunday deadline to accept the peace plan or face \"all hell\" The group appears to suggest it is seeking further negotiation on future of Gaza and rights of Palestinians "
-        ]
-      },
-      "cluster_id": "ec99d22fb834"
     },
     {
       "id": "b7a762231479",
@@ -5457,39 +5456,6 @@
       "cluster_id": "ba7604f212a1"
     },
     {
-      "id": "e03ba224b8f4",
-      "title": "Texas man faces hate-crime charges for spray painting anti-Israel graffiti on side of church",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/03/texas-israel-graffiti-hate-crime-church",
-      "published_at": "Fri, 03 Oct 2025 17:56:22 GMT",
-      "bullets": [
-        "• Raunaq Alam, 32, and two others were arrested in 2024 in connection with the graffiti",
-        "• The church was flying the Israeli flag and has published several social media posts about their support for the Israeli government and military",
-        "• Alam was ultimately released from jail on a $20,000 bond - only to be arrested again less than two weeks later "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Raunaq Alam, 32, and two others were arrested in 2024 in connection with the graffiti",
-          "• The church was flying the Israeli flag and has published several social media posts about their support for the Israeli government and military"
-        ],
-        "hopeful_bullets": [
-          "• Raunaq Alam, 32, and two others were arrested in 2024 in connection with the graffiti",
-          "• The church was flying the Israeli flag and has published several social media posts about their support for the Israeli government and military"
-        ],
-        "stakes_bullets": [
-          "• Raunaq Alam, 32, and two others were arrested in 2024 in connection with the graffiti",
-          "• The church was flying the Israeli flag and has published several social media posts about their support for the Israeli government and military",
-          "• Alam was ultimately released from jail on a $20,000 bond - only to be arrested again less than two weeks later "
-        ]
-      },
-      "cluster_id": "d925e487c765"
-    },
-    {
       "id": "91ea5e471b5f",
       "title": "Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.",
       "outlet": "Ars Technica - All content",
@@ -5773,6 +5739,39 @@
         ]
       },
       "cluster_id": "00d08457882e"
+    },
+    {
+      "id": "54199ef539d9",
+      "title": "Trump administration to offer undocumented minors $2,500 to voluntarily return home",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17178460/texas-immigrant-minors-children-payments-voluntary-deportation",
+      "published_at": "Fri, 03 Oct 2025 17:00:40 -0500",
+      "bullets": [
+        "• The Associated Press obtained an email to migrant shelters saying children 14 years of age and older would get $2,500 each",
+        "• Children were given 24 hours to respond to the offer",
+        "• ICE said in a statement that the offer would initially be for 17-year-olds "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Associated Press obtained an email to migrant shelters saying children 14 years of age and older would get $2,500 each",
+          "• Children were given 24 hours to respond to the offer"
+        ],
+        "hopeful_bullets": [
+          "• The Associated Press obtained an email to migrant shelters saying children 14 years of age and older would get $2,500 each",
+          "• Children were given 24 hours to respond to the offer"
+        ],
+        "stakes_bullets": [
+          "• The Associated Press obtained an email to migrant shelters saying children 14 years of age and older would get $2,500 each",
+          "• Children were given 24 hours to respond to the offer",
+          "• ICE said in a statement that the offer would initially be for 17-year-olds "
+        ]
+      },
+      "cluster_id": "32bfa8f0ad5d"
     },
     {
       "id": "0377b39214b9",
@@ -7032,37 +7031,36 @@
     },
     {
       "id": "331a31c6d4db",
-      "title": "Hamas agrees to parts of a Gaza peace plan after Trump gives a deadline",
+      "title": "Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/03/nx-s1-5561801/trump-hamas-israel-gaza-peace-plan-deadline",
       "published_at": "Fri, 03 Oct 2025 12:26:36 -0400",
       "bullets": [
-        "• President Trump has given Hamas a deadline to release all its prisoners",
-        "• The deal would see the release of all of the prisoners released within 72 hours",
-        "• The deadline comes just days before the second anniversary of the Israeli-Palestinian conflict",
-        "• It does not specify what the \"field conditions\" will be for the release "
+        "• President Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages",
+        "• Hamas said it would release all Israeli hostages in exchange for the release of Palestinian prisoners held by Israel",
+        "• Trump: \"This is not about Gaza alone, this is about long sought PEACE in the Middle East\""
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
-          "• President Trump has given Hamas a deadline to release all its prisoners",
-          "• The deal would see the release of all of the prisoners released within 72 hours"
+          "• President Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages",
+          "• Hamas said it would release all Israeli hostages in exchange for the release of Palestinian prisoners held by Israel"
         ],
         "hopeful_bullets": [
-          "• President Trump has given Hamas a deadline to release all its prisoners",
-          "• The deal would see the release of all of the prisoners released within 72 hours"
+          "• President Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages",
+          "• Hamas said it would release all Israeli hostages in exchange for the release of Palestinian prisoners held by Israel"
         ],
         "stakes_bullets": [
-          "• President Trump has given Hamas a deadline to release all its prisoners",
-          "• The deadline comes just days before the second anniversary of the Israeli-Palestinian conflict",
-          "• It does not specify what the \"field conditions\" will be for the release "
+          "• President Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages",
+          "• Hamas said it would release all Israeli hostages in exchange for the release of Palestinian prisoners held by Israel",
+          "• Trump: \"This is not about Gaza alone, this is about long sought PEACE in the Middle East\""
         ]
       },
-      "cluster_id": "c9c9cc35eebc"
+      "cluster_id": "2e681fff5aea"
     },
     {
       "id": "54bc469b3799",
@@ -7892,37 +7890,6 @@
       "cluster_id": "2af2c96c933e"
     },
     {
-      "id": "0f4676391c74",
-      "title": "Renewed focus on Roberson case is latest in deluge of political pressure aimed at Texas judiciary",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17177478/texas-courts-political-pressure-robert-roberson-paxton",
-      "published_at": "Fri, 03 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis",
-        "• He has maintained his innocence for more than two decades",
-        "• Roberson’s lawyers say he deserves a new trial "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.68
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis",
-          "• He has maintained his innocence for more than two decades"
-        ],
-        "hopeful_bullets": [
-          "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis",
-          "• He has maintained his innocence for more than two decades"
-        ],
-        "stakes_bullets": [
-          "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis"
-        ]
-      },
-      "cluster_id": "be22d2b28809"
-    },
-    {
       "id": "a4eb957986ff",
       "title": "Texas attorney general tells 4 cities to drop tax hikes amid investigations into incomplete audits",
       "outlet": "The Texas Tribune",
@@ -7952,6 +7919,37 @@
         ]
       },
       "cluster_id": "0304810699c8"
+    },
+    {
+      "id": "0f4676391c74",
+      "title": "Renewed focus on Roberson case is latest in deluge of political pressure aimed at Texas judiciary",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17177478/texas-courts-political-pressure-robert-roberson-paxton",
+      "published_at": "Fri, 03 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis",
+        "• He has maintained his innocence for more than two decades",
+        "• Roberson’s lawyers say he deserves a new trial "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.68
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis",
+          "• He has maintained his innocence for more than two decades"
+        ],
+        "hopeful_bullets": [
+          "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis",
+          "• He has maintained his innocence for more than two decades"
+        ],
+        "stakes_bullets": [
+          "• Robert Roberson, 58, is scheduled to be executed in two weeks for the death of his 2-year-old daughter, Nikki Curtis"
+        ]
+      },
+      "cluster_id": "be22d2b28809"
     },
     {
       "id": "b1cf2c10b6a3",
@@ -9269,6 +9267,24 @@
       ]
     },
     {
+      "id": "a7516b2754de",
+      "topic": "advocacy cuts fbi group",
+      "keywords": [
+        "advocacy",
+        "cuts",
+        "fbi",
+        "group",
+        "ties",
+        "track"
+      ],
+      "item_ids": [
+        "f08228d5d8d2"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "6e6de5252aca",
       "topic": "comb diddy four prison",
       "keywords": [
@@ -9376,24 +9392,6 @@
       ],
       "item_ids": [
         "11f0eb3c260f"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d925e487c765",
-      "topic": "charge crime face hate",
-      "keywords": [
-        "charge",
-        "crime",
-        "face",
-        "hate",
-        "man",
-        "texa"
-      ],
-      "item_ids": [
-        "e03ba224b8f4"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9525,15 +9523,15 @@
       ]
     },
     {
-      "id": "c9c9cc35eebc",
-      "topic": "agree gaza hama part",
+      "id": "2e681fff5aea",
+      "topic": "bombing gaza israel stop",
       "keywords": [
-        "agree",
+        "bombing",
         "gaza",
-        "hama",
-        "part",
-        "peace",
-        "plan"
+        "israel",
+        "stop",
+        "tell",
+        "trump"
       ],
       "item_ids": [
         "331a31c6d4db"
@@ -10527,13 +10525,13 @@
       ]
     },
     {
-      "id": "deb5f8852752",
-      "topic": "coral countrie help other",
+      "id": "0e42f2338c45",
+      "topic": "coral countrie other save",
       "keywords": [
         "coral",
         "countrie",
-        "help",
         "other",
+        "save",
         "scientist",
         "using"
       ],
@@ -13568,6 +13566,24 @@
       ]
     },
     {
+      "id": "32bfa8f0ad5d",
+      "topic": "500 administration minor offer",
+      "keywords": [
+        "500",
+        "administration",
+        "minor",
+        "offer",
+        "trump",
+        "undocumented"
+      ],
+      "item_ids": [
+        "54199ef539d9"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "f59af4c9d2ef",
       "topic": "former lawmaker named state",
       "keywords": [
@@ -13586,24 +13602,6 @@
       ]
     },
     {
-      "id": "be22d2b28809",
-      "topic": "case deluge focu political",
-      "keywords": [
-        "case",
-        "deluge",
-        "focu",
-        "political",
-        "renewed",
-        "roberson"
-      ],
-      "item_ids": [
-        "0f4676391c74"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "0304810699c8",
       "topic": "attorney citie drop general",
       "keywords": [
@@ -13616,6 +13614,24 @@
       ],
       "item_ids": [
         "a4eb957986ff"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "be22d2b28809",
+      "topic": "case deluge focu political",
+      "keywords": [
+        "case",
+        "deluge",
+        "focu",
+        "political",
+        "renewed",
+        "roberson"
+      ],
+      "item_ids": [
+        "0f4676391c74"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13724,24 +13740,6 @@
       ],
       "item_ids": [
         "02b8ffa021c9"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "98e8fe104252",
-      "topic": "force launche repeat target",
-      "keywords": [
-        "force",
-        "launche",
-        "repeat",
-        "target",
-        "task",
-        "texa"
-      ],
-      "item_ids": [
-        "05ffdc733005"
       ],
       "outlets": [
         "The Texas Tribune"
