@@ -6,6 +6,39 @@ from tqdm import tqdm
 from pathlib import Path
 from typing import Optional, List, Dict
 
+import re
+from collections import defaultdict
+
+STOP = set("""
+the and for that with from this have will your their about into over more than been after
+says said were was are its you but they them who what when where why how amid as of on
+to in by at a an it is be or we our not new his her has had also may can could would should
+one two three u us news
+""".split())
+
+TOKEN_RE = re.compile(r"[A-Za-z0-9]+")
+
+def tokenize_title(title: str) -> list[str]:
+    words = [w.lower() for w in TOKEN_RE.findall(title or "")]
+    # keep words length>=3 and not stopwords
+    words = [w[:-1] if len(w) > 4 and w.endswith("s") else w for w in words]
+    return [w for w in words if len(w) >= 3 and w not in STOP]
+
+def signature_words(title: str, k: int = 6) -> list[str]:
+    # take up to k unique informative tokens in stable order
+    seen, sig = set(), []
+    for w in tokenize_title(title):
+        if w not in seen:
+            sig.append(w); seen.add(w)
+        if len(sig) >= k: break
+    return sig
+
+def jaccard(a: set[str], b: set[str]) -> float:
+    if not a or not b: return 0.0
+    inter = len(a & b)
+    union = len(a | b)
+    return inter / union if union else 0.0
+
 # ---------------- Path helpers (script-relative) ----------------
 HERE = Path(__file__).resolve().parent
 PUBLIC_DIR = HERE / "public"
@@ -83,6 +116,27 @@ print("Loading sentiment model (SST-2)…", flush=True)
 sentiment_clf = pipeline("text-classification", model="distilbert-base-uncased-finetuned-sst-2-english", device=-1)
 print("Sentiment ready.", flush=True)
 
+POS_WORDS = {"win","gains","growth","record","award","boost","reduce","relief","improve","strong","surge","rebound","recovery","progress","breakthrough","help"}
+IMPACT_WORDS = {"will","could","impact","affect","effect","cause","lead","result","expected","plan","policy","bill","ban","require","expand","cut","increase","decrease","deadline"}
+
+def mood_variants(title: str, bullets: list[str]) -> dict:
+    # 1) Brief = first 2 bullets (fallback to 1)
+    brief = bullets[:2] if len(bullets) >= 2 else bullets[:1]
+
+    # 2) Hopeful = bullets containing positive terms
+    hopeful = [b for b in bullets if any(p in b.lower() for p in POS_WORDS)]
+    if not hopeful: hopeful = bullets[:2] or bullets[:1]
+
+    # 3) Stakes = bullets containing “impact” words (policy/effects)
+    stakes = [b for b in bullets if any(k in b.lower() for k in IMPACT_WORDS)]
+    if not stakes: stakes = bullets[:3] or bullets
+
+    return {
+        "brief_bullets": brief,
+        "hopeful_bullets": hopeful[:4],
+        "stakes_bullets": stakes[:4],
+    }
+
 def classify_sentiment(title: str, bullets: list[str]) -> dict:
     # Build a short text from title + bullets for classification
     text = (title + " " + " ".join(bullets)).strip()
@@ -150,16 +204,19 @@ def run():
 
             sent = classify_sentiment(title, bullets)
 
+            moods = mood_variants(title, bullets)
+
             items.append({
                 "id": make_id(url),
                 "title": title,
                 "outlet": outlet_name,
                 "url": url,
                 "published_at": published,
-                "bullets": bullets,
+                "bullets": bullets,              # standard neutral bullets
                 "category": feed_cat,
-                "sentiment": sent,
+                "moods": moods,                  # <-- NEW: {brief_bullets, hopeful_bullets, stakes_bullets}
             })
+
             total += 1
             kept += 1
             per_cat[feed_cat] = per_cat.get(feed_cat, 0) + 1
@@ -169,9 +226,47 @@ def run():
         if total >= MAX_ARTICLES_TOTAL:
             break
 
+# ---- Build clusters (multiple perspectives) ----
+clusters = []                # list of cluster dicts
+cluster_ids = []             # parallel to items (store cluster id)
+buckets = []                 # list of (sig_set, item_indexes)
+
+for idx, it in enumerate(items):
+    sig = set(signature_words(it["title"]))
+    assigned = False
+    # try to match to existing bucket with Jaccard >= 0.6
+    for b_idx, (b_sig, _) in enumerate(buckets):
+        if jaccard(sig, b_sig) >= 0.6:
+            buckets[b_idx][1].append(idx)
+            buckets[b_idx] = (b_sig | sig, buckets[b_idx][1])  # expand signature
+            assigned = True
+            break
+    if not assigned:
+        buckets.append((sig, [idx]))
+
+# materialize clusters
+for (sig_set, idxs) in buckets:
+    if len(idxs) <= 1:
+        # singleton clusters are fine; still useful for future merges
+        pass
+    topic = " ".join(sorted(list(sig_set))[:4]) or "topic"
+    cid = make_id(topic + "".join(items[i]["id"] for i in idxs)[:24])
+    clusters.append({
+        "id": cid,
+        "topic": topic,
+        "keywords": sorted(list(sig_set))[:8],
+        "item_ids": [items[i]["id"] for i in idxs],
+        "outlets": sorted({items[i]["outlet"] or "" for i in idxs if items[i].get("outlet")}),
+    })
+    # tag items with cluster_id
+    for i in idxs:
+        items[i]["cluster_id"] = cid
+
+    sorted_items = sorted(items, key=lambda x: x["published_at"] or "", reverse=True)
     data = {
         "generated_at": now_iso(),
-        "items": sorted(items, key=lambda x: x["published_at"] or "", reverse=True)
+        "items": sorted_items,
+        "clusters": clusters,   # <-- NEW
     }
 
     out_path = PUBLIC_DIR / "summaries.json"
