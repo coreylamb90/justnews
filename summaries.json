@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T04:17:52Z",
+  "generated_at": "2025-10-04T04:59:10Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2761,6 +2761,39 @@
         ]
       },
       "cluster_id": "2e116862dfd5"
+    },
+    {
+      "id": "621ca0ecfc7e",
+      "title": "UK electric car sales hit record high as taxpayer subsidies help attract buyers",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/business/2025/oct/04/uk-electric-car-sales-record-high-taxpayer-subsidies",
+      "published_at": "Sat, 04 Oct 2025 04:00:01 GMT",
+      "bullets": [
+        "• Battery EV sales rose by nearly a third in September compared with a year earlier, to 72,800",
+        "• The UK government reintroduced an electric car grant in July after intense lobbying by carmakers",
+        "• Hybrid sales have boomed as struggling carmakers shift focus towards vehicles that are more profitable "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.702
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Battery EV sales rose by nearly a third in September compared with a year earlier, to 72,800",
+          "• The UK government reintroduced an electric car grant in July after intense lobbying by carmakers"
+        ],
+        "hopeful_bullets": [
+          "• Battery EV sales rose by nearly a third in September compared with a year earlier, to 72,800",
+          "• The UK government reintroduced an electric car grant in July after intense lobbying by carmakers"
+        ],
+        "stakes_bullets": [
+          "• Battery EV sales rose by nearly a third in September compared with a year earlier, to 72,800",
+          "• The UK government reintroduced an electric car grant in July after intense lobbying by carmakers",
+          "• Hybrid sales have boomed as struggling carmakers shift focus towards vehicles that are more profitable "
+        ]
+      },
+      "cluster_id": "e58a149d1b5a"
     },
     {
       "id": "f132ace46d40",
@@ -7492,36 +7525,6 @@
       "cluster_id": "42c05e5adac3"
     },
     {
-      "id": "74686535c171",
-      "title": "Fungi finds: UK citizen scientists make rare pink and purple discoveries",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/science/2025/oct/03/fungi-finds-uk-citizen-scientists-make-rare-pink-and-purple-discoveries",
-      "published_at": "Fri, 03 Oct 2025 09:14:36 GMT",
-      "bullets": [
-        "• Charity Plantlife enlisted 850 volunteers to look for waxcaps in their local areas",
-        "• They found 300 new locations of the candy-coloured pink waxcap (Porpolomopsis calyptriformis) and 18 new sites of violet coral, Clavaria zollingeri "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Charity Plantlife enlisted 850 volunteers to look for waxcaps in their local areas",
-          "• They found 300 new locations of the candy-coloured pink waxcap (Porpolomopsis calyptriformis) and 18 new sites of violet coral, Clavaria zollingeri "
-        ],
-        "hopeful_bullets": [
-          "• Charity Plantlife enlisted 850 volunteers to look for waxcaps in their local areas",
-          "• They found 300 new locations of the candy-coloured pink waxcap (Porpolomopsis calyptriformis) and 18 new sites of violet coral, Clavaria zollingeri "
-        ],
-        "stakes_bullets": [
-          "• Charity Plantlife enlisted 850 volunteers to look for waxcaps in their local areas"
-        ]
-      },
-      "cluster_id": "55e7998bbe22"
-    },
-    {
       "id": "005f93786e17",
       "title": "Scientists just cracked the mystery of why cancer immunotherapy fails",
       "outlet": "All Top News -- ScienceDaily",
@@ -11107,6 +11110,24 @@
       ]
     },
     {
+      "id": "e58a149d1b5a",
+      "topic": "car electric high hit",
+      "keywords": [
+        "car",
+        "electric",
+        "high",
+        "hit",
+        "record",
+        "sale"
+      ],
+      "item_ids": [
+        "621ca0ecfc7e"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "5c88231b3115",
       "topic": "britain farage green hand",
       "keywords": [
@@ -11137,24 +11158,6 @@
       ],
       "item_ids": [
         "ea31234ef94e"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "55e7998bbe22",
-      "topic": "citizen find fungi make",
-      "keywords": [
-        "citizen",
-        "find",
-        "fungi",
-        "make",
-        "rare",
-        "scientist"
-      ],
-      "item_ids": [
-        "74686535c171"
       ],
       "outlets": [
         "Environment | The Guardian"
