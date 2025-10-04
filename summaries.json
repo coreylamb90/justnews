@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T06:12:40Z",
+  "generated_at": "2025-10-04T07:05:37Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2730,6 +2730,36 @@
         ]
       },
       "cluster_id": "2e116862dfd5"
+    },
+    {
+      "id": "61df894edc76",
+      "title": "‘I think it’s selfish’: William and Kate face backlash over Windsor Great Park no-go zone",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/04/william-kate-face-backlash-no-go-zone-windsor-great-park",
+      "published_at": "Sat, 04 Oct 2025 06:00:06 GMT",
+      "bullets": [
+        "• For almost two decades Tina has enjoyed early morning walks through Windsor Great Park’s ancient-oak studded open fields with the freedom to let her dog off the lead",
+        "• In recent weeks she has noticed disturbing changes: fencing appearing around her regular route near Cranbourne Gate, trenches being dug, hedges planted and CCTV cameras erected "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• For almost two decades Tina has enjoyed early morning walks through Windsor Great Park’s ancient-oak studded open fields with the freedom to let her dog off the lead",
+          "• In recent weeks she has noticed disturbing changes: fencing appearing around her regular route near Cranbourne Gate, trenches being dug, hedges planted and CCTV cameras erected "
+        ],
+        "hopeful_bullets": [
+          "• For almost two decades Tina has enjoyed early morning walks through Windsor Great Park’s ancient-oak studded open fields with the freedom to let her dog off the lead"
+        ],
+        "stakes_bullets": [
+          "• For almost two decades Tina has enjoyed early morning walks through Windsor Great Park’s ancient-oak studded open fields with the freedom to let her dog off the lead",
+          "• In recent weeks she has noticed disturbing changes: fencing appearing around her regular route near Cranbourne Gate, trenches being dug, hedges planted and CCTV cameras erected "
+        ]
+      },
+      "cluster_id": "0fcd58496906"
     },
     {
       "id": "10f538559fa7",
@@ -7052,38 +7082,6 @@
       "cluster_id": "caff2e085e21"
     },
     {
-      "id": "5effd0dbf873",
-      "title": "Starmer will hand Britain over to Farage, says Green party leader Zack Polanski",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/politics/2025/oct/03/starmer-will-hand-britain-over-to-farage-says-green-party-leader-zack-polanski",
-      "published_at": "Fri, 03 Oct 2025 13:33:15 GMT",
-      "bullets": [
-        "• New leader of the Greens says Labour would hand the country on a plate",
-        "• He is one of five Jewish people to lead a British political party in the last 100 years",
-        "• Polanski is Jewish and grew up in Manchester and is proud of his heritage "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New leader of the Greens says Labour would hand the country on a plate",
-          "• He is one of five Jewish people to lead a British political party in the last 100 years"
-        ],
-        "hopeful_bullets": [
-          "• New leader of the Greens says Labour would hand the country on a plate",
-          "• He is one of five Jewish people to lead a British political party in the last 100 years"
-        ],
-        "stakes_bullets": [
-          "• New leader of the Greens says Labour would hand the country on a plate",
-          "• He is one of five Jewish people to lead a British political party in the last 100 years"
-        ]
-      },
-      "cluster_id": "5c88231b3115"
-    },
-    {
       "id": "e1fd91757219",
       "title": "‘Bugonia’ Review: Yorgos Lanthimos Goes Back To Nihilistic Basics In New Film [Fantastic Fest 2025]",
       "outlet": "Dread Central",
@@ -11112,6 +11110,24 @@
       ]
     },
     {
+      "id": "0fcd58496906",
+      "topic": "backlash face kate selfish",
+      "keywords": [
+        "backlash",
+        "face",
+        "kate",
+        "selfish",
+        "think",
+        "william"
+      ],
+      "item_ids": [
+        "61df894edc76"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "1984aa676fa1",
       "topic": "caged eggs hen import",
       "keywords": [
@@ -11142,24 +11158,6 @@
       ],
       "item_ids": [
         "621ca0ecfc7e"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "5c88231b3115",
-      "topic": "britain farage green hand",
-      "keywords": [
-        "britain",
-        "farage",
-        "green",
-        "hand",
-        "party",
-        "starmer"
-      ],
-      "item_ids": [
-        "5effd0dbf873"
       ],
       "outlets": [
         "Environment | The Guardian"
