@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T18:13:22Z",
+  "generated_at": "2025-10-04T19:04:01Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2538,6 +2538,38 @@
       "cluster_id": "2e116862dfd5"
     },
     {
+      "id": "73e209feb5ca",
+      "title": "The Paper Season 2 Filming Window Revealed",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-paper-season-2-filming-window/",
+      "published_at": "Sat, 04 Oct 2025 18:09:49 GMT",
+      "bullets": [
+        "• Domhnall Gleeson appeared on The Graham Norton Show",
+        "• He confirmed The Paper will start production on Season 2 soon",
+        "• The Paper premiered in early September and received encouraging reviews",
+        "• NBCUniversal renewed the show for Season 2 one day before it premiered "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Domhnall Gleeson appeared on The Graham Norton Show",
+          "• He confirmed The Paper will start production on Season 2 soon"
+        ],
+        "hopeful_bullets": [
+          "• Domhnall Gleeson appeared on The Graham Norton Show",
+          "• He confirmed The Paper will start production on Season 2 soon"
+        ],
+        "stakes_bullets": [
+          "• He confirmed The Paper will start production on Season 2 soon"
+        ]
+      },
+      "cluster_id": "4bcc4e722954"
+    },
+    {
       "id": "0769d1dd82ca",
       "title": "8 Best Fantasy Shows Since Game of Thrones (#1 Is Controversial)",
       "outlet": "CBR",
@@ -2569,6 +2601,37 @@
         ]
       },
       "cluster_id": "f73c8093f9e9"
+    },
+    {
+      "id": "ea6cc98a9fe3",
+      "title": "US treasury considers special $1 Trump coin reading ‘fight, fight, fight’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/03/trump-coin-treasury",
+      "published_at": "Sat, 04 Oct 2025 17:34:00 GMT",
+      "bullets": [
+        "• The US is considering a $1 coin to commemorate the 250th anniversary of the US's independence",
+        "• The design features Donald Trump with a clenched first under an American flag and the words “fight, fight, fight’s” The words overtly reference what Trump said after surviving an assassination attempt "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The US is considering a $1 coin to commemorate the 250th anniversary of the US's independence",
+          "• The design features Donald Trump with a clenched first under an American flag and the words “fight, fight, fight’s” The words overtly reference what Trump said after surviving an assassination attempt "
+        ],
+        "hopeful_bullets": [
+          "• The US is considering a $1 coin to commemorate the 250th anniversary of the US's independence",
+          "• The design features Donald Trump with a clenched first under an American flag and the words “fight, fight, fight’s” The words overtly reference what Trump said after surviving an assassination attempt "
+        ],
+        "stakes_bullets": [
+          "• The US is considering a $1 coin to commemorate the 250th anniversary of the US's independence",
+          "• The design features Donald Trump with a clenched first under an American flag and the words “fight, fight, fight’s” The words overtly reference what Trump said after surviving an assassination attempt "
+        ]
+      },
+      "cluster_id": "4b6483b9b486"
     },
     {
       "id": "9ac278689240",
@@ -2894,7 +2957,7 @@
           "• Babis is expected to be invited to lead talks on forming a new coalition "
         ]
       },
-      "cluster_id": "902d136f3f5d"
+      "cluster_id": "3d6ff45d2e90"
     },
     {
       "id": "80b4065a622d",
@@ -3087,39 +3150,6 @@
       "cluster_id": "dbb866066b11"
     },
     {
-      "id": "4c60c6dad037",
-      "title": "Tulsa King Tackles a Gangster's Hierarchy in New Season 3 Clip (Exclusive)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tulsa-king-gangster-hierarchy-season-3-clip-exclusive/",
-      "published_at": "Sat, 04 Oct 2025 16:00:12 GMT",
-      "bullets": [
-        "• 'The G and the OG' (Season 3, Episode 3 of Tulsa King) is set to air on Sunday, Oct",
-        "• 5",
-        "• A new clip from the upcoming episode shows Bohdi Geigerman and Tyson Mitchell on a tense stakeout "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.791
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'The G and the OG' (Season 3, Episode 3 of Tulsa King) is set to air on Sunday, Oct",
-          "• 5"
-        ],
-        "hopeful_bullets": [
-          "• 'The G and the OG' (Season 3, Episode 3 of Tulsa King) is set to air on Sunday, Oct",
-          "• 5"
-        ],
-        "stakes_bullets": [
-          "• 'The G and the OG' (Season 3, Episode 3 of Tulsa King) is set to air on Sunday, Oct",
-          "• 5",
-          "• A new clip from the upcoming episode shows Bohdi Geigerman and Tyson Mitchell on a tense stakeout "
-        ]
-      },
-      "cluster_id": "97705feb876c"
-    },
-    {
       "id": "00746e3a9877",
       "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
       "outlet": "BBC News",
@@ -3253,36 +3283,37 @@
     },
     {
       "id": "090809d37d17",
-      "title": "Greta Thunberg says she is being detained by Israel in cell infested with bedbugs",
+      "title": "Israel accused of detaining Greta Thunberg in infested cell and making her hold flags",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden",
       "published_at": "Sat, 04 Oct 2025 15:02:59 GMT",
       "bullets": [
-        "• Swedish official says Greta Thunberg is being held in a cell infested with bedbugs",
-        "• Another official says she was forced to hold flags while taking pictures of her",
-        "• The Global Sumud Flotilla (GSF) was carrying humanitarian aid to Gaza "
+        "• Swedish official says she is being held in a cell infested with bedbugs",
+        "• Claims she has received insufficient amounts of water and food",
+        "• Another official said she was forced to hold flags while taking pictures of her",
+        "• The identity of the flags are unknown "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Swedish official says Greta Thunberg is being held in a cell infested with bedbugs",
-          "• Another official says she was forced to hold flags while taking pictures of her"
+          "• Swedish official says she is being held in a cell infested with bedbugs",
+          "• Claims she has received insufficient amounts of water and food"
         ],
         "hopeful_bullets": [
-          "• Swedish official says Greta Thunberg is being held in a cell infested with bedbugs",
-          "• Another official says she was forced to hold flags while taking pictures of her"
+          "• Swedish official says she is being held in a cell infested with bedbugs",
+          "• Claims she has received insufficient amounts of water and food"
         ],
         "stakes_bullets": [
-          "• Swedish official says Greta Thunberg is being held in a cell infested with bedbugs",
-          "• Another official says she was forced to hold flags while taking pictures of her",
-          "• The Global Sumud Flotilla (GSF) was carrying humanitarian aid to Gaza "
+          "• Swedish official says she is being held in a cell infested with bedbugs",
+          "• Claims she has received insufficient amounts of water and food",
+          "• Another official said she was forced to hold flags while taking pictures of her"
         ]
       },
-      "cluster_id": "2e1ff4d1a36c"
+      "cluster_id": "a02c09079086"
     },
     {
       "id": "bd0bd011c253",
@@ -3476,6 +3507,38 @@
       "cluster_id": "2bc9644e3b44"
     },
     {
+      "id": "923ddaedb477",
+      "title": "Populist billionaire Andrej Babiš wins Czech parliamentary election",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/04/nx-s1-5562586/czech-election-winner-billionaire-andrej-babis",
+      "published_at": "Sat, 04 Oct 2025 13:42:19 -0400",
+      "bullets": [
+        "• Populist billionaire Andrej Babiš's ANO (YES) movement captured 35% of the vote",
+        "• The pro-Western coalition of Prime Minister Petr Fiala had 23.0% of votes",
+        "• The coalition defeated him in the 2021 election",
+        "• The election filled 200 seats in the lower house of the Czech parliament "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.694
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Populist billionaire Andrej Babiš's ANO (YES) movement captured 35% of the vote",
+          "• The pro-Western coalition of Prime Minister Petr Fiala had 23.0% of votes"
+        ],
+        "hopeful_bullets": [
+          "• Populist billionaire Andrej Babiš's ANO (YES) movement captured 35% of the vote",
+          "• The pro-Western coalition of Prime Minister Petr Fiala had 23.0% of votes"
+        ],
+        "stakes_bullets": [
+          "• Populist billionaire Andrej Babiš's ANO (YES) movement captured 35% of the vote"
+        ]
+      },
+      "cluster_id": "3d6ff45d2e90"
+    },
+    {
       "id": "80c7cfdae1d1",
       "title": "Pete Hegseth fires US navy chief of staff",
       "outlet": "US news | The Guardian",
@@ -3536,36 +3599,6 @@
         ]
       },
       "cluster_id": "fe0e48a6238e"
-    },
-    {
-      "id": "cc0b9a1444dc",
-      "title": "Mike Johnson hasn’t sworn in this new Democrat. Is it because she wants to release the Epstein files?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/04/adelita-grijalva-arizona-mike-johnson-epstein",
-      "published_at": "Sat, 04 Oct 2025 13:00:07 GMT",
-      "bullets": [
-        "• Adelita Grijalva, a Democrat who easily won a special election last month, was not able to start her new job",
-        "• She plans to provide the final signature on a petition that would force a vote on legislation to release files related to Jeffrey Epstein – which the speaker and Donald Trump oppose "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Adelita Grijalva, a Democrat who easily won a special election last month, was not able to start her new job",
-          "• She plans to provide the final signature on a petition that would force a vote on legislation to release files related to Jeffrey Epstein – which the speaker and Donald Trump oppose "
-        ],
-        "hopeful_bullets": [
-          "• Adelita Grijalva, a Democrat who easily won a special election last month, was not able to start her new job",
-          "• She plans to provide the final signature on a petition that would force a vote on legislation to release files related to Jeffrey Epstein – which the speaker and Donald Trump oppose "
-        ],
-        "stakes_bullets": [
-          "• She plans to provide the final signature on a petition that would force a vote on legislation to release files related to Jeffrey Epstein – which the speaker and Donald Trump oppose "
-        ]
-      },
-      "cluster_id": "d803f7b3fa65"
     },
     {
       "id": "d3097ea34fe3",
@@ -6493,7 +6526,7 @@
     {
       "id": "c736a91e7413",
       "title": "Legal experts condemn Apple bowing to White House's request to remove ICE tracking app",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/03/nx-s1-5561999/apple-google-iceblock-app-removal",
       "published_at": "Fri, 03 Oct 2025 19:34:38 -0400",
       "bullets": [
@@ -6502,7 +6535,7 @@
         "• Critics say it shows the sway President Trump has over Silicon Valley in his second term",
         "• Apple said it yanked the app after \"safety risks\" of the app were made known to the company "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.992
@@ -8960,21 +8993,24 @@
       ]
     },
     {
-      "id": "902d136f3f5d",
-      "topic": "andrej babi billionaire party",
+      "id": "3d6ff45d2e90",
+      "topic": "andrej babi billionaire czech",
       "keywords": [
         "andrej",
         "babi",
         "billionaire",
+        "czech",
         "party",
         "populist",
         "wins"
       ],
       "item_ids": [
-        "c3828c598e5e"
+        "c3828c598e5e",
+        "923ddaedb477"
       ],
       "outlets": [
-        "BBC News"
+        "BBC News",
+        "NPR Topics: News"
       ]
     },
     {
@@ -9283,6 +9319,24 @@
       ]
     },
     {
+      "id": "4b6483b9b486",
+      "topic": "coin consider reading special",
+      "keywords": [
+        "coin",
+        "consider",
+        "reading",
+        "special",
+        "treasury",
+        "trump"
+      ],
+      "item_ids": [
+        "ea6cc98a9fe3"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "a66959a838b6",
       "topic": "bust democrat healthcare lies",
       "keywords": [
@@ -9421,24 +9475,6 @@
       ],
       "item_ids": [
         "80c7cfdae1d1"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d803f7b3fa65",
-      "topic": "because democrat hasn johnson",
-      "keywords": [
-        "because",
-        "democrat",
-        "hasn",
-        "johnson",
-        "mike",
-        "sworn"
-      ],
-      "item_ids": [
-        "cc0b9a1444dc"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9618,24 +9654,6 @@
       ],
       "item_ids": [
         "4ec4656dc6b9"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "80f2b07f3255",
-      "topic": "apple bowing condemn expert",
-      "keywords": [
-        "apple",
-        "bowing",
-        "condemn",
-        "expert",
-        "legal",
-        "white"
-      ],
-      "item_ids": [
-        "c736a91e7413"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10747,6 +10765,24 @@
       ]
     },
     {
+      "id": "80f2b07f3255",
+      "topic": "apple bowing condemn expert",
+      "keywords": [
+        "apple",
+        "bowing",
+        "condemn",
+        "expert",
+        "legal",
+        "white"
+      ],
+      "item_ids": [
+        "c736a91e7413"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "3217fc8852da",
       "topic": "back epstein mall national",
       "keywords": [
@@ -11061,14 +11097,14 @@
       ]
     },
     {
-      "id": "2e1ff4d1a36c",
-      "topic": "being detained greta israel",
+      "id": "a02c09079086",
+      "topic": "accused detaining greta infested",
       "keywords": [
-        "being",
-        "detained",
+        "accused",
+        "detaining",
         "greta",
+        "infested",
         "israel",
-        "she",
         "thunberg"
       ],
       "item_ids": [
@@ -12899,6 +12935,23 @@
       ]
     },
     {
+      "id": "4bcc4e722954",
+      "topic": "filming paper revealed season",
+      "keywords": [
+        "filming",
+        "paper",
+        "revealed",
+        "season",
+        "window"
+      ],
+      "item_ids": [
+        "73e209feb5ca"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "f73c8093f9e9",
       "topic": "best fantasy game show",
       "keywords": [
@@ -13054,24 +13107,6 @@
       ],
       "item_ids": [
         "ec88d6b1e0c8"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "97705feb876c",
-      "topic": "gangster hierarchy king season",
-      "keywords": [
-        "gangster",
-        "hierarchy",
-        "king",
-        "season",
-        "tackle",
-        "tulsa"
-      ],
-      "item_ids": [
-        "4c60c6dad037"
       ],
       "outlets": [
         "CBR"
