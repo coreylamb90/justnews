@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T19:51:53Z",
+  "generated_at": "2025-10-04T20:11:16Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -162,6 +162,39 @@
         ]
       },
       "cluster_id": "a98a0ede1c29"
+    },
+    {
+      "id": "c58a0fd655f3",
+      "title": "TVC15: Darth Vader (VC08)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-01-tvc15-darth-vader-vc08/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-vader-vc08",
+      "published_at": "Wed, 01 Oct 2025 23:19:32 +0000",
+      "bullets": [
+        "• The only reason you would want to add this figure to your collection is for nostalgia",
+        "• Hasbro got a lot of mileage out of this Darth Vader action figure",
+        "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
+        ],
+        "hopeful_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
+        ],
+        "stakes_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure",
+          "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
+        ]
+      },
+      "cluster_id": "53dc19c6d15a"
     },
     {
       "id": "e9c10d2e1b39",
@@ -4661,26 +4694,26 @@
       "published_at": "Sat, 04 Oct 2025 07:00:00 -0400",
       "bullets": [
         "• Platforms like TikTok, Instagram and Pinterest are redefining how trends spread",
-        "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024, according to a report",
+        "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024",
         "• With so much data floating around, fashion industry players are leaning on AI in order to remain competitive "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.974
+        "score": 0.952
       },
       "moods": {
         "brief_bullets": [
           "• Platforms like TikTok, Instagram and Pinterest are redefining how trends spread",
-          "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024, according to a report"
+          "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024"
         ],
         "hopeful_bullets": [
           "• Platforms like TikTok, Instagram and Pinterest are redefining how trends spread",
-          "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024, according to a report"
+          "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024"
         ],
         "stakes_bullets": [
           "• Platforms like TikTok, Instagram and Pinterest are redefining how trends spread",
-          "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024, according to a report",
+          "• More than 40% of global consumers purchased apparel and accessories at least three times via social media in 2024",
           "• With so much data floating around, fashion industry players are leaning on AI in order to remain competitive "
         ]
       },
@@ -12363,6 +12396,22 @@
       "item_ids": [
         "7587851d0ea3",
         "48851c4a8507"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "53dc19c6d15a",
+      "topic": "darth tvc15 vader vc08",
+      "keywords": [
+        "darth",
+        "tvc15",
+        "vader",
+        "vc08"
+      ],
+      "item_ids": [
+        "c58a0fd655f3"
       ],
       "outlets": [
         "Jedi Temple Archives"
