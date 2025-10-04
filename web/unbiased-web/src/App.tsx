@@ -18,6 +18,7 @@ type Item = {
   sentiment?: Sentiment;
   moods?: Moods;
   cluster_id?: string;
+  read_minutes?: number; // NEW
 };
 type Cluster = {
   id: string;
@@ -333,6 +334,17 @@ export default function App() {
                         </span>
                         <span>•</span>
                         <span title={a.published_at}>{timeAgo(a.published_at)}</span>
+
+                        {/* Read time badge */}
+                        {typeof a.read_minutes === "number" && a.read_minutes > 0 && (
+                          <>
+                            <span>•</span>
+                            <span className="rounded-full bg-amber-100 px-2 py-1 text-amber-800 dark:bg-amber-400/10 dark:text-amber-200">
+                              ⏱ {a.read_minutes} min read
+                            </span>
+                          </>
+                        )}
+
                         <span>•</span>
                         <span
                           className={`rounded-full px-2 py-1 ${sentiClasses(a.sentiment)}`}
@@ -375,7 +387,7 @@ export default function App() {
                         {hasPersp && (
                           <button
                             onClick={() => setClusterOnly(a.cluster_id!)}
-                            className="text-xs underline underline-offset-2 text-indigo-600 dark:text-indigo-300"
+                            className="inline-flex items-center gap-2 rounded-xl bg-indigo-600 px-3 py-2 text-xs font-medium text-white shadow-sm hover:opacity-90 dark:bg-indigo-500"
                             title="See how other outlets covered this"
                           >
                             View perspectives

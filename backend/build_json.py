@@ -196,6 +196,9 @@ def run():
                 print("  (skip) too short after extraction", flush=True)
                 continue
 
+            words = len(text.split())
+            read_minutes = max(1, round(words / 230))
+
             print("  summarizing…", flush=True)
             try:
                 bullets = summarize_text(text)
@@ -216,6 +219,7 @@ def run():
                 "category": feed_cat,
                 "sentiment": sent,         # {"label": positive|neutral|negative, "score": float}
                 "moods": moods,            # {"brief_bullets":[], "hopeful_bullets":[], "stakes_bullets":[]}
+                "read_minutes": read_minutes,
             })
             total += 1
             kept += 1
