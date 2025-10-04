@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T05:15:05Z",
+  "generated_at": "2025-10-04T05:53:38Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -1446,37 +1446,6 @@
       "cluster_id": "8ed9a5b954bd"
     },
     {
-      "id": "6f367df5c376",
-      "title": "Scientists just recreated a wildfire that made its own weather",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251002074001.htm",
-      "published_at": "Thu, 02 Oct 2025 22:57:01 EDT",
-      "bullets": [
-        "• California’s Creek Fire became so intense that it generated its own thunderstorm, a phenomenon called a pyrocumulonimbus cloud",
-        "• The fire's extreme heat produced an explosive thunderhead that spewed lightning strikes and fanned the roaring flames, making containment elusive and endangering the lives of firefighters on the ground",
-        "• Until now, scientists have struggled to replicate them in Earth system models, hindering our ability to predict their occurrence and understand their impacts on the global climate "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.699
-      },
-      "moods": {
-        "brief_bullets": [
-          "• California’s Creek Fire became so intense that it generated its own thunderstorm, a phenomenon called a pyrocumulonimbus cloud",
-          "• The fire's extreme heat produced an explosive thunderhead that spewed lightning strikes and fanned the roaring flames, making containment elusive and endangering the lives of firefighters on the ground"
-        ],
-        "hopeful_bullets": [
-          "• California’s Creek Fire became so intense that it generated its own thunderstorm, a phenomenon called a pyrocumulonimbus cloud",
-          "• The fire's extreme heat produced an explosive thunderhead that spewed lightning strikes and fanned the roaring flames, making containment elusive and endangering the lives of firefighters on the ground"
-        ],
-        "stakes_bullets": [
-          "• Until now, scientists have struggled to replicate them in Earth system models, hindering our ability to predict their occurrence and understand their impacts on the global climate "
-        ]
-      },
-      "cluster_id": "d38312dc0fd1"
-    },
-    {
       "id": "6cc5d565ca2a",
       "title": "‘Deathstalker’ Review: A Blood-Soaked Adventure Driven by Glorious Practical Effects [Beyond Fest 2025]",
       "outlet": "Dread Central",
@@ -2763,6 +2732,39 @@
       "cluster_id": "2e116862dfd5"
     },
     {
+      "id": "10f538559fa7",
+      "title": "Warnings of imports of caged hen eggs as Ukraine and Poland become UK’s biggest suppliers",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/food/2025/oct/04/warnings-imports-caged-hen-eggs-ukraine-poland-uk-biggest-suppliers",
+      "published_at": "Sat, 04 Oct 2025 05:00:08 GMT",
+      "bullets": [
+        "• Ukraine and Poland have overtaken other EU countries to become the UK's biggest egg suppliers",
+        "• The Netherlands supplied a large proportion of UK eggs in 2022, but its share has steadily fallen",
+        "• By 2025, the two countries together accounted for more than 15m kilograms of eggs "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ukraine and Poland have overtaken other EU countries to become the UK's biggest egg suppliers",
+          "• The Netherlands supplied a large proportion of UK eggs in 2022, but its share has steadily fallen"
+        ],
+        "hopeful_bullets": [
+          "• Ukraine and Poland have overtaken other EU countries to become the UK's biggest egg suppliers",
+          "• The Netherlands supplied a large proportion of UK eggs in 2022, but its share has steadily fallen"
+        ],
+        "stakes_bullets": [
+          "• Ukraine and Poland have overtaken other EU countries to become the UK's biggest egg suppliers",
+          "• The Netherlands supplied a large proportion of UK eggs in 2022, but its share has steadily fallen",
+          "• By 2025, the two countries together accounted for more than 15m kilograms of eggs "
+        ]
+      },
+      "cluster_id": "1984aa676fa1"
+    },
+    {
       "id": "621ca0ecfc7e",
       "title": "UK electric car sales hit record high as taxpayer subsidies help attract buyers",
       "outlet": "Environment | The Guardian",
@@ -3284,6 +3286,38 @@
         ]
       },
       "cluster_id": "cccc4f777fc5"
+    },
+    {
+      "id": "ca25eb69277a",
+      "title": "Doctors stunned by a cheap drug’s power against colon cancer",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+      "published_at": "Sat, 04 Oct 2025 01:03:47 EDT",
+      "bullets": [
+        "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
+        "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context",
+        "• Every year, nearly two million people worldwide are diagnosed with colorectal cancer "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.943
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
+          "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context"
+        ],
+        "hopeful_bullets": [
+          "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
+          "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context"
+        ],
+        "stakes_bullets": [
+          "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
+          "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context"
+        ]
+      },
+      "cluster_id": "599dad462c20"
     },
     {
       "id": "4d4ffcc6ddf0",
@@ -7050,37 +7084,6 @@
       "cluster_id": "5c88231b3115"
     },
     {
-      "id": "ea31234ef94e",
-      "title": "Banking industry’s net zero alliance shuts down amid faltering climate commitments",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/business/2025/oct/03/banking-industry-net-zero-alliance-shuts-down-climate-nzba",
-      "published_at": "Fri, 03 Oct 2025 13:33:11 GMT",
-      "bullets": [
-        "• Net Zero Banking Alliance was rocked by a wave of departures after Donald Trump’s re-election",
-        "• Its remaining members voted to transition from a member-based alliance and to establish its guidance as a framework",
-        "• Sustainable investment campaigners offered mixed reactions to the move "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Net Zero Banking Alliance was rocked by a wave of departures after Donald Trump’s re-election",
-          "• Its remaining members voted to transition from a member-based alliance and to establish its guidance as a framework"
-        ],
-        "hopeful_bullets": [
-          "• Net Zero Banking Alliance was rocked by a wave of departures after Donald Trump’s re-election",
-          "• Its remaining members voted to transition from a member-based alliance and to establish its guidance as a framework"
-        ],
-        "stakes_bullets": [
-          "• Net Zero Banking Alliance was rocked by a wave of departures after Donald Trump’s re-election"
-        ]
-      },
-      "cluster_id": "c612dc6f296c"
-    },
-    {
       "id": "e1fd91757219",
       "title": "‘Bugonia’ Review: Yorgos Lanthimos Goes Back To Nihilistic Basics In New Film [Fantastic Fest 2025]",
       "outlet": "Dread Central",
@@ -8428,13 +8431,12 @@
       "bullets": [
         "• Amazon’s Fire TV Stick 4K is getting a new name soon",
         "• The 4K Select will be released on October 15th, joining the 4K and 4K Max",
-        "• The name will be changed to help distinguish between the two devices",
-        "• The Fire TV stick 4K has Wi-Fi 6, Dolby Vision and Dolby Atmos "
+        "• The name will be changed to help distinguish between the two devices "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.976
+        "score": 0.965
       },
       "moods": {
         "brief_bullets": [
@@ -8442,11 +8444,11 @@
           "• The 4K Select will be released on October 15th, joining the 4K and 4K Max"
         ],
         "hopeful_bullets": [
-          "• The name will be changed to help distinguish between the two devices"
+          "• The name will be changed to help distinguish between the two devices "
         ],
         "stakes_bullets": [
           "• The 4K Select will be released on October 15th, joining the 4K and 4K Max",
-          "• The name will be changed to help distinguish between the two devices"
+          "• The name will be changed to help distinguish between the two devices "
         ]
       },
       "cluster_id": "0b20f03d3a86"
@@ -10367,6 +10369,24 @@
       ]
     },
     {
+      "id": "599dad462c20",
+      "topic": "against cheap doctor drug",
+      "keywords": [
+        "against",
+        "cheap",
+        "doctor",
+        "drug",
+        "power",
+        "stunned"
+      ],
+      "item_ids": [
+        "ca25eb69277a"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "0c0c12b2e397",
       "topic": "detector gravitational never tiny",
       "keywords": [
@@ -10520,24 +10540,6 @@
       ],
       "item_ids": [
         "44820e209cdc"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "d38312dc0fd1",
-      "topic": "just made own recreated",
-      "keywords": [
-        "just",
-        "made",
-        "own",
-        "recreated",
-        "scientist",
-        "wildfire"
-      ],
-      "item_ids": [
-        "6f367df5c376"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -11110,6 +11112,24 @@
       ]
     },
     {
+      "id": "1984aa676fa1",
+      "topic": "caged eggs hen import",
+      "keywords": [
+        "caged",
+        "eggs",
+        "hen",
+        "import",
+        "ukraine",
+        "warning"
+      ],
+      "item_ids": [
+        "10f538559fa7"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "e58a149d1b5a",
       "topic": "car electric high hit",
       "keywords": [
@@ -11140,24 +11160,6 @@
       ],
       "item_ids": [
         "5effd0dbf873"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "c612dc6f296c",
-      "topic": "alliance banking industry net",
-      "keywords": [
-        "alliance",
-        "banking",
-        "industry",
-        "net",
-        "shut",
-        "zero"
-      ],
-      "item_ids": [
-        "ea31234ef94e"
       ],
       "outlets": [
         "Environment | The Guardian"
