@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T09:55:58Z",
+  "generated_at": "2025-10-04T10:11:19Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2636,6 +2636,37 @@
       "cluster_id": "2e116862dfd5"
     },
     {
+      "id": "8fc85f89d6d5",
+      "title": "Game of Thrones & The X-Files Star's New Netflix Western Drama Unveils First Pics & Release Date",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-the-abandons-release-date-images/",
+      "published_at": "Sat, 04 Oct 2025 10:01:21 GMT",
+      "bullets": [
+        "• The Abandons is set to premiere on Netflix on December 4",
+        "• The series stars Game of Thrones' Gillian Anderson as a woman trying to find a way to raise children in Oregon",
+        "• New images from the series have been released of the series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.888
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Abandons is set to premiere on Netflix on December 4",
+          "• The series stars Game of Thrones' Gillian Anderson as a woman trying to find a way to raise children in Oregon"
+        ],
+        "hopeful_bullets": [
+          "• The Abandons is set to premiere on Netflix on December 4",
+          "• The series stars Game of Thrones' Gillian Anderson as a woman trying to find a way to raise children in Oregon"
+        ],
+        "stakes_bullets": [
+          "• The Abandons is set to premiere on Netflix on December 4"
+        ]
+      },
+      "cluster_id": "93e8a2e3fe7d"
+    },
+    {
       "id": "8c48738a7b95",
       "title": "My Hero Academia’s Disappointing Debut Makes Fans Wait 10 More Minutes For The Anime’s Final Season",
       "outlet": "CBR",
@@ -3273,39 +3304,6 @@
         ]
       },
       "cluster_id": "11b7f29b7232"
-    },
-    {
-      "id": "8aab171b3a42",
-      "title": "3 Short But Sweet Isekai Anime to Binge This Weekend (& Where to Stream Them)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/short-isekai-anime-streaming-on-crunchyroll/",
-      "published_at": "Sat, 04 Oct 2025 02:45:12 GMT",
-      "bullets": [
-        "• The best way to spend the weekend is to watch an anime show that's not just one of its kind",
-        "• It's time to relax and relax with an anime series that's just a few hours a week",
-        "• The show is about to be released on Netflix this week "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.657
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The best way to spend the weekend is to watch an anime show that's not just one of its kind",
-          "• It's time to relax and relax with an anime series that's just a few hours a week"
-        ],
-        "hopeful_bullets": [
-          "• The best way to spend the weekend is to watch an anime show that's not just one of its kind",
-          "• It's time to relax and relax with an anime series that's just a few hours a week"
-        ],
-        "stakes_bullets": [
-          "• The best way to spend the weekend is to watch an anime show that's not just one of its kind",
-          "• It's time to relax and relax with an anime series that's just a few hours a week",
-          "• The show is about to be released on Netflix this week "
-        ]
-      },
-      "cluster_id": "c07953201e73"
     },
     {
       "id": "3531d5d3c0c7",
@@ -12994,6 +12992,24 @@
       ]
     },
     {
+      "id": "93e8a2e3fe7d",
+      "topic": "file game netflix star",
+      "keywords": [
+        "file",
+        "game",
+        "netflix",
+        "star",
+        "throne",
+        "western"
+      ],
+      "item_ids": [
+        "8fc85f89d6d5"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "1d6a505afafe",
       "topic": "academia debut disappointing fans",
       "keywords": [
@@ -13148,24 +13164,6 @@
       ],
       "item_ids": [
         "fd33334ba190"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c07953201e73",
-      "topic": "anime binge isekai short",
-      "keywords": [
-        "anime",
-        "binge",
-        "isekai",
-        "short",
-        "sweet",
-        "weekend"
-      ],
-      "item_ids": [
-        "8aab171b3a42"
       ],
       "outlets": [
         "CBR"
