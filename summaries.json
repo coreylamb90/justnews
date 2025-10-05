@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-05T16:58:57Z",
+  "generated_at": "2025-10-05T17:17:01Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2245,6 +2245,41 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "0962a8ba039c",
+      "title": "Justified Revived Gunslingers for the 21st Century",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/timothy-olyphant-justified-modern-gunslinger/",
+      "published_at": "Sun, 05 Oct 2025 17:00:12 GMT",
+      "bullets": [
+        "• The Western has been the most mythic of American genres, yet the most capricious",
+        "• In 2010, Justified brought the Western genre to FX with a 97% score on Rotten Tomatoes",
+        "• Timothy Olyphant's archetypal work as Deputy U.S",
+        "• Marshal Raylan Givens "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Western has been the most mythic of American genres, yet the most capricious",
+          "• In 2010, Justified brought the Western genre to FX with a 97% score on Rotten Tomatoes"
+        ],
+        "hopeful_bullets": [
+          "• The Western has been the most mythic of American genres, yet the most capricious",
+          "• In 2010, Justified brought the Western genre to FX with a 97% score on Rotten Tomatoes"
+        ],
+        "stakes_bullets": [
+          "• The Western has been the most mythic of American genres, yet the most capricious",
+          "• In 2010, Justified brought the Western genre to FX with a 97% score on Rotten Tomatoes",
+          "• Timothy Olyphant's archetypal work as Deputy U.S"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "cbffde1a3ec6"
+    },
+    {
       "id": "48737ac0251c",
       "title": "Everything Dead and Dying is a Bold New Look at the Zombie Genre",
       "outlet": "CBR",
@@ -2275,6 +2310,71 @@
       },
       "read_minutes": 4,
       "cluster_id": "0114ef1cbb13"
+    },
+    {
+      "id": "212fa9cc9ac9",
+      "title": "Trump says he thinks Gaza hostages will be freed 'very soon'",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 05 Oct 2025 16:29:32 GMT",
+      "bullets": [
+        "• Trump says he thinks hostages held in Gaza will be freed 'very soon' Talks between Israel and Hamas are set to take place in Egypt on Monday",
+        "• Israeli air strikes continue in Gaza, despite President Trump telling Israel to \"immediately stop the bombing\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says he thinks hostages held in Gaza will be freed 'very soon' Talks between Israel and Hamas are set to take place in Egypt on Monday",
+          "• Israeli air strikes continue in Gaza, despite President Trump telling Israel to \"immediately stop the bombing\""
+        ],
+        "hopeful_bullets": [
+          "• Trump says he thinks hostages held in Gaza will be freed 'very soon' Talks between Israel and Hamas are set to take place in Egypt on Monday",
+          "• Israeli air strikes continue in Gaza, despite President Trump telling Israel to \"immediately stop the bombing\""
+        ],
+        "stakes_bullets": [
+          "• Trump says he thinks hostages held in Gaza will be freed 'very soon' Talks between Israel and Hamas are set to take place in Egypt on Monday"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "56f00ad0b7be"
+    },
+    {
+      "id": "72455fc5f431",
+      "title": "Nearly 1,000 people trapped on Mount Everest slopes",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 05 Oct 2025 16:25:37 GMT",
+      "bullets": [
+        "• Nearly 1,000 people trapped on Mount Everest slopes in China",
+        "• Heavy snowfall began on Friday evening and has intensified on the eastern slopes of Mount Everest in Tibet",
+        "• The region is facing extreme weather at the moment, as neighbouring Nepal has been hit by heavy rains "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.891
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nearly 1,000 people trapped on Mount Everest slopes in China",
+          "• Heavy snowfall began on Friday evening and has intensified on the eastern slopes of Mount Everest in Tibet"
+        ],
+        "hopeful_bullets": [
+          "• Nearly 1,000 people trapped on Mount Everest slopes in China",
+          "• Heavy snowfall began on Friday evening and has intensified on the eastern slopes of Mount Everest in Tibet"
+        ],
+        "stakes_bullets": [
+          "• Nearly 1,000 people trapped on Mount Everest slopes in China",
+          "• Heavy snowfall began on Friday evening and has intensified on the eastern slopes of Mount Everest in Tibet",
+          "• The region is facing extreme weather at the moment, as neighbouring Nepal has been hit by heavy rains "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b1abef914a11"
     },
     {
       "id": "709f842c582e",
@@ -2602,38 +2702,6 @@
       "cluster_id": "ca14f987fb8a"
     },
     {
-      "id": "212fa9cc9ac9",
-      "title": "Overnight strikes hit Gaza ahead of crucial peace talks",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 05 Oct 2025 15:28:04 GMT",
-      "bullets": [
-        "• Overnight strikes hit Gaza ahead of crucial peace talks between Hamas and Israel",
-        "• Talks come after Hamas agreed to some parts of a 20-point US peace plan, but is seeking negotiations on other issues",
-        "• Israeli air strikes continued in Gaza, despite President Trump telling Israel to \"immediately stop the bombing\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.683
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Overnight strikes hit Gaza ahead of crucial peace talks between Hamas and Israel",
-          "• Talks come after Hamas agreed to some parts of a 20-point US peace plan, but is seeking negotiations on other issues"
-        ],
-        "hopeful_bullets": [
-          "• Overnight strikes hit Gaza ahead of crucial peace talks between Hamas and Israel",
-          "• Talks come after Hamas agreed to some parts of a 20-point US peace plan, but is seeking negotiations on other issues"
-        ],
-        "stakes_bullets": [
-          "• Talks come after Hamas agreed to some parts of a 20-point US peace plan, but is seeking negotiations on other issues"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b1fe1b4f8fbd"
-    },
-    {
       "id": "e8e19ca935fb",
       "title": "Taylor Swift's 'The Life of a Showgirl' album release party snares $33 million domestically",
       "outlet": "US Top News and Analysis",
@@ -2767,41 +2835,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e79f1273d677"
-    },
-    {
-      "id": "9bb5cb9987dc",
-      "title": "Monster: The Ed Gein Story Becomes a Streaming Hit",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/charlie-hunnam-monster-ed-gein-story-streaming-hit-october-2025/",
-      "published_at": "Sun, 05 Oct 2025 15:00:12 GMT",
-      "bullets": [
-        "• Monster: The Ed Gein Story is the #1 TV Show on Netflix globally as of Oct",
-        "• 5, 2025",
-        "• The series stars Sons of Anarchy's Charlie Hunnam as convicted murderer and body snatcher Ed",
-        "• The eight-episode series explores Gein's life, looking at his crimes which have served as inspiration for several iconic horror films, including Alfred Hitchcock's Psycho "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Monster: The Ed Gein Story is the #1 TV Show on Netflix globally as of Oct",
-          "• 5, 2025"
-        ],
-        "hopeful_bullets": [
-          "• Monster: The Ed Gein Story is the #1 TV Show on Netflix globally as of Oct",
-          "• 5, 2025"
-        ],
-        "stakes_bullets": [
-          "• Monster: The Ed Gein Story is the #1 TV Show on Netflix globally as of Oct",
-          "• 5, 2025",
-          "• The series stars Sons of Anarchy's Charlie Hunnam as convicted murderer and body snatcher Ed"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d634253215b2"
     },
     {
       "id": "18ebad23cc43",
@@ -4996,40 +5029,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a661e734dd9d"
-    },
-    {
-      "id": "00746e3a9877",
-      "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 04 Oct 2025 15:34:49 GMT",
-      "bullets": [
-        "• At least 30 people injured in Russian drone strike on railway station, Zelensky says",
-        "• At least three children, aged 8, 11 and 14, are among the injured, regional governor says",
-        "• Two strikes hit two passenger trains in Shostka, some 50km from the Russian border "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 30 people injured in Russian drone strike on railway station, Zelensky says",
-          "• At least three children, aged 8, 11 and 14, are among the injured, regional governor says"
-        ],
-        "hopeful_bullets": [
-          "• At least 30 people injured in Russian drone strike on railway station, Zelensky says",
-          "• At least three children, aged 8, 11 and 14, are among the injured, regional governor says"
-        ],
-        "stakes_bullets": [
-          "• At least 30 people injured in Russian drone strike on railway station, Zelensky says",
-          "• At least three children, aged 8, 11 and 14, are among the injured, regional governor says",
-          "• Two strikes hit two passenger trains in Shostka, some 50km from the Russian border "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f54aac8c8d8a"
     },
     {
       "id": "0199829ccff2",
@@ -9103,15 +9102,15 @@
   ],
   "clusters": [
     {
-      "id": "b1fe1b4f8fbd",
-      "topic": "ahead crucial gaza hit",
+      "id": "56f00ad0b7be",
+      "topic": "freed gaza hostage think",
       "keywords": [
-        "ahead",
-        "crucial",
+        "freed",
         "gaza",
-        "hit",
-        "overnight",
-        "strike"
+        "hostage",
+        "think",
+        "trump",
+        "very"
       ],
       "item_ids": [
         "212fa9cc9ac9"
@@ -9133,6 +9132,24 @@
       ],
       "item_ids": [
         "04c06ef72427"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "b1abef914a11",
+      "topic": "000 everest mount nearly",
+      "keywords": [
+        "000",
+        "everest",
+        "mount",
+        "nearly",
+        "people",
+        "trapped"
+      ],
+      "item_ids": [
+        "72455fc5f431"
       ],
       "outlets": [
         "BBC News"
@@ -9259,24 +9276,6 @@
       ],
       "item_ids": [
         "4c9b861f00ab"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "f54aac8c8d8a",
-      "topic": "injured least railway russian",
-      "keywords": [
-        "injured",
-        "least",
-        "railway",
-        "russian",
-        "station",
-        "strike"
-      ],
-      "item_ids": [
-        "00746e3a9877"
       ],
       "outlets": [
         "BBC News"
@@ -13056,6 +13055,23 @@
       ]
     },
     {
+      "id": "cbffde1a3ec6",
+      "topic": "21st century gunslinger justified",
+      "keywords": [
+        "21st",
+        "century",
+        "gunslinger",
+        "justified",
+        "revived"
+      ],
+      "item_ids": [
+        "0962a8ba039c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "0114ef1cbb13",
       "topic": "bold dead dying everything",
       "keywords": [
@@ -13194,24 +13210,6 @@
       ],
       "item_ids": [
         "4e5e0443f5d0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d634253215b2",
-      "topic": "become gein hit monster",
-      "keywords": [
-        "become",
-        "gein",
-        "hit",
-        "monster",
-        "story",
-        "streaming"
-      ],
-      "item_ids": [
-        "9bb5cb9987dc"
       ],
       "outlets": [
         "CBR"
