@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-05T06:12:42Z",
+  "generated_at": "2025-10-05T07:06:19Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2344,6 +2344,39 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "a5f6fffb1bdd",
+      "title": "‘SNL’: Watch Doja Cat Perform ‘Gorgeous,’ ‘Aaahh Men!’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/snl-watch-doja-cat-perform-gorgeous-aaahh-men-album-vie-1235440845/",
+      "published_at": "Sun, 05 Oct 2025 06:37:49 +0000",
+      "bullets": [
+        "• Doja Cat made her musical guest debut on Saturday Night Live",
+        "• She performed a pair of singles from her new album, Vie",
+        "• The rapper-songwriter also announced her 50-date Tour Ma Vie World Tour",
+        "• The tour will begin in New Zealand next month "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Doja Cat made her musical guest debut on Saturday Night Live",
+          "• She performed a pair of singles from her new album, Vie"
+        ],
+        "hopeful_bullets": [
+          "• Doja Cat made her musical guest debut on Saturday Night Live",
+          "• She performed a pair of singles from her new album, Vie"
+        ],
+        "stakes_bullets": [
+          "• The tour will begin in New Zealand next month "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "19fe448f3091"
+    },
+    {
       "id": "018d2f136fec",
       "title": "Nearly 40 Years Later, Transformers Returns to G1 With a New Release for Its Most Hated Autobot",
       "outlet": "CBR",
@@ -3348,32 +3381,32 @@
       "url": "https://www.bbc.com/news/articles/ce86kgnj7zro?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 04 Oct 2025 22:18:38 GMT",
       "bullets": [
-        "• Anti-government protesters clash with police in Tbilisi, Georgia",
-        "• The country has been in crisis since last year's parliamentary election",
-        "• Most of the country's pro-European Union supporters are now in jail",
-        "• The government is trying to get the EU to join the anti-government movement "
+        "• Anti-government protesters storm presidential palace in Tbilisi, Georgia",
+        "• Police use water cannons and pepper spray to disperse demonstrators",
+        "• The country has been in crisis since last year's election victory for the ruling party",
+        "• Six senior figures from the Georgian Dream party have been arrested "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.98
       },
       "moods": {
         "brief_bullets": [
-          "• Anti-government protesters clash with police in Tbilisi, Georgia",
-          "• The country has been in crisis since last year's parliamentary election"
+          "• Anti-government protesters storm presidential palace in Tbilisi, Georgia",
+          "• Police use water cannons and pepper spray to disperse demonstrators"
         ],
         "hopeful_bullets": [
-          "• Anti-government protesters clash with police in Tbilisi, Georgia",
-          "• The country has been in crisis since last year's parliamentary election"
+          "• Anti-government protesters storm presidential palace in Tbilisi, Georgia",
+          "• Police use water cannons and pepper spray to disperse demonstrators"
         ],
         "stakes_bullets": [
-          "• Anti-government protesters clash with police in Tbilisi, Georgia",
-          "• The country has been in crisis since last year's parliamentary election",
-          "• Most of the country's pro-European Union supporters are now in jail"
+          "• Anti-government protesters storm presidential palace in Tbilisi, Georgia",
+          "• Police use water cannons and pepper spray to disperse demonstrators",
+          "• The country has been in crisis since last year's election victory for the ruling party"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "2a37e0901c39"
     },
     {
@@ -7543,38 +7576,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "cb1ee3e45406"
-    },
-    {
-      "id": "ab895eeab3ad",
-      "title": "Oasis Guitarist Bonehead to Miss Shows for Prostate Cancer Treatment",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/oasis-guitarist-bonehead-prostate-cancer-diagnosis-1235440337/",
-      "published_at": "Fri, 03 Oct 2025 17:38:18 +0000",
-      "bullets": [
-        "• Paul “Bonehead” Arthurs was diagnosed with prostate cancer earlier this year",
-        "• The guitarist will miss the next leg of the Oasis reunion tour",
-        "• Oasis did not say who would be filling in for him during the upcoming shows "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Paul “Bonehead” Arthurs was diagnosed with prostate cancer earlier this year",
-          "• The guitarist will miss the next leg of the Oasis reunion tour"
-        ],
-        "hopeful_bullets": [
-          "• Paul “Bonehead” Arthurs was diagnosed with prostate cancer earlier this year",
-          "• The guitarist will miss the next leg of the Oasis reunion tour"
-        ],
-        "stakes_bullets": [
-          "• The guitarist will miss the next leg of the Oasis reunion tour"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "87406f5211a0"
     },
     {
       "id": "4a0114590626",
@@ -13626,6 +13627,24 @@
       ]
     },
     {
+      "id": "19fe448f3091",
+      "topic": "cat doja gorgeou perform",
+      "keywords": [
+        "cat",
+        "doja",
+        "gorgeou",
+        "perform",
+        "snl",
+        "watch"
+      ],
+      "item_ids": [
+        "a5f6fffb1bdd"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "634aa570a99e",
       "topic": "acoustic drop life swift",
       "keywords": [
@@ -13780,24 +13799,6 @@
       ],
       "item_ids": [
         "b8c7bf888262"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "87406f5211a0",
-      "topic": "bonehead guitarist miss oasi",
-      "keywords": [
-        "bonehead",
-        "guitarist",
-        "miss",
-        "oasi",
-        "prostate",
-        "show"
-      ],
-      "item_ids": [
-        "ab895eeab3ad"
       ],
       "outlets": [
         "Music News"
