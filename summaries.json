@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-05T09:03:04Z",
+  "generated_at": "2025-10-05T09:17:49Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2244,36 +2244,70 @@
     },
     {
       "id": "04c06ef72427",
-      "title": "Poland scrambles jets as Russia strikes western Ukraine",
+      "title": "Poland scrambles jets as Ukraine says 5 killed in Russian strikes",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 05 Oct 2025 07:23:18 GMT",
+      "published_at": "Sun, 05 Oct 2025 08:41:58 GMT",
       "bullets": [
-        "• Poland scrambles jets as Russia strikes western Ukraine with missile and drone attacks",
+        "• Poland scrambles jets as Ukraine says 5 killed in Russian strikes across country",
+        "• Russia pounded Ukraine with missile and drone attacks overnight on Saturday and into Sunday morning",
         "• Poland scrambled fighter jets in order to ensure the safety of Polish airspace",
-        "• Two people were killed in strikes in the region, and two more injured",
-        "• Russia again targeted Ukraine's power plants - and one was struck in an overnight attack on Zaporizhzhia "
+        "• Russia has not yet commented on the overnight strikes "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Poland scrambles jets as Russia strikes western Ukraine with missile and drone attacks",
-          "• Poland scrambled fighter jets in order to ensure the safety of Polish airspace"
+          "• Poland scrambles jets as Ukraine says 5 killed in Russian strikes across country",
+          "• Russia pounded Ukraine with missile and drone attacks overnight on Saturday and into Sunday morning"
         ],
         "hopeful_bullets": [
-          "• Poland scrambles jets as Russia strikes western Ukraine with missile and drone attacks",
-          "• Poland scrambled fighter jets in order to ensure the safety of Polish airspace"
+          "• Poland scrambles jets as Ukraine says 5 killed in Russian strikes across country",
+          "• Russia pounded Ukraine with missile and drone attacks overnight on Saturday and into Sunday morning"
         ],
         "stakes_bullets": [
-          "• Russia again targeted Ukraine's power plants - and one was struck in an overnight attack on Zaporizhzhia "
+          "• Poland scrambles jets as Ukraine says 5 killed in Russian strikes across country",
+          "• Russia pounded Ukraine with missile and drone attacks overnight on Saturday and into Sunday morning",
+          "• Poland scrambled fighter jets in order to ensure the safety of Polish airspace"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "6c82820c22a4"
+      "cluster_id": "a4f1b74d95e0"
+    },
+    {
+      "id": "c3828c598e5e",
+      "title": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 05 Oct 2025 06:38:01 GMT",
+      "bullets": [
+        "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election",
+        "• His party received just under 35% of the vote, earning them 80 seats in the 200-seat lower house",
+        "• Babis expected to be invited to lead talks on forming a new coalition "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election",
+          "• His party received just under 35% of the vote, earning them 80 seats in the 200-seat lower house"
+        ],
+        "hopeful_bullets": [
+          "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election"
+        ],
+        "stakes_bullets": [
+          "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election",
+          "• Babis expected to be invited to lead talks on forming a new coalition "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3d6ff45d2e90"
     },
     {
       "id": "a5f6fffb1bdd",
@@ -2307,6 +2341,41 @@
       },
       "read_minutes": 1,
       "cluster_id": "19fe448f3091"
+    },
+    {
+      "id": "05af529267f8",
+      "title": "Scientists discover hidden protein that switches off hunger",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092905.htm",
+      "published_at": "Sun, 05 Oct 2025 04:53:26 EDT",
+      "bullets": [
+        "• Researchers at Leipzig University and Charité – Universitätsmedizin Berlin have discovered a key mechanism for appetite and weight control",
+        "• A protein called MRAP2 acts as a key regulator of hunger",
+        "• It helps move the appetite receptor MC4R to the cell’s surface allowing it to send stronger ‘stop eating’ signals",
+        "• Discovery offers new hope for tackling obesity by targeting this natural hunger switch "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers at Leipzig University and Charité – Universitätsmedizin Berlin have discovered a key mechanism for appetite and weight control",
+          "• A protein called MRAP2 acts as a key regulator of hunger"
+        ],
+        "hopeful_bullets": [
+          "• It helps move the appetite receptor MC4R to the cell’s surface allowing it to send stronger ‘stop eating’ signals",
+          "• Discovery offers new hope for tackling obesity by targeting this natural hunger switch "
+        ],
+        "stakes_bullets": [
+          "• Researchers at Leipzig University and Charité – Universitätsmedizin Berlin have discovered a key mechanism for appetite and weight control",
+          "• A protein called MRAP2 acts as a key regulator of hunger",
+          "• It helps move the appetite receptor MC4R to the cell’s surface allowing it to send stronger ‘stop eating’ signals"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d4e85db348c1"
     },
     {
       "id": "56b480edb452",
@@ -2873,6 +2942,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "5258c675f376"
+    },
+    {
+      "id": "b6a1a4ce96c1",
+      "title": "Hidden for 70 million years, a tiny fossil fish is rewriting freshwater evolution",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092907.htm",
+      "published_at": "Sun, 05 Oct 2025 01:57:42 EDT",
+      "bullets": [
+        "• Researchers in Alberta uncovered a fossil fish that rewrites the evolutionary history of otophysans, which today dominate freshwater ecosystems",
+        "• The new species, Acronichthys maccognoi, shows early adaptations for its unusual hearing system",
+        "• The fossil of a tiny fish found in southwestern Alberta provides new insight into the origin and evolution of the fish "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers in Alberta uncovered a fossil fish that rewrites the evolutionary history of otophysans, which today dominate freshwater ecosystems",
+          "• The new species, Acronichthys maccognoi, shows early adaptations for its unusual hearing system"
+        ],
+        "hopeful_bullets": [
+          "• Researchers in Alberta uncovered a fossil fish that rewrites the evolutionary history of otophysans, which today dominate freshwater ecosystems",
+          "• The new species, Acronichthys maccognoi, shows early adaptations for its unusual hearing system"
+        ],
+        "stakes_bullets": [
+          "• Researchers in Alberta uncovered a fossil fish that rewrites the evolutionary history of otophysans, which today dominate freshwater ecosystems",
+          "• The new species, Acronichthys maccognoi, shows early adaptations for its unusual hearing system",
+          "• The fossil of a tiny fish found in southwestern Alberta provides new insight into the origin and evolution of the fish "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "60e9d38f097a"
     },
     {
       "id": "df0902f34b7e",
@@ -4164,7 +4267,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "37a6d27232ce"
+      "cluster_id": "3d6ff45d2e90"
     },
     {
       "id": "201565ceb0c5",
@@ -6251,39 +6354,6 @@
       "cluster_id": "616eccc6a495"
     },
     {
-      "id": "a900c9ea26a1",
-      "title": "Rogue planet spotted devouring 6 billion tons every second",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033917.htm",
-      "published_at": "Fri, 03 Oct 2025 22:58:02 EDT",
-      "bullets": [
-        "• Rogue planet spotted devouring 6 billion tons every second",
-        "• Located 620 light-years away in the Chamaeleon constellation, the object is growing at the fastest rate ever seen in any planet",
-        "• The dramatic surge in mass revealed evidence of strong magnetic fields and changing chemistry, previously only observed in young stars "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rogue planet spotted devouring 6 billion tons every second",
-          "• Located 620 light-years away in the Chamaeleon constellation, the object is growing at the fastest rate ever seen in any planet"
-        ],
-        "hopeful_bullets": [
-          "• Located 620 light-years away in the Chamaeleon constellation, the object is growing at the fastest rate ever seen in any planet",
-          "• The dramatic surge in mass revealed evidence of strong magnetic fields and changing chemistry, previously only observed in young stars "
-        ],
-        "stakes_bullets": [
-          "• Rogue planet spotted devouring 6 billion tons every second",
-          "• Located 620 light-years away in the Chamaeleon constellation, the object is growing at the fastest rate ever seen in any planet"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ad61840fa8b1"
-    },
-    {
       "id": "142cf1b6c83a",
       "title": "John Carpenter’s The Thing is About … Diabetes?",
       "outlet": "Wicked Horror",
@@ -7730,40 +7800,6 @@
       "cluster_id": "9cadb0ee9d5c"
     },
     {
-      "id": "b375702c1a97",
-      "title": "Fat may secretly fuel Alzheimer’s, new research finds",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033915.htm",
-      "published_at": "Fri, 03 Oct 2025 11:15:53 EDT",
-      "bullets": [
-        "• New research from Houston Methodist reveals how obesity may directly drive Alzheimer's disease",
-        "• Fat may secretly fuel Alzheimer’s, new research finds",
-        "• Tiny messengers released by fat tissue, called extracellular vesicles, can carry harmful signals that accelerate the buildup of amyloid-β plaques in the brain "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New research from Houston Methodist reveals how obesity may directly drive Alzheimer's disease",
-          "• Fat may secretly fuel Alzheimer’s, new research finds"
-        ],
-        "hopeful_bullets": [
-          "• New research from Houston Methodist reveals how obesity may directly drive Alzheimer's disease",
-          "• Fat may secretly fuel Alzheimer’s, new research finds"
-        ],
-        "stakes_bullets": [
-          "• New research from Houston Methodist reveals how obesity may directly drive Alzheimer's disease",
-          "• Fat may secretly fuel Alzheimer’s, new research finds",
-          "• Tiny messengers released by fat tissue, called extracellular vesicles, can carry harmful signals that accelerate the buildup of amyloid-β plaques in the brain "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c0ff5c9ae356"
-    },
-    {
       "id": "e924e07919f6",
       "title": "Proposal to Undo Roadless Rule Would Open Some of Southern California’s Last Wild Forests to Development",
       "outlet": "Inside Climate News",
@@ -8894,15 +8930,15 @@
       ]
     },
     {
-      "id": "6c82820c22a4",
-      "topic": "jets poland russia scramble",
+      "id": "a4f1b74d95e0",
+      "topic": "jets killed poland russian",
       "keywords": [
         "jets",
+        "killed",
         "poland",
-        "russia",
+        "russian",
         "scramble",
-        "strike",
-        "western"
+        "ukraine"
       ],
       "item_ids": [
         "04c06ef72427"
@@ -8963,6 +8999,27 @@
       ],
       "outlets": [
         "BBC News"
+      ]
+    },
+    {
+      "id": "3d6ff45d2e90",
+      "topic": "andrej babi billionaire czech",
+      "keywords": [
+        "andrej",
+        "babi",
+        "billionaire",
+        "czech",
+        "party",
+        "populist",
+        "wins"
+      ],
+      "item_ids": [
+        "c3828c598e5e",
+        "923ddaedb477"
+      ],
+      "outlets": [
+        "BBC News",
+        "NPR Topics: News"
       ]
     },
     {
@@ -9482,24 +9539,6 @@
       ],
       "item_ids": [
         "4906a155b826"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "37a6d27232ce",
-      "topic": "andrej babi billionaire czech",
-      "keywords": [
-        "andrej",
-        "babi",
-        "billionaire",
-        "czech",
-        "populist",
-        "wins"
-      ],
-      "item_ids": [
-        "923ddaedb477"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10309,6 +10348,42 @@
       ]
     },
     {
+      "id": "60e9d38f097a",
+      "topic": "fish fossil hidden million",
+      "keywords": [
+        "fish",
+        "fossil",
+        "hidden",
+        "million",
+        "tiny",
+        "year"
+      ],
+      "item_ids": [
+        "b6a1a4ce96c1"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "d4e85db348c1",
+      "topic": "discover hidden off protein",
+      "keywords": [
+        "discover",
+        "hidden",
+        "off",
+        "protein",
+        "scientist",
+        "switche"
+      ],
+      "item_ids": [
+        "05af529267f8"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "781892971898",
       "topic": "cellular hidden parkinson power",
       "keywords": [
@@ -10393,42 +10468,6 @@
       ],
       "item_ids": [
         "3eafb4e77c92"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "ad61840fa8b1",
-      "topic": "billion devouring planet rogue",
-      "keywords": [
-        "billion",
-        "devouring",
-        "planet",
-        "rogue",
-        "spotted",
-        "tons"
-      ],
-      "item_ids": [
-        "a900c9ea26a1"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "c0ff5c9ae356",
-      "topic": "alzheimer fat find fuel",
-      "keywords": [
-        "alzheimer",
-        "fat",
-        "find",
-        "fuel",
-        "research",
-        "secretly"
-      ],
-      "item_ids": [
-        "b375702c1a97"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
