@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-05T21:53:48Z",
+  "generated_at": "2025-10-05T22:11:53Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2245,6 +2245,40 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "8949e8a08960",
+      "title": "23 Years Later, Adrien Brody's The Pianist Is Still Untouchable",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/adrien-brody-the-pianist-masterpiece/",
+      "published_at": "Sun, 05 Oct 2025 21:50:12 GMT",
+      "bullets": [
+        "• The Pianist is a biographical film about a Jewish pianist during World War II",
+        "• It's well-known as one of the saddest war movies of all time, remembered for its countless heartbreaking moments that highlighted the horrors of the Holocaust",
+        "• After over 20 years, this film is still well-regarded as the pinnacle of WWII narratives "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Pianist is a biographical film about a Jewish pianist during World War II",
+          "• It's well-known as one of the saddest war movies of all time, remembered for its countless heartbreaking moments that highlighted the horrors of the Holocaust"
+        ],
+        "hopeful_bullets": [
+          "• The Pianist is a biographical film about a Jewish pianist during World War II",
+          "• It's well-known as one of the saddest war movies of all time, remembered for its countless heartbreaking moments that highlighted the horrors of the Holocaust"
+        ],
+        "stakes_bullets": [
+          "• The Pianist is a biographical film about a Jewish pianist during World War II",
+          "• It's well-known as one of the saddest war movies of all time, remembered for its countless heartbreaking moments that highlighted the horrors of the Holocaust",
+          "• After over 20 years, this film is still well-regarded as the pinnacle of WWII narratives "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "9bd6331e80e9"
+    },
+    {
       "id": "54787257a1a3",
       "title": "10 Underrated Dragon Ball GT Characters Worth Making Officially Canon",
       "outlet": "CBR",
@@ -2617,38 +2651,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0cd0974c7c81"
-    },
-    {
-      "id": "94170a596897",
-      "title": "It: Welcome to Derry Will Be Scary According to Director Andy Muschietti",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/it-welcome-to-derry-will-be-scary-andy-muschietti/",
-      "published_at": "Sun, 05 Oct 2025 19:11:20 GMT",
-      "bullets": [
-        "• It: Welcome to Derry is a prequel to Andy Muschietti's It films, released in 2017 and 2019",
-        "• Set in 1962, nearly three decades before the events of 2017's It, the prequel series largely focuses on the Hanlon family, Charlotte and Leroy "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It: Welcome to Derry is a prequel to Andy Muschietti's It films, released in 2017 and 2019",
-          "• Set in 1962, nearly three decades before the events of 2017's It, the prequel series largely focuses on the Hanlon family, Charlotte and Leroy "
-        ],
-        "hopeful_bullets": [
-          "• It: Welcome to Derry is a prequel to Andy Muschietti's It films, released in 2017 and 2019",
-          "• Set in 1962, nearly three decades before the events of 2017's It, the prequel series largely focuses on the Hanlon family, Charlotte and Leroy "
-        ],
-        "stakes_bullets": [
-          "• It: Welcome to Derry is a prequel to Andy Muschietti's It films, released in 2017 and 2019",
-          "• Set in 1962, nearly three decades before the events of 2017's It, the prequel series largely focuses on the Hanlon family, Charlotte and Leroy "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c4d366f552cc"
     },
     {
       "id": "ea9945022bb2",
@@ -13166,6 +13168,24 @@
       ]
     },
     {
+      "id": "9bd6331e80e9",
+      "topic": "adrien brody later pianist",
+      "keywords": [
+        "adrien",
+        "brody",
+        "later",
+        "pianist",
+        "still",
+        "year"
+      ],
+      "item_ids": [
+        "8949e8a08960"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "bf453b2789e9",
       "topic": "ball character dragon making",
       "keywords": [
@@ -13321,24 +13341,6 @@
       ],
       "item_ids": [
         "3c2c612dd2d0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c4d366f552cc",
-      "topic": "according andy derry director",
-      "keywords": [
-        "according",
-        "andy",
-        "derry",
-        "director",
-        "scary",
-        "welcome"
-      ],
-      "item_ids": [
-        "94170a596897"
       ],
       "outlets": [
         "CBR"
