@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-05T05:54:16Z",
+  "generated_at": "2025-10-05T06:12:42Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2875,6 +2875,38 @@
       "cluster_id": "5258c675f376"
     },
     {
+      "id": "df0902f34b7e",
+      "title": "From gentle giants to ghostly hunters, sharks face an unseen peril",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092909.htm",
+      "published_at": "Sun, 05 Oct 2025 01:35:56 EDT",
+      "bullets": [
+        "• New research reveals that deep-sea mining could dramatically threaten 30 species of sharks, rays, and ghost sharks whose habitats overlap with proposed mining zones",
+        "• Many of these species, already at risk of extinction, could face increased dangers from seafloor disruptions caused by mining activity "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.615
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New research reveals that deep-sea mining could dramatically threaten 30 species of sharks, rays, and ghost sharks whose habitats overlap with proposed mining zones",
+          "• Many of these species, already at risk of extinction, could face increased dangers from seafloor disruptions caused by mining activity "
+        ],
+        "hopeful_bullets": [
+          "• New research reveals that deep-sea mining could dramatically threaten 30 species of sharks, rays, and ghost sharks whose habitats overlap with proposed mining zones",
+          "• Many of these species, already at risk of extinction, could face increased dangers from seafloor disruptions caused by mining activity "
+        ],
+        "stakes_bullets": [
+          "• New research reveals that deep-sea mining could dramatically threaten 30 species of sharks, rays, and ghost sharks whose habitats overlap with proposed mining zones",
+          "• Many of these species, already at risk of extinction, could face increased dangers from seafloor disruptions caused by mining activity "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6ecc0e7069b"
+    },
+    {
       "id": "404e203fc63f",
       "title": "Judge blocks Trump administration from deploying national guard to Portland",
       "outlet": "US news | The Guardian",
@@ -3214,6 +3246,100 @@
       },
       "read_minutes": 40,
       "cluster_id": "2e116862dfd5"
+    },
+    {
+      "id": "febc1193852a",
+      "title": "Think light drinking protects your brain? Think again",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092919.htm",
+      "published_at": "Sat, 04 Oct 2025 23:42:39 EDT",
+      "bullets": [
+        "• Researchers found that dementia risk rises in direct proportion to alcohol consumption, with no safe level identified",
+        "• Current thinking suggests that there might be an 'optimal dose' of alcohol for brain health",
+        "• Even light drinking -- generally thought to be protective, based on observational studies -- is unlikely to lower the risk "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers found that dementia risk rises in direct proportion to alcohol consumption, with no safe level identified",
+          "• Current thinking suggests that there might be an 'optimal dose' of alcohol for brain health"
+        ],
+        "hopeful_bullets": [
+          "• Researchers found that dementia risk rises in direct proportion to alcohol consumption, with no safe level identified",
+          "• Current thinking suggests that there might be an 'optimal dose' of alcohol for brain health"
+        ],
+        "stakes_bullets": [
+          "• Researchers found that dementia risk rises in direct proportion to alcohol consumption, with no safe level identified",
+          "• Even light drinking -- generally thought to be protective, based on observational studies -- is unlikely to lower the risk "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "04aa44caa091"
+    },
+    {
+      "id": "dbb4ea8a7242",
+      "title": "This new semaglutide dose helped nearly half of patients lose 20% body weight",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092913.htm",
+      "published_at": "Sat, 04 Oct 2025 23:27:00 EDT",
+      "bullets": [
+        "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.829
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
+        ],
+        "hopeful_bullets": [
+          "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
+        ],
+        "stakes_bullets": [
+          "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "98bd0f96c944"
+    },
+    {
+      "id": "a1b2debd0a62",
+      "title": "Hidden cellular “power switch” could transform Parkinson’s treatment",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092903.htm",
+      "published_at": "Sat, 04 Oct 2025 22:49:32 EDT",
+      "bullets": [
+        "• Hidden cellular “power switch” could transform Parkinson’s treatment",
+        "• Researchers uncovered a key cellular regulator, PP2A-B55alpha, that controls both the cleanup of damaged mitochondria and the creation of new ones",
+        "• In Parkinson's disease models, reducing this regulator improved symptoms and mitochondrial health",
+        "• The findings could inspire new drugs for Parkinson's, mitochondrial disorders, and even cancer "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.677
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hidden cellular “power switch” could transform Parkinson’s treatment",
+          "• Researchers uncovered a key cellular regulator, PP2A-B55alpha, that controls both the cleanup of damaged mitochondria and the creation of new ones"
+        ],
+        "hopeful_bullets": [
+          "• In Parkinson's disease models, reducing this regulator improved symptoms and mitochondrial health"
+        ],
+        "stakes_bullets": [
+          "• Hidden cellular “power switch” could transform Parkinson’s treatment",
+          "• The findings could inspire new drugs for Parkinson's, mitochondrial disorders, and even cancer "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "781892971898"
     },
     {
       "id": "9ac278689240",
@@ -8013,40 +8139,6 @@
       "cluster_id": "c0ff5c9ae356"
     },
     {
-      "id": "005f93786e17",
-      "title": "Scientists just cracked the mystery of why cancer immunotherapy fails",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033909.htm",
-      "published_at": "Fri, 03 Oct 2025 09:12:22 EDT",
-      "bullets": [
-        "• Scientists just cracked the mystery of why cancer immunotherapy fails",
-        "• Researchers found a protein stress \"Achilles’ heel\" in T cells",
-        "• Blocking it restored T-cell function and improved cancer immun therapy",
-        "• Researchers have discovered that exhausted T cells collapse under the weight of misfolded proteins "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists just cracked the mystery of why cancer immunotherapy fails",
-          "• Researchers found a protein stress \"Achilles’ heel\" in T cells"
-        ],
-        "hopeful_bullets": [
-          "• Blocking it restored T-cell function and improved cancer immun therapy"
-        ],
-        "stakes_bullets": [
-          "• Scientists just cracked the mystery of why cancer immunotherapy fails",
-          "• Researchers found a protein stress \"Achilles’ heel\" in T cells",
-          "• Blocking it restored T-cell function and improved cancer immun therapy"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "abf266e266e6"
-    },
-    {
       "id": "e924e07919f6",
       "title": "Proposal to Undo Roadless Rule Would Open Some of Southern California’s Last Wild Forests to Development",
       "outlet": "Inside Climate News",
@@ -8179,40 +8271,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "26bd3a36b8a7"
-    },
-    {
-      "id": "4e5fd6a56c01",
-      "title": "Scientists uncover a mysterious Jurassic lizard with snake-like jaws",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251002074013.htm",
-      "published_at": "Fri, 03 Oct 2025 07:01:51 EDT",
-      "bullets": [
-        "• Scientists uncover a mysterious Jurassic lizard with snake-like jaws",
-        "• Named Breugnathair elgolensis, the “false snake of Elgol” combined hook-like, python-style teeth and jaws with the short body and limbs of a lizard",
-        "• It is one of the oldest relatively complete fossil lizards yet discovered "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists uncover a mysterious Jurassic lizard with snake-like jaws",
-          "• Named Breugnathair elgolensis, the “false snake of Elgol” combined hook-like, python-style teeth and jaws with the short body and limbs of a lizard"
-        ],
-        "hopeful_bullets": [
-          "• Scientists uncover a mysterious Jurassic lizard with snake-like jaws",
-          "• Named Breugnathair elgolensis, the “false snake of Elgol” combined hook-like, python-style teeth and jaws with the short body and limbs of a lizard"
-        ],
-        "stakes_bullets": [
-          "• Scientists uncover a mysterious Jurassic lizard with snake-like jaws",
-          "• Named Breugnathair elgolensis, the “false snake of Elgol” combined hook-like, python-style teeth and jaws with the short body and limbs of a lizard",
-          "• It is one of the oldest relatively complete fossil lizards yet discovered "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9f07d051b838"
     },
     {
       "id": "26f1c2affb5b",
@@ -8378,69 +8436,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "be22d2b28809"
-    },
-    {
-      "id": "ac3b35f1e8e6",
-      "title": "A flu test you can chew",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251002074011.htm",
-      "published_at": "Fri, 03 Oct 2025 04:37:56 EDT",
-      "bullets": [
-        "• Scientists have created a molecular sensor that releases a thyme-like flavor when it encounters influenza, offering a low-tech, taste-based alternative to nasal swabs",
-        "• Unlike current tests that are slow, costly, or miss early infections, this method could catch the flu before symptoms appear "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists have created a molecular sensor that releases a thyme-like flavor when it encounters influenza, offering a low-tech, taste-based alternative to nasal swabs",
-          "• Unlike current tests that are slow, costly, or miss early infections, this method could catch the flu before symptoms appear "
-        ],
-        "hopeful_bullets": [
-          "• Scientists have created a molecular sensor that releases a thyme-like flavor when it encounters influenza, offering a low-tech, taste-based alternative to nasal swabs",
-          "• Unlike current tests that are slow, costly, or miss early infections, this method could catch the flu before symptoms appear "
-        ],
-        "stakes_bullets": [
-          "• Unlike current tests that are slow, costly, or miss early infections, this method could catch the flu before symptoms appear "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2e5aa3a542e1"
-    },
-    {
-      "id": "b1e79c1f9df2",
-      "title": "Japan’s hot springs hold clues to the origins of life on Earth",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251002074009.htm",
-      "published_at": "Fri, 03 Oct 2025 03:31:11 EDT",
-      "bullets": [
-        "• Researchers from the Earth-Life Science Institute studied Japan’s iron-rich hot springs to uncover how early microbes survived",
-        "• They discovered communities of bacteria that thrived on iron and tiny amounts of oxygen, forming ecosystems that recycled elements like carbon, nitrogen, and sulfur "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers from the Earth-Life Science Institute studied Japan’s iron-rich hot springs to uncover how early microbes survived",
-          "• They discovered communities of bacteria that thrived on iron and tiny amounts of oxygen, forming ecosystems that recycled elements like carbon, nitrogen, and sulfur "
-        ],
-        "hopeful_bullets": [
-          "• Researchers from the Earth-Life Science Institute studied Japan’s iron-rich hot springs to uncover how early microbes survived",
-          "• They discovered communities of bacteria that thrived on iron and tiny amounts of oxygen, forming ecosystems that recycled elements like carbon, nitrogen, and sulfur "
-        ],
-        "stakes_bullets": [
-          "• Researchers from the Earth-Life Science Institute studied Japan’s iron-rich hot springs to uncover how early microbes survived",
-          "• They discovered communities of bacteria that thrived on iron and tiny amounts of oxygen, forming ecosystems that recycled elements like carbon, nitrogen, and sulfur "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "776ad3c6b4e2"
     },
     {
       "id": "7587851d0ea3",
@@ -10672,6 +10667,78 @@
       ]
     },
     {
+      "id": "04aa44caa091",
+      "topic": "again brain drinking light",
+      "keywords": [
+        "again",
+        "brain",
+        "drinking",
+        "light",
+        "protect",
+        "think"
+      ],
+      "item_ids": [
+        "febc1193852a"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "98bd0f96c944",
+      "topic": "dose half helped nearly",
+      "keywords": [
+        "dose",
+        "half",
+        "helped",
+        "nearly",
+        "patient",
+        "semaglutide"
+      ],
+      "item_ids": [
+        "dbb4ea8a7242"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "a6ecc0e7069b",
+      "topic": "face gentle ghostly giant",
+      "keywords": [
+        "face",
+        "gentle",
+        "ghostly",
+        "giant",
+        "hunter",
+        "shark"
+      ],
+      "item_ids": [
+        "df0902f34b7e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "781892971898",
+      "topic": "cellular hidden parkinson power",
+      "keywords": [
+        "cellular",
+        "hidden",
+        "parkinson",
+        "power",
+        "switch",
+        "transform"
+      ],
+      "item_ids": [
+        "a1b2debd0a62"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "e49f9a6c90a9",
       "topic": "dark electronic finally found",
       "keywords": [
@@ -10774,75 +10841,6 @@
       ],
       "item_ids": [
         "b375702c1a97"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "abf266e266e6",
-      "topic": "cancer cracked immunotherapy just",
-      "keywords": [
-        "cancer",
-        "cracked",
-        "immunotherapy",
-        "just",
-        "mystery",
-        "scientist"
-      ],
-      "item_ids": [
-        "005f93786e17"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "9f07d051b838",
-      "topic": "jurassic lizard mysteriou scientist",
-      "keywords": [
-        "jurassic",
-        "lizard",
-        "mysteriou",
-        "scientist",
-        "snake",
-        "uncover"
-      ],
-      "item_ids": [
-        "4e5fd6a56c01"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "2e5aa3a542e1",
-      "topic": "chew flu test",
-      "keywords": [
-        "chew",
-        "flu",
-        "test"
-      ],
-      "item_ids": [
-        "ac3b35f1e8e6"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "776ad3c6b4e2",
-      "topic": "clue hold hot japan",
-      "keywords": [
-        "clue",
-        "hold",
-        "hot",
-        "japan",
-        "origin",
-        "spring"
-      ],
-      "item_ids": [
-        "b1e79c1f9df2"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
