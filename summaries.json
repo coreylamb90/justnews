@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T05:01:54Z",
+  "generated_at": "2025-10-06T05:16:32Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2310,37 +2310,35 @@
     },
     {
       "id": "d6f584803b01",
-      "title": "Newsom to sue Trump as Pentagon sends California national guard to Oregon",
+      "title": "Judge blocks national guard deployment to Oregon after legal action by Newsom",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/05/gavin-newsom-california-trump-lawsuit",
       "published_at": "Sun, 05 Oct 2025 19:43:40 GMT",
       "bullets": [
-        "• Governor Gavin Newsom announced on Sunday that he is suing Donald Trump over the deployment of 300 California national guard personnel to Oregon",
-        "• The Pentagon confirmed the deployment later on Sunday",
-        "• Newsom's proposed lawsuit follows a federal judge’s ruling that blocked the deployment "
+        "• A federal judge has temporarily blocked the Trump administration from deploying national guard units to Oregon",
+        "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops",
+        "• The judge said there was no evidence that recent protests necessitated the presence of national guard troops "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Governor Gavin Newsom announced on Sunday that he is suing Donald Trump over the deployment of 300 California national guard personnel to Oregon",
-          "• The Pentagon confirmed the deployment later on Sunday"
+          "• A federal judge has temporarily blocked the Trump administration from deploying national guard units to Oregon",
+          "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops"
         ],
         "hopeful_bullets": [
-          "• Governor Gavin Newsom announced on Sunday that he is suing Donald Trump over the deployment of 300 California national guard personnel to Oregon",
-          "• The Pentagon confirmed the deployment later on Sunday"
+          "• A federal judge has temporarily blocked the Trump administration from deploying national guard units to Oregon",
+          "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops"
         ],
         "stakes_bullets": [
-          "• Governor Gavin Newsom announced on Sunday that he is suing Donald Trump over the deployment of 300 California national guard personnel to Oregon",
-          "• The Pentagon confirmed the deployment later on Sunday",
-          "• Newsom's proposed lawsuit follows a federal judge’s ruling that blocked the deployment "
+          "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "0876e487f43d"
+      "cluster_id": "2517099d81b2"
     },
     {
       "id": "72455fc5f431",
@@ -5926,6 +5924,38 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "60d4957eb418",
+      "title": "Step forward the ‘fully biodegradable’ shoe that leaves no footprint",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/society/footwear-but-no-footprint-designers-step-up-with-fully-biodegradable-shoes/",
+      "published_at": "Mon, 06 Oct 2025 05:00:29 +0000",
+      "bullets": [
+        "• O° shoe is made entirely from polyhydroxyalkanoates (PHAs) PHAs are organic materials produced by bacteria that consume carbon dioxide, methane or food waste",
+        "• The process involves no petrochemicals or glues, says OXMAN "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• O° shoe is made entirely from polyhydroxyalkanoates (PHAs) PHAs are organic materials produced by bacteria that consume carbon dioxide, methane or food waste",
+          "• The process involves no petrochemicals or glues, says OXMAN "
+        ],
+        "hopeful_bullets": [
+          "• O° shoe is made entirely from polyhydroxyalkanoates (PHAs) PHAs are organic materials produced by bacteria that consume carbon dioxide, methane or food waste",
+          "• The process involves no petrochemicals or glues, says OXMAN "
+        ],
+        "stakes_bullets": [
+          "• O° shoe is made entirely from polyhydroxyalkanoates (PHAs) PHAs are organic materials produced by bacteria that consume carbon dioxide, methane or food waste",
+          "• The process involves no petrochemicals or glues, says OXMAN "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4b5acdae06bf"
+    },
+    {
       "id": "22e0531d13ee",
       "title": "Japan stocks hit record highs as Sanae Takaichi's LDP victory drives yen past 150",
       "outlet": "US Top News and Analysis",
@@ -6623,36 +6653,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f12739ccd738"
-    },
-    {
-      "id": "5826247d9321",
-      "title": "What went right this week: a global ‘success story’, plus more",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2025/",
-      "published_at": "Fri, 19 Sep 2025 05:00:51 +0000",
-      "bullets": [
-        "• The number of people dying from chronic diseases globally fell in four out of five nations between 2010 and 2019",
-        "• Imperial College London analysis hailed the findings as a global ‘success story’ However, they warned that progress was slowing compared to the previous decade, amid an increase in deaths from dementia "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.826
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The number of people dying from chronic diseases globally fell in four out of five nations between 2010 and 2019",
-          "• Imperial College London analysis hailed the findings as a global ‘success story’ However, they warned that progress was slowing compared to the previous decade, amid an increase in deaths from dementia "
-        ],
-        "hopeful_bullets": [
-          "• Imperial College London analysis hailed the findings as a global ‘success story’ However, they warned that progress was slowing compared to the previous decade, amid an increase in deaths from dementia "
-        ],
-        "stakes_bullets": [
-          "• Imperial College London analysis hailed the findings as a global ‘success story’ However, they warned that progress was slowing compared to the previous decade, amid an increase in deaths from dementia "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "fb7819218d22"
     },
     {
       "id": "cd39cebe7492",
@@ -9640,15 +9640,15 @@
       ]
     },
     {
-      "id": "0876e487f43d",
-      "topic": "california newsom pentagon send",
+      "id": "2517099d81b2",
+      "topic": "block deployment guard judge",
       "keywords": [
-        "california",
-        "newsom",
-        "pentagon",
-        "send",
-        "sue",
-        "trump"
+        "block",
+        "deployment",
+        "guard",
+        "judge",
+        "national",
+        "oregon"
       ],
       "item_ids": [
         "d6f584803b01"
@@ -12931,6 +12931,24 @@
       ]
     },
     {
+      "id": "4b5acdae06bf",
+      "topic": "biodegradable forward fully leave",
+      "keywords": [
+        "biodegradable",
+        "forward",
+        "fully",
+        "leave",
+        "shoe",
+        "step"
+      ],
+      "item_ids": [
+        "60d4957eb418"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "ed9888c2bb8f",
       "topic": "good matter right week",
       "keywords": [
@@ -13082,24 +13100,6 @@
       ],
       "item_ids": [
         "d28c48d4d1f1"
-      ],
-      "outlets": [
-        "Positive News"
-      ]
-    },
-    {
-      "id": "fb7819218d22",
-      "topic": "global right story succes",
-      "keywords": [
-        "global",
-        "right",
-        "story",
-        "succes",
-        "week",
-        "went"
-      ],
-      "item_ids": [
-        "5826247d9321"
       ],
       "outlets": [
         "Positive News"
