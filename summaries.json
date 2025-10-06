@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T11:17:42Z",
+  "generated_at": "2025-10-06T11:51:55Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -502,38 +502,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4d342168dfa6"
-    },
-    {
-      "id": "b7c9170b770a",
-      "title": "Border wall slicing through Arizona wildlife corridor begins construction: ‘A show of force for nothing’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/arizona-border-wall-san-rafael-valley",
-      "published_at": "Wed, 01 Oct 2025 14:00:22 GMT",
-      "bullets": [
-        "• The San Rafael Valley, south-east of Tucson, is considered one of the most biodiverse regions in North America",
-        "• But in recent days, a towering black steel wall has begun to rise on the landscape",
-        "• Trump administration is forging ahead with plans to erect a 27-mile section of the border wall here "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The San Rafael Valley, south-east of Tucson, is considered one of the most biodiverse regions in North America",
-          "• But in recent days, a towering black steel wall has begun to rise on the landscape"
-        ],
-        "hopeful_bullets": [
-          "• The San Rafael Valley, south-east of Tucson, is considered one of the most biodiverse regions in North America",
-          "• But in recent days, a towering black steel wall has begun to rise on the landscape"
-        ],
-        "stakes_bullets": [
-          "• Trump administration is forging ahead with plans to erect a 27-mile section of the border wall here "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "89e8b67d17bb"
     },
     {
       "id": "eba2b120ba07",
@@ -2215,34 +2183,34 @@
     },
     {
       "id": "f809d9c29a21",
-      "title": "Federal workers sue Education Department over partisan shutdown emails",
+      "title": "Federal workers sue the Education Department over partisan shutdown emails",
       "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/05/nx-s1-5563182/shutdown-lawsuit-education-department-partisan-messages",
       "published_at": "Sun, 05 Oct 2025 19:23:38 -0400",
       "bullets": [
-        "• Federal workers sue Education Department over partisan shutdown emails",
-        "• Federal workers union sues the White House for inserting partisan messages into emails",
-        "• The White House blamed Democrats for the government shutdown",
-        "• The lawsuit is the first to challenge the administration's unusual use of partisan messaging during the shutdown "
+        "• Federal workers union says it's a violation of First Amendment rights",
+        "• The union is challenging the use of partisan messages in government emails",
+        "• Messages were posted on government websites blaming Democrats for shutdown",
+        "• The White House has blamed Democrats for the shutdown, but Congress has passed a compromise "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
-          "• Federal workers sue Education Department over partisan shutdown emails",
-          "• Federal workers union sues the White House for inserting partisan messages into emails"
+          "• Federal workers union says it's a violation of First Amendment rights",
+          "• The union is challenging the use of partisan messages in government emails"
         ],
         "hopeful_bullets": [
-          "• Federal workers sue Education Department over partisan shutdown emails",
-          "• Federal workers union sues the White House for inserting partisan messages into emails"
+          "• Federal workers union says it's a violation of First Amendment rights",
+          "• The union is challenging the use of partisan messages in government emails"
         ],
         "stakes_bullets": [
-          "• Federal workers sue Education Department over partisan shutdown emails",
-          "• Federal workers union sues the White House for inserting partisan messages into emails",
-          "• The White House blamed Democrats for the government shutdown"
+          "• Federal workers union says it's a violation of First Amendment rights",
+          "• The union is challenging the use of partisan messages in government emails",
+          "• Messages were posted on government websites blaming Democrats for shutdown"
         ]
       },
       "read_minutes": 4,
@@ -2291,30 +2259,28 @@
       "published_at": "Sun, 05 Oct 2025 17:49:51 -0400",
       "bullets": [
         "• Federal judge again blocks National Guard deployment to Oregon",
-        "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S",
-        "• cities",
-        "• Earlier in the weekend, the judge temporarily blocked the administration's plan to deploy the Oregon National Guard to Portland "
+        "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
           "• Federal judge again blocks National Guard deployment to Oregon",
-          "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S"
+          "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
         ],
         "hopeful_bullets": [
           "• Federal judge again blocks National Guard deployment to Oregon",
-          "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S"
+          "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
         ],
         "stakes_bullets": [
-          "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S",
-          "• Earlier in the weekend, the judge temporarily blocked the administration's plan to deploy the Oregon National Guard to Portland "
+          "• Federal judge again blocks National Guard deployment to Oregon",
+          "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "99ad64fe8145"
     },
     {
@@ -2446,70 +2412,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "73be22740d9b"
-    },
-    {
-      "id": "02a10bcbe5f9",
-      "title": "Democrats are embracing the risky politics of a government shutdown to rein in president, activists say",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/05/democrats-healthcare-government-shutdown",
-      "published_at": "Sun, 05 Oct 2025 15:54:13 GMT",
-      "bullets": [
-        "• Washington is bracing for what could be an extended government shutdown, which officially began at 12.01am on Wednesday",
-        "• Democrats are pressing for an array of healthcare-centered priorities, including the extension of tax credits for Affordable Care Act plans set to expire at the end of the year "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.634
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Washington is bracing for what could be an extended government shutdown, which officially began at 12.01am on Wednesday",
-          "• Democrats are pressing for an array of healthcare-centered priorities, including the extension of tax credits for Affordable Care Act plans set to expire at the end of the year "
-        ],
-        "hopeful_bullets": [
-          "• Washington is bracing for what could be an extended government shutdown, which officially began at 12.01am on Wednesday",
-          "• Democrats are pressing for an array of healthcare-centered priorities, including the extension of tax credits for Affordable Care Act plans set to expire at the end of the year "
-        ],
-        "stakes_bullets": [
-          "• Washington is bracing for what could be an extended government shutdown, which officially began at 12.01am on Wednesday",
-          "• Democrats are pressing for an array of healthcare-centered priorities, including the extension of tax credits for Affordable Care Act plans set to expire at the end of the year "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "66aa33545243"
-    },
-    {
-      "id": "63b70cc726e8",
-      "title": "Kristi Noem calls Chicago a ‘war zone’ after federal agents shoot woman",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/05/trump-kristi-noem-chicago-national-guard",
-      "published_at": "Sun, 05 Oct 2025 15:43:14 GMT",
-      "bullets": [
-        "• Homeland security secretary Kristi Noem says Chicago is a 'war zone' after federal agents shot a woman",
-        "• She says the mayor of the city is \"lying so that criminals can go in there and destroy people’s lives\" Noem's remarks follow the president's authorization to deploy 300 members of the Illinois national guard to Chicago "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Homeland security secretary Kristi Noem says Chicago is a 'war zone' after federal agents shot a woman",
-          "• She says the mayor of the city is \"lying so that criminals can go in there and destroy people’s lives\" Noem's remarks follow the president's authorization to deploy 300 members of the Illinois national guard to Chicago "
-        ],
-        "hopeful_bullets": [
-          "• Homeland security secretary Kristi Noem says Chicago is a 'war zone' after federal agents shot a woman",
-          "• She says the mayor of the city is \"lying so that criminals can go in there and destroy people’s lives\" Noem's remarks follow the president's authorization to deploy 300 members of the Illinois national guard to Chicago "
-        ],
-        "stakes_bullets": [
-          "• Homeland security secretary Kristi Noem says Chicago is a 'war zone' after federal agents shot a woman",
-          "• She says the mayor of the city is \"lying so that criminals can go in there and destroy people’s lives\" Noem's remarks follow the president's authorization to deploy 300 members of the Illinois national guard to Chicago "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ca14f987fb8a"
     },
     {
       "id": "e8e19ca935fb",
@@ -3002,105 +2904,6 @@
       "cluster_id": "a71d10e02f97"
     },
     {
-      "id": "77b010777688",
-      "title": "The Mystery of How Quasicrystals Form",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/quasicrystals-spill-secrets-of-their-formation/",
-      "published_at": "Sun, 05 Oct 2025 11:00:00 +0000",
-      "bullets": [
-        "• The exotic materials known as quasicrystals have bedeviled physicists and chemists since their discovery in 1982",
-        "• Their atoms arrange themselves into chains of pentagons, decagons, and other shapes to form patterns that never quite repeat",
-        "• These patterns seem to defy physical laws and intuition",
-        "• A spate of results has peeled back some of their secrets "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The exotic materials known as quasicrystals have bedeviled physicists and chemists since their discovery in 1982",
-          "• Their atoms arrange themselves into chains of pentagons, decagons, and other shapes to form patterns that never quite repeat"
-        ],
-        "hopeful_bullets": [
-          "• The exotic materials known as quasicrystals have bedeviled physicists and chemists since their discovery in 1982",
-          "• Their atoms arrange themselves into chains of pentagons, decagons, and other shapes to form patterns that never quite repeat"
-        ],
-        "stakes_bullets": [
-          "• A spate of results has peeled back some of their secrets "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "ef31d8c95468"
-    },
-    {
-      "id": "4e87801a0c6d",
-      "title": "Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-packing-cubes/",
-      "published_at": "Sun, 05 Oct 2025 10:30:00 +0000",
-      "bullets": [
-        "• Packing cubes are often scoffed at by r/onebag minimalists and those who can live three weeks out of a backpack with four outfits and a toothbrush",
-        "• Compressive styles like the Eagle Creek Pack-It Reveal Carry-On Set ($104) are a game changer for overpackers "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.51
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Packing cubes are often scoffed at by r/onebag minimalists and those who can live three weeks out of a backpack with four outfits and a toothbrush",
-          "• Compressive styles like the Eagle Creek Pack-It Reveal Carry-On Set ($104) are a game changer for overpackers "
-        ],
-        "hopeful_bullets": [
-          "• Packing cubes are often scoffed at by r/onebag minimalists and those who can live three weeks out of a backpack with four outfits and a toothbrush",
-          "• Compressive styles like the Eagle Creek Pack-It Reveal Carry-On Set ($104) are a game changer for overpackers "
-        ],
-        "stakes_bullets": [
-          "• Packing cubes are often scoffed at by r/onebag minimalists and those who can live three weeks out of a backpack with four outfits and a toothbrush",
-          "• Compressive styles like the Eagle Creek Pack-It Reveal Carry-On Set ($104) are a game changer for overpackers "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "fc6a833cacf3"
-    },
-    {
-      "id": "9b80ec67b886",
-      "title": "7 Best Dehumidifiers for Cool and Dry Home Air (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-dehumidifier/",
-      "published_at": "Sun, 05 Oct 2025 10:07:00 +0000",
-      "bullets": [
-        "• The Honeywell Smart Portable Dehumidifier ($270) is the best for basements",
-        "• The Eva-Dry Renewable Renewable Mini Mini Dehumidoifier E-333 is a portable version for travel or small spaces",
-        "• Honeywell is our best portable pick, from our best for travel and small spaces pick "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Honeywell Smart Portable Dehumidifier ($270) is the best for basements",
-          "• The Eva-Dry Renewable Renewable Mini Mini Dehumidoifier E-333 is a portable version for travel or small spaces"
-        ],
-        "hopeful_bullets": [
-          "• The Honeywell Smart Portable Dehumidifier ($270) is the best for basements",
-          "• The Eva-Dry Renewable Renewable Mini Mini Dehumidoifier E-333 is a portable version for travel or small spaces"
-        ],
-        "stakes_bullets": [
-          "• The Honeywell Smart Portable Dehumidifier ($270) is the best for basements",
-          "• The Eva-Dry Renewable Renewable Mini Mini Dehumidoifier E-333 is a portable version for travel or small spaces",
-          "• Honeywell is our best portable pick, from our best for travel and small spaces pick "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "ced7ebd83e11"
-    },
-    {
       "id": "0b0a3c93254f",
       "title": "Trump’s hatred for renewables means the US is falling behind the rest of the world",
       "outlet": "Environment | The Guardian",
@@ -3398,38 +3201,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "20aff8d8299a"
-    },
-    {
-      "id": "c3828c598e5e",
-      "title": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 05 Oct 2025 06:38:01 GMT",
-      "bullets": [
-        "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election",
-        "• His party received just under 35% of the vote, earning them 80 seats in the 200-seat lower house",
-        "• Babis expected to be invited to lead talks on forming a new coalition "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.964
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election",
-          "• His party received just under 35% of the vote, earning them 80 seats in the 200-seat lower house"
-        ],
-        "hopeful_bullets": [
-          "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election"
-        ],
-        "stakes_bullets": [
-          "• Billionaire businessman Andrej Babis' party wins Czech parliamentary election",
-          "• Babis expected to be invited to lead talks on forming a new coalition "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "902d136f3f5d"
     },
     {
       "id": "a5f6fffb1bdd",
@@ -3931,39 +3702,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "26ff2abf8f27"
-    },
-    {
-      "id": "0f5fe5e0599c",
-      "title": "What's driving President Trump's new confidence in Ukraine's war effort",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/04/nx-s1-5554426/whats-driving-president-trumps-new-confidence-in-ukraines-war-effort",
-      "published_at": "Sat, 04 Oct 2025 17:11:24 -0400",
-      "bullets": [
-        "• President Trump declared last week that Ukraine can win the war against Russia",
-        "• The president's bold statement surprised allies and raised new questions about whether U.S",
-        "• policy toward the war is changing",
-        "• NPR's White House correspondent Franco Ordoñez has the story",
-        "• He asks: Is this a complete 180 from his previous stance, or is it the president washing his hands of the war entirely?"
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.915
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump declared last week that Ukraine can win the war against Russia",
-          "• The president's bold statement surprised allies and raised new questions about whether U.S"
-        ],
-        "hopeful_bullets": [
-          "• President Trump declared last week that Ukraine can win the war against Russia"
-        ],
-        "stakes_bullets": [
-          "• policy toward the war is changing"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5f0e4684a5d8"
     },
     {
       "id": "b19324acd944",
@@ -4861,40 +4599,373 @@
       "cluster_id": "b235c16fb40e"
     },
     {
-      "id": "9fb4541eda37",
-      "title": "Fifth Third Bancorp to buy Comerica for $10.9 billion in all-stock deal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/fifth-third-bancorp-to-buy-comerica-for-10point9-billion-in-all-stock-deal.html",
-      "published_at": "Mon, 06 Oct 2025 10:49:29 GMT",
+      "id": "d2e2d7135e2a",
+      "title": "‘Backrooms: Lost Runners’ Announced for Steam; Demo Coming October 13 [Trailer]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3907423/backrooms-lost-runners-announced-for-steam-demo-coming-october-13-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=backrooms-lost-runners-announced-for-steam-demo-coming-october-13-trailer",
+      "published_at": "Mon, 06 Oct 2025 11:30:15 +0000",
       "bullets": [
-        "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica in an all-stock deal worth $10.9 billion",
-        "• The deal will create the ninth-largest U.S",
-        "• bank with roughly $288 billion in assets",
-        "• Both banks expect the deal to close at the end of the first quarter of 2026 "
+        "• Backrooms: Lost Runners is a co-op Survival Horror experience inspired by the “Backrooms’s” mythos",
+        "• The game will be part of Steam Next Fest with a demo launching October 13",
+        "• Each challenge adapts to your team's approach and requires inventive problem-solving "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.905
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Backrooms: Lost Runners is a co-op Survival Horror experience inspired by the “Backrooms’s” mythos",
+          "• The game will be part of Steam Next Fest with a demo launching October 13"
+        ],
+        "hopeful_bullets": [
+          "• Backrooms: Lost Runners is a co-op Survival Horror experience inspired by the “Backrooms’s” mythos",
+          "• The game will be part of Steam Next Fest with a demo launching October 13"
+        ],
+        "stakes_bullets": [
+          "• The game will be part of Steam Next Fest with a demo launching October 13",
+          "• Each challenge adapts to your team's approach and requires inventive problem-solving "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7bdb1d87395b"
+    },
+    {
+      "id": "a6fcf77740a6",
+      "title": "AMD stock skyrockets 25% as OpenAI looks to take stake in AI chipmaker",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+      "published_at": "Mon, 06 Oct 2025 11:24:40 GMT",
+      "bullets": [
+        "• AMD and OpenAI reach deal to deploy 6 gigawatts of AI chips",
+        "• Deal could see Sam Altman's company take a 10% stake in the chipmaker",
+        "• AMD stock jumped more than 25% in premarket trading Monday",
+        "• ChatGPT maker said the deal was worth billions, but declined to disclose a specific dollar amount "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.792
+        "score": 0.987
       },
       "moods": {
         "brief_bullets": [
-          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica in an all-stock deal worth $10.9 billion",
+          "• AMD and OpenAI reach deal to deploy 6 gigawatts of AI chips",
+          "• Deal could see Sam Altman's company take a 10% stake in the chipmaker"
+        ],
+        "hopeful_bullets": [
+          "• AMD and OpenAI reach deal to deploy 6 gigawatts of AI chips",
+          "• Deal could see Sam Altman's company take a 10% stake in the chipmaker"
+        ],
+        "stakes_bullets": [
+          "• Deal could see Sam Altman's company take a 10% stake in the chipmaker",
+          "• ChatGPT maker said the deal was worth billions, but declined to disclose a specific dollar amount "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d3bf43dc5bd5"
+    },
+    {
+      "id": "27b4a8daa163",
+      "title": "First Thing: Trump urges negotiators to ‘move fast’ in run-up to Gaza ceasefire talks",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/06/first-thing-trump-move-fast-gaza-ceasefire-talks-egypt",
+      "published_at": "Mon, 06 Oct 2025 11:15:14 GMT",
+      "bullets": [
+        "• Donald Trump has urged negotiators to ‘move fast’ in talks focused on the release of hostages held by Hamas in Gaza and a broader end to the war",
+        "• The talks will focus on the first phase of the plan to end the war in Gaza, the Egyptian foreign ministry has said "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.878
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has urged negotiators to ‘move fast’ in talks focused on the release of hostages held by Hamas in Gaza and a broader end to the war",
+          "• The talks will focus on the first phase of the plan to end the war in Gaza, the Egyptian foreign ministry has said "
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has urged negotiators to ‘move fast’ in talks focused on the release of hostages held by Hamas in Gaza and a broader end to the war",
+          "• The talks will focus on the first phase of the plan to end the war in Gaza, the Egyptian foreign ministry has said "
+        ],
+        "stakes_bullets": [
+          "• The talks will focus on the first phase of the plan to end the war in Gaza, the Egyptian foreign ministry has said "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6e56d2a18cbc"
+    },
+    {
+      "id": "9fb4541eda37",
+      "title": "Fifth Third Bancorp to buy Comerica for $10.9 billion in all-stock deal",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/fifth-third-bancorp-to-buy-comerica-for-10point9-billion-in-all-stock-deal.html",
+      "published_at": "Mon, 06 Oct 2025 11:11:28 GMT",
+      "bullets": [
+        "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
+        "• The deal will create the ninth-largest U.S",
+        "• bank — with roughly $288 billion in assets",
+        "• The transaction is expected to finalize in the first quarter of 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
           "• The deal will create the ninth-largest U.S"
         ],
         "hopeful_bullets": [
-          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica in an all-stock deal worth $10.9 billion",
+          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
           "• The deal will create the ninth-largest U.S"
         ],
         "stakes_bullets": [
-          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica in an all-stock deal worth $10.9 billion",
+          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
           "• The deal will create the ninth-largest U.S",
-          "• bank with roughly $288 billion in assets",
-          "• Both banks expect the deal to close at the end of the first quarter of 2026 "
+          "• bank — with roughly $288 billion in assets",
+          "• The transaction is expected to finalize in the first quarter of 2026 "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "598cfeeb134f"
+    },
+    {
+      "id": "185e177f811c",
+      "title": "Judge blocks Trump’s bid to deploy national guard to Oregon – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/06/donald-trump-national-guard-ice-government-shutdown-us-politics-live-news-updates",
+      "published_at": "Mon, 06 Oct 2025 11:10:50 GMT",
+      "bullets": [
+        "• A federal judge has temporarily blocked the use of national troops in the U.S",
+        "• by sending them to Oregon",
+        "• The temporary order will remain in effect until at least 19 October",
+        "• The decision was made by a federal judge on Sunday",
+        "• The judge said there was no evidence that the move was in violation of the law "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A federal judge has temporarily blocked the use of national troops in the U.S",
+          "• by sending them to Oregon"
+        ],
+        "hopeful_bullets": [
+          "• A federal judge has temporarily blocked the use of national troops in the U.S",
+          "• by sending them to Oregon"
+        ],
+        "stakes_bullets": [
+          "• The temporary order will remain in effect until at least 19 October"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "5f77d0a422b8"
+    },
+    {
+      "id": "90c2844dac8e",
+      "title": "Outcry as Trump plots more roads and logging in US forests: ‘You can almost hear the chainsaws’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/06/trump-logging-forests",
+      "published_at": "Mon, 06 Oct 2025 11:00:11 GMT",
+      "bullets": [
+        "• Donald Trump has imposed a ban on logging in America's most prized forests",
+        "• The ban has been in place since 1999, when it was announced",
+        "• It is the first time since that rule has been imposed by the White House",
+        "• The US government has ordered the ban to be lifted on logging "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has imposed a ban on logging in America's most prized forests",
+          "• The ban has been in place since 1999, when it was announced"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has imposed a ban on logging in America's most prized forests",
+          "• The ban has been in place since 1999, when it was announced"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump has imposed a ban on logging in America's most prized forests",
+          "• The ban has been in place since 1999, when it was announced",
+          "• The US government has ordered the ban to be lifted on logging "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "68552eff9a44"
+    },
+    {
+      "id": "47a22a8a4e12",
+      "title": "Boom time for US billionaires: why the system perpetuates wealth inequality",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/news/2025/oct/06/billionaire-class-us-inequality",
+      "published_at": "Mon, 06 Oct 2025 11:00:11 GMT",
+      "bullets": [
+        "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic",
+        "• Chuck Collins argues that the system that perpetuates wealth inequality is purposely opaque to most Americans",
+        "• 10% of the population owns 93% of stock market wealth "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic",
+          "• Chuck Collins argues that the system that perpetuates wealth inequality is purposely opaque to most Americans"
+        ],
+        "hopeful_bullets": [
+          "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic",
+          "• Chuck Collins argues that the system that perpetuates wealth inequality is purposely opaque to most Americans"
+        ],
+        "stakes_bullets": [
+          "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "bb3f43a96ddb"
+    },
+    {
+      "id": "b3e7a4716618",
+      "title": "How to Get Your Kids Into STEM Even When Its Future Is Uncertain",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/",
+      "published_at": "Mon, 06 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• As a high school student, one of my major life goals was to figure out how to build an actual light sword",
+        "• By the time I was an undergraduate, I’d settled on physics",
+        "• After that, I went to graduate school to study even more physics until I finally earned a PhD "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.833
+      },
+      "moods": {
+        "brief_bullets": [
+          "• As a high school student, one of my major life goals was to figure out how to build an actual light sword",
+          "• By the time I was an undergraduate, I’d settled on physics"
+        ],
+        "hopeful_bullets": [
+          "• As a high school student, one of my major life goals was to figure out how to build an actual light sword",
+          "• By the time I was an undergraduate, I’d settled on physics"
+        ],
+        "stakes_bullets": [
+          "• As a high school student, one of my major life goals was to figure out how to build an actual light sword",
+          "• By the time I was an undergraduate, I’d settled on physics",
+          "• After that, I went to graduate school to study even more physics until I finally earned a PhD "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "c0348881405d"
+    },
+    {
+      "id": "90d20b8333ff",
+      "title": "Autism Is Not a Single Condition and Has No Single Cause, Scientists Conclude",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/autism-is-not-a-single-condition-and-has-no-single-cause-scientists-conclude/",
+      "published_at": "Mon, 06 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• University of Cambridge study suggests autism should not be understood as a homogeneous condition with a single cause",
+        "• People diagnosed in early childhood often have a different genetic profile than those diagnosed later in life",
+        "• Study analyzed behavior of autistic people during childhood and adolescence in the United Kingdom and Australia "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• University of Cambridge study suggests autism should not be understood as a homogeneous condition with a single cause",
+          "• People diagnosed in early childhood often have a different genetic profile than those diagnosed later in life"
+        ],
+        "hopeful_bullets": [
+          "• University of Cambridge study suggests autism should not be understood as a homogeneous condition with a single cause",
+          "• People diagnosed in early childhood often have a different genetic profile than those diagnosed later in life"
+        ],
+        "stakes_bullets": [
+          "• University of Cambridge study suggests autism should not be understood as a homogeneous condition with a single cause"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f6f017a8ace0"
+    },
+    {
+      "id": "81f70949b494",
+      "title": "As the Right Leans Into ‘Warrior’ Culture, Some Leftist Gym Bros Are Pushing Back",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/as-the-right-leans-into-warrior-culture-some-leftist-gym-bros-are-pushing-back/",
+      "published_at": "Mon, 06 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• Both parties are vying for the male half of the fitness-obsessed generation in recent memory",
+        "• After the young male vote flipped toward Trump by almost 30 points, the fight for their attention has taken center stage in the US political culture war",
+        "• Fitness influencers have been at the forefront of the rightward shift of young men in recent years "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.61
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Both parties are vying for the male half of the fitness-obsessed generation in recent memory",
+          "• After the young male vote flipped toward Trump by almost 30 points, the fight for their attention has taken center stage in the US political culture war"
+        ],
+        "hopeful_bullets": [
+          "• Both parties are vying for the male half of the fitness-obsessed generation in recent memory",
+          "• After the young male vote flipped toward Trump by almost 30 points, the fight for their attention has taken center stage in the US political culture war"
+        ],
+        "stakes_bullets": [
+          "• Both parties are vying for the male half of the fitness-obsessed generation in recent memory",
+          "• After the young male vote flipped toward Trump by almost 30 points, the fight for their attention has taken center stage in the US political culture war",
+          "• Fitness influencers have been at the forefront of the rightward shift of young men in recent years "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "86c2e5bf4ff6"
+    },
+    {
+      "id": "e72ce52ccd7a",
+      "title": "Aston Martin shares fall 10% as luxury carmaker issues fresh profit warning on tariff turmoil",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/aston-martin-carmaker-issues-fresh-profit-warning-on-tariff-turmoil.html",
+      "published_at": "Mon, 06 Oct 2025 10:53:04 GMT",
+      "bullets": [
+        "• Shares of Aston Martin fell as much as 10% on Monday morning",
+        "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook",
+        "• The company expects its 2025 total wholesale volumes to fall by a \"mid-high single digit percentage\" Aston Martin also said it no longer expects positive free cash flow generation in the second half of the year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares of Aston Martin fell as much as 10% on Monday morning",
+          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook"
+        ],
+        "hopeful_bullets": [
+          "• Shares of Aston Martin fell as much as 10% on Monday morning",
+          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook"
+        ],
+        "stakes_bullets": [
+          "• Shares of Aston Martin fell as much as 10% on Monday morning",
+          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook",
+          "• The company expects its 2025 total wholesale volumes to fall by a \"mid-high single digit percentage\" Aston Martin also said it no longer expects positive free cash flow generation in the second half of the year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "dc3cdadbff11"
     },
     {
       "id": "f332eb87d3b5",
@@ -4965,70 +5036,38 @@
       "cluster_id": "3a77fa3a8da9"
     },
     {
-      "id": "185e177f811c",
-      "title": "Judge blocks Trump’s bid to deploy national guard to Oregon – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/06/donald-trump-national-guard-ice-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Mon, 06 Oct 2025 10:34:27 GMT",
+      "id": "72455fc5f431",
+      "title": "'I was lucky to get out': Everest hikers battle hypothermia in shock blizzard",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 06 Oct 2025 10:23:28 GMT",
       "bullets": [
-        "• Trump urges negotiators to ‘move fast’ as Gaza ceasefire talks set to begin in Egypt",
-        "• Talks focused on release of hostages held by Hamas in Gaza and a broader end to the war",
-        "• Israel continued strikes on Gaza, killing 63 people in the 24 hours to Sunday evening "
+        "• At least one hiker has died and more than 200 are still stranded on Everest's eastern slopes in Tibet",
+        "• Hundreds of local villagers and rescue workers have been deployed to clear out snow blocking access to the area",
+        "• The area sits at an altitude of more than 4,900m (16,000ft)"
       ],
-      "category": "US",
+      "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.921
+        "score": 0.98
       },
       "moods": {
         "brief_bullets": [
-          "• Trump urges negotiators to ‘move fast’ as Gaza ceasefire talks set to begin in Egypt",
-          "• Talks focused on release of hostages held by Hamas in Gaza and a broader end to the war"
+          "• At least one hiker has died and more than 200 are still stranded on Everest's eastern slopes in Tibet",
+          "• Hundreds of local villagers and rescue workers have been deployed to clear out snow blocking access to the area"
         ],
         "hopeful_bullets": [
-          "• Trump urges negotiators to ‘move fast’ as Gaza ceasefire talks set to begin in Egypt",
-          "• Talks focused on release of hostages held by Hamas in Gaza and a broader end to the war"
+          "• At least one hiker has died and more than 200 are still stranded on Everest's eastern slopes in Tibet",
+          "• Hundreds of local villagers and rescue workers have been deployed to clear out snow blocking access to the area"
         ],
         "stakes_bullets": [
-          "• Trump urges negotiators to ‘move fast’ as Gaza ceasefire talks set to begin in Egypt",
-          "• Talks focused on release of hostages held by Hamas in Gaza and a broader end to the war",
-          "• Israel continued strikes on Gaza, killing 63 people in the 24 hours to Sunday evening "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "5f77d0a422b8"
-    },
-    {
-      "id": "d6f584803b01",
-      "title": "Judge blocks national guard deployment to Oregon after legal action by Newsom",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/05/gavin-newsom-california-trump-lawsuit",
-      "published_at": "Mon, 06 Oct 2025 10:34:07 GMT",
-      "bullets": [
-        "• A federal judge has temporarily blocked the Trump administration from deploying national guard units to Oregon",
-        "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops",
-        "• The judge said there was no evidence that recent protests necessitated the presence of national guard troops "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A federal judge has temporarily blocked the Trump administration from deploying national guard units to Oregon",
-          "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops"
-        ],
-        "hopeful_bullets": [
-          "• A federal judge has temporarily blocked the Trump administration from deploying national guard units to Oregon",
-          "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops"
-        ],
-        "stakes_bullets": [
-          "• California governor Gavin Newsom had said he would sue the president over the planned deployment of his state’s troops"
+          "• At least one hiker has died and more than 200 are still stranded on Everest's eastern slopes in Tibet",
+          "• Hundreds of local villagers and rescue workers have been deployed to clear out snow blocking access to the area",
+          "• The area sits at an altitude of more than 4,900m (16,000ft)"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "2517099d81b2"
+      "cluster_id": "1eedd7474a96"
     },
     {
       "id": "2da137d51ad6",
@@ -5096,6 +5135,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "a7f862c83deb"
+    },
+    {
+      "id": "b9a67bd96ce5",
+      "title": "Here’s the real reason Endurance sank",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
+      "published_at": "Mon, 06 Oct 2025 10:00:40 +0000",
+      "bullets": [
+        "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice, eventually sinking into the freezing depths of the Weddell Sea",
+        "• A new analysis reveals that Endurance would have sunk even with an intact rudder",
+        "• It was crushed by the cumulative compressive forces of the Arctic ice with no single cause for the sinking "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice, eventually sinking into the freezing depths of the Weddell Sea",
+          "• A new analysis reveals that Endurance would have sunk even with an intact rudder"
+        ],
+        "hopeful_bullets": [
+          "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice, eventually sinking into the freezing depths of the Weddell Sea",
+          "• A new analysis reveals that Endurance would have sunk even with an intact rudder"
+        ],
+        "stakes_bullets": [
+          "• It was crushed by the cumulative compressive forces of the Arctic ice with no single cause for the sinking "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fbc94aa22622"
     },
     {
       "id": "160841cb0d22",
@@ -5200,65 +5271,31 @@
       "published_at": "Mon, 06 Oct 2025 09:56:41 GMT",
       "bullets": [
         "• French Prime Minister Sébastien Lecornu resigns after less than a month",
-        "• The shock move comes only 26 days after he was appointed as prime minister",
-        "• Several parties are clamouring for early elections and some calling for Macron to go "
+        "• The shock move comes just 26 days after he was appointed as prime minister",
+        "• Several parties are clamouring for early elections and some are calling for Macron to go "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.978
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
           "• French Prime Minister Sébastien Lecornu resigns after less than a month",
-          "• The shock move comes only 26 days after he was appointed as prime minister"
+          "• The shock move comes just 26 days after he was appointed as prime minister"
         ],
         "hopeful_bullets": [
           "• French Prime Minister Sébastien Lecornu resigns after less than a month",
-          "• The shock move comes only 26 days after he was appointed as prime minister"
+          "• The shock move comes just 26 days after he was appointed as prime minister"
         ],
         "stakes_bullets": [
           "• French Prime Minister Sébastien Lecornu resigns after less than a month",
-          "• The shock move comes only 26 days after he was appointed as prime minister",
-          "• Several parties are clamouring for early elections and some calling for Macron to go "
+          "• The shock move comes just 26 days after he was appointed as prime minister",
+          "• Several parties are clamouring for early elections and some are calling for Macron to go "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "95f714788ba8"
-    },
-    {
-      "id": "e72ce52ccd7a",
-      "title": "Aston Martin shares fall 10% as luxury carmaker issues fresh profit warning on tariff turmoil",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/aston-martin-carmaker-issues-fresh-profit-warning-on-tariff-turmoil.html",
-      "published_at": "Mon, 06 Oct 2025 09:53:47 GMT",
-      "bullets": [
-        "• Shares of Aston Martin fell as much as 10% on Monday morning",
-        "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook",
-        "• The company expects its 2025 total wholesale volumes to fall by a \"mid-high single digit percentage\" Aston Martin also said it no longer expects positive free cash flow generation in the second half of the year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares of Aston Martin fell as much as 10% on Monday morning",
-          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook"
-        ],
-        "hopeful_bullets": [
-          "• Shares of Aston Martin fell as much as 10% on Monday morning",
-          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook"
-        ],
-        "stakes_bullets": [
-          "• Shares of Aston Martin fell as much as 10% on Monday morning",
-          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook",
-          "• The company expects its 2025 total wholesale volumes to fall by a \"mid-high single digit percentage\" Aston Martin also said it no longer expects positive free cash flow generation in the second half of the year "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "dc3cdadbff11"
     },
     {
       "id": "7bbeed9f2769",
@@ -5463,38 +5500,38 @@
       "cluster_id": "996f68636f1e"
     },
     {
-      "id": "22e0531d13ee",
-      "title": "Japan stocks hit record highs as Sanae Takaichi's LDP victory drives yen past 150",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/asia-pacific-markets-monday-nikkei-225-topix-kospi-nifty-50-japan-ldp-sanae-takaichi.html",
-      "published_at": "Mon, 06 Oct 2025 07:17:47 GMT",
+      "id": "36175e393571",
+      "title": "Judge blocks deployment of National Guard to Oregon. And, the Supreme Court's new term",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/06/g-s1-92172/up-first-newsletter-oregon-national-guard-gaza-eygpt-supreme-court",
+      "published_at": "Mon, 06 Oct 2025 07:25:59 -0400",
       "bullets": [
-        "• Japan's Nikkei 225 index closed 4.75% higher to end trading day at 47,944.76",
-        "• The surge was led by gains in real estate, technology and consumer cyclical stocks",
-        "• The yen weakened by over 1.81% to hit the psychological mark of 150 against the dollar "
+        "• Judge blocks deployment of National Guard to Oregon",
+        "• President Trump says he is sending troops to Democratic-run U.S",
+        "• cities to help control crime and protect federal law enforcement officers",
+        "• The governor of Oregon and the mayor of Portland have expressed that it is business as usual in the city, NPR's Joe Hernandez says "
       ],
-      "category": "Business",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.832
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• Japan's Nikkei 225 index closed 4.75% higher to end trading day at 47,944.76",
-          "• The surge was led by gains in real estate, technology and consumer cyclical stocks"
+          "• Judge blocks deployment of National Guard to Oregon",
+          "• President Trump says he is sending troops to Democratic-run U.S"
         ],
         "hopeful_bullets": [
-          "• The surge was led by gains in real estate, technology and consumer cyclical stocks",
-          "• The yen weakened by over 1.81% to hit the psychological mark of 150 against the dollar "
+          "• cities to help control crime and protect federal law enforcement officers"
         ],
         "stakes_bullets": [
-          "• Japan's Nikkei 225 index closed 4.75% higher to end trading day at 47,944.76",
-          "• The surge was led by gains in real estate, technology and consumer cyclical stocks",
-          "• The yen weakened by over 1.81% to hit the psychological mark of 150 against the dollar "
+          "• Judge blocks deployment of National Guard to Oregon",
+          "• President Trump says he is sending troops to Democratic-run U.S",
+          "• cities to help control crime and protect federal law enforcement officers"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "448fba935d65"
+      "read_minutes": 5,
+      "cluster_id": "bf70ef3fe07b"
     },
     {
       "id": "631dc897005a",
@@ -5635,31 +5672,31 @@
       "published_at": "Mon, 06 Oct 2025 05:55:46 -0400",
       "bullets": [
         "• Mary E",
-        "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine",
-        "• Their work dates back to 1995, when Sakaguch made the first key discovery",
-        "• The laureates' discoveries launched the field of peripheral tolerance, spurring the development of treatments for cancer and autoimmune diseases "
+        "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine on Monday",
+        "• The scientists unraveled an additional way the body keeps the immune system in check",
+        "• Key immune warriors such as T cells get trained on how to spot bad actors "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
           "• Mary E",
-          "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine"
+          "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine on Monday"
         ],
         "hopeful_bullets": [
           "• Mary E",
-          "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine"
+          "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine on Monday"
         ],
         "stakes_bullets": [
           "• Mary E",
-          "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine",
-          "• Their work dates back to 1995, when Sakaguch made the first key discovery"
+          "• Brunkow, Fred Ramsdell and Shimon Sakaguchi won the Nobel Prize in medicine on Monday",
+          "• The scientists unraveled an additional way the body keeps the immune system in check"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "a785008f240b"
     },
     {
@@ -5931,39 +5968,6 @@
       "cluster_id": "ed261241b497"
     },
     {
-      "id": "66e5a3ef503c",
-      "title": "Why do women live longer than men? Study offers clues to close the gap",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/06/nx-s1-5558184/women-men-longevity-health-life-span",
-      "published_at": "Mon, 06 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• In the U.S",
-        "• women live longer than men, the gap widens to 5.8 years in life expectancy",
-        "• Males are more likely to live longer because they have two X chromosomes",
-        "• The gap is likely to be explained by a combination of factors such as genetics and physical behavior "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In the U.S",
-          "• women live longer than men, the gap widens to 5.8 years in life expectancy"
-        ],
-        "hopeful_bullets": [
-          "• In the U.S",
-          "• women live longer than men, the gap widens to 5.8 years in life expectancy"
-        ],
-        "stakes_bullets": [
-          "• Males are more likely to live longer because they have two X chromosomes"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3e5d564f873c"
-    },
-    {
       "id": "608200d9d98c",
       "title": "A special newsletter to help you save money and pay off credit card debt",
       "outlet": "NPR Topics: News",
@@ -5996,6 +6000,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "eb722d758741"
+    },
+    {
+      "id": "66e5a3ef503c",
+      "title": "Why do women live longer than men? Study offers clues to close the gap",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/06/nx-s1-5558184/women-men-longevity-health-life-span",
+      "published_at": "Mon, 06 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• In the U.S",
+        "• women live longer than men, the gap widens to 5.8 years in life expectancy",
+        "• Males are more likely to live longer because they have two X chromosomes",
+        "• The gap is likely to be explained by a combination of factors such as genetics and physical behavior "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In the U.S",
+          "• women live longer than men, the gap widens to 5.8 years in life expectancy"
+        ],
+        "hopeful_bullets": [
+          "• In the U.S",
+          "• women live longer than men, the gap widens to 5.8 years in life expectancy"
+        ],
+        "stakes_bullets": [
+          "• Males are more likely to live longer because they have two X chromosomes"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3e5d564f873c"
     },
     {
       "id": "dcdbf9cebe5d",
@@ -7488,38 +7525,6 @@
       "cluster_id": "b377ab88a491"
     },
     {
-      "id": "bab6a22abd96",
-      "title": "‘Good Boy’ Review – Man’s Best Friend Leads an Emotionally Affecting Haunted House Tale",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/reviews/3857682/good-boy-review-sxsw/?utm_source=rss&utm_medium=rss&utm_campaign=good-boy-review-sxsw",
-      "published_at": "Fri, 03 Oct 2025 18:30:40 +0000",
-      "bullets": [
-        "• Good Boy is the feature debut by director Ben Leonberg, who co-wrote the script with Alex Cannon",
-        "• Framing the story entirely from the perspective of man's best friend poses unique storytelling challenges but instantly creates a sustained feeling of unease and anxiety over the pup’s wellbeing "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Good Boy is the feature debut by director Ben Leonberg, who co-wrote the script with Alex Cannon",
-          "• Framing the story entirely from the perspective of man's best friend poses unique storytelling challenges but instantly creates a sustained feeling of unease and anxiety over the pup’s wellbeing "
-        ],
-        "hopeful_bullets": [
-          "• Good Boy is the feature debut by director Ben Leonberg, who co-wrote the script with Alex Cannon",
-          "• Framing the story entirely from the perspective of man's best friend poses unique storytelling challenges but instantly creates a sustained feeling of unease and anxiety over the pup’s wellbeing "
-        ],
-        "stakes_bullets": [
-          "• Good Boy is the feature debut by director Ben Leonberg, who co-wrote the script with Alex Cannon",
-          "• Framing the story entirely from the perspective of man's best friend poses unique storytelling challenges but instantly creates a sustained feeling of unease and anxiety over the pup’s wellbeing "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6a183f55804d"
-    },
-    {
       "id": "78045991288e",
       "title": "Hegseth says four killed in US strike on alleged drug boat off Venezuelan coast",
       "outlet": "World news | The Guardian",
@@ -7708,38 +7713,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "d557741f582f"
-    },
-    {
-      "id": "d9999de53eac",
-      "title": "HBO Max subscribers lose access to CNN livestream on November 17",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/10/hbo-max-subscribers-lose-access-to-cnn-livestream-on-november-17/",
-      "published_at": "Fri, 03 Oct 2025 17:30:39 +0000",
-      "bullets": [
-        "• HBO Max subscribers will no longer be able to watch CNN from the streaming platform as of November 17",
-        "• CNN Max launched as an open beta in September 2023",
-        "• The streaming service is supposed to launch this fall and provide access to original CNN programing and journalism "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• HBO Max subscribers will no longer be able to watch CNN from the streaming platform as of November 17",
-          "• CNN Max launched as an open beta in September 2023"
-        ],
-        "hopeful_bullets": [
-          "• HBO Max subscribers will no longer be able to watch CNN from the streaming platform as of November 17",
-          "• CNN Max launched as an open beta in September 2023"
-        ],
-        "stakes_bullets": [
-          "• HBO Max subscribers will no longer be able to watch CNN from the streaming platform as of November 17"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8c64bf0e0887"
     },
     {
       "id": "974880acb9f7",
@@ -9154,6 +9127,24 @@
       ]
     },
     {
+      "id": "1eedd7474a96",
+      "topic": "battle everest get hiker",
+      "keywords": [
+        "battle",
+        "everest",
+        "get",
+        "hiker",
+        "lucky",
+        "out"
+      ],
+      "item_ids": [
+        "72455fc5f431"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "610e8625fc9b",
       "topic": "fast key mediator move",
       "keywords": [
@@ -9292,24 +9283,6 @@
       ],
       "item_ids": [
         "f6a6362b55e0"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "902d136f3f5d",
-      "topic": "andrej babi billionaire party",
-      "keywords": [
-        "andrej",
-        "babi",
-        "billionaire",
-        "party",
-        "populist",
-        "wins"
-      ],
-      "item_ids": [
-        "c3828c598e5e"
       ],
       "outlets": [
         "BBC News"
@@ -9496,6 +9469,24 @@
       ]
     },
     {
+      "id": "6e56d2a18cbc",
+      "topic": "first move negotiator thing",
+      "keywords": [
+        "first",
+        "move",
+        "negotiator",
+        "thing",
+        "trump",
+        "urge"
+      ],
+      "item_ids": [
+        "27b4a8daa163"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "5f77d0a422b8",
       "topic": "bid block deploy judge",
       "keywords": [
@@ -9508,6 +9499,24 @@
       ],
       "item_ids": [
         "185e177f811c"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "68552eff9a44",
+      "topic": "forest logging outcry plot",
+      "keywords": [
+        "forest",
+        "logging",
+        "outcry",
+        "plot",
+        "road",
+        "trump"
+      ],
+      "item_ids": [
+        "90c2844dac8e"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9604,54 +9613,18 @@
       ]
     },
     {
-      "id": "66aa33545243",
-      "topic": "democrat embracing government politic",
+      "id": "bb3f43a96ddb",
+      "topic": "billionaire boom perpetuate system",
       "keywords": [
-        "democrat",
-        "embracing",
-        "government",
-        "politic",
-        "risky",
-        "shutdown"
+        "billionaire",
+        "boom",
+        "perpetuate",
+        "system",
+        "time",
+        "wealth"
       ],
       "item_ids": [
-        "02a10bcbe5f9"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "ca14f987fb8a",
-      "topic": "call chicago kristi noem",
-      "keywords": [
-        "call",
-        "chicago",
-        "kristi",
-        "noem",
-        "war",
-        "zone"
-      ],
-      "item_ids": [
-        "63b70cc726e8"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "2517099d81b2",
-      "topic": "block deployment guard judge",
-      "keywords": [
-        "block",
-        "deployment",
-        "guard",
-        "judge",
-        "national",
-        "oregon"
-      ],
-      "item_ids": [
-        "d6f584803b01"
+        "47a22a8a4e12"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9766,24 +9739,6 @@
       ]
     },
     {
-      "id": "3e5d564f873c",
-      "topic": "live longer men offer",
-      "keywords": [
-        "live",
-        "longer",
-        "men",
-        "offer",
-        "study",
-        "women"
-      ],
-      "item_ids": [
-        "66e5a3ef503c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "eb722d758741",
       "topic": "help money newsletter pay",
       "keywords": [
@@ -9796,6 +9751,24 @@
       ],
       "item_ids": [
         "608200d9d98c"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "3e5d564f873c",
+      "topic": "live longer men offer",
+      "keywords": [
+        "live",
+        "longer",
+        "men",
+        "offer",
+        "study",
+        "women"
+      ],
+      "item_ids": [
+        "66e5a3ef503c"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9835,6 +9808,24 @@
       ],
       "outlets": [
         "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "d3bf43dc5bd5",
+      "topic": "amd look openai skyrocket",
+      "keywords": [
+        "amd",
+        "look",
+        "openai",
+        "skyrocket",
+        "stock",
+        "take"
+      ],
+      "item_ids": [
+        "a6fcf77740a6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
       ]
     },
     {
@@ -10002,21 +9993,57 @@
       ]
     },
     {
-      "id": "448fba935d65",
-      "topic": "high hit japan record",
+      "id": "c0348881405d",
+      "topic": "even future get kids",
       "keywords": [
-        "high",
-        "hit",
-        "japan",
-        "record",
-        "sanae",
-        "stock"
+        "even",
+        "future",
+        "get",
+        "kids",
+        "stem",
+        "uncertain"
       ],
       "item_ids": [
-        "22e0531d13ee"
+        "b3e7a4716618"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
+      ]
+    },
+    {
+      "id": "f6f017a8ace0",
+      "topic": "autism cause conclude condition",
+      "keywords": [
+        "autism",
+        "cause",
+        "conclude",
+        "condition",
+        "scientist",
+        "single"
+      ],
+      "item_ids": [
+        "90d20b8333ff"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "86c2e5bf4ff6",
+      "topic": "culture lean leftist right",
+      "keywords": [
+        "culture",
+        "lean",
+        "leftist",
+        "right",
+        "some",
+        "warrior"
+      ],
+      "item_ids": [
+        "81f70949b494"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10139,57 +10166,6 @@
       ],
       "item_ids": [
         "fb4804a1450d"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "ef31d8c95468",
-      "topic": "form mystery quasicrystal",
-      "keywords": [
-        "form",
-        "mystery",
-        "quasicrystal"
-      ],
-      "item_ids": [
-        "77b010777688"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "fc6a833cacf3",
-      "topic": "best cube every kind",
-      "keywords": [
-        "best",
-        "cube",
-        "every",
-        "kind",
-        "packing",
-        "trip"
-      ],
-      "item_ids": [
-        "4e87801a0c6d"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "ced7ebd83e11",
-      "topic": "air best cool dehumidifier",
-      "keywords": [
-        "air",
-        "best",
-        "cool",
-        "dehumidifier",
-        "dry",
-        "home"
-      ],
-      "item_ids": [
-        "9b80ec67b886"
       ],
       "outlets": [
         "WIRED"
@@ -10372,6 +10348,23 @@
       ]
     },
     {
+      "id": "fbc94aa22622",
+      "topic": "endurance here real reason",
+      "keywords": [
+        "endurance",
+        "here",
+        "real",
+        "reason",
+        "sank"
+      ],
+      "item_ids": [
+        "b9a67bd96ce5"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "31d72793449d",
       "topic": "contract figure pentagon show",
       "keywords": [
@@ -10528,24 +10521,6 @@
       ],
       "item_ids": [
         "4a0114590626"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "8c64bf0e0887",
-      "topic": "acces cnn hbo lose",
-      "keywords": [
-        "acces",
-        "cnn",
-        "hbo",
-        "lose",
-        "max",
-        "subscriber"
-      ],
-      "item_ids": [
-        "d9999de53eac"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10873,6 +10848,24 @@
       ]
     },
     {
+      "id": "bf70ef3fe07b",
+      "topic": "block deployment guard judge",
+      "keywords": [
+        "block",
+        "deployment",
+        "guard",
+        "judge",
+        "national",
+        "oregon"
+      ],
+      "item_ids": [
+        "36175e393571"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "1378b877b88a",
       "topic": "department education federal partisan",
       "keywords": [
@@ -10957,24 +10950,6 @@
       ],
       "item_ids": [
         "56b480edb452"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "5f0e4684a5d8",
-      "topic": "confidence driving president trump",
-      "keywords": [
-        "confidence",
-        "driving",
-        "president",
-        "trump",
-        "ukraine",
-        "war"
-      ],
-      "item_ids": [
-        "0f5fe5e0599c"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11235,24 +11210,6 @@
       ],
       "item_ids": [
         "c5c56d05f342"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "89e8b67d17bb",
-      "topic": "arizona border slicing through",
-      "keywords": [
-        "arizona",
-        "border",
-        "slicing",
-        "through",
-        "wall",
-        "wildlife"
-      ],
-      "item_ids": [
-        "b7c9170b770a"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11630,6 +11587,24 @@
       ]
     },
     {
+      "id": "7bdb1d87395b",
+      "topic": "announced backroom demo lost",
+      "keywords": [
+        "announced",
+        "backroom",
+        "demo",
+        "lost",
+        "runner",
+        "steam"
+      ],
+      "item_ids": [
+        "d2e2d7135e2a"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "1bd06a69c5f3",
       "topic": "based medical play roulette",
       "keywords": [
@@ -11786,24 +11761,6 @@
       ],
       "item_ids": [
         "934495c0761d"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "6a183f55804d",
-      "topic": "best boy friend good",
-      "keywords": [
-        "best",
-        "boy",
-        "friend",
-        "good",
-        "man",
-        "review"
-      ],
-      "item_ids": [
-        "bab6a22abd96"
       ],
       "outlets": [
         "Bloody Disgusting!"
