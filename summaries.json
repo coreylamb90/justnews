@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T06:15:01Z",
+  "generated_at": "2025-10-06T07:09:33Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2408,40 +2408,6 @@
       "cluster_id": "2517099d81b2"
     },
     {
-      "id": "72455fc5f431",
-      "title": "Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 05 Oct 2025 19:28:48 GMT",
-      "bullets": [
-        "• Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
-        "• Hundreds of local villagers and rescue teams have been deployed to clear out snow blocking access to the area",
-        "• About 350 people have been rescued and guided to safety to the small township of Qudang town "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.637
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
-          "• Hundreds of local villagers and rescue teams have been deployed to clear out snow blocking access to the area"
-        ],
-        "hopeful_bullets": [
-          "• Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
-          "• Hundreds of local villagers and rescue teams have been deployed to clear out snow blocking access to the area"
-        ],
-        "stakes_bullets": [
-          "• Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
-          "• Hundreds of local villagers and rescue teams have been deployed to clear out snow blocking access to the area",
-          "• About 350 people have been rescued and guided to safety to the small township of Qudang town "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0cd0974c7c81"
-    },
-    {
       "id": "f809d9c29a21",
       "title": "Federal workers sue Education Department over partisan shutdown emails",
       "outlet": "NPR Topics: News",
@@ -2773,40 +2739,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ca14f987fb8a"
-    },
-    {
-      "id": "e8e19ca935fb",
-      "title": "Taylor Swift's 'The Life of a Showgirl' album release party snares $33 million domestically",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/05/taylor-swifts-the-life-of-a-showgirl-album-release-party-box-office.html",
-      "published_at": "Sun, 05 Oct 2025 15:17:22 GMT",
-      "bullets": [
-        "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-        "• The three-day event tallied an estimated $33 million domestically",
-        "• Internationally, the film snared $13 million, bringing the estimated global box office total to $46 million "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-          "• The three-day event tallied an estimated $33 million domestically"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-          "• The three-day event tallied an estimated $33 million domestically"
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-          "• The three-day event tallied an estimated $33 million domestically",
-          "• Internationally, the film snared $13 million, bringing the estimated global box office total to $46 million "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "15ee40d575bf"
     },
     {
       "id": "2839fba649fa",
@@ -3242,28 +3174,28 @@
       "published_at": "Sun, 05 Oct 2025 12:22:35 GMT",
       "bullets": [
         "• Five people killed in large Russian missile and drone attack, Zelensky says",
-        "• Ukraine's president says Russia fired more than 50 missiles and around 500 attack drones",
-        "• Poland scrambled fighter jets in order to ensure safety of Polish airspace",
-        "• Russia's defence ministry said it had successfully carried out a \"massive\" strike on Ukrainian military and infrastructure targets "
+        "• Attacks mostly targeted western region of Lviv",
+        "• Ukraine's air force put the combined figure at 549",
+        "• Russia's defence ministry said it had successfully carried out a \"massive\" strike "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.936
+        "score": 0.844
       },
       "moods": {
         "brief_bullets": [
           "• Five people killed in large Russian missile and drone attack, Zelensky says",
-          "• Ukraine's president says Russia fired more than 50 missiles and around 500 attack drones"
+          "• Attacks mostly targeted western region of Lviv"
         ],
         "hopeful_bullets": [
           "• Five people killed in large Russian missile and drone attack, Zelensky says",
-          "• Ukraine's president says Russia fired more than 50 missiles and around 500 attack drones"
+          "• Attacks mostly targeted western region of Lviv"
         ],
         "stakes_bullets": [
           "• Five people killed in large Russian missile and drone attack, Zelensky says",
-          "• Ukraine's president says Russia fired more than 50 missiles and around 500 attack drones",
-          "• Poland scrambled fighter jets in order to ensure safety of Polish airspace"
+          "• Attacks mostly targeted western region of Lviv",
+          "• Ukraine's air force put the combined figure at 549"
         ]
       },
       "read_minutes": 3,
@@ -4233,6 +4165,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "634aa570a99e"
+    },
+    {
+      "id": "3b6a43bd558d",
+      "title": "Syria holds first elections since Assad, but not in all provinces",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrpx1vvr45o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 05 Oct 2025 00:04:50 GMT",
+      "bullets": [
+        "• There will be no direct vote for the People's Assembly, which will be responsible for legislation during a transitional period",
+        "• Instead, \"electoral colleges\" will select representatives for two-thirds of the 210 seats",
+        "• Interim President Ahmed al-Sharaa will appoint the rest of the rest "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There will be no direct vote for the People's Assembly, which will be responsible for legislation during a transitional period",
+          "• Instead, \"electoral colleges\" will select representatives for two-thirds of the 210 seats"
+        ],
+        "hopeful_bullets": [
+          "• There will be no direct vote for the People's Assembly, which will be responsible for legislation during a transitional period",
+          "• Instead, \"electoral colleges\" will select representatives for two-thirds of the 210 seats"
+        ],
+        "stakes_bullets": [
+          "• There will be no direct vote for the People's Assembly, which will be responsible for legislation during a transitional period",
+          "• Instead, \"electoral colleges\" will select representatives for two-thirds of the 210 seats",
+          "• Interim President Ahmed al-Sharaa will appoint the rest of the rest "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7e45b4a33332"
     },
     {
       "id": "c1fa9628700b",
@@ -5356,6 +5322,40 @@
       "cluster_id": "27e11735b359"
     },
     {
+      "id": "ee2b2cf6674e",
+      "title": "'The system is rigged': Founders and VCs weigh in on the UK's ambition deficit",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/04/founders-and-vcs-weigh-in-on-the-uks-ambition-deficit.html",
+      "published_at": "Sat, 04 Oct 2025 01:17:25 GMT",
+      "bullets": [
+        "• U.K",
+        "• Business Secretary Peter Kyle criticized British university students for lacking the same interest in starting a business as their American peers",
+        "• He said: \"The entrepreneurialism simply isn't there – the drive, the vigour\" Almost 60% of young British people were interested in starting their own business, according to a recent study "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.K",
+          "• Business Secretary Peter Kyle criticized British university students for lacking the same interest in starting a business as their American peers"
+        ],
+        "hopeful_bullets": [
+          "• U.K",
+          "• Business Secretary Peter Kyle criticized British university students for lacking the same interest in starting a business as their American peers"
+        ],
+        "stakes_bullets": [
+          "• U.K",
+          "• Business Secretary Peter Kyle criticized British university students for lacking the same interest in starting a business as their American peers",
+          "• He said: \"The entrepreneurialism simply isn't there – the drive, the vigour\" Almost 60% of young British people were interested in starting their own business, according to a recent study "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "add4edb0adfc"
+    },
+    {
       "id": "4d4ffcc6ddf0",
       "title": "50 Cent Celebrates Taylor Swift’s Shoutout on ‘Popping’ Album ‘Life of a Showgirl’",
       "outlet": "Music News",
@@ -5794,6 +5794,40 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "57a17774b46f",
+      "title": "Trump sends troops from California to Portland after court denies deployment",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 06 Oct 2025 05:51:39 GMT",
+      "bullets": [
+        "• Trump sends troops from California to Portland after court denies deployment",
+        "• Deployment circumvents a judge's order blocking the deployment by using National Guard soldiers already serving in Los Angeles",
+        "• California Governor Gavin Newsom vows to file a lawsuit over the move, calling it a 'breathtaking abuse of the law'"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.82
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump sends troops from California to Portland after court denies deployment",
+          "• Deployment circumvents a judge's order blocking the deployment by using National Guard soldiers already serving in Los Angeles"
+        ],
+        "hopeful_bullets": [
+          "• Trump sends troops from California to Portland after court denies deployment",
+          "• Deployment circumvents a judge's order blocking the deployment by using National Guard soldiers already serving in Los Angeles"
+        ],
+        "stakes_bullets": [
+          "• Trump sends troops from California to Portland after court denies deployment",
+          "• Deployment circumvents a judge's order blocking the deployment by using National Guard soldiers already serving in Los Angeles",
+          "• California Governor Gavin Newsom vows to file a lawsuit over the move, calling it a 'breathtaking abuse of the law'"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "02d0a47f0417"
+    },
+    {
       "id": "0cdddd671218",
       "title": "Leonardo DiCaprio's One Battle After Another Reaches $100 Million at the Box Office",
       "outlet": "CBR",
@@ -5932,30 +5966,28 @@
       "published_at": "Mon, 06 Oct 2025 04:00:38 GMT",
       "bullets": [
         "• Australia signs key defence deal with Papua New Guinea",
-        "• The deal will see both nations come to each other's defence if either is under attack",
+        "• Deal is aimed at countering China's growing influence in the region",
         "• It will allow as many as 10,000 Papua New Guineans to serve in Australia's military",
-        "• It comes as China's influence in the Pacific grows "
+        "• Australia and its Western allies have been attempting to counter these efforts "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.98
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
           "• Australia signs key defence deal with Papua New Guinea",
-          "• The deal will see both nations come to each other's defence if either is under attack"
+          "• Deal is aimed at countering China's growing influence in the region"
         ],
         "hopeful_bullets": [
-          "• Australia signs key defence deal with Papua New Guinea",
-          "• The deal will see both nations come to each other's defence if either is under attack"
+          "• Deal is aimed at countering China's growing influence in the region"
         ],
         "stakes_bullets": [
-          "• The deal will see both nations come to each other's defence if either is under attack",
           "• It will allow as many as 10,000 Papua New Guineans to serve in Australia's military"
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "20b429978823"
     },
     {
@@ -6423,40 +6455,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "cb0c13620b76"
-    },
-    {
-      "id": "57a17774b46f",
-      "title": "Trump sends troops from California to Portland after court denies deployment",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 06 Oct 2025 00:24:34 GMT",
-      "bullets": [
-        "• Trump sends troops from California to Portland after court denies deployment",
-        "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles",
-        "• California Gov Gavin Newsom vows to file a lawsuit over the manoeuvre "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump sends troops from California to Portland after court denies deployment",
-          "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles"
-        ],
-        "hopeful_bullets": [
-          "• Trump sends troops from California to Portland after court denies deployment",
-          "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles"
-        ],
-        "stakes_bullets": [
-          "• Trump sends troops from California to Portland after court denies deployment",
-          "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles",
-          "• California Gov Gavin Newsom vows to file a lawsuit over the manoeuvre "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "02d0a47f0417"
     },
     {
       "id": "3525ffa3e2e7",
@@ -8238,7 +8236,7 @@
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "15ee40d575bf"
+      "cluster_id": "ddb579c5d63a"
     },
     {
       "id": "0f4676391c74",
@@ -9197,24 +9195,6 @@
       ]
     },
     {
-      "id": "0cd0974c7c81",
-      "topic": "000 effort people rescue",
-      "keywords": [
-        "000",
-        "effort",
-        "people",
-        "rescue",
-        "under",
-        "way"
-      ],
-      "item_ids": [
-        "72455fc5f431"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "02d0a47f0417",
       "topic": "california court portland send",
       "keywords": [
@@ -9317,6 +9297,24 @@
       ],
       "item_ids": [
         "9ac278689240"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "7e45b4a33332",
+      "topic": "assad election first hold",
+      "keywords": [
+        "assad",
+        "election",
+        "first",
+        "hold",
+        "since",
+        "syria"
+      ],
+      "item_ids": [
+        "3b6a43bd558d"
       ],
       "outlets": [
         "BBC News"
@@ -9932,18 +9930,18 @@
       ]
     },
     {
-      "id": "d47ac0b4d801",
-      "topic": "absolutely end great review",
+      "id": "add4edb0adfc",
+      "topic": "ambition founder rigged system",
       "keywords": [
-        "absolutely",
-        "end",
-        "great",
-        "review",
-        "time",
-        "year"
+        "ambition",
+        "founder",
+        "rigged",
+        "system",
+        "vcs",
+        "weigh"
       ],
       "item_ids": [
-        "e144d052bf10"
+        "ee2b2cf6674e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9986,6 +9984,24 @@
       ]
     },
     {
+      "id": "d47ac0b4d801",
+      "topic": "absolutely end great review",
+      "keywords": [
+        "absolutely",
+        "end",
+        "great",
+        "review",
+        "time",
+        "year"
+      ],
+      "item_ids": [
+        "e144d052bf10"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "cb046f0bf6d5",
       "topic": "america backyard market nuclear",
       "keywords": [
@@ -9999,26 +10015,6 @@
         "5422adedb79f"
       ],
       "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "15ee40d575bf",
-      "topic": "album life release showgirl",
-      "keywords": [
-        "album",
-        "life",
-        "release",
-        "showgirl",
-        "swift",
-        "taylor"
-      ],
-      "item_ids": [
-        "e8e19ca935fb",
-        "e95aebdd20a0"
-      ],
-      "outlets": [
-        "RSS: News",
         "US Top News and Analysis"
       ]
     },
@@ -13715,6 +13711,24 @@
       ],
       "item_ids": [
         "26f1c2affb5b"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
+      "id": "ddb579c5d63a",
+      "topic": "album life release showgirl",
+      "keywords": [
+        "album",
+        "life",
+        "release",
+        "showgirl",
+        "swift",
+        "taylor"
+      ],
+      "item_ids": [
+        "e95aebdd20a0"
       ],
       "outlets": [
         "RSS: News"
