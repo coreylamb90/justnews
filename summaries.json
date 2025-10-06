@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T12:11:15Z",
+  "generated_at": "2025-10-06T13:25:04Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -1778,40 +1778,6 @@
       "cluster_id": "090e058add85"
     },
     {
-      "id": "f1cd0eb19554",
-      "title": "Republican Carlos De La Cruz announces run for redrawn 35th Congressional District",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17176228/carlos-de-la-cruz-congress-35th-district-republican-primary-campaign",
-      "published_at": "Thu, 02 Oct 2025 11:00:38 -0500",
-      "bullets": [
-        "• Carlos De La Cruz is running for Texas' newly redrawn 35th Congressional District",
-        "• The district is one of five that was redrawn to favor the GOP during state redistricting",
-        "• Under the new map, the district no longer includes any of Austin and is now concentrated in San Antonio "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Carlos De La Cruz is running for Texas' newly redrawn 35th Congressional District",
-          "• The district is one of five that was redrawn to favor the GOP during state redistricting"
-        ],
-        "hopeful_bullets": [
-          "• Carlos De La Cruz is running for Texas' newly redrawn 35th Congressional District",
-          "• The district is one of five that was redrawn to favor the GOP during state redistricting"
-        ],
-        "stakes_bullets": [
-          "• Carlos De La Cruz is running for Texas' newly redrawn 35th Congressional District",
-          "• The district is one of five that was redrawn to favor the GOP during state redistricting",
-          "• Under the new map, the district no longer includes any of Austin and is now concentrated in San Antonio "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5bf2abbc0acc"
-    },
-    {
       "id": "3befcbe95b03",
       "title": "‘We are the last hope’: Gen Z Madagascar vows to fight on until president resigns",
       "outlet": "World news | The Guardian",
@@ -2259,25 +2225,27 @@
       "published_at": "Sun, 05 Oct 2025 17:49:51 -0400",
       "bullets": [
         "• Federal judge again blocks National Guard deployment to Oregon",
-        "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
+        "• It came hours after the government dispatched California National Guard members to Oregon",
+        "• Oregon and Chicago were preparing for the possibility that National Guards would be deployed to their streets",
+        "• President Trump is moving ahead with his plan to send troops to Democratic-run U.S",
+        "• cities "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.978
       },
       "moods": {
         "brief_bullets": [
           "• Federal judge again blocks National Guard deployment to Oregon",
-          "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
+          "• It came hours after the government dispatched California National Guard members to Oregon"
         ],
         "hopeful_bullets": [
           "• Federal judge again blocks National Guard deployment to Oregon",
-          "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
+          "• It came hours after the government dispatched California National Guard members to Oregon"
         ],
         "stakes_bullets": [
-          "• Federal judge again blocks National Guard deployment to Oregon",
-          "• Judge: \"I am certainly troubled by now hearing that both California and Texas are being sent to Oregon\" On Saturday, the White House said it \"authorized\" the deployment of 300 Illinois National Guard members "
+          "• President Trump is moving ahead with his plan to send troops to Democratic-run U.S"
         ]
       },
       "read_minutes": 4,
@@ -2382,70 +2350,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "787a52591c19"
-    },
-    {
-      "id": "566e2af045f5",
-      "title": "'There will start to be layoffs' if Trump decides shutdown talks have stalled, Hassett says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/05/trump-layoffs-government-shutdown-kevin-hassett-.html",
-      "published_at": "Sun, 05 Oct 2025 16:08:21 GMT",
-      "bullets": [
-        "• Kevin Hassett says government shutdown negotiations \"are absolutely going nowhere\" The White House is \"hopeful\" that Democrats will \"see that it's just common sense to avoid layoffs like that,\" Hassett said",
-        "• The shutdown enters its fifth day, with no clear offramp in sight "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.751
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kevin Hassett says government shutdown negotiations \"are absolutely going nowhere\" The White House is \"hopeful\" that Democrats will \"see that it's just common sense to avoid layoffs like that,\" Hassett said",
-          "• The shutdown enters its fifth day, with no clear offramp in sight "
-        ],
-        "hopeful_bullets": [
-          "• Kevin Hassett says government shutdown negotiations \"are absolutely going nowhere\" The White House is \"hopeful\" that Democrats will \"see that it's just common sense to avoid layoffs like that,\" Hassett said"
-        ],
-        "stakes_bullets": [
-          "• Kevin Hassett says government shutdown negotiations \"are absolutely going nowhere\" The White House is \"hopeful\" that Democrats will \"see that it's just common sense to avoid layoffs like that,\" Hassett said"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "73be22740d9b"
-    },
-    {
-      "id": "e8e19ca935fb",
-      "title": "Taylor Swift's 'The Life of a Showgirl' album release party snares $33 million domestically",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/05/taylor-swifts-the-life-of-a-showgirl-album-release-party-box-office.html",
-      "published_at": "Sun, 05 Oct 2025 15:17:22 GMT",
-      "bullets": [
-        "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-        "• The three-day event tallied an estimated $33 million domestically",
-        "• Internationally, the film snared $13 million, bringing the estimated global box office total to $46 million "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-          "• The three-day event tallied an estimated $33 million domestically"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-          "• The three-day event tallied an estimated $33 million domestically"
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift brought a 90-minute movie to cinemas for one weekend only to celebrate the release of her album",
-          "• The three-day event tallied an estimated $33 million domestically",
-          "• Internationally, the film snared $13 million, bringing the estimated global box office total to $46 million "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "15ee40d575bf"
     },
     {
       "id": "18ebad23cc43",
@@ -2615,37 +2519,6 @@
       "cluster_id": "99063a789edc"
     },
     {
-      "id": "69cf039ab873",
-      "title": "Investors aren't the market's biggest loser if Trump, SEC end quarterly reporting",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/05/trump-sec-quarterly-earnings-reports-accounting-firms.html",
-      "published_at": "Sun, 05 Oct 2025 13:06:30 GMT",
-      "bullets": [
-        "• President Trump wants to end the mandate that public companies file quarterly reports",
-        "• With semi-annual reports, companies could theoretically halve the considerable costs and labor associated with filing such reports",
-        "• The independent, outside accounting firms, in particular the \"Big Four\" that help prepare them stand to lose a major portion of their audit business "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump wants to end the mandate that public companies file quarterly reports",
-          "• With semi-annual reports, companies could theoretically halve the considerable costs and labor associated with filing such reports"
-        ],
-        "hopeful_bullets": [
-          "• The independent, outside accounting firms, in particular the \"Big Four\" that help prepare them stand to lose a major portion of their audit business "
-        ],
-        "stakes_bullets": [
-          "• With semi-annual reports, companies could theoretically halve the considerable costs and labor associated with filing such reports"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "7f650f2c585b"
-    },
-    {
       "id": "5ab8444244bd",
       "title": "See Sabrina Carpenter Bring Out Shania Twain at Austin City Limits Festival",
       "outlet": "Music News",
@@ -2737,73 +2610,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "105408026e0f"
-    },
-    {
-      "id": "46ccd82cd311",
-      "title": "Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/",
-      "published_at": "Sun, 05 Oct 2025 11:36:00 +0000",
-      "bullets": [
-        "• This is the best (and kinda the only) actual deal I've seen on the Ninja Slushi",
-        "• The Slushi has been an unbridled hit since it first came out (then promptly sold out) last year",
-        "• It's among the most exciting and surprising early Prime Day deals "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This is the best (and kinda the only) actual deal I've seen on the Ninja Slushi",
-          "• The Slushi has been an unbridled hit since it first came out (then promptly sold out) last year"
-        ],
-        "hopeful_bullets": [
-          "• This is the best (and kinda the only) actual deal I've seen on the Ninja Slushi",
-          "• The Slushi has been an unbridled hit since it first came out (then promptly sold out) last year"
-        ],
-        "stakes_bullets": [
-          "• This is the best (and kinda the only) actual deal I've seen on the Ninja Slushi",
-          "• The Slushi has been an unbridled hit since it first came out (then promptly sold out) last year",
-          "• It's among the most exciting and surprising early Prime Day deals "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a1e6163b529f"
-    },
-    {
-      "id": "d6f192b8b9d2",
-      "title": "8 Best Space Heaters (2025): Tested, Measured, and Mistreated",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/the-best-space-heaters/",
-      "published_at": "Sun, 05 Oct 2025 11:34:00 +0000",
-      "bullets": [
-        "• Best space heaters are winter’s rear guard, the last line of defense against goose bumps and cold feet",
-        "• Safety and reliability are prime concerns, and so is dodgy and opaque marketing about “Hyperamics” or whatever-wave technology",
-        "• The Dreo Whole Room Heater 714 ($100) is our top pick "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.617
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Best space heaters are winter’s rear guard, the last line of defense against goose bumps and cold feet",
-          "• Safety and reliability are prime concerns, and so is dodgy and opaque marketing about “Hyperamics” or whatever-wave technology"
-        ],
-        "hopeful_bullets": [
-          "• Best space heaters are winter’s rear guard, the last line of defense against goose bumps and cold feet"
-        ],
-        "stakes_bullets": [
-          "• Best space heaters are winter’s rear guard, the last line of defense against goose bumps and cold feet",
-          "• Safety and reliability are prime concerns, and so is dodgy and opaque marketing about “Hyperamics” or whatever-wave technology",
-          "• The Dreo Whole Room Heater 714 ($100) is our top pick "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "ef907071edf8"
     },
     {
       "id": "3a25341145b2",
@@ -3510,34 +3316,6 @@
       "cluster_id": "04aa44caa091"
     },
     {
-      "id": "dbb4ea8a7242",
-      "title": "This new semaglutide dose helped nearly half of patients lose 20% body weight",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092913.htm",
-      "published_at": "Sat, 04 Oct 2025 23:27:00 EDT",
-      "bullets": [
-        "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.829
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
-        ],
-        "hopeful_bullets": [
-          "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
-        ],
-        "stakes_bullets": [
-          "• A higher weekly dose of semaglutide (7.2 mg) can significantly improve weight loss and related health outcomes in adults living with obesity, including those with type 2 diabetes (T2D) Researchers say this could reshape obesity treatment if confirmed in longer-term studies "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "98bd0f96c944"
-    },
-    {
       "id": "f388bb7d341e",
       "title": "‘Good Boy’ Director Ben Leonberg And Indy Talk Their Creepy New Horror Movie: “From Indy’s Perspective, It’s A Love Story”",
       "outlet": "Dread Central",
@@ -3775,27 +3553,27 @@
       "url": "https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/",
       "published_at": "Sat, 04 Oct 2025 13:21:55 +0000",
       "bullets": [
-        "• Immigration and Customs Enforcement plans to use social media to gather information for enforcement raids",
-        "• The plan is still at the request-for-information stage, a step used to gauge interest from contractors",
-        "• The program envisions stationing nearly 30 private contractors at two facilities in Vermont and California "
+        "• U.S",
+        "• immigration authorities are moving to dramatically expand their social media surveillance",
+        "• The program envisions stationing nearly 30 private analysts at Immigration and Customs Enforcement facilities in Vermont and Southern California",
+        "• The initiative is still at the request-for-information stage, a step agencies use to gauge interest from contractors before an official bidding process "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.863
       },
       "moods": {
         "brief_bullets": [
-          "• Immigration and Customs Enforcement plans to use social media to gather information for enforcement raids",
-          "• The plan is still at the request-for-information stage, a step used to gauge interest from contractors"
+          "• U.S",
+          "• immigration authorities are moving to dramatically expand their social media surveillance"
         ],
         "hopeful_bullets": [
-          "• Immigration and Customs Enforcement plans to use social media to gather information for enforcement raids",
-          "• The plan is still at the request-for-information stage, a step used to gauge interest from contractors"
+          "• U.S",
+          "• immigration authorities are moving to dramatically expand their social media surveillance"
         ],
         "stakes_bullets": [
-          "• Immigration and Customs Enforcement plans to use social media to gather information for enforcement raids",
-          "• The plan is still at the request-for-information stage, a step used to gauge interest from contractors"
+          "• immigration authorities are moving to dramatically expand their social media surveillance"
         ]
       },
       "read_minutes": 1,
@@ -3900,37 +3678,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "67b60e3d651b"
-    },
-    {
-      "id": "e144d052bf10",
-      "title": "Year end is 'absolutely a great time' to review your finances, CFP says: Here's what to do",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/04/key-financial-steps-for-the-end-of-the-year.html",
-      "published_at": "Sat, 04 Oct 2025 11:30:02 GMT",
-      "bullets": [
-        "• Early in the fourth quarter is an ideal time to tackle some financial planning tasks that set you up for success for the rest of the year",
-        "• Now is also a good time to prepare your budget for the upcoming holiday season to make sure you start off the new year without financial stress "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Early in the fourth quarter is an ideal time to tackle some financial planning tasks that set you up for success for the rest of the year",
-          "• Now is also a good time to prepare your budget for the upcoming holiday season to make sure you start off the new year without financial stress "
-        ],
-        "hopeful_bullets": [
-          "• Early in the fourth quarter is an ideal time to tackle some financial planning tasks that set you up for success for the rest of the year",
-          "• Now is also a good time to prepare your budget for the upcoming holiday season to make sure you start off the new year without financial stress "
-        ],
-        "stakes_bullets": [
-          "• Early in the fourth quarter is an ideal time to tackle some financial planning tasks that set you up for success for the rest of the year"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d47ac0b4d801"
     },
     {
       "id": "52bb349e624d",
@@ -4566,6 +4313,606 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "caa167b345ae",
+      "title": "Black Phone 2 Director Teases Fans of Original Are in For a Scarier Sequel",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/black-phone-2-scott-derrickson-scarier-sequel/",
+      "published_at": "Mon, 06 Oct 2025 13:14:52 GMT",
+      "bullets": [
+        "• Scott Derrickson said fans of the original are in for a much scarier sequel",
+        "• The Black Phone 2 will be more frightening because the audience has grown up with the story",
+        "• The director said he wanted to do a high school movie because it has more interesting emotional stakes "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scott Derrickson said fans of the original are in for a much scarier sequel",
+          "• The Black Phone 2 will be more frightening because the audience has grown up with the story"
+        ],
+        "hopeful_bullets": [
+          "• Scott Derrickson said fans of the original are in for a much scarier sequel",
+          "• The Black Phone 2 will be more frightening because the audience has grown up with the story"
+        ],
+        "stakes_bullets": [
+          "• The Black Phone 2 will be more frightening because the audience has grown up with the story",
+          "• The director said he wanted to do a high school movie because it has more interesting emotional stakes "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fa4f911790d2"
+    },
+    {
+      "id": "9f49e36ff078",
+      "title": "This MCU Star Wants to Play the Joker in DCU, and We’re All In",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mcu-star-chukwudi-iwuji-joker-comments/",
+      "published_at": "Mon, 06 Oct 2025 13:05:52 GMT",
+      "bullets": [
+        "• Marvel Cinematic Universe star Chukwudi Iwuji wants to play The Joker",
+        "• He talked about the role in Guardians of the Galaxy Vol",
+        "• 3 and DC's Peacemaker",
+        "• He also talked about Heath Ledger's portrayal of the character "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.863
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marvel Cinematic Universe star Chukwudi Iwuji wants to play The Joker",
+          "• He talked about the role in Guardians of the Galaxy Vol"
+        ],
+        "hopeful_bullets": [
+          "• Marvel Cinematic Universe star Chukwudi Iwuji wants to play The Joker",
+          "• He talked about the role in Guardians of the Galaxy Vol"
+        ],
+        "stakes_bullets": [
+          "• Marvel Cinematic Universe star Chukwudi Iwuji wants to play The Joker",
+          "• He talked about the role in Guardians of the Galaxy Vol",
+          "• 3 and DC's Peacemaker"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5b3f085c9ebf"
+    },
+    {
+      "id": "a995df86165a",
+      "title": "Jon Gries Unleashes Body Horror in First-Person Found Footage ‘Solvet’ Clip [Exclusive]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/exclusives/3906563/solvet-clip-jon-gries-unleashes-body-horror-through-first-person-found-footage-exclusive/?utm_source=rss&utm_medium=rss&utm_campaign=solvet-clip-jon-gries-unleashes-body-horror-through-first-person-found-footage-exclusive",
+      "published_at": "Mon, 06 Oct 2025 13:01:55 +0000",
+      "bullets": [
+        "• The first-person found footage body horror odyssey hits VOD on October 10 via Film Movement",
+        "• The Austrian production is directed by Johannes Grenzfurthner from a script he co-wrote with Benjamin Roberts",
+        "• An American expat joins a team of experts searching an abandoned Austrian farmhouse "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first-person found footage body horror odyssey hits VOD on October 10 via Film Movement",
+          "• The Austrian production is directed by Johannes Grenzfurthner from a script he co-wrote with Benjamin Roberts"
+        ],
+        "hopeful_bullets": [
+          "• The first-person found footage body horror odyssey hits VOD on October 10 via Film Movement",
+          "• The Austrian production is directed by Johannes Grenzfurthner from a script he co-wrote with Benjamin Roberts"
+        ],
+        "stakes_bullets": [
+          "• An American expat joins a team of experts searching an abandoned Austrian farmhouse "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4f81f17b85cd"
+    },
+    {
+      "id": "299cf46ecff2",
+      "title": "Beauty & the Beast Bill Condon Addresses Controversial LeFou Moment",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/disney-beauty-the-beast-bill-condon-lefou-gay-moment/",
+      "published_at": "Mon, 06 Oct 2025 13:00:12 GMT",
+      "bullets": [
+        "• Beauty and the Beast director Bill Condon says he 'loved' some of the backlash",
+        "• He also talked about the controversy that arose after he mentioned there was a \"gay moment\" in the film",
+        "• Condon: \"It was always meant to be a grace note, but suddenly it sounded as if I was pretending to be breaking barriers\""
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.931
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Beauty and the Beast director Bill Condon says he 'loved' some of the backlash",
+          "• He also talked about the controversy that arose after he mentioned there was a \"gay moment\" in the film"
+        ],
+        "hopeful_bullets": [
+          "• Beauty and the Beast director Bill Condon says he 'loved' some of the backlash",
+          "• He also talked about the controversy that arose after he mentioned there was a \"gay moment\" in the film"
+        ],
+        "stakes_bullets": [
+          "• Beauty and the Beast director Bill Condon says he 'loved' some of the backlash"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a1ea785dc9a4"
+    },
+    {
+      "id": "65730cf72a1a",
+      "title": "Attack of the Clones Quietly Set Up a Perfect Star Wars Spin-Off Series (And I Can't Believe It Hasn't Been Done Yet)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/star-wars-attack-of-the-clones-lost-twenty/",
+      "published_at": "Mon, 06 Oct 2025 13:00:12 GMT",
+      "bullets": [
+        "• Star Wars: Episode II - Attack of the Clones introduced a piece of lore that would serve as an excellent basis for one such series",
+        "• The busts represent the Lost Twenty, a group of Jedi Masters who had left the Jedi Order over the years",
+        "• In 2026, Star Wars is set to return to theaters with The Mandalorian and Grogu "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Wars: Episode II - Attack of the Clones introduced a piece of lore that would serve as an excellent basis for one such series",
+          "• The busts represent the Lost Twenty, a group of Jedi Masters who had left the Jedi Order over the years"
+        ],
+        "hopeful_bullets": [
+          "• Star Wars: Episode II - Attack of the Clones introduced a piece of lore that would serve as an excellent basis for one such series",
+          "• The busts represent the Lost Twenty, a group of Jedi Masters who had left the Jedi Order over the years"
+        ],
+        "stakes_bullets": [
+          "• Star Wars: Episode II - Attack of the Clones introduced a piece of lore that would serve as an excellent basis for one such series",
+          "• The busts represent the Lost Twenty, a group of Jedi Masters who had left the Jedi Order over the years",
+          "• In 2026, Star Wars is set to return to theaters with The Mandalorian and Grogu "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9d3a24d76a8b"
+    },
+    {
+      "id": "60cf5e0f66e3",
+      "title": "Treasury Secretary Bessent to remain as IRS commissioner after filling role on temporary basis, sources say",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/bessent-to-remain-irs-commissioner-for-trump.html",
+      "published_at": "Mon, 06 Oct 2025 12:58:14 GMT",
+      "bullets": [
+        "• Scott Bessent will remain in his role as commissioner of the Internal Revenue Service",
+        "• New IRS CEO Frank Bisignano is expected to be announced as his top deputy",
+        "• BESSent took over the IRS in August after President Donald Trump removed Billy Long from the post "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.536
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scott Bessent will remain in his role as commissioner of the Internal Revenue Service",
+          "• New IRS CEO Frank Bisignano is expected to be announced as his top deputy"
+        ],
+        "hopeful_bullets": [
+          "• Scott Bessent will remain in his role as commissioner of the Internal Revenue Service",
+          "• New IRS CEO Frank Bisignano is expected to be announced as his top deputy"
+        ],
+        "stakes_bullets": [
+          "• Scott Bessent will remain in his role as commissioner of the Internal Revenue Service",
+          "• New IRS CEO Frank Bisignano is expected to be announced as his top deputy",
+          "• BESSent took over the IRS in August after President Donald Trump removed Billy Long from the post "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "75c94fd335b9"
+    },
+    {
+      "id": "c66449bf1dc8",
+      "title": "Paul Tudor Jones says ingredients are in place for massive rally before a 'blow off' top to bull market",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/paul-tudor-jones-says-ingredients-are-in-place-for-massive-rally-before-a-blow-off-top-to-bull-market.html",
+      "published_at": "Mon, 06 Oct 2025 12:57:11 GMT",
+      "bullets": [
+        "• Paul Tudor Jones: \"All the ingredients are in place for some kind of a blow off\" Jones says the U.S",
+        "• is now running a 6% budget deficit, while in 1999, there was a budget surplus in $99,000",
+        "• Jones shot to fame after he predicted and profited from the 1987 stock market crash "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paul Tudor Jones: \"All the ingredients are in place for some kind of a blow off\" Jones says the U.S",
+          "• is now running a 6% budget deficit, while in 1999, there was a budget surplus in $99,000"
+        ],
+        "hopeful_bullets": [
+          "• Paul Tudor Jones: \"All the ingredients are in place for some kind of a blow off\" Jones says the U.S",
+          "• is now running a 6% budget deficit, while in 1999, there was a budget surplus in $99,000"
+        ],
+        "stakes_bullets": [
+          "• Paul Tudor Jones: \"All the ingredients are in place for some kind of a blow off\" Jones says the U.S",
+          "• is now running a 6% budget deficit, while in 1999, there was a budget surplus in $99,000",
+          "• Jones shot to fame after he predicted and profited from the 1987 stock market crash "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d0265883f537"
+    },
+    {
+      "id": "f4e88a1ed90f",
+      "title": "Verizon names former PayPal boss Dan Schulman as new CEO, replacing Hans Vestberg",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/verizon-ceo-dan-schulman-replaces-hans-vestberg.html",
+      "published_at": "Mon, 06 Oct 2025 12:52:27 GMT",
+      "bullets": [
+        "• Former PayPal CEO Dan Schulman replaces Hans Vestberg, who led the company since 2018",
+        "• Shares of the company rose slightly following the announcement",
+        "• Mark Bertolini will be chairman of the board of directors, Verizon announced Monday",
+        "• Verizon said Vestberg will remain on the board until the 2026 annual meeting "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Former PayPal CEO Dan Schulman replaces Hans Vestberg, who led the company since 2018",
+          "• Shares of the company rose slightly following the announcement"
+        ],
+        "hopeful_bullets": [
+          "• Shares of the company rose slightly following the announcement"
+        ],
+        "stakes_bullets": [
+          "• Mark Bertolini will be chairman of the board of directors, Verizon announced Monday",
+          "• Verizon said Vestberg will remain on the board until the 2026 annual meeting "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a197bc12b9f3"
+    },
+    {
+      "id": "2da137d51ad6",
+      "title": "Eswatini confirms arrival of 10 more people as part of US deportation deal",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/06/us-deportees-eswatini-lawyers-ngos",
+      "published_at": "Mon, 06 Oct 2025 12:44:09 GMT",
+      "bullets": [
+        "• Ten people have arrived in Elandland, South Africa",
+        "• They are the second group of third-country migrants to be sent to the country",
+        "• The group includes three Vietnamese, one Filipino, one Cambodian and four others",
+        "• They will be kept in a secure area while arrangements are made for their return to their countries "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.908
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ten people have arrived in Elandland, South Africa",
+          "• They are the second group of third-country migrants to be sent to the country"
+        ],
+        "hopeful_bullets": [
+          "• Ten people have arrived in Elandland, South Africa",
+          "• They are the second group of third-country migrants to be sent to the country"
+        ],
+        "stakes_bullets": [
+          "• They will be kept in a secure area while arrangements are made for their return to their countries "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c3b117617061"
+    },
+    {
+      "id": "2872f65f47eb",
+      "title": "Mike Novogratz's Galaxy Digital jumps 10% after launching retail trading app to compete against Robinhood",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/novogratzs-galaxy-digital-jumps-10percent-launches-retail-app-to-rival-robinhood.html",
+      "published_at": "Mon, 06 Oct 2025 12:42:06 GMT",
+      "bullets": [
+        "• Galaxy Digital shares jumped about 10% in early trading Monday",
+        "• The digital assets investment firm unveiled a Robinhood-like trading platform, GalaxyOne",
+        "• The platform hosts commission-free buying and selling of more than 2,000 stocks and exchange-traded funds "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.789
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Galaxy Digital shares jumped about 10% in early trading Monday",
+          "• The digital assets investment firm unveiled a Robinhood-like trading platform, GalaxyOne"
+        ],
+        "hopeful_bullets": [
+          "• Galaxy Digital shares jumped about 10% in early trading Monday",
+          "• The digital assets investment firm unveiled a Robinhood-like trading platform, GalaxyOne"
+        ],
+        "stakes_bullets": [
+          "• Galaxy Digital shares jumped about 10% in early trading Monday",
+          "• The digital assets investment firm unveiled a Robinhood-like trading platform, GalaxyOne",
+          "• The platform hosts commission-free buying and selling of more than 2,000 stocks and exchange-traded funds "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0708898ec5d0"
+    },
+    {
+      "id": "00fe944dec30",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "published_at": "Mon, 06 Oct 2025 12:38:56 GMT",
+      "bullets": [
+        "• Wall Street is set to kick off the new trading week with a higher open",
+        "• Cincinnati-based Fifth Third is buying rival regional lender Comerica in a $10.9 billion all-stock deal",
+        "• Bank of America downgraded Shake Shack to sell from hold on margin pressure and competition "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.633
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wall Street is set to kick off the new trading week with a higher open",
+          "• Cincinnati-based Fifth Third is buying rival regional lender Comerica in a $10.9 billion all-stock deal"
+        ],
+        "hopeful_bullets": [
+          "• Wall Street is set to kick off the new trading week with a higher open",
+          "• Cincinnati-based Fifth Third is buying rival regional lender Comerica in a $10.9 billion all-stock deal"
+        ],
+        "stakes_bullets": [
+          "• Cincinnati-based Fifth Third is buying rival regional lender Comerica in a $10.9 billion all-stock deal",
+          "• Bank of America downgraded Shake Shack to sell from hold on margin pressure and competition "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ebb1f714ee3a"
+    },
+    {
+      "id": "185e177f811c",
+      "title": "Judge blocks Trump’s bid to deploy national guard to Oregon – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/06/donald-trump-national-guard-ice-government-shutdown-us-politics-live-news-updates",
+      "published_at": "Mon, 06 Oct 2025 12:38:24 GMT",
+      "bullets": [
+        "• A federal judge has temporarily blocked the use of national troops in the U.S",
+        "• by sending them to Oregon",
+        "• The temporary order will remain in effect until at least 19 October",
+        "• The decision was made by a federal judge on Sunday",
+        "• The judge said there was no evidence that the move was in violation of the law "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A federal judge has temporarily blocked the use of national troops in the U.S",
+          "• by sending them to Oregon"
+        ],
+        "hopeful_bullets": [
+          "• A federal judge has temporarily blocked the use of national troops in the U.S",
+          "• by sending them to Oregon"
+        ],
+        "stakes_bullets": [
+          "• The temporary order will remain in effect until at least 19 October"
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "5f77d0a422b8"
+    },
+    {
+      "id": "9fb4541eda37",
+      "title": "Fifth Third Bancorp to buy Comerica for $10.9 billion in all-stock deal",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/fifth-third-bancorp-to-buy-comerica-for-10point9-billion-in-all-stock-deal.html",
+      "published_at": "Mon, 06 Oct 2025 12:30:04 GMT",
+      "bullets": [
+        "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
+        "• The deal will create the ninth-largest U.S",
+        "• bank with roughly $288 billion in assets",
+        "• The transaction is expected to finalize in the first quarter of 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
+          "• The deal will create the ninth-largest U.S"
+        ],
+        "hopeful_bullets": [
+          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
+          "• The deal will create the ninth-largest U.S"
+        ],
+        "stakes_bullets": [
+          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
+          "• The deal will create the ninth-largest U.S",
+          "• bank with roughly $288 billion in assets",
+          "• The transaction is expected to finalize in the first quarter of 2026 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "598cfeeb134f"
+    },
+    {
+      "id": "581554c52d1a",
+      "title": "16 Best Camera Bags, Slings, Straps, and Backpacks (2025), Tested and Reviewed",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/",
+      "published_at": "Mon, 06 Oct 2025 12:30:00 +0000",
+      "bullets": [
+        "• The Best Camera Bags, Straps, and Backpacks have tested more than 100 bags to help whittle down the choices",
+        "• We've shoved our equipment into slings, messenger bags, backpacks, and cubes",
+        "• We also have a handy explainer on what “liters” mean in backpacks and advice on how to buy a camera "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.771
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Camera Bags, Straps, and Backpacks have tested more than 100 bags to help whittle down the choices",
+          "• We've shoved our equipment into slings, messenger bags, backpacks, and cubes"
+        ],
+        "hopeful_bullets": [
+          "• The Best Camera Bags, Straps, and Backpacks have tested more than 100 bags to help whittle down the choices"
+        ],
+        "stakes_bullets": [
+          "• The Best Camera Bags, Straps, and Backpacks have tested more than 100 bags to help whittle down the choices",
+          "• We've shoved our equipment into slings, messenger bags, backpacks, and cubes",
+          "• We also have a handy explainer on what “liters” mean in backpacks and advice on how to buy a camera "
+        ]
+      },
+      "read_minutes": 22,
+      "cluster_id": "66a77528c236"
+    },
+    {
+      "id": "a6fcf77740a6",
+      "title": "AMD stock skyrockets 35% as OpenAI looks to take stake in AI chipmaker",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+      "published_at": "Mon, 06 Oct 2025 12:26:07 GMT",
+      "bullets": [
+        "• OpenAI and Advanced Micro Devices have reached a deal that could see Sam Altman's company take a 10% stake in the chipmaker",
+        "• AMD has issued OpenAI a warrant for up to 160 million shares of AMD common stock",
+        "• If OpenAI exercises the full warrant, it could acquire approximately 10% ownership in AMD, based on the current number of shares outstanding "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI and Advanced Micro Devices have reached a deal that could see Sam Altman's company take a 10% stake in the chipmaker",
+          "• AMD has issued OpenAI a warrant for up to 160 million shares of AMD common stock"
+        ],
+        "hopeful_bullets": [
+          "• OpenAI and Advanced Micro Devices have reached a deal that could see Sam Altman's company take a 10% stake in the chipmaker",
+          "• AMD has issued OpenAI a warrant for up to 160 million shares of AMD common stock"
+        ],
+        "stakes_bullets": [
+          "• OpenAI and Advanced Micro Devices have reached a deal that could see Sam Altman's company take a 10% stake in the chipmaker",
+          "• If OpenAI exercises the full warrant, it could acquire approximately 10% ownership in AMD, based on the current number of shares outstanding "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d3bf43dc5bd5"
+    },
+    {
+      "id": "a0d588038e3c",
+      "title": "Asahi restarts beer production after cyber-attack",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yje27je5jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 06 Oct 2025 12:03:50 GMT",
+      "bullets": [
+        "• Asahi is the biggest brewer in Japan, but it also makes soft drinks and food products",
+        "• Cyber-attack affected Asahi Group's ordering and delivery systems in Japan",
+        "• 7-Eleven and FamilyMart warned last week that they were running low on beer stocks "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Asahi is the biggest brewer in Japan, but it also makes soft drinks and food products",
+          "• Cyber-attack affected Asahi Group's ordering and delivery systems in Japan"
+        ],
+        "hopeful_bullets": [
+          "• Asahi is the biggest brewer in Japan, but it also makes soft drinks and food products",
+          "• Cyber-attack affected Asahi Group's ordering and delivery systems in Japan"
+        ],
+        "stakes_bullets": [
+          "• Cyber-attack affected Asahi Group's ordering and delivery systems in Japan"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9d203013147b"
+    },
+    {
+      "id": "460ab7b4915e",
+      "title": "Online holiday spending growth set to slow to 5.3% as shoppers seek discounts",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/online-holiday-spending-growth-adobe-report.html",
+      "published_at": "Mon, 06 Oct 2025 12:00:01 GMT",
+      "bullets": [
+        "• Online holiday spending in the U.S",
+        "• is expected to jump 5.3% year over year to $253.4 billion, Adobe Analytics report says",
+        "• That growth would still be slower than the year-ago holiday season, when online sales rose 8.7% from Nov",
+        "• 1 to Dec",
+        "• 31 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Online holiday spending in the U.S",
+          "• is expected to jump 5.3% year over year to $253.4 billion, Adobe Analytics report says"
+        ],
+        "hopeful_bullets": [
+          "• That growth would still be slower than the year-ago holiday season, when online sales rose 8.7% from Nov"
+        ],
+        "stakes_bullets": [
+          "• is expected to jump 5.3% year over year to $253.4 billion, Adobe Analytics report says"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "15a679568964"
+    },
+    {
+      "id": "0424cd9c8604",
+      "title": "13 Best Travel Adapters (2025), Tested and Reviewed",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "published_at": "Mon, 06 Oct 2025 12:00:00 +0000",
+      "bullets": [
+        "• The Best Travel Adapters are the best travel adapters so you can safely charge all your gadgets wherever you land",
+        "• WIRED has tested several of our favorites, and our favorites will work in most parts of the world",
+        "• We've added a charger from Twelve South, honorable mentions for travel adapters from Baseus, Rolling Square and Epicka "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Travel Adapters are the best travel adapters so you can safely charge all your gadgets wherever you land",
+          "• WIRED has tested several of our favorites, and our favorites will work in most parts of the world"
+        ],
+        "hopeful_bullets": [
+          "• The Best Travel Adapters are the best travel adapters so you can safely charge all your gadgets wherever you land",
+          "• WIRED has tested several of our favorites, and our favorites will work in most parts of the world"
+        ],
+        "stakes_bullets": [
+          "• WIRED has tested several of our favorites, and our favorites will work in most parts of the world"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "c580f5baf3bd"
+    },
+    {
       "id": "ac5e3f0225a2",
       "title": "Ridley Scott Slams Hollywood for 'Drowning in Mediocrity'",
       "outlet": "CBR",
@@ -4598,40 +4945,38 @@
       "cluster_id": "9aa3cbb3edaf"
     },
     {
-      "id": "9fb4541eda37",
-      "title": "Fifth Third Bancorp to buy Comerica for $10.9 billion in all-stock deal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/fifth-third-bancorp-to-buy-comerica-for-10point9-billion-in-all-stock-deal.html",
-      "published_at": "Mon, 06 Oct 2025 11:35:33 GMT",
+      "id": "0245b3494a13",
+      "title": "Gaza peace talks: The key sticking points",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c930v44dg2ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 06 Oct 2025 11:48:47 GMT",
       "bullets": [
-        "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
-        "• The deal will create the ninth-largest U.S",
-        "• bank with roughly $288 billion in assets",
-        "• The transaction is expected to finalize in the first quarter of 2026 "
+        "• Talks between Israel and Hamas begin in Sharm El-El-Egyptian capital",
+        "• Both sides agree to a framework for a deal to end two-year conflict",
+        "• But there are still major sticking points for both sides to come to an agreement "
       ],
-      "category": "Business",
+      "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.968
+        "score": 0.823
       },
       "moods": {
         "brief_bullets": [
-          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
-          "• The deal will create the ninth-largest U.S"
+          "• Talks between Israel and Hamas begin in Sharm El-El-Egyptian capital",
+          "• Both sides agree to a framework for a deal to end two-year conflict"
         ],
         "hopeful_bullets": [
-          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
-          "• The deal will create the ninth-largest U.S"
+          "• Talks between Israel and Hamas begin in Sharm El-El-Egyptian capital",
+          "• Both sides agree to a framework for a deal to end two-year conflict"
         ],
         "stakes_bullets": [
-          "• Fifth Third Bancorp said Monday it will acquire fellow regional bank Comerica for $10.9 billion in an all-stock deal",
-          "• The deal will create the ninth-largest U.S",
-          "• bank with roughly $288 billion in assets",
-          "• The transaction is expected to finalize in the first quarter of 2026 "
+          "• Talks between Israel and Hamas begin in Sharm El-El-Egyptian capital",
+          "• Both sides agree to a framework for a deal to end two-year conflict",
+          "• But there are still major sticking points for both sides to come to an agreement "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "598cfeeb134f"
+      "read_minutes": 3,
+      "cluster_id": "a0fcf617831f"
     },
     {
       "id": "d2e2d7135e2a",
@@ -4700,74 +5045,6 @@
       "cluster_id": "a63179ef9e2d"
     },
     {
-      "id": "185e177f811c",
-      "title": "Judge blocks Trump’s bid to deploy national guard to Oregon – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/06/donald-trump-national-guard-ice-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Mon, 06 Oct 2025 11:27:10 GMT",
-      "bullets": [
-        "• A federal judge has temporarily blocked the use of national troops in the U.S",
-        "• by sending them to Oregon",
-        "• The temporary order will remain in effect until at least 19 October",
-        "• The decision was made by a federal judge on Sunday",
-        "• The judge said there was no evidence that the move was in violation of the law "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A federal judge has temporarily blocked the use of national troops in the U.S",
-          "• by sending them to Oregon"
-        ],
-        "hopeful_bullets": [
-          "• A federal judge has temporarily blocked the use of national troops in the U.S",
-          "• by sending them to Oregon"
-        ],
-        "stakes_bullets": [
-          "• The temporary order will remain in effect until at least 19 October"
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "5f77d0a422b8"
-    },
-    {
-      "id": "a6fcf77740a6",
-      "title": "AMD stock skyrockets 25% as OpenAI looks to take stake in AI chipmaker",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
-      "published_at": "Mon, 06 Oct 2025 11:24:40 GMT",
-      "bullets": [
-        "• AMD and OpenAI reach deal to deploy 6 gigawatts of AI chips",
-        "• Deal could see Sam Altman's company take a 10% stake in the chipmaker",
-        "• AMD stock jumped more than 25% in premarket trading Monday",
-        "• ChatGPT maker said the deal was worth billions, but declined to disclose a specific dollar amount "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AMD and OpenAI reach deal to deploy 6 gigawatts of AI chips",
-          "• Deal could see Sam Altman's company take a 10% stake in the chipmaker"
-        ],
-        "hopeful_bullets": [
-          "• AMD and OpenAI reach deal to deploy 6 gigawatts of AI chips",
-          "• Deal could see Sam Altman's company take a 10% stake in the chipmaker"
-        ],
-        "stakes_bullets": [
-          "• Deal could see Sam Altman's company take a 10% stake in the chipmaker",
-          "• ChatGPT maker said the deal was worth billions, but declined to disclose a specific dollar amount "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d3bf43dc5bd5"
-    },
-    {
       "id": "27b4a8daa163",
       "title": "Trump urges negotiators to ‘move fast’ in run-up to Gaza ceasefire talks | First Thing",
       "outlet": "US news | The Guardian",
@@ -4797,6 +5074,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "c48dc88dfda3"
+    },
+    {
+      "id": "29d8fe4b1828",
+      "title": "Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
+      "published_at": "Mon, 06 Oct 2025 11:00:54 +0000",
+      "bullets": [
+        "• SpaceX's $17 billion deal to buy spectrum licenses from EchoStar should help Starlink satellites deliver better service to smartphones",
+        "• AT&T and Verizon could question their reliance on satellite company AST SpaceMobile",
+        "• Apple, which was reportedly already facing internal dissent over its deal with Globalstar, now has another reason to wonder "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SpaceX's $17 billion deal to buy spectrum licenses from EchoStar should help Starlink satellites deliver better service to smartphones",
+          "• AT&T and Verizon could question their reliance on satellite company AST SpaceMobile"
+        ],
+        "hopeful_bullets": [
+          "• SpaceX's $17 billion deal to buy spectrum licenses from EchoStar should help Starlink satellites deliver better service to smartphones"
+        ],
+        "stakes_bullets": [
+          "• SpaceX's $17 billion deal to buy spectrum licenses from EchoStar should help Starlink satellites deliver better service to smartphones",
+          "• AT&T and Verizon could question their reliance on satellite company AST SpaceMobile"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6a370573272e"
     },
     {
       "id": "90c2844dac8e",
@@ -4832,38 +5141,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "68552eff9a44"
-    },
-    {
-      "id": "47a22a8a4e12",
-      "title": "Boom time for US billionaires: why the system perpetuates wealth inequality",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/news/2025/oct/06/billionaire-class-us-inequality",
-      "published_at": "Mon, 06 Oct 2025 11:00:11 GMT",
-      "bullets": [
-        "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic",
-        "• Chuck Collins argues that the system that perpetuates wealth inequality is purposely opaque to most Americans",
-        "• 10% of the population owns 93% of stock market wealth "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic",
-          "• Chuck Collins argues that the system that perpetuates wealth inequality is purposely opaque to most Americans"
-        ],
-        "hopeful_bullets": [
-          "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic",
-          "• Chuck Collins argues that the system that perpetuates wealth inequality is purposely opaque to most Americans"
-        ],
-        "stakes_bullets": [
-          "• The wealth of the world’s billionaires grew 54% in 2020, at the height of the pandemic"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bb3f43a96ddb"
     },
     {
       "id": "b3e7a4716618",
@@ -4966,40 +5243,6 @@
       "cluster_id": "86c2e5bf4ff6"
     },
     {
-      "id": "e72ce52ccd7a",
-      "title": "Aston Martin shares fall 10% as luxury carmaker issues fresh profit warning on tariff turmoil",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/aston-martin-carmaker-issues-fresh-profit-warning-on-tariff-turmoil.html",
-      "published_at": "Mon, 06 Oct 2025 10:53:04 GMT",
-      "bullets": [
-        "• Shares of Aston Martin fell as much as 10% on Monday morning",
-        "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook",
-        "• The company expects its 2025 total wholesale volumes to fall by a \"mid-high single digit percentage\" Aston Martin also said it no longer expects positive free cash flow generation in the second half of the year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares of Aston Martin fell as much as 10% on Monday morning",
-          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook"
-        ],
-        "hopeful_bullets": [
-          "• Shares of Aston Martin fell as much as 10% on Monday morning",
-          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook"
-        ],
-        "stakes_bullets": [
-          "• Shares of Aston Martin fell as much as 10% on Monday morning",
-          "• The British luxury carmaker issued a fresh profit warning citing a challenging industry outlook",
-          "• The company expects its 2025 total wholesale volumes to fall by a \"mid-high single digit percentage\" Aston Martin also said it no longer expects positive free cash flow generation in the second half of the year "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "dc3cdadbff11"
-    },
-    {
       "id": "f332eb87d3b5",
       "title": "The 7 Best Milk Frothers for Your Home Espresso Setup (2025)",
       "outlet": "WIRED",
@@ -5076,12 +5319,12 @@
       "bullets": [
         "• At least one hiker has died and more than 200 are still stranded on Everest's eastern slopes in Tibet",
         "• Hundreds of local villagers and rescue workers have been deployed to clear out snow blocking access to the area",
-        "• The area sits at an altitude of more than 4,900m (16,000ft) and is popular with climbers and hikers "
+        "• The area sits at an altitude of more than 4,900m (16,000ft)"
       ],
       "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.997
+        "label": "negative",
+        "score": 0.981
       },
       "moods": {
         "brief_bullets": [
@@ -5095,75 +5338,11 @@
         "stakes_bullets": [
           "• At least one hiker has died and more than 200 are still stranded on Everest's eastern slopes in Tibet",
           "• Hundreds of local villagers and rescue workers have been deployed to clear out snow blocking access to the area",
-          "• The area sits at an altitude of more than 4,900m (16,000ft) and is popular with climbers and hikers "
+          "• The area sits at an altitude of more than 4,900m (16,000ft)"
         ]
       },
       "read_minutes": 3,
       "cluster_id": "1eedd7474a96"
-    },
-    {
-      "id": "2da137d51ad6",
-      "title": "US to deport 11 more people to Eswatini in deal criticised by lawyers and NGOs",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/06/us-deportees-eswatini-lawyers-ngos",
-      "published_at": "Mon, 06 Oct 2025 10:08:47 GMT",
-      "bullets": [
-        "• Eswatini will receive 11 people deported by the US later this month",
-        "• It is the second group of third-country deportees to be sent to the southern African kingdom",
-        "• The government did not specify where the deportees were originally from and the reasons given by the U.S"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Eswatini will receive 11 people deported by the US later this month",
-          "• It is the second group of third-country deportees to be sent to the southern African kingdom"
-        ],
-        "hopeful_bullets": [
-          "• Eswatini will receive 11 people deported by the US later this month",
-          "• It is the second group of third-country deportees to be sent to the southern African kingdom"
-        ],
-        "stakes_bullets": [
-          "• Eswatini will receive 11 people deported by the US later this month"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9a5c3b73109e"
-    },
-    {
-      "id": "a0d588038e3c",
-      "title": "Asahi restarts beer production after cyber-attack",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yje27je5jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 06 Oct 2025 10:06:27 GMT",
-      "bullets": [
-        "• Asahi is the biggest brewer in Japan, but also makes soft drinks and food products",
-        "• Hack affected Asahi Group's ordering and delivery systems in Japan",
-        "• 7-Eleven and FamilyMart warned last week that they were running low on beer stocks "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Asahi is the biggest brewer in Japan, but also makes soft drinks and food products",
-          "• Hack affected Asahi Group's ordering and delivery systems in Japan"
-        ],
-        "hopeful_bullets": [
-          "• Asahi is the biggest brewer in Japan, but also makes soft drinks and food products",
-          "• Hack affected Asahi Group's ordering and delivery systems in Japan"
-        ],
-        "stakes_bullets": [
-          "• Hack affected Asahi Group's ordering and delivery systems in Japan"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9d203013147b"
     },
     {
       "id": "22c2711878f8",
@@ -5207,9 +5386,9 @@
       "url": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
       "published_at": "Mon, 06 Oct 2025 10:00:40 +0000",
       "bullets": [
-        "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice, eventually sinking into the freezing depths of the Weddell Sea",
+        "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice",
         "• A new analysis reveals that Endurance would have sunk even with an intact rudder",
-        "• It was crushed by the cumulative compressive forces of the Arctic ice with no single cause for the sinking "
+        "• It was crushed by the cumulative compressive forces of the Antarctic ice with no single cause for the sinking "
       ],
       "category": "Technology",
       "sentiment": {
@@ -5218,15 +5397,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice, eventually sinking into the freezing depths of the Weddell Sea",
+          "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice",
           "• A new analysis reveals that Endurance would have sunk even with an intact rudder"
         ],
         "hopeful_bullets": [
-          "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice, eventually sinking into the freezing depths of the Weddell Sea",
+          "• In 1915, Sir Ernest Shackleton and his crew were stranded for months in the Antarctic after their ship, Endurance, was trapped by pack ice",
           "• A new analysis reveals that Endurance would have sunk even with an intact rudder"
         ],
         "stakes_bullets": [
-          "• It was crushed by the cumulative compressive forces of the Arctic ice with no single cause for the sinking "
+          "• It was crushed by the cumulative compressive forces of the Antarctic ice with no single cause for the sinking "
         ]
       },
       "read_minutes": 2,
@@ -5360,39 +5539,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "95f714788ba8"
-    },
-    {
-      "id": "7bbeed9f2769",
-      "title": "Tesla teaser video sparks speculation of long-awaited Roadster or mass market model",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/06/tesla-teaser-video-sparks-speculaton-of-roadster-or-mass-market-model.html",
-      "published_at": "Mon, 06 Oct 2025 09:09:21 GMT",
-      "bullets": [
-        "• Tesla posted a teaser video on X sparking speculation that the electric carmaker could be gearing up to release a new car",
-        "• The first video posted on Sunday shows a spinning component which many online said could be an internal component of a vehicle",
-        "• The video ends with the numbers \"10/7,\" indicating Tuesday's date "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tesla posted a teaser video on X sparking speculation that the electric carmaker could be gearing up to release a new car",
-          "• The first video posted on Sunday shows a spinning component which many online said could be an internal component of a vehicle"
-        ],
-        "hopeful_bullets": [
-          "• Tesla posted a teaser video on X sparking speculation that the electric carmaker could be gearing up to release a new car",
-          "• The first video posted on Sunday shows a spinning component which many online said could be an internal component of a vehicle"
-        ],
-        "stakes_bullets": [
-          "• Tesla posted a teaser video on X sparking speculation that the electric carmaker could be gearing up to release a new car",
-          "• The first video posted on Sunday shows a spinning component which many online said could be an internal component of a vehicle"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "418877867825"
     },
     {
       "id": "78f1fa010925",
@@ -5529,39 +5675,110 @@
       "cluster_id": "ea22159a3f7f"
     },
     {
-      "id": "57a17774b46f",
-      "title": "Judge blocks Trump from sending troops from California to Portland",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 06 Oct 2025 08:39:54 GMT",
+      "id": "cb8f55927dd9",
+      "title": "For 170 years, U.S. Cities have followed a hidden law of growth and decline",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085635.htm",
+      "published_at": "Mon, 06 Oct 2025 08:11:27 EDT",
       "bullets": [
-        "• Judge blocks Trump from sending troops from California to Portland, Oregon",
-        "• The move comes after the president tried to send troops from other states to the city",
-        "• The judge ruled that there was no evidence of out-of-control crime in the area",
-        "• He also ordered the deployment of federal troops to Chicago in response to protests "
+        "• For 170 years, U.S",
+        "• cities have followed a hidden law of growth and decline",
+        "• Despite massive technological and industrial changes, American cities have stayed remarkably coherent in how their economies fit together",
+        "• This hidden order governs how cities diversify, grow, and reinvent themselves without losing their economic identity "
       ],
-      "category": "World",
+      "category": "Science",
       "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "positive",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Judge blocks Trump from sending troops from California to Portland, Oregon",
-          "• The move comes after the president tried to send troops from other states to the city"
+          "• For 170 years, U.S",
+          "• cities have followed a hidden law of growth and decline"
         ],
         "hopeful_bullets": [
-          "• Judge blocks Trump from sending troops from California to Portland, Oregon",
-          "• The move comes after the president tried to send troops from other states to the city"
+          "• cities have followed a hidden law of growth and decline"
         ],
         "stakes_bullets": [
-          "• Judge blocks Trump from sending troops from California to Portland, Oregon",
-          "• The move comes after the president tried to send troops from other states to the city",
-          "• The judge ruled that there was no evidence of out-of-control crime in the area"
+          "• For 170 years, U.S",
+          "• cities have followed a hidden law of growth and decline",
+          "• Despite massive technological and industrial changes, American cities have stayed remarkably coherent in how their economies fit together"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "996f68636f1e"
+      "cluster_id": "6b5f093b2bf6"
+    },
+    {
+      "id": "1476d1f3591c",
+      "title": "How one country has become a top destination for hair transplants",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/06/nx-s1-5544362/turkey-hair-transplants-tourism",
+      "published_at": "Mon, 06 Oct 2025 08:02:43 -0400",
+      "bullets": [
+        "• Turkey has become the industry's unofficial capital for hair transplants",
+        "• The country now draws patients from across the globe, lured by lower costs, bundled travel packages",
+        "• The industry's success has prompted concerns about possible risks and oversight",
+        "• The result has been a booming new industry, with significant economic gain "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Turkey has become the industry's unofficial capital for hair transplants",
+          "• The country now draws patients from across the globe, lured by lower costs, bundled travel packages"
+        ],
+        "hopeful_bullets": [
+          "• Turkey has become the industry's unofficial capital for hair transplants",
+          "• The country now draws patients from across the globe, lured by lower costs, bundled travel packages"
+        ],
+        "stakes_bullets": [
+          "• Turkey has become the industry's unofficial capital for hair transplants",
+          "• The country now draws patients from across the globe, lured by lower costs, bundled travel packages",
+          "• The industry's success has prompted concerns about possible risks and oversight",
+          "• The result has been a booming new industry, with significant economic gain "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "df77f632faaf"
+    },
+    {
+      "id": "92eeb4e8a035",
+      "title": "GOP Rep. Wesley Hunt announces run for U.S. Senate, joining Cornyn, Paxton in primary",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17179844/wesley-hunt-texas-senate-republican-primary-cornyn-paxton-2026",
+      "published_at": "Mon, 06 Oct 2025 07:55:43 -0500",
+      "bullets": [
+        "• GOP Rep",
+        "• Wesley Hunt joins Sen",
+        "• John Cornyn and Attorney General Ken Paxton in Texas Senate primary",
+        "• Hunt is a close ally of President Donald Trump",
+        "• Hunt's campaign groups have spent $6 million on ads around the state promoting his appeal "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• GOP Rep",
+          "• Wesley Hunt joins Sen"
+        ],
+        "hopeful_bullets": [
+          "• GOP Rep",
+          "• Wesley Hunt joins Sen"
+        ],
+        "stakes_bullets": [
+          "• GOP Rep",
+          "• Wesley Hunt joins Sen",
+          "• John Cornyn and Attorney General Ken Paxton in Texas Senate primary"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "41ca77646b56"
     },
     {
       "id": "16909bb8cb5a",
@@ -5730,15 +5947,14 @@
     },
     {
       "id": "0590388d7a34",
-      "title": "French Prime Minister resigns after less than a month in office",
+      "title": "France's prime minister resigns after less than a month in office",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/06/nx-s1-5563671/french-prime-minister-resigns-month-in-office",
       "published_at": "Mon, 06 Oct 2025 06:07:55 -0400",
       "bullets": [
-        "• Sébastien Lecornu resigns after less than a month in office",
-        "• France's new prime minister resigns less than 24 hours after naming his government",
-        "• The resignation rattled investors, sending the CAC-40 index of leading French companies plunging",
-        "• Macron's opponents immediately tried to capitalize on the resignation "
+        "• France's new prime minister resigns after less than a month in office",
+        "• Sébastien Lecornu said conditions were no longer met to remain in office after failing to build a consensus",
+        "• France's opponents immediately tried to capitalize on the shocking resignation, with the far-right calling for new snap elections or resign "
       ],
       "category": "General",
       "sentiment": {
@@ -5747,19 +5963,21 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Sébastien Lecornu resigns after less than a month in office",
-          "• France's new prime minister resigns less than 24 hours after naming his government"
+          "• France's new prime minister resigns after less than a month in office",
+          "• Sébastien Lecornu said conditions were no longer met to remain in office after failing to build a consensus"
         ],
         "hopeful_bullets": [
-          "• Sébastien Lecornu resigns after less than a month in office",
-          "• France's new prime minister resigns less than 24 hours after naming his government"
+          "• France's new prime minister resigns after less than a month in office",
+          "• Sébastien Lecornu said conditions were no longer met to remain in office after failing to build a consensus"
         ],
         "stakes_bullets": [
-          "• The resignation rattled investors, sending the CAC-40 index of leading French companies plunging"
+          "• France's new prime minister resigns after less than a month in office",
+          "• Sébastien Lecornu said conditions were no longer met to remain in office after failing to build a consensus",
+          "• France's opponents immediately tried to capitalize on the shocking resignation, with the far-right calling for new snap elections or resign "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "fe7ed1b8ec56"
+      "cluster_id": "974499b86a6c"
     },
     {
       "id": "a835216311b2",
@@ -5930,6 +6148,39 @@
       "cluster_id": "e97d69590fe7"
     },
     {
+      "id": "d2a67792cf77",
+      "title": "Introducing the Austin Current: A new voice for Central Texas",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17179738/austin-current-texas-tribune",
+      "published_at": "Mon, 06 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth",
+        "• Our mission is to deliver journalism that is innovative in approach, uncompromising in standards",
+        "• We want to become a civic resource that closes information gaps, builds trust through collaboration and provides timely and relevant coverage "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth",
+          "• Our mission is to deliver journalism that is innovative in approach, uncompromising in standards"
+        ],
+        "hopeful_bullets": [
+          "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth"
+        ],
+        "stakes_bullets": [
+          "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth",
+          "• Our mission is to deliver journalism that is innovative in approach, uncompromising in standards",
+          "• We want to become a civic resource that closes information gaps, builds trust through collaboration and provides timely and relevant coverage "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "42b1d81c449c"
+    },
+    {
       "id": "00425d70a763",
       "title": "Texas stock exchange gets federal approval as state tries to compete with New York heavyweights",
       "outlet": "The Texas Tribune",
@@ -5963,39 +6214,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "00427945a00b"
-    },
-    {
-      "id": "d2a67792cf77",
-      "title": "Introducing the Austin Current: A new voice for Central Texas",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17179738/austin-current-texas-tribune",
-      "published_at": "Mon, 06 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth",
-        "• Our mission is to deliver journalism that is innovative in approach, uncompromising in standards",
-        "• We want to become a civic resource that closes information gaps, builds trust through collaboration and provides timely and relevant coverage "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth",
-          "• Our mission is to deliver journalism that is innovative in approach, uncompromising in standards"
-        ],
-        "hopeful_bullets": [
-          "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth"
-        ],
-        "stakes_bullets": [
-          "• The Austin Current is a bold, new local newsroom built to keep pace with Austin’s explosive growth",
-          "• Our mission is to deliver journalism that is innovative in approach, uncompromising in standards",
-          "• We want to become a civic resource that closes information gaps, builds trust through collaboration and provides timely and relevant coverage "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "42b1d81c449c"
     },
     {
       "id": "147cfa0291fd",
@@ -6032,39 +6250,6 @@
       "cluster_id": "a0bd9d1deb98"
     },
     {
-      "id": "3c38cdb0f165",
-      "title": "What to know as Gaza ceasefire talks begin in Egypt",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/06/nx-s1-5563175/egypt-talks-israel-gaza-war",
-      "published_at": "Mon, 06 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Hamas has partially agreed to a 20-point plan to end the fighting in Gaza",
-        "• Israel says it accepts the plan's first phase, but says Hamas must be disarmed",
-        "• President Trump says Hamas would face \"complete obliteration\" if it refuses to relinquish control of Gaza "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hamas has partially agreed to a 20-point plan to end the fighting in Gaza",
-          "• Israel says it accepts the plan's first phase, but says Hamas must be disarmed"
-        ],
-        "hopeful_bullets": [
-          "• Hamas has partially agreed to a 20-point plan to end the fighting in Gaza",
-          "• Israel says it accepts the plan's first phase, but says Hamas must be disarmed"
-        ],
-        "stakes_bullets": [
-          "• Hamas has partially agreed to a 20-point plan to end the fighting in Gaza",
-          "• Israel says it accepts the plan's first phase, but says Hamas must be disarmed"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ed261241b497"
-    },
-    {
       "id": "608200d9d98c",
       "title": "A special newsletter to help you save money and pay off credit card debt",
       "outlet": "NPR Topics: News",
@@ -6099,37 +6284,34 @@
       "cluster_id": "eb722d758741"
     },
     {
-      "id": "66e5a3ef503c",
-      "title": "Why do women live longer than men? Study offers clues to close the gap",
+      "id": "dcdbf9cebe5d",
+      "title": "Supreme Court term will tackle executive power, executive power and executive power",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/06/nx-s1-5558184/women-men-longevity-health-life-span",
+      "url": "https://www.npr.org/2025/10/06/nx-s1-5558414/supreme-court-term-preview",
       "published_at": "Mon, 06 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• In the U.S",
-        "• women live longer than men, the gap widens to 5.8 years in life expectancy",
-        "• Males are more likely to live longer because they have two X chromosomes",
-        "• The gap is likely to be explained by a combination of factors such as genetics and physical behavior "
+        "• Supreme Court term will tackle executive power, executive power and executive power",
+        "• In just eight months, it has broken all records for granting a president's wishes on the \"emergency docket\" The court has granted 20 of Trump's requests to block lower court orders opposed by the administration "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.957
       },
       "moods": {
         "brief_bullets": [
-          "• In the U.S",
-          "• women live longer than men, the gap widens to 5.8 years in life expectancy"
+          "• Supreme Court term will tackle executive power, executive power and executive power",
+          "• In just eight months, it has broken all records for granting a president's wishes on the \"emergency docket\" The court has granted 20 of Trump's requests to block lower court orders opposed by the administration "
         ],
         "hopeful_bullets": [
-          "• In the U.S",
-          "• women live longer than men, the gap widens to 5.8 years in life expectancy"
+          "• In just eight months, it has broken all records for granting a president's wishes on the \"emergency docket\" The court has granted 20 of Trump's requests to block lower court orders opposed by the administration "
         ],
         "stakes_bullets": [
-          "• Males are more likely to live longer because they have two X chromosomes"
+          "• Supreme Court term will tackle executive power, executive power and executive power"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "3e5d564f873c"
+      "read_minutes": 6,
+      "cluster_id": "7f0ed044cc98"
     },
     {
       "id": "873a0cef8e1b",
@@ -6263,109 +6445,6 @@
       "cluster_id": "bd6a2182c5cb"
     },
     {
-      "id": "c220900f4b35",
-      "title": "Zack Snyder's Visionary Sci-Fi Thriller, Which Has a Too-Low 64% RT, Is Streaming Free Right Now",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/zack-snyder-watchmen-now-streaming/",
-      "published_at": "Mon, 06 Oct 2025 03:30:13 GMT",
-      "bullets": [
-        "• The film adaptation of the classic comic book was released in 2009",
-        "• It was adapted to the comic book, but it was more accurate than any other adaptation",
-        "• The movie is currently being released for free on Blu-Ray and DVD",
-        "• The film is available on iTunes and Amazon "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.898
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The film adaptation of the classic comic book was released in 2009",
-          "• It was adapted to the comic book, but it was more accurate than any other adaptation"
-        ],
-        "hopeful_bullets": [
-          "• The film adaptation of the classic comic book was released in 2009",
-          "• It was adapted to the comic book, but it was more accurate than any other adaptation"
-        ],
-        "stakes_bullets": [
-          "• The film adaptation of the classic comic book was released in 2009",
-          "• It was adapted to the comic book, but it was more accurate than any other adaptation",
-          "• The movie is currently being released for free on Blu-Ray and DVD"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "304f71248406"
-    },
-    {
-      "id": "fefbfd0fcde0",
-      "title": "10 Best Opening Credits in TV History (#1 Is So Iconic, It Got Used Twice)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-opening-credits-tv-history-iconic/",
-      "published_at": "Mon, 06 Oct 2025 03:15:12 GMT",
-      "bullets": [
-        "• Opening credits don't necessarily make or break a television show, but they can certainly help elevate it",
-        "• Opening credits can be crafted in any way one sees fit",
-        "• Bob's Burgers is an animated sitcom with 11 seasons",
-        "• The series follows the Belcher family and their adventures in Seymour's Bay, New Jersey "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Opening credits don't necessarily make or break a television show, but they can certainly help elevate it",
-          "• Opening credits can be crafted in any way one sees fit"
-        ],
-        "hopeful_bullets": [
-          "• Opening credits don't necessarily make or break a television show, but they can certainly help elevate it"
-        ],
-        "stakes_bullets": [
-          "• Opening credits don't necessarily make or break a television show, but they can certainly help elevate it",
-          "• Opening credits can be crafted in any way one sees fit",
-          "• Bob's Burgers is an animated sitcom with 11 seasons"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "cdb43c3b13b3"
-    },
-    {
-      "id": "9aeef79e6809",
-      "title": "10 Things the PS3 Did Better Than Any Other PlayStation Console",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ps3-best-playstation-console-reasons/",
-      "published_at": "Mon, 06 Oct 2025 03:15:12 GMT",
-      "bullets": [
-        "• The PlayStation 3 was Sony's most ambitious home console yet",
-        "• It was designed to be a super-computer, with a complicated hardware configuration",
-        "• The PS3 was also able to run Linux on the PS3 via the console's Other OS feature "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.925
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The PlayStation 3 was Sony's most ambitious home console yet",
-          "• It was designed to be a super-computer, with a complicated hardware configuration"
-        ],
-        "hopeful_bullets": [
-          "• The PlayStation 3 was Sony's most ambitious home console yet",
-          "• It was designed to be a super-computer, with a complicated hardware configuration"
-        ],
-        "stakes_bullets": [
-          "• The PlayStation 3 was Sony's most ambitious home console yet",
-          "• It was designed to be a super-computer, with a complicated hardware configuration",
-          "• The PS3 was also able to run Linux on the PS3 via the console's Other OS feature "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "5ddb71069354"
-    },
-    {
       "id": "11898b6ef07c",
       "title": "Would you eat yogurt made with ants? Scientists did",
       "outlet": "All Top News -- ScienceDaily",
@@ -6396,40 +6475,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "ef21e1cf9779"
-    },
-    {
-      "id": "ad611769498b",
-      "title": "These 5 Words Are Still the Weirdest Part of the Lord of the Rings Trilogy",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/the-lord-of-the-rings-trilogy-weirdest-quote/",
-      "published_at": "Mon, 06 Oct 2025 02:50:12 GMT",
-      "bullets": [
-        "• Four Hobbits, two Men, one Elf, one Dwarf, and one Wizard comprised the Fellowship of the Ring",
-        "• The Fellowship remained bound together on the first half of their journey, sharing the traumatic experience of Moria",
-        "• Legolas says only five words to Frodo in the entirety of the trilogy "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Four Hobbits, two Men, one Elf, one Dwarf, and one Wizard comprised the Fellowship of the Ring",
-          "• The Fellowship remained bound together on the first half of their journey, sharing the traumatic experience of Moria"
-        ],
-        "hopeful_bullets": [
-          "• Four Hobbits, two Men, one Elf, one Dwarf, and one Wizard comprised the Fellowship of the Ring",
-          "• The Fellowship remained bound together on the first half of their journey, sharing the traumatic experience of Moria"
-        ],
-        "stakes_bullets": [
-          "• Four Hobbits, two Men, one Elf, one Dwarf, and one Wizard comprised the Fellowship of the Ring",
-          "• The Fellowship remained bound together on the first half of their journey, sharing the traumatic experience of Moria",
-          "• Legolas says only five words to Frodo in the entirety of the trilogy "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "3a3d408dca4e"
     },
     {
       "id": "357e8f193fcb",
@@ -7045,12 +7090,12 @@
         "• Nearly 80 percent of Americans support extending the ACA enhanced premium tax credits",
         "• The tax credits are set to expire at the end of this year",
         "• They are at the center of a funding dispute that led to a shutdown of the federal government this week",
-        "• If credits are not extended, monthly premiums for ACA Marketplace plans would more than double on average "
+        "• If credits are not extended, monthly premiums for ACA Marketplace plans would more than double "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
@@ -7062,7 +7107,7 @@
           "• The tax credits are set to expire at the end of this year"
         ],
         "stakes_bullets": [
-          "• If credits are not extended, monthly premiums for ACA Marketplace plans would more than double on average "
+          "• If credits are not extended, monthly premiums for ACA Marketplace plans would more than double "
         ]
       },
       "read_minutes": 1,
@@ -7369,38 +7414,6 @@
       "cluster_id": "0f5b9cbb5c46"
     },
     {
-      "id": "934495c0761d",
-      "title": "October 3, 2025 – Today Is One of the Biggest New Release Horror Days of the Year!",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3907227/october-3-2025-today-is-one-of-the-biggest-new-release-horror-days-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=october-3-2025-today-is-one-of-the-biggest-new-release-horror-days-of-the-year",
-      "published_at": "Fri, 03 Oct 2025 19:41:59 +0000",
-      "bullets": [
-        "• October 3, 2025 is one of the biggest new release days of the year",
-        "• Charlie Hunnam stars in the third installment of Ryan Murphy and Ian Brennan’s true crime anthology series, “Monster: The Ed Gein Story” is now streaming on Netflix "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• October 3, 2025 is one of the biggest new release days of the year",
-          "• Charlie Hunnam stars in the third installment of Ryan Murphy and Ian Brennan’s true crime anthology series, “Monster: The Ed Gein Story” is now streaming on Netflix "
-        ],
-        "hopeful_bullets": [
-          "• October 3, 2025 is one of the biggest new release days of the year",
-          "• Charlie Hunnam stars in the third installment of Ryan Murphy and Ian Brennan’s true crime anthology series, “Monster: The Ed Gein Story” is now streaming on Netflix "
-        ],
-        "stakes_bullets": [
-          "• October 3, 2025 is one of the biggest new release days of the year",
-          "• Charlie Hunnam stars in the third installment of Ryan Murphy and Ian Brennan’s true crime anthology series, “Monster: The Ed Gein Story” is now streaming on Netflix "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "949ee1c74d99"
-    },
-    {
       "id": "f3d47de83a81",
       "title": "Join Us on Twitch Monday, October 6th at 8:00pm Eastern for a GRIZZLY Watch Party!",
       "outlet": "Daily Dead",
@@ -7652,37 +7665,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "cb1ee3e45406"
-    },
-    {
-      "id": "4a0114590626",
-      "title": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/",
-      "published_at": "Fri, 03 Oct 2025 17:36:49 +0000",
-      "bullets": [
-        "• Apple has removed apps that let iPhone users report the locations of ICE agents",
-        "• Florida AG Pam Bondi: \"Violence against law enforcement is an intolerable red line that cannot be crossed\" Apple confirmed it removed multiple apps after hearing from law enforcement "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple has removed apps that let iPhone users report the locations of ICE agents",
-          "• Florida AG Pam Bondi: \"Violence against law enforcement is an intolerable red line that cannot be crossed\" Apple confirmed it removed multiple apps after hearing from law enforcement "
-        ],
-        "hopeful_bullets": [
-          "• Florida AG Pam Bondi: \"Violence against law enforcement is an intolerable red line that cannot be crossed\" Apple confirmed it removed multiple apps after hearing from law enforcement "
-        ],
-        "stakes_bullets": [
-          "• Apple has removed apps that let iPhone users report the locations of ICE agents",
-          "• Florida AG Pam Bondi: \"Violence against law enforcement is an intolerable red line that cannot be crossed\" Apple confirmed it removed multiple apps after hearing from law enforcement "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "d557741f582f"
     },
     {
       "id": "974880acb9f7",
@@ -8213,7 +8195,7 @@
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "15ee40d575bf"
+      "cluster_id": "ddb579c5d63a"
     },
     {
       "id": "0f4676391c74",
@@ -8348,6 +8330,38 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "ee1a7e35a501",
+      "title": "Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/792661/sora-fictional-copyright-characters",
+      "published_at": "2025-10-06T08:40:45-04:00",
+      "bullets": [
+        "• Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
+        "• The teased feature comes as CEO Sam Altman slams the breaks on the company’s controversial opt-out copyright policy",
+        "• Altman has promised rightsholders — who he says are “very excited” for this new kind of ‘interactive fan fiction’ — “more granular control”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
+          "• The teased feature comes as CEO Sam Altman slams the breaks on the company’s controversial opt-out copyright policy"
+        ],
+        "hopeful_bullets": [
+          "• Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
+          "• The teased feature comes as CEO Sam Altman slams the breaks on the company’s controversial opt-out copyright policy"
+        ],
+        "stakes_bullets": [
+          "• The teased feature comes as CEO Sam Altman slams the breaks on the company’s controversial opt-out copyright policy"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c681f6f0fe4a"
+    },
+    {
       "id": "b633ffa08318",
       "title": "AMD teams up with OpenAI to challenge Nvidia&#8217;s AI chip dominance",
       "outlet": "The Verge",
@@ -8356,12 +8370,12 @@
       "bullets": [
         "• AMD is partnering with OpenAI to provide six gigawatts worth of processors for AI data centers",
         "• The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational demands for AI applications like ChatGPT",
-        "• The financials of the deal have not been disclosed, but AMD expects the agreement to deliver “tens of billions of dollars in revenue” for the company "
+        "• AMD’s stock price is up by 24 percent in pre-market trading following the partnership announcement "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "positive",
+        "score": 0.865
       },
       "moods": {
         "brief_bullets": [
@@ -8369,13 +8383,16 @@
           "• The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational demands for AI applications like ChatGPT"
         ],
         "hopeful_bullets": [
-          "• The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational demands for AI applications like ChatGPT"
+          "• The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational demands for AI applications like ChatGPT",
+          "• AMD’s stock price is up by 24 percent in pre-market trading following the partnership announcement "
         ],
         "stakes_bullets": [
-          "• The financials of the deal have not been disclosed, but AMD expects the agreement to deliver “tens of billions of dollars in revenue” for the company "
+          "• AMD is partnering with OpenAI to provide six gigawatts worth of processors for AI data centers",
+          "• The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational demands for AI applications like ChatGPT",
+          "• AMD’s stock price is up by 24 percent in pre-market trading following the partnership announcement "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "7b7e16fdae5f"
     },
     {
@@ -8642,40 +8659,6 @@
       "cluster_id": "9fe1afe62ee7"
     },
     {
-      "id": "bcd240bda919",
-      "title": "Version History is live — here’s how to find it",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards",
-      "published_at": "2025-10-05T08:30:00-04:00",
-      "bullets": [
-        "• Version History is live! It's an hour-long tour of the biggest rideable gadget of the 2010s",
-        "• Hidden inside the history of hoverboards is a crucial inflection point in Chinese tech manufacturing",
-        "• This episode is hosted by David Pierce, Andy Hawkins, and Sean O’Kane "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Version History is live! It's an hour-long tour of the biggest rideable gadget of the 2010s",
-          "• Hidden inside the history of hoverboards is a crucial inflection point in Chinese tech manufacturing"
-        ],
-        "hopeful_bullets": [
-          "• Version History is live! It's an hour-long tour of the biggest rideable gadget of the 2010s",
-          "• Hidden inside the history of hoverboards is a crucial inflection point in Chinese tech manufacturing"
-        ],
-        "stakes_bullets": [
-          "• Version History is live! It's an hour-long tour of the biggest rideable gadget of the 2010s",
-          "• Hidden inside the history of hoverboards is a crucial inflection point in Chinese tech manufacturing",
-          "• This episode is hosted by David Pierce, Andy Hawkins, and Sean O’Kane "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e2bdff0c9dec"
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -8810,268 +8793,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "8a1f3b14891e"
-    },
-    {
-      "id": "6cc34dfb028d",
-      "title": "Weekend projections: Taylor Swift brings much-needed buzz to theaters",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260080830-Weekend-projections-Taylor-Swift-brings-much-needed-buzz-to-theaters",
-      "published_at": null,
-      "bullets": [
-        "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-        "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-        ],
-        "hopeful_bullets": [
-          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-        ],
-        "stakes_bullets": [
-          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ff61f88758de"
-    },
-    {
-      "id": "f013c719b3de",
-      "title": "Weekend predictions: Taylor Swift set to have biggest party in theaters this weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260070830-Weekend-predictions-Taylor-Swift-set-to-have-biggest-party-in-theaters-this-weekend",
-      "published_at": null,
-      "bullets": [
-        "• Taylor Swift set to have biggest party in theaters this weekend, with Taylor Swift | The Official Release Party of a Showgirl set to dominate at the box office",
-        "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.875
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift set to have biggest party in theaters this weekend, with Taylor Swift | The Official Release Party of a Showgirl set to dominate at the box office",
-          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-        ],
-        "hopeful_bullets": [
-          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-        ],
-        "stakes_bullets": [
-          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a868a6fe7739"
-    },
-    {
-      "id": "45c23c8d0be7",
-      "title": "Theater counts: Can One Battle After Another hold the line against Swift competition?",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260060830-Theater-counts-Can-One-Battle-After-Another-hold-the-line-against-Swift-competition",
-      "published_at": null,
-      "bullets": [
-        "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.698
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2ede1ddb1e1a"
-    },
-    {
-      "id": "aed784fb3371",
-      "title": "The Numbers Business Report: 2026 Q2 Box Office Prediction",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260050830-Numbers-Business-Report-2026-Q2-Box-Office-Prediction-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-        "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
-        "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
-        ],
-        "stakes_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
-          "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7d4e7d428cef"
-    },
-    {
-      "id": "0e12ee20974d",
-      "title": "Weekend projections: One Battle After Another and Gabby’s Dollhouse hoping for good word-of-mouth after middling debuts",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260020830-Weekend-projections-One-Battle-After-Another-and-Gabbys-Dollhouse-hoping-for-good-word-of-mouth-after-middling-debuts",
-      "published_at": null,
-      "bullets": [
-        "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-        "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
-        "• $25 million for There Will be Blood), and marketing costs",
-        "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.509
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
-        ],
-        "hopeful_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
-        ],
-        "stakes_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
-          "• $25 million for There Will be Blood), and marketing costs",
-          "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2634fa7adbf2"
-    },
-    {
-      "id": "8bb731020288",
-      "title": "Weekend predictions: One Battle After Another will win the weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260010830-Weekend-predictions-One-Battle-After-Another-will-win-the-weekend",
-      "published_at": null,
-      "bullets": [
-        "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
-        "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
-        "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
-          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper"
-        ],
-        "hopeful_bullets": [
-          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million"
-        ],
-        "stakes_bullets": [
-          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
-          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
-          "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5671c89c706a"
-    },
-    {
-      "id": "597c9ad75eb3",
-      "title": "Theater counts: One Battle After Another takes the top spot as widest release in its opening weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/259990830-Theater-counts-One-Battle-After-Another-takes-the-top-spot-as-widest-release-in-its-opening-weekend",
-      "published_at": null,
-      "bullets": [
-        "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
-        "• One Battle After Another takes the top spot as widest release in its opening weekend",
-        "• The action-thriller is directed by Paul Thomas Anderson and stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, and Regina Hall "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
-          "• One Battle After Another takes the top spot as widest release in its opening weekend"
-        ],
-        "hopeful_bullets": [
-          "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
-          "• One Battle After Another takes the top spot as widest release in its opening weekend"
-        ],
-        "stakes_bullets": [
-          "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
-          "• One Battle After Another takes the top spot as widest release in its opening weekend",
-          "• The action-thriller is directed by Paul Thomas Anderson and stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, and Regina Hall "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "fd873c5292d9"
-    },
-    {
-      "id": "fea211984f52",
-      "title": "Wicked: For Good final trailer",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/259980830-Wicked-For-Good-final-trailer",
-      "published_at": null,
-      "bullets": [
-        "• Wicked: For Good final trailer released September 24, 2025",
-        "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21",
-        "• Elphaba, now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest",
-        "• Glinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Wicked: For Good final trailer released September 24, 2025",
-          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21"
-        ],
-        "hopeful_bullets": [
-          "• Wicked: For Good final trailer released September 24, 2025",
-          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21"
-        ],
-        "stakes_bullets": [
-          "• Wicked: For Good final trailer released September 24, 2025",
-          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21",
-          "• Elphaba, now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "55fabe335e50"
     }
   ],
   "clusters": [
@@ -9130,18 +8851,18 @@
       ]
     },
     {
-      "id": "495a72fc7c99",
-      "topic": "collapse death indonesia rise",
+      "id": "a0fcf617831f",
+      "topic": "gaza key peace point",
       "keywords": [
-        "collapse",
-        "death",
-        "indonesia",
-        "rise",
-        "school",
-        "toll"
+        "gaza",
+        "key",
+        "peace",
+        "point",
+        "sticking",
+        "talk"
       ],
       "item_ids": [
-        "303af97f686f"
+        "0245b3494a13"
       ],
       "outlets": [
         "BBC News"
@@ -9202,6 +8923,24 @@
       ]
     },
     {
+      "id": "495a72fc7c99",
+      "topic": "collapse death indonesia rise",
+      "keywords": [
+        "collapse",
+        "death",
+        "indonesia",
+        "rise",
+        "school",
+        "toll"
+      ],
+      "item_ids": [
+        "303af97f686f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "9d203013147b",
       "topic": "asahi attack beer cyber",
       "keywords": [
@@ -9238,32 +8977,14 @@
       ]
     },
     {
-      "id": "996f68636f1e",
-      "topic": "block california judge sending",
+      "id": "c3b117617061",
+      "topic": "arrival confirm deportation eswatini",
       "keywords": [
-        "block",
-        "california",
-        "judge",
-        "sending",
-        "troop",
-        "trump"
-      ],
-      "item_ids": [
-        "57a17774b46f"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "9a5c3b73109e",
-      "topic": "criticised deal deport eswatini",
-      "keywords": [
-        "criticised",
-        "deal",
-        "deport",
+        "arrival",
+        "confirm",
+        "deportation",
         "eswatini",
-        "lawyer",
+        "part",
         "people"
       ],
       "item_ids": [
@@ -9580,21 +9301,21 @@
       ]
     },
     {
-      "id": "bb3f43a96ddb",
-      "topic": "billionaire boom perpetuate system",
+      "id": "df77f632faaf",
+      "topic": "become country destination hair",
       "keywords": [
-        "billionaire",
-        "boom",
-        "perpetuate",
-        "system",
-        "time",
-        "wealth"
+        "become",
+        "country",
+        "destination",
+        "hair",
+        "top",
+        "transplant"
       ],
       "item_ids": [
-        "47a22a8a4e12"
+        "1476d1f3591c"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9634,10 +9355,10 @@
       ]
     },
     {
-      "id": "fe7ed1b8ec56",
-      "topic": "french less minister month",
+      "id": "974499b86a6c",
+      "topic": "france less minister month",
       "keywords": [
-        "french",
+        "france",
         "less",
         "minister",
         "month",
@@ -9724,24 +9445,6 @@
       ]
     },
     {
-      "id": "ed261241b497",
-      "topic": "begin ceasefire egypt gaza",
-      "keywords": [
-        "begin",
-        "ceasefire",
-        "egypt",
-        "gaza",
-        "know",
-        "talk"
-      ],
-      "item_ids": [
-        "3c38cdb0f165"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "eb722d758741",
       "topic": "help money newsletter pay",
       "keywords": [
@@ -9760,18 +9463,18 @@
       ]
     },
     {
-      "id": "3e5d564f873c",
-      "topic": "live longer men offer",
+      "id": "7f0ed044cc98",
+      "topic": "court executive power supreme",
       "keywords": [
-        "live",
-        "longer",
-        "men",
-        "offer",
-        "study",
-        "women"
+        "court",
+        "executive",
+        "power",
+        "supreme",
+        "tackle",
+        "term"
       ],
       "item_ids": [
-        "66e5a3ef503c"
+        "dcdbf9cebe5d"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9796,6 +9499,60 @@
       ]
     },
     {
+      "id": "d0265883f537",
+      "topic": "ingredient jone massive paul",
+      "keywords": [
+        "ingredient",
+        "jone",
+        "massive",
+        "paul",
+        "place",
+        "tudor"
+      ],
+      "item_ids": [
+        "c66449bf1dc8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "75c94fd335b9",
+      "topic": "bessent commissioner irs remain",
+      "keywords": [
+        "bessent",
+        "commissioner",
+        "irs",
+        "remain",
+        "secretary",
+        "treasury"
+      ],
+      "item_ids": [
+        "60cf5e0f66e3"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a197bc12b9f3",
+      "topic": "boss dan former name",
+      "keywords": [
+        "boss",
+        "dan",
+        "former",
+        "name",
+        "paypal",
+        "verizon"
+      ],
+      "item_ids": [
+        "f4e88a1ed90f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "598cfeeb134f",
       "topic": "bancorp billion buy comerica",
       "keywords": [
@@ -9814,90 +9571,54 @@
       ]
     },
     {
-      "id": "a7f862c83deb",
-      "topic": "days french fresh political",
+      "id": "0708898ec5d0",
+      "topic": "digital galaxy jump launching",
       "keywords": [
-        "days",
-        "french",
-        "fresh",
-        "political",
-        "resign",
-        "sparking"
+        "digital",
+        "galaxy",
+        "jump",
+        "launching",
+        "mike",
+        "novogratz"
       ],
       "item_ids": [
-        "22c2711878f8"
+        "2872f65f47eb"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "73be22740d9b",
-      "topic": "decide layoff shutdown start",
+      "id": "15a679568964",
+      "topic": "growth holiday online set",
       "keywords": [
-        "decide",
-        "layoff",
-        "shutdown",
-        "start",
-        "there",
-        "trump"
+        "growth",
+        "holiday",
+        "online",
+        "set",
+        "slow",
+        "spending"
       ],
       "item_ids": [
-        "566e2af045f5"
+        "460ab7b4915e"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "418877867825",
-      "topic": "long spark speculation teaser",
+      "id": "ebb1f714ee3a",
+      "topic": "cramer jim stock thing",
       "keywords": [
-        "long",
-        "spark",
-        "speculation",
-        "teaser",
-        "tesla",
-        "video"
+        "cramer",
+        "jim",
+        "stock",
+        "thing",
+        "top",
+        "watch"
       ],
       "item_ids": [
-        "7bbeed9f2769"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "dc3cdadbff11",
-      "topic": "aston carmaker fall luxury",
-      "keywords": [
-        "aston",
-        "carmaker",
-        "fall",
-        "luxury",
-        "martin",
-        "share"
-      ],
-      "item_ids": [
-        "e72ce52ccd7a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "7f650f2c585b",
-      "topic": "aren biggest investor loser",
-      "keywords": [
-        "aren",
-        "biggest",
-        "investor",
-        "loser",
-        "market",
-        "trump"
-      ],
-      "item_ids": [
-        "69cf039ab873"
+        "00fe944dec30"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9922,41 +9643,57 @@
       ]
     },
     {
-      "id": "d47ac0b4d801",
-      "topic": "absolutely end great review",
+      "id": "a7f862c83deb",
+      "topic": "days french fresh political",
       "keywords": [
-        "absolutely",
-        "end",
-        "great",
-        "review",
-        "time",
-        "year"
+        "days",
+        "french",
+        "fresh",
+        "political",
+        "resign",
+        "sparking"
       ],
       "item_ids": [
-        "e144d052bf10"
+        "22c2711878f8"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "15ee40d575bf",
-      "topic": "album life release showgirl",
+      "id": "66a77528c236",
+      "topic": "backpack bags best camera",
       "keywords": [
-        "album",
-        "life",
-        "release",
-        "showgirl",
-        "swift",
-        "taylor"
+        "backpack",
+        "bags",
+        "best",
+        "camera",
+        "sling",
+        "strap"
       ],
       "item_ids": [
-        "e8e19ca935fb",
-        "e95aebdd20a0"
+        "581554c52d1a"
       ],
       "outlets": [
-        "RSS: News",
-        "US Top News and Analysis"
+        "WIRED"
+      ]
+    },
+    {
+      "id": "c580f5baf3bd",
+      "topic": "2025 adapter best reviewed",
+      "keywords": [
+        "2025",
+        "adapter",
+        "best",
+        "reviewed",
+        "tested",
+        "travel"
+      ],
+      "item_ids": [
+        "0424cd9c8604"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10103,39 +9840,21 @@
       ]
     },
     {
-      "id": "a1e6163b529f",
-      "topic": "cheapest day early ninja",
+      "id": "c681f6f0fe4a",
+      "topic": "character coming fictional officially",
       "keywords": [
-        "cheapest",
-        "day",
-        "early",
-        "ninja",
-        "prime",
-        "slushi"
+        "character",
+        "coming",
+        "fictional",
+        "officially",
+        "openai",
+        "sora"
       ],
       "item_ids": [
-        "46ccd82cd311"
+        "ee1a7e35a501"
       ],
       "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "ef907071edf8",
-      "topic": "2025 best heater measured",
-      "keywords": [
-        "2025",
-        "best",
-        "heater",
-        "measured",
-        "space",
-        "tested"
-      ],
-      "item_ids": [
-        "d6f192b8b9d2"
-      ],
-      "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10299,20 +10018,21 @@
       ]
     },
     {
-      "id": "e2bdff0c9dec",
-      "topic": "find here history live",
+      "id": "6a370573272e",
+      "topic": "apple elon make mobile",
       "keywords": [
-        "find",
-        "here",
-        "history",
-        "live",
-        "version"
+        "apple",
+        "elon",
+        "make",
+        "mobile",
+        "musk",
+        "trie"
       ],
       "item_ids": [
-        "bcd240bda919"
+        "29d8fe4b1828"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10477,24 +10197,6 @@
       ]
     },
     {
-      "id": "d557741f582f",
-      "topic": "allow apple apps iceblock",
-      "keywords": [
-        "allow",
-        "apple",
-        "apps",
-        "iceblock",
-        "remove",
-        "won"
-      ],
-      "item_ids": [
-        "4a0114590626"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
       "id": "f35b00da13e6",
       "topic": "alive come october shooting",
       "keywords": [
@@ -10543,6 +10245,24 @@
       ],
       "item_ids": [
         "d520a1529aec"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "6b5f093b2bf6",
+      "topic": "170 citie followed hidden",
+      "keywords": [
+        "170",
+        "citie",
+        "followed",
+        "hidden",
+        "law",
+        "year"
+      ],
+      "item_ids": [
+        "cb8f55927dd9"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10651,24 +10371,6 @@
       ],
       "item_ids": [
         "febc1193852a"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "98bd0f96c944",
-      "topic": "dose half helped nearly",
-      "keywords": [
-        "dose",
-        "half",
-        "helped",
-        "nearly",
-        "patient",
-        "semaglutide"
-      ],
-      "item_ids": [
-        "dbb4ea8a7242"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -11396,144 +11098,21 @@
       ]
     },
     {
-      "id": "ff61f88758de",
-      "topic": "bring much projection swift",
+      "id": "4f81f17b85cd",
+      "topic": "body first grie horror",
       "keywords": [
-        "bring",
-        "much",
-        "projection",
-        "swift",
-        "taylor",
-        "weekend"
+        "body",
+        "first",
+        "grie",
+        "horror",
+        "jon",
+        "unleashe"
       ],
       "item_ids": [
-        "6cc34dfb028d"
+        "a995df86165a"
       ],
       "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "a868a6fe7739",
-      "topic": "biggest prediction set swift",
-      "keywords": [
-        "biggest",
-        "prediction",
-        "set",
-        "swift",
-        "taylor",
-        "weekend"
-      ],
-      "item_ids": [
-        "f013c719b3de"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "2ede1ddb1e1a",
-      "topic": "another battle count hold",
-      "keywords": [
-        "another",
-        "battle",
-        "count",
-        "hold",
-        "line",
-        "theater"
-      ],
-      "item_ids": [
-        "45c23c8d0be7"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "7d4e7d428cef",
-      "topic": "2026 box busines number",
-      "keywords": [
-        "2026",
-        "box",
-        "busines",
-        "number",
-        "office",
-        "report"
-      ],
-      "item_ids": [
-        "aed784fb3371"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "2634fa7adbf2",
-      "topic": "another battle dollhouse gabby",
-      "keywords": [
-        "another",
-        "battle",
-        "dollhouse",
-        "gabby",
-        "projection",
-        "weekend"
-      ],
-      "item_ids": [
-        "0e12ee20974d"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "5671c89c706a",
-      "topic": "another battle prediction weekend",
-      "keywords": [
-        "another",
-        "battle",
-        "prediction",
-        "weekend",
-        "win"
-      ],
-      "item_ids": [
-        "8bb731020288"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "fd873c5292d9",
-      "topic": "another battle count take",
-      "keywords": [
-        "another",
-        "battle",
-        "count",
-        "take",
-        "theater",
-        "top"
-      ],
-      "item_ids": [
-        "597c9ad75eb3"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "55fabe335e50",
-      "topic": "final good trailer wicked",
-      "keywords": [
-        "final",
-        "good",
-        "trailer",
-        "wicked"
-      ],
-      "item_ids": [
-        "fea211984f52"
-      ],
-      "outlets": [
-        "The Numbers"
+        "Bloody Disgusting!"
       ]
     },
     {
@@ -11693,24 +11272,6 @@
       ],
       "item_ids": [
         "b7a762231479"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "949ee1c74d99",
-      "topic": "2025 biggest horror october",
-      "keywords": [
-        "2025",
-        "biggest",
-        "horror",
-        "october",
-        "release",
-        "today"
-      ],
-      "item_ids": [
-        "934495c0761d"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13017,6 +12578,78 @@
       ]
     },
     {
+      "id": "fa4f911790d2",
+      "topic": "black director fans original",
+      "keywords": [
+        "black",
+        "director",
+        "fans",
+        "original",
+        "phone",
+        "tease"
+      ],
+      "item_ids": [
+        "caa167b345ae"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "5b3f085c9ebf",
+      "topic": "dcu joker mcu play",
+      "keywords": [
+        "dcu",
+        "joker",
+        "mcu",
+        "play",
+        "star",
+        "want"
+      ],
+      "item_ids": [
+        "9f49e36ff078"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "a1ea785dc9a4",
+      "topic": "addresse beast beauty bill",
+      "keywords": [
+        "addresse",
+        "beast",
+        "beauty",
+        "bill",
+        "condon",
+        "controversial"
+      ],
+      "item_ids": [
+        "299cf46ecff2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "9d3a24d76a8b",
+      "topic": "attack clone perfect quietly",
+      "keywords": [
+        "attack",
+        "clone",
+        "perfect",
+        "quietly",
+        "set",
+        "star"
+      ],
+      "item_ids": [
+        "65730cf72a1a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "9aa3cbb3edaf",
       "topic": "drowning hollywood mediocrity ridley",
       "keywords": [
@@ -13119,78 +12752,6 @@
       ],
       "item_ids": [
         "14cac0294a33"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "304f71248406",
-      "topic": "sci snyder thriller visionary",
-      "keywords": [
-        "sci",
-        "snyder",
-        "thriller",
-        "visionary",
-        "which",
-        "zack"
-      ],
-      "item_ids": [
-        "c220900f4b35"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cdb43c3b13b3",
-      "topic": "best credit got history",
-      "keywords": [
-        "best",
-        "credit",
-        "got",
-        "history",
-        "iconic",
-        "opening"
-      ],
-      "item_ids": [
-        "fefbfd0fcde0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5ddb71069354",
-      "topic": "any better did other",
-      "keywords": [
-        "any",
-        "better",
-        "did",
-        "other",
-        "ps3",
-        "thing"
-      ],
-      "item_ids": [
-        "9aeef79e6809"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3a3d408dca4e",
-      "topic": "lord part still these",
-      "keywords": [
-        "lord",
-        "part",
-        "still",
-        "these",
-        "weirdest",
-        "word"
-      ],
-      "item_ids": [
-        "ad611769498b"
       ],
       "outlets": [
         "CBR"
@@ -13625,6 +13186,24 @@
       ]
     },
     {
+      "id": "ddb579c5d63a",
+      "topic": "album life release showgirl",
+      "keywords": [
+        "album",
+        "life",
+        "release",
+        "showgirl",
+        "swift",
+        "taylor"
+      ],
+      "item_ids": [
+        "e95aebdd20a0"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "a910085e348f",
       "topic": "caroline danny harle join",
       "keywords": [
@@ -13714,18 +13293,18 @@
       ]
     },
     {
-      "id": "00427945a00b",
-      "topic": "approval exchange federal gets",
+      "id": "41ca77646b56",
+      "topic": "announce gop hunt rep",
       "keywords": [
-        "approval",
-        "exchange",
-        "federal",
-        "gets",
-        "stock",
-        "texa"
+        "announce",
+        "gop",
+        "hunt",
+        "rep",
+        "run",
+        "wesley"
       ],
       "item_ids": [
-        "00425d70a763"
+        "92eeb4e8a035"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13744,6 +13323,24 @@
       ],
       "item_ids": [
         "d2a67792cf77"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "00427945a00b",
+      "topic": "approval exchange federal gets",
+      "keywords": [
+        "approval",
+        "exchange",
+        "federal",
+        "gets",
+        "stock",
+        "texa"
+      ],
+      "item_ids": [
+        "00425d70a763"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13870,24 +13467,6 @@
       ],
       "item_ids": [
         "242893c75f20"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "5bf2abbc0acc",
-      "topic": "announce carlo cruz redrawn",
-      "keywords": [
-        "announce",
-        "carlo",
-        "cruz",
-        "redrawn",
-        "republican",
-        "run"
-      ],
-      "item_ids": [
-        "f1cd0eb19554"
       ],
       "outlets": [
         "The Texas Tribune"
