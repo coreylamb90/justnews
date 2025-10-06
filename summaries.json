@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T05:16:32Z",
+  "generated_at": "2025-10-06T05:56:20Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2208,6 +2208,73 @@
       "cluster_id": "610e8625fc9b"
     },
     {
+      "id": "908d6dd06cad",
+      "title": "Nearly half of drivers killed in crashes had THC in their blood",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085621.htm",
+      "published_at": "Sun, 05 Oct 2025 23:40:13 EDT",
+      "bullets": [
+        "• Nearly half of drivers killed in crashes had THC in their blood",
+        "• Experts warn that the lack of public awareness around marijuana’s dangers behind the wheel is putting lives at risk",
+        "• The rate of THC positivity remained consistent over six years and was unaffected by the state's legalization of recreational cannabis "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.918
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nearly half of drivers killed in crashes had THC in their blood",
+          "• Experts warn that the lack of public awareness around marijuana’s dangers behind the wheel is putting lives at risk"
+        ],
+        "hopeful_bullets": [
+          "• Nearly half of drivers killed in crashes had THC in their blood",
+          "• Experts warn that the lack of public awareness around marijuana’s dangers behind the wheel is putting lives at risk"
+        ],
+        "stakes_bullets": [
+          "• Experts warn that the lack of public awareness around marijuana’s dangers behind the wheel is putting lives at risk",
+          "• The rate of THC positivity remained consistent over six years and was unaffected by the state's legalization of recreational cannabis "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "df3d1f1b0f95"
+    },
+    {
+      "id": "52cfb2fcb918",
+      "title": "As Gisèle Pelicot faces one of her rapists in court, what has changed in France?",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 05 Oct 2025 23:07:07 GMT",
+      "bullets": [
+        "• The case is the latest in a long-running battle to be brought to justice in the U.S",
+        "• over the death of a man who died in a car crash in 2010",
+        "• The case was brought to light with the death penalty for the car crash that claimed to be the world's deadliest car crash victim "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.718
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The case is the latest in a long-running battle to be brought to justice in the U.S",
+          "• over the death of a man who died in a car crash in 2010"
+        ],
+        "hopeful_bullets": [
+          "• The case is the latest in a long-running battle to be brought to justice in the U.S",
+          "• over the death of a man who died in a car crash in 2010"
+        ],
+        "stakes_bullets": [
+          "• The case is the latest in a long-running battle to be brought to justice in the U.S",
+          "• over the death of a man who died in a car crash in 2010",
+          "• The case was brought to light with the death penalty for the car crash that claimed to be the world's deadliest car crash victim "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "61c4227d74d4"
+    },
+    {
       "id": "7b5b54808c71",
       "title": "Taylor Swift Embodies Showgirls Across Eras in ‘The Fate of Ophelia’ Video",
       "outlet": "Music News",
@@ -2418,14 +2485,14 @@
       "bullets": [
         "• Congress remains deadlocked on shutdown ahead of Monday vote",
         "• Key dividing issue has been healthcare",
-        "• Democrats want to ensure health insurance subsidies for those with low-income do not expire",
-        "• Republicans want to reverse cuts to Medicaid health programme",
-        "• Senate expected to reconvene Monday afternoon to take up continuing resolutions "
+        "• Democrats want to ensure health insurance subsidies for those on low-income do not expire",
+        "• Republicans want to reverse cuts to the Medicaid health programme",
+        "• Senate expected to reconvene on Monday afternoon to take up continuing resolutions "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.975
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
@@ -2437,8 +2504,8 @@
           "• Key dividing issue has been healthcare"
         ],
         "stakes_bullets": [
-          "• Republicans want to reverse cuts to Medicaid health programme",
-          "• Senate expected to reconvene Monday afternoon to take up continuing resolutions "
+          "• Republicans want to reverse cuts to the Medicaid health programme",
+          "• Senate expected to reconvene on Monday afternoon to take up continuing resolutions "
         ]
       },
       "read_minutes": 4,
@@ -2451,29 +2518,28 @@
       "url": "https://www.npr.org/2025/10/05/nx-s1-5563170/trump-national-guard-chicago-portland-illinois-oregon-pritzker",
       "published_at": "Sun, 05 Oct 2025 17:49:51 -0400",
       "bullets": [
-        "• U.S",
-        "• District Judge Karin J",
-        "• Immergut again blocks National Guard deployment to Oregon",
-        "• Earlier in the weekend, the judge temporarily blocked the administration's plan to deploy the Oregon National Guard to Portland",
-        "• The ruling comes as Portland and Chicago prepare for the possibility that National Guard members will be deployed to their streets"
+        "• Federal judge again blocks National Guard deployment to Oregon",
+        "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S",
+        "• cities",
+        "• Earlier in the weekend, the judge temporarily blocked the administration's plan to deploy the Oregon National Guard to Portland "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• U.S",
-          "• District Judge Karin J"
+          "• Federal judge again blocks National Guard deployment to Oregon",
+          "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S"
         ],
         "hopeful_bullets": [
-          "• U.S",
-          "• District Judge Karin J"
+          "• Federal judge again blocks National Guard deployment to Oregon",
+          "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S"
         ],
         "stakes_bullets": [
-          "• Earlier in the weekend, the judge temporarily blocked the administration's plan to deploy the Oregon National Guard to Portland",
-          "• The ruling comes as Portland and Chicago prepare for the possibility that National Guard members will be deployed to their streets"
+          "• The ruling comes as President Trump moves ahead with his plan to send troops to Democratic-run U.S",
+          "• Earlier in the weekend, the judge temporarily blocked the administration's plan to deploy the Oregon National Guard to Portland "
         ]
       },
       "read_minutes": 3,
@@ -2806,40 +2872,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ab3289f6e4ab"
-    },
-    {
-      "id": "027bbbcd5998",
-      "title": "Prologis, Amazon and Meta sign low-carbon concrete pact",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/05/prologis-amazon-and-meta-sign-low-carbon-concrete-pact.html",
-      "published_at": "Sun, 05 Oct 2025 14:45:09 GMT",
-      "bullets": [
-        "• Amazon, Meta and Prologis are joining other organizations in founding the Sustainable Concrete Buyers Alliance",
-        "• The group is led by nonprofits RMI, previously known as the Rocky Mountain Institute, and the Center for Green Market Activation",
-        "• The idea is to use their collective purchasing power for low-carbon concrete "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.921
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon, Meta and Prologis are joining other organizations in founding the Sustainable Concrete Buyers Alliance",
-          "• The group is led by nonprofits RMI, previously known as the Rocky Mountain Institute, and the Center for Green Market Activation"
-        ],
-        "hopeful_bullets": [
-          "• Amazon, Meta and Prologis are joining other organizations in founding the Sustainable Concrete Buyers Alliance",
-          "• The group is led by nonprofits RMI, previously known as the Rocky Mountain Institute, and the Center for Green Market Activation"
-        ],
-        "stakes_bullets": [
-          "• Amazon, Meta and Prologis are joining other organizations in founding the Sustainable Concrete Buyers Alliance",
-          "• The group is led by nonprofits RMI, previously known as the Rocky Mountain Institute, and the Center for Green Market Activation",
-          "• The idea is to use their collective purchasing power for low-carbon concrete "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c33e1a7cf698"
     },
     {
       "id": "b2bd922914d0",
@@ -3438,6 +3470,38 @@
       "cluster_id": "534a679958fc"
     },
     {
+      "id": "47d90e8c70c6",
+      "title": "Why the brain’s GPS fails with age, and how some minds defy it",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085616.htm",
+      "published_at": "Sun, 05 Oct 2025 11:16:36 EDT",
+      "bullets": [
+        "• Older mice struggled to recall familiar locations, while a few “super-agers” retained youthful brain patterns",
+        "• The discovery could pave the way for preventing memory loss in old age",
+        "• Researchers at Stanford Medicine are uncovering what goes awry in older brains when spatial memory falters "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Older mice struggled to recall familiar locations, while a few “super-agers” retained youthful brain patterns",
+          "• The discovery could pave the way for preventing memory loss in old age"
+        ],
+        "hopeful_bullets": [
+          "• Older mice struggled to recall familiar locations, while a few “super-agers” retained youthful brain patterns",
+          "• The discovery could pave the way for preventing memory loss in old age"
+        ],
+        "stakes_bullets": [
+          "• The discovery could pave the way for preventing memory loss in old age"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "a71d10e02f97"
+    },
+    {
       "id": "77b010777688",
       "title": "The Mystery of How Quasicrystals Form",
       "outlet": "WIRED",
@@ -3568,6 +3632,41 @@
       },
       "read_minutes": 6,
       "cluster_id": "06f11119d598"
+    },
+    {
+      "id": "7bc8b3b9dc70",
+      "title": "Why ultra-processed foods aren’t the real villain behind overeating",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085625.htm",
+      "published_at": "Sun, 05 Oct 2025 09:27:42 EDT",
+      "bullets": [
+        "• Researchers found that overeating is driven more by what people believe about food than by its actual ingredients or level of processing",
+        "• Foods perceived as fatty, sweet, or highly processed were more likely to trigger indulgence",
+        "• Surprisingly, the “ultra-processed” label explained almost none of the difference in overeating behavior",
+        "• The findings suggest that perception and psychology may be more important than packaging or processing "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers found that overeating is driven more by what people believe about food than by its actual ingredients or level of processing",
+          "• Foods perceived as fatty, sweet, or highly processed were more likely to trigger indulgence"
+        ],
+        "hopeful_bullets": [
+          "• Researchers found that overeating is driven more by what people believe about food than by its actual ingredients or level of processing",
+          "• Foods perceived as fatty, sweet, or highly processed were more likely to trigger indulgence"
+        ],
+        "stakes_bullets": [
+          "• Researchers found that overeating is driven more by what people believe about food than by its actual ingredients or level of processing",
+          "• Foods perceived as fatty, sweet, or highly processed were more likely to trigger indulgence",
+          "• Surprisingly, the “ultra-processed” label explained almost none of the difference in overeating behavior"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "97c984b07443"
     },
     {
       "id": "080822e8477c",
@@ -3934,39 +4033,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "9f2ea78c9c96"
-    },
-    {
-      "id": "18a03b458e9a",
-      "title": "Why Gen Z protesters worldwide are flying an anime pirate flag",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/05/nx-s1-5560980/gen-z-protesters-one-piece-pirate-flag",
-      "published_at": "Sun, 05 Oct 2025 06:00:00 -0400",
-      "bullets": [
-        "• The flag comes from a long-running Japanese anime and manga series called One Piece",
-        "• It is about a rag-tag band of pirates dubbed \"the straw hats,\" who are led by a cheerful character named Monkey D",
-        "• Luffy",
-        "• It's become a global pop culture phenomenon, translated into multiple languages, and is now a live-action Netflix series "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.922
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The flag comes from a long-running Japanese anime and manga series called One Piece",
-          "• It is about a rag-tag band of pirates dubbed \"the straw hats,\" who are led by a cheerful character named Monkey D"
-        ],
-        "hopeful_bullets": [
-          "• The flag comes from a long-running Japanese anime and manga series called One Piece",
-          "• It is about a rag-tag band of pirates dubbed \"the straw hats,\" who are led by a cheerful character named Monkey D"
-        ],
-        "stakes_bullets": [
-          "• It is about a rag-tag band of pirates dubbed \"the straw hats,\" who are led by a cheerful character named Monkey D"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2502d1ec060f"
     },
     {
       "id": "05af529267f8",
@@ -4801,37 +4867,6 @@
       "cluster_id": "c1eff883b565"
     },
     {
-      "id": "25fd2335491b",
-      "title": "Shock in Gaza as Trump appears to welcome Hamas response to US peace plan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 04 Oct 2025 13:57:38 GMT",
-      "bullets": [
-        "• US President Donald Trump appears to welcome Hamas response to peace plan for Gaza",
-        "• Hundreds of Palestinians flooded social media with questions like: \"Has the war ended?\" and \"Is this a dream or reality?\" The movement's carefully crafted statement stopped short of outright rejection and instead offered a qualified \"yes\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.948
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump appears to welcome Hamas response to peace plan for Gaza",
-          "• Hundreds of Palestinians flooded social media with questions like: \"Has the war ended?\" and \"Is this a dream or reality?\" The movement's carefully crafted statement stopped short of outright rejection and instead offered a qualified \"yes\""
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump appears to welcome Hamas response to peace plan for Gaza",
-          "• Hundreds of Palestinians flooded social media with questions like: \"Has the war ended?\" and \"Is this a dream or reality?\" The movement's carefully crafted statement stopped short of outright rejection and instead offered a qualified \"yes\""
-        ],
-        "stakes_bullets": [
-          "• US President Donald Trump appears to welcome Hamas response to peace plan for Gaza"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2bc9644e3b44"
-    },
-    {
       "id": "201565ceb0c5",
       "title": "ICE wants to build a 24/7 social media surveillance team",
       "outlet": "Ars Technica - All content",
@@ -5160,71 +5195,6 @@
       "cluster_id": "a58bc981ea5b"
     },
     {
-      "id": "94d9394cf249",
-      "title": "Scientists finally found the “dark matter” of electronics",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
-      "published_at": "Sat, 04 Oct 2025 09:48:08 EDT",
-      "bullets": [
-        "• Scientists at OIST have, for the first time, tracked the elusive “dark excitons” inside atomically thin materials",
-        "• These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.682
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists at OIST have, for the first time, tracked the elusive “dark excitons” inside atomically thin materials",
-          "• These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits "
-        ],
-        "hopeful_bullets": [
-          "• Scientists at OIST have, for the first time, tracked the elusive “dark excitons” inside atomically thin materials",
-          "• These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits "
-        ],
-        "stakes_bullets": [
-          "• These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e49f9a6c90a9"
-    },
-    {
-      "id": "e7acb2b36c2b",
-      "title": "What looks like dancing is actually a bug’s survival trick",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033926.htm",
-      "published_at": "Sat, 04 Oct 2025 09:13:54 EDT",
-      "bullets": [
-        "• Matador bug's leg-waving puzzled scientists for years, with early guesses pointing to courtship",
-        "• But experiments revealed the waving is a defense tactic against predators",
-        "• Discovery raises fresh questions about insect evolution and survival strategies",
-        "• The matador bug (Bitta alipes) carries striking, reddish \"flags\" on its hind legs "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.529
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Matador bug's leg-waving puzzled scientists for years, with early guesses pointing to courtship",
-          "• But experiments revealed the waving is a defense tactic against predators"
-        ],
-        "hopeful_bullets": [
-          "• But experiments revealed the waving is a defense tactic against predators"
-        ],
-        "stakes_bullets": [
-          "• Matador bug's leg-waving puzzled scientists for years, with early guesses pointing to courtship",
-          "• But experiments revealed the waving is a defense tactic against predators",
-          "• Discovery raises fresh questions about insect evolution and survival strategies"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8a210ab9487a"
-    },
-    {
       "id": "fd98f68735a2",
       "title": "The Sage Grouse Could Face More Development in Its Critical Habitat Under Trump",
       "outlet": "Inside Climate News",
@@ -5451,39 +5421,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "27e11735b359"
-    },
-    {
-      "id": "ca25eb69277a",
-      "title": "Doctors stunned by a cheap drug’s power against colon cancer",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
-      "published_at": "Sat, 04 Oct 2025 01:03:47 EDT",
-      "bullets": [
-        "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
-        "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context",
-        "• Every year, nearly two million people worldwide are diagnosed with colorectal cancer "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.943
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
-          "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context"
-        ],
-        "hopeful_bullets": [
-          "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
-          "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context"
-        ],
-        "stakes_bullets": [
-          "• Low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations",
-          "• The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "599dad462c20"
     },
     {
       "id": "4d4ffcc6ddf0",
@@ -5924,6 +5861,73 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "0cdddd671218",
+      "title": "Leonardo DiCaprio's One Battle After Another Reaches $100 Million at the Box Office",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/leonardo-dicaprio-one-battle-after-another-box-office-milestone/",
+      "published_at": "Mon, 06 Oct 2025 05:49:08 GMT",
+      "bullets": [
+        "• Leonardo DiCaprio and Paul Thomas Anderson's One Battle After Another managed to pull in impressive numbers during its second weekend in theaters",
+        "• The film added $21.7 million to its international box office totals over the weekend, bringing its international gross to $58.9 million",
+        "• This strong performance saw the film drop only 22% internationally "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Leonardo DiCaprio and Paul Thomas Anderson's One Battle After Another managed to pull in impressive numbers during its second weekend in theaters",
+          "• The film added $21.7 million to its international box office totals over the weekend, bringing its international gross to $58.9 million"
+        ],
+        "hopeful_bullets": [
+          "• This strong performance saw the film drop only 22% internationally "
+        ],
+        "stakes_bullets": [
+          "• Leonardo DiCaprio and Paul Thomas Anderson's One Battle After Another managed to pull in impressive numbers during its second weekend in theaters",
+          "• The film added $21.7 million to its international box office totals over the weekend, bringing its international gross to $58.9 million",
+          "• This strong performance saw the film drop only 22% internationally "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9246f3c3e773"
+    },
+    {
+      "id": "010c54365d63",
+      "title": "Who is Sanae Takaichi? The first woman set to helm the Japanese government",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/06/who-is-sanae-takaichi-the-first-woman-set-to-helm-japanese-government.html",
+      "published_at": "Mon, 06 Oct 2025 05:07:46 GMT",
+      "bullets": [
+        "• Sanae Takaichi wins presidency of Japan's ruling Liberal Democratic Party",
+        "• She is a hardline conservative and close ally of the late Shinzo Abe",
+        "• Her rise comes at a time of economic strain at home and tense relations abroad",
+        "• Analysts say her first task is to secure the support of at least one opposition party "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sanae Takaichi wins presidency of Japan's ruling Liberal Democratic Party",
+          "• She is a hardline conservative and close ally of the late Shinzo Abe"
+        ],
+        "hopeful_bullets": [
+          "• Sanae Takaichi wins presidency of Japan's ruling Liberal Democratic Party"
+        ],
+        "stakes_bullets": [
+          "• Sanae Takaichi wins presidency of Japan's ruling Liberal Democratic Party",
+          "• She is a hardline conservative and close ally of the late Shinzo Abe",
+          "• Her rise comes at a time of economic strain at home and tense relations abroad"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "79241a29b4ee"
+    },
+    {
       "id": "60d4957eb418",
       "title": "Step forward the ‘fully biodegradable’ shoe that leaves no footprint",
       "outlet": "Positive News",
@@ -6222,40 +6226,6 @@
       "cluster_id": "5ddb71069354"
     },
     {
-      "id": "ea9945022bb2",
-      "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 06 Oct 2025 02:55:02 GMT",
-      "bullets": [
-        "• Trump authorises deployment of 300 National Guard troops to Chicago",
-        "• State and local leaders have called it an abuse of power",
-        "• Federal judge in Portland, Oregon temporarily blocks the deployment",
-        "• Judge said the use of the military to quell unrest risked the state of Oregon's sovereignty "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump authorises deployment of 300 National Guard troops to Chicago",
-          "• State and local leaders have called it an abuse of power"
-        ],
-        "hopeful_bullets": [
-          "• Trump authorises deployment of 300 National Guard troops to Chicago",
-          "• State and local leaders have called it an abuse of power"
-        ],
-        "stakes_bullets": [
-          "• State and local leaders have called it an abuse of power",
-          "• Judge said the use of the military to quell unrest risked the state of Oregon's sovereignty "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "fa5fc2703c16"
-    },
-    {
       "id": "ad611769498b",
       "title": "These 5 Words Are Still the Weirdest Part of the Lord of the Rings Trilogy",
       "outlet": "CBR",
@@ -6322,38 +6292,6 @@
       "cluster_id": "9445cab84535"
     },
     {
-      "id": "f9638c860c73",
-      "title": "Greatest X-Men Stories of the Past 50 Years Master List",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/greatest-x-men-stories-of-the-past-50-years-master-list/",
-      "published_at": "Mon, 06 Oct 2025 02:28:23 GMT",
-      "bullets": [
-        "• We are celebrating the 50th anniversary of the All-New, All-Different X-Men",
-        "• You all voted for the Greatest X-Man stories ever told in the past 50 years",
-        "• Here are the results of your picks, from #50-1 to #100 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• We are celebrating the 50th anniversary of the All-New, All-Different X-Men",
-          "• You all voted for the Greatest X-Man stories ever told in the past 50 years"
-        ],
-        "hopeful_bullets": [
-          "• We are celebrating the 50th anniversary of the All-New, All-Different X-Men",
-          "• You all voted for the Greatest X-Man stories ever told in the past 50 years"
-        ],
-        "stakes_bullets": [
-          "• Here are the results of your picks, from #50-1 to #100 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "882981a31a89"
-    },
-    {
       "id": "6450097d3bb7",
       "title": "TVC15: Nien Nunb (VC106)",
       "outlet": "Jedi Temple Archives",
@@ -6388,6 +6326,73 @@
       "cluster_id": "7f53e270d9c4"
     },
     {
+      "id": "ea8c027f7cec",
+      "title": "Snowstorm traps hundreds of hikers on Mount Everest during China's national holiday",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/06/nx-s1-5563640/snowstorm-hikers-mount-everest-trapped",
+      "published_at": "Mon, 06 Oct 2025 01:09:30 -0400",
+      "bullets": [
+        "• Hundreds of hikers trapped by heavy snow on Mount Everest in Tibet",
+        "• About 350 hikers had reached a meeting point in Tingri country, state CCTV says",
+        "• The snowstorm struck during a weeklong national holiday in China",
+        "• There was no immediate update on rescue efforts on Monday "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hundreds of hikers trapped by heavy snow on Mount Everest in Tibet",
+          "• About 350 hikers had reached a meeting point in Tingri country, state CCTV says"
+        ],
+        "hopeful_bullets": [
+          "• Hundreds of hikers trapped by heavy snow on Mount Everest in Tibet",
+          "• About 350 hikers had reached a meeting point in Tingri country, state CCTV says"
+        ],
+        "stakes_bullets": [
+          "• Hundreds of hikers trapped by heavy snow on Mount Everest in Tibet",
+          "• About 350 hikers had reached a meeting point in Tingri country, state CCTV says",
+          "• The snowstorm struck during a weeklong national holiday in China"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1e6f66c4bd83"
+    },
+    {
+      "id": "8e09746fff61",
+      "title": "October’s sky comes alive with a supermoon and shooting stars",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085754.htm",
+      "published_at": "Mon, 06 Oct 2025 00:54:24 EDT",
+      "bullets": [
+        "• October’s sky comes alive with a supermoon and shooting stars, NASA's Jet Propulsion Laboratory says",
+        "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up",
+        "• The Draconid meteor shower is streaking from the constellation Draco "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• October’s sky comes alive with a supermoon and shooting stars, NASA's Jet Propulsion Laboratory says",
+          "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up"
+        ],
+        "hopeful_bullets": [
+          "• October’s sky comes alive with a supermoon and shooting stars, NASA's Jet Propulsion Laboratory says",
+          "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up"
+        ],
+        "stakes_bullets": [
+          "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f35b00da13e6"
+    },
+    {
       "id": "efa5e49536c3",
       "title": "Trump news at a glance: Democrats say administration refusing shutdown talks as president repeats threat of firings",
       "outlet": "US news | The Guardian",
@@ -6418,6 +6423,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "cb0c13620b76"
+    },
+    {
+      "id": "57a17774b46f",
+      "title": "Trump sends troops from California to Portland after court denies deployment",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 06 Oct 2025 00:24:34 GMT",
+      "bullets": [
+        "• Trump sends troops from California to Portland after court denies deployment",
+        "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles",
+        "• California Gov Gavin Newsom vows to file a lawsuit over the manoeuvre "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump sends troops from California to Portland after court denies deployment",
+          "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles"
+        ],
+        "hopeful_bullets": [
+          "• Trump sends troops from California to Portland after court denies deployment",
+          "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles"
+        ],
+        "stakes_bullets": [
+          "• Trump sends troops from California to Portland after court denies deployment",
+          "• Deployment circumvents a judge's order that blocked deployment by using National Guard members who were already serving in Los Angeles",
+          "• California Gov Gavin Newsom vows to file a lawsuit over the manoeuvre "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "02d0a47f0417"
     },
     {
       "id": "3525ffa3e2e7",
@@ -6789,38 +6828,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "6cdefbee62f7"
-    },
-    {
-      "id": "3eafb4e77c92",
-      "title": "A tiny detector could unveil gravitational waves we’ve never seen before",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033920.htm",
-      "published_at": "Fri, 03 Oct 2025 23:24:10 EDT",
-      "bullets": [
-        "• Researchers have designed a new type of gravitational wave detector that operates in the milli-Hertz range",
-        "• Built with optical resonators and atomic clocks, the compact detectors can fit on a lab table",
-        "• Unlike LIGO, they’re relatively immune to seismic noise and could start working long before space missions like LISA launch "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.743
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers have designed a new type of gravitational wave detector that operates in the milli-Hertz range",
-          "• Built with optical resonators and atomic clocks, the compact detectors can fit on a lab table"
-        ],
-        "hopeful_bullets": [
-          "• Researchers have designed a new type of gravitational wave detector that operates in the milli-Hertz range",
-          "• Built with optical resonators and atomic clocks, the compact detectors can fit on a lab table"
-        ],
-        "stakes_bullets": [
-          "• Unlike LIGO, they’re relatively immune to seismic noise and could start working long before space missions like LISA launch "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0c0c12b2e397"
     },
     {
       "id": "8f682d913d41",
@@ -9154,6 +9161,42 @@
       ]
     },
     {
+      "id": "61c4227d74d4",
+      "topic": "changed court face gis",
+      "keywords": [
+        "changed",
+        "court",
+        "face",
+        "gis",
+        "pelicot",
+        "rapist"
+      ],
+      "item_ids": [
+        "52cfb2fcb918"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "c378e3a97ffe",
+      "topic": "ahead congres deadlocked monday",
+      "keywords": [
+        "ahead",
+        "congres",
+        "deadlocked",
+        "monday",
+        "remain",
+        "shutdown"
+      ],
+      "item_ids": [
+        "f1fb2863685a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "ad073a53cc71",
       "topic": "drone five killed large",
       "keywords": [
@@ -9190,36 +9233,18 @@
       ]
     },
     {
-      "id": "fa5fc2703c16",
-      "topic": "300 authorise deployment guard",
+      "id": "02d0a47f0417",
+      "topic": "california court portland send",
       "keywords": [
-        "300",
-        "authorise",
-        "deployment",
-        "guard",
-        "national",
+        "california",
+        "court",
+        "portland",
+        "send",
+        "troop",
         "trump"
       ],
       "item_ids": [
-        "ea9945022bb2"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "bd91f8de0c34",
-      "topic": "dres militant shabab soldier",
-      "keywords": [
-        "dres",
-        "militant",
-        "shabab",
-        "soldier",
-        "somali",
-        "storm"
-      ],
-      "item_ids": [
-        "075fa991b4bb"
+        "57a17774b46f"
       ],
       "outlets": [
         "BBC News"
@@ -9244,18 +9269,18 @@
       ]
     },
     {
-      "id": "c378e3a97ffe",
-      "topic": "ahead congres deadlocked monday",
+      "id": "bd91f8de0c34",
+      "topic": "dres militant shabab soldier",
       "keywords": [
-        "ahead",
-        "congres",
-        "deadlocked",
-        "monday",
-        "remain",
-        "shutdown"
+        "dres",
+        "militant",
+        "shabab",
+        "soldier",
+        "somali",
+        "storm"
       ],
       "item_ids": [
-        "f1fb2863685a"
+        "075fa991b4bb"
       ],
       "outlets": [
         "BBC News"
@@ -9292,24 +9317,6 @@
       ],
       "item_ids": [
         "3b6a43bd558d"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "2bc9644e3b44",
-      "topic": "appear gaza hama shock",
-      "keywords": [
-        "appear",
-        "gaza",
-        "hama",
-        "shock",
-        "trump",
-        "welcome"
-      ],
-      "item_ids": [
-        "25fd2335491b"
       ],
       "outlets": [
         "BBC News"
@@ -9658,6 +9665,24 @@
       ]
     },
     {
+      "id": "1e6f66c4bd83",
+      "topic": "everest hiker hundred mount",
+      "keywords": [
+        "everest",
+        "hiker",
+        "hundred",
+        "mount",
+        "snowstorm",
+        "trap"
+      ],
+      "item_ids": [
+        "ea8c027f7cec"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "3dba80842c6b",
       "topic": "aims help leave people",
       "keywords": [
@@ -9817,24 +9842,6 @@
       ]
     },
     {
-      "id": "2502d1ec060f",
-      "topic": "anime flying gen pirate",
-      "keywords": [
-        "anime",
-        "flying",
-        "gen",
-        "pirate",
-        "protester",
-        "worldwide"
-      ],
-      "item_ids": [
-        "18a03b458e9a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "73be22740d9b",
       "topic": "decide layoff shutdown start",
       "keywords": [
@@ -9865,6 +9872,24 @@
       ],
       "item_ids": [
         "69cf039ab873"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "79241a29b4ee",
+      "topic": "first helm sanae set",
+      "keywords": [
+        "first",
+        "helm",
+        "sanae",
+        "set",
+        "takaichi",
+        "woman"
+      ],
+      "item_ids": [
+        "010c54365d63"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9907,23 +9932,6 @@
       ]
     },
     {
-      "id": "cb046f0bf6d5",
-      "topic": "america backyard market nuclear",
-      "keywords": [
-        "america",
-        "backyard",
-        "market",
-        "nuclear",
-        "seem"
-      ],
-      "item_ids": [
-        "5422adedb79f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d47ac0b4d801",
       "topic": "absolutely end great review",
       "keywords": [
@@ -9960,22 +9968,19 @@
       ]
     },
     {
-      "id": "15ee40d575bf",
-      "topic": "album life release showgirl",
+      "id": "cb046f0bf6d5",
+      "topic": "america backyard market nuclear",
       "keywords": [
-        "album",
-        "life",
-        "release",
-        "showgirl",
-        "swift",
-        "taylor"
+        "america",
+        "backyard",
+        "market",
+        "nuclear",
+        "seem"
       ],
       "item_ids": [
-        "e8e19ca935fb",
-        "e95aebdd20a0"
+        "5422adedb79f"
       ],
       "outlets": [
-        "RSS: News",
         "US Top News and Analysis"
       ]
     },
@@ -9998,20 +10003,22 @@
       ]
     },
     {
-      "id": "c33e1a7cf698",
-      "topic": "amazon carbon low meta",
+      "id": "15ee40d575bf",
+      "topic": "album life release showgirl",
       "keywords": [
-        "amazon",
-        "carbon",
-        "low",
-        "meta",
-        "prologi",
-        "sign"
+        "album",
+        "life",
+        "release",
+        "showgirl",
+        "swift",
+        "taylor"
       ],
       "item_ids": [
-        "027bbbcd5998"
+        "e8e19ca935fb",
+        "e95aebdd20a0"
       ],
       "outlets": [
+        "RSS: News",
         "US Top News and Analysis"
       ]
     },
@@ -10546,6 +10553,78 @@
       ]
     },
     {
+      "id": "f35b00da13e6",
+      "topic": "alive come october shooting",
+      "keywords": [
+        "alive",
+        "come",
+        "october",
+        "shooting",
+        "sky",
+        "supermoon"
+      ],
+      "item_ids": [
+        "8e09746fff61"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "97c984b07443",
+      "topic": "aren food processed real",
+      "keywords": [
+        "aren",
+        "food",
+        "processed",
+        "real",
+        "ultra",
+        "villain"
+      ],
+      "item_ids": [
+        "7bc8b3b9dc70"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "df3d1f1b0f95",
+      "topic": "crashe driver half killed",
+      "keywords": [
+        "crashe",
+        "driver",
+        "half",
+        "killed",
+        "nearly",
+        "thc"
+      ],
+      "item_ids": [
+        "908d6dd06cad"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "a71d10e02f97",
+      "topic": "age brain fail gps",
+      "keywords": [
+        "age",
+        "brain",
+        "fail",
+        "gps",
+        "mind",
+        "some"
+      ],
+      "item_ids": [
+        "47d90e8c70c6"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "04aa44caa091",
       "topic": "again brain drinking light",
       "keywords": [
@@ -10648,78 +10727,6 @@
       ],
       "item_ids": [
         "a1b2debd0a62"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "e49f9a6c90a9",
-      "topic": "dark electronic finally found",
-      "keywords": [
-        "dark",
-        "electronic",
-        "finally",
-        "found",
-        "matter",
-        "scientist"
-      ],
-      "item_ids": [
-        "94d9394cf249"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "8a210ab9487a",
-      "topic": "actually bug dancing like",
-      "keywords": [
-        "actually",
-        "bug",
-        "dancing",
-        "like",
-        "look",
-        "survival"
-      ],
-      "item_ids": [
-        "e7acb2b36c2b"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "599dad462c20",
-      "topic": "against cheap doctor drug",
-      "keywords": [
-        "against",
-        "cheap",
-        "doctor",
-        "drug",
-        "power",
-        "stunned"
-      ],
-      "item_ids": [
-        "ca25eb69277a"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "0c0c12b2e397",
-      "topic": "detector gravitational never tiny",
-      "keywords": [
-        "detector",
-        "gravitational",
-        "never",
-        "tiny",
-        "unveil",
-        "wave"
-      ],
-      "item_ids": [
-        "3eafb4e77c92"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -13106,6 +13113,24 @@
       ]
     },
     {
+      "id": "9246f3c3e773",
+      "topic": "100 another battle dicaprio",
+      "keywords": [
+        "100",
+        "another",
+        "battle",
+        "dicaprio",
+        "leonardo",
+        "reache"
+      ],
+      "item_ids": [
+        "0cdddd671218"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "18f5a1185699",
       "topic": "finally jjk jujutsu kaisen",
       "keywords": [
@@ -13262,24 +13287,6 @@
       ],
       "item_ids": [
         "4af121bfbd17"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "882981a31a89",
-      "topic": "greatest master men past",
-      "keywords": [
-        "greatest",
-        "master",
-        "men",
-        "past",
-        "storie",
-        "year"
-      ],
-      "item_ids": [
-        "f9638c860c73"
       ],
       "outlets": [
         "CBR"
