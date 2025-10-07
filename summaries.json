@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-07T05:57:22Z",
+  "generated_at": "2025-10-07T06:14:05Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -1290,6 +1290,38 @@
       "cluster_id": "0abc2aa809a0"
     },
     {
+      "id": "390bbb314e19",
+      "title": "Social Security administrator is named to the newly created position of IRS CEO",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5564547/social-security-irs-ceo-frank-bisignano",
+      "published_at": "Tue, 07 Oct 2025 01:49:33 -0400",
+      "bullets": [
+        "• Social Security administrator Frank Bisignano is named to the newly created position of IRS CEO",
+        "• He is the latest member of the Trump administration to be put in charge of multiple federal agencies",
+        "• As IRS CEO, he will report to Treasury Secretary Scott Bessent, who currently serves as acting commissioner of the IRS "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Social Security administrator Frank Bisignano is named to the newly created position of IRS CEO",
+          "• He is the latest member of the Trump administration to be put in charge of multiple federal agencies"
+        ],
+        "hopeful_bullets": [
+          "• Social Security administrator Frank Bisignano is named to the newly created position of IRS CEO",
+          "• He is the latest member of the Trump administration to be put in charge of multiple federal agencies"
+        ],
+        "stakes_bullets": [
+          "• As IRS CEO, he will report to Treasury Secretary Scott Bessent, who currently serves as acting commissioner of the IRS "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a20f1d869dd6"
+    },
+    {
       "id": "50bf31ec34aa",
       "title": "Trump orders approval of 211-mile mining road through Alaska wilderness",
       "outlet": "US news | The Guardian",
@@ -2547,40 +2579,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "1378b877b88a"
-    },
-    {
-      "id": "2bb066add8d2",
-      "title": "Illinois files a lawsuit to block Trump deploying the National Guard, joining Oregon",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/05/nx-s1-5563170/trump-national-guard-chicago-portland-illinois-oregon-pritzker",
-      "published_at": "Sun, 05 Oct 2025 17:49:51 -0400",
-      "bullets": [
-        "• Illinois files lawsuit to block Trump deploying the National Guard, joining Oregon",
-        "• Illinois and the city of Chicago want a judge to block the administration from federalizing the Illinois National Guard",
-        "• A federal judge blocked the Trump administration from deploying any federalized National Guard units to Oregon "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Illinois files lawsuit to block Trump deploying the National Guard, joining Oregon",
-          "• Illinois and the city of Chicago want a judge to block the administration from federalizing the Illinois National Guard"
-        ],
-        "hopeful_bullets": [
-          "• Illinois files lawsuit to block Trump deploying the National Guard, joining Oregon",
-          "• Illinois and the city of Chicago want a judge to block the administration from federalizing the Illinois National Guard"
-        ],
-        "stakes_bullets": [
-          "• Illinois files lawsuit to block Trump deploying the National Guard, joining Oregon",
-          "• Illinois and the city of Chicago want a judge to block the administration from federalizing the Illinois National Guard",
-          "• A federal judge blocked the Trump administration from deploying any federalized National Guard units to Oregon "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "9a8cb90c0620"
     },
     {
       "id": "18ebad23cc43",
@@ -4733,28 +4731,28 @@
       "url": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 06 Oct 2025 19:11:11 GMT",
       "bullets": [
-        "• U.S",
-        "• Supreme Court refuses to rule on the case of the girl's mother",
-        "• She was found guilty of luring the girls to a sex-trafficking scheme in 1994",
-        "• The judge ruled that she should not have been allowed to leave the country",
-        "• The case will continue to be heard in the next two years "
+        "• US Supreme Court rejects Ghislaine Maxwell appeal in sex-trafficking case",
+        "• Former British socialite convicted of luring underage girls for ex-boyfriend Jeffrey Epstein",
+        "• She recruited and groomed girls, some as young as 14, before they were abused by Epstein",
+        "• Her lawyers appealed against the verdict, arguing she should never have been tried or convicted "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.96
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• U.S",
-          "• Supreme Court refuses to rule on the case of the girl's mother"
+          "• US Supreme Court rejects Ghislaine Maxwell appeal in sex-trafficking case",
+          "• Former British socialite convicted of luring underage girls for ex-boyfriend Jeffrey Epstein"
         ],
         "hopeful_bullets": [
-          "• U.S",
-          "• Supreme Court refuses to rule on the case of the girl's mother"
+          "• Her lawyers appealed against the verdict, arguing she should never have been tried or convicted "
         ],
         "stakes_bullets": [
-          "• The case will continue to be heard in the next two years "
+          "• US Supreme Court rejects Ghislaine Maxwell appeal in sex-trafficking case",
+          "• Former British socialite convicted of luring underage girls for ex-boyfriend Jeffrey Epstein",
+          "• She recruited and groomed girls, some as young as 14, before they were abused by Epstein"
         ]
       },
       "read_minutes": 2,
@@ -10968,6 +10966,24 @@
       ]
     },
     {
+      "id": "a20f1d869dd6",
+      "topic": "administrator created named newly",
+      "keywords": [
+        "administrator",
+        "created",
+        "named",
+        "newly",
+        "security",
+        "social"
+      ],
+      "item_ids": [
+        "390bbb314e19"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "bf70ef3fe07b",
       "topic": "block deployment guard judge",
       "keywords": [
@@ -11052,24 +11068,6 @@
       ],
       "item_ids": [
         "f809d9c29a21"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "9a8cb90c0620",
-      "topic": "block deploying file illinoi",
-      "keywords": [
-        "block",
-        "deploying",
-        "file",
-        "illinoi",
-        "lawsuit",
-        "trump"
-      ],
-      "item_ids": [
-        "2bb066add8d2"
       ],
       "outlets": [
         "NPR Topics: Politics"
