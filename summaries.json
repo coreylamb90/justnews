@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-07T19:10:35Z",
+  "generated_at": "2025-10-07T19:51:46Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -169,6 +169,40 @@
       "cluster_id": "a98a0ede1c29"
     },
     {
+      "id": "c58a0fd655f3",
+      "title": "TVC15: Darth Vader (VC08)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-01-tvc15-darth-vader-vc08/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-vader-vc08",
+      "published_at": "Wed, 01 Oct 2025 23:19:32 +0000",
+      "bullets": [
+        "• The only reason you would want to add this figure to your collection is for nostalgia",
+        "• Hasbro got a lot of mileage out of this Darth Vader action figure",
+        "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
+        ],
+        "hopeful_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
+        ],
+        "stakes_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure",
+          "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "53dc19c6d15a"
+    },
+    {
       "id": "7d9fedc75080",
       "title": "Matt Wagner talks Dracula Book III: The Count",
       "outlet": "Wicked Horror",
@@ -265,6 +299,39 @@
       "cluster_id": "951023dfcf39"
     },
     {
+      "id": "4d027cd88354",
+      "title": "TVC15: Weequay (VC107)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-09-30-tvc15-weequay-vc107/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-weequay-vc107",
+      "published_at": "Tue, 30 Sep 2025 21:35:17 +0000",
+      "bullets": [
+        "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
+        "• Hasbro had shied away from updates for years, as the 1997 version held up so well",
+        "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
+          "• Hasbro had shied away from updates for years, as the 1997 version held up so well"
+        ],
+        "hopeful_bullets": [
+          "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
+        ],
+        "stakes_bullets": [
+          "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
+          "• Hasbro had shied away from updates for years, as the 1997 version held up so well",
+          "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1eee4e3e43c5"
+    },
+    {
       "id": "261e3da66dc2",
       "title": "RFR Q&A #267: Star Wars Inspired Nachos",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -297,6 +364,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "107222b83c35"
+    },
+    {
+      "id": "8b77d61d6f01",
+      "title": "New Star Wars: Starfighter Rumors",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-09-29-new-star-wars-starfighter-rumors/?utm_source=rss&utm_medium=rss&utm_campaign=new-star-wars-starfighter-rumors",
+      "published_at": "Tue, 30 Sep 2025 02:45:59 +0000",
+      "bullets": [
+        "• Starfighter has entered production, but some rumors are beginning to spread",
+        "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey",
+        "• The plot leak we got is, as usual, unconfirmed, so all the usual caveats apply "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Starfighter has entered production, but some rumors are beginning to spread",
+          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey"
+        ],
+        "hopeful_bullets": [
+          "• Starfighter has entered production, but some rumors are beginning to spread",
+          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey"
+        ],
+        "stakes_bullets": [
+          "• Starfighter has entered production, but some rumors are beginning to spread",
+          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey",
+          "• The plot leak we got is, as usual, unconfirmed, so all the usual caveats apply "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "9fc13c25c625"
     },
     {
       "id": "604f29467dbc",
@@ -461,6 +562,502 @@
       "cluster_id": "9c183ecdf77c"
     },
     {
+      "id": "bea2da50f798",
+      "title": "‘Phasmophobia’ “Crimson Eye” Event Returns October 9",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3907764/phasmophobia-crimson-eye-event-returns-october-9/?utm_source=rss&utm_medium=rss&utm_campaign=phasmophobia-crimson-eye-event-returns-october-9",
+      "published_at": "Tue, 07 Oct 2025 19:34:47 +0000",
+      "bullets": [
+        "• Kinetic Games will launch the “Crimson Eye” Halloween event for Phasmophobia on Thursday, October 9",
+        "• The event will see Ghost Hunters tasked with working together to complete goals in order to unlock in-game rewards",
+        "• Throughout the event, select maps will play host to guaranteed Blood Moon weather "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kinetic Games will launch the “Crimson Eye” Halloween event for Phasmophobia on Thursday, October 9",
+          "• The event will see Ghost Hunters tasked with working together to complete goals in order to unlock in-game rewards"
+        ],
+        "hopeful_bullets": [
+          "• Kinetic Games will launch the “Crimson Eye” Halloween event for Phasmophobia on Thursday, October 9",
+          "• The event will see Ghost Hunters tasked with working together to complete goals in order to unlock in-game rewards"
+        ],
+        "stakes_bullets": [
+          "• Kinetic Games will launch the “Crimson Eye” Halloween event for Phasmophobia on Thursday, October 9",
+          "• The event will see Ghost Hunters tasked with working together to complete goals in order to unlock in-game rewards",
+          "• Throughout the event, select maps will play host to guaranteed Blood Moon weather "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c303130457e3"
+    },
+    {
+      "id": "169d401f1fba",
+      "title": "The Year’s Biggest Horror Blockbuster Sequel Is Now the Most Watched Premium VOD Title on Amazon: “A Disgusting Delight”",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/536987/final-destination-bloodlines-is-the-most-watched-premium-vod-title-on-amazon/",
+      "published_at": "Tue, 07 Oct 2025 19:30:06 +0000",
+      "bullets": [
+        "• The Year’s Biggest Horror Blockbuster Sequel Is Now the Most Watched Premium VOD Title on Amazon: “A Disgusting Delight” Final Destination: Bloodlines is a glorious example of such a feature that not only saw the light of day but also revitalized a beloved franchise, took the box office by storm, and won over critics "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Year’s Biggest Horror Blockbuster Sequel Is Now the Most Watched Premium VOD Title on Amazon: “A Disgusting Delight” Final Destination: Bloodlines is a glorious example of such a feature that not only saw the light of day but also revitalized a beloved franchise, took the box office by storm, and won over critics "
+        ],
+        "hopeful_bullets": [
+          "• The Year’s Biggest Horror Blockbuster Sequel Is Now the Most Watched Premium VOD Title on Amazon: “A Disgusting Delight” Final Destination: Bloodlines is a glorious example of such a feature that not only saw the light of day but also revitalized a beloved franchise, took the box office by storm, and won over critics "
+        ],
+        "stakes_bullets": [
+          "• The Year’s Biggest Horror Blockbuster Sequel Is Now the Most Watched Premium VOD Title on Amazon: “A Disgusting Delight” Final Destination: Bloodlines is a glorious example of such a feature that not only saw the light of day but also revitalized a beloved franchise, took the box office by storm, and won over critics "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e1991eae5c3a"
+    },
+    {
+      "id": "b45dbd30ca9d",
+      "title": "‘Smile’ & ‘A Quiet Place’ Comics Announced for 2026 Release from IDW Dark",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/comics/3907893/smile-a-quiet-place-comics-announced-for-2026-release-from-idw-dark/?utm_source=rss&utm_medium=rss&utm_campaign=smile-a-quiet-place-comics-announced-for-2026-release-from-idw-dark",
+      "published_at": "Tue, 07 Oct 2025 19:29:27 +0000",
+      "bullets": [
+        "• ‘A Quiet Place’ comic book series will be released in February",
+        "• Set in 2005, a group of international models are dying to smile for the camera",
+        "• The series is set to be published by IDW Dark, with art by Miriana Puglia "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.581
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ‘A Quiet Place’ comic book series will be released in February",
+          "• Set in 2005, a group of international models are dying to smile for the camera"
+        ],
+        "hopeful_bullets": [
+          "• ‘A Quiet Place’ comic book series will be released in February",
+          "• Set in 2005, a group of international models are dying to smile for the camera"
+        ],
+        "stakes_bullets": [
+          "• ‘A Quiet Place’ comic book series will be released in February"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bf534eba5d93"
+    },
+    {
+      "id": "258791d6ec38",
+      "title": "The Slasher Crossover Event of the Millennium is Clawing Its Way Up the Streaming Charts [Video]",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/545443/the-slasher-crossover-event-of-the-millenium-is-clawing-its-way-up-the-streaming-charts-video/",
+      "published_at": "Tue, 07 Oct 2025 19:26:10 +0000",
+      "bullets": [
+        "• The Slasher Crossover Event of the Millennium is Clawing Its Way Up the Streaming Charts",
+        "• Crossovers between major horror icons had been discussed for years, but none had materialized",
+        "• Freddy vs",
+        "• Jason arrived not only before the rise of superhero shared universes, but also at a time when nothing like it had ever been done before "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Slasher Crossover Event of the Millennium is Clawing Its Way Up the Streaming Charts",
+          "• Crossovers between major horror icons had been discussed for years, but none had materialized"
+        ],
+        "hopeful_bullets": [
+          "• The Slasher Crossover Event of the Millennium is Clawing Its Way Up the Streaming Charts"
+        ],
+        "stakes_bullets": [
+          "• The Slasher Crossover Event of the Millennium is Clawing Its Way Up the Streaming Charts",
+          "• Crossovers between major horror icons had been discussed for years, but none had materialized",
+          "• Freddy vs"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1313af1b0a33"
+    },
+    {
+      "id": "cd85d468df92",
+      "title": "Nintendo 'Close to You' Video Fuels Speculation of Bombshell Reveal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/nintendo-close-to-you-video-speculation-bombshell-reveal/",
+      "published_at": "Tue, 07 Oct 2025 19:25:12 GMT",
+      "bullets": [
+        "• Nintendo of America YouTube channel uploaded a video called “Close to You,” featuring a baby and its mother",
+        "• When the mum leaves the room, the baby’s pacifier starts to move around, seemingly on its own, and the kid chases it around",
+        "• No one is quite sure what the point of this video is or why it's on the Nintendo YouTube channels "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nintendo of America YouTube channel uploaded a video called “Close to You,” featuring a baby and its mother",
+          "• When the mum leaves the room, the baby’s pacifier starts to move around, seemingly on its own, and the kid chases it around"
+        ],
+        "hopeful_bullets": [
+          "• Nintendo of America YouTube channel uploaded a video called “Close to You,” featuring a baby and its mother",
+          "• When the mum leaves the room, the baby’s pacifier starts to move around, seemingly on its own, and the kid chases it around"
+        ],
+        "stakes_bullets": [
+          "• Nintendo of America YouTube channel uploaded a video called “Close to You,” featuring a baby and its mother",
+          "• When the mum leaves the room, the baby’s pacifier starts to move around, seemingly on its own, and the kid chases it around",
+          "• No one is quite sure what the point of this video is or why it's on the Nintendo YouTube channels "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "49a24b9cbd80"
+    },
+    {
+      "id": "39f6da2bf2a9",
+      "title": "Prosecutors Appeal Decision to Toss Terror Charge Against Kneecap’s Mo Chara",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/kneecap-terror-case-prosecutors-appeal-dismiss-charge-1235442523/",
+      "published_at": "Tue, 07 Oct 2025 19:24:11 +0000",
+      "bullets": [
+        "• Prosecutors in the United Kingdom are appealing a judge's decision to toss the terror-related charge against Kneecap's Mo Chara",
+        "• The case against the Belfast rapper — real name Liam Óg Ó hAnnaidh — was thrown out last month on technical grounds",
+        "• Prosecutors say they are appealing the decision to dismiss the case "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Prosecutors in the United Kingdom are appealing a judge's decision to toss the terror-related charge against Kneecap's Mo Chara",
+          "• The case against the Belfast rapper — real name Liam Óg Ó hAnnaidh — was thrown out last month on technical grounds"
+        ],
+        "hopeful_bullets": [
+          "• Prosecutors in the United Kingdom are appealing a judge's decision to toss the terror-related charge against Kneecap's Mo Chara",
+          "• The case against the Belfast rapper — real name Liam Óg Ó hAnnaidh — was thrown out last month on technical grounds"
+        ],
+        "stakes_bullets": [
+          "• Prosecutors in the United Kingdom are appealing a judge's decision to toss the terror-related charge against Kneecap's Mo Chara",
+          "• Prosecutors say they are appealing the decision to dismiss the case "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2dc075f51b3f"
+    },
+    {
+      "id": "6fcc28476baa",
+      "title": "Republicans face pressure to consider Democrats' health-care demands as shutdown drags on",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/07/republicans-democrats-health-care-demands-shutdown-.html",
+      "published_at": "Tue, 07 Oct 2025 19:20:55 GMT",
+      "bullets": [
+        "• Sen",
+        "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown",
+        "• Collins has been circulating a \"discussion draft\" of a deal related to enhanced Obamacare tax credits",
+        "• But she is not ready to give in on the primary demand by her Democratic colleagues "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sen",
+          "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• Sen",
+          "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown"
+        ],
+        "stakes_bullets": [
+          "• Sen",
+          "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown",
+          "• Collins has been circulating a \"discussion draft\" of a deal related to enhanced Obamacare tax credits"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fbf01162c3a2"
+    },
+    {
+      "id": "8c29035f77d5",
+      "title": "US’s strongest tornado in 12 years rips across North Dakota and kills three",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/07/north-dakota-tornado-ef-5",
+      "published_at": "Tue, 07 Oct 2025 19:16:39 GMT",
+      "bullets": [
+        "• A deadly tornado that tore across North Dakota this summer has been upgraded to an EF-5 tornado",
+        "• The tornado on 20 June in Enderlin caused significant damage across the region and killed three people",
+        "• It is the first tornado to attain that classification on US soil in 12 years",
+        "• The National Weather Service says the tornado had winds in excess of 210 miles per hour "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.942
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A deadly tornado that tore across North Dakota this summer has been upgraded to an EF-5 tornado",
+          "• The tornado on 20 June in Enderlin caused significant damage across the region and killed three people"
+        ],
+        "hopeful_bullets": [
+          "• The National Weather Service says the tornado had winds in excess of 210 miles per hour "
+        ],
+        "stakes_bullets": [
+          "• The tornado on 20 June in Enderlin caused significant damage across the region and killed three people"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c1a44b9ee9f0"
+    },
+    {
+      "id": "16737a28e68b",
+      "title": "Best Shonen Anime Of All Time",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/anime-best-shonen-series-ever/",
+      "published_at": "Tue, 07 Oct 2025 19:15:16 GMT",
+      "bullets": [
+        "• Some deride shonen anime for its formulaic nature, but there's is a reason it remains one of the most popular genres",
+        "• From old-school classics to the newest hits, the genre is home to some of the greatest anime series of all time "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some deride shonen anime for its formulaic nature, but there's is a reason it remains one of the most popular genres",
+          "• From old-school classics to the newest hits, the genre is home to some of the greatest anime series of all time "
+        ],
+        "hopeful_bullets": [
+          "• Some deride shonen anime for its formulaic nature, but there's is a reason it remains one of the most popular genres",
+          "• From old-school classics to the newest hits, the genre is home to some of the greatest anime series of all time "
+        ],
+        "stakes_bullets": [
+          "• Some deride shonen anime for its formulaic nature, but there's is a reason it remains one of the most popular genres",
+          "• From old-school classics to the newest hits, the genre is home to some of the greatest anime series of all time "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "7961b22b5113"
+    },
+    {
+      "id": "66153764dbc4",
+      "title": "10 Overhyped Anime That Would've Never Been Popular Without Social Media",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/overrated-anime-popular-because-social-media/",
+      "published_at": "Tue, 07 Oct 2025 19:15:15 GMT",
+      "bullets": [
+        "• Demon Slayer Episode 19 made the anime a viral sensation with a single viral video",
+        "• The show's story is fairly standard shonenonen fare, but its visuals are gorgeous and emotional",
+        "• Demon Slayer: Kimetsu no Yaiba had been a consistently trending anime before Episode 19 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Demon Slayer Episode 19 made the anime a viral sensation with a single viral video",
+          "• The show's story is fairly standard shonenonen fare, but its visuals are gorgeous and emotional"
+        ],
+        "hopeful_bullets": [
+          "• Demon Slayer Episode 19 made the anime a viral sensation with a single viral video",
+          "• The show's story is fairly standard shonenonen fare, but its visuals are gorgeous and emotional"
+        ],
+        "stakes_bullets": [
+          "• Demon Slayer Episode 19 made the anime a viral sensation with a single viral video",
+          "• The show's story is fairly standard shonenonen fare, but its visuals are gorgeous and emotional",
+          "• Demon Slayer: Kimetsu no Yaiba had been a consistently trending anime before Episode 19 "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "81b12ea45a63"
+    },
+    {
+      "id": "df0edc0eab34",
+      "title": "Ultrahuman's Tracker Ring Requires No Subscription, and It’s Under $300 for Prime Day",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/ultrahuman-prime-day-2025/",
+      "published_at": "Tue, 07 Oct 2025 19:11:43 +0000",
+      "bullets": [
+        "• Finnish ring manufacturer Oura has jumped so far ahead of the pack that it's scarcely fair to put them in the same category anymore",
+        "• Last year's Oura Ring 4 was such an unmitigated success that out of 5.5 million Oura rings sold since its inception in 2013, nearly half of them were sold in the past year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Finnish ring manufacturer Oura has jumped so far ahead of the pack that it's scarcely fair to put them in the same category anymore",
+          "• Last year's Oura Ring 4 was such an unmitigated success that out of 5.5 million Oura rings sold since its inception in 2013, nearly half of them were sold in the past year "
+        ],
+        "hopeful_bullets": [
+          "• Finnish ring manufacturer Oura has jumped so far ahead of the pack that it's scarcely fair to put them in the same category anymore",
+          "• Last year's Oura Ring 4 was such an unmitigated success that out of 5.5 million Oura rings sold since its inception in 2013, nearly half of them were sold in the past year "
+        ],
+        "stakes_bullets": [
+          "• Finnish ring manufacturer Oura has jumped so far ahead of the pack that it's scarcely fair to put them in the same category anymore",
+          "• Last year's Oura Ring 4 was such an unmitigated success that out of 5.5 million Oura rings sold since its inception in 2013, nearly half of them were sold in the past year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "22f9a51f3634"
+    },
+    {
+      "id": "0cd361ae9c14",
+      "title": "Virginia governor’s race shaken up by ‘violent’ texts sent by ally of Democratic candidate",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/07/virginia-governor-election-spanberger",
+      "published_at": "Tue, 07 Oct 2025 19:11:03 GMT",
+      "bullets": [
+        "• Republican candidate for Senate seat in Minnesota has been accused of being racist",
+        "• Donald Trump has called for his opponent to drop out of the race for the Senate seat",
+        "• The candidate for the seat has been charged with defamation of Donald Trump’s wife, Hillary Clinton "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Republican candidate for Senate seat in Minnesota has been accused of being racist",
+          "• Donald Trump has called for his opponent to drop out of the race for the Senate seat"
+        ],
+        "hopeful_bullets": [
+          "• Republican candidate for Senate seat in Minnesota has been accused of being racist",
+          "• Donald Trump has called for his opponent to drop out of the race for the Senate seat"
+        ],
+        "stakes_bullets": [
+          "• Republican candidate for Senate seat in Minnesota has been accused of being racist",
+          "• Donald Trump has called for his opponent to drop out of the race for the Senate seat",
+          "• The candidate for the seat has been charged with defamation of Donald Trump’s wife, Hillary Clinton "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "12458d9bd4b4"
+    },
+    {
+      "id": "5eecd0c2f80a",
+      "title": "Rebecca Ferguson Confirms Dune 3 Return",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dune-3-rebecca-ferguson-confirms-lady-jessica-return/",
+      "published_at": "Tue, 07 Oct 2025 19:08:31 GMT",
+      "bullets": [
+        "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
+        "• The actress has already finished filming her role as Lady Jessica",
+        "• She is now the sixth returning cast member for the threequel",
+        "• Jason Momoa's son, Nakoa-Wolf Momoa, and Ida Brooke have also been cast "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
+          "• The actress has already finished filming her role as Lady Jessica"
+        ],
+        "hopeful_bullets": [
+          "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
+          "• The actress has already finished filming her role as Lady Jessica"
+        ],
+        "stakes_bullets": [
+          "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
+          "• The actress has already finished filming her role as Lady Jessica",
+          "• She is now the sixth returning cast member for the threequel"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ce5298761bc8"
+    },
+    {
+      "id": "0e21171ab871",
+      "title": "Prime Day 2025 - We’re Tracking Deals Live",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/live/amazon-prime-day-deals-october-25/",
+      "published_at": "Tue, 07 Oct 2025 19:08:03 +0000",
+      "bullets": [
+        "• Amazon Prime Day kicks off the holiday shopping season on October 7 and 8",
+        "• Nearly everyone on the 15-person WIRED Reviews team will chime in throughout the event",
+        "• The two-day sale event is known as Big Deal Days, but everyone we know still refers to it as Prime Day, Part Two "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.573
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon Prime Day kicks off the holiday shopping season on October 7 and 8",
+          "• Nearly everyone on the 15-person WIRED Reviews team will chime in throughout the event"
+        ],
+        "hopeful_bullets": [
+          "• Amazon Prime Day kicks off the holiday shopping season on October 7 and 8",
+          "• Nearly everyone on the 15-person WIRED Reviews team will chime in throughout the event"
+        ],
+        "stakes_bullets": [
+          "• Nearly everyone on the 15-person WIRED Reviews team will chime in throughout the event"
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "9ac49cee8af9"
+    },
+    {
+      "id": "79ff760fbca0",
+      "title": "Charlie Hunnam's Monster Season 3 Takes the Charts Hostage (But Still Below Previous Seasons)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/charlie-hunnam-monster-debut-viewership-number-streaming-october-2025/",
+      "published_at": "Tue, 07 Oct 2025 19:06:48 GMT",
+      "bullets": [
+        "• Monster: The Ed Gein Story just debuted on Oct",
+        "• 3, and it has headed straight to the top of the charts",
+        "• Charlie Hunnam's new entry brought in the worst numbers so far, with 12.2 million views and 90.6 million hours viewed",
+        "• However, it is just slightly behind Season 2, with a debut of 12.3 million views "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Monster: The Ed Gein Story just debuted on Oct",
+          "• 3, and it has headed straight to the top of the charts"
+        ],
+        "hopeful_bullets": [
+          "• Monster: The Ed Gein Story just debuted on Oct",
+          "• 3, and it has headed straight to the top of the charts"
+        ],
+        "stakes_bullets": [
+          "• Monster: The Ed Gein Story just debuted on Oct",
+          "• 3, and it has headed straight to the top of the charts",
+          "• Charlie Hunnam's new entry brought in the worst numbers so far, with 12.2 million views and 90.6 million hours viewed"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7b75fafe506c"
+    },
+    {
       "id": "af3f08b6fc12",
       "title": "Star of Fall 2025's Biggest Isekai Hit Anime Opens Up About 'Crazy' MAPPA Series",
       "outlet": "CBR",
@@ -492,6 +1089,105 @@
       },
       "read_minutes": 3,
       "cluster_id": "d8aafbb00fc7"
+    },
+    {
+      "id": "2a79b01b2ee6",
+      "title": "We Found the 214 Best Prime Day Deals of 2025: Up To 55% Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/prime-day-deals-october-2025/",
+      "published_at": "Tue, 07 Oct 2025 19:02:40 +0000",
+      "bullets": [
+        "• The mega-retailer’s two-day sales event for Prime members is in full swing",
+        "• There are plenty of deals on some of our favorite gear and gadgets, from Alexa-enabled speakers to robot vacs to laptops and tablets",
+        "• We've added fresh deals and removed about a dozen dead deals "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The mega-retailer’s two-day sales event for Prime members is in full swing",
+          "• There are plenty of deals on some of our favorite gear and gadgets, from Alexa-enabled speakers to robot vacs to laptops and tablets"
+        ],
+        "hopeful_bullets": [
+          "• The mega-retailer’s two-day sales event for Prime members is in full swing"
+        ],
+        "stakes_bullets": [
+          "• The mega-retailer’s two-day sales event for Prime members is in full swing",
+          "• There are plenty of deals on some of our favorite gear and gadgets, from Alexa-enabled speakers to robot vacs to laptops and tablets",
+          "• We've added fresh deals and removed about a dozen dead deals "
+        ]
+      },
+      "read_minutes": 49,
+      "cluster_id": "923f14c6c772"
+    },
+    {
+      "id": "6ccfd17a7e07",
+      "title": "Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back’ – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates",
+      "published_at": "Tue, 07 Oct 2025 19:02:37 GMT",
+      "bullets": [
+        "• Furloughed government workers may not be entitled to back pay according to White House memo",
+        "• Memo argues that an amendment to the Government Employee Fair Treatment Act (GEFTA) of 2019, which Trump signed during the last government shutdown, doesn't guarantee back pay",
+        "• Republican leaders on Capitol Hill have been similarly evasive on the issue "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Furloughed government workers may not be entitled to back pay according to White House memo",
+          "• Memo argues that an amendment to the Government Employee Fair Treatment Act (GEFTA) of 2019, which Trump signed during the last government shutdown, doesn't guarantee back pay"
+        ],
+        "hopeful_bullets": [
+          "• Furloughed government workers may not be entitled to back pay according to White House memo",
+          "• Memo argues that an amendment to the Government Employee Fair Treatment Act (GEFTA) of 2019, which Trump signed during the last government shutdown, doesn't guarantee back pay"
+        ],
+        "stakes_bullets": [
+          "• Republican leaders on Capitol Hill have been similarly evasive on the issue "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "0679efdc828a"
+    },
+    {
+      "id": "aed7b4d6bbd0",
+      "title": "The Best Prime Day TV Deals (2025)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/prime-day-tv-deals-october-2025/",
+      "published_at": "Tue, 07 Oct 2025 19:00:44 +0000",
+      "bullets": [
+        "• Prime Day is here (again) and that means it's a great time to consider swapping out your aging TV for a cost-friendly upgrade",
+        "• We've hunted down the best Prime Big Deal Days TV sales",
+        "• These picks are pulled from the best TVs we've tested, so you can be assured they'll fill your living room with killer contrast, and general 4K HDR awesomeness "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Prime Day is here (again) and that means it's a great time to consider swapping out your aging TV for a cost-friendly upgrade",
+          "• We've hunted down the best Prime Big Deal Days TV sales"
+        ],
+        "hopeful_bullets": [
+          "• Prime Day is here (again) and that means it's a great time to consider swapping out your aging TV for a cost-friendly upgrade",
+          "• We've hunted down the best Prime Big Deal Days TV sales"
+        ],
+        "stakes_bullets": [
+          "• Prime Day is here (again) and that means it's a great time to consider swapping out your aging TV for a cost-friendly upgrade",
+          "• We've hunted down the best Prime Big Deal Days TV sales",
+          "• These picks are pulled from the best TVs we've tested, so you can be assured they'll fill your living room with killer contrast, and general 4K HDR awesomeness "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a3e7af88e4f4"
     },
     {
       "id": "c6f9ab461fa6",
@@ -557,38 +1253,106 @@
       "cluster_id": "9381b8c7cc3a"
     },
     {
+      "id": "8a8305fbc003",
+      "title": "Turn-Based Horror RPG ‘House of Necrosis’ Now Available [Trailer]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3907810/turn-based-horror-rpg-house-of-necrosis-now-available-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=turn-based-horror-rpg-house-of-necrosis-now-available-trailer",
+      "published_at": "Tue, 07 Oct 2025 19:00:12 +0000",
+      "bullets": [
+        "• Warkus' turn-based RPG House of Necrosis is out now with a 10% launch discount until October 13",
+        "• The game is inspired by the early 3D Survival Horror games of the 90s",
+        "• Players enter a vaguely-familiar mansion that changes every time you enter "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Warkus' turn-based RPG House of Necrosis is out now with a 10% launch discount until October 13",
+          "• The game is inspired by the early 3D Survival Horror games of the 90s"
+        ],
+        "hopeful_bullets": [
+          "• Warkus' turn-based RPG House of Necrosis is out now with a 10% launch discount until October 13",
+          "• The game is inspired by the early 3D Survival Horror games of the 90s"
+        ],
+        "stakes_bullets": [
+          "• Warkus' turn-based RPG House of Necrosis is out now with a 10% launch discount until October 13",
+          "• The game is inspired by the early 3D Survival Horror games of the 90s",
+          "• Players enter a vaguely-familiar mansion that changes every time you enter "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "40f7def737c0"
+    },
+    {
       "id": "6917212cc32a",
       "title": "Tesla prices Model Y standard below $40,000, debuting more affordable vehicle",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/07/tesla-stock-roadster-budget-model-y.html",
-      "published_at": "Tue, 07 Oct 2025 18:37:54 GMT",
+      "published_at": "Tue, 07 Oct 2025 18:52:33 GMT",
       "bullets": [
-        "• Tesla has priced the Model Y below $40,000, the website shows",
-        "• The company also announced a new version of its self-driving supervised technology Tuesday morning",
-        "• Shares climbed 5% Monday as the buzz grew online over what the announcement would be "
+        "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+        "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000",
+        "• The company also released a new version of its Full Self-Driving (Supervised) driver assistance system "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Tesla has priced the Model Y below $40,000, the website shows",
-          "• The company also announced a new version of its self-driving supervised technology Tuesday morning"
+          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000"
         ],
         "hopeful_bullets": [
-          "• Tesla has priced the Model Y below $40,000, the website shows",
-          "• The company also announced a new version of its self-driving supervised technology Tuesday morning"
+          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000"
         ],
         "stakes_bullets": [
-          "• Tesla has priced the Model Y below $40,000, the website shows",
-          "• The company also announced a new version of its self-driving supervised technology Tuesday morning",
-          "• Shares climbed 5% Monday as the buzz grew online over what the announcement would be "
+          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000",
+          "• The company also released a new version of its Full Self-Driving (Supervised) driver assistance system "
         ]
       },
       "read_minutes": 2,
       "cluster_id": "9e3781b4de84"
+    },
+    {
+      "id": "da6133208fa5",
+      "title": "Pam Bondi and Senate Democrats spar amid Trump’s troop deployments",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/07/pam-bondi-testimony-senate-trump-troop-deployments",
+      "published_at": "Tue, 07 Oct 2025 18:39:41 GMT",
+      "bullets": [
+        "• The president of the United States has been elected to the U.S",
+        "• House of Representatives in Washington, D.C., for the first time since 2001",
+        "• He has been charged with the crime of illegal immigration in the past year",
+        "• The White House has been accused of over-rewarding the president of Mexico’s illegal immigration policy",
+        "• The U.N"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.926
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The president of the United States has been elected to the U.S",
+          "• House of Representatives in Washington, D.C., for the first time since 2001"
+        ],
+        "hopeful_bullets": [
+          "• The president of the United States has been elected to the U.S",
+          "• House of Representatives in Washington, D.C., for the first time since 2001"
+        ],
+        "stakes_bullets": [
+          "• The White House has been accused of over-rewarding the president of Mexico’s illegal immigration policy"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "346817a42cb6"
     },
     {
       "id": "26ec882fa46f",
@@ -689,38 +1453,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7782c54eada9"
-    },
-    {
-      "id": "6ccfd17a7e07",
-      "title": "Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back’ – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Tue, 07 Oct 2025 18:34:46 GMT",
-      "bullets": [
-        "• Furloughed government workers may not be entitled to back pay according to White House memo",
-        "• Memo argues that an amendment to the Government Employee Fair Treatment Act (GEFTA) of 2019, which Trump signed during the last government shutdown, doesn't guarantee back pay",
-        "• Republican leaders on Capitol Hill have been similarly evasive on the issue "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Furloughed government workers may not be entitled to back pay according to White House memo",
-          "• Memo argues that an amendment to the Government Employee Fair Treatment Act (GEFTA) of 2019, which Trump signed during the last government shutdown, doesn't guarantee back pay"
-        ],
-        "hopeful_bullets": [
-          "• Furloughed government workers may not be entitled to back pay according to White House memo",
-          "• Memo argues that an amendment to the Government Employee Fair Treatment Act (GEFTA) of 2019, which Trump signed during the last government shutdown, doesn't guarantee back pay"
-        ],
-        "stakes_bullets": [
-          "• Republican leaders on Capitol Hill have been similarly evasive on the issue "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "0679efdc828a"
     },
     {
       "id": "de4bcc63f2c4",
@@ -889,41 +1621,6 @@
       "cluster_id": "2b1364668e5b"
     },
     {
-      "id": "b00036ddf740",
-      "title": "Michael Mann's Heat 2 Is Finally Moving Forward",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/michael-mann-heat-2-moving-forward-united-artists/",
-      "published_at": "Tue, 07 Oct 2025 18:24:54 GMT",
-      "bullets": [
-        "• United Artists, a division of Amazon MGM Studios, is in talks to acquire the project",
-        "• Jerry Bruckheimer and Scott Stuber have boarded the project as producers",
-        "• Leonardo DiCaprio is circling a role in the sequel",
-        "• Adam Driver, Austin Butler, and Bradley Cooper, among others, are also reportedly in the mix for roles in the movie "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• United Artists, a division of Amazon MGM Studios, is in talks to acquire the project",
-          "• Jerry Bruckheimer and Scott Stuber have boarded the project as producers"
-        ],
-        "hopeful_bullets": [
-          "• United Artists, a division of Amazon MGM Studios, is in talks to acquire the project",
-          "• Jerry Bruckheimer and Scott Stuber have boarded the project as producers"
-        ],
-        "stakes_bullets": [
-          "• United Artists, a division of Amazon MGM Studios, is in talks to acquire the project",
-          "• Jerry Bruckheimer and Scott Stuber have boarded the project as producers",
-          "• Leonardo DiCaprio is circling a role in the sequel"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0faf37a7f122"
-    },
-    {
       "id": "41959e7bc929",
       "title": "The Best Prime Day Apple Deals, From Watches to iPads (2025)",
       "outlet": "WIRED",
@@ -993,38 +1690,6 @@
       "cluster_id": "a6f1515cc8f2"
     },
     {
-      "id": "fed45b76fe84",
-      "title": "Stephen King-Praised Killing Faith Debuts with Solid Rotten Tomatoes Score",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/killing-faith-rotten-tomatoes-score/",
-      "published_at": "Tue, 07 Oct 2025 18:21:20 GMT",
-      "bullets": [
-        "• Killing Faith has debuted on Rotten Tomatoes with an 85% critic rating, based on 13 reviews",
-        "• The film stars Guy Pearce and Bill Pullman",
-        "• The movie is set in the “plagued-ravaged deserts” of the Arizona territory in 1849 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Killing Faith has debuted on Rotten Tomatoes with an 85% critic rating, based on 13 reviews",
-          "• The film stars Guy Pearce and Bill Pullman"
-        ],
-        "hopeful_bullets": [
-          "• Killing Faith has debuted on Rotten Tomatoes with an 85% critic rating, based on 13 reviews",
-          "• The film stars Guy Pearce and Bill Pullman"
-        ],
-        "stakes_bullets": [
-          "• The film stars Guy Pearce and Bill Pullman"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e34f9365e275"
-    },
-    {
       "id": "0456eaa0d107",
       "title": "The Best Prime Day Vacuum Deals (2025): Dyson, Bissell, Black + Decker",
       "outlet": "WIRED",
@@ -1054,7 +1719,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "96451b95252a"
+      "cluster_id": "a3e7af88e4f4"
     },
     {
       "id": "67d0edd2ae96",
@@ -1157,42 +1822,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "431aee3b84e6"
-    },
-    {
-      "id": "be3af09592c0",
-      "title": "Harry Potter and the Sorcerer's Stone Returns to Theaters",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/harry-potter-and-the-sorcerers-stone-returns-to-theaters/",
-      "published_at": "Tue, 07 Oct 2025 18:13:43 GMT",
-      "bullets": [
-        "• 2001's Harry Potter and the Philosopher's Stone will return to theaters in November 2026",
-        "• The film will celebrate the 25th anniversary with a new logo",
-        "• It will also include special edition merch, promotions, and other exclusive goodies",
-        "• Warner Bros",
-        "• has not set a release date for the film "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 2001's Harry Potter and the Philosopher's Stone will return to theaters in November 2026",
-          "• The film will celebrate the 25th anniversary with a new logo"
-        ],
-        "hopeful_bullets": [
-          "• 2001's Harry Potter and the Philosopher's Stone will return to theaters in November 2026",
-          "• The film will celebrate the 25th anniversary with a new logo"
-        ],
-        "stakes_bullets": [
-          "• 2001's Harry Potter and the Philosopher's Stone will return to theaters in November 2026",
-          "• The film will celebrate the 25th anniversary with a new logo",
-          "• It will also include special edition merch, promotions, and other exclusive goodies"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ef3a7a24cfeb"
     },
     {
       "id": "56e551ae5072",
@@ -1496,38 +2125,6 @@
       "cluster_id": "ea69b21526c7"
     },
     {
-      "id": "27bd1f3e4f91",
-      "title": "Burning X-Men Question: Were Gambit and Kitty Pryde Meant to Be a Couple?",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/xmen-gambit-and-kitty-pryde-meant-be-couple/",
-      "published_at": "Tue, 07 Oct 2025 17:34:46 GMT",
-      "bullets": [
-        "• Chris Claremont's original plans for Mister Sinister and Gambit were very different than what we actually saw in the comics after Claremont stopped writing X-Men",
-        "• \"Nathan\" would then also create a HEROIC counterpart, and that would be Gambit",
-        "• The presumption is that when push comes to shove, Gambit would pull out "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chris Claremont's original plans for Mister Sinister and Gambit were very different than what we actually saw in the comics after Claremont stopped writing X-Men",
-          "• \"Nathan\" would then also create a HEROIC counterpart, and that would be Gambit"
-        ],
-        "hopeful_bullets": [
-          "• Chris Claremont's original plans for Mister Sinister and Gambit were very different than what we actually saw in the comics after Claremont stopped writing X-Men",
-          "• \"Nathan\" would then also create a HEROIC counterpart, and that would be Gambit"
-        ],
-        "stakes_bullets": [
-          "• Chris Claremont's original plans for Mister Sinister and Gambit were very different than what we actually saw in the comics after Claremont stopped writing X-Men"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1f124d9631d4"
-    },
-    {
       "id": "2b56e17749d1",
       "title": "Gold prices keep rising, and jewelry companies are sounding the alarm",
       "outlet": "US Top News and Analysis",
@@ -1559,40 +2156,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "58ab95602b78"
-    },
-    {
-      "id": "9cbf81684fd9",
-      "title": "Shudder’s New 91% RT Horror Flick Is the Paranormal Activity Replacement Fans Have Been Waiting For",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/shudders-good-boy-perfect-paranormal-activity-replacement/",
-      "published_at": "Tue, 07 Oct 2025 17:30:12 GMT",
-      "bullets": [
-        "• Good Boy (2025) is a supernatural horror film that tells its story from the point of view of a dog",
-        "• The movie follows Indy, a Nova Scotia Duck Tolling Retriever, and his owner, Todd, suffering from some sort of serious lung disease",
-        "• Good Boy has wowed audiences and critics alike "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Good Boy (2025) is a supernatural horror film that tells its story from the point of view of a dog",
-          "• The movie follows Indy, a Nova Scotia Duck Tolling Retriever, and his owner, Todd, suffering from some sort of serious lung disease"
-        ],
-        "hopeful_bullets": [
-          "• Good Boy (2025) is a supernatural horror film that tells its story from the point of view of a dog",
-          "• The movie follows Indy, a Nova Scotia Duck Tolling Retriever, and his owner, Todd, suffering from some sort of serious lung disease"
-        ],
-        "stakes_bullets": [
-          "• Good Boy (2025) is a supernatural horror film that tells its story from the point of view of a dog",
-          "• The movie follows Indy, a Nova Scotia Duck Tolling Retriever, and his owner, Todd, suffering from some sort of serious lung disease",
-          "• Good Boy has wowed audiences and critics alike "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "19f7f9cde981"
     },
     {
       "id": "8a0b016f5a4b",
@@ -1761,39 +2324,6 @@
       "cluster_id": "ef3754a441b9"
     },
     {
-      "id": "665f75bf4dd5",
-      "title": "72 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 17:18:14 +0000",
-      "bullets": [
-        "• Prime Day is only for Prime members and runs October 7 and 8",
-        "• From affordable headphones to conveniences like wireless charging pads, below you'll find the best deals for budget shoppers",
-        "• For more bargains, be sure to consult our Absolute Best Prime Day Deals roundup "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.934
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Prime Day is only for Prime members and runs October 7 and 8",
-          "• From affordable headphones to conveniences like wireless charging pads, below you'll find the best deals for budget shoppers"
-        ],
-        "hopeful_bullets": [
-          "• For more bargains, be sure to consult our Absolute Best Prime Day Deals roundup "
-        ],
-        "stakes_bullets": [
-          "• Prime Day is only for Prime members and runs October 7 and 8",
-          "• From affordable headphones to conveniences like wireless charging pads, below you'll find the best deals for budget shoppers",
-          "• For more bargains, be sure to consult our Absolute Best Prime Day Deals roundup "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "92052ab4c8e1"
-    },
-    {
       "id": "1982cbdac443",
       "title": "‘For Sale By Exorcist’ To Play Black Sunday Film Festival Halloween Event",
       "outlet": "Dread Central",
@@ -1857,40 +2387,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "a5d325fb7a68"
-    },
-    {
-      "id": "a4a1eff1ed94",
-      "title": "You Can Save Big on Apple's AirPods Pro 2 for Prime Day",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/airpods-pro-prime-day-sale-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 17:08:50 +0000",
-      "bullets": [
-        "• Previous-generation AirPods Pro 2 are getting a $170 discount on Amazon's Prime Day deal",
-        "• This isn't the best deal we've seen on the Pro 2, but it's $20 short of that $249",
-        "• The Pro 2's H2 chip provides enough computing power to run point inside the new, more advanced Airpods "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Previous-generation AirPods Pro 2 are getting a $170 discount on Amazon's Prime Day deal",
-          "• This isn't the best deal we've seen on the Pro 2, but it's $20 short of that $249"
-        ],
-        "hopeful_bullets": [
-          "• Previous-generation AirPods Pro 2 are getting a $170 discount on Amazon's Prime Day deal",
-          "• This isn't the best deal we've seen on the Pro 2, but it's $20 short of that $249"
-        ],
-        "stakes_bullets": [
-          "• Previous-generation AirPods Pro 2 are getting a $170 discount on Amazon's Prime Day deal",
-          "• This isn't the best deal we've seen on the Pro 2, but it's $20 short of that $249",
-          "• The Pro 2's H2 chip provides enough computing power to run point inside the new, more advanced Airpods "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "be02da9f459d"
     },
     {
       "id": "5dd39d31f93a",
@@ -2095,41 +2591,6 @@
       "cluster_id": "a7f5a28d5694"
     },
     {
-      "id": "6fcc28476baa",
-      "title": "Republicans face pressure to consider Democrats' health care demands as shutdown drags on",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/07/republicans-democrats-health-care-demands-shutdown-.html",
-      "published_at": "Tue, 07 Oct 2025 16:52:42 GMT",
-      "bullets": [
-        "• Sen",
-        "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown",
-        "• Collins has been circulating a \"discussion draft\" of a deal related to enhanced Obamacare tax credits",
-        "• But she is not ready to give in on the primary demand by her Democratic colleagues "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sen",
-          "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• Sen",
-          "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown"
-        ],
-        "stakes_bullets": [
-          "• Sen",
-          "• Susan Collins is reportedly shopping around a potential off-ramp to the government shutdown",
-          "• Collins has been circulating a \"discussion draft\" of a deal related to enhanced Obamacare tax credits"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fbf01162c3a2"
-    },
-    {
       "id": "b5d93083c50d",
       "title": "Former LA deputy mayor sentenced to year of probation for bomb threat hoax",
       "outlet": "US news | The Guardian",
@@ -2230,40 +2691,6 @@
       "cluster_id": "4c5f32c4c0a1"
     },
     {
-      "id": "744f890df964",
-      "title": "Save 25 Percent on This Sonos Prime Day Soundbar Deal",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/prime-day-soundbar-deal-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 16:34:14 +0000",
-      "bullets": [
-        "• Sonos Beam Gen 2 is loaded with networking features, including Wi-Fi and AirPlay",
-        "• The Beam's sound quality is among the best in its class, with only Bose's Smart Soundbar keeping pace",
-        "• You'll find carefully designed curves, slick touch controls, and a compact chassis that fits on any console and below "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.954
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sonos Beam Gen 2 is loaded with networking features, including Wi-Fi and AirPlay",
-          "• The Beam's sound quality is among the best in its class, with only Bose's Smart Soundbar keeping pace"
-        ],
-        "hopeful_bullets": [
-          "• Sonos Beam Gen 2 is loaded with networking features, including Wi-Fi and AirPlay",
-          "• The Beam's sound quality is among the best in its class, with only Bose's Smart Soundbar keeping pace"
-        ],
-        "stakes_bullets": [
-          "• Sonos Beam Gen 2 is loaded with networking features, including Wi-Fi and AirPlay",
-          "• The Beam's sound quality is among the best in its class, with only Bose's Smart Soundbar keeping pace",
-          "• You'll find carefully designed curves, slick touch controls, and a compact chassis that fits on any console and below "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8ccf543be5a3"
-    },
-    {
       "id": "a0c903a64991",
       "title": "Qualcomm is buying Arduino, releases new Raspberry Pi-esque Arduino board",
       "outlet": "Ars Technica - All content",
@@ -2296,40 +2723,6 @@
       "cluster_id": "268a277cc25b"
     },
     {
-      "id": "e7f68a627594",
-      "title": "Dyson's Best Vacuum Is on Sale for $180 Off Its Regular Price",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/dyson-v15-detect-plus-sale-prime-day-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 16:29:53 +0000",
-      "bullets": [
-        "• The Dyson V15 Detect is our favorite Dyson vacuum",
-        "• It's got everything you want in a modern Dyson vacuums: two cleaner heads, a hair screw tool, impressive suction power, and up to 60 minutes of runtime",
-        "• The Plus Plus version is on sale at Amazon's Prime Big Deal Days "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.922
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Dyson V15 Detect is our favorite Dyson vacuum",
-          "• It's got everything you want in a modern Dyson vacuums: two cleaner heads, a hair screw tool, impressive suction power, and up to 60 minutes of runtime"
-        ],
-        "hopeful_bullets": [
-          "• The Dyson V15 Detect is our favorite Dyson vacuum",
-          "• It's got everything you want in a modern Dyson vacuums: two cleaner heads, a hair screw tool, impressive suction power, and up to 60 minutes of runtime"
-        ],
-        "stakes_bullets": [
-          "• The Dyson V15 Detect is our favorite Dyson vacuum",
-          "• It's got everything you want in a modern Dyson vacuums: two cleaner heads, a hair screw tool, impressive suction power, and up to 60 minutes of runtime",
-          "• The Plus Plus version is on sale at Amazon's Prime Big Deal Days "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e0def5da677c"
-    },
-    {
       "id": "a547f3d893a2",
       "title": "Flight delays as US air traffic controllers feel strain of government shutdown",
       "outlet": "US news | The Guardian",
@@ -2360,39 +2753,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "11a8872eb4f8"
-    },
-    {
-      "id": "12c3cfd70cc3",
-      "title": "‘The Ritual House’ Trailer – Indie Horror Film Haunts Tubi This Month",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3907814/the-ritual-house-trailer-indie-horror-film-haunts-tubi-this-month/?utm_source=rss&utm_medium=rss&utm_campaign=the-ritual-house-trailer-indie-horror-film-haunts-tubi-this-month",
-      "published_at": "Tue, 07 Oct 2025 16:25:48 +0000",
-      "bullets": [
-        "• Indie horror film The Ritual House will be released on Tubi on October 24 via ITN Distirbution, with additional VOD platforms to follow later in the month",
-        "• Crystal J",
-        "• Huang directs from a script by Donna Spangler",
-        "• The production was reportedly plagued by unnerving paranormal occurrences "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Indie horror film The Ritual House will be released on Tubi on October 24 via ITN Distirbution, with additional VOD platforms to follow later in the month",
-          "• Crystal J"
-        ],
-        "hopeful_bullets": [
-          "• Indie horror film The Ritual House will be released on Tubi on October 24 via ITN Distirbution, with additional VOD platforms to follow later in the month",
-          "• Crystal J"
-        ],
-        "stakes_bullets": [
-          "• Indie horror film The Ritual House will be released on Tubi on October 24 via ITN Distirbution, with additional VOD platforms to follow later in the month"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "763d4bab0871"
     },
     {
       "id": "19c0ea6debb2",
@@ -2627,37 +2987,6 @@
       "cluster_id": "a3484d2268d1"
     },
     {
-      "id": "50c1fb75d672",
-      "title": "‘The Boulet Brothers’ Dragula: Titans’ Season Two Brings Out the All-Star Monster Claws [Interview]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/interviews/3907748/the-boulet-brothers-dragula-titans-season-two-brings-out-the-all-star-monster-claws-interview/?utm_source=rss&utm_medium=rss&utm_campaign=the-boulet-brothers-dragula-titans-season-two-brings-out-the-all-star-monster-claws-interview",
-      "published_at": "Tue, 07 Oct 2025 15:52:09 +0000",
-      "bullets": [
-        "• “The Boulet Brothers’ Dragula: Titans” Season Two is premiering today on Shudder and AMC+",
-        "• 14 of the fiercest drag artists from past seasons are back to prove themselves in a competition that will challenge them in every way, from performance art to intense fear-based tests "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• “The Boulet Brothers’ Dragula: Titans” Season Two is premiering today on Shudder and AMC+",
-          "• 14 of the fiercest drag artists from past seasons are back to prove themselves in a competition that will challenge them in every way, from performance art to intense fear-based tests "
-        ],
-        "hopeful_bullets": [
-          "• “The Boulet Brothers’ Dragula: Titans” Season Two is premiering today on Shudder and AMC+",
-          "• 14 of the fiercest drag artists from past seasons are back to prove themselves in a competition that will challenge them in every way, from performance art to intense fear-based tests "
-        ],
-        "stakes_bullets": [
-          "• 14 of the fiercest drag artists from past seasons are back to prove themselves in a competition that will challenge them in every way, from performance art to intense fear-based tests "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b96489f60c93"
-    },
-    {
       "id": "562cd1163e37",
       "title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision",
       "outlet": "Ars Technica - All content",
@@ -2691,40 +3020,6 @@
       "cluster_id": "fad9dbe79a37"
     },
     {
-      "id": "70034c64ac1f",
-      "title": "‘The Witcher’ Season 4 Trailer – Hope Is Reborn with Liam Hemsworth as Geralt of Rivia",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/tv/3907787/the-witcher-season-4-trailer-hope-is-reborn-with-liam-hemsworth-as-geralt-of-rivia/?utm_source=rss&utm_medium=rss&utm_campaign=the-witcher-season-4-trailer-hope-is-reborn-with-liam-hemsworth-as-geralt-of-rivia",
-      "published_at": "Tue, 07 Oct 2025 15:28:05 +0000",
-      "bullets": [
-        "• Liam Hemsworth officially wields the sword of Geralt of Rivia in the trailer for “The Witcher” Season 4",
-        "• The fantasy show returns October 30 on Netflix",
-        "• Hemsworth stars with Anya Chalotra, Freya Allan, Joey Batey, Meng’er Zhang, Eamon Farren and Laurence Fishburne "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Liam Hemsworth officially wields the sword of Geralt of Rivia in the trailer for “The Witcher” Season 4",
-          "• The fantasy show returns October 30 on Netflix"
-        ],
-        "hopeful_bullets": [
-          "• Liam Hemsworth officially wields the sword of Geralt of Rivia in the trailer for “The Witcher” Season 4",
-          "• The fantasy show returns October 30 on Netflix"
-        ],
-        "stakes_bullets": [
-          "• Liam Hemsworth officially wields the sword of Geralt of Rivia in the trailer for “The Witcher” Season 4",
-          "• The fantasy show returns October 30 on Netflix",
-          "• Hemsworth stars with Anya Chalotra, Freya Allan, Joey Batey, Meng’er Zhang, Eamon Farren and Laurence Fishburne "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ab86b6aaf87c"
-    },
-    {
       "id": "3f688f13def3",
       "title": "EPA Drops Planned Delay in Compliance With Fenceline Monitoring at Coke Plants",
       "outlet": "Inside Climate News",
@@ -2756,38 +3051,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1aeb930afc3d"
-    },
-    {
-      "id": "0d549153af84",
-      "title": "Federal agents taunted Chicago woman to ‘do something’ before shooting her, attorney claims",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/07/chicago-woman-shot-immigration-agents",
-      "published_at": "Tue, 07 Oct 2025 15:16:26 GMT",
-      "bullets": [
-        "• Marimar Martinez, 30, and Anthony Ian Santos Ruiz, 21, charged with 'assaulting, impeding, and interfering with a federal law enforcement officer' The shooting occurred on Saturday morning in Chicago’s Brighton Park neighborhood",
-        "• Body-camera footage shows one of the officers saying: “Do something, bitch,” before opening fire "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marimar Martinez, 30, and Anthony Ian Santos Ruiz, 21, charged with 'assaulting, impeding, and interfering with a federal law enforcement officer' The shooting occurred on Saturday morning in Chicago’s Brighton Park neighborhood",
-          "• Body-camera footage shows one of the officers saying: “Do something, bitch,” before opening fire "
-        ],
-        "hopeful_bullets": [
-          "• Marimar Martinez, 30, and Anthony Ian Santos Ruiz, 21, charged with 'assaulting, impeding, and interfering with a federal law enforcement officer' The shooting occurred on Saturday morning in Chicago’s Brighton Park neighborhood",
-          "• Body-camera footage shows one of the officers saying: “Do something, bitch,” before opening fire "
-        ],
-        "stakes_bullets": [
-          "• Marimar Martinez, 30, and Anthony Ian Santos Ruiz, 21, charged with 'assaulting, impeding, and interfering with a federal law enforcement officer' The shooting occurred on Saturday morning in Chicago’s Brighton Park neighborhood",
-          "• Body-camera footage shows one of the officers saying: “Do something, bitch,” before opening fire "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "eb5c2e6588ea"
     },
     {
       "id": "2c9d5e6892e8",
@@ -2857,40 +3120,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "545a895283b4"
-    },
-    {
-      "id": "da6133208fa5",
-      "title": "Pam Bondi and Senate Democrats spar amid Trump’s troop deployments",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/07/pam-bondi-testimony-senate-trump-troop-deployments",
-      "published_at": "Tue, 07 Oct 2025 14:55:18 GMT",
-      "bullets": [
-        "• The president of the United States has been elected to the U.S",
-        "• House of Representatives in Washington, D.C., for the first time since 2001",
-        "• He has been charged with the crime of illegal immigration in the past year",
-        "• The White House has been accused of over-rewarding the president of Mexico’s illegal immigration policy",
-        "• The U.N"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.926
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The president of the United States has been elected to the U.S",
-          "• House of Representatives in Washington, D.C., for the first time since 2001"
-        ],
-        "hopeful_bullets": [
-          "• The president of the United States has been elected to the U.S",
-          "• House of Representatives in Washington, D.C., for the first time since 2001"
-        ],
-        "stakes_bullets": [
-          "• The White House has been accused of over-rewarding the president of Mexico’s illegal immigration policy"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "346817a42cb6"
     },
     {
       "id": "ab7f1ed89188",
@@ -3025,37 +3254,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "b49ebd4ac16d"
-    },
-    {
-      "id": "da3b60fbb5de",
-      "title": "Rutgers professor moving to Europe after threats over antifa accusations",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/07/rutgers-professor-turning-point-usa",
-      "published_at": "Tue, 07 Oct 2025 14:00:03 GMT",
-      "bullets": [
-        "• Mark Bray is temporarily relocating to Europe as he grapples with threats that intensified after a student group affiliated with the organization founded by murdered conservative activist Charlie Kirk accused him of being “a prominent leader of the antifa movement on campus” The Turning Point USA chapter also says the presence of Bray threatens them and is calling for his firing from the New Jersey university",
-        "• Bray says those demands are little more than “manufactured outrage”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mark Bray is temporarily relocating to Europe as he grapples with threats that intensified after a student group affiliated with the organization founded by murdered conservative activist Charlie Kirk accused him of being “a prominent leader of the antifa movement on campus” The Turning Point USA chapter also says the presence of Bray threatens them and is calling for his firing from the New Jersey university",
-          "• Bray says those demands are little more than “manufactured outrage”"
-        ],
-        "hopeful_bullets": [
-          "• Mark Bray is temporarily relocating to Europe as he grapples with threats that intensified after a student group affiliated with the organization founded by murdered conservative activist Charlie Kirk accused him of being “a prominent leader of the antifa movement on campus” The Turning Point USA chapter also says the presence of Bray threatens them and is calling for his firing from the New Jersey university",
-          "• Bray says those demands are little more than “manufactured outrage”"
-        ],
-        "stakes_bullets": [
-          "• Mark Bray is temporarily relocating to Europe as he grapples with threats that intensified after a student group affiliated with the organization founded by murdered conservative activist Charlie Kirk accused him of being “a prominent leader of the antifa movement on campus” The Turning Point USA chapter also says the presence of Bray threatens them and is calling for his firing from the New Jersey university"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "558ddb6fc42f"
     },
     {
       "id": "4c31b532aa04",
@@ -3387,6 +3585,41 @@
       },
       "read_minutes": 4,
       "cluster_id": "c6df57f67de9"
+    },
+    {
+      "id": "dc7cd5acc813",
+      "title": "Everything You Need To Know About The Vintage Collection Bom Vimdin (VC53) Re-release!",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-07-everything-you-need-to-know-about-the-vintage-collection-bom-vimdin-vc53-re-release/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-need-to-know-about-the-vintage-collection-bom-vimdin-vc53-re-release",
+      "published_at": "Tue, 07 Oct 2025 10:34:51 +0000",
+      "bullets": [
+        "• The Bom Vimdin re-released in The Vintage Collection",
+        "• Hasbro changed the figure and its packaging",
+        "• There’s more difference between the 2011 version and the 2025 reissue than you may realize",
+        "• An all-new 68-image gallery with comparison shots and a breakdown of what separates the 2011 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Bom Vimdin re-released in The Vintage Collection",
+          "• Hasbro changed the figure and its packaging"
+        ],
+        "hopeful_bullets": [
+          "• The Bom Vimdin re-released in The Vintage Collection",
+          "• Hasbro changed the figure and its packaging"
+        ],
+        "stakes_bullets": [
+          "• The Bom Vimdin re-released in The Vintage Collection",
+          "• Hasbro changed the figure and its packaging",
+          "• There’s more difference between the 2011 version and the 2025 reissue than you may realize"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0dd6956950e5"
     },
     {
       "id": "32ff308d0cef",
@@ -3759,38 +3992,38 @@
       "cluster_id": "55d98a0b94bd"
     },
     {
-      "id": "a983dbe85a4b",
-      "title": "Illinois AG responds to Trump's push to send National Guard to Chicago",
+      "id": "3e157f0464ad",
+      "title": "Deploying troops to Chicago is not legally justified, says Illinois attorney general",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5564051/illinois-ag-responds-to-trumps-push-to-send-national-guard-to-chicago",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5564051/chicago-national-guard-troops-trump",
       "published_at": "Tue, 07 Oct 2025 06:48:42 -0400",
       "bullets": [
-        "• Illinois AG responds to Trump's push to send National Guard to Chicago",
-        "• Kwame Raoul: The militia clause of the Constitution gives Congress the power to determine when the president can federalize the Guard",
-        "• Raoul says the judge didn't say the troops can come, but further arguments lie ahead "
+        "• Illinois attorney general says deployment of troops to Chicago is not legally justified",
+        "• The state filed a lawsuit against the Trump administration on Monday",
+        "• President Trump has been carrying out aggressive immigration enforcement in Chicago",
+        "• The actions have led to tense standoffs between protestors and federal agents "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Illinois AG responds to Trump's push to send National Guard to Chicago",
-          "• Kwame Raoul: The militia clause of the Constitution gives Congress the power to determine when the president can federalize the Guard"
+          "• Illinois attorney general says deployment of troops to Chicago is not legally justified",
+          "• The state filed a lawsuit against the Trump administration on Monday"
         ],
         "hopeful_bullets": [
-          "• Illinois AG responds to Trump's push to send National Guard to Chicago",
-          "• Kwame Raoul: The militia clause of the Constitution gives Congress the power to determine when the president can federalize the Guard"
+          "• The state filed a lawsuit against the Trump administration on Monday"
         ],
         "stakes_bullets": [
-          "• Illinois AG responds to Trump's push to send National Guard to Chicago",
-          "• Kwame Raoul: The militia clause of the Constitution gives Congress the power to determine when the president can federalize the Guard",
-          "• Raoul says the judge didn't say the troops can come, but further arguments lie ahead "
+          "• Illinois attorney general says deployment of troops to Chicago is not legally justified",
+          "• The state filed a lawsuit against the Trump administration on Monday",
+          "• President Trump has been carrying out aggressive immigration enforcement in Chicago"
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "9d56c7f2c03b"
+      "read_minutes": 3,
+      "cluster_id": "235881e5491e"
     },
     {
       "id": "a4d3b2a3de03",
@@ -4225,39 +4458,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "6211d6155a74"
-    },
-    {
-      "id": "a79c7587e479",
-      "title": "Head of Social Security tapped to run IRS, sparking concerns",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5563985/head-of-social-security-tapped-to-run-irs-sparking-concerns",
-      "published_at": "Tue, 07 Oct 2025 04:54:11 -0400",
-      "bullets": [
-        "• Head of Social Security tapped to run IRS, sparking concerns",
-        "• Critics worry one person running two critical agencies is a mistake",
-        "• Frank Bisignano will take over day-to-day operations of the IRS",
-        "• He'd spent decades in the private sector running financial and technology companies "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.955
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Head of Social Security tapped to run IRS, sparking concerns",
-          "• Critics worry one person running two critical agencies is a mistake"
-        ],
-        "hopeful_bullets": [
-          "• Head of Social Security tapped to run IRS, sparking concerns",
-          "• Critics worry one person running two critical agencies is a mistake"
-        ],
-        "stakes_bullets": [
-          "• Frank Bisignano will take over day-to-day operations of the IRS"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9e1da6469ed8"
     },
     {
       "id": "bb0a5fea927c",
@@ -5413,6 +5613,38 @@
       "cluster_id": "20aff8d8299a"
     },
     {
+      "id": "f3bc6f527dda",
+      "title": "TVC15: Anakin Skywalker (Peasant Disguise) (VC32)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-04-tvc15-anakin-skywalker-peasant-disguise-vc32/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-anakin-skywalker-peasant-disguise-vc32",
+      "published_at": "Sun, 05 Oct 2025 02:32:29 +0000",
+      "bullets": [
+        "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+        "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.618
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+        ],
+        "stakes_bullets": [
+          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "06464c4fde60"
+    },
+    {
       "id": "c1fa9628700b",
       "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
       "outlet": "The Star Wars Report Podcast",
@@ -5742,7 +5974,7 @@
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "ce288799fa10"
+      "cluster_id": "9fc13c25c625"
     },
     {
       "id": "009c60963c4e",
@@ -6012,6 +6244,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "e3f2b8be7cd8"
+    },
+    {
+      "id": "16253c338978",
+      "title": "TVC15: Boba Fett [Return Of The Jedi] (VC09)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-06-tvc15-boba-fett-return-of-the-jedi-vc09/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-return-of-the-jedi-vc09",
+      "published_at": "Mon, 06 Oct 2025 23:24:38 +0000",
+      "bullets": [
+        "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+        "• This figure should have come with a unique VC number",
+        "• While now obsolete, this VOTC repack was a welcome addition to the lineup "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+          "• This figure should have come with a unique VC number"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+          "• This figure should have come with a unique VC number"
+        ],
+        "stakes_bullets": [
+          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+          "• This figure should have come with a unique VC number",
+          "• While now obsolete, this VOTC repack was a welcome addition to the lineup "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ec324ac656c7"
     },
     {
       "id": "195339fa559b",
@@ -6432,101 +6698,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "cf0e4b6d9070"
-    },
-    {
-      "id": "963068b88836",
-      "title": "Nightmares Film Festival Reveals Full 10th Anniversary Lineup",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/545184/nightmares-film-festival-reveals-full-10th-anniversary-lineup/",
-      "published_at": "Mon, 06 Oct 2025 19:29:13 +0000",
-      "bullets": [
-        "• The “Cannes of horror,” as the four-day celebration of #BetterHorror is known, will present 18 features, 130 shorts, and more than 120 attending filmmakers and screenwriters",
-        "• The 2025 program features a diverse slate of genre films that spans everything from found-footage nightmares to gritty crime thrillers "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The “Cannes of horror,” as the four-day celebration of #BetterHorror is known, will present 18 features, 130 shorts, and more than 120 attending filmmakers and screenwriters",
-          "• The 2025 program features a diverse slate of genre films that spans everything from found-footage nightmares to gritty crime thrillers "
-        ],
-        "hopeful_bullets": [
-          "• The “Cannes of horror,” as the four-day celebration of #BetterHorror is known, will present 18 features, 130 shorts, and more than 120 attending filmmakers and screenwriters",
-          "• The 2025 program features a diverse slate of genre films that spans everything from found-footage nightmares to gritty crime thrillers "
-        ],
-        "stakes_bullets": [
-          "• The “Cannes of horror,” as the four-day celebration of #BetterHorror is known, will present 18 features, 130 shorts, and more than 120 attending filmmakers and screenwriters"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7b82b1e06367"
-    },
-    {
-      "id": "7d5cfb19a929",
-      "title": "‘Sinners’: Spirit Halloween Launches Officially Licensed Costume Line for Horror Blockbuster",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/545296/sinners-spirit-halloween-launches-officially-licensed-costume-line-for-horror-blockbuster/",
-      "published_at": "Mon, 06 Oct 2025 19:16:31 +0000",
-      "bullets": [
-        "• Spirit Halloween launches officially licensed costume collection from Spirit Halloween",
-        "• The move fortifies the supernatural Southern Gothic epic as one of the most impactful films of the year",
-        "• The film, a genre-blending story set in 1932, follows twin brothers Smoke and Stack Moore, who return to their Mississippi hometown "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Spirit Halloween launches officially licensed costume collection from Spirit Halloween",
-          "• The move fortifies the supernatural Southern Gothic epic as one of the most impactful films of the year"
-        ],
-        "hopeful_bullets": [
-          "• The film, a genre-blending story set in 1932, follows twin brothers Smoke and Stack Moore, who return to their Mississippi hometown "
-        ],
-        "stakes_bullets": [
-          "• The move fortifies the supernatural Southern Gothic epic as one of the most impactful films of the year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4cbd6d15ff74"
-    },
-    {
-      "id": "c2e35b50c75c",
-      "title": "Jack Osbourne Says Mom Sharon Feels the ‘Outpour of Love’ After Ozzy Osbourne’s Death",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/jack-osbourne-sharon-osbourne-update-ozzy-osbourne-death-1235441458/",
-      "published_at": "Mon, 06 Oct 2025 19:15:54 +0000",
-      "bullets": [
-        "• Ozzy Osbourne's memoir, Last Rites, will be released on Oct",
-        "• 7",
-        "• Ozzy's last chapter was the hardest for him to read, he said",
-        "• He said he was determined to say goodbye to his fans, and that's exactly what he did "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ozzy Osbourne's memoir, Last Rites, will be released on Oct",
-          "• 7"
-        ],
-        "hopeful_bullets": [
-          "• Ozzy Osbourne's memoir, Last Rites, will be released on Oct",
-          "• 7"
-        ],
-        "stakes_bullets": [
-          "• Ozzy Osbourne's memoir, Last Rites, will be released on Oct"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "437b51e43c3b"
     },
     {
       "id": "8aae05897624",
@@ -7535,6 +7706,39 @@
       "cluster_id": "00427945a00b"
     },
     {
+      "id": "6450097d3bb7",
+      "title": "TVC15: Nien Nunb (VC106)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-05-tvc15-nien-nunb-vc106/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-nien-nunb-vc106",
+      "published_at": "Mon, 06 Oct 2025 02:06:10 +0000",
+      "bullets": [
+        "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
+        "• Hasbro never got this figure right: from the height to the facial paint operations",
+        "• So, we hope an all-new figure is in the works for the near future "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
+          "• Hasbro never got this figure right: from the height to the facial paint operations"
+        ],
+        "hopeful_bullets": [
+          "• So, we hope an all-new figure is in the works for the near future "
+        ],
+        "stakes_bullets": [
+          "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
+          "• Hasbro never got this figure right: from the height to the facial paint operations",
+          "• So, we hope an all-new figure is in the works for the near future "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7f53e270d9c4"
+    },
+    {
       "id": "8e09746fff61",
       "title": "October’s sky comes alive with a supermoon and shooting stars",
       "outlet": "All Top News -- ScienceDaily",
@@ -7871,6 +8075,40 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "47b03ab6ddf0",
+      "title": "TVC15: Han Solo (In Trench Coat) (VC62)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-03-tvc15-han-solo-in-trench-coat-vc62/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-han-solo-in-trench-coat-vc62",
+      "published_at": "Fri, 03 Oct 2025 22:47:22 +0000",
+      "bullets": [
+        "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+        "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection",
+        "• Figure is now obsolete, but like many other outdated figures before it, it served a purpose during its initial release "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection"
+        ],
+        "hopeful_bullets": [
+          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection"
+        ],
+        "stakes_bullets": [
+          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection",
+          "• Figure is now obsolete, but like many other outdated figures before it, it served a purpose during its initial release "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fc9402d98a8f"
+    },
+    {
       "id": "142cf1b6c83a",
       "title": "John Carpenter’s The Thing is About … Diabetes?",
       "outlet": "Wicked Horror",
@@ -8097,6 +8335,40 @@
       "cluster_id": "ed9888c2bb8f"
     },
     {
+      "id": "7587851d0ea3",
+      "title": "TVC15: Obi-Wan Kenobi (VC31)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-02-tvc15-obi-wan-kenobi-vc31/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-obi-wan-kenobi-vc31",
+      "published_at": "Fri, 03 Oct 2025 01:44:02 +0000",
+      "bullets": [
+        "• The Vintage Collection was released in 2011",
+        "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
+        "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection was released in 2011",
+          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection was released in 2011",
+          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection was released in 2011",
+          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
+          "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "86689e11f8fe"
+    },
+    {
       "id": "a14f093f556a",
       "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
       "outlet": "The Star Wars Report Podcast",
@@ -8129,6 +8401,74 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "9022300dda54",
+      "title": "Tesla’s ‘affordable’ EVs are just stripped down versions of the Model 3 and Model Y",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/transportation/793302/tesla-model-y-moidel-3-standard-affordable-price-specs-photo",
+      "published_at": "2025-10-07T15:24:35-04:00",
+      "bullets": [
+        "• Tesla has been promising an entry-level electric vehicle that would compel more people to make the switch from gas guzzlers to zero-emission",
+        "• The Model Y Standard, which starts at $41,600 (including destination charges and fees), and the Model 3 Standard, starting at $38,640",
+        "• Both vehicles are available now to order, with customer deliveries starting December 2025 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.857
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla has been promising an entry-level electric vehicle that would compel more people to make the switch from gas guzzlers to zero-emission",
+          "• The Model Y Standard, which starts at $41,600 (including destination charges and fees), and the Model 3 Standard, starting at $38,640"
+        ],
+        "hopeful_bullets": [
+          "• Tesla has been promising an entry-level electric vehicle that would compel more people to make the switch from gas guzzlers to zero-emission",
+          "• The Model Y Standard, which starts at $41,600 (including destination charges and fees), and the Model 3 Standard, starting at $38,640"
+        ],
+        "stakes_bullets": [
+          "• Tesla has been promising an entry-level electric vehicle that would compel more people to make the switch from gas guzzlers to zero-emission",
+          "• The Model Y Standard, which starts at $41,600 (including destination charges and fees), and the Model 3 Standard, starting at $38,640",
+          "• Both vehicles are available now to order, with customer deliveries starting December 2025 "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8de80845b89f"
+    },
+    {
+      "id": "503945dba9a8",
+      "title": "The Verge&#8217;s Guide to Amazon&#8217;s October Prime Day Event 2025",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide",
+      "published_at": "2025-10-07T14:49:04-04:00",
+      "bullets": [
+        "• Amazon's Prime Big Deal Days kicks off October 9th at 3AM ET / 12AM PT",
+        "• The two-day event is part of Amazon’s Prime Day event, which lasts two days",
+        "• Headphones, laptops, gaming gear, ereaders and gaming gear are among the best deals "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon's Prime Big Deal Days kicks off October 9th at 3AM ET / 12AM PT",
+          "• The two-day event is part of Amazon’s Prime Day event, which lasts two days"
+        ],
+        "hopeful_bullets": [
+          "• Amazon's Prime Big Deal Days kicks off October 9th at 3AM ET / 12AM PT",
+          "• The two-day event is part of Amazon’s Prime Day event, which lasts two days"
+        ],
+        "stakes_bullets": [
+          "• Amazon's Prime Big Deal Days kicks off October 9th at 3AM ET / 12AM PT",
+          "• The two-day event is part of Amazon’s Prime Day event, which lasts two days",
+          "• Headphones, laptops, gaming gear, ereaders and gaming gear are among the best deals "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d9cd057f7e7e"
     },
     {
       "id": "57c5eaa21a1d",
@@ -8227,38 +8567,37 @@
     },
     {
       "id": "542fd9c6c8af",
-      "title": "The 172 best October Prime Day deals",
+      "title": "The 173 best October Prime Day deals",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1",
       "published_at": "2025-10-07T14:24:22-04:00",
       "bullets": [
-        "• Amazon's October Prime Day sale is officially underway",
-        "• The best deals are available on everything from noise-canceling headphones to robot vacuums",
+        "• Amazon's October Prime Day sale, aka Prime Big Deal Days, is now underway",
         "• The majority of our recommendations have been thoroughly tested by Verge writers and editors",
-        "• Some of these gadgets are available for less than they were during Amazon’s most recent Prime Day "
+        "• Some of these gadgets are available for less than they were during Amazon’s most recent sale in July "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.924
+        "label": "positive",
+        "score": 0.92
       },
       "moods": {
         "brief_bullets": [
-          "• Amazon's October Prime Day sale is officially underway",
-          "• The best deals are available on everything from noise-canceling headphones to robot vacuums"
+          "• Amazon's October Prime Day sale, aka Prime Big Deal Days, is now underway",
+          "• The majority of our recommendations have been thoroughly tested by Verge writers and editors"
         ],
         "hopeful_bullets": [
-          "• Amazon's October Prime Day sale is officially underway",
-          "• The best deals are available on everything from noise-canceling headphones to robot vacuums"
+          "• Amazon's October Prime Day sale, aka Prime Big Deal Days, is now underway",
+          "• The majority of our recommendations have been thoroughly tested by Verge writers and editors"
         ],
         "stakes_bullets": [
-          "• Amazon's October Prime Day sale is officially underway",
-          "• The best deals are available on everything from noise-canceling headphones to robot vacuums",
-          "• The majority of our recommendations have been thoroughly tested by Verge writers and editors"
+          "• Amazon's October Prime Day sale, aka Prime Big Deal Days, is now underway",
+          "• The majority of our recommendations have been thoroughly tested by Verge writers and editors",
+          "• Some of these gadgets are available for less than they were during Amazon’s most recent sale in July "
         ]
       },
       "read_minutes": 44,
-      "cluster_id": "c319cf6a511a"
+      "cluster_id": "3443a161fd0b"
     },
     {
       "id": "e024c40604e2",
@@ -8384,73 +8723,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "f563583f632d"
-    },
-    {
-      "id": "0e3377fa9ecb",
-      "title": "Boox’s next smartphone-sized e-reader has a color screen and a stylus",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma",
-      "published_at": "2025-10-07T12:56:56-04:00",
-      "bullets": [
-        "• The Boox P6 Pro will launch in China on October 9th, 2025",
-        "• It will be available with either a color or black-and-white E Ink screen",
-        "• The device will feature a 16MP camera and 128GB of internal storage",
-        "• Pricing and global availability details have yet to be announced "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Boox P6 Pro will launch in China on October 9th, 2025",
-          "• It will be available with either a color or black-and-white E Ink screen"
-        ],
-        "hopeful_bullets": [
-          "• The Boox P6 Pro will launch in China on October 9th, 2025",
-          "• It will be available with either a color or black-and-white E Ink screen"
-        ],
-        "stakes_bullets": [
-          "• The Boox P6 Pro will launch in China on October 9th, 2025",
-          "• It will be available with either a color or black-and-white E Ink screen",
-          "• The device will feature a 16MP camera and 128GB of internal storage"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "22be1b1c8f19"
-    },
-    {
-      "id": "f262ab4db110",
-      "title": "Apple’s latest iPad is down to its best price yet for October Prime Day",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/794046/amazon-october-prime-day-11th-gen-ipad-air-pro-deal-sale-2025",
-      "published_at": "2025-10-07T12:37:55-04:00",
-      "bullets": [
-        "• Apple’s 11th-gen iPad is on sale at Amazon, Walmart, and Best Buy starting at $279 ($70 off) for Prime Big Deals Day",
-        "• The entry-level iPad is equipped with an 11-inch screen, a battery that lasts roughly 10 hours on a single charge, and an A16 processor that provides more than enough power for web browsing "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.773
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple’s 11th-gen iPad is on sale at Amazon, Walmart, and Best Buy starting at $279 ($70 off) for Prime Big Deals Day",
-          "• The entry-level iPad is equipped with an 11-inch screen, a battery that lasts roughly 10 hours on a single charge, and an A16 processor that provides more than enough power for web browsing "
-        ],
-        "hopeful_bullets": [
-          "• Apple’s 11th-gen iPad is on sale at Amazon, Walmart, and Best Buy starting at $279 ($70 off) for Prime Big Deals Day",
-          "• The entry-level iPad is equipped with an 11-inch screen, a battery that lasts roughly 10 hours on a single charge, and an A16 processor that provides more than enough power for web browsing "
-        ],
-        "stakes_bullets": [
-          "• Apple’s 11th-gen iPad is on sale at Amazon, Walmart, and Best Buy starting at $279 ($70 off) for Prime Big Deals Day",
-          "• The entry-level iPad is equipped with an 11-inch screen, a battery that lasts roughly 10 hours on a single charge, and an A16 processor that provides more than enough power for web browsing "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bbedb225ff80"
     },
     {
       "id": "c41ff758b36a",
@@ -9213,6 +9485,42 @@
       ]
     },
     {
+      "id": "c1a44b9ee9f0",
+      "topic": "acros north rips strongest",
+      "keywords": [
+        "acros",
+        "north",
+        "rips",
+        "strongest",
+        "tornado",
+        "year"
+      ],
+      "item_ids": [
+        "8c29035f77d5"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "12458d9bd4b4",
+      "topic": "governor race shaken text",
+      "keywords": [
+        "governor",
+        "race",
+        "shaken",
+        "text",
+        "violent",
+        "virginia"
+      ],
+      "item_ids": [
+        "0cd361ae9c14"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "0679efdc828a",
       "topic": "back entitled furloughed government",
       "keywords": [
@@ -9225,6 +9533,24 @@
       ],
       "item_ids": [
         "6ccfd17a7e07"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "346817a42cb6",
+      "topic": "bondi democrat pam senate",
+      "keywords": [
+        "bondi",
+        "democrat",
+        "pam",
+        "senate",
+        "spar",
+        "trump"
+      ],
+      "item_ids": [
+        "da6133208fa5"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9315,60 +9641,6 @@
       ],
       "item_ids": [
         "19c0ea6debb2"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "eb5c2e6588ea",
-      "topic": "agent chicago federal something",
-      "keywords": [
-        "agent",
-        "chicago",
-        "federal",
-        "something",
-        "taunted",
-        "woman"
-      ],
-      "item_ids": [
-        "0d549153af84"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "346817a42cb6",
-      "topic": "bondi democrat pam senate",
-      "keywords": [
-        "bondi",
-        "democrat",
-        "pam",
-        "senate",
-        "spar",
-        "trump"
-      ],
-      "item_ids": [
-        "da6133208fa5"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "558ddb6fc42f",
-      "topic": "antifa europe moving professor",
-      "keywords": [
-        "antifa",
-        "europe",
-        "moving",
-        "professor",
-        "rutger",
-        "threat"
-      ],
-      "item_ids": [
-        "da3b60fbb5de"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9483,18 +9755,18 @@
       ]
     },
     {
-      "id": "9d56c7f2c03b",
-      "topic": "illinoi national push respond",
+      "id": "235881e5491e",
+      "topic": "chicago deploying illinoi justified",
       "keywords": [
+        "chicago",
+        "deploying",
         "illinoi",
-        "national",
-        "push",
-        "respond",
-        "send",
-        "trump"
+        "justified",
+        "legally",
+        "troop"
       ],
       "item_ids": [
-        "a983dbe85a4b"
+        "3e157f0464ad"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9699,24 +9971,6 @@
       ]
     },
     {
-      "id": "545a895283b4",
-      "topic": "analysi carlyle jobs meant",
-      "keywords": [
-        "analysi",
-        "carlyle",
-        "jobs",
-        "meant",
-        "report",
-        "shutdown"
-      ],
-      "item_ids": [
-        "37333b066c8a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "9c05ca16f592",
       "topic": "500 government performed previou",
       "keywords": [
@@ -9749,6 +10003,97 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "545a895283b4",
+      "topic": "analysi carlyle jobs meant",
+      "keywords": [
+        "analysi",
+        "carlyle",
+        "jobs",
+        "meant",
+        "report",
+        "shutdown"
+      ],
+      "item_ids": [
+        "37333b066c8a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "22f9a51f3634",
+      "topic": "require ring subscription tracker",
+      "keywords": [
+        "require",
+        "ring",
+        "subscription",
+        "tracker",
+        "ultrahuman",
+        "under"
+      ],
+      "item_ids": [
+        "df0edc0eab34"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "9ac49cee8af9",
+      "topic": "2025 day deal live",
+      "keywords": [
+        "2025",
+        "day",
+        "deal",
+        "live",
+        "prime",
+        "tracking"
+      ],
+      "item_ids": [
+        "0e21171ab871"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "923f14c6c772",
+      "topic": "214 best day deal",
+      "keywords": [
+        "214",
+        "best",
+        "day",
+        "deal",
+        "found",
+        "prime"
+      ],
+      "item_ids": [
+        "2a79b01b2ee6"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "a3e7af88e4f4",
+      "topic": "2025 best day deal",
+      "keywords": [
+        "2025",
+        "best",
+        "day",
+        "deal",
+        "prime",
+        "vacuum"
+      ],
+      "item_ids": [
+        "aed7b4d6bbd0",
+        "0456eaa0d107"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9808,24 +10153,6 @@
       ]
     },
     {
-      "id": "96451b95252a",
-      "topic": "2025 best day deal",
-      "keywords": [
-        "2025",
-        "best",
-        "day",
-        "deal",
-        "prime",
-        "vacuum"
-      ],
-      "item_ids": [
-        "0456eaa0d107"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "7ebc67cf7b94",
       "topic": "amazon anti best day",
       "keywords": [
@@ -9844,75 +10171,39 @@
       ]
     },
     {
-      "id": "92052ab4c8e1",
-      "topic": "100 best day deal",
+      "id": "8de80845b89f",
+      "topic": "affordable down evs just",
       "keywords": [
-        "100",
-        "best",
-        "day",
-        "deal",
-        "prime",
-        "under"
+        "affordable",
+        "down",
+        "evs",
+        "just",
+        "stripped",
+        "tesla"
       ],
       "item_ids": [
-        "665f75bf4dd5"
+        "9022300dda54"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
-      "id": "be02da9f459d",
-      "topic": "airpod apple big prime",
+      "id": "d9cd057f7e7e",
+      "topic": "8217 amazon guide october",
       "keywords": [
-        "airpod",
-        "apple",
-        "big",
+        "8217",
+        "amazon",
+        "guide",
+        "october",
         "prime",
-        "pro",
-        "save"
+        "verge"
       ],
       "item_ids": [
-        "a4a1eff1ed94"
+        "503945dba9a8"
       ],
       "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "8ccf543be5a3",
-      "topic": "day percent prime save",
-      "keywords": [
-        "day",
-        "percent",
-        "prime",
-        "save",
-        "sono",
-        "soundbar"
-      ],
-      "item_ids": [
-        "744f890df964"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "e0def5da677c",
-      "topic": "180 best dyson off",
-      "keywords": [
-        "180",
-        "best",
-        "dyson",
-        "off",
-        "sale",
-        "vacuum"
-      ],
-      "item_ids": [
-        "e7f68a627594"
-      ],
-      "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -9970,10 +10261,10 @@
       ]
     },
     {
-      "id": "c319cf6a511a",
-      "topic": "172 best day deal",
+      "id": "3443a161fd0b",
+      "topic": "173 best day deal",
       "keywords": [
-        "172",
+        "173",
         "best",
         "day",
         "deal",
@@ -10051,42 +10342,6 @@
       ],
       "item_ids": [
         "9de1e03b0881"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "22be1b1c8f19",
-      "topic": "boox color next reader",
-      "keywords": [
-        "boox",
-        "color",
-        "next",
-        "reader",
-        "sized",
-        "smartphone"
-      ],
-      "item_ids": [
-        "0e3377fa9ecb"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "bbedb225ff80",
-      "topic": "apple best down ipad",
-      "keywords": [
-        "apple",
-        "best",
-        "down",
-        "ipad",
-        "price",
-        "yet"
-      ],
-      "item_ids": [
-        "f262ab4db110"
       ],
       "outlets": [
         "The Verge"
@@ -10679,24 +10934,6 @@
       ],
       "item_ids": [
         "1335da04b334"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "9e1da6469ed8",
-      "topic": "head irs run security",
-      "keywords": [
-        "head",
-        "irs",
-        "run",
-        "security",
-        "social",
-        "tapped"
-      ],
-      "item_ids": [
-        "a79c7587e479"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11338,6 +11575,60 @@
       ]
     },
     {
+      "id": "c303130457e3",
+      "topic": "crimson event eye october",
+      "keywords": [
+        "crimson",
+        "event",
+        "eye",
+        "october",
+        "phasmophobia",
+        "return"
+      ],
+      "item_ids": [
+        "bea2da50f798"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "bf534eba5d93",
+      "topic": "2026 announced comic place",
+      "keywords": [
+        "2026",
+        "announced",
+        "comic",
+        "place",
+        "quiet",
+        "smile"
+      ],
+      "item_ids": [
+        "b45dbd30ca9d"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "40f7def737c0",
+      "topic": "based horror house necrosi",
+      "keywords": [
+        "based",
+        "horror",
+        "house",
+        "necrosi",
+        "rpg",
+        "turn"
+      ],
+      "item_ids": [
+        "8a8305fbc003"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "01d60c66748f",
       "topic": "ashe film horror house",
       "keywords": [
@@ -11458,60 +11749,6 @@
       ],
       "item_ids": [
         "06f100ad9265"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "763d4bab0871",
-      "topic": "film horror house indie",
-      "keywords": [
-        "film",
-        "horror",
-        "house",
-        "indie",
-        "ritual",
-        "trailer"
-      ],
-      "item_ids": [
-        "12c3cfd70cc3"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "b96489f60c93",
-      "topic": "boulet bring brother dragula",
-      "keywords": [
-        "boulet",
-        "bring",
-        "brother",
-        "dragula",
-        "season",
-        "titan"
-      ],
-      "item_ids": [
-        "50c1fb75d672"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "ab86b6aaf87c",
-      "topic": "hope liam reborn season",
-      "keywords": [
-        "hope",
-        "liam",
-        "reborn",
-        "season",
-        "trailer",
-        "witcher"
-      ],
-      "item_ids": [
-        "70034c64ac1f"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -11696,6 +11933,42 @@
       ]
     },
     {
+      "id": "e1991eae5c3a",
+      "topic": "biggest blockbuster horror now",
+      "keywords": [
+        "biggest",
+        "blockbuster",
+        "horror",
+        "now",
+        "sequel",
+        "year"
+      ],
+      "item_ids": [
+        "169d401f1fba"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
+      "id": "1313af1b0a33",
+      "topic": "clawing crossover event millennium",
+      "keywords": [
+        "clawing",
+        "crossover",
+        "event",
+        "millennium",
+        "slasher",
+        "way"
+      ],
+      "item_ids": [
+        "258791d6ec38"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
       "id": "a6f1515cc8f2",
       "topic": "blossom clip exclusive loved",
       "keywords": [
@@ -11834,42 +12107,6 @@
       ],
       "item_ids": [
         "8655f282aefe"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "7b82b1e06367",
-      "topic": "10th festival film full",
-      "keywords": [
-        "10th",
-        "festival",
-        "film",
-        "full",
-        "nightmare",
-        "reveal"
-      ],
-      "item_ids": [
-        "963068b88836"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "4cbd6d15ff74",
-      "topic": "halloween launche licensed officially",
-      "keywords": [
-        "halloween",
-        "launche",
-        "licensed",
-        "officially",
-        "sinner",
-        "spirit"
-      ],
-      "item_ids": [
-        "7d5cfb19a929"
       ],
       "outlets": [
         "Dread Central"
@@ -12175,6 +12412,162 @@
       ]
     },
     {
+      "id": "0dd6956950e5",
+      "topic": "bom collection everything know",
+      "keywords": [
+        "bom",
+        "collection",
+        "everything",
+        "know",
+        "need",
+        "vintage"
+      ],
+      "item_ids": [
+        "dc7cd5acc813"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "ec324ac656c7",
+      "topic": "boba fett jedi return",
+      "keywords": [
+        "boba",
+        "fett",
+        "jedi",
+        "return",
+        "tvc15",
+        "vc09"
+      ],
+      "item_ids": [
+        "16253c338978"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7f53e270d9c4",
+      "topic": "nien nunb tvc15 vc106",
+      "keywords": [
+        "nien",
+        "nunb",
+        "tvc15",
+        "vc106"
+      ],
+      "item_ids": [
+        "6450097d3bb7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "06464c4fde60",
+      "topic": "anakin disguise peasant skywalker",
+      "keywords": [
+        "anakin",
+        "disguise",
+        "peasant",
+        "skywalker",
+        "tvc15",
+        "vc32"
+      ],
+      "item_ids": [
+        "f3bc6f527dda"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "fc9402d98a8f",
+      "topic": "coat han solo trench",
+      "keywords": [
+        "coat",
+        "han",
+        "solo",
+        "trench",
+        "tvc15",
+        "vc62"
+      ],
+      "item_ids": [
+        "47b03ab6ddf0"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "86689e11f8fe",
+      "topic": "kenobi obi tvc15 vc31",
+      "keywords": [
+        "kenobi",
+        "obi",
+        "tvc15",
+        "vc31",
+        "wan"
+      ],
+      "item_ids": [
+        "7587851d0ea3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "53dc19c6d15a",
+      "topic": "darth tvc15 vader vc08",
+      "keywords": [
+        "darth",
+        "tvc15",
+        "vader",
+        "vc08"
+      ],
+      "item_ids": [
+        "c58a0fd655f3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "1eee4e3e43c5",
+      "topic": "tvc15 vc107 weequay",
+      "keywords": [
+        "tvc15",
+        "vc107",
+        "weequay"
+      ],
+      "item_ids": [
+        "4d027cd88354"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "9fc13c25c625",
+      "topic": "plot rumor star starfighter",
+      "keywords": [
+        "plot",
+        "rumor",
+        "star",
+        "starfighter",
+        "surprise",
+        "wars"
+      ],
+      "item_ids": [
+        "8b77d61d6f01",
+        "d049fc64ba2a"
+      ],
+      "outlets": [
+        "All Shows - Rebel Force Radio: Star Wars Podcast",
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12347,24 +12740,6 @@
       ],
       "outlets": [
         "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "ce288799fa10",
-      "topic": "plot rumor star starfighter",
-      "keywords": [
-        "plot",
-        "rumor",
-        "star",
-        "starfighter",
-        "surprise",
-        "wars"
-      ],
-      "item_ids": [
-        "d049fc64ba2a"
-      ],
-      "outlets": [
-        "All Shows - Rebel Force Radio: Star Wars Podcast"
       ]
     },
     {
@@ -12665,6 +13040,94 @@
       ]
     },
     {
+      "id": "49a24b9cbd80",
+      "topic": "bombshell close fuel nintendo",
+      "keywords": [
+        "bombshell",
+        "close",
+        "fuel",
+        "nintendo",
+        "speculation",
+        "video"
+      ],
+      "item_ids": [
+        "cd85d468df92"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "7961b22b5113",
+      "topic": "all anime best shonen",
+      "keywords": [
+        "all",
+        "anime",
+        "best",
+        "shonen",
+        "time"
+      ],
+      "item_ids": [
+        "16737a28e68b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "81b12ea45a63",
+      "topic": "anime never overhyped popular",
+      "keywords": [
+        "anime",
+        "never",
+        "overhyped",
+        "popular",
+        "social",
+        "without"
+      ],
+      "item_ids": [
+        "66153764dbc4"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "ce5298761bc8",
+      "topic": "confirm dune ferguson rebecca",
+      "keywords": [
+        "confirm",
+        "dune",
+        "ferguson",
+        "rebecca",
+        "return"
+      ],
+      "item_ids": [
+        "5eecd0c2f80a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "7b75fafe506c",
+      "topic": "charlie chart hunnam monster",
+      "keywords": [
+        "charlie",
+        "chart",
+        "hunnam",
+        "monster",
+        "season",
+        "take"
+      ],
+      "item_ids": [
+        "79ff760fbca0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "d8aafbb00fc7",
       "topic": "2025 biggest fall hit",
       "keywords": [
@@ -12748,96 +13211,6 @@
       ],
       "item_ids": [
         "0d64ae899c63"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0faf37a7f122",
-      "topic": "finally forward heat mann",
-      "keywords": [
-        "finally",
-        "forward",
-        "heat",
-        "mann",
-        "michael",
-        "moving"
-      ],
-      "item_ids": [
-        "b00036ddf740"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e34f9365e275",
-      "topic": "debut faith killing king",
-      "keywords": [
-        "debut",
-        "faith",
-        "killing",
-        "king",
-        "praised",
-        "stephen"
-      ],
-      "item_ids": [
-        "fed45b76fe84"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ef3a7a24cfeb",
-      "topic": "harry potter return sorcerer",
-      "keywords": [
-        "harry",
-        "potter",
-        "return",
-        "sorcerer",
-        "stone",
-        "theater"
-      ],
-      "item_ids": [
-        "be3af09592c0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1f124d9631d4",
-      "topic": "burning gambit kitty men",
-      "keywords": [
-        "burning",
-        "gambit",
-        "kitty",
-        "men",
-        "pryde",
-        "question"
-      ],
-      "item_ids": [
-        "27bd1f3e4f91"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "19f7f9cde981",
-      "topic": "activity flick horror paranormal",
-      "keywords": [
-        "activity",
-        "flick",
-        "horror",
-        "paranormal",
-        "replacement",
-        "shudder"
-      ],
-      "item_ids": [
-        "9cbf81684fd9"
       ],
       "outlets": [
         "CBR"
@@ -13022,6 +13395,24 @@
       ]
     },
     {
+      "id": "2dc075f51b3f",
+      "topic": "appeal charge decision prosecutor",
+      "keywords": [
+        "appeal",
+        "charge",
+        "decision",
+        "prosecutor",
+        "terror",
+        "toss"
+      ],
+      "item_ids": [
+        "39f6da2bf2a9"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "7f2c44c4c30b",
       "topic": "bieber guinnes justin scottish",
       "keywords": [
@@ -13178,24 +13569,6 @@
       ],
       "item_ids": [
         "9481d9d3aaec"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "437b51e43c3b",
-      "topic": "feel jack mom osbourne",
-      "keywords": [
-        "feel",
-        "jack",
-        "mom",
-        "osbourne",
-        "outpour",
-        "sharon"
-      ],
-      "item_ids": [
-        "c2e35b50c75c"
       ],
       "outlets": [
         "Music News"
