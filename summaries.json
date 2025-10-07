@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T23:53:41Z",
+  "generated_at": "2025-10-07T00:12:05Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -662,6 +662,75 @@
       },
       "read_minutes": 1,
       "cluster_id": "9c183ecdf77c"
+    },
+    {
+      "id": "5294fd217ad0",
+      "title": "8 Classic '70s Horror Movies That Are Perfect From Start to Finish",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/perfect-70s-horror-movies-list/",
+      "published_at": "Tue, 07 Oct 2025 00:00:12 GMT",
+      "bullets": [
+        "• The 1970s were a golden age of horror, especially with the influence of films like Psycho",
+        "• George A",
+        "• Romero's 'Dawn of the Dead' set the template for the modern zombie horror",
+        "• The movie struck a brilliant balance between dark humor and humor "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 1970s were a golden age of horror, especially with the influence of films like Psycho",
+          "• George A"
+        ],
+        "hopeful_bullets": [
+          "• The 1970s were a golden age of horror, especially with the influence of films like Psycho",
+          "• George A"
+        ],
+        "stakes_bullets": [
+          "• The 1970s were a golden age of horror, especially with the influence of films like Psycho",
+          "• George A",
+          "• Romero's 'Dawn of the Dead' set the template for the modern zombie horror"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "cc80c3565cf2"
+    },
+    {
+      "id": "0e20574a3455",
+      "title": "We Want G.I. Robot In Live-Action, But Which Upcoming DCU Project Makes The Most Sense?",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/live-action-gi-robot-dcu-possibilities/",
+      "published_at": "Tue, 07 Oct 2025 00:00:12 GMT",
+      "bullets": [
+        "• G.I",
+        "• Robot won't appear in Peacemaker Season 2",
+        "• Sean Gunn will likely return to voice for the robot in the live-action series",
+        "• The DCU currently has only three projects part of its official canon",
+        "• The series further explores the use of pocket dimensions in the series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• G.I",
+          "• Robot won't appear in Peacemaker Season 2"
+        ],
+        "hopeful_bullets": [
+          "• G.I",
+          "• Robot won't appear in Peacemaker Season 2"
+        ],
+        "stakes_bullets": [
+          "• Sean Gunn will likely return to voice for the robot in the live-action series"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "b9674640b234"
     },
     {
       "id": "c831e3291d7e",
@@ -2854,6 +2923,68 @@
       "cluster_id": "ec324ac656c7"
     },
     {
+      "id": "185e177f811c",
+      "title": "Schumer rejects Trump’s claim that bipartisan government shutdown negotiations are under way – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/06/donald-trump-national-guard-ice-government-shutdown-us-politics-live-news-updates",
+      "published_at": "Mon, 06 Oct 2025 23:22:23 GMT",
+      "bullets": [
+        "• Schumer rejects Trump's claim that bipartisan shutdown negotiations are under way",
+        "• Senate Democratic leader Chuck Schumer: 'If he’s finally ready to work with Democrats, we’ll be at the table' Trump said earlier today that “some good things could happen with health care”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.951
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Schumer rejects Trump's claim that bipartisan shutdown negotiations are under way",
+          "• Senate Democratic leader Chuck Schumer: 'If he’s finally ready to work with Democrats, we’ll be at the table' Trump said earlier today that “some good things could happen with health care”"
+        ],
+        "hopeful_bullets": [
+          "• Schumer rejects Trump's claim that bipartisan shutdown negotiations are under way",
+          "• Senate Democratic leader Chuck Schumer: 'If he’s finally ready to work with Democrats, we’ll be at the table' Trump said earlier today that “some good things could happen with health care”"
+        ],
+        "stakes_bullets": [
+          "• Senate Democratic leader Chuck Schumer: 'If he’s finally ready to work with Democrats, we’ll be at the table' Trump said earlier today that “some good things could happen with health care”"
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "d8fbcd9aec3e"
+    },
+    {
+      "id": "917a0018a4cc",
+      "title": "What to know about Trump’s national guard deployment, from rulings to protests",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/06/california-oregon-national-guard-trump-lawsuit",
+      "published_at": "Mon, 06 Oct 2025 23:17:43 GMT",
+      "bullets": [
+        "• A federal judge declined to immediately block the Trump administration from deploying national guard troops to Chicago, Illinois, on Monday",
+        "• The decision was the latest in a three-day whirlwind of legal developments over Trump’s efforts to send federal troops to Democratic-led cities "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.577
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A federal judge declined to immediately block the Trump administration from deploying national guard troops to Chicago, Illinois, on Monday",
+          "• The decision was the latest in a three-day whirlwind of legal developments over Trump’s efforts to send federal troops to Democratic-led cities "
+        ],
+        "hopeful_bullets": [
+          "• The decision was the latest in a three-day whirlwind of legal developments over Trump’s efforts to send federal troops to Democratic-led cities "
+        ],
+        "stakes_bullets": [
+          "• A federal judge declined to immediately block the Trump administration from deploying national guard troops to Chicago, Illinois, on Monday",
+          "• The decision was the latest in a three-day whirlwind of legal developments over Trump’s efforts to send federal troops to Democratic-led cities "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "5bb2cb36f299"
+    },
+    {
       "id": "5206b7343f6c",
       "title": "Supernatural's The Winchesters Spinoff Deserved So Much Better",
       "outlet": "CBR",
@@ -2887,37 +3018,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "5b4c8b609051"
-    },
-    {
-      "id": "185e177f811c",
-      "title": "Schumer rejects Trump’s claim that bipartisan government shutdown negotiations are under way – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/06/donald-trump-national-guard-ice-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Mon, 06 Oct 2025 23:13:38 GMT",
-      "bullets": [
-        "• Schumer rejects Trump's claim that bipartisan shutdown negotiations are under way",
-        "• Career federal prosecutor in Virginia does not believe there is probable cause to file criminal mortgage fraud charges against New York attorney general Letitia James, according to a person familiar with the matter",
-        "• Trump told reporters that “we are speaking with Democrats” regarding the government shutdown "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.963
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Schumer rejects Trump's claim that bipartisan shutdown negotiations are under way",
-          "• Career federal prosecutor in Virginia does not believe there is probable cause to file criminal mortgage fraud charges against New York attorney general Letitia James, according to a person familiar with the matter"
-        ],
-        "hopeful_bullets": [
-          "• Career federal prosecutor in Virginia does not believe there is probable cause to file criminal mortgage fraud charges against New York attorney general Letitia James, according to a person familiar with the matter"
-        ],
-        "stakes_bullets": [
-          "• Career federal prosecutor in Virginia does not believe there is probable cause to file criminal mortgage fraud charges against New York attorney general Letitia James, according to a person familiar with the matter"
-        ]
-      },
-      "read_minutes": 13,
-      "cluster_id": "d8fbcd9aec3e"
     },
     {
       "id": "e0b159ae9215",
@@ -2992,25 +3092,27 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/06/us-shutdown-government-funding",
       "published_at": "Mon, 06 Oct 2025 23:00:27 GMT",
       "bullets": [
-        "• Democratic and Republican lawmakers make no apparent progress towards reaching a deal to restart the government shutdown",
-        "• Many federal agencies and departments closed their doors last Wednesday, after Congress failed to pass legislation to fund the government",
-        "• Congress has refused to back any bill that does not include an array of concessions "
+        "• A fifth Senate vote to advance a Republican-written bill failed on a 52-42 tally",
+        "• The Democrats’ proposal was defeated in a 50-45 party-line vote",
+        "• No lawmakers changed their votes from recent days",
+        "• Many agencies and departments closed their doors and told employees to stay home last Wednesday "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Democratic and Republican lawmakers make no apparent progress towards reaching a deal to restart the government shutdown",
-          "• Many federal agencies and departments closed their doors last Wednesday, after Congress failed to pass legislation to fund the government"
+          "• A fifth Senate vote to advance a Republican-written bill failed on a 52-42 tally",
+          "• The Democrats’ proposal was defeated in a 50-45 party-line vote"
         ],
         "hopeful_bullets": [
-          "• Democratic and Republican lawmakers make no apparent progress towards reaching a deal to restart the government shutdown"
+          "• A fifth Senate vote to advance a Republican-written bill failed on a 52-42 tally",
+          "• The Democrats’ proposal was defeated in a 50-45 party-line vote"
         ],
         "stakes_bullets": [
-          "• Congress has refused to back any bill that does not include an array of concessions "
+          "• A fifth Senate vote to advance a Republican-written bill failed on a 52-42 tally"
         ]
       },
       "read_minutes": 4,
@@ -3250,72 +3352,6 @@
       "cluster_id": "41f54dcaf007"
     },
     {
-      "id": "ed1c56fb007b",
-      "title": "10 Anime Characters Who Should Have Starred in Completely Different Genres",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/anime-characters-better-different-genre/",
-      "published_at": "Mon, 06 Oct 2025 22:15:11 GMT",
-      "bullets": [
-        "• There's always at least one anime character that sticks out from the rest of the cast for one reason or another",
-        "• These characters are either the fan favorite, like Jujutsu Kaisen’s Gojo Satoru, or hateable",
-        "• May Chang is the adorable yet adaptable little girl in the dark drama fantasy known as Fullmetal Alchemist: Brotherhood "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There's always at least one anime character that sticks out from the rest of the cast for one reason or another",
-          "• These characters are either the fan favorite, like Jujutsu Kaisen’s Gojo Satoru, or hateable"
-        ],
-        "hopeful_bullets": [
-          "• There's always at least one anime character that sticks out from the rest of the cast for one reason or another",
-          "• These characters are either the fan favorite, like Jujutsu Kaisen’s Gojo Satoru, or hateable"
-        ],
-        "stakes_bullets": [
-          "• There's always at least one anime character that sticks out from the rest of the cast for one reason or another",
-          "• These characters are either the fan favorite, like Jujutsu Kaisen’s Gojo Satoru, or hateable",
-          "• May Chang is the adorable yet adaptable little girl in the dark drama fantasy known as Fullmetal Alchemist: Brotherhood "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "9799fcdb6839"
-    },
-    {
-      "id": "f72f18d3b31d",
-      "title": "The Smartest DC Heroes, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dc-universe-heroes-smart-ranked/",
-      "published_at": "Mon, 06 Oct 2025 22:10:12 GMT",
-      "bullets": [
-        "• DC Comics is full of incredibly powerful characters",
-        "• With the likes of Superman and Wonder Woman, DC has many characters capable of making a grand impact on the planet",
-        "• However, other characters have still proven to accomplish a lot despite a lack of heavy-hitting abilities "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• DC Comics is full of incredibly powerful characters",
-          "• With the likes of Superman and Wonder Woman, DC has many characters capable of making a grand impact on the planet"
-        ],
-        "hopeful_bullets": [
-          "• DC Comics is full of incredibly powerful characters",
-          "• With the likes of Superman and Wonder Woman, DC has many characters capable of making a grand impact on the planet"
-        ],
-        "stakes_bullets": [
-          "• With the likes of Superman and Wonder Woman, DC has many characters capable of making a grand impact on the planet"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "6b061bc8f8b8"
-    },
-    {
       "id": "9481d9d3aaec",
       "title": "Celebrating That Yes Scene From ‘Monster: The Ed Gein Story’",
       "outlet": "Music News",
@@ -3446,37 +3482,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "4d84dda9d2ca"
-    },
-    {
-      "id": "641a0acbfeb9",
-      "title": "Federal prosecutor resists pressure from Trump to charge Letitia James",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/06/us-attorney-letitia-james-trump",
-      "published_at": "Mon, 06 Oct 2025 21:33:59 GMT",
-      "bullets": [
-        "• New York attorney general does not believe there is probable cause to file criminal charges against former FBI director James Comey",
-        "• The decision sets up another high-profile confrontation between the two sides of the aisle",
-        "• Trump has openly called for Comey to be punished for his actions "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New York attorney general does not believe there is probable cause to file criminal charges against former FBI director James Comey",
-          "• The decision sets up another high-profile confrontation between the two sides of the aisle"
-        ],
-        "hopeful_bullets": [
-          "• New York attorney general does not believe there is probable cause to file criminal charges against former FBI director James Comey"
-        ],
-        "stakes_bullets": [
-          "• New York attorney general does not believe there is probable cause to file criminal charges against former FBI director James Comey"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c93daec1626c"
     },
     {
       "id": "8c276d83e390",
@@ -5700,26 +5705,27 @@
       "url": "https://www.bbc.com/news/articles/c4gwd87ww1vo?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 06 Oct 2025 15:02:11 GMT",
       "bullets": [
-        "• Former New York Times opinion writer Bari Weiss appointed editor-in-chief by Paramount",
-        "• She is known for her support of Israel and her criticism of \"cancel culture\" The Free Press has attracted more than 1.5 million subscribers since its start in 2021 "
+        "• Ex-New York Times writer Bari Weiss appointed editor-in-chief of CBS News",
+        "• She has criticised broadcast media for becoming too partisan",
+        "• New owner of CBS is son of tech billionaire and Trump ally Larry Ellison",
+        "• The Free Press has attracted more than 1.5 million subscribers "
       ],
       "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.997
+        "label": "negative",
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Former New York Times opinion writer Bari Weiss appointed editor-in-chief by Paramount",
-          "• She is known for her support of Israel and her criticism of \"cancel culture\" The Free Press has attracted more than 1.5 million subscribers since its start in 2021 "
+          "• Ex-New York Times writer Bari Weiss appointed editor-in-chief of CBS News",
+          "• She has criticised broadcast media for becoming too partisan"
         ],
         "hopeful_bullets": [
-          "• Former New York Times opinion writer Bari Weiss appointed editor-in-chief by Paramount",
-          "• She is known for her support of Israel and her criticism of \"cancel culture\" The Free Press has attracted more than 1.5 million subscribers since its start in 2021 "
+          "• Ex-New York Times writer Bari Weiss appointed editor-in-chief of CBS News",
+          "• She has criticised broadcast media for becoming too partisan"
         ],
         "stakes_bullets": [
-          "• Former New York Times opinion writer Bari Weiss appointed editor-in-chief by Paramount",
-          "• She is known for her support of Israel and her criticism of \"cancel culture\" The Free Press has attracted more than 1.5 million subscribers since its start in 2021 "
+          "• New owner of CBS is son of tech billionaire and Trump ally Larry Ellison"
         ]
       },
       "read_minutes": 2,
@@ -9650,18 +9656,18 @@
       ]
     },
     {
-      "id": "c93daec1626c",
-      "topic": "charge federal pressure prosecutor",
+      "id": "5bb2cb36f299",
+      "topic": "deployment guard know national",
       "keywords": [
-        "charge",
-        "federal",
-        "pressure",
-        "prosecutor",
-        "resist",
+        "deployment",
+        "guard",
+        "know",
+        "national",
+        "ruling",
         "trump"
       ],
       "item_ids": [
-        "641a0acbfeb9"
+        "917a0018a4cc"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -13082,6 +13088,42 @@
       ]
     },
     {
+      "id": "cc80c3565cf2",
+      "topic": "70s classic horror movie",
+      "keywords": [
+        "70s",
+        "classic",
+        "horror",
+        "movie",
+        "perfect",
+        "start"
+      ],
+      "item_ids": [
+        "5294fd217ad0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b9674640b234",
+      "topic": "action live robot upcoming",
+      "keywords": [
+        "action",
+        "live",
+        "robot",
+        "upcoming",
+        "want",
+        "which"
+      ],
+      "item_ids": [
+        "0e20574a3455"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5b4c8b609051",
       "topic": "better deserved much spinoff",
       "keywords": [
@@ -13202,39 +13244,6 @@
       ],
       "item_ids": [
         "0467502c1663"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9799fcdb6839",
-      "topic": "anime character completely different",
-      "keywords": [
-        "anime",
-        "character",
-        "completely",
-        "different",
-        "genre",
-        "starred"
-      ],
-      "item_ids": [
-        "ed1c56fb007b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "6b061bc8f8b8",
-      "topic": "heroe ranked smartest",
-      "keywords": [
-        "heroe",
-        "ranked",
-        "smartest"
-      ],
-      "item_ids": [
-        "f72f18d3b31d"
       ],
       "outlets": [
         "CBR"
