@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-07T21:16:03Z",
+  "generated_at": "2025-10-07T21:55:02Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -169,6 +169,40 @@
       "cluster_id": "a98a0ede1c29"
     },
     {
+      "id": "c58a0fd655f3",
+      "title": "TVC15: Darth Vader (VC08)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-01-tvc15-darth-vader-vc08/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-vader-vc08",
+      "published_at": "Wed, 01 Oct 2025 23:19:32 +0000",
+      "bullets": [
+        "• The only reason you would want to add this figure to your collection is for nostalgia",
+        "• Hasbro got a lot of mileage out of this Darth Vader action figure",
+        "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
+        ],
+        "hopeful_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
+        ],
+        "stakes_bullets": [
+          "• The only reason you would want to add this figure to your collection is for nostalgia",
+          "• Hasbro got a lot of mileage out of this Darth Vader action figure",
+          "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "53dc19c6d15a"
+    },
+    {
       "id": "7d9fedc75080",
       "title": "Matt Wagner talks Dracula Book III: The Count",
       "outlet": "Wicked Horror",
@@ -265,6 +299,39 @@
       "cluster_id": "951023dfcf39"
     },
     {
+      "id": "4d027cd88354",
+      "title": "TVC15: Weequay (VC107)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-09-30-tvc15-weequay-vc107/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-weequay-vc107",
+      "published_at": "Tue, 30 Sep 2025 21:35:17 +0000",
+      "bullets": [
+        "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
+        "• Hasbro had shied away from updates for years, as the 1997 version held up so well",
+        "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
+          "• Hasbro had shied away from updates for years, as the 1997 version held up so well"
+        ],
+        "hopeful_bullets": [
+          "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
+        ],
+        "stakes_bullets": [
+          "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
+          "• Hasbro had shied away from updates for years, as the 1997 version held up so well",
+          "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1eee4e3e43c5"
+    },
+    {
       "id": "261e3da66dc2",
       "title": "RFR Q&A #267: Star Wars Inspired Nachos",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -297,6 +364,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "107222b83c35"
+    },
+    {
+      "id": "8b77d61d6f01",
+      "title": "New Star Wars: Starfighter Rumors",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-09-29-new-star-wars-starfighter-rumors/?utm_source=rss&utm_medium=rss&utm_campaign=new-star-wars-starfighter-rumors",
+      "published_at": "Tue, 30 Sep 2025 02:45:59 +0000",
+      "bullets": [
+        "• Starfighter has entered production, but some rumors are beginning to spread",
+        "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey",
+        "• The plot leak we got is, as usual, unconfirmed, so all the usual caveats apply "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Starfighter has entered production, but some rumors are beginning to spread",
+          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey"
+        ],
+        "hopeful_bullets": [
+          "• Starfighter has entered production, but some rumors are beginning to spread",
+          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey"
+        ],
+        "stakes_bullets": [
+          "• Starfighter has entered production, but some rumors are beginning to spread",
+          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey",
+          "• The plot leak we got is, as usual, unconfirmed, so all the usual caveats apply "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "9fc13c25c625"
     },
     {
       "id": "604f29467dbc",
@@ -461,6 +562,340 @@
       "cluster_id": "9c183ecdf77c"
     },
     {
+      "id": "60522d93344f",
+      "title": "Fans Are Finally Excited for Netflix's People We Meet on Vacation Adaptation",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-people-we-meet-on-vacation-anticipated-rom-com/",
+      "published_at": "Tue, 07 Oct 2025 21:40:12 GMT",
+      "bullets": [
+        "• Emily Henry's People We Meet on Vacation was a New York Times bestseller, selling more than 2 million copies in the US alone",
+        "• The movie is set to be released in 2022",
+        "• The first look of the movie has been released "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Emily Henry's People We Meet on Vacation was a New York Times bestseller, selling more than 2 million copies in the US alone",
+          "• The movie is set to be released in 2022"
+        ],
+        "hopeful_bullets": [
+          "• Emily Henry's People We Meet on Vacation was a New York Times bestseller, selling more than 2 million copies in the US alone",
+          "• The movie is set to be released in 2022"
+        ],
+        "stakes_bullets": [
+          "• Emily Henry's People We Meet on Vacation was a New York Times bestseller, selling more than 2 million copies in the US alone",
+          "• The movie is set to be released in 2022",
+          "• The first look of the movie has been released "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "c049202be3d6"
+    },
+    {
+      "id": "03622a66a9d4",
+      "title": "Naughty Dog’s Most Underrated Game is Still PlayStation Gold",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/uncharted-golden-abyss-review/",
+      "published_at": "Tue, 07 Oct 2025 21:36:12 GMT",
+      "bullets": [
+        "• Uncharted: Golden Abyss is still the lost and most forgotten entry in the Uncharted series",
+        "• Trapped on the handheld Vita platform, it's the only mainline game that's not playable on modern PlayStation consoles",
+        "• The smaller form factor and technology limitations of the time hold the game back from reaching the same heights as its home console counterparts",
+        "• It's a real shame PlayStation hasn't managed to bring this adaptation from in-house developer Bend Studio (with oversight from Naughty Dog) to modern platforms "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Uncharted: Golden Abyss is still the lost and most forgotten entry in the Uncharted series",
+          "• Trapped on the handheld Vita platform, it's the only mainline game that's not playable on modern PlayStation consoles"
+        ],
+        "hopeful_bullets": [
+          "• Uncharted: Golden Abyss is still the lost and most forgotten entry in the Uncharted series",
+          "• Trapped on the handheld Vita platform, it's the only mainline game that's not playable on modern PlayStation consoles"
+        ],
+        "stakes_bullets": [
+          "• Uncharted: Golden Abyss is still the lost and most forgotten entry in the Uncharted series",
+          "• Trapped on the handheld Vita platform, it's the only mainline game that's not playable on modern PlayStation consoles",
+          "• The smaller form factor and technology limitations of the time hold the game back from reaching the same heights as its home console counterparts"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "574b207d9eca"
+    },
+    {
+      "id": "8d5ca8e1df24",
+      "title": "Popular True Crime Series on Netflix Has People Terrified: “I have not been able to sleep well since watching this”",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/539867/popular-true-crime-series-on-netflix-has-people-terrified-i-have-not-been-able-to-sleep-well-since-watching-this/",
+      "published_at": "Tue, 07 Oct 2025 21:30:58 +0000",
+      "bullets": [
+        "• Amy Bradley Is Missing is the #1 true crime series on Netflix today, and it sits in 9th place overall",
+        "• March 24, 1998, Amy Lynn Bradley, 23, is enjoying a family cruise vacation when she suddenly vanishes without a trace",
+        "• The show has been captivating armchair detectives "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amy Bradley Is Missing is the #1 true crime series on Netflix today, and it sits in 9th place overall",
+          "• March 24, 1998, Amy Lynn Bradley, 23, is enjoying a family cruise vacation when she suddenly vanishes without a trace"
+        ],
+        "hopeful_bullets": [
+          "• Amy Bradley Is Missing is the #1 true crime series on Netflix today, and it sits in 9th place overall",
+          "• March 24, 1998, Amy Lynn Bradley, 23, is enjoying a family cruise vacation when she suddenly vanishes without a trace"
+        ],
+        "stakes_bullets": [
+          "• Amy Bradley Is Missing is the #1 true crime series on Netflix today, and it sits in 9th place overall",
+          "• March 24, 1998, Amy Lynn Bradley, 23, is enjoying a family cruise vacation when she suddenly vanishes without a trace",
+          "• The show has been captivating armchair detectives "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "28bc44b9efd3"
+    },
+    {
+      "id": "f966901eec95",
+      "title": "Truth about AI, jobs and the future? 'No one knows anything,' says Wharton expert Ethan Mollick",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/07/generative-ai-knowledge-learning-jobs-education-skills-wharton-ethan-mollick.html",
+      "published_at": "Tue, 07 Oct 2025 21:26:52 GMT",
+      "bullets": [
+        "• Ethan Mollick is considered one of the top experts on the emerging world of generative AI, jobs and the economy",
+        "• He spoke at the CNBC Workforce Executive Council Summit in New York City on Tuesday",
+        "• \"I can tell you, no one knows anything,\" he said "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ethan Mollick is considered one of the top experts on the emerging world of generative AI, jobs and the economy",
+          "• He spoke at the CNBC Workforce Executive Council Summit in New York City on Tuesday"
+        ],
+        "hopeful_bullets": [
+          "• Ethan Mollick is considered one of the top experts on the emerging world of generative AI, jobs and the economy",
+          "• He spoke at the CNBC Workforce Executive Council Summit in New York City on Tuesday"
+        ],
+        "stakes_bullets": [
+          "• He spoke at the CNBC Workforce Executive Council Summit in New York City on Tuesday"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "0a37826cf118"
+    },
+    {
+      "id": "e2f96441c6b2",
+      "title": "Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/prime-day-beauty-deals-october-2025/",
+      "published_at": "Tue, 07 Oct 2025 21:23:24 +0000",
+      "bullets": [
+        "• The Fancii Taylor is large enough to see your entire face but compact enough to fit into the average purse",
+        "• The Best Lighted Makeup Mirror is $37 for $37 ($13 off) A shower water filter with bona fides is $69 for $69 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Fancii Taylor is large enough to see your entire face but compact enough to fit into the average purse",
+          "• The Best Lighted Makeup Mirror is $37 for $37 ($13 off) A shower water filter with bona fides is $69 for $69 "
+        ],
+        "hopeful_bullets": [
+          "• The Fancii Taylor is large enough to see your entire face but compact enough to fit into the average purse",
+          "• The Best Lighted Makeup Mirror is $37 for $37 ($13 off) A shower water filter with bona fides is $69 for $69 "
+        ],
+        "stakes_bullets": [
+          "• The Fancii Taylor is large enough to see your entire face but compact enough to fit into the average purse",
+          "• The Best Lighted Makeup Mirror is $37 for $37 ($13 off) A shower water filter with bona fides is $69 for $69 "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e2419f58e810"
+    },
+    {
+      "id": "a95a1a414dd5",
+      "title": "Ted Cruz Targets Wikipedia Over ‘Ideological Bias’",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/ted-cruz-targets-wikipedia-over-ideological-bias/",
+      "published_at": "Tue, 07 Oct 2025 21:17:51 +0000",
+      "bullets": [
+        "• Ted Cruz of Texas sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles on the collaborative encyclopedia",
+        "• Cruz alleged that \"bias is particularly evident in Wikipedia's reliable sources/perennial sources list\" Cruz asked for \"documents sufficient to show how the Wikimedia Foundation or the Wikipedia Community determines the categorization of sources\""
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ted Cruz of Texas sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles on the collaborative encyclopedia",
+          "• Cruz alleged that \"bias is particularly evident in Wikipedia's reliable sources/perennial sources list\" Cruz asked for \"documents sufficient to show how the Wikimedia Foundation or the Wikipedia Community determines the categorization of sources\""
+        ],
+        "hopeful_bullets": [
+          "• Ted Cruz of Texas sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles on the collaborative encyclopedia",
+          "• Cruz alleged that \"bias is particularly evident in Wikipedia's reliable sources/perennial sources list\" Cruz asked for \"documents sufficient to show how the Wikimedia Foundation or the Wikipedia Community determines the categorization of sources\""
+        ],
+        "stakes_bullets": [
+          "• Ted Cruz of Texas sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles on the collaborative encyclopedia",
+          "• Cruz alleged that \"bias is particularly evident in Wikipedia's reliable sources/perennial sources list\" Cruz asked for \"documents sufficient to show how the Wikimedia Foundation or the Wikipedia Community determines the categorization of sources\""
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "485eaeaf981c"
+    },
+    {
+      "id": "7169624f8b72",
+      "title": "This Prime Video Chart-Topper Is Made For “Hardcore horror fans”",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/537224/this-prime-video-chart-topper-is-made-for-hardcore-horror-fans/",
+      "published_at": "Tue, 07 Oct 2025 21:12:25 +0000",
+      "bullets": [
+        "• Robert Eggers' take on Nosferatu is the most-streamed horror movie on Prime Video",
+        "• The film was a smash, critical and commercial success, and a movie we here at Dread Central loved",
+        "• Dread Central has a long list of favorites, including The Lighthouse "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robert Eggers' take on Nosferatu is the most-streamed horror movie on Prime Video",
+          "• The film was a smash, critical and commercial success, and a movie we here at Dread Central loved"
+        ],
+        "hopeful_bullets": [
+          "• Robert Eggers' take on Nosferatu is the most-streamed horror movie on Prime Video",
+          "• The film was a smash, critical and commercial success, and a movie we here at Dread Central loved"
+        ],
+        "stakes_bullets": [
+          "• Robert Eggers' take on Nosferatu is the most-streamed horror movie on Prime Video",
+          "• The film was a smash, critical and commercial success, and a movie we here at Dread Central loved",
+          "• Dread Central has a long list of favorites, including The Lighthouse "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b40003da7701"
+    },
+    {
+      "id": "1ab2f60a6015",
+      "title": "The Best Anti-Prime Day Deals for Amazon Haters (2025): Sheets, Sex Tech, and Fire Pits",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/",
+      "published_at": "Tue, 07 Oct 2025 21:08:11 +0000",
+      "bullets": [
+        "• The Cozy Days sale means you can save up to 25 percent off nearly everything on the website",
+        "• Backcountry is offering up to 70 percent off select outdoor gear and apparel",
+        "• Best Buy might not be much better, spiritually, than Best Buy "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.743
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Cozy Days sale means you can save up to 25 percent off nearly everything on the website",
+          "• Backcountry is offering up to 70 percent off select outdoor gear and apparel"
+        ],
+        "hopeful_bullets": [
+          "• The Cozy Days sale means you can save up to 25 percent off nearly everything on the website",
+          "• Backcountry is offering up to 70 percent off select outdoor gear and apparel"
+        ],
+        "stakes_bullets": [
+          "• The Cozy Days sale means you can save up to 25 percent off nearly everything on the website",
+          "• Backcountry is offering up to 70 percent off select outdoor gear and apparel",
+          "• Best Buy might not be much better, spiritually, than Best Buy "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7ebc67cf7b94"
+    },
+    {
+      "id": "6917212cc32a",
+      "title": "Tesla prices Model Y standard below $40,000, debuting more affordable vehicle",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/07/tesla-stock-roadster-budget-model-y.html",
+      "published_at": "Tue, 07 Oct 2025 21:07:08 GMT",
+      "bullets": [
+        "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+        "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000",
+        "• The company also released a new version of its driver assistance system "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000"
+        ],
+        "hopeful_bullets": [
+          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000"
+        ],
+        "stakes_bullets": [
+          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
+          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000",
+          "• The company also released a new version of its driver assistance system "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9e3781b4de84"
+    },
+    {
+      "id": "088a8b6298c7",
+      "title": "2025 Nobel Prize in Physics awarded for macroscale quantum tunneling",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/10/2025-nobel-prize-in-physics-awarded-for-macroscale-quantum-tunneling/",
+      "published_at": "Tue, 07 Oct 2025 21:05:41 +0000",
+      "bullets": [
+        "• The 2025 Nobel Prize in Physics has been awarded to John Clarke, Michel Devoret, and John M",
+        "• Martinis",
+        "• The three men will split the $1.1 million prize money",
+        "• The presentation ceremony will take place in Stockholm on December 10, 2025 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 2025 Nobel Prize in Physics has been awarded to John Clarke, Michel Devoret, and John M",
+          "• Martinis"
+        ],
+        "hopeful_bullets": [
+          "• The 2025 Nobel Prize in Physics has been awarded to John Clarke, Michel Devoret, and John M"
+        ],
+        "stakes_bullets": [
+          "• The three men will split the $1.1 million prize money",
+          "• The presentation ceremony will take place in Stockholm on December 10, 2025 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5e8597b8b69c"
+    },
+    {
       "id": "09afb83826ed",
       "title": "One-Punch Man Season 3 Gets Major Streaming Release Update for Netflix, Hulu & More",
       "outlet": "CBR",
@@ -491,6 +926,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "596aa8ead5c3"
+    },
+    {
+      "id": "d377129409aa",
+      "title": "Michael Dell says 'at some point there'll be too many' AI data centers, but not yet",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/07/michael-dell-too-many-ai-data-centers.html",
+      "published_at": "Tue, 07 Oct 2025 21:02:02 GMT",
+      "bullets": [
+        "• Dell CEO Michael Dell says demand for AI servers is \"tremendous\" The company raised its expected annual revenue growth to 7% to 9%, up from 3% to 4%",
+        "• The company plans to ship $20 billion worth of AI servers in fiscal 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dell CEO Michael Dell says demand for AI servers is \"tremendous\" The company raised its expected annual revenue growth to 7% to 9%, up from 3% to 4%",
+          "• The company plans to ship $20 billion worth of AI servers in fiscal 2026 "
+        ],
+        "hopeful_bullets": [
+          "• Dell CEO Michael Dell says demand for AI servers is \"tremendous\" The company raised its expected annual revenue growth to 7% to 9%, up from 3% to 4%"
+        ],
+        "stakes_bullets": [
+          "• Dell CEO Michael Dell says demand for AI servers is \"tremendous\" The company raised its expected annual revenue growth to 7% to 9%, up from 3% to 4%",
+          "• The company plans to ship $20 billion worth of AI servers in fiscal 2026 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bf83739d9956"
     },
     {
       "id": "3dd0db39c05b",
@@ -525,6 +991,40 @@
       },
       "read_minutes": 6,
       "cluster_id": "b5e15a49a9ae"
+    },
+    {
+      "id": "6ccfd17a7e07",
+      "title": "Trump threat to withhold back pay from federal workers ‘deliberately violates’ law, says congressman – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates",
+      "published_at": "Tue, 07 Oct 2025 20:58:02 GMT",
+      "bullets": [
+        "• Jamie Raskin says Trump's threat to withhold back pay from furloughed federal workers after shutdown is illegal",
+        "• The Maryland Democrat is a Democrat who represents many federal workers",
+        "• Kristi Noem, the homeland security secretary, is touring the Immigration and Customs Enforcement facility in Portland, Oregon accompanied by conservative influencers "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jamie Raskin says Trump's threat to withhold back pay from furloughed federal workers after shutdown is illegal",
+          "• The Maryland Democrat is a Democrat who represents many federal workers"
+        ],
+        "hopeful_bullets": [
+          "• Jamie Raskin says Trump's threat to withhold back pay from furloughed federal workers after shutdown is illegal",
+          "• The Maryland Democrat is a Democrat who represents many federal workers"
+        ],
+        "stakes_bullets": [
+          "• Jamie Raskin says Trump's threat to withhold back pay from furloughed federal workers after shutdown is illegal",
+          "• The Maryland Democrat is a Democrat who represents many federal workers",
+          "• Kristi Noem, the homeland security secretary, is touring the Immigration and Customs Enforcement facility in Portland, Oregon accompanied by conservative influencers "
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "ce288596fd34"
     },
     {
       "id": "762380dc31f5",
@@ -562,6 +1062,39 @@
       "cluster_id": "99dd174aeab9"
     },
     {
+      "id": "1eb41723c8a4",
+      "title": "Israelis mark 7 October anniversary as talks on Gaza peace plan continue",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c24rj4pg05no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 07 Oct 2025 20:54:52 GMT",
+      "bullets": [
+        "• Israelis mark 7 October 2023 anniversary of Hamas-led attack on Israel",
+        "• Over 1,200 people killed and 251 taken back to Gaza as hostages",
+        "• Israeli government delayed official memorials until after the end of the Jewish High Holiday",
+        "• UN Secretary General Guterres calls on all parties to agree to US President Donald Trump's peace plan "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israelis mark 7 October 2023 anniversary of Hamas-led attack on Israel",
+          "• Over 1,200 people killed and 251 taken back to Gaza as hostages"
+        ],
+        "hopeful_bullets": [
+          "• Israelis mark 7 October 2023 anniversary of Hamas-led attack on Israel",
+          "• Over 1,200 people killed and 251 taken back to Gaza as hostages"
+        ],
+        "stakes_bullets": [
+          "• UN Secretary General Guterres calls on all parties to agree to US President Donald Trump's peace plan "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "f27ef86ebc94"
+    },
+    {
       "id": "162d83bcd041",
       "title": "Marvel Execs Confront 'Valid Criticisms' of Phase 5 Stories, And How Marvel Zombies Fixes Them",
       "outlet": "CBR",
@@ -592,6 +1125,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "10275f94a52b"
+    },
+    {
+      "id": "e5d9c94b5943",
+      "title": "Ted Cruz doesn’t seem to understand Wikipedia, lawyer for Wikimedia says",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/",
+      "published_at": "Tue, 07 Oct 2025 20:43:08 +0000",
+      "bullets": [
+        "• Sen",
+        "• Ted Cruz sent a letter accusing Wikipedia of left-wing bias to the Wikimedia Foundation",
+        "• A lawyer for the foundation says the letter is based on misunderstandings of how Wikipedia works",
+        "• Cruz asked the foundation for \"documents sufficient to show what supervision, oversight, or influence, if any, the Wikimedia foundation has over the editing community\""
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sen",
+          "• Ted Cruz sent a letter accusing Wikipedia of left-wing bias to the Wikimedia Foundation"
+        ],
+        "hopeful_bullets": [
+          "• Ted Cruz sent a letter accusing Wikipedia of left-wing bias to the Wikimedia Foundation"
+        ],
+        "stakes_bullets": [
+          "• Sen",
+          "• Ted Cruz sent a letter accusing Wikipedia of left-wing bias to the Wikimedia Foundation",
+          "• A lawyer for the foundation says the letter is based on misunderstandings of how Wikipedia works"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fce590d7ab0b"
     },
     {
       "id": "e17853952bde",
@@ -760,40 +1327,6 @@
       "cluster_id": "55efea3d5743"
     },
     {
-      "id": "6ccfd17a7e07",
-      "title": "Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back’ – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Tue, 07 Oct 2025 20:15:34 GMT",
-      "bullets": [
-        "• Jamie Raskin, a Maryland Democrat, says the president is violating the law he signed into law",
-        "• The president has no right to withhold back pay from furloughed federal workers in his own political camp, he said",
-        "• The Maryland congressman said the president should get ready for a fight in court "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jamie Raskin, a Maryland Democrat, says the president is violating the law he signed into law",
-          "• The president has no right to withhold back pay from furloughed federal workers in his own political camp, he said"
-        ],
-        "hopeful_bullets": [
-          "• Jamie Raskin, a Maryland Democrat, says the president is violating the law he signed into law",
-          "• The president has no right to withhold back pay from furloughed federal workers in his own political camp, he said"
-        ],
-        "stakes_bullets": [
-          "• Jamie Raskin, a Maryland Democrat, says the president is violating the law he signed into law",
-          "• The president has no right to withhold back pay from furloughed federal workers in his own political camp, he said",
-          "• The Maryland congressman said the president should get ready for a fight in court "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "0679efdc828a"
-    },
-    {
       "id": "9b80ec67b886",
       "title": "6 Best Dehumidifiers for Cool and Dry Home Air (2025)",
       "outlet": "WIRED",
@@ -955,50 +1488,15 @@
       "cluster_id": "b698f927f56f"
     },
     {
-      "id": "6917212cc32a",
-      "title": "Tesla prices Model Y standard below $40,000, debuting more affordable vehicle",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/07/tesla-stock-roadster-budget-model-y.html",
-      "published_at": "Tue, 07 Oct 2025 20:05:59 GMT",
-      "bullets": [
-        "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
-        "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000",
-        "• The company also released a new version of its driver assistance system "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
-          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000"
-        ],
-        "hopeful_bullets": [
-          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
-          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000"
-        ],
-        "stakes_bullets": [
-          "• Tesla debuts more affordable versions of its Model Y SUV and Model 3 sedan",
-          "• The Model Y standard variant is priced just below $40,000, and the Model 3 standard starts at around $37,000",
-          "• The company also released a new version of its driver assistance system "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9e3781b4de84"
-    },
-    {
       "id": "9a984a5a9be0",
       "title": "Five takeaways from Pam Bondi's tense, partisan Senate hearing",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c75qpl70xvzo?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 07 Oct 2025 20:01:22 GMT",
       "bullets": [
-        "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a partisan affair",
-        "• It was the attorney general's first appearance at a congressional oversight hearing - and it was a timely one",
-        "• Bondi went on the attack early and often in the middle of the hearing",
-        "• Here are five takeaways from the tense hearing "
+        "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a contentious, partisan affair",
+        "• The attorney general was making her first appearance at a congressional oversight hearing - and it was a timely one",
+        "• Her testimony came just a day after a group of former justice department employees released a letter accusing Bondi of taking a \"sledgehammer\" to \"longstanding work the department has done to protect communities and the rule of law\""
       ],
       "category": "World",
       "sentiment": {
@@ -1007,15 +1505,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a partisan affair",
-          "• It was the attorney general's first appearance at a congressional oversight hearing - and it was a timely one"
+          "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a contentious, partisan affair",
+          "• The attorney general was making her first appearance at a congressional oversight hearing - and it was a timely one"
         ],
         "hopeful_bullets": [
-          "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a partisan affair",
-          "• It was the attorney general's first appearance at a congressional oversight hearing - and it was a timely one"
+          "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a contentious, partisan affair",
+          "• The attorney general was making her first appearance at a congressional oversight hearing - and it was a timely one"
         ],
         "stakes_bullets": [
-          "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a partisan affair"
+          "• Pam Bondi's testimony before the Senate Judiciary Committee was expected to be a contentious, partisan affair"
         ]
       },
       "read_minutes": 5,
@@ -1218,6 +1716,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "8e520f014122"
+    },
+    {
+      "id": "be3c35f9d2eb",
+      "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
+      "published_at": "Tue, 07 Oct 2025 19:47:19 +0000",
+      "bullets": [
+        "• Windows 11 requires users to sign in with a Microsoft account",
+        "• Microsoft has removed some workarounds to allow users to set up local accounts",
+        "• Microsoft says these workaroys skip critical setup screens and skip critical screens",
+        "• The move foreshadowing some future versions of Windows that require account sign-in "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Windows 11 requires users to sign in with a Microsoft account",
+          "• Microsoft has removed some workarounds to allow users to set up local accounts"
+        ],
+        "hopeful_bullets": [
+          "• Windows 11 requires users to sign in with a Microsoft account",
+          "• The move foreshadowing some future versions of Windows that require account sign-in "
+        ],
+        "stakes_bullets": [
+          "• Windows 11 requires users to sign in with a Microsoft account",
+          "• The move foreshadowing some future versions of Windows that require account sign-in "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0882e9b63519"
     },
     {
       "id": "6613771701d0",
@@ -1810,41 +2342,6 @@
       "cluster_id": "12458d9bd4b4"
     },
     {
-      "id": "5eecd0c2f80a",
-      "title": "Rebecca Ferguson Confirms Dune 3 Return",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dune-3-rebecca-ferguson-confirms-lady-jessica-return/",
-      "published_at": "Tue, 07 Oct 2025 19:08:31 GMT",
-      "bullets": [
-        "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
-        "• The actress has already finished filming her role as Lady Jessica",
-        "• She is now the sixth returning cast member for the threequel",
-        "• Jason Momoa's son, Nakoa-Wolf Momoa, and Ida Brooke have also been cast "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
-          "• The actress has already finished filming her role as Lady Jessica"
-        ],
-        "hopeful_bullets": [
-          "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
-          "• The actress has already finished filming her role as Lady Jessica"
-        ],
-        "stakes_bullets": [
-          "• Rebecca Ferguson has confirmed her casting for Dune: Part Three",
-          "• The actress has already finished filming her role as Lady Jessica",
-          "• She is now the sixth returning cast member for the threequel"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ce5298761bc8"
-    },
-    {
       "id": "0e21171ab871",
       "title": "Prime Day 2025 - We’re Tracking Deals Live",
       "outlet": "WIRED",
@@ -1873,43 +2370,8 @@
           "• Nearly everyone on the 15-person WIRED Reviews team will chime in throughout the event"
         ]
       },
-      "read_minutes": 11,
+      "read_minutes": 12,
       "cluster_id": "9ac49cee8af9"
-    },
-    {
-      "id": "79ff760fbca0",
-      "title": "Charlie Hunnam's Monster Season 3 Takes the Charts Hostage (But Still Below Previous Seasons)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/charlie-hunnam-monster-debut-viewership-number-streaming-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 19:06:48 GMT",
-      "bullets": [
-        "• Monster: The Ed Gein Story just debuted on Oct",
-        "• 3, and it has headed straight to the top of the charts",
-        "• Charlie Hunnam's new entry brought in the worst numbers so far, with 12.2 million views and 90.6 million hours viewed",
-        "• However, it is just slightly behind Season 2, with a debut of 12.3 million views "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Monster: The Ed Gein Story just debuted on Oct",
-          "• 3, and it has headed straight to the top of the charts"
-        ],
-        "hopeful_bullets": [
-          "• Monster: The Ed Gein Story just debuted on Oct",
-          "• 3, and it has headed straight to the top of the charts"
-        ],
-        "stakes_bullets": [
-          "• Monster: The Ed Gein Story just debuted on Oct",
-          "• 3, and it has headed straight to the top of the charts",
-          "• Charlie Hunnam's new entry brought in the worst numbers so far, with 12.2 million views and 90.6 million hours viewed"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7b75fafe506c"
     },
     {
       "id": "2a79b01b2ee6",
@@ -1976,7 +2438,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "658aabbc2a3a"
+      "cluster_id": "e2419f58e810"
     },
     {
       "id": "8a8305fbc003",
@@ -2011,38 +2473,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "40f7def737c0"
-    },
-    {
-      "id": "1eb41723c8a4",
-      "title": "Israelis mark 7 October anniversary as talks on Gaza peace plan continue",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c24rj4pg05no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 07 Oct 2025 18:46:51 GMT",
-      "bullets": [
-        "• Israelis mark 7 October 2023 anniversary as talks on Gaza peace plan continue in Egypt",
-        "• Over 1,200 people were killed and 251 taken back to Gaza as hostages",
-        "• Israel responded by launching a military offensive in Gaza which has killed more than 67,000 people "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.908
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israelis mark 7 October 2023 anniversary as talks on Gaza peace plan continue in Egypt",
-          "• Over 1,200 people were killed and 251 taken back to Gaza as hostages"
-        ],
-        "hopeful_bullets": [
-          "• Israelis mark 7 October 2023 anniversary as talks on Gaza peace plan continue in Egypt",
-          "• Over 1,200 people were killed and 251 taken back to Gaza as hostages"
-        ],
-        "stakes_bullets": [
-          "• Israelis mark 7 October 2023 anniversary as talks on Gaza peace plan continue in Egypt"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f27ef86ebc94"
     },
     {
       "id": "da6133208fa5",
@@ -2179,40 +2609,6 @@
       "cluster_id": "7782c54eada9"
     },
     {
-      "id": "de4bcc63f2c4",
-      "title": "Cozy Earth's Prime Day Sale (2025): Sheets, Pajamas, Socks and More on Deep Discount",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/cozy-earth-prime-day-sale-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 18:29:36 +0000",
-      "bullets": [
-        "• Amazon's Prime Big Deal Days are currently underway today and tomorrow",
-        "• Cozy Earth is having its own sitewide sale where you can get up to 25 percent off",
-        "• The brand got its fame from its super-soft bamboo sheets, and you can count on it for cozy everything, ranging from bedsheets and pajamas "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon's Prime Big Deal Days are currently underway today and tomorrow",
-          "• Cozy Earth is having its own sitewide sale where you can get up to 25 percent off"
-        ],
-        "hopeful_bullets": [
-          "• Amazon's Prime Big Deal Days are currently underway today and tomorrow",
-          "• Cozy Earth is having its own sitewide sale where you can get up to 25 percent off"
-        ],
-        "stakes_bullets": [
-          "• Amazon's Prime Big Deal Days are currently underway today and tomorrow",
-          "• Cozy Earth is having its own sitewide sale where you can get up to 25 percent off",
-          "• The brand got its fame from its super-soft bamboo sheets, and you can count on it for cozy everything, ranging from bedsheets and pajamas "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ba641c00d782"
-    },
-    {
       "id": "83ebc5627a24",
       "title": "Trump says there is ‘natural conflict’ with Canada during Carney visit",
       "outlet": "US news | The Guardian",
@@ -2243,72 +2639,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6a0ced16ffff"
-    },
-    {
-      "id": "677b48a19f5a",
-      "title": "Best Prime Day Apple iPad Deals",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/",
-      "published_at": "Tue, 07 Oct 2025 18:26:37 +0000",
-      "bullets": [
-        "• The 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for the 128GB Wi-Fi only model",
-        "• It's not our favorite screen, unfortunately, as it doesn't have the nano-textured anti-glare glass "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for the 128GB Wi-Fi only model",
-          "• It's not our favorite screen, unfortunately, as it doesn't have the nano-textured anti-glare glass "
-        ],
-        "hopeful_bullets": [
-          "• The 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for the 128GB Wi-Fi only model",
-          "• It's not our favorite screen, unfortunately, as it doesn't have the nano-textured anti-glare glass "
-        ],
-        "stakes_bullets": [
-          "• The 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for the 128GB Wi-Fi only model",
-          "• It's not our favorite screen, unfortunately, as it doesn't have the nano-textured anti-glare glass "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2b1364668e5b"
-    },
-    {
-      "id": "41959e7bc929",
-      "title": "The Best Prime Day Apple Deals, From Watches to iPads (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-oct-2025/",
-      "published_at": "Tue, 07 Oct 2025 18:24:51 +0000",
-      "bullets": [
-        "• The best Apple gear that's discounted on Amazon's Prime Big Deal Days is on sale on October 1",
-        "• Apple's AirPods Pro 3 are better than ever",
-        "• The best iPad and Apple Watch Series 10 are on sale for $329 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The best Apple gear that's discounted on Amazon's Prime Big Deal Days is on sale on October 1",
-          "• Apple's AirPods Pro 3 are better than ever"
-        ],
-        "hopeful_bullets": [
-          "• The best Apple gear that's discounted on Amazon's Prime Big Deal Days is on sale on October 1",
-          "• Apple's AirPods Pro 3 are better than ever"
-        ],
-        "stakes_bullets": [
-          "• The best Apple gear that's discounted on Amazon's Prime Big Deal Days is on sale on October 1",
-          "• Apple's AirPods Pro 3 are better than ever",
-          "• The best iPad and Apple Watch Series 10 are on sale for $329 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2b1364668e5b"
     },
     {
       "id": "020c4243ab5b",
@@ -2783,71 +3113,6 @@
       "cluster_id": "20d1f0b87784"
     },
     {
-      "id": "1982cbdac443",
-      "title": "‘For Sale By Exorcist’ To Play Black Sunday Film Festival Halloween Event",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/545392/for-sale-by-exorcist-to-play-black-sunday-film-festival-halloween-event/",
-      "published_at": "Tue, 07 Oct 2025 17:13:24 +0000",
-      "bullets": [
-        "• Essex's premiere genre festival, the Black Sunday Film Festival, returns with their annual spooky season mini-fest: BSFF Halloween",
-        "• The vent takes place at Firstsite, Colchester, on November 1, 2025, with a stellar line-up of genre offerings "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Essex's premiere genre festival, the Black Sunday Film Festival, returns with their annual spooky season mini-fest: BSFF Halloween",
-          "• The vent takes place at Firstsite, Colchester, on November 1, 2025, with a stellar line-up of genre offerings "
-        ],
-        "hopeful_bullets": [
-          "• Essex's premiere genre festival, the Black Sunday Film Festival, returns with their annual spooky season mini-fest: BSFF Halloween",
-          "• The vent takes place at Firstsite, Colchester, on November 1, 2025, with a stellar line-up of genre offerings "
-        ],
-        "stakes_bullets": [
-          "• Essex's premiere genre festival, the Black Sunday Film Festival, returns with their annual spooky season mini-fest: BSFF Halloween",
-          "• The vent takes place at Firstsite, Colchester, on November 1, 2025, with a stellar line-up of genre offerings "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "581c3c9a84bf"
-    },
-    {
-      "id": "bbb09c83f47d",
-      "title": "OpenAI's Sora 2 must stop allowing copyright infringement, Motion Picture Association says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/07/openais-sora-2-must-stop-allowing-copyright-infringement-mpa-says.html",
-      "published_at": "Tue, 07 Oct 2025 17:13:16 GMT",
-      "bullets": [
-        "• Motion Picture Association urges OpenAI to \"take immediate and decisive action\" against its new video creation model",
-        "• AI-generated clips have been created using the new video-creation model, which is being used to produce content that it says is infringing on copyrighted media",
-        "• MPA CEO Charles Rivkin: \"Well-established copyright law safeguards the rights of creators\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.859
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Motion Picture Association urges OpenAI to \"take immediate and decisive action\" against its new video creation model",
-          "• AI-generated clips have been created using the new video-creation model, which is being used to produce content that it says is infringing on copyrighted media"
-        ],
-        "hopeful_bullets": [
-          "• Motion Picture Association urges OpenAI to \"take immediate and decisive action\" against its new video creation model"
-        ],
-        "stakes_bullets": [
-          "• Motion Picture Association urges OpenAI to \"take immediate and decisive action\" against its new video creation model",
-          "• AI-generated clips have been created using the new video-creation model, which is being used to produce content that it says is infringing on copyrighted media",
-          "• MPA CEO Charles Rivkin: \"Well-established copyright law safeguards the rights of creators\""
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a5d325fb7a68"
-    },
-    {
       "id": "5dd39d31f93a",
       "title": "Dead celebrities are apparently fair game for Sora 2 video manipulation",
       "outlet": "Ars Technica - All content",
@@ -2880,6 +3145,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "72335ea0f752"
+    },
+    {
+      "id": "55e1688db0a6",
+      "title": "The costs of Israel's longest war, for Israelis",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5555902/israel-hamas-war-mental-emotional-cost-israelis",
+      "published_at": "Tue, 07 Oct 2025 17:07:30 -0400",
+      "bullets": [
+        "• Hamas-led attack on Israel on Oct",
+        "• 7, 2023, sparked the devastating Gaza war",
+        "• Families of hostages have intensified their own war with Netanyahu to get their loved ones back before it's too late",
+        "• \"I'm not going to let you kill my son and bring him back in a body bag,\" father shouts "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hamas-led attack on Israel on Oct",
+          "• 7, 2023, sparked the devastating Gaza war"
+        ],
+        "hopeful_bullets": [
+          "• Hamas-led attack on Israel on Oct",
+          "• 7, 2023, sparked the devastating Gaza war"
+        ],
+        "stakes_bullets": [
+          "• Hamas-led attack on Israel on Oct",
+          "• 7, 2023, sparked the devastating Gaza war",
+          "• Families of hostages have intensified their own war with Netanyahu to get their loved ones back before it's too late"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0b57f0e45b21"
     },
     {
       "id": "81afd8076d54",
@@ -2947,40 +3247,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "46996b05759f"
-    },
-    {
-      "id": "0e7f48655ea4",
-      "title": "EXCLUSIVE ‘LandLord’ Trailer: Vampires And Predatory Landlords Meet In Chilling New Film",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/545390/exclusive-landlord-trailer-vampires-and-predatory-landlords-meet-in-chilling-new-film/",
-      "published_at": "Tue, 07 Oct 2025 16:54:32 +0000",
-      "bullets": [
-        "• Remington Smith wrote, directed, edited and produced LandLord",
-        "• The film stars Adama Abramson, Cohen James Cooper, William McKinney, Lance Gerard, J",
-        "• Barrett Cooper, and Lance Gerard",
-        "• LandLord will have its world premiere at Grimmfest on October 10, 2025 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Remington Smith wrote, directed, edited and produced LandLord",
-          "• The film stars Adama Abramson, Cohen James Cooper, William McKinney, Lance Gerard, J"
-        ],
-        "hopeful_bullets": [
-          "• Remington Smith wrote, directed, edited and produced LandLord",
-          "• The film stars Adama Abramson, Cohen James Cooper, William McKinney, Lance Gerard, J"
-        ],
-        "stakes_bullets": [
-          "• The film stars Adama Abramson, Cohen James Cooper, William McKinney, Lance Gerard, J",
-          "• LandLord will have its world premiere at Grimmfest on October 10, 2025 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4c6a362b4442"
     },
     {
       "id": "b5d93083c50d",
@@ -3414,40 +3680,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1712aac2afca"
-    },
-    {
-      "id": "37333b066c8a",
-      "title": "The shutdown meant no jobs report. Carlyle's analysis shows it would have been pretty bad",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/07/the-shutdown-meant-no-jobs-report-carlyles-analysis-shows-it-would-have-been-pretty-bad.html",
-      "published_at": "Tue, 07 Oct 2025 15:08:31 GMT",
-      "bullets": [
-        "• Carlyle says its proprietary data showed job growth of just 17,000 for the month",
-        "• That would be even less than the 22,000 gain in August reflected in BLS data",
-        "• Carlyle's data jibes somewhat with other releases showing little hiring growth "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Carlyle says its proprietary data showed job growth of just 17,000 for the month",
-          "• That would be even less than the 22,000 gain in August reflected in BLS data"
-        ],
-        "hopeful_bullets": [
-          "• Carlyle says its proprietary data showed job growth of just 17,000 for the month",
-          "• Carlyle's data jibes somewhat with other releases showing little hiring growth "
-        ],
-        "stakes_bullets": [
-          "• Carlyle says its proprietary data showed job growth of just 17,000 for the month",
-          "• That would be even less than the 22,000 gain in August reflected in BLS data",
-          "• Carlyle's data jibes somewhat with other releases showing little hiring growth "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "545a895283b4"
     },
     {
       "id": "ab7f1ed89188",
@@ -3913,6 +4145,41 @@
       },
       "read_minutes": 4,
       "cluster_id": "c6df57f67de9"
+    },
+    {
+      "id": "dc7cd5acc813",
+      "title": "Everything You Need To Know About The Vintage Collection Bom Vimdin (VC53) Re-release!",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-07-everything-you-need-to-know-about-the-vintage-collection-bom-vimdin-vc53-re-release/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-need-to-know-about-the-vintage-collection-bom-vimdin-vc53-re-release",
+      "published_at": "Tue, 07 Oct 2025 10:34:51 +0000",
+      "bullets": [
+        "• The Bom Vimdin re-released in The Vintage Collection",
+        "• Hasbro changed the figure and its packaging",
+        "• There’s more difference between the 2011 version and the 2025 reissue than you may realize",
+        "• An all-new 68-image gallery with comparison shots and a breakdown of what separates the 2011 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Bom Vimdin re-released in The Vintage Collection",
+          "• Hasbro changed the figure and its packaging"
+        ],
+        "hopeful_bullets": [
+          "• The Bom Vimdin re-released in The Vintage Collection",
+          "• Hasbro changed the figure and its packaging"
+        ],
+        "stakes_bullets": [
+          "• The Bom Vimdin re-released in The Vintage Collection",
+          "• Hasbro changed the figure and its packaging",
+          "• There’s more difference between the 2011 version and the 2025 reissue than you may realize"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0dd6956950e5"
     },
     {
       "id": "32ff308d0cef",
@@ -4421,14 +4688,14 @@
     {
       "id": "0bc422e6fcc1",
       "title": "Why Democrats are casting the government shutdown as a health care showdown",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/07/g-s1-92251/government-shutdown-health-insurance-premiums",
       "published_at": "Tue, 07 Oct 2025 05:04:00 -0400",
       "bullets": [
         "• Julio Fuentes: \"Hispanic voters helped return Donald Trump to the White House\" He says the GOP needs to pass a law to preserve low premiums on Affordable Care Act plans",
         "• Democrats in Congress are holding up government funding to pressure Republicans into extending billions in federal tax credits "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.993
@@ -4448,6 +4715,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "b439b2804c08"
+    },
+    {
+      "id": "cab1b79f73f1",
+      "title": "“Why Sergio?”: Deportation ends 36-year dream for celebrated Waco chef",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17180555/texas-waco-chef-deported-sergio-garcia-ice-undocumented",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry",
+        "• He was separated from his four U.S.-born children and wife, Sandra Garcia",
+        "• He had been a well-known Waco resident for 36 years "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry",
+          "• He was separated from his four U.S.-born children and wife, Sandra Garcia"
+        ],
+        "hopeful_bullets": [
+          "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry"
+        ],
+        "stakes_bullets": [
+          "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry",
+          "• He was separated from his four U.S.-born children and wife, Sandra Garcia",
+          "• He had been a well-known Waco resident for 36 years "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "e5fa7843d288"
     },
     {
       "id": "503386db7771",
@@ -4482,39 +4782,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "b1e8cc17f2f0"
-    },
-    {
-      "id": "cab1b79f73f1",
-      "title": "“Why Sergio?”: Deportation ends 36-year dream for celebrated Waco chef",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17180555/texas-waco-chef-deported-sergio-garcia-ice-undocumented",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry",
-        "• He was separated from his four U.S.-born children and wife, Sandra Garcia",
-        "• He had been a well-known Waco resident for 36 years "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.961
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry",
-          "• He was separated from his four U.S.-born children and wife, Sandra Garcia"
-        ],
-        "hopeful_bullets": [
-          "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry"
-        ],
-        "stakes_bullets": [
-          "• Sergio Garcia had no criminal record, only a two-decade-old deportation order for illegal re-entry",
-          "• He was separated from his four U.S.-born children and wife, Sandra Garcia",
-          "• He had been a well-known Waco resident for 36 years "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "e5fa7843d288"
     },
     {
       "id": "e6fdd8ddd73a",
@@ -4622,31 +4889,30 @@
       "url": "https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify",
       "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• Bondi testifies before Senate panel at first hearing since Comey indictment",
-        "• Democrats say she is being used to protect President Trump's enemies",
-        "• Bondi: \"I took office with two main goals, to end the weaponization of justice and return the core mission of fighting violent crime\""
+        "• Democrats say the Department of Justice is being weaponized to go after President Trump's enemies",
+        "• The Senate Judiciary Committee held a hearing on the issue",
+        "• The hearing lasted more than four hours and included testimony from senators from across the country",
+        "• The panel is expected to hold another hearing next week on the matter "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.712
+        "score": 0.947
       },
       "moods": {
         "brief_bullets": [
-          "• Bondi testifies before Senate panel at first hearing since Comey indictment",
-          "• Democrats say she is being used to protect President Trump's enemies"
+          "• Democrats say the Department of Justice is being weaponized to go after President Trump's enemies",
+          "• The Senate Judiciary Committee held a hearing on the issue"
         ],
         "hopeful_bullets": [
-          "• Bondi testifies before Senate panel at first hearing since Comey indictment",
-          "• Democrats say she is being used to protect President Trump's enemies"
+          "• Democrats say the Department of Justice is being weaponized to go after President Trump's enemies",
+          "• The Senate Judiciary Committee held a hearing on the issue"
         ],
         "stakes_bullets": [
-          "• Bondi testifies before Senate panel at first hearing since Comey indictment",
-          "• Democrats say she is being used to protect President Trump's enemies",
-          "• Bondi: \"I took office with two main goals, to end the weaponization of justice and return the core mission of fighting violent crime\""
+          "• The panel is expected to hold another hearing next week on the matter "
         ]
       },
-      "read_minutes": 4,
+      "read_minutes": 5,
       "cluster_id": "7c54a924e52e"
     },
     {
@@ -5806,6 +6072,38 @@
       "cluster_id": "20aff8d8299a"
     },
     {
+      "id": "f3bc6f527dda",
+      "title": "TVC15: Anakin Skywalker (Peasant Disguise) (VC32)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-04-tvc15-anakin-skywalker-peasant-disguise-vc32/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-anakin-skywalker-peasant-disguise-vc32",
+      "published_at": "Sun, 05 Oct 2025 02:32:29 +0000",
+      "bullets": [
+        "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+        "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.618
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+        ],
+        "stakes_bullets": [
+          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
+          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "06464c4fde60"
+    },
+    {
       "id": "c1fa9628700b",
       "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
       "outlet": "The Star Wars Report Podcast",
@@ -6135,7 +6433,7 @@
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "ce288799fa10"
+      "cluster_id": "9fc13c25c625"
     },
     {
       "id": "009c60963c4e",
@@ -6407,36 +6705,38 @@
       "cluster_id": "e3f2b8be7cd8"
     },
     {
-      "id": "195339fa559b",
-      "title": "Discovery of cells that keep immune responses in check wins medicine Nobel Prize",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/health/2025/10/discovery-of-cells-that-keep-immune-responses-in-check-wins-medicine-nobel-prize/",
-      "published_at": "Mon, 06 Oct 2025 23:11:33 +0000",
+      "id": "16253c338978",
+      "title": "TVC15: Boba Fett [Return Of The Jedi] (VC09)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-06-tvc15-boba-fett-return-of-the-jedi-vc09/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-return-of-the-jedi-vc09",
+      "published_at": "Mon, 06 Oct 2025 23:24:38 +0000",
       "bullets": [
-        "• Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine on Monday",
-        "• They were awarded for their work in the discovery of a non-central process that allows the immune system to strike a delicate balance between being responsive and aggressive toward intruding germs or foreign dangers "
+        "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+        "• This figure should have come with a unique VC number",
+        "• While now obsolete, this VOTC repack was a welcome addition to the lineup "
       ],
-      "category": "Technology",
+      "category": "Star Wars",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine on Monday",
-          "• They were awarded for their work in the discovery of a non-central process that allows the immune system to strike a delicate balance between being responsive and aggressive toward intruding germs or foreign dangers "
+          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+          "• This figure should have come with a unique VC number"
         ],
         "hopeful_bullets": [
-          "• Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine on Monday",
-          "• They were awarded for their work in the discovery of a non-central process that allows the immune system to strike a delicate balance between being responsive and aggressive toward intruding germs or foreign dangers "
+          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+          "• This figure should have come with a unique VC number"
         ],
         "stakes_bullets": [
-          "• Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine on Monday",
-          "• They were awarded for their work in the discovery of a non-central process that allows the immune system to strike a delicate balance between being responsive and aggressive toward intruding germs or foreign dangers "
+          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
+          "• This figure should have come with a unique VC number",
+          "• While now obsolete, this VOTC repack was a welcome addition to the lineup "
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "cc23e13d6ddb"
+      "cluster_id": "ec324ac656c7"
     },
     {
       "id": "9cfbd7ac1ed5",
@@ -6570,39 +6870,6 @@
       "cluster_id": "39b33ec946e8"
     },
     {
-      "id": "0f3a8ce0a82c",
-      "title": "Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/",
-      "published_at": "Mon, 06 Oct 2025 20:45:30 +0000",
-      "bullets": [
-        "• Sen",
-        "• Ted Cruz (R-Texas) sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles",
-        "• Cruz wrote that \"researchers have found that articles on the site often reflect a left-wing bias\" Cruz alleged bias is particularly evident in Wikipedia's reliable sources list "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sen",
-          "• Ted Cruz (R-Texas) sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles"
-        ],
-        "hopeful_bullets": [
-          "• Cruz wrote that \"researchers have found that articles on the site often reflect a left-wing bias\" Cruz alleged bias is particularly evident in Wikipedia's reliable sources list "
-        ],
-        "stakes_bullets": [
-          "• Sen",
-          "• Ted Cruz (R-Texas) sent a letter to the nonprofit operator of Wikipedia alleging a pattern of liberal bias in articles",
-          "• Cruz wrote that \"researchers have found that articles on the site often reflect a left-wing bias\" Cruz alleged bias is particularly evident in Wikipedia's reliable sources list "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7e517f490183"
-    },
-    {
       "id": "f3d47de83a81",
       "title": "Join Us on Twitch Tonight at 8:00pm Eastern for a GRIZZLY Watch Party!",
       "outlet": "Daily Dead",
@@ -6662,38 +6929,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "d1213804b060"
-    },
-    {
-      "id": "2a013dbabbb6",
-      "title": "OpenAI wants to make ChatGPT into a universal app frontend",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2025/10/openai-wants-to-make-chatgpt-into-a-universal-app-frontend/",
-      "published_at": "Mon, 06 Oct 2025 19:10:44 +0000",
-      "bullets": [
-        "• OpenAI CEO Sam Altman announced the company is launching an SDK preview for ChatGPT",
-        "• The new API will give developers \"full stack\" control over app data, action triggers, and interactive user interfaces",
-        "• Altman: Developers that already use MCP only need to add an HTML resource to enable ChatGpt integration "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.559
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OpenAI CEO Sam Altman announced the company is launching an SDK preview for ChatGPT",
-          "• The new API will give developers \"full stack\" control over app data, action triggers, and interactive user interfaces"
-        ],
-        "hopeful_bullets": [
-          "• OpenAI CEO Sam Altman announced the company is launching an SDK preview for ChatGPT",
-          "• The new API will give developers \"full stack\" control over app data, action triggers, and interactive user interfaces"
-        ],
-        "stakes_bullets": [
-          "• The new API will give developers \"full stack\" control over app data, action triggers, and interactive user interfaces"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "87f08c39084a"
     },
     {
       "id": "b6926b53941d",
@@ -7535,6 +7770,39 @@
       "cluster_id": "00427945a00b"
     },
     {
+      "id": "6450097d3bb7",
+      "title": "TVC15: Nien Nunb (VC106)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-05-tvc15-nien-nunb-vc106/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-nien-nunb-vc106",
+      "published_at": "Mon, 06 Oct 2025 02:06:10 +0000",
+      "bullets": [
+        "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
+        "• Hasbro never got this figure right: from the height to the facial paint operations",
+        "• So, we hope an all-new figure is in the works for the near future "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
+          "• Hasbro never got this figure right: from the height to the facial paint operations"
+        ],
+        "hopeful_bullets": [
+          "• So, we hope an all-new figure is in the works for the near future "
+        ],
+        "stakes_bullets": [
+          "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
+          "• Hasbro never got this figure right: from the height to the facial paint operations",
+          "• So, we hope an all-new figure is in the works for the near future "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7f53e270d9c4"
+    },
+    {
       "id": "8e09746fff61",
       "title": "October’s sky comes alive with a supermoon and shooting stars",
       "outlet": "All Top News -- ScienceDaily",
@@ -7871,6 +8139,40 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "47b03ab6ddf0",
+      "title": "TVC15: Han Solo (In Trench Coat) (VC62)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-03-tvc15-han-solo-in-trench-coat-vc62/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-han-solo-in-trench-coat-vc62",
+      "published_at": "Fri, 03 Oct 2025 22:47:22 +0000",
+      "bullets": [
+        "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+        "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection",
+        "• Figure is now obsolete, but like many other outdated figures before it, it served a purpose during its initial release "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection"
+        ],
+        "hopeful_bullets": [
+          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection"
+        ],
+        "stakes_bullets": [
+          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
+          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection",
+          "• Figure is now obsolete, but like many other outdated figures before it, it served a purpose during its initial release "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fc9402d98a8f"
+    },
+    {
       "id": "142cf1b6c83a",
       "title": "John Carpenter’s The Thing is About … Diabetes?",
       "outlet": "Wicked Horror",
@@ -8066,6 +8368,40 @@
       "cluster_id": "ed9888c2bb8f"
     },
     {
+      "id": "7587851d0ea3",
+      "title": "TVC15: Obi-Wan Kenobi (VC31)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-02-tvc15-obi-wan-kenobi-vc31/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-obi-wan-kenobi-vc31",
+      "published_at": "Fri, 03 Oct 2025 01:44:02 +0000",
+      "bullets": [
+        "• The Vintage Collection was released in 2011",
+        "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
+        "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection was released in 2011",
+          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection was released in 2011",
+          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection was released in 2011",
+          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
+          "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "86689e11f8fe"
+    },
+    {
       "id": "a14f093f556a",
       "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
       "outlet": "The Star Wars Report Podcast",
@@ -8098,6 +8434,39 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "c956f4399528",
+      "title": "Nobel Prize in Physics goes to early research that led to today&#8217;s quantum computers",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/795295/nobel-prize-phyics-quantum-computers",
+      "published_at": "2025-10-07T17:09:53-04:00",
+      "bullets": [
+        "• John Clarke, Michel Devoret, and John Martinis received the Nobel Prize in Physics for their work on quantum mechanics in the 1980s",
+        "• They created a circuit with no electrical resistance to demonstrate a phenomenon known as quantum tunneling",
+        "• Modern cell phones are also built on the work of today’s winners from 40 years ago "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.878
+      },
+      "moods": {
+        "brief_bullets": [
+          "• John Clarke, Michel Devoret, and John Martinis received the Nobel Prize in Physics for their work on quantum mechanics in the 1980s",
+          "• They created a circuit with no electrical resistance to demonstrate a phenomenon known as quantum tunneling"
+        ],
+        "hopeful_bullets": [
+          "• Modern cell phones are also built on the work of today’s winners from 40 years ago "
+        ],
+        "stakes_bullets": [
+          "• John Clarke, Michel Devoret, and John Martinis received the Nobel Prize in Physics for their work on quantum mechanics in the 1980s",
+          "• They created a circuit with no electrical resistance to demonstrate a phenomenon known as quantum tunneling",
+          "• Modern cell phones are also built on the work of today’s winners from 40 years ago "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "987c75ffc124"
     },
     {
       "id": "e5ebdcc6ae6c",
@@ -8270,35 +8639,35 @@
     },
     {
       "id": "0546c4b60028",
-      "title": "Some Verge-favorite gadgets are cheaper than ever for fall Prime Day",
+      "title": "Some of our favorite gadgets are cheaper than ever for fall Prime Day",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025",
       "published_at": "2025-10-07T15:30:00-04:00",
       "bullets": [
-        "• Some Verge-favorite gadgets are cheaper than ever for fall Prime Day",
-        "• From portable power banks to automatic soap dispensers, here are the best deals on some of our staff’s favorite stuff",
-        "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for "
+        "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+        "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.984
+        "label": "negative",
+        "score": 0.745
       },
       "moods": {
         "brief_bullets": [
-          "• Some Verge-favorite gadgets are cheaper than ever for fall Prime Day",
-          "• From portable power banks to automatic soap dispensers, here are the best deals on some of our staff’s favorite stuff"
+          "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+          "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
         ],
         "hopeful_bullets": [
-          "• Some Verge-favorite gadgets are cheaper than ever for fall Prime Day",
-          "• From portable power banks to automatic soap dispensers, here are the best deals on some of our staff’s favorite stuff"
+          "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+          "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
         ],
         "stakes_bullets": [
-          "• From portable power banks to automatic soap dispensers, here are the best deals on some of our staff’s favorite stuff"
+          "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+          "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
         ]
       },
       "read_minutes": 12,
-      "cluster_id": "2317d1a6dd2f"
+      "cluster_id": "39207deac3e5"
     },
     {
       "id": "abeec12bdd00",
@@ -8399,37 +8768,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "d9cd057f7e7e"
-    },
-    {
-      "id": "57c5eaa21a1d",
-      "title": "The best laptop deals you can get for Amazon’s October Prime Day",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
-      "published_at": "2025-10-07T14:37:21-04:00",
-      "bullets": [
-        "• Amazon Prime Day offers discounts on MacBooks, Windows laptops, and various PC accessories",
-        "• The sale runs for two days and requires a Prime membership to qualify for most discounts",
-        "• Some sale prices are open to anyone, but competing sales from Best Buy and other retailers often match or beat the discounts on Amazon "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon Prime Day offers discounts on MacBooks, Windows laptops, and various PC accessories",
-          "• The sale runs for two days and requires a Prime membership to qualify for most discounts"
-        ],
-        "hopeful_bullets": [
-          "• Amazon Prime Day offers discounts on MacBooks, Windows laptops, and various PC accessories"
-        ],
-        "stakes_bullets": [
-          "• The sale runs for two days and requires a Prime membership to qualify for most discounts"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "bda7aef85cbb"
     },
     {
       "id": "c41ff758b36a",
@@ -9192,15 +9530,15 @@
       ]
     },
     {
-      "id": "0679efdc828a",
-      "topic": "back entitled furloughed government",
+      "id": "ce288596fd34",
+      "topic": "back federal pay threat",
       "keywords": [
         "back",
-        "entitled",
-        "furloughed",
-        "government",
+        "federal",
         "pay",
-        "worker"
+        "threat",
+        "trump",
+        "withhold"
       ],
       "item_ids": [
         "6ccfd17a7e07"
@@ -9372,6 +9710,23 @@
       ]
     },
     {
+      "id": "0b57f0e45b21",
+      "topic": "cost israel israeli longest",
+      "keywords": [
+        "cost",
+        "israel",
+        "israeli",
+        "longest",
+        "war"
+      ],
+      "item_ids": [
+        "55e1688db0a6"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "758b42149cb0",
       "topic": "aim democrat left legal",
       "keywords": [
@@ -9534,24 +9889,6 @@
       ]
     },
     {
-      "id": "b439b2804c08",
-      "topic": "care casting democrat government",
-      "keywords": [
-        "care",
-        "casting",
-        "democrat",
-        "government",
-        "health",
-        "shutdown"
-      ],
-      "item_ids": [
-        "0bc422e6fcc1"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "58ab95602b78",
       "topic": "companie gold jewelry keep",
       "keywords": [
@@ -9624,36 +9961,36 @@
       ]
     },
     {
-      "id": "ce6ddc6338f5",
-      "topic": "company oracle report seeing",
+      "id": "bf83739d9956",
+      "topic": "dell michael point some",
       "keywords": [
-        "company",
-        "oracle",
-        "report",
-        "seeing",
-        "slip",
-        "stock"
+        "dell",
+        "michael",
+        "point",
+        "some",
+        "there",
+        "too"
       ],
       "item_ids": [
-        "65b5e546d519"
+        "d377129409aa"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "ef3754a441b9",
-      "topic": "billionaire bravo investor orlando",
+      "id": "0a37826cf118",
+      "topic": "anything future jobs know",
       "keywords": [
-        "billionaire",
-        "bravo",
-        "investor",
-        "orlando",
-        "tech",
-        "valuation"
+        "anything",
+        "future",
+        "jobs",
+        "know",
+        "truth",
+        "wharton"
       ],
       "item_ids": [
-        "33e16ce97e73"
+        "f966901eec95"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9695,39 +10032,94 @@
       ]
     },
     {
-      "id": "a5d325fb7a68",
-      "topic": "allowing copyright must openai",
+      "id": "ce6ddc6338f5",
+      "topic": "company oracle report seeing",
       "keywords": [
-        "allowing",
-        "copyright",
-        "must",
-        "openai",
-        "sora",
-        "stop"
+        "company",
+        "oracle",
+        "report",
+        "seeing",
+        "slip",
+        "stock"
       ],
       "item_ids": [
-        "bbb09c83f47d"
+        "65b5e546d519"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "545a895283b4",
-      "topic": "analysi carlyle jobs meant",
+      "id": "ef3754a441b9",
+      "topic": "billionaire bravo investor orlando",
       "keywords": [
-        "analysi",
-        "carlyle",
-        "jobs",
-        "meant",
-        "report",
-        "shutdown"
+        "billionaire",
+        "bravo",
+        "investor",
+        "orlando",
+        "tech",
+        "valuation"
       ],
       "item_ids": [
-        "37333b066c8a"
+        "33e16ce97e73"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e2419f58e810",
+      "topic": "2025 beauty best day",
+      "keywords": [
+        "2025",
+        "beauty",
+        "best",
+        "day",
+        "deal",
+        "prime"
+      ],
+      "item_ids": [
+        "e2f96441c6b2",
+        "aed7b4d6bbd0"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "485eaeaf981c",
+      "topic": "bias cruz ideological target",
+      "keywords": [
+        "bias",
+        "cruz",
+        "ideological",
+        "target",
+        "ted",
+        "wikipedia"
+      ],
+      "item_ids": [
+        "a95a1a414dd5"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "7ebc67cf7b94",
+      "topic": "amazon anti best day",
+      "keywords": [
+        "amazon",
+        "anti",
+        "best",
+        "day",
+        "deal",
+        "prime"
+      ],
+      "item_ids": [
+        "1ab2f60a6015"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9821,23 +10213,6 @@
       ]
     },
     {
-      "id": "658aabbc2a3a",
-      "topic": "2025 best day deal",
-      "keywords": [
-        "2025",
-        "best",
-        "day",
-        "deal",
-        "prime"
-      ],
-      "item_ids": [
-        "aed7b4d6bbd0"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "7782c54eada9",
       "topic": "360 cam day off",
       "keywords": [
@@ -9856,41 +10231,21 @@
       ]
     },
     {
-      "id": "ba641c00d782",
-      "topic": "2025 cozy day earth",
+      "id": "987c75ffc124",
+      "topic": "early goes nobel physic",
       "keywords": [
-        "2025",
-        "cozy",
-        "day",
-        "earth",
-        "prime",
-        "sale"
+        "early",
+        "goes",
+        "nobel",
+        "physic",
+        "prize",
+        "research"
       ],
       "item_ids": [
-        "de4bcc63f2c4"
+        "c956f4399528"
       ],
       "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "2b1364668e5b",
-      "topic": "apple best day deal",
-      "keywords": [
-        "apple",
-        "best",
-        "day",
-        "deal",
-        "ipad",
-        "prime",
-        "watche"
-      ],
-      "item_ids": [
-        "677b48a19f5a",
-        "41959e7bc929"
-      ],
-      "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -9984,15 +10339,15 @@
       ]
     },
     {
-      "id": "2317d1a6dd2f",
-      "topic": "cheaper ever favorite gadget",
+      "id": "39207deac3e5",
+      "topic": "cheaper ever fall favorite",
       "keywords": [
         "cheaper",
         "ever",
+        "fall",
         "favorite",
         "gadget",
-        "some",
-        "verge"
+        "some"
       ],
       "item_ids": [
         "0546c4b60028"
@@ -10056,21 +10411,57 @@
       ]
     },
     {
-      "id": "bda7aef85cbb",
-      "topic": "amazon best deal get",
+      "id": "5e8597b8b69c",
+      "topic": "2025 awarded macroscale nobel",
       "keywords": [
-        "amazon",
-        "best",
-        "deal",
-        "get",
-        "laptop",
-        "october"
+        "2025",
+        "awarded",
+        "macroscale",
+        "nobel",
+        "physic",
+        "prize"
       ],
       "item_ids": [
-        "57c5eaa21a1d"
+        "088a8b6298c7"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "fce590d7ab0b",
+      "topic": "cruz doesn seem ted",
+      "keywords": [
+        "cruz",
+        "doesn",
+        "seem",
+        "ted",
+        "understand",
+        "wikipedia"
+      ],
+      "item_ids": [
+        "e5d9c94b5943"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "0882e9b63519",
+      "topic": "account even microsoft remove",
+      "keywords": [
+        "account",
+        "even",
+        "microsoft",
+        "remove",
+        "window",
+        "workaround"
+      ],
+      "item_ids": [
+        "be3c35f9d2eb"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10196,60 +10587,6 @@
       ],
       "item_ids": [
         "8a138fbf5269"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "cc23e13d6ddb",
-      "topic": "cell check discovery immune",
-      "keywords": [
-        "cell",
-        "check",
-        "discovery",
-        "immune",
-        "keep",
-        "response"
-      ],
-      "item_ids": [
-        "195339fa559b"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "7e517f490183",
-      "topic": "accusing cruz fight pick",
-      "keywords": [
-        "accusing",
-        "cruz",
-        "fight",
-        "pick",
-        "ted",
-        "wikipedia"
-      ],
-      "item_ids": [
-        "0f3a8ce0a82c"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "87f08c39084a",
-      "topic": "app chatgpt make openai",
-      "keywords": [
-        "app",
-        "chatgpt",
-        "make",
-        "openai",
-        "universal",
-        "want"
-      ],
-      "item_ids": [
-        "2a013dbabbb6"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10625,6 +10962,24 @@
       ],
       "item_ids": [
         "a833fe1209a2"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "b439b2804c08",
+      "topic": "care casting democrat government",
+      "keywords": [
+        "care",
+        "casting",
+        "democrat",
+        "government",
+        "health",
+        "shutdown"
+      ],
+      "item_ids": [
+        "0bc422e6fcc1"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11660,6 +12015,42 @@
       ]
     },
     {
+      "id": "28bc44b9efd3",
+      "topic": "crime netflix people popular",
+      "keywords": [
+        "crime",
+        "netflix",
+        "people",
+        "popular",
+        "serie",
+        "true"
+      ],
+      "item_ids": [
+        "8d5ca8e1df24"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
+      "id": "b40003da7701",
+      "topic": "chart hardcore made prime",
+      "keywords": [
+        "chart",
+        "hardcore",
+        "made",
+        "prime",
+        "topper",
+        "video"
+      ],
+      "item_ids": [
+        "7169624f8b72"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
       "id": "de61dbe4d4c5",
       "topic": "crazy lady must old",
       "keywords": [
@@ -11798,42 +12189,6 @@
       ],
       "item_ids": [
         "4f0ad15aa06e"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "581c3c9a84bf",
-      "topic": "black exorcist film play",
-      "keywords": [
-        "black",
-        "exorcist",
-        "film",
-        "play",
-        "sale",
-        "sunday"
-      ],
-      "item_ids": [
-        "1982cbdac443"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "4c6a362b4442",
-      "topic": "exclusive landlord meet predatory",
-      "keywords": [
-        "exclusive",
-        "landlord",
-        "meet",
-        "predatory",
-        "trailer",
-        "vampire"
-      ],
-      "item_ids": [
-        "0e7f48655ea4"
       ],
       "outlets": [
         "Dread Central"
@@ -12139,6 +12494,162 @@
       ]
     },
     {
+      "id": "0dd6956950e5",
+      "topic": "bom collection everything know",
+      "keywords": [
+        "bom",
+        "collection",
+        "everything",
+        "know",
+        "need",
+        "vintage"
+      ],
+      "item_ids": [
+        "dc7cd5acc813"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "ec324ac656c7",
+      "topic": "boba fett jedi return",
+      "keywords": [
+        "boba",
+        "fett",
+        "jedi",
+        "return",
+        "tvc15",
+        "vc09"
+      ],
+      "item_ids": [
+        "16253c338978"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7f53e270d9c4",
+      "topic": "nien nunb tvc15 vc106",
+      "keywords": [
+        "nien",
+        "nunb",
+        "tvc15",
+        "vc106"
+      ],
+      "item_ids": [
+        "6450097d3bb7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "06464c4fde60",
+      "topic": "anakin disguise peasant skywalker",
+      "keywords": [
+        "anakin",
+        "disguise",
+        "peasant",
+        "skywalker",
+        "tvc15",
+        "vc32"
+      ],
+      "item_ids": [
+        "f3bc6f527dda"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "fc9402d98a8f",
+      "topic": "coat han solo trench",
+      "keywords": [
+        "coat",
+        "han",
+        "solo",
+        "trench",
+        "tvc15",
+        "vc62"
+      ],
+      "item_ids": [
+        "47b03ab6ddf0"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "86689e11f8fe",
+      "topic": "kenobi obi tvc15 vc31",
+      "keywords": [
+        "kenobi",
+        "obi",
+        "tvc15",
+        "vc31",
+        "wan"
+      ],
+      "item_ids": [
+        "7587851d0ea3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "53dc19c6d15a",
+      "topic": "darth tvc15 vader vc08",
+      "keywords": [
+        "darth",
+        "tvc15",
+        "vader",
+        "vc08"
+      ],
+      "item_ids": [
+        "c58a0fd655f3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "1eee4e3e43c5",
+      "topic": "tvc15 vc107 weequay",
+      "keywords": [
+        "tvc15",
+        "vc107",
+        "weequay"
+      ],
+      "item_ids": [
+        "4d027cd88354"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "9fc13c25c625",
+      "topic": "plot rumor star starfighter",
+      "keywords": [
+        "plot",
+        "rumor",
+        "star",
+        "starfighter",
+        "surprise",
+        "wars"
+      ],
+      "item_ids": [
+        "8b77d61d6f01",
+        "d049fc64ba2a"
+      ],
+      "outlets": [
+        "All Shows - Rebel Force Radio: Star Wars Podcast",
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12311,24 +12822,6 @@
       ],
       "outlets": [
         "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "ce288799fa10",
-      "topic": "plot rumor star starfighter",
-      "keywords": [
-        "plot",
-        "rumor",
-        "star",
-        "starfighter",
-        "surprise",
-        "wars"
-      ],
-      "item_ids": [
-        "d049fc64ba2a"
-      ],
-      "outlets": [
-        "All Shows - Rebel Force Radio: Star Wars Podcast"
       ]
     },
     {
@@ -12629,6 +13122,42 @@
       ]
     },
     {
+      "id": "c049202be3d6",
+      "topic": "excited fans finally meet",
+      "keywords": [
+        "excited",
+        "fans",
+        "finally",
+        "meet",
+        "netflix",
+        "people"
+      ],
+      "item_ids": [
+        "60522d93344f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "574b207d9eca",
+      "topic": "dog game most naughty",
+      "keywords": [
+        "dog",
+        "game",
+        "most",
+        "naughty",
+        "still",
+        "underrated"
+      ],
+      "item_ids": [
+        "03622a66a9d4"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "596aa8ead5c3",
       "topic": "gets major man punch",
       "keywords": [
@@ -12766,41 +13295,6 @@
       ],
       "item_ids": [
         "66153764dbc4"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ce5298761bc8",
-      "topic": "confirm dune ferguson rebecca",
-      "keywords": [
-        "confirm",
-        "dune",
-        "ferguson",
-        "rebecca",
-        "return"
-      ],
-      "item_ids": [
-        "5eecd0c2f80a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7b75fafe506c",
-      "topic": "charlie chart hunnam monster",
-      "keywords": [
-        "charlie",
-        "chart",
-        "hunnam",
-        "monster",
-        "season",
-        "take"
-      ],
-      "item_ids": [
-        "79ff760fbca0"
       ],
       "outlets": [
         "CBR"
@@ -13380,24 +13874,6 @@
       ]
     },
     {
-      "id": "b1e8cc17f2f0",
-      "topic": "gender guideline system tech",
-      "keywords": [
-        "gender",
-        "guideline",
-        "system",
-        "tech",
-        "texa",
-        "vague"
-      ],
-      "item_ids": [
-        "503386db7771"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "e5fa7843d288",
       "topic": "celebrated deportation dream ends",
       "keywords": [
@@ -13410,6 +13886,24 @@
       ],
       "item_ids": [
         "cab1b79f73f1"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "b1e8cc17f2f0",
+      "topic": "gender guideline system tech",
+      "keywords": [
+        "gender",
+        "guideline",
+        "system",
+        "tech",
+        "texa",
+        "vague"
+      ],
+      "item_ids": [
+        "503386db7771"
       ],
       "outlets": [
         "The Texas Tribune"
