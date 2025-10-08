@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T04:21:08Z",
+  "generated_at": "2025-10-08T05:01:10Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -1288,6 +1288,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "9c183ecdf77c"
+    },
+    {
+      "id": "5283600c8bd1",
+      "title": "Hubble captures a galaxy that glows in blue and gold",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251007234522.htm",
+      "published_at": "Tue, 07 Oct 2025 23:53:13 EDT",
+      "bullets": [
+        "• Hubble captures a galaxy that glows in blue and gold",
+        "• NGC 6000 has hosted two recent supernovae: SN 2007ch in 2007 and SN 2010as in 2010",
+        "• Hubble collected the data for this image while surveying the sites of recent supernova explosions in nearby galaxies "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hubble captures a galaxy that glows in blue and gold",
+          "• NGC 6000 has hosted two recent supernovae: SN 2007ch in 2007 and SN 2010as in 2010"
+        ],
+        "hopeful_bullets": [
+          "• Hubble captures a galaxy that glows in blue and gold",
+          "• NGC 6000 has hosted two recent supernovae: SN 2007ch in 2007 and SN 2010as in 2010"
+        ],
+        "stakes_bullets": [
+          "• Hubble captures a galaxy that glows in blue and gold",
+          "• NGC 6000 has hosted two recent supernovae: SN 2007ch in 2007 and SN 2010as in 2010",
+          "• Hubble collected the data for this image while surveying the sites of recent supernova explosions in nearby galaxies "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d2c0a7814a49"
     },
     {
       "id": "ea40a8b3d73f",
@@ -7399,42 +7433,6 @@
       "cluster_id": "3dd5adf98450"
     },
     {
-      "id": "157cc1ebc78f",
-      "title": "Texas GOP lawyer and former FEC chair Trey Trainor announces run for Chip Roy’s seat in Congress",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17180135/trey-trainor-congress-texas-21st-district-chip-roy",
-      "published_at": "Mon, 06 Oct 2025 12:46:08 -0500",
-      "bullets": [
-        "• Former FEC chair launches bid for Texas' 21st Congressional District",
-        "• Seven other candidates are in the race for the seat",
-        "• The district is situated in the Hill Country and contains parts of Austin and San Antonio",
-        "• Rep",
-        "• Chip Roy is giving up his seat to run for Texas attorney general "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.969
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Former FEC chair launches bid for Texas' 21st Congressional District",
-          "• Seven other candidates are in the race for the seat"
-        ],
-        "hopeful_bullets": [
-          "• Former FEC chair launches bid for Texas' 21st Congressional District",
-          "• Seven other candidates are in the race for the seat"
-        ],
-        "stakes_bullets": [
-          "• Former FEC chair launches bid for Texas' 21st Congressional District",
-          "• Seven other candidates are in the race for the seat",
-          "• The district is situated in the Hill Country and contains parts of Austin and San Antonio"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7ebc16cd9fca"
-    },
-    {
       "id": "2da137d51ad6",
       "title": "Eswatini confirms arrival of 10 more people as part of US deportation deal",
       "outlet": "World news | The Guardian",
@@ -7803,38 +7801,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7f53e270d9c4"
-    },
-    {
-      "id": "8e09746fff61",
-      "title": "October’s sky comes alive with a supermoon and shooting stars",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251005085754.htm",
-      "published_at": "Mon, 06 Oct 2025 00:54:24 EDT",
-      "bullets": [
-        "• October’s sky comes alive with a supermoon and shooting stars, NASA's Jet Propulsion Laboratory says",
-        "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up",
-        "• The Draconid meteor shower is streaking from the constellation Draco "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• October’s sky comes alive with a supermoon and shooting stars, NASA's Jet Propulsion Laboratory says",
-          "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up"
-        ],
-        "hopeful_bullets": [
-          "• October’s sky comes alive with a supermoon and shooting stars, NASA's Jet Propulsion Laboratory says",
-          "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up"
-        ],
-        "stakes_bullets": [
-          "• The Orionid meteors will light up the sky, creating a breathtaking celestial display for anyone willing to look up"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f35b00da13e6"
     },
     {
       "id": "8e5641a3e26d",
@@ -8438,6 +8404,41 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "542fd9c6c8af",
+      "title": "The 207 best October Prime Day deals",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1",
+      "published_at": "2025-10-08T00:11:48-04:00",
+      "bullets": [
+        "• Amazon's October Prime Day sale kicks off on Wednesday",
+        "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs",
+        "• The majority of our recommendations have been thoroughly tested by Verge writers and editors",
+        "• Some of these gadgets are available for less than they were during Amazon’s most recent sale in July "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.723
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon's October Prime Day sale kicks off on Wednesday",
+          "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs"
+        ],
+        "hopeful_bullets": [
+          "• Amazon's October Prime Day sale kicks off on Wednesday",
+          "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs"
+        ],
+        "stakes_bullets": [
+          "• Amazon's October Prime Day sale kicks off on Wednesday",
+          "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs",
+          "• The majority of our recommendations have been thoroughly tested by Verge writers and editors"
+        ]
+      },
+      "read_minutes": 52,
+      "cluster_id": "802d9e90ea1c"
+    },
+    {
       "id": "57c5eaa21a1d",
       "title": "The best laptop deals you can get for Amazon’s October Prime Day",
       "outlet": "The Verge",
@@ -8568,42 +8569,7 @@
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "dd9fa37d2f45"
-    },
-    {
-      "id": "542fd9c6c8af",
-      "title": "The 200 best October Prime Day deals",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1",
-      "published_at": "2025-10-07T22:17:33-04:00",
-      "bullets": [
-        "• Amazon's October Prime Day sale runs through Wednesday",
-        "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs",
-        "• The majority of our recommendations have been thoroughly tested by Verge writers and editors",
-        "• Some of these gadgets are available for less than they were during Amazon’s most recent sale in July "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.597
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon's October Prime Day sale runs through Wednesday",
-          "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs"
-        ],
-        "hopeful_bullets": [
-          "• Amazon's October Prime Day sale runs through Wednesday",
-          "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs"
-        ],
-        "stakes_bullets": [
-          "• Amazon's October Prime Day sale runs through Wednesday",
-          "• The best deals include noise-canceling headphones, robot vacuums and 4K OLED TVs",
-          "• The majority of our recommendations have been thoroughly tested by Verge writers and editors"
-        ]
-      },
-      "read_minutes": 51,
-      "cluster_id": "dd9fa37d2f45"
+      "cluster_id": "802d9e90ea1c"
     },
     {
       "id": "20a602511d88",
@@ -9102,6 +9068,75 @@
       },
       "read_minutes": 3,
       "cluster_id": "5671c89c706a"
+    },
+    {
+      "id": "597c9ad75eb3",
+      "title": "Theater counts: One Battle After Another takes the top spot as widest release in its opening weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/259990830-Theater-counts-One-Battle-After-Another-takes-the-top-spot-as-widest-release-in-its-opening-weekend",
+      "published_at": null,
+      "bullets": [
+        "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
+        "• One Battle After Another takes the top spot as widest release in its opening weekend",
+        "• The action-thriller is directed by Paul Thomas Anderson and stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, and Regina Hall "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
+          "• One Battle After Another takes the top spot as widest release in its opening weekend"
+        ],
+        "hopeful_bullets": [
+          "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
+          "• One Battle After Another takes the top spot as widest release in its opening weekend"
+        ],
+        "stakes_bullets": [
+          "• The anime juggernaut held off newcomer Him, which opened with a solid $13.3 million debut",
+          "• One Battle After Another takes the top spot as widest release in its opening weekend",
+          "• The action-thriller is directed by Paul Thomas Anderson and stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, and Regina Hall "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fd873c5292d9"
+    },
+    {
+      "id": "fea211984f52",
+      "title": "Wicked: For Good final trailer",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/259980830-Wicked-For-Good-final-trailer",
+      "published_at": null,
+      "bullets": [
+        "• Wicked: For Good final trailer released September 24, 2025",
+        "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21",
+        "• Elphaba, now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest",
+        "• Glinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wicked: For Good final trailer released September 24, 2025",
+          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21"
+        ],
+        "hopeful_bullets": [
+          "• Wicked: For Good final trailer released September 24, 2025",
+          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21"
+        ],
+        "stakes_bullets": [
+          "• Wicked: For Good final trailer released September 24, 2025",
+          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21",
+          "• Elphaba, now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "55fabe335e50"
     }
   ],
   "clusters": [
@@ -10182,6 +10217,26 @@
       ]
     },
     {
+      "id": "802d9e90ea1c",
+      "topic": "207 best day deal",
+      "keywords": [
+        "207",
+        "best",
+        "day",
+        "deal",
+        "october",
+        "prime",
+        "tvs"
+      ],
+      "item_ids": [
+        "542fd9c6c8af",
+        "5aa30bbc005c"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "bda7aef85cbb",
       "topic": "amazon best deal get",
       "keywords": [
@@ -10230,26 +10285,6 @@
       ],
       "item_ids": [
         "8726267a1fd4"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "dd9fa37d2f45",
-      "topic": "200 best day deal",
-      "keywords": [
-        "200",
-        "best",
-        "day",
-        "deal",
-        "october",
-        "prime",
-        "tvs"
-      ],
-      "item_ids": [
-        "5aa30bbc005c",
-        "542fd9c6c8af"
       ],
       "outlets": [
         "The Verge"
@@ -10528,6 +10563,24 @@
       ]
     },
     {
+      "id": "d2c0a7814a49",
+      "topic": "blue capture galaxy glow",
+      "keywords": [
+        "blue",
+        "capture",
+        "galaxy",
+        "glow",
+        "gold",
+        "hubble"
+      ],
+      "item_ids": [
+        "5283600c8bd1"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "84594b5dee93",
       "topic": "built detector just lie",
       "keywords": [
@@ -10684,24 +10737,6 @@
       ],
       "item_ids": [
         "92b5cedec6a1"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "f35b00da13e6",
-      "topic": "alive come october shooting",
-      "keywords": [
-        "alive",
-        "come",
-        "october",
-        "shooting",
-        "sky",
-        "supermoon"
-      ],
-      "item_ids": [
-        "8e09746fff61"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -11552,6 +11587,40 @@
       ],
       "item_ids": [
         "8bb731020288"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "fd873c5292d9",
+      "topic": "another battle count take",
+      "keywords": [
+        "another",
+        "battle",
+        "count",
+        "take",
+        "theater",
+        "top"
+      ],
+      "item_ids": [
+        "597c9ad75eb3"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "55fabe335e50",
+      "topic": "final good trailer wicked",
+      "keywords": [
+        "final",
+        "good",
+        "trailer",
+        "wicked"
+      ],
+      "item_ids": [
+        "fea211984f52"
       ],
       "outlets": [
         "The Numbers"
@@ -13895,24 +13964,6 @@
       ],
       "item_ids": [
         "b6926b53941d"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "7ebc16cd9fca",
-      "topic": "chair fec former gop",
-      "keywords": [
-        "chair",
-        "fec",
-        "former",
-        "gop",
-        "lawyer",
-        "texa"
-      ],
-      "item_ids": [
-        "157cc1ebc78f"
       ],
       "outlets": [
         "The Texas Tribune"
