@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T05:01:10Z",
+  "generated_at": "2025-10-08T05:19:20Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -7433,6 +7433,42 @@
       "cluster_id": "3dd5adf98450"
     },
     {
+      "id": "157cc1ebc78f",
+      "title": "Texas GOP lawyer and former FEC chair Trey Trainor announces run for Chip Roy’s seat in Congress",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17180135/trey-trainor-congress-texas-21st-district-chip-roy",
+      "published_at": "Mon, 06 Oct 2025 12:46:08 -0500",
+      "bullets": [
+        "• Former FEC chair launches bid for Texas' 21st Congressional District",
+        "• Seven other candidates are in the race for the seat",
+        "• The district is situated in the Hill Country and contains parts of Austin and San Antonio",
+        "• Rep",
+        "• Chip Roy is giving up his seat to run for Texas attorney general "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Former FEC chair launches bid for Texas' 21st Congressional District",
+          "• Seven other candidates are in the race for the seat"
+        ],
+        "hopeful_bullets": [
+          "• Former FEC chair launches bid for Texas' 21st Congressional District",
+          "• Seven other candidates are in the race for the seat"
+        ],
+        "stakes_bullets": [
+          "• Former FEC chair launches bid for Texas' 21st Congressional District",
+          "• Seven other candidates are in the race for the seat",
+          "• The district is situated in the Hill Country and contains parts of Austin and San Antonio"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7ebc16cd9fca"
+    },
+    {
       "id": "2da137d51ad6",
       "title": "Eswatini confirms arrival of 10 more people as part of US deportation deal",
       "outlet": "World news | The Guardian",
@@ -13964,6 +14000,24 @@
       ],
       "item_ids": [
         "b6926b53941d"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "7ebc16cd9fca",
+      "topic": "chair fec former gop",
+      "keywords": [
+        "chair",
+        "fec",
+        "former",
+        "gop",
+        "lawyer",
+        "texa"
+      ],
+      "item_ids": [
+        "157cc1ebc78f"
       ],
       "outlets": [
         "The Texas Tribune"
