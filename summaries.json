@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T07:10:18Z",
+  "generated_at": "2025-10-08T07:57:13Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -135,71 +135,102 @@
       "cluster_id": "5306313fe14f"
     },
     {
-      "id": "18de7cd4e1da",
-      "title": "‘KPop Demon Hunters’ Singers Are Born to Be ‘Golden’ on ‘Fallon’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/kpop-demon-hunters-golden-fallon-1235438715/",
-      "published_at": "Wed, 08 Oct 2025 07:05:46 +0000",
+      "id": "e4b8988c9603",
+      "title": "France's political chaos throws its soaring debt and deficit into the spotlight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/08/nerves-jangle-in-europe-as-france-heads-into-another-political-crisis.html",
+      "published_at": "Wed, 08 Oct 2025 07:23:31 GMT",
       "bullets": [
-        "• Ejae, Audrey Nuna and Rei Ami sing for the K-pop group Huntr/x in the animated film KPop Demon Hunters",
-        "• The trio sang their hit single, “Golden,” and also joined host Jimmy Fallon for an interview "
+        "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
+        "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
       ],
-      "category": "Music",
+      "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "negative",
+        "score": 0.941
       },
       "moods": {
         "brief_bullets": [
-          "• Ejae, Audrey Nuna and Rei Ami sing for the K-pop group Huntr/x in the animated film KPop Demon Hunters",
-          "• The trio sang their hit single, “Golden,” and also joined host Jimmy Fallon for an interview "
+          "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
+          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
         ],
         "hopeful_bullets": [
-          "• Ejae, Audrey Nuna and Rei Ami sing for the K-pop group Huntr/x in the animated film KPop Demon Hunters",
-          "• The trio sang their hit single, “Golden,” and also joined host Jimmy Fallon for an interview "
+          "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
+          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
         ],
         "stakes_bullets": [
-          "• Ejae, Audrey Nuna and Rei Ami sing for the K-pop group Huntr/x in the animated film KPop Demon Hunters",
-          "• The trio sang their hit single, “Golden,” and also joined host Jimmy Fallon for an interview "
+          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "379354719e4b"
+      "read_minutes": 4,
+      "cluster_id": "282e49b26b91"
     },
     {
       "id": "6b9c9ad126db",
       "title": "SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/08/softbank-to-buy-abb-robotics-unit-for-5point4-billion-in-ai-push.html",
-      "published_at": "Wed, 08 Oct 2025 06:38:02 GMT",
+      "published_at": "Wed, 08 Oct 2025 07:07:06 GMT",
       "bullets": [
-        "• SoftBank Group agrees to buy robotics division of ABB for $5.4 billion",
+        "• SoftBank Group buys robotics division of ABB for $5.4 billion",
         "• The deal is subject to regulatory approval globally",
-        "• SoftBank founder Masayoshi Son is looking to bolster its artificial intelligence plays",
-        "• ABB will no longer look to spin off its robotics business as a separately listed company "
+        "• Masayoshi Son, founder of SoftBank, is looking to bolster its artificial intelligence plays",
+        "• SoftBank already has some robot-related investments, including AutoStore Holdings and Agile Robots "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.753
+        "label": "neutral",
+        "score": 0.645
       },
       "moods": {
         "brief_bullets": [
-          "• SoftBank Group agrees to buy robotics division of ABB for $5.4 billion",
+          "• SoftBank Group buys robotics division of ABB for $5.4 billion",
           "• The deal is subject to regulatory approval globally"
         ],
         "hopeful_bullets": [
-          "• SoftBank Group agrees to buy robotics division of ABB for $5.4 billion",
+          "• SoftBank Group buys robotics division of ABB for $5.4 billion",
           "• The deal is subject to regulatory approval globally"
         ],
         "stakes_bullets": [
-          "• SoftBank Group agrees to buy robotics division of ABB for $5.4 billion",
-          "• SoftBank founder Masayoshi Son is looking to bolster its artificial intelligence plays",
-          "• ABB will no longer look to spin off its robotics business as a separately listed company "
+          "• SoftBank Group buys robotics division of ABB for $5.4 billion",
+          "• Masayoshi Son, founder of SoftBank, is looking to bolster its artificial intelligence plays",
+          "• SoftBank already has some robot-related investments, including AutoStore Holdings and Agile Robots "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "34889d9a63e2"
+    },
+    {
+      "id": "18de7cd4e1da",
+      "title": "‘KPop Demon Hunters’ Singers Are Born to Be ‘Golden’ on ‘Fallon’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/kpop-demon-hunters-golden-fallon-1235438715/",
+      "published_at": "Wed, 08 Oct 2025 07:05:46 +0000",
+      "bullets": [
+        "• Ejae, Audrey Nuna and Rei Ami sing for the roles of Rumi, Mira and Zoey in the animated film KPop Demon Hunters",
+        "• The trio sang their hit single, “Golden,” and also joined Jimmy Fallon for an interview "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ejae, Audrey Nuna and Rei Ami sing for the roles of Rumi, Mira and Zoey in the animated film KPop Demon Hunters",
+          "• The trio sang their hit single, “Golden,” and also joined Jimmy Fallon for an interview "
+        ],
+        "hopeful_bullets": [
+          "• Ejae, Audrey Nuna and Rei Ami sing for the roles of Rumi, Mira and Zoey in the animated film KPop Demon Hunters",
+          "• The trio sang their hit single, “Golden,” and also joined Jimmy Fallon for an interview "
+        ],
+        "stakes_bullets": [
+          "• Ejae, Audrey Nuna and Rei Ami sing for the roles of Rumi, Mira and Zoey in the animated film KPop Demon Hunters",
+          "• The trio sang their hit single, “Golden,” and also joined Jimmy Fallon for an interview "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "379354719e4b"
     },
     {
       "id": "b8d242454061",
@@ -338,62 +369,30 @@
       "url": "https://www.bbc.com/news/articles/c62lyn4e6vro?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 08 Oct 2025 05:33:33 GMT",
       "bullets": [
-        "• Masanaga Kageyama handed suspended jail term of 18 months in France",
-        "• Technical director of Japan Football Association caught looking at child sex abuse images on plane",
-        "• JFA says incident was \"unacceptable to the football world\" and his contract will be terminated with immediate effect "
+        "• Masanaga Kageyama was detained last week during a stopover at Charles de Gaulle airport in Paris",
+        "• He later admitted to viewing the images, saying he was not aware it was illegal in France",
+        "• He was believed to have been headed for the Under-20 World Cup in Chile",
+        "• The JFA has terminated his contract with immediate effect "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Masanaga Kageyama handed suspended jail term of 18 months in France",
-          "• Technical director of Japan Football Association caught looking at child sex abuse images on plane"
+          "• Masanaga Kageyama was detained last week during a stopover at Charles de Gaulle airport in Paris",
+          "• He later admitted to viewing the images, saying he was not aware it was illegal in France"
         ],
         "hopeful_bullets": [
-          "• Masanaga Kageyama handed suspended jail term of 18 months in France",
-          "• Technical director of Japan Football Association caught looking at child sex abuse images on plane"
+          "• He later admitted to viewing the images, saying he was not aware it was illegal in France"
         ],
         "stakes_bullets": [
-          "• Technical director of Japan Football Association caught looking at child sex abuse images on plane",
-          "• JFA says incident was \"unacceptable to the football world\" and his contract will be terminated with immediate effect "
+          "• The JFA has terminated his contract with immediate effect "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "f07dff7c9fef"
-    },
-    {
-      "id": "e4b8988c9603",
-      "title": "France's political chaos throws its soaring debt and deficit into the spotlight",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/08/nerves-jangle-in-europe-as-france-heads-into-another-political-crisis.html",
-      "published_at": "Wed, 08 Oct 2025 05:17:15 GMT",
-      "bullets": [
-        "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
-        "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.941
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
-          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
-        ],
-        "hopeful_bullets": [
-          "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
-          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
-        ],
-        "stakes_bullets": [
-          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "282e49b26b91"
     },
     {
       "id": "f5ce54c0289a",
@@ -661,38 +660,37 @@
     },
     {
       "id": "caf21bd612dc",
-      "title": "Dolly Parton's sister asks fans to pray for country singer",
+      "title": "'She hasn't been feeling her best': Dolly Parton's sister asks fans for prayers",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 08 Oct 2025 03:07:22 GMT",
       "bullets": [
-        "• Freida Parton asks fans to pray for her sister, Dolly, on Facebook",
-        "• The 79-year-old country music legend has postponed a Las Vegas residency due to unspecified health issues",
-        "• Country singer had been scheduled to perform six shows at Caesars Palace in December",
-        "• She postponed the gigs until September next year "
+        "• Freida Parton asks fans to pray for her sister, Dolly, who has not been feeling her best lately",
+        "• The 79-year-old country music legend postponed a Las Vegas residency last week",
+        "• She told fans she needs \"a few procedures\" to deal with ongoing \"health challenges\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Freida Parton asks fans to pray for her sister, Dolly, on Facebook",
-          "• The 79-year-old country music legend has postponed a Las Vegas residency due to unspecified health issues"
+          "• Freida Parton asks fans to pray for her sister, Dolly, who has not been feeling her best lately",
+          "• The 79-year-old country music legend postponed a Las Vegas residency last week"
         ],
         "hopeful_bullets": [
-          "• Freida Parton asks fans to pray for her sister, Dolly, on Facebook",
-          "• The 79-year-old country music legend has postponed a Las Vegas residency due to unspecified health issues"
+          "• Freida Parton asks fans to pray for her sister, Dolly, who has not been feeling her best lately",
+          "• The 79-year-old country music legend postponed a Las Vegas residency last week"
         ],
         "stakes_bullets": [
-          "• Freida Parton asks fans to pray for her sister, Dolly, on Facebook",
-          "• The 79-year-old country music legend has postponed a Las Vegas residency due to unspecified health issues",
-          "• Country singer had been scheduled to perform six shows at Caesars Palace in December"
+          "• Freida Parton asks fans to pray for her sister, Dolly, who has not been feeling her best lately",
+          "• The 79-year-old country music legend postponed a Las Vegas residency last week",
+          "• She told fans she needs \"a few procedures\" to deal with ongoing \"health challenges\""
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "d2012874805f"
+      "cluster_id": "a0f904b5fdf8"
     },
     {
       "id": "67cc2590e2cb",
@@ -1262,40 +1260,6 @@
       "cluster_id": "a98a0ede1c29"
     },
     {
-      "id": "c58a0fd655f3",
-      "title": "TVC15: Darth Vader (VC08)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-01-tvc15-darth-vader-vc08/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-vader-vc08",
-      "published_at": "Wed, 01 Oct 2025 23:19:32 +0000",
-      "bullets": [
-        "• The only reason you would want to add this figure to your collection is for nostalgia",
-        "• Hasbro got a lot of mileage out of this Darth Vader action figure",
-        "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The only reason you would want to add this figure to your collection is for nostalgia",
-          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
-        ],
-        "hopeful_bullets": [
-          "• The only reason you would want to add this figure to your collection is for nostalgia",
-          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
-        ],
-        "stakes_bullets": [
-          "• The only reason you would want to add this figure to your collection is for nostalgia",
-          "• Hasbro got a lot of mileage out of this Darth Vader action figure",
-          "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "53dc19c6d15a"
-    },
-    {
       "id": "7d9fedc75080",
       "title": "Matt Wagner talks Dracula Book III: The Count",
       "outlet": "Wicked Horror",
@@ -1392,39 +1356,6 @@
       "cluster_id": "951023dfcf39"
     },
     {
-      "id": "4d027cd88354",
-      "title": "TVC15: Weequay (VC107)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-09-30-tvc15-weequay-vc107/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-weequay-vc107",
-      "published_at": "Tue, 30 Sep 2025 21:35:17 +0000",
-      "bullets": [
-        "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
-        "• Hasbro had shied away from updates for years, as the 1997 version held up so well",
-        "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
-          "• Hasbro had shied away from updates for years, as the 1997 version held up so well"
-        ],
-        "hopeful_bullets": [
-          "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
-        ],
-        "stakes_bullets": [
-          "• Weequay might have been the biggest surprise in the final wave of the initial run of The Vintage Collection",
-          "• Hasbro had shied away from updates for years, as the 1997 version held up so well",
-          "• This figure iteration still holds up well, and we hope that Hasbro makes the rest of them from the film "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1eee4e3e43c5"
-    },
-    {
       "id": "261e3da66dc2",
       "title": "RFR Q&A #267: Star Wars Inspired Nachos",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -1457,40 +1388,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "107222b83c35"
-    },
-    {
-      "id": "8b77d61d6f01",
-      "title": "New Star Wars: Starfighter Rumors",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-09-29-new-star-wars-starfighter-rumors/?utm_source=rss&utm_medium=rss&utm_campaign=new-star-wars-starfighter-rumors",
-      "published_at": "Tue, 30 Sep 2025 02:45:59 +0000",
-      "bullets": [
-        "• Starfighter has entered production, but some rumors are beginning to spread",
-        "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey",
-        "• The plot leak we got is, as usual, unconfirmed, so all the usual caveats apply "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Starfighter has entered production, but some rumors are beginning to spread",
-          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey"
-        ],
-        "hopeful_bullets": [
-          "• Starfighter has entered production, but some rumors are beginning to spread",
-          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey"
-        ],
-        "stakes_bullets": [
-          "• Starfighter has entered production, but some rumors are beginning to spread",
-          "• Ryan Gosling, who is NOT a Jedi, is asked by Amy Adams’ character to escort her young son to safety, namely, to bring him to Rey",
-          "• The plot leak we got is, as usual, unconfirmed, so all the usual caveats apply "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "9fc13c25c625"
     },
     {
       "id": "604f29467dbc",
@@ -4518,41 +4415,6 @@
       "cluster_id": "c6df57f67de9"
     },
     {
-      "id": "dc7cd5acc813",
-      "title": "Everything You Need To Know About The Vintage Collection Bom Vimdin (VC53) Re-release!",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-07-everything-you-need-to-know-about-the-vintage-collection-bom-vimdin-vc53-re-release/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-need-to-know-about-the-vintage-collection-bom-vimdin-vc53-re-release",
-      "published_at": "Tue, 07 Oct 2025 10:34:51 +0000",
-      "bullets": [
-        "• The Bom Vimdin re-released in The Vintage Collection",
-        "• Hasbro changed the figure and its packaging",
-        "• There’s more difference between the 2011 version and the 2025 reissue than you may realize",
-        "• An all-new 68-image gallery with comparison shots and a breakdown of what separates the 2011 "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Bom Vimdin re-released in The Vintage Collection",
-          "• Hasbro changed the figure and its packaging"
-        ],
-        "hopeful_bullets": [
-          "• The Bom Vimdin re-released in The Vintage Collection",
-          "• Hasbro changed the figure and its packaging"
-        ],
-        "stakes_bullets": [
-          "• The Bom Vimdin re-released in The Vintage Collection",
-          "• Hasbro changed the figure and its packaging",
-          "• There’s more difference between the 2011 version and the 2025 reissue than you may realize"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0dd6956950e5"
-    },
-    {
       "id": "32ff308d0cef",
       "title": "Physicists just built a quantum lie detector. It works",
       "outlet": "All Top News -- ScienceDaily",
@@ -6277,38 +6139,6 @@
       "cluster_id": "20aff8d8299a"
     },
     {
-      "id": "f3bc6f527dda",
-      "title": "TVC15: Anakin Skywalker (Peasant Disguise) (VC32)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-04-tvc15-anakin-skywalker-peasant-disguise-vc32/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-anakin-skywalker-peasant-disguise-vc32",
-      "published_at": "Sun, 05 Oct 2025 02:32:29 +0000",
-      "bullets": [
-        "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
-        "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.618
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
-          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
-        ],
-        "hopeful_bullets": [
-          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
-          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
-        ],
-        "stakes_bullets": [
-          "• Hasbro added some major characters into their ‘Attack Of The Clones’ wave, but many were outside of the standard box, including this Anakin Skywalker figure",
-          "• Not too many thought Hasbro would ever update the action figure from the 2002 line, but it became part of The Vintage Collection "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "06464c4fde60"
-    },
-    {
       "id": "c1fa9628700b",
       "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
       "outlet": "The Star Wars Report Podcast",
@@ -6638,7 +6468,7 @@
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "9fc13c25c625"
+      "cluster_id": "ce288799fa10"
     },
     {
       "id": "009c60963c4e",
@@ -6908,40 +6738,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "e3f2b8be7cd8"
-    },
-    {
-      "id": "16253c338978",
-      "title": "TVC15: Boba Fett [Return Of The Jedi] (VC09)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-06-tvc15-boba-fett-return-of-the-jedi-vc09/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-return-of-the-jedi-vc09",
-      "published_at": "Mon, 06 Oct 2025 23:24:38 +0000",
-      "bullets": [
-        "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
-        "• This figure should have come with a unique VC number",
-        "• While now obsolete, this VOTC repack was a welcome addition to the lineup "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
-          "• This figure should have come with a unique VC number"
-        ],
-        "hopeful_bullets": [
-          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
-          "• This figure should have come with a unique VC number"
-        ],
-        "stakes_bullets": [
-          "• Hasbro encountered several numbering issues in The Vintage Collection, including the VC09 Boba Fett",
-          "• This figure should have come with a unique VC number",
-          "• While now obsolete, this VOTC repack was a welcome addition to the lineup "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ec324ac656c7"
     },
     {
       "id": "9cfbd7ac1ed5",
@@ -7839,39 +7635,6 @@
       "cluster_id": "e97d69590fe7"
     },
     {
-      "id": "6450097d3bb7",
-      "title": "TVC15: Nien Nunb (VC106)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-05-tvc15-nien-nunb-vc106/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-nien-nunb-vc106",
-      "published_at": "Mon, 06 Oct 2025 02:06:10 +0000",
-      "bullets": [
-        "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
-        "• Hasbro never got this figure right: from the height to the facial paint operations",
-        "• So, we hope an all-new figure is in the works for the near future "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
-          "• Hasbro never got this figure right: from the height to the facial paint operations"
-        ],
-        "hopeful_bullets": [
-          "• So, we hope an all-new figure is in the works for the near future "
-        ],
-        "stakes_bullets": [
-          "• The figure is too short for the character, and if you're in disagreement about that, you're factually incorrect",
-          "• Hasbro never got this figure right: from the height to the facial paint operations",
-          "• So, we hope an all-new figure is in the works for the near future "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7f53e270d9c4"
-    },
-    {
       "id": "8e5641a3e26d",
       "title": "RFR Q&A #266: Underappreciated Scenes from Star Wars",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -8176,40 +7939,6 @@
       "cluster_id": "2daa60016122"
     },
     {
-      "id": "47b03ab6ddf0",
-      "title": "TVC15: Han Solo (In Trench Coat) (VC62)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-03-tvc15-han-solo-in-trench-coat-vc62/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-han-solo-in-trench-coat-vc62",
-      "published_at": "Fri, 03 Oct 2025 22:47:22 +0000",
-      "bullets": [
-        "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
-        "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection",
-        "• Figure is now obsolete, but like many other outdated figures before it, it served a purpose during its initial release "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
-          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection"
-        ],
-        "hopeful_bullets": [
-          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
-          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection"
-        ],
-        "stakes_bullets": [
-          "• Han Solo (In Trench Coat) is part of the ‘Revenge Of The Jedi’ chase promotion",
-          "• Hasbro tweaked a few items on this figure before re-releasing it in The Vintage Collection",
-          "• Figure is now obsolete, but like many other outdated figures before it, it served a purpose during its initial release "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fc9402d98a8f"
-    },
-    {
       "id": "142cf1b6c83a",
       "title": "John Carpenter’s The Thing is About … Diabetes?",
       "outlet": "Wicked Horror",
@@ -8403,40 +8132,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "ed9888c2bb8f"
-    },
-    {
-      "id": "7587851d0ea3",
-      "title": "TVC15: Obi-Wan Kenobi (VC31)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-02-tvc15-obi-wan-kenobi-vc31/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-obi-wan-kenobi-vc31",
-      "published_at": "Fri, 03 Oct 2025 01:44:02 +0000",
-      "bullets": [
-        "• The Vintage Collection was released in 2011",
-        "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
-        "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection was released in 2011",
-          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection was released in 2011",
-          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection was released in 2011",
-          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
-          "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "86689e11f8fe"
     },
     {
       "id": "a14f093f556a",
@@ -9318,15 +9013,15 @@
       ]
     },
     {
-      "id": "d2012874805f",
-      "topic": "asks dolly fans parton",
+      "id": "a0f904b5fdf8",
+      "topic": "best dolly feeling hasn",
       "keywords": [
-        "asks",
+        "best",
         "dolly",
-        "fans",
+        "feeling",
+        "hasn",
         "parton",
-        "pray",
-        "sister"
+        "she"
       ],
       "item_ids": [
         "caf21bd612dc"
@@ -12551,162 +12246,6 @@
       ]
     },
     {
-      "id": "0dd6956950e5",
-      "topic": "bom collection everything know",
-      "keywords": [
-        "bom",
-        "collection",
-        "everything",
-        "know",
-        "need",
-        "vintage"
-      ],
-      "item_ids": [
-        "dc7cd5acc813"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "ec324ac656c7",
-      "topic": "boba fett jedi return",
-      "keywords": [
-        "boba",
-        "fett",
-        "jedi",
-        "return",
-        "tvc15",
-        "vc09"
-      ],
-      "item_ids": [
-        "16253c338978"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "7f53e270d9c4",
-      "topic": "nien nunb tvc15 vc106",
-      "keywords": [
-        "nien",
-        "nunb",
-        "tvc15",
-        "vc106"
-      ],
-      "item_ids": [
-        "6450097d3bb7"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "06464c4fde60",
-      "topic": "anakin disguise peasant skywalker",
-      "keywords": [
-        "anakin",
-        "disguise",
-        "peasant",
-        "skywalker",
-        "tvc15",
-        "vc32"
-      ],
-      "item_ids": [
-        "f3bc6f527dda"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "fc9402d98a8f",
-      "topic": "coat han solo trench",
-      "keywords": [
-        "coat",
-        "han",
-        "solo",
-        "trench",
-        "tvc15",
-        "vc62"
-      ],
-      "item_ids": [
-        "47b03ab6ddf0"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "86689e11f8fe",
-      "topic": "kenobi obi tvc15 vc31",
-      "keywords": [
-        "kenobi",
-        "obi",
-        "tvc15",
-        "vc31",
-        "wan"
-      ],
-      "item_ids": [
-        "7587851d0ea3"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "53dc19c6d15a",
-      "topic": "darth tvc15 vader vc08",
-      "keywords": [
-        "darth",
-        "tvc15",
-        "vader",
-        "vc08"
-      ],
-      "item_ids": [
-        "c58a0fd655f3"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "1eee4e3e43c5",
-      "topic": "tvc15 vc107 weequay",
-      "keywords": [
-        "tvc15",
-        "vc107",
-        "weequay"
-      ],
-      "item_ids": [
-        "4d027cd88354"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "9fc13c25c625",
-      "topic": "plot rumor star starfighter",
-      "keywords": [
-        "plot",
-        "rumor",
-        "star",
-        "starfighter",
-        "surprise",
-        "wars"
-      ],
-      "item_ids": [
-        "8b77d61d6f01",
-        "d049fc64ba2a"
-      ],
-      "outlets": [
-        "All Shows - Rebel Force Radio: Star Wars Podcast",
-        "Jedi Temple Archives"
-      ]
-    },
-    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12879,6 +12418,24 @@
       ],
       "outlets": [
         "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "ce288799fa10",
+      "topic": "plot rumor star starfighter",
+      "keywords": [
+        "plot",
+        "rumor",
+        "star",
+        "starfighter",
+        "surprise",
+        "wars"
+      ],
+      "item_ids": [
+        "d049fc64ba2a"
+      ],
+      "outlets": [
+        "All Shows - Rebel Force Radio: Star Wars Podcast"
       ]
     },
     {
