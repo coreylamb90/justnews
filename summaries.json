@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T05:58:54Z",
+  "generated_at": "2025-10-08T06:14:48Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -135,44 +135,11 @@
       "cluster_id": "5306313fe14f"
     },
     {
-      "id": "05ad4c394712",
-      "title": "Gold surges past $4,000 an ounce as uncertainty fuels rally",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8ex3wgjlexo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 05:23:36 GMT",
-      "bullets": [
-        "• Gold has seen its biggest rally since the 1970s, rising by around a third since April",
-        "• The price of spot gold rose to more than $4,031 an ounce on Wednesday afternoon in Asia",
-        "• The US government shutdown is a 'tailwind for gold prices', says OCBC's Christopher Wong "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gold has seen its biggest rally since the 1970s, rising by around a third since April",
-          "• The price of spot gold rose to more than $4,031 an ounce on Wednesday afternoon in Asia"
-        ],
-        "hopeful_bullets": [
-          "• The US government shutdown is a 'tailwind for gold prices', says OCBC's Christopher Wong "
-        ],
-        "stakes_bullets": [
-          "• Gold has seen its biggest rally since the 1970s, rising by around a third since April",
-          "• The price of spot gold rose to more than $4,031 an ounce on Wednesday afternoon in Asia",
-          "• The US government shutdown is a 'tailwind for gold prices', says OCBC's Christopher Wong "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "659e9f33a649"
-    },
-    {
       "id": "aed60da5687b",
       "title": "US special envoy and Trump's son-in-law to join Gaza peace talks in Egypt",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 04:38:52 GMT",
+      "published_at": "Wed, 08 Oct 2025 05:40:02 GMT",
       "bullets": [
         "• US special envoy Steve Witkoff and US President Donald Trump's son-in-law Jared Kushner will join Gaza peace plan talks in Egypt on Wednesday",
         "• A second day of indirect talks between Israeli and Hamas negotiators ended without tangible results, a senior Palestinian official said "
@@ -198,6 +165,70 @@
       },
       "read_minutes": 3,
       "cluster_id": "ee9bfd62850c"
+    },
+    {
+      "id": "05ad4c394712",
+      "title": "Gold surges past $4,000 an ounce as uncertainty fuels rally",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8ex3wgjlexo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 08 Oct 2025 05:37:12 GMT",
+      "bullets": [
+        "• Gold has seen its biggest rally since the 1970s, rising by around a third since April",
+        "• The price of spot gold rose to more than $4,036 an ounce on Wednesday afternoon in Asia",
+        "• The US government shutdown, triggered by impasses over public spending, is a 'tailwind for gold prices'"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gold has seen its biggest rally since the 1970s, rising by around a third since April",
+          "• The price of spot gold rose to more than $4,036 an ounce on Wednesday afternoon in Asia"
+        ],
+        "hopeful_bullets": [
+          "• The US government shutdown, triggered by impasses over public spending, is a 'tailwind for gold prices'"
+        ],
+        "stakes_bullets": [
+          "• Gold has seen its biggest rally since the 1970s, rising by around a third since April",
+          "• The price of spot gold rose to more than $4,036 an ounce on Wednesday afternoon in Asia",
+          "• The US government shutdown, triggered by impasses over public spending, is a 'tailwind for gold prices'"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "659e9f33a649"
+    },
+    {
+      "id": "e4b8988c9603",
+      "title": "France's political chaos throws its soaring debt and deficit into the spotlight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/08/nerves-jangle-in-europe-as-france-heads-into-another-political-crisis.html",
+      "published_at": "Wed, 08 Oct 2025 05:17:15 GMT",
+      "bullets": [
+        "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
+        "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.941
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
+          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
+        ],
+        "hopeful_bullets": [
+          "• Sébastien Lecornu, France's fifth PM in less than two years, resigns after just 27 days in office",
+          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
+        ],
+        "stakes_bullets": [
+          "• President Emmanuel Macron gave Lecornsu 48 hours to devise a plan for the \"stability for the country\" and a way through the political deadlock "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "282e49b26b91"
     },
     {
       "id": "f5ce54c0289a",
@@ -531,40 +562,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "728d26fec91b"
-    },
-    {
-      "id": "4200d0873f15",
-      "title": "New Zealand delivers outsized cut, bringing policy rate to over 3-year low in bid to boost growth",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/08/new-zealand-rbnz-rate-cut.html",
-      "published_at": "Wed, 08 Oct 2025 02:55:13 GMT",
-      "bullets": [
-        "• Reserve Bank of New Zealand cuts interest rates by 50 basis points to 2.5%, bringing the policy rate to its lowest level since July 2022",
-        "• The cut to the overnight cash rate was larger than the 25 basis points expected by economists polled by Reuters",
-        "• New Zealand's GDP contracted more than expected in the second quarter "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.66
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Reserve Bank of New Zealand cuts interest rates by 50 basis points to 2.5%, bringing the policy rate to its lowest level since July 2022",
-          "• The cut to the overnight cash rate was larger than the 25 basis points expected by economists polled by Reuters"
-        ],
-        "hopeful_bullets": [
-          "• Reserve Bank of New Zealand cuts interest rates by 50 basis points to 2.5%, bringing the policy rate to its lowest level since July 2022",
-          "• The cut to the overnight cash rate was larger than the 25 basis points expected by economists polled by Reuters"
-        ],
-        "stakes_bullets": [
-          "• Reserve Bank of New Zealand cuts interest rates by 50 basis points to 2.5%, bringing the policy rate to its lowest level since July 2022",
-          "• The cut to the overnight cash rate was larger than the 25 basis points expected by economists polled by Reuters",
-          "• New Zealand's GDP contracted more than expected in the second quarter "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4285c3e124a6"
     },
     {
       "id": "ff160022d39c",
@@ -9969,18 +9966,18 @@
       ]
     },
     {
-      "id": "4285c3e124a6",
-      "topic": "bringing cut deliver outsized",
+      "id": "282e49b26b91",
+      "topic": "chao debt france political",
       "keywords": [
-        "bringing",
-        "cut",
-        "deliver",
-        "outsized",
-        "policy",
-        "zealand"
+        "chao",
+        "debt",
+        "france",
+        "political",
+        "soaring",
+        "throw"
       ],
       "item_ids": [
-        "4200d0873f15"
+        "e4b8988c9603"
       ],
       "outlets": [
         "US Top News and Analysis"
