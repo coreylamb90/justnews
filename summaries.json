@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T09:59:10Z",
+  "generated_at": "2025-10-09T10:15:54Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1028,37 +1028,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "bc0ac38adef9"
-    },
-    {
-      "id": "58955b924832",
-      "title": "Macron will nominate new French prime minister in 48 hours",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj6xjpee1xjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 20:50:17 GMT",
-      "bullets": [
-        "• Macron will nominate new French prime minister in 48 hours, Elysee Palace says",
-        "• Outgoing PM Sébastien Lecornu said possibility of dissolving parliament was beginning to fade following talks with political parties over the last two days",
-        "• He became the third French PM to leave his job in less than a year "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Macron will nominate new French prime minister in 48 hours, Elysee Palace says",
-          "• Outgoing PM Sébastien Lecornu said possibility of dissolving parliament was beginning to fade following talks with political parties over the last two days"
-        ],
-        "hopeful_bullets": [
-          "• Outgoing PM Sébastien Lecornu said possibility of dissolving parliament was beginning to fade following talks with political parties over the last two days"
-        ],
-        "stakes_bullets": [
-          "• Macron will nominate new French prime minister in 48 hours, Elysee Palace says"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "79c0e691ff85"
     },
     {
       "id": "678092a36de5",
@@ -2348,41 +2317,6 @@
       "cluster_id": "8bd1cf265137"
     },
     {
-      "id": "68e446688e53",
-      "title": "Social media content restricted in Afghanistan, Taliban sources confirm",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgrq8d0jpdwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 15:48:17 GMT",
-      "bullets": [
-        "• Social media content restricted in Afghanistan, Taliban sources confirm",
-        "• Filters have been applied to restrict certain types of content on sites including Facebook, Instagram and X",
-        "• Comes a week after internet and telecommunications services were cut off across the country",
-        "• The move caused widespread problems for citizens and its end was greeted with celebration "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.963
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Social media content restricted in Afghanistan, Taliban sources confirm",
-          "• Filters have been applied to restrict certain types of content on sites including Facebook, Instagram and X"
-        ],
-        "hopeful_bullets": [
-          "• Social media content restricted in Afghanistan, Taliban sources confirm",
-          "• Filters have been applied to restrict certain types of content on sites including Facebook, Instagram and X"
-        ],
-        "stakes_bullets": [
-          "• Social media content restricted in Afghanistan, Taliban sources confirm",
-          "• Comes a week after internet and telecommunications services were cut off across the country",
-          "• The move caused widespread problems for citizens and its end was greeted with celebration "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e1885b693b54"
-    },
-    {
       "id": "03dc9f7d2466",
       "title": "More than 40 Trump administration picks tied directly to oil, gas and coal, analysis shows",
       "outlet": "Environment | The Guardian",
@@ -2546,41 +2480,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "8299a0fac6e8"
-    },
-    {
-      "id": "f36989263998",
-      "title": "Four dead after six-storey building partially collapses in Madrid",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewne4q04w4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 14:41:22 GMT",
-      "bullets": [
-        "• Four dead after six-storey building partially collapses in Madrid",
-        "• Several floors at property on Hileras Street collapsed in centre of Spanish capital",
-        "• Mayor: Bodies of last two of the people reported missing were recovered on Wednesday morning",
-        "• Authorities have launched an investigation into the collapse "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Four dead after six-storey building partially collapses in Madrid",
-          "• Several floors at property on Hileras Street collapsed in centre of Spanish capital"
-        ],
-        "hopeful_bullets": [
-          "• Four dead after six-storey building partially collapses in Madrid",
-          "• Several floors at property on Hileras Street collapsed in centre of Spanish capital"
-        ],
-        "stakes_bullets": [
-          "• Four dead after six-storey building partially collapses in Madrid",
-          "• Several floors at property on Hileras Street collapsed in centre of Spanish capital",
-          "• Mayor: Bodies of last two of the people reported missing were recovered on Wednesday morning"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "42a885bd8944"
     },
     {
       "id": "d66e2cb522a7",
@@ -4998,34 +4897,133 @@
     },
     {
       "id": "ec114803105f",
-      "title": "Wind power giant Orsted to slash 2,000 jobs over next two years",
+      "title": "Orsted to cut 2,000 jobs as Trump's offshore wind battle continues",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/09/wind-power-giant-orsted-to-slash-2000-jobs-over-next-two-years.html",
-      "published_at": "Thu, 09 Oct 2025 09:28:25 GMT",
+      "published_at": "Thu, 09 Oct 2025 09:46:42 GMT",
       "bullets": [
-        "• Danish wind farm operator Orsted announced Thursday that it intends to cut up to 2,000 jobs toward the end of 2027",
-        "• The company has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the United States "
+        "• Wind farm operator Orsted plans to reduce its workforce by a quarter toward the end of 2027",
+        "• The company has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the U.S",
+        "• Orsted currently employs around 8,000 people worldwide "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Danish wind farm operator Orsted announced Thursday that it intends to cut up to 2,000 jobs toward the end of 2027",
-          "• The company has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the United States "
+          "• Wind farm operator Orsted plans to reduce its workforce by a quarter toward the end of 2027",
+          "• The company has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the U.S"
         ],
         "hopeful_bullets": [
-          "• Danish wind farm operator Orsted announced Thursday that it intends to cut up to 2,000 jobs toward the end of 2027",
-          "• The company has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the United States "
+          "• Wind farm operator Orsted plans to reduce its workforce by a quarter toward the end of 2027",
+          "• The company has faced headwinds this year as President Donald Trump's administration clamped down on wind power generation in the U.S"
         ],
         "stakes_bullets": [
-          "• Danish wind farm operator Orsted announced Thursday that it intends to cut up to 2,000 jobs toward the end of 2027"
+          "• Wind farm operator Orsted plans to reduce its workforce by a quarter toward the end of 2027"
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "b4b49fe9aaa3"
+      "cluster_id": "62a679be8459"
+    },
+    {
+      "id": "126dab17b21a",
+      "title": "Fireworks and a toast to life: Israelis delight at deal to return hostages",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9rl9krm0do?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 09:35:49 GMT",
+      "bullets": [
+        "• US President Donald Trump announces deal to return hostages held in Gaza for more than two years",
+        "• The deal will see the release of 20 living hostages and the bodies of 28 dead hostages in return for 250 Palestinian prisoners serving life sentences in Israeli jails and 1,700 detainees from Gaza",
+        "• Israel's war cabinet must now agree upon the deal - which still must be agreed upon by Israel "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US President Donald Trump announces deal to return hostages held in Gaza for more than two years",
+          "• The deal will see the release of 20 living hostages and the bodies of 28 dead hostages in return for 250 Palestinian prisoners serving life sentences in Israeli jails and 1,700 detainees from Gaza"
+        ],
+        "hopeful_bullets": [
+          "• US President Donald Trump announces deal to return hostages held in Gaza for more than two years",
+          "• The deal will see the release of 20 living hostages and the bodies of 28 dead hostages in return for 250 Palestinian prisoners serving life sentences in Israeli jails and 1,700 detainees from Gaza"
+        ],
+        "stakes_bullets": [
+          "• The deal will see the release of 20 living hostages and the bodies of 28 dead hostages in return for 250 Palestinian prisoners serving life sentences in Israeli jails and 1,700 detainees from Gaza"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8c2ca4aac79a"
+    },
+    {
+      "id": "ee88a195d90a",
+      "title": "Madagascar president asks for one year to resolve problems or he will resign",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c07v33mg9m2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 09:32:34 GMT",
+      "bullets": [
+        "• Madagascar president asks for one year to resolve problems or he will resign",
+        "• He said this during a town-hall style meeting with government supporters",
+        "• The movement behind the protest, Gen Z Mada, has been calling for the president to resign",
+        "• The group has called for new protests on Thursday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Madagascar president asks for one year to resolve problems or he will resign",
+          "• He said this during a town-hall style meeting with government supporters"
+        ],
+        "hopeful_bullets": [
+          "• Madagascar president asks for one year to resolve problems or he will resign",
+          "• He said this during a town-hall style meeting with government supporters"
+        ],
+        "stakes_bullets": [
+          "• Madagascar president asks for one year to resolve problems or he will resign"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cdbca812038e"
+    },
+    {
+      "id": "46702101a88e",
+      "title": "'Joy and pain': Palestinians celebrate ceasefire deal - but fear confronting grief",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgv0gypy75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 09:25:10 GMT",
+      "bullets": [
+        "• The deal is the first phase of a 20-point deal to end two-year conflict",
+        "• The deal will see the release of 28 prisoners in return for 1,700 Palestinian prisoners",
+        "• The agreement is expected to last for more than a year and a half "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.876
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The deal is the first phase of a 20-point deal to end two-year conflict",
+          "• The deal will see the release of 28 prisoners in return for 1,700 Palestinian prisoners"
+        ],
+        "hopeful_bullets": [
+          "• The deal is the first phase of a 20-point deal to end two-year conflict",
+          "• The deal will see the release of 28 prisoners in return for 1,700 Palestinian prisoners"
+        ],
+        "stakes_bullets": [
+          "• The deal will see the release of 28 prisoners in return for 1,700 Palestinian prisoners",
+          "• The agreement is expected to last for more than a year and a half "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "62ee31e215f4"
     },
     {
       "id": "cb7e120ce8f8",
@@ -5192,6 +5190,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "64c1b28643bc"
+    },
+    {
+      "id": "3da4d711416b",
+      "title": "Ceasefire deal a major breakthrough, but war not over yet",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c99gzzd9yvzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 08:36:55 GMT",
+      "bullets": [
+        "• Israel and Hamas agree a ceasefire deal to end the two-year-old Gaza war",
+        "• But there is no guarantee that this will happen",
+        "• Israel launched the war in response to the Hamas attacks on 7 October 2023",
+        "• More than 1,200 people were killed, mostly civilians "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.789
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel and Hamas agree a ceasefire deal to end the two-year-old Gaza war",
+          "• But there is no guarantee that this will happen"
+        ],
+        "hopeful_bullets": [
+          "• Israel and Hamas agree a ceasefire deal to end the two-year-old Gaza war",
+          "• But there is no guarantee that this will happen"
+        ],
+        "stakes_bullets": [
+          "• But there is no guarantee that this will happen"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8a979f7da0ec"
     },
     {
       "id": "e2d299dbb8c8",
@@ -5489,39 +5520,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "089d35847815"
-    },
-    {
-      "id": "ee88a195d90a",
-      "title": "Madagascar president asks for one year to resolve problems or he will resign",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c07v33mg9m2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 09 Oct 2025 06:18:09 GMT",
-      "bullets": [
-        "• Madagascar president asks for one year to resolve problems or he will resign",
-        "• He said this during a town-hall style meeting at his palace with government supporters",
-        "• Many attendees had the opportunity to ask the president questions or simply share their views",
-        "• The movement behind the protest, known as Gen Z Mada, has been calling for the president to resign "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Madagascar president asks for one year to resolve problems or he will resign",
-          "• He said this during a town-hall style meeting at his palace with government supporters"
-        ],
-        "hopeful_bullets": [
-          "• Madagascar president asks for one year to resolve problems or he will resign",
-          "• He said this during a town-hall style meeting at his palace with government supporters"
-        ],
-        "stakes_bullets": [
-          "• Madagascar president asks for one year to resolve problems or he will resign"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cdbca812038e"
     },
     {
       "id": "47df055d115e",
@@ -5823,25 +5821,25 @@
       "url": "https://www.npr.org/sections/shots-health-news/2025/10/09/nx-s1-5566101/kff-poll-vaccines-tylenol-rfk-jr-trump",
       "published_at": "Thu, 09 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• 59% of Americans disapprove of RFK Jr.'s moves as health secretary, a new poll says",
+        "• 59% of Americans disapprove of RFK Jr.’s moves as health secretary, a new poll says",
         "• The poll found 59% percent of Democrats believed President Trump's statements about Tylenol were \"definitely false\" On the other hand, 56% of Republicans believed the claim to be either true or \"probably true\""
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• 59% of Americans disapprove of RFK Jr.'s moves as health secretary, a new poll says",
+          "• 59% of Americans disapprove of RFK Jr.’s moves as health secretary, a new poll says",
           "• The poll found 59% percent of Democrats believed President Trump's statements about Tylenol were \"definitely false\" On the other hand, 56% of Republicans believed the claim to be either true or \"probably true\""
         ],
         "hopeful_bullets": [
-          "• 59% of Americans disapprove of RFK Jr.'s moves as health secretary, a new poll says",
+          "• 59% of Americans disapprove of RFK Jr.’s moves as health secretary, a new poll says",
           "• The poll found 59% percent of Democrats believed President Trump's statements about Tylenol were \"definitely false\" On the other hand, 56% of Republicans believed the claim to be either true or \"probably true\""
         ],
         "stakes_bullets": [
-          "• 59% of Americans disapprove of RFK Jr.'s moves as health secretary, a new poll says",
+          "• 59% of Americans disapprove of RFK Jr.’s moves as health secretary, a new poll says",
           "• The poll found 59% percent of Democrats believed President Trump's statements about Tylenol were \"definitely false\" On the other hand, 56% of Republicans believed the claim to be either true or \"probably true\""
         ]
       },
@@ -9174,18 +9172,54 @@
       ]
     },
     {
-      "id": "79c0e691ff85",
-      "topic": "french hour macron minister",
+      "id": "62ee31e215f4",
+      "topic": "ceasefire celebrate deal joy",
       "keywords": [
-        "french",
-        "hour",
-        "macron",
-        "minister",
-        "nominate",
-        "prime"
+        "ceasefire",
+        "celebrate",
+        "deal",
+        "joy",
+        "pain",
+        "palestinian"
       ],
       "item_ids": [
-        "58955b924832"
+        "46702101a88e"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "8c2ca4aac79a",
+      "topic": "deal delight firework israeli",
+      "keywords": [
+        "deal",
+        "delight",
+        "firework",
+        "israeli",
+        "life",
+        "toast"
+      ],
+      "item_ids": [
+        "126dab17b21a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "8a979f7da0ec",
+      "topic": "breakthrough ceasefire deal major",
+      "keywords": [
+        "breakthrough",
+        "ceasefire",
+        "deal",
+        "major",
+        "war",
+        "yet"
+      ],
+      "item_ids": [
+        "3da4d711416b"
       ],
       "outlets": [
         "BBC News"
@@ -9228,27 +9262,6 @@
       ]
     },
     {
-      "id": "8ab642dd30f6",
-      "topic": "comey director fbi former",
-      "keywords": [
-        "comey",
-        "director",
-        "fbi",
-        "former",
-        "guilty",
-        "jame",
-        "plead"
-      ],
-      "item_ids": [
-        "0a3b1083dc7c",
-        "626dbc1ff4e4"
-      ],
-      "outlets": [
-        "BBC News",
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "cdbca812038e",
       "topic": "asks madagascar president problem",
       "keywords": [
@@ -9285,6 +9298,27 @@
       ]
     },
     {
+      "id": "8ab642dd30f6",
+      "topic": "comey director fbi former",
+      "keywords": [
+        "comey",
+        "director",
+        "fbi",
+        "former",
+        "guilty",
+        "jame",
+        "plead"
+      ],
+      "item_ids": [
+        "0a3b1083dc7c",
+        "626dbc1ff4e4"
+      ],
+      "outlets": [
+        "BBC News",
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "089d35847815",
       "topic": "000 discord leaked photo",
       "keywords": [
@@ -9296,42 +9330,6 @@
       ],
       "item_ids": [
         "38fe9a61468e"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "42a885bd8944",
-      "topic": "building dead four partially",
-      "keywords": [
-        "building",
-        "dead",
-        "four",
-        "partially",
-        "six",
-        "storey"
-      ],
-      "item_ids": [
-        "f36989263998"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "e1885b693b54",
-      "topic": "afghanistan content media restricted",
-      "keywords": [
-        "afghanistan",
-        "content",
-        "media",
-        "restricted",
-        "social",
-        "taliban"
-      ],
-      "item_ids": [
-        "68e446688e53"
       ],
       "outlets": [
         "BBC News"
@@ -9842,33 +9840,15 @@
       ]
     },
     {
-      "id": "10920c773f58",
-      "topic": "another divided fed interest",
-      "keywords": [
-        "another",
-        "divided",
-        "fed",
-        "interest",
-        "official",
-        "saw"
-      ],
-      "item_ids": [
-        "b5137566ef35"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b4b49fe9aaa3",
-      "topic": "000 giant orsted power",
+      "id": "62a679be8459",
+      "topic": "000 cut jobs offshore",
       "keywords": [
         "000",
-        "giant",
+        "cut",
+        "jobs",
+        "offshore",
         "orsted",
-        "power",
-        "slash",
-        "wind"
+        "trump"
       ],
       "item_ids": [
         "ec114803105f"
@@ -9890,6 +9870,24 @@
       ],
       "item_ids": [
         "b2408ba27071"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "10920c773f58",
+      "topic": "another divided fed interest",
+      "keywords": [
+        "another",
+        "divided",
+        "fed",
+        "interest",
+        "official",
+        "saw"
+      ],
+      "item_ids": [
+        "b5137566ef35"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9932,24 +9930,6 @@
       ]
     },
     {
-      "id": "ab80b36554b5",
-      "topic": "choose economy france hour",
-      "keywords": [
-        "choose",
-        "economy",
-        "france",
-        "hour",
-        "macron",
-        "pick"
-      ],
-      "item_ids": [
-        "8daaccaf93a0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d8c19fbf5e5c",
       "topic": "back bvnk citi firm",
       "keywords": [
@@ -9980,6 +9960,24 @@
       ],
       "item_ids": [
         "82f1b643db05"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ab80b36554b5",
+      "topic": "choose economy france hour",
+      "keywords": [
+        "choose",
+        "economy",
+        "france",
+        "hour",
+        "macron",
+        "pick"
+      ],
+      "item_ids": [
+        "8daaccaf93a0"
       ],
       "outlets": [
         "US Top News and Analysis"
