@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T03:37:48Z",
+  "generated_at": "2025-10-09T04:22:23Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -167,6 +167,38 @@
       "cluster_id": "a0d1175d7bf9"
     },
     {
+      "id": "47832008a6d8",
+      "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
+      "published_at": "Wed, 08 Oct 2025 23:55:49 EDT",
+      "bullets": [
+        "• Scientists suggest the brain may work best with 7 senses, not just 5",
+        "• Skoltech developed a new mathematical model of memory that explores how information is encoded and stored",
+        "• Study suggests there may be an optimal number of senses -- if so, those of us with five senses could use a couple more!"
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists suggest the brain may work best with 7 senses, not just 5",
+          "• Skoltech developed a new mathematical model of memory that explores how information is encoded and stored"
+        ],
+        "hopeful_bullets": [
+          "• Scientists suggest the brain may work best with 7 senses, not just 5",
+          "• Skoltech developed a new mathematical model of memory that explores how information is encoded and stored"
+        ],
+        "stakes_bullets": [
+          "• Study suggests there may be an optimal number of senses -- if so, those of us with five senses could use a couple more!"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d1a11753293f"
+    },
+    {
       "id": "6fb8e1b21083",
       "title": "Despite Stiff Opposition, an Alabama City Changes Its Laws to Accommodate Data Centers",
       "outlet": "Inside Climate News",
@@ -297,6 +329,36 @@
       },
       "read_minutes": 9,
       "cluster_id": "315aa9def0b7"
+    },
+    {
+      "id": "bfdaeddf64e8",
+      "title": "Scientists just found a molecule that could stop Parkinson’s in its tracks",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030949.htm",
+      "published_at": "Wed, 08 Oct 2025 23:24:48 EDT",
+      "bullets": [
+        "• Researchers at the University of Bath, in collaboration with the Universities of Oxford and Bristol, have developed a molecule that prevents the clumping and build-up of a protein linked to Parkinson's disease",
+        "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.943
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers at the University of Bath, in collaboration with the Universities of Oxford and Bristol, have developed a molecule that prevents the clumping and build-up of a protein linked to Parkinson's disease",
+          "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+        ],
+        "hopeful_bullets": [
+          "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+        ],
+        "stakes_bullets": [
+          "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "85faa0bc534f"
     },
     {
       "id": "9dd252a48107",
@@ -2480,39 +2542,6 @@
       "cluster_id": "afa2a7e763e6"
     },
     {
-      "id": "1a766e0b5cc2",
-      "title": "Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/08/g-s1-91922/los-angeles-spaghetti-cumbia-una-banda-nacida-de-la-fusion-cultural",
-      "published_at": "Wed, 08 Oct 2025 16:00:00 -0400",
-      "bullets": [
-        "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-        "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas",
-        "• El grupo crecieron escuchando música latina en sus casas y en fiestas familiares "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
-        ],
-        "hopeful_bullets": [
-          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
-        ],
-        "stakes_bullets": [
-          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "21b4985c42e4"
-    },
-    {
       "id": "ab8d35bc0aa1",
       "title": "Los Angeles: Spaghetti Cumbia, a band born from cultural fusion",
       "outlet": "NPR Topics: News",
@@ -2545,6 +2574,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "fd73a94059dc"
+    },
+    {
+      "id": "1a766e0b5cc2",
+      "title": "Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/08/g-s1-91922/los-angeles-spaghetti-cumbia-una-banda-nacida-de-la-fusion-cultural",
+      "published_at": "Wed, 08 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+        "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas",
+        "• El grupo crecieron escuchando música latina en sus casas y en fiestas familiares "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
+        ],
+        "hopeful_bullets": [
+          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
+        ],
+        "stakes_bullets": [
+          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "21b4985c42e4"
     },
     {
       "id": "ace4a7d02ea8",
@@ -2985,41 +3047,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b4b58b8e3223"
-    },
-    {
-      "id": "15e6eeb496db",
-      "title": "Yungblud Fires Back at ‘Bitter and Jealous’ Critics of VMA’s Ozzy Osbourne Tribute",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/yungblud-bitter-jealous-critics-vmas-ozzy-osbourne-tribute-1235442964/",
-      "published_at": "Wed, 08 Oct 2025 14:19:35 +0000",
-      "bullets": [
-        "• Yungblud appeared on Jack Osbourne's podcast to respond to critics of his tribute to Ozzy Osbourne",
-        "• The singer spoke about his U.S",
-        "• tour and Ozzy's Ozzy mentoring relationship with the singer",
-        "• He also spoke about the all-star farewell Back to the Beginning concert he felt endeared him to an older generation "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yungblud appeared on Jack Osbourne's podcast to respond to critics of his tribute to Ozzy Osbourne",
-          "• The singer spoke about his U.S"
-        ],
-        "hopeful_bullets": [
-          "• Yungblud appeared on Jack Osbourne's podcast to respond to critics of his tribute to Ozzy Osbourne",
-          "• The singer spoke about his U.S"
-        ],
-        "stakes_bullets": [
-          "• Yungblud appeared on Jack Osbourne's podcast to respond to critics of his tribute to Ozzy Osbourne",
-          "• The singer spoke about his U.S",
-          "• tour and Ozzy's Ozzy mentoring relationship with the singer"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f5ab8fbaa2ec"
     },
     {
       "id": "3320beb19a6a",
@@ -5299,71 +5326,6 @@
       "cluster_id": "6760911b272d"
     },
     {
-      "id": "bb0a5fea927c",
-      "title": "Scientists finally reveal what’s behind long COVID’s mysterious brain fog",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
-      "published_at": "Tue, 07 Oct 2025 02:46:31 EDT",
-      "bullets": [
-        "• Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging",
-        "• They discovered widespread increases in AMPA receptor density linked to cognitive impairment and inflammation",
-        "• The findings confirm brain fog as a measurable, biological condition and reveal new targets for treatment "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging",
-          "• They discovered widespread increases in AMPA receptor density linked to cognitive impairment and inflammation"
-        ],
-        "hopeful_bullets": [
-          "• Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging",
-          "• They discovered widespread increases in AMPA receptor density linked to cognitive impairment and inflammation"
-        ],
-        "stakes_bullets": [
-          "• Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging",
-          "• They discovered widespread increases in AMPA receptor density linked to cognitive impairment and inflammation"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "903978bfc106"
-    },
-    {
-      "id": "8d9903491e41",
-      "title": "Scientists find brain circuit that traps alcohol users in the vicious cycle of addiction",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251006051124.htm",
-      "published_at": "Tue, 07 Oct 2025 02:00:08 EDT",
-      "bullets": [
-        "• Scientists find brain circuit that traps alcohol users in the vicious cycle of addiction",
-        "• Researchers at Scripps Research have discovered that a tiny brain region called the paraventricular nucleus of the thalamus (PVT) becomes hyperactive when animals learn that alcohol eases the agony of withdrawal",
-        "• Findings could lead to treatments not only for substance use disorders but also for anxiety, trauma, and more "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists find brain circuit that traps alcohol users in the vicious cycle of addiction",
-          "• Researchers at Scripps Research have discovered that a tiny brain region called the paraventricular nucleus of the thalamus (PVT) becomes hyperactive when animals learn that alcohol eases the agony of withdrawal"
-        ],
-        "hopeful_bullets": [
-          "• Scientists find brain circuit that traps alcohol users in the vicious cycle of addiction",
-          "• Researchers at Scripps Research have discovered that a tiny brain region called the paraventricular nucleus of the thalamus (PVT) becomes hyperactive when animals learn that alcohol eases the agony of withdrawal"
-        ],
-        "stakes_bullets": [
-          "• Findings could lead to treatments not only for substance use disorders but also for anxiety, trauma, and more "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "2eff999d38c0"
-    },
-    {
       "id": "50bf31ec34aa",
       "title": "Trump orders approval of 211-mile mining road through Alaska wilderness",
       "outlet": "Environment | The Guardian",
@@ -5662,11 +5624,279 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "dc4eaae24bac",
+      "title": "Slash Says New Guns N’ Roses Album is ‘Coming’: ‘Everybody is Thinking About It’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/slash-new-guns-n-roses-album-coming-1235443631/",
+      "published_at": "Thu, 09 Oct 2025 04:10:03 +0000",
+      "bullets": [
+        "• Slash says a new Guns N' Roses album is ‘coming,” but there is still no release date in sight",
+        "• The guitarist said that the band has plenty of material to work with",
+        "• Slash also shared some insight into the group’s creative process "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.929
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Slash says a new Guns N' Roses album is ‘coming,” but there is still no release date in sight",
+          "• The guitarist said that the band has plenty of material to work with"
+        ],
+        "hopeful_bullets": [
+          "• Slash says a new Guns N' Roses album is ‘coming,” but there is still no release date in sight",
+          "• The guitarist said that the band has plenty of material to work with"
+        ],
+        "stakes_bullets": [
+          "• The guitarist said that the band has plenty of material to work with"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a8be7e7335ba"
+    },
+    {
+      "id": "43c5f97a81c3",
+      "title": "Dragon Ball Team Reveals the Secret CGI Used in Latest Anime Series",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-daima-cgi-reveal/",
+      "published_at": "Thu, 09 Oct 2025 03:59:13 GMT",
+      "bullets": [
+        "• The creators behind Dragon Ball Daima have broken down the hidden CGI used in the hit anime series",
+        "• Some of the vehicles featured in the series were created using CGI in an effort to better bring to life the likes of Gomah's personal transport",
+        "• The directors explained that much trial and error went into crafting these vehicles throughout the anime's production "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The creators behind Dragon Ball Daima have broken down the hidden CGI used in the hit anime series",
+          "• Some of the vehicles featured in the series were created using CGI in an effort to better bring to life the likes of Gomah's personal transport"
+        ],
+        "hopeful_bullets": [
+          "• The creators behind Dragon Ball Daima have broken down the hidden CGI used in the hit anime series",
+          "• Some of the vehicles featured in the series were created using CGI in an effort to better bring to life the likes of Gomah's personal transport"
+        ],
+        "stakes_bullets": [
+          "• The creators behind Dragon Ball Daima have broken down the hidden CGI used in the hit anime series",
+          "• Some of the vehicles featured in the series were created using CGI in an effort to better bring to life the likes of Gomah's personal transport",
+          "• The directors explained that much trial and error went into crafting these vehicles throughout the anime's production "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c6d63d780b0e"
+    },
+    {
+      "id": "c654ae566cae",
+      "title": "Who is the Only Marvel Character That Can Reach Emperor Doom?",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/one-world-under-doom-connection/",
+      "published_at": "Thu, 09 Oct 2025 03:56:56 GMT",
+      "bullets": [
+        "• One World Under Doom #8 is from writer Ryan North, artist R.B",
+        "• Silva, colorist David Curiel and letterer Travis Lanham",
+        "• It explores the idea of whether Doom is really too far gone",
+        "• Doom battles the combined might of an entire world to maintain his control "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.761
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One World Under Doom #8 is from writer Ryan North, artist R.B",
+          "• Silva, colorist David Curiel and letterer Travis Lanham"
+        ],
+        "hopeful_bullets": [
+          "• One World Under Doom #8 is from writer Ryan North, artist R.B",
+          "• Silva, colorist David Curiel and letterer Travis Lanham"
+        ],
+        "stakes_bullets": [
+          "• One World Under Doom #8 is from writer Ryan North, artist R.B",
+          "• Silva, colorist David Curiel and letterer Travis Lanham",
+          "• It explores the idea of whether Doom is really too far gone"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "42ceaa739981"
+    },
+    {
+      "id": "efc2519fee85",
+      "title": "Stephen King’s Only John Carpenter Collaboration Is 1 of the Most Underrated Horror Films of the '80s",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/stephen-king-john-carpenter-christine-underrated/",
+      "published_at": "Thu, 09 Oct 2025 03:50:12 GMT",
+      "bullets": [
+        "• In 1983, King collaborated with John Carpenter on an adaptation of Christine",
+        "• Carpenter was slated to direct the ‘80s adaptation of King’s Firestarter",
+        "• Carpenter would later create the soundtrack to the 2022 remake of Firestarter with his son Cody and Daniel Davies "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.823
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 1983, King collaborated with John Carpenter on an adaptation of Christine",
+          "• Carpenter was slated to direct the ‘80s adaptation of King’s Firestarter"
+        ],
+        "hopeful_bullets": [
+          "• In 1983, King collaborated with John Carpenter on an adaptation of Christine",
+          "• Carpenter was slated to direct the ‘80s adaptation of King’s Firestarter"
+        ],
+        "stakes_bullets": [
+          "• In 1983, King collaborated with John Carpenter on an adaptation of Christine",
+          "• Carpenter was slated to direct the ‘80s adaptation of King’s Firestarter",
+          "• Carpenter would later create the soundtrack to the 2022 remake of Firestarter with his son Cody and Daniel Davies "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9cdff89da75e"
+    },
+    {
+      "id": "d38684efddb1",
+      "title": "MHA's Most Underrated Duo Finally Get Their Moment in Season 8 Premiere",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/my-hero-academia-season-8-toru-hagakure-yuga-aoyama-vs-kunieda/",
+      "published_at": "Thu, 09 Oct 2025 03:48:12 GMT",
+      "bullets": [
+        "• All Might Season 8 kicks off with a new twist to the series",
+        "• The final episode of the series is a battle between All Might and All Might",
+        "• The team must find a way to defeat the main character in order to survive",
+        "• The series is the first of its kind "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• All Might Season 8 kicks off with a new twist to the series",
+          "• The final episode of the series is a battle between All Might and All Might"
+        ],
+        "hopeful_bullets": [
+          "• All Might Season 8 kicks off with a new twist to the series",
+          "• The final episode of the series is a battle between All Might and All Might"
+        ],
+        "stakes_bullets": [
+          "• All Might Season 8 kicks off with a new twist to the series",
+          "• The final episode of the series is a battle between All Might and All Might",
+          "• The team must find a way to defeat the main character in order to survive"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "dcf05f8c99cd"
+    },
+    {
+      "id": "da31c9d9e99b",
+      "title": "Anime Fans Will Never Agree About These 10 Characters",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/most-controversial-anime-characters-fans-argue-about/",
+      "published_at": "Thu, 09 Oct 2025 03:42:56 GMT",
+      "bullets": [
+        "• It's not uncommon for the anime fandom to become divided about all sorts of things, such as whether an anime is overrated or how much PG-13 fan service is too much",
+        "• Even the genius protagonist Lelouch Lamperouge is a magnet for controversy, with anime fans unsure whether he's a hero or just a monster "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It's not uncommon for the anime fandom to become divided about all sorts of things, such as whether an anime is overrated or how much PG-13 fan service is too much",
+          "• Even the genius protagonist Lelouch Lamperouge is a magnet for controversy, with anime fans unsure whether he's a hero or just a monster "
+        ],
+        "hopeful_bullets": [
+          "• It's not uncommon for the anime fandom to become divided about all sorts of things, such as whether an anime is overrated or how much PG-13 fan service is too much",
+          "• Even the genius protagonist Lelouch Lamperouge is a magnet for controversy, with anime fans unsure whether he's a hero or just a monster "
+        ],
+        "stakes_bullets": [
+          "• It's not uncommon for the anime fandom to become divided about all sorts of things, such as whether an anime is overrated or how much PG-13 fan service is too much",
+          "• Even the genius protagonist Lelouch Lamperouge is a magnet for controversy, with anime fans unsure whether he's a hero or just a monster "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "efe9ddc765df"
+    },
+    {
+      "id": "30441c5a1287",
+      "title": "Dirty Dancing Is Finally Available on Netflix",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dirty-dancing-netflix-october-2025/",
+      "published_at": "Thu, 09 Oct 2025 03:40:12 GMT",
+      "bullets": [
+        "• The film was released in 1987, starring Jennifer Grey and Patrick Swayze",
+        "• It has inspired an entire franchise, including a prequel, a TV series and a sequel",
+        "• The film depicted a snapshot of the '60s and its social and political conditions "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The film was released in 1987, starring Jennifer Grey and Patrick Swayze",
+          "• It has inspired an entire franchise, including a prequel, a TV series and a sequel"
+        ],
+        "hopeful_bullets": [
+          "• The film was released in 1987, starring Jennifer Grey and Patrick Swayze",
+          "• It has inspired an entire franchise, including a prequel, a TV series and a sequel"
+        ],
+        "stakes_bullets": [
+          "• The film was released in 1987, starring Jennifer Grey and Patrick Swayze",
+          "• It has inspired an entire franchise, including a prequel, a TV series and a sequel",
+          "• The film depicted a snapshot of the '60s and its social and political conditions "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "40ec42aaced1"
+    },
+    {
+      "id": "215a5f48fea7",
+      "title": "A Sequel to Jim Henson’s Groundbreaking 1982 Dark Fantasy Film Isn’t Off the Table, According to His Son",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dark-crystal-brian-henson-interview/",
+      "published_at": "Thu, 09 Oct 2025 03:39:20 GMT",
+      "bullets": [
+        "• The Jim Henson Company is celebrating its 70th anniversary this year",
+        "• The company will be hosting its first-ever auction of official puppets, props, and memorabilia",
+        "• Brian Henson also discusses the significance of the company's 1982 film The Dark Crystal "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Jim Henson Company is celebrating its 70th anniversary this year",
+          "• The company will be hosting its first-ever auction of official puppets, props, and memorabilia"
+        ],
+        "hopeful_bullets": [
+          "• The Jim Henson Company is celebrating its 70th anniversary this year",
+          "• The company will be hosting its first-ever auction of official puppets, props, and memorabilia"
+        ],
+        "stakes_bullets": [
+          "• The company will be hosting its first-ever auction of official puppets, props, and memorabilia"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "b734084efc80"
+    },
+    {
       "id": "6159564e8fa9",
       "title": "All of Zoro's Swords In One Piece",
       "outlet": "CBR",
       "url": "https://www.cbr.com/one-piece-blades-roronoa-zoro-wielded-used/",
-      "published_at": "Thu, 09 Oct 2025 03:30:12 GMT",
+      "published_at": "Thu, 09 Oct 2025 03:31:26 GMT",
       "bullets": [
         "• Roronoa Zoro is the resident swordsman of One Piece's Straw Hat Pirates and one of the strongest people in Monkey D",
         "• Luffy's crew",
@@ -5731,6 +5961,40 @@
       "cluster_id": "432eaf9e2d08"
     },
     {
+      "id": "a9b672f2eea9",
+      "title": "SoftBank shares soar 13% after it agrees to buy ABB robotics unit for $5.4 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
+      "published_at": "Thu, 09 Oct 2025 03:10:53 GMT",
+      "bullets": [
+        "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+        "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology",
+        "• Softbank is also planning to invest $1.3 billion in India, according to a report "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.882
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+          "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology"
+        ],
+        "hopeful_bullets": [
+          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+          "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology"
+        ],
+        "stakes_bullets": [
+          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+          "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology",
+          "• Softbank is also planning to invest $1.3 billion in India, according to a report "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "26f20e78d259"
+    },
+    {
       "id": "ccad5a2d8d65",
       "title": "Criminal Minds’ Most Disturbing Unsub Still Haunts Fans 20 Years Later",
       "outlet": "CBR",
@@ -5764,40 +6028,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "b17f2a38ef85"
-    },
-    {
-      "id": "dfefa067f60d",
-      "title": "10 Funniest Anime of the Last Ten Years, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-comedy-anime-series-of-decade/",
-      "published_at": "Thu, 09 Oct 2025 02:52:16 GMT",
-      "bullets": [
-        "• Comedy anime are prevalent among the most popular Japanese animation products",
-        "• The comedy anime genre has grown to include some of the most creative and well-written humor on television in the last ten years",
-        "• The funniest shows of the last decade have come in all shades: heartfelt romance, sharp parodies, absurdist slice-of-life chaos "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Comedy anime are prevalent among the most popular Japanese animation products",
-          "• The comedy anime genre has grown to include some of the most creative and well-written humor on television in the last ten years"
-        ],
-        "hopeful_bullets": [
-          "• Comedy anime are prevalent among the most popular Japanese animation products",
-          "• The comedy anime genre has grown to include some of the most creative and well-written humor on television in the last ten years"
-        ],
-        "stakes_bullets": [
-          "• Comedy anime are prevalent among the most popular Japanese animation products",
-          "• The comedy anime genre has grown to include some of the most creative and well-written humor on television in the last ten years",
-          "• The funniest shows of the last decade have come in all shades: heartfelt romance, sharp parodies, absurdist slice-of-life chaos "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "e9f36ef2ec51"
     },
     {
       "id": "6ea5f483afa6",
@@ -5867,38 +6097,6 @@
       "cluster_id": "25fe87a66117"
     },
     {
-      "id": "25fc067261ba",
-      "title": "10 Worst Marvel Relaunches Following a Major Event",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/worst-post-event-marvel-relaunches/",
-      "published_at": "Thu, 09 Oct 2025 02:35:12 GMT",
-      "bullets": [
-        "• Charles Soule’s run started with him in New York, back in his Shadowland black and red, and with a secret identity once again",
-        "• The reset came especially rough because it happened unexplained, with the actual elaboration on how it worked coming almost ten issues into the series",
-        "• While many relaunches are successful, there's a whole lot that fans despise for whatever reason "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Charles Soule’s run started with him in New York, back in his Shadowland black and red, and with a secret identity once again",
-          "• The reset came especially rough because it happened unexplained, with the actual elaboration on how it worked coming almost ten issues into the series"
-        ],
-        "hopeful_bullets": [
-          "• Charles Soule’s run started with him in New York, back in his Shadowland black and red, and with a secret identity once again",
-          "• The reset came especially rough because it happened unexplained, with the actual elaboration on how it worked coming almost ten issues into the series"
-        ],
-        "stakes_bullets": [
-          "• The reset came especially rough because it happened unexplained, with the actual elaboration on how it worked coming almost ten issues into the series"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "809b0df45730"
-    },
-    {
       "id": "a2977fb29d65",
       "title": "Trump says Israel and Hamas 'sign off' on first phase of Gaza peace plan",
       "outlet": "BBC News",
@@ -5931,39 +6129,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "c4d1d2e9736b"
-    },
-    {
-      "id": "f14cf53dd447",
-      "title": "Edgar Wright Called Mad Max: Fury Road 'the Best Action Film of All Time'",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/edgar-wright-called-mad-max-fury-best-action-film/",
-      "published_at": "Thu, 09 Oct 2025 02:20:12 GMT",
-      "bullets": [
-        "• George Miller's Mad Max franchise is a stunning example of post-apocalyptic fiction",
-        "• Fury Road was originally conceived in 1987, although the movie suffered numerous obstacles that prevented production until 2012",
-        "• The movie received ten nominations and six Academy Awards, in addition to being considered one of the greatest movies of the 21st century "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• George Miller's Mad Max franchise is a stunning example of post-apocalyptic fiction",
-          "• Fury Road was originally conceived in 1987, although the movie suffered numerous obstacles that prevented production until 2012"
-        ],
-        "hopeful_bullets": [
-          "• The movie received ten nominations and six Academy Awards, in addition to being considered one of the greatest movies of the 21st century "
-        ],
-        "stakes_bullets": [
-          "• George Miller's Mad Max franchise is a stunning example of post-apocalyptic fiction",
-          "• Fury Road was originally conceived in 1987, although the movie suffered numerous obstacles that prevented production until 2012",
-          "• The movie received ten nominations and six Academy Awards, in addition to being considered one of the greatest movies of the 21st century "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bfdcffdfde8a"
     },
     {
       "id": "6ef1a45a6925",
@@ -6032,40 +6197,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "0be85951c005"
-    },
-    {
-      "id": "0353454f3e0e",
-      "title": "10 Best Isekai Anime That Aren’t Just Generic Fantasy Shows (We Promise)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-isekai-anime-without-fantasy-tropes/",
-      "published_at": "Thu, 09 Oct 2025 02:17:08 GMT",
-      "bullets": [
-        "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
-        "• The classic Digimon Adventure anime was much more than just another monster-raising story",
-        "• While fantasy aspects are still present in some works, it's done in a way that still feels fresh and unique "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
-          "• The classic Digimon Adventure anime was much more than just another monster-raising story"
-        ],
-        "hopeful_bullets": [
-          "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
-          "• The classic Digimon Adventure anime was much more than just another monster-raising story"
-        ],
-        "stakes_bullets": [
-          "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
-          "• The classic Digimon Adventure anime was much more than just another monster-raising story",
-          "• While fantasy aspects are still present in some works, it's done in a way that still feels fresh and unique "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "8630f7c5f8c3"
     },
     {
       "id": "7e49a86119da",
@@ -6169,74 +6300,6 @@
       "cluster_id": "37077423e323"
     },
     {
-      "id": "a9b672f2eea9",
-      "title": "SoftBank shares soar 13% after it agrees to buy ABB robotics unit for $5.4 billion",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
-      "published_at": "Thu, 09 Oct 2025 02:04:51 GMT",
-      "bullets": [
-        "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
-        "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology",
-        "• Softbank is also planning to invest $1.3 billion in India, according to a report "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.882
-      },
-      "moods": {
-        "brief_bullets": [
-          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
-          "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology"
-        ],
-        "hopeful_bullets": [
-          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
-          "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology"
-        ],
-        "stakes_bullets": [
-          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
-          "• SoftBank founder Masayoshi Son has been trying to position SoftBank at the center of the potential AI boom through investments and acquisitions in different areas of technology",
-          "• Softbank is also planning to invest $1.3 billion in India, according to a report "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "26f20e78d259"
-    },
-    {
-      "id": "2a9022aaddbf",
-      "title": "Stay Review: Huluween Delivers a Smart but Slow-Paced Haunted House Horror",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/stay-movie-hulu-review/",
-      "published_at": "Thu, 09 Oct 2025 01:55:53 GMT",
-      "bullets": [
-        "• Stay is a darker and more mature take on horror, just in time for Huluween",
-        "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama",
-        "• Blending elements of African spiritualism, ghost stories and moody character-centric pieces of the independent golden age "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Stay is a darker and more mature take on horror, just in time for Huluween",
-          "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama"
-        ],
-        "hopeful_bullets": [
-          "• Stay is a darker and more mature take on horror, just in time for Huluween",
-          "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama"
-        ],
-        "stakes_bullets": [
-          "• Stay is a darker and more mature take on horror, just in time for Huluween",
-          "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama",
-          "• Blending elements of African spiritualism, ghost stories and moody character-centric pieces of the independent golden age "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "4d85de9e1170"
-    },
-    {
       "id": "7ec1f7c779f1",
       "title": "Cristina Fernández de Kirchner: Argentinian court sentences man to 10 years for attempted assassination",
       "outlet": "World news | The Guardian",
@@ -6301,74 +6364,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "88d6c1737e2b"
-    },
-    {
-      "id": "4e1843201e98",
-      "title": "The Walking Dead's New Villain Is the Negan Replacement Fans Have Been Begging For",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/the-walking-dead-negan-replacement-fede/",
-      "published_at": "Thu, 09 Oct 2025 01:40:12 GMT",
-      "bullets": [
-        "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
-        "• This installment has been widely praised by critics and viewers alike",
-        "• In typical Walking Dead fashion, the plot is slowly revealing details about Fede "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
-          "• This installment has been widely praised by critics and viewers alike"
-        ],
-        "hopeful_bullets": [
-          "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
-          "• This installment has been widely praised by critics and viewers alike"
-        ],
-        "stakes_bullets": [
-          "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
-          "• This installment has been widely praised by critics and viewers alike",
-          "• In typical Walking Dead fashion, the plot is slowly revealing details about Fede "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "8d47b3d23a0e"
-    },
-    {
-      "id": "aa4588d7206e",
-      "title": "10 Ridiculous Dragon Ball GT Storylines We Can’t Believe Made It On Screen",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-gt-weirdest-storylines/",
-      "published_at": "Thu, 09 Oct 2025 01:25:12 GMT",
-      "bullets": [
-        "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
-        "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions",
-        "• Some Dragon Ball's exploration of Sugoroku Space, a board game-esque purgatory, is especially awkward "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.852
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
-          "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions"
-        ],
-        "hopeful_bullets": [
-          "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
-          "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions"
-        ],
-        "stakes_bullets": [
-          "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
-          "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions",
-          "• Some Dragon Ball's exploration of Sugoroku Space, a board game-esque purgatory, is especially awkward "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "d01a91ad5594"
     },
     {
       "id": "c12cefd617f5",
@@ -9721,24 +9716,6 @@
       ]
     },
     {
-      "id": "21b4985c42e4",
-      "topic": "banda cumbia los ngele",
-      "keywords": [
-        "banda",
-        "cumbia",
-        "los",
-        "ngele",
-        "spaghetti",
-        "una"
-      ],
-      "item_ids": [
-        "1a766e0b5cc2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "fd73a94059dc",
       "topic": "angele band born cumbia",
       "keywords": [
@@ -9751,6 +9728,24 @@
       ],
       "item_ids": [
         "ab8d35bc0aa1"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "21b4985c42e4",
+      "topic": "banda cumbia los ngele",
+      "keywords": [
+        "banda",
+        "cumbia",
+        "los",
+        "ngele",
+        "spaghetti",
+        "una"
+      ],
+      "item_ids": [
+        "1a766e0b5cc2"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10514,6 +10509,42 @@
       ]
     },
     {
+      "id": "d1a11753293f",
+      "topic": "best brain scientist sense",
+      "keywords": [
+        "best",
+        "brain",
+        "scientist",
+        "sense",
+        "suggest",
+        "work"
+      ],
+      "item_ids": [
+        "47832008a6d8"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "85faa0bc534f",
+      "topic": "found just molecule parkinson",
+      "keywords": [
+        "found",
+        "just",
+        "molecule",
+        "parkinson",
+        "scientist",
+        "stop"
+      ],
+      "item_ids": [
+        "bfdaeddf64e8"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "e3841961a34d",
       "topic": "just moai proved scientist",
       "keywords": [
@@ -10652,42 +10683,6 @@
       ],
       "item_ids": [
         "cba069b58a4d"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "903978bfc106",
-      "topic": "behind covid finally long",
-      "keywords": [
-        "behind",
-        "covid",
-        "finally",
-        "long",
-        "reveal",
-        "scientist"
-      ],
-      "item_ids": [
-        "bb0a5fea927c"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "2eff999d38c0",
-      "topic": "alcohol brain circuit find",
-      "keywords": [
-        "alcohol",
-        "brain",
-        "circuit",
-        "find",
-        "scientist",
-        "trap"
-      ],
-      "item_ids": [
-        "8d9903491e41"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -13061,6 +13056,131 @@
       ]
     },
     {
+      "id": "c6d63d780b0e",
+      "topic": "ball cgi dragon reveal",
+      "keywords": [
+        "ball",
+        "cgi",
+        "dragon",
+        "reveal",
+        "secret",
+        "team"
+      ],
+      "item_ids": [
+        "43c5f97a81c3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "42ceaa739981",
+      "topic": "character doom emperor marvel",
+      "keywords": [
+        "character",
+        "doom",
+        "emperor",
+        "marvel",
+        "only",
+        "reach"
+      ],
+      "item_ids": [
+        "c654ae566cae"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "9cdff89da75e",
+      "topic": "carpenter collaboration john king",
+      "keywords": [
+        "carpenter",
+        "collaboration",
+        "john",
+        "king",
+        "only",
+        "stephen"
+      ],
+      "item_ids": [
+        "efc2519fee85"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "dcf05f8c99cd",
+      "topic": "duo finally get mha",
+      "keywords": [
+        "duo",
+        "finally",
+        "get",
+        "mha",
+        "most",
+        "underrated"
+      ],
+      "item_ids": [
+        "d38684efddb1"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "efe9ddc765df",
+      "topic": "agree anime character fans",
+      "keywords": [
+        "agree",
+        "anime",
+        "character",
+        "fans",
+        "never",
+        "these"
+      ],
+      "item_ids": [
+        "da31c9d9e99b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "40ec42aaced1",
+      "topic": "available dancing dirty finally",
+      "keywords": [
+        "available",
+        "dancing",
+        "dirty",
+        "finally",
+        "netflix"
+      ],
+      "item_ids": [
+        "30441c5a1287"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b734084efc80",
+      "topic": "1982 dark groundbreaking henson",
+      "keywords": [
+        "1982",
+        "dark",
+        "groundbreaking",
+        "henson",
+        "jim",
+        "sequel"
+      ],
+      "item_ids": [
+        "215a5f48fea7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "ad1c1b944aeb",
       "topic": "all piece sword zoro",
       "keywords": [
@@ -13107,132 +13227,6 @@
       ],
       "item_ids": [
         "ccad5a2d8d65"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e9f36ef2ec51",
-      "topic": "anime funniest last ranked",
-      "keywords": [
-        "anime",
-        "funniest",
-        "last",
-        "ranked",
-        "ten",
-        "year"
-      ],
-      "item_ids": [
-        "dfefa067f60d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "809b0df45730",
-      "topic": "event following major marvel",
-      "keywords": [
-        "event",
-        "following",
-        "major",
-        "marvel",
-        "relaunche",
-        "worst"
-      ],
-      "item_ids": [
-        "25fc067261ba"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "bfdcffdfde8a",
-      "topic": "called edgar fury mad",
-      "keywords": [
-        "called",
-        "edgar",
-        "fury",
-        "mad",
-        "max",
-        "wright"
-      ],
-      "item_ids": [
-        "f14cf53dd447"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8630f7c5f8c3",
-      "topic": "anime aren best generic",
-      "keywords": [
-        "anime",
-        "aren",
-        "best",
-        "generic",
-        "isekai",
-        "just"
-      ],
-      "item_ids": [
-        "0353454f3e0e"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4d85de9e1170",
-      "topic": "deliver huluween review slow",
-      "keywords": [
-        "deliver",
-        "huluween",
-        "review",
-        "slow",
-        "smart",
-        "stay"
-      ],
-      "item_ids": [
-        "2a9022aaddbf"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8d47b3d23a0e",
-      "topic": "dead fans negan replacement",
-      "keywords": [
-        "dead",
-        "fans",
-        "negan",
-        "replacement",
-        "villain",
-        "walking"
-      ],
-      "item_ids": [
-        "4e1843201e98"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d01a91ad5594",
-      "topic": "ball believe dragon made",
-      "keywords": [
-        "ball",
-        "believe",
-        "dragon",
-        "made",
-        "ridiculou",
-        "storyline"
-      ],
-      "item_ids": [
-        "aa4588d7206e"
       ],
       "outlets": [
         "CBR"
@@ -13417,6 +13411,24 @@
       ]
     },
     {
+      "id": "a8be7e7335ba",
+      "topic": "album coming everybody guns",
+      "keywords": [
+        "album",
+        "coming",
+        "everybody",
+        "guns",
+        "rose",
+        "slash"
+      ],
+      "item_ids": [
+        "dc4eaae24bac"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "2b8f955dc53e",
       "topic": "kelce react song swift",
       "keywords": [
@@ -13576,24 +13588,6 @@
       ],
       "item_ids": [
         "ccc47d360e11"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "f5ab8fbaa2ec",
-      "topic": "back bitter critic fire",
-      "keywords": [
-        "back",
-        "bitter",
-        "critic",
-        "fire",
-        "jealou",
-        "yungblud"
-      ],
-      "item_ids": [
-        "15e6eeb496db"
       ],
       "outlets": [
         "Music News"
