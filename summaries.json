@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T04:22:23Z",
+  "generated_at": "2025-10-09T05:00:50Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -2311,6 +2311,40 @@
       "cluster_id": "76c09499c050"
     },
     {
+      "id": "40aadf52925c",
+      "title": "Too many Canadians are staying away from Louisiana due to Trump",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/08/nx-s1-5566061/too-many-canadians-are-staying-away-from-new-orleans-due-to-trump",
+      "published_at": "Wed, 08 Oct 2025 16:45:53 -0400",
+      "bullets": [
+        "• Too many Canadians are staying away from Louisiana due to Trump, the state's lieutenant governor says",
+        "• The Grand Reveil Acadien festival celebrates the descendants of early French settlers who came to Louisiana from Canada in the 1700s",
+        "• At least one tour company canceled "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Too many Canadians are staying away from Louisiana due to Trump, the state's lieutenant governor says",
+          "• The Grand Reveil Acadien festival celebrates the descendants of early French settlers who came to Louisiana from Canada in the 1700s"
+        ],
+        "hopeful_bullets": [
+          "• Too many Canadians are staying away from Louisiana due to Trump, the state's lieutenant governor says",
+          "• The Grand Reveil Acadien festival celebrates the descendants of early French settlers who came to Louisiana from Canada in the 1700s"
+        ],
+        "stakes_bullets": [
+          "• Too many Canadians are staying away from Louisiana due to Trump, the state's lieutenant governor says",
+          "• The Grand Reveil Acadien festival celebrates the descendants of early French settlers who came to Louisiana from Canada in the 1700s",
+          "• At least one tour company canceled "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "bd8d2a1a02c3"
+    },
+    {
       "id": "0a0c0f26d5bb",
       "title": "Louis Tomlinson on the Possibility of a One Direction Reunion: ‘I’d be Really Surprised’",
       "outlet": "Music News",
@@ -3240,7 +3274,7 @@
     {
       "id": "a36d472fcf82",
       "title": "1 in 5 high schoolers has had a romantic AI relationship, or knows someone who has",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/08/nx-s1-5561981/ai-students-schools-teachers",
       "published_at": "Wed, 08 Oct 2025 12:09:56 -0400",
       "bullets": [
@@ -3248,7 +3282,7 @@
         "• 42% of students surveyed say they or someone they know have used AI for companionship",
         "• The vast majority of students, educators and 75% of parents say they used AI during the last school year "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
         "score": 0.954
@@ -5656,6 +5690,40 @@
       "cluster_id": "a8be7e7335ba"
     },
     {
+      "id": "6ef1a45a6925",
+      "title": "Israel, Hamas agree to first phase of Gaza peace plan, allowing release of hostages and prisoners",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-allowing-release-of-hostages-.html",
+      "published_at": "Thu, 09 Oct 2025 04:01:01 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump says Israel and Hamas agree on first phase of a peace plan",
+        "• The preliminary agreement was confirmed by Israeli officials, Hamas and mediator Qatar",
+        "• The deal could end the two-year Gaza war and free hostages "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump says Israel and Hamas agree on first phase of a peace plan"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump says Israel and Hamas agree on first phase of a peace plan"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump says Israel and Hamas agree on first phase of a peace plan",
+          "• The deal could end the two-year Gaza war and free hostages "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1af183b33426"
+    },
+    {
       "id": "43c5f97a81c3",
       "title": "Dragon Ball Team Reveals the Secret CGI Used in Latest Anime Series",
       "outlet": "CBR",
@@ -6131,40 +6199,6 @@
       "cluster_id": "c4d1d2e9736b"
     },
     {
-      "id": "6ef1a45a6925",
-      "title": "Israel, Hamas agree to first phase of Gaza peace plan, allowing release of hostages and prisoners",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-allowing-release-of-hostages-.html",
-      "published_at": "Thu, 09 Oct 2025 02:19:37 GMT",
-      "bullets": [
-        "• U.S",
-        "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan",
-        "• The preliminary agreement was confirmed by Israeli officials, Hamas and mediator Qatar",
-        "• Israel will withdraw troops to an agreed upon line as the first steps toward peace, Trump said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.846
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan",
-          "• Israel will withdraw troops to an agreed upon line as the first steps toward peace, Trump said "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1af183b33426"
-    },
-    {
       "id": "6811525ef498",
       "title": "Republican lawmakers praise Trump for Gaza deal as Palestinian Americans remain wary: ‘So much remains unclear’",
       "outlet": "US news | The Guardian",
@@ -6341,7 +6375,7 @@
       "published_at": "Thu, 09 Oct 2025 01:41:12 GMT",
       "bullets": [
         "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
-        "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+        "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March, returning Gaza to a grinding war "
       ],
       "category": "US",
       "sentiment": {
@@ -6351,15 +6385,15 @@
       "moods": {
         "brief_bullets": [
           "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
-          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March, returning Gaza to a grinding war "
         ],
         "hopeful_bullets": [
           "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
-          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March, returning Gaza to a grinding war "
         ],
         "stakes_bullets": [
           "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
-          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March, returning Gaza to a grinding war "
         ]
       },
       "read_minutes": 3,
@@ -8431,6 +8465,37 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "a9b7d2a27787",
+      "title": "October’s Prime Day event is almost over, but our favorite deals are still live",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+      "published_at": "2025-10-09T00:25:26-04:00",
+      "bullets": [
+        "• Amazon’s two-day Prime Day sale ends at 3AM ET on October 9th, which means discounts won’t last much longer",
+        "• The last day of the sale is Thursday, when several deals will enter a brief hibernation ahead of Black Friday "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon’s two-day Prime Day sale ends at 3AM ET on October 9th, which means discounts won’t last much longer",
+          "• The last day of the sale is Thursday, when several deals will enter a brief hibernation ahead of Black Friday "
+        ],
+        "hopeful_bullets": [
+          "• Amazon’s two-day Prime Day sale ends at 3AM ET on October 9th, which means discounts won’t last much longer",
+          "• The last day of the sale is Thursday, when several deals will enter a brief hibernation ahead of Black Friday "
+        ],
+        "stakes_bullets": [
+          "• The last day of the sale is Thursday, when several deals will enter a brief hibernation ahead of Black Friday "
+        ]
+      },
+      "read_minutes": 61,
+      "cluster_id": "9f02ee6a6196"
+    },
+    {
       "id": "bf1a47280169",
       "title": "Sony&#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off",
       "outlet": "The Verge",
@@ -8463,39 +8528,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "3399843c3550"
-    },
-    {
-      "id": "a9b7d2a27787",
-      "title": "The 228 best last-minute Prime Day deals you can still grab",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
-      "published_at": "2025-10-08T22:52:03-04:00",
-      "bullets": [
-        "• Amazon Prime Day is now in its final hours of its October Prime Day sale",
-        "• Most of the best deals should still be available through midnight tonight",
-        "• Some deals will enter a brief hibernation ahead of Black Friday and Cyber Monday",
-        "• The majority of our recommendations have been thoroughly tested by Verge writers and editors "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.634
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon Prime Day is now in its final hours of its October Prime Day sale",
-          "• Most of the best deals should still be available through midnight tonight"
-        ],
-        "hopeful_bullets": [
-          "• Amazon Prime Day is now in its final hours of its October Prime Day sale",
-          "• Most of the best deals should still be available through midnight tonight"
-        ],
-        "stakes_bullets": [
-          "• Some deals will enter a brief hibernation ahead of Black Friday and Cyber Monday"
-        ]
-      },
-      "read_minutes": 60,
-      "cluster_id": "31893023262d"
     },
     {
       "id": "22d9b6f3b274",
@@ -9716,6 +9748,24 @@
       ]
     },
     {
+      "id": "bd8d2a1a02c3",
+      "topic": "away canadian louisiana many",
+      "keywords": [
+        "away",
+        "canadian",
+        "louisiana",
+        "many",
+        "staying",
+        "too"
+      ],
+      "item_ids": [
+        "40aadf52925c"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "fd73a94059dc",
       "topic": "angele band born cumbia",
       "keywords": [
@@ -9818,24 +9868,6 @@
       ],
       "item_ids": [
         "5f9de616a6cb"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "18eefc38eff6",
-      "topic": "high know relationship romantic",
-      "keywords": [
-        "high",
-        "know",
-        "relationship",
-        "romantic",
-        "schooler",
-        "someone"
-      ],
-      "item_ids": [
-        "a36d472fcf82"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10149,6 +10181,24 @@
       ]
     },
     {
+      "id": "9f02ee6a6196",
+      "topic": "almost day event favorite",
+      "keywords": [
+        "almost",
+        "day",
+        "event",
+        "favorite",
+        "october",
+        "prime"
+      ],
+      "item_ids": [
+        "a9b7d2a27787"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "3399843c3550",
       "topic": "1000xm5 8217 canceling headphone",
       "keywords": [
@@ -10161,24 +10211,6 @@
       ],
       "item_ids": [
         "bf1a47280169"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "31893023262d",
-      "topic": "228 best day last",
-      "keywords": [
-        "228",
-        "best",
-        "day",
-        "last",
-        "minute",
-        "prime"
-      ],
-      "item_ids": [
-        "a9b7d2a27787"
       ],
       "outlets": [
         "The Verge"
@@ -10686,6 +10718,24 @@
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "18eefc38eff6",
+      "topic": "high know relationship romantic",
+      "keywords": [
+        "high",
+        "know",
+        "relationship",
+        "romantic",
+        "schooler",
+        "someone"
+      ],
+      "item_ids": [
+        "a36d472fcf82"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
       ]
     },
     {
