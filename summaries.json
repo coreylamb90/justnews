@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T00:12:15Z",
+  "generated_at": "2025-10-09T02:26:47Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -135,37 +135,36 @@
       "cluster_id": "5306313fe14f"
     },
     {
-      "id": "7e1d61ee3a77",
-      "title": "21 Years Later, Harry Potter's Cringiest Moment Is Still Hard to Watch",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/harry-potter-cringiest-moment-prisoner-of-azkaban/",
-      "published_at": "Wed, 08 Oct 2025 23:55:12 GMT",
+      "id": "82656a54da64",
+      "title": "One NASA science mission saved from Trump’s cuts, but others still in limbo",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/",
+      "published_at": "Wed, 08 Oct 2025 23:56:33 +0000",
       "bullets": [
-        "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film",
-        "• The film follows Harry's third year at Hogwarts",
-        "• It was released in June 2004",
-        "• The movie is the third in the series, with Deathly Hallows: Part II a fair second "
+        "• OSIRIS-APEX was one of 19 NASA science missions the White House proposed canceling earlier this year",
+        "• The mission was to visit an asteroid that will make an unusually close flyby of the Earth in 2029",
+        "• The spacecraft was in good shape and still had plenty of fuel, so NASA decided to send it to explore another asteroid "
       ],
-      "category": "Comics",
+      "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 1.0
+        "label": "negative",
+        "score": 0.827
       },
       "moods": {
         "brief_bullets": [
-          "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film",
-          "• The film follows Harry's third year at Hogwarts"
+          "• OSIRIS-APEX was one of 19 NASA science missions the White House proposed canceling earlier this year",
+          "• The mission was to visit an asteroid that will make an unusually close flyby of the Earth in 2029"
         ],
         "hopeful_bullets": [
-          "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film",
-          "• The film follows Harry's third year at Hogwarts"
+          "• OSIRIS-APEX was one of 19 NASA science missions the White House proposed canceling earlier this year",
+          "• The mission was to visit an asteroid that will make an unusually close flyby of the Earth in 2029"
         ],
         "stakes_bullets": [
-          "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film"
+          "• The mission was to visit an asteroid that will make an unusually close flyby of the Earth in 2029"
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "85d4bee1d55d"
+      "read_minutes": 2,
+      "cluster_id": "a0d1175d7bf9"
     },
     {
       "id": "6fb8e1b21083",
@@ -201,38 +200,68 @@
       "cluster_id": "e7c039e05f7b"
     },
     {
-      "id": "b0a7467b0ec8",
-      "title": "This 8-Year-Old Sci-Fi Horror Hidden Gem Is the Closest Thing to a Proper Alien Replacement",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/life-sci-fi-hidden-gem-for-alien-fans/",
-      "published_at": "Wed, 08 Oct 2025 23:40:12 GMT",
+      "id": "b0a11159a74b",
+      "title": "Trump to visit Walter Reed for ‘routine yearly checkup’, the second since April",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/08/donald-trump-walter-reed-checkup",
+      "published_at": "Wed, 08 Oct 2025 23:50:33 GMT",
       "bullets": [
-        "• The sci-fi horror sub-genre merges distinct elements from each to bring a new kind of terrifying experience to the big screen",
-        "• Fans have been enamored with these kinds of films ever since Alien pioneered the genre when it was released in 1979",
-        "• Some filmmakers are looking to capture the same essence and energy of Ridley Scott's universe "
+        "• Donald Trump will visit Walter Reed national military medical center on Friday for a “routine yearly check up” This is the second time since returning to the White House in January that the president has gone to Walter Reed for an exam",
+        "• It is not clear what exactly this checkup will entail "
       ],
-      "category": "Comics",
+      "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.997
+        "label": "negative",
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• The sci-fi horror sub-genre merges distinct elements from each to bring a new kind of terrifying experience to the big screen",
-          "• Fans have been enamored with these kinds of films ever since Alien pioneered the genre when it was released in 1979"
+          "• Donald Trump will visit Walter Reed national military medical center on Friday for a “routine yearly check up” This is the second time since returning to the White House in January that the president has gone to Walter Reed for an exam",
+          "• It is not clear what exactly this checkup will entail "
         ],
         "hopeful_bullets": [
-          "• The sci-fi horror sub-genre merges distinct elements from each to bring a new kind of terrifying experience to the big screen",
-          "• Fans have been enamored with these kinds of films ever since Alien pioneered the genre when it was released in 1979"
+          "• Donald Trump will visit Walter Reed national military medical center on Friday for a “routine yearly check up” This is the second time since returning to the White House in January that the president has gone to Walter Reed for an exam",
+          "• It is not clear what exactly this checkup will entail "
         ],
         "stakes_bullets": [
-          "• The sci-fi horror sub-genre merges distinct elements from each to bring a new kind of terrifying experience to the big screen",
-          "• Fans have been enamored with these kinds of films ever since Alien pioneered the genre when it was released in 1979",
-          "• Some filmmakers are looking to capture the same essence and energy of Ridley Scott's universe "
+          "• Donald Trump will visit Walter Reed national military medical center on Friday for a “routine yearly check up” This is the second time since returning to the White House in January that the president has gone to Walter Reed for an exam",
+          "• It is not clear what exactly this checkup will entail "
         ]
       },
-      "read_minutes": 7,
-      "cluster_id": "513ee6019ec9"
+      "read_minutes": 2,
+      "cluster_id": "cba519a87a1e"
+    },
+    {
+      "id": "15658a409f8e",
+      "title": "Marco Rubio interrupts Trump with handwritten note on Gaza peace deal",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/08/marco-rubio-trump-note-gaza-peace-deal",
+      "published_at": "Wed, 08 Oct 2025 23:42:56 GMT",
+      "bullets": [
+        "• A photo taken by Associated Press photographer Evan Vucci shows a note from Marco Rubio to Donald Trump",
+        "• The note suggested the president could announce a peace deal in Gaza on his social media platform",
+        "• Trump posted on his Truth Social network, saying he was “very proud” to announce the first phase of the deal "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.911
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A photo taken by Associated Press photographer Evan Vucci shows a note from Marco Rubio to Donald Trump",
+          "• The note suggested the president could announce a peace deal in Gaza on his social media platform"
+        ],
+        "hopeful_bullets": [
+          "• A photo taken by Associated Press photographer Evan Vucci shows a note from Marco Rubio to Donald Trump",
+          "• The note suggested the president could announce a peace deal in Gaza on his social media platform"
+        ],
+        "stakes_bullets": [
+          "• The note suggested the president could announce a peace deal in Gaza on his social media platform"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "88bade7988d7"
     },
     {
       "id": "98aebdc72852",
@@ -270,100 +299,6 @@
       "cluster_id": "315aa9def0b7"
     },
     {
-      "id": "c21d70eec7d1",
-      "title": "White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/08/donald-trump-james-comey-justice-department-national-guard-chicago-antifa-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Wed, 08 Oct 2025 23:33:09 GMT",
-      "bullets": [
-        "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
-        "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.913
-      },
-      "moods": {
-        "brief_bullets": [
-          "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
-          "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
-        ],
-        "hopeful_bullets": [
-          "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
-        ],
-        "stakes_bullets": [
-          "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
-          "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "8d3f78d366fd"
-    },
-    {
-      "id": "15658a409f8e",
-      "title": "Marco Rubio interrupts Trump with handwritten note on Gaza peace deal",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/08/marco-rubio-trump-note-gaza-peace-deal",
-      "published_at": "Wed, 08 Oct 2025 23:24:57 GMT",
-      "bullets": [
-        "• Marco Rubio passed a note to Donald Trump at a White House event with conservative influencers about antifa",
-        "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform",
-        "• It was taken by Associated Press photographer Evan Vucci in a photograph taken on Wednesday afternoon "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marco Rubio passed a note to Donald Trump at a White House event with conservative influencers about antifa",
-          "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform"
-        ],
-        "hopeful_bullets": [
-          "• Marco Rubio passed a note to Donald Trump at a White House event with conservative influencers about antifa",
-          "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform"
-        ],
-        "stakes_bullets": [
-          "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "88bade7988d7"
-    },
-    {
-      "id": "a5169364f161",
-      "title": "10 Anime That Are Amazing From Start to Finish — Until The Last Episode",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-anime-worst-final-episodes/",
-      "published_at": "Wed, 08 Oct 2025 23:03:08 GMT",
-      "bullets": [
-        "• A strong first episode or season with wonderful characters has viewers believing that they are watching something legendary",
-        "• Some series stumble as a result of rushed pacing or unresolved subplots, while others fall apart due to the magnitude of their own aspirations",
-        "• Viewers were rooting for the characters and had believed the writers were holding something in store "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.945
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A strong first episode or season with wonderful characters has viewers believing that they are watching something legendary",
-          "• Some series stumble as a result of rushed pacing or unresolved subplots, while others fall apart due to the magnitude of their own aspirations"
-        ],
-        "hopeful_bullets": [
-          "• A strong first episode or season with wonderful characters has viewers believing that they are watching something legendary"
-        ],
-        "stakes_bullets": [
-          "• Some series stumble as a result of rushed pacing or unresolved subplots, while others fall apart due to the magnitude of their own aspirations"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "d13a0004388c"
-    },
-    {
       "id": "9dd252a48107",
       "title": "100 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
       "outlet": "WIRED",
@@ -395,38 +330,6 @@
       },
       "read_minutes": 13,
       "cluster_id": "2edc5df5240c"
-    },
-    {
-      "id": "b5d1c40be13a",
-      "title": "Landman Season 2's Big Demi Moore Update Already Makes It 10x Better Than Season 1",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/landman-season-2-demi-moore-update/",
-      "published_at": "Wed, 08 Oct 2025 23:00:12 GMT",
-      "bullets": [
-        "• Season 1 ended in a shocking twist: Monty Miller’s death after suffering from a fatal heart attack",
-        "• Demi Moore's role in Season 2 promises to bring emotional stakes, family conflict, and political intrigue to the fore",
-        "• Early word suggests Moore's Cami will finally take the center stage she was meant for "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Season 1 ended in a shocking twist: Monty Miller’s death after suffering from a fatal heart attack",
-          "• Demi Moore's role in Season 2 promises to bring emotional stakes, family conflict, and political intrigue to the fore"
-        ],
-        "hopeful_bullets": [
-          "• Season 1 ended in a shocking twist: Monty Miller’s death after suffering from a fatal heart attack",
-          "• Demi Moore's role in Season 2 promises to bring emotional stakes, family conflict, and political intrigue to the fore"
-        ],
-        "stakes_bullets": [
-          "• Early word suggests Moore's Cami will finally take the center stage she was meant for "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "e758b43ee38b"
     },
     {
       "id": "a3b18d6dec37",
@@ -463,40 +366,6 @@
       "cluster_id": "70e0dd4fd823"
     },
     {
-      "id": "4c7e60b8af39",
-      "title": "George RR Martin's Fantasy Film That Flopped in Theaters Is 1 of 2025's Best-Kept Movie Secrets",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/george-rr-martins-in-the-lost-lands-2025s-underrated-movie/",
-      "published_at": "Wed, 08 Oct 2025 22:45:12 GMT",
-      "bullets": [
-        "• In The Lost Lands is based on a George R.R",
-        "• Martin short story",
-        "• The film stars Milla Jovovich as an all-knowing witch, Gray Alys, who is being hanged by the Church",
-        "• The story is one of the best blends of medieval fantasy with dystopian bleakness "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In The Lost Lands is based on a George R.R",
-          "• Martin short story"
-        ],
-        "hopeful_bullets": [
-          "• The film stars Milla Jovovich as an all-knowing witch, Gray Alys, who is being hanged by the Church"
-        ],
-        "stakes_bullets": [
-          "• In The Lost Lands is based on a George R.R",
-          "• Martin short story",
-          "• The film stars Milla Jovovich as an all-knowing witch, Gray Alys, who is being hanged by the Church"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "b3b1d01bbf31"
-    },
-    {
       "id": "55c6f6e332fb",
       "title": "Stoke Space gives us another reason to take it very seriously",
       "outlet": "Ars Technica - All content",
@@ -530,39 +399,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "af155ea3f44b"
-    },
-    {
-      "id": "15dfd8724a46",
-      "title": "Gen V: Annabeth Has a Secret No One Saw Coming",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gen-v-annabeth-moreau-secret-supe/",
-      "published_at": "Wed, 08 Oct 2025 22:35:12 GMT",
-      "bullets": [
-        "• Since Gen V began, Marie has been searching high and low for her younger sister Annabeth",
-        "• After escaping captivity in Elmira following the riot at Godolkin University in Season 1, Marie went on the run",
-        "• She finally found her in Season 2, Episode 5, “The Kids Are Not All Right” The forced reunion brought the sisters together in the most devastating way "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Since Gen V began, Marie has been searching high and low for her younger sister Annabeth",
-          "• After escaping captivity in Elmira following the riot at Godolkin University in Season 1, Marie went on the run"
-        ],
-        "hopeful_bullets": [
-          "• After escaping captivity in Elmira following the riot at Godolkin University in Season 1, Marie went on the run"
-        ],
-        "stakes_bullets": [
-          "• Since Gen V began, Marie has been searching high and low for her younger sister Annabeth",
-          "• After escaping captivity in Elmira following the riot at Godolkin University in Season 1, Marie went on the run",
-          "• She finally found her in Season 2, Episode 5, “The Kids Are Not All Right” The forced reunion brought the sisters together in the most devastating way "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "0fde34a25d15"
     },
     {
       "id": "d0e4390150a2",
@@ -698,38 +534,6 @@
       "cluster_id": "ad898df28092"
     },
     {
-      "id": "31fccde1e8b6",
-      "title": "10 Best Quirks Represented in All Might's Hercules Suit, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/mha-all-might-hercules-suit-strongest-quirks-ranked/",
-      "published_at": "Wed, 08 Oct 2025 21:58:54 GMT",
-      "bullets": [
-        "• My Hero Academia Season 8 has shown what happens when the Quirkless symbol of peace, All Might, uses technology to imitate Quirks",
-        "• Some of the mechanical \"Quirks\" in All Might's suit have proven more effective than others",
-        "• Mezo Shoji's Dupli-Arms has a few notable uses, such as with scouting "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• My Hero Academia Season 8 has shown what happens when the Quirkless symbol of peace, All Might, uses technology to imitate Quirks",
-          "• Some of the mechanical \"Quirks\" in All Might's suit have proven more effective than others"
-        ],
-        "hopeful_bullets": [
-          "• My Hero Academia Season 8 has shown what happens when the Quirkless symbol of peace, All Might, uses technology to imitate Quirks",
-          "• Some of the mechanical \"Quirks\" in All Might's suit have proven more effective than others"
-        ],
-        "stakes_bullets": [
-          "• Some of the mechanical \"Quirks\" in All Might's suit have proven more effective than others"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "0575aae7d2fb"
-    },
-    {
       "id": "67a41af02315",
       "title": "Halle Bailey Is Finally Ready to Release Her Debut Album ‘Love? Or Something Like It’",
       "outlet": "Music News",
@@ -829,100 +633,6 @@
       "cluster_id": "cf294b45500f"
     },
     {
-      "id": "c12b5a659d57",
-      "title": "Over 10 Years Later, Gundam's Controversial Anime Returns With New High Grade Gunpla Reveal",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gundam-reconguista-in-g-bandai-gunpla/",
-      "published_at": "Wed, 08 Oct 2025 21:45:12 GMT",
-      "bullets": [
-        "• Bandai's HG 1/144 G-Self (Atmospheric Pack & Space Pack) is based on the main mecha from 2014's Reconguista in G compilation anime movie",
-        "• Meant to be the ultimate depiction of the mobile suit, the High Grade kit comes with two of its notable jetpack accessories "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.913
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bandai's HG 1/144 G-Self (Atmospheric Pack & Space Pack) is based on the main mecha from 2014's Reconguista in G compilation anime movie",
-          "• Meant to be the ultimate depiction of the mobile suit, the High Grade kit comes with two of its notable jetpack accessories "
-        ],
-        "hopeful_bullets": [
-          "• Bandai's HG 1/144 G-Self (Atmospheric Pack & Space Pack) is based on the main mecha from 2014's Reconguista in G compilation anime movie",
-          "• Meant to be the ultimate depiction of the mobile suit, the High Grade kit comes with two of its notable jetpack accessories "
-        ],
-        "stakes_bullets": [
-          "• Bandai's HG 1/144 G-Self (Atmospheric Pack & Space Pack) is based on the main mecha from 2014's Reconguista in G compilation anime movie"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bdea75769e1e"
-    },
-    {
-      "id": "aed60da5687b",
-      "title": "Progress in Gaza peace talks as Trump says 'very close to deal'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 21:44:34 GMT",
-      "bullets": [
-        "• Progress in Gaza peace talks as US President Donald Trump says \"we are very close to a deal\" Talks between Israel and Hamas have been held in Egypt for three days",
-        "• Talks focused on a ceasefire, the release of hostages in Gaza in exchange for Palestinian prisoners "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.877
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Progress in Gaza peace talks as US President Donald Trump says \"we are very close to a deal\" Talks between Israel and Hamas have been held in Egypt for three days",
-          "• Talks focused on a ceasefire, the release of hostages in Gaza in exchange for Palestinian prisoners "
-        ],
-        "hopeful_bullets": [
-          "• Progress in Gaza peace talks as US President Donald Trump says \"we are very close to a deal\" Talks between Israel and Hamas have been held in Egypt for three days"
-        ],
-        "stakes_bullets": [
-          "• Progress in Gaza peace talks as US President Donald Trump says \"we are very close to a deal\" Talks between Israel and Hamas have been held in Egypt for three days",
-          "• Talks focused on a ceasefire, the release of hostages in Gaza in exchange for Palestinian prisoners "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "a171aff1363c"
-    },
-    {
-      "id": "d6f61ceb4f54",
-      "title": "Every Ted Lasso Fan Must Watch This 4-Season Masterpiece With 98% on Rotten Tomatoes",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ted-lasso-fan-must-watch-brockmire/",
-      "published_at": "Wed, 08 Oct 2025 21:40:12 GMT",
-      "bullets": [
-        "• Everyone loves a good comeback story, and if the popularity of Ted Lasso is any indication, it’s that audiences particularly love it whenever one is tied to some kind of sports setting",
-        "• The series instead takes the viewer into the world of broadcasting as its titular main character, Jim Brockmire, looks to climb his way back after a massive fall from grace "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Everyone loves a good comeback story, and if the popularity of Ted Lasso is any indication, it’s that audiences particularly love it whenever one is tied to some kind of sports setting",
-          "• The series instead takes the viewer into the world of broadcasting as its titular main character, Jim Brockmire, looks to climb his way back after a massive fall from grace "
-        ],
-        "hopeful_bullets": [
-          "• Everyone loves a good comeback story, and if the popularity of Ted Lasso is any indication, it’s that audiences particularly love it whenever one is tied to some kind of sports setting",
-          "• The series instead takes the viewer into the world of broadcasting as its titular main character, Jim Brockmire, looks to climb his way back after a massive fall from grace "
-        ],
-        "stakes_bullets": [
-          "• Everyone loves a good comeback story, and if the popularity of Ted Lasso is any indication, it’s that audiences particularly love it whenever one is tied to some kind of sports setting",
-          "• The series instead takes the viewer into the world of broadcasting as its titular main character, Jim Brockmire, looks to climb his way back after a massive fall from grace "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "0d3fd0eb13a0"
-    },
-    {
       "id": "09309c07f9cd",
       "title": "Sony’s System 6 Offers Cinematic Sound for a Massive Prime Day Discount",
       "outlet": "WIRED",
@@ -955,6 +665,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "2d3f304121e4"
+    },
+    {
+      "id": "52c715aef196",
+      "title": "Escaped New Orleans inmate captured after 5 months on the run",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2p816z4zgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 08 Oct 2025 21:35:47 GMT",
+      "bullets": [
+        "• Escaped New Orleans inmate captured after 5 months on the run",
+        "• 10 inmates broke out of New Orleans jail in May",
+        "• Derrick Groves, 28, was taken into custody in Atlanta, Georgia, after a brief stand-off",
+        "• Police released several gas canisters into a house where he was believed to be hiding "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Escaped New Orleans inmate captured after 5 months on the run",
+          "• 10 inmates broke out of New Orleans jail in May"
+        ],
+        "hopeful_bullets": [
+          "• Escaped New Orleans inmate captured after 5 months on the run",
+          "• 10 inmates broke out of New Orleans jail in May"
+        ],
+        "stakes_bullets": [
+          "• Escaped New Orleans inmate captured after 5 months on the run",
+          "• 10 inmates broke out of New Orleans jail in May",
+          "• Derrick Groves, 28, was taken into custody in Atlanta, Georgia, after a brief stand-off"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2b58074ad0de"
     },
     {
       "id": "b9b72b1cab09",
@@ -1417,37 +1162,6 @@
       "cluster_id": "79c0e691ff85"
     },
     {
-      "id": "63fa3f768207",
-      "title": "We Found 217 of the Best Prime Day Deals Still on for 2025: Up To 55% Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
-      "published_at": "Wed, 08 Oct 2025 20:48:03 +0000",
-      "bullets": [
-        "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
-        "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
-          "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
-        ],
-        "hopeful_bullets": [
-          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong"
-        ],
-        "stakes_bullets": [
-          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
-          "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
-        ]
-      },
-      "read_minutes": 50,
-      "cluster_id": "efaa9ee5027b"
-    },
-    {
       "id": "678092a36de5",
       "title": "Kiss’ Gene Simmons Recovering After Crashing Into a Parked Car",
       "outlet": "Music News",
@@ -1810,6 +1524,41 @@
       "cluster_id": "7e7b666e804b"
     },
     {
+      "id": "f51a3e5c8cc5",
+      "title": "At the Supreme Court, the case of the candidate who sued, even though he won",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/08/nx-s1-5567186/at-the-supreme-court-the-case-of-the-candidate-who-sued-even-though-he-won",
+      "published_at": "Wed, 08 Oct 2025 19:51:00 -0400",
+      "bullets": [
+        "• Rep",
+        "• Michael Bost, R-Ill",
+        "• challenged a ballot count that allows ballots mailed in by Election Day to be counted for up to 14 days after polls close",
+        "• The lower courts ruled against Bost after finding that he failed to show he was individually harmed by the ballot regulation",
+        "• Chief Justice John Roberts and Justice Elena Kagan were not buying Bost's case "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rep",
+          "• Michael Bost, R-Ill"
+        ],
+        "hopeful_bullets": [
+          "• The lower courts ruled against Bost after finding that he failed to show he was individually harmed by the ballot regulation"
+        ],
+        "stakes_bullets": [
+          "• Rep",
+          "• Michael Bost, R-Ill",
+          "• challenged a ballot count that allows ballots mailed in by Election Day to be counted for up to 14 days after polls close"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0469e18e8154"
+    },
+    {
       "id": "82f1b643db05",
       "title": "Google adds limits to 'Work from Anywhere' policy that began during Covid",
       "outlet": "US Top News and Analysis",
@@ -1980,29 +1729,28 @@
       "published_at": "Wed, 08 Oct 2025 19:24:36 -0400",
       "bullets": [
         "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
-        "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
+        "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" It is not clear when the ceasefire is due to take effect "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.923
       },
       "moods": {
         "brief_bullets": [
           "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
-          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
+          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" It is not clear when the ceasefire is due to take effect "
         ],
         "hopeful_bullets": [
           "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
-          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
+          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" It is not clear when the ceasefire is due to take effect "
         ],
         "stakes_bullets": [
-          "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
-          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
+          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" It is not clear when the ceasefire is due to take effect "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "5eea748c0ab7"
+      "read_minutes": 4,
+      "cluster_id": "1af183b33426"
     },
     {
       "id": "2ffdd3caccf9",
@@ -2168,40 +1916,6 @@
       "cluster_id": "2a0910b8c3a8"
     },
     {
-      "id": "c1b74cb8ef8a",
-      "title": "Man charged with starting Palisades fire that killed 12 people",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/08/palisades-fire-florida-arrest",
-      "published_at": "Wed, 08 Oct 2025 18:39:50 GMT",
-      "bullets": [
-        "• Jonathan Rinderknecht, 29, was arrested near his Florida residence on federal charges of destruction of property by means of fire",
-        "• No motive was given for the fire that killed 12 people and destroyed more than 6,800 structures",
-        "• Investigators allege he maliciously started what became the Lachman fire on New Year’s Day "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jonathan Rinderknecht, 29, was arrested near his Florida residence on federal charges of destruction of property by means of fire",
-          "• No motive was given for the fire that killed 12 people and destroyed more than 6,800 structures"
-        ],
-        "hopeful_bullets": [
-          "• Jonathan Rinderknecht, 29, was arrested near his Florida residence on federal charges of destruction of property by means of fire",
-          "• No motive was given for the fire that killed 12 people and destroyed more than 6,800 structures"
-        ],
-        "stakes_bullets": [
-          "• Jonathan Rinderknecht, 29, was arrested near his Florida residence on federal charges of destruction of property by means of fire",
-          "• No motive was given for the fire that killed 12 people and destroyed more than 6,800 structures",
-          "• Investigators allege he maliciously started what became the Lachman fire on New Year’s Day "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "37077423e323"
-    },
-    {
       "id": "052c3c502346",
       "title": "Ethan Hawke Returns as The Grabber in ‘Black Phone 2’ Featurette",
       "outlet": "Bloody Disgusting!",
@@ -2302,74 +2016,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8ff0402a44bc"
-    },
-    {
-      "id": "f8ab4d7a0d23",
-      "title": "Texas charges eight people over links to midwife accused of illegal abortions",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/08/texas-abortion-charges-midwife",
-      "published_at": "Wed, 08 Oct 2025 18:30:50 GMT",
-      "bullets": [
-        "• Maria Rojas was the first person to be charged under Texas laws that outlaw virtually all abortions",
-        "• She is now facing three counts of performing an abortion and 12 counts of practicing medicine without a license",
-        "• Attorney General Ken Paxton called the individuals \"a cabal of abortion-loving radicals\" and \"fake doctors\""
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Maria Rojas was the first person to be charged under Texas laws that outlaw virtually all abortions",
-          "• She is now facing three counts of performing an abortion and 12 counts of practicing medicine without a license"
-        ],
-        "hopeful_bullets": [
-          "• Maria Rojas was the first person to be charged under Texas laws that outlaw virtually all abortions",
-          "• She is now facing three counts of performing an abortion and 12 counts of practicing medicine without a license"
-        ],
-        "stakes_bullets": [
-          "• Maria Rojas was the first person to be charged under Texas laws that outlaw virtually all abortions",
-          "• She is now facing three counts of performing an abortion and 12 counts of practicing medicine without a license",
-          "• Attorney General Ken Paxton called the individuals \"a cabal of abortion-loving radicals\" and \"fake doctors\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d3c6b9600696"
-    },
-    {
-      "id": "4dabcdc74cf1",
-      "title": "US shutdown deadlock deepens as senators reject competing bills",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/08/us-government-shutdown-deadlock",
-      "published_at": "Wed, 08 Oct 2025 18:27:14 GMT",
-      "bullets": [
-        "• Senators again fail to pass bills to reopen government funding",
-        "• Staff shortages reported at airports across the US as well as air traffic control centers",
-        "• Congress has been unable to pass a bill to reopen the government",
-        "• The US government has been in shutdown mode for eight days since January 1 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senators again fail to pass bills to reopen government funding",
-          "• Staff shortages reported at airports across the US as well as air traffic control centers"
-        ],
-        "hopeful_bullets": [
-          "• Senators again fail to pass bills to reopen government funding",
-          "• Staff shortages reported at airports across the US as well as air traffic control centers"
-        ],
-        "stakes_bullets": [
-          "• Senators again fail to pass bills to reopen government funding",
-          "• Congress has been unable to pass a bill to reopen the government"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "aa9102678975"
     },
     {
       "id": "0ef3ab42e36c",
@@ -2498,70 +2144,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "f6c8bea79bd0"
-    },
-    {
-      "id": "179a12a7d993",
-      "title": "31-year-old kept renting years after she made millions—why she decided to buy a home now",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/08/31yearold-kept-renting-even-after-she-made-millions-why-she-chose-to-buy-a-home-now.html",
-      "published_at": "Wed, 08 Oct 2025 17:40:31 GMT",
-      "bullets": [
-        "• Tori Dunlap, the author and entrepreneur behind Her First $100k, has attributed renting to helping her build her business and achieve multimillionaire status",
-        "• At 27, she put all her belongings into storage and spent the year traveling the world, something that would have been much more difficult had she owned a home "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tori Dunlap, the author and entrepreneur behind Her First $100k, has attributed renting to helping her build her business and achieve multimillionaire status",
-          "• At 27, she put all her belongings into storage and spent the year traveling the world, something that would have been much more difficult had she owned a home "
-        ],
-        "hopeful_bullets": [
-          "• Tori Dunlap, the author and entrepreneur behind Her First $100k, has attributed renting to helping her build her business and achieve multimillionaire status"
-        ],
-        "stakes_bullets": [
-          "• Tori Dunlap, the author and entrepreneur behind Her First $100k, has attributed renting to helping her build her business and achieve multimillionaire status",
-          "• At 27, she put all her belongings into storage and spent the year traveling the world, something that would have been much more difficult had she owned a home "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "7b3fab4f9a51"
-    },
-    {
-      "id": "36cbf2af624a",
-      "title": "AMD's deal with OpenAI gives Nvidia much-needed challenger in market it dominates",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/08/amd-deal-with-openai-gives-nvidia-a-needed-challenger-in-ai-chips.html",
-      "published_at": "Wed, 08 Oct 2025 17:35:47 GMT",
-      "bullets": [
-        "• AMD announced a deal on Monday that involves selling many billions of dollars worth of AI chips to OpenAI",
-        "• Nvidia controls over 90% of the market for graphics processing units used for artificial intelligence workloads",
-        "• AMD has a low-single-digit share in the $250 billion market for AI data center silicon, analyst says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AMD announced a deal on Monday that involves selling many billions of dollars worth of AI chips to OpenAI",
-          "• Nvidia controls over 90% of the market for graphics processing units used for artificial intelligence workloads"
-        ],
-        "hopeful_bullets": [
-          "• AMD announced a deal on Monday that involves selling many billions of dollars worth of AI chips to OpenAI",
-          "• Nvidia controls over 90% of the market for graphics processing units used for artificial intelligence workloads"
-        ],
-        "stakes_bullets": [
-          "• AMD announced a deal on Monday that involves selling many billions of dollars worth of AI chips to OpenAI",
-          "• AMD has a low-single-digit share in the $250 billion market for AI data center silicon, analyst says "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "bb770f0c73df"
     },
     {
       "id": "d1eb1d010d0b",
@@ -2797,6 +2379,38 @@
       "cluster_id": "b597b3716d25"
     },
     {
+      "id": "0a3b1083dc7c",
+      "title": "Ex-FBI director James Comey pleads not guilty to lying to Congress",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy4r3xj78dpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 08 Oct 2025 16:32:00 GMT",
+      "bullets": [
+        "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding",
+        "• His lawyer Patrick Fitzgerald said he would seek to have the case dismissed for several reasons including that his client, a critic of President Donald Trump, was being targeted",
+        "• A judge set a trial date of 5 January after Mr Comey's lawyers requested a speedy trial "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding",
+          "• His lawyer Patrick Fitzgerald said he would seek to have the case dismissed for several reasons including that his client, a critic of President Donald Trump, was being targeted"
+        ],
+        "hopeful_bullets": [
+          "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding",
+          "• His lawyer Patrick Fitzgerald said he would seek to have the case dismissed for several reasons including that his client, a critic of President Donald Trump, was being targeted"
+        ],
+        "stakes_bullets": [
+          "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8ab642dd30f6"
+    },
+    {
       "id": "1286663bcba7",
       "title": "Gorillaz Enlist Trueno and Late D12 Rapper Proof for New Song ‘The Manifesto’",
       "outlet": "Music News",
@@ -2864,38 +2478,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "c50a5f26bc5e"
-    },
-    {
-      "id": "36dde4f2ae11",
-      "title": "Vandals deface ads for AI necklaces that listen to all your conversations",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/vandals-deface-ads-for-ai-necklaces-that-listen-to-all-your-conversations/",
-      "published_at": "Wed, 08 Oct 2025 16:07:29 +0000",
-      "bullets": [
-        "• A New York subway ad promoting a wearable AI pendant has been defaced by vandals",
-        "• The ad, called Friend, was designed to monitor a user's everyday conversations and serve as a companion \"who listens, responds, and supports you\" The ad is now part of a huge online archive collecting defaced ads that the Friend campaign inspired "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A New York subway ad promoting a wearable AI pendant has been defaced by vandals",
-          "• The ad, called Friend, was designed to monitor a user's everyday conversations and serve as a companion \"who listens, responds, and supports you\" The ad is now part of a huge online archive collecting defaced ads that the Friend campaign inspired "
-        ],
-        "hopeful_bullets": [
-          "• A New York subway ad promoting a wearable AI pendant has been defaced by vandals",
-          "• The ad, called Friend, was designed to monitor a user's everyday conversations and serve as a companion \"who listens, responds, and supports you\" The ad is now part of a huge online archive collecting defaced ads that the Friend campaign inspired "
-        ],
-        "stakes_bullets": [
-          "• A New York subway ad promoting a wearable AI pendant has been defaced by vandals",
-          "• The ad, called Friend, was designed to monitor a user's everyday conversations and serve as a companion \"who listens, responds, and supports you\" The ad is now part of a huge online archive collecting defaced ads that the Friend campaign inspired "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7abbf0a3d0a1"
     },
     {
       "id": "bdbe2bf5718b",
@@ -3501,40 +3083,6 @@
       "cluster_id": "b4b58b8e3223"
     },
     {
-      "id": "99b935bf5f3a",
-      "title": "250 Greatest Songs of the 21st Century So Far",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/the-250-greatest-songs-of-the-21st-century-so-far-shell-1235442995/",
-      "published_at": "Wed, 08 Oct 2025 14:32:30 +0000",
-      "bullets": [
-        "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
-        "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles",
-        "• There’s reggaeton and K-pop and drill and crunk, country and Afrobeats "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
-          "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles"
-        ],
-        "hopeful_bullets": [
-          "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
-          "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles"
-        ],
-        "stakes_bullets": [
-          "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
-          "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles",
-          "• There’s reggaeton and K-pop and drill and crunk, country and Afrobeats "
-        ]
-      },
-      "read_minutes": 29,
-      "cluster_id": "948be2dd60e1"
-    },
-    {
       "id": "15e6eeb496db",
       "title": "Yungblud Fires Back at ‘Bitter and Jealous’ Critics of VMA’s Ozzy Osbourne Tribute",
       "outlet": "Music News",
@@ -3855,133 +3403,36 @@
       "cluster_id": "7c79b8bcfc48"
     },
     {
-      "id": "6db26b8c77ea",
-      "title": "A MacArthur 'genius' gleans surprising lessons from ancient bones, shards and trash",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/08/nx-s1-5558168/macarthur-genius-climate-change-environment-archaeology",
-      "published_at": "Wed, 08 Oct 2025 12:01:27 -0400",
-      "bullets": [
-        "• Kristina Douglass received the $800,000 award for her research into how past human societies and environments co-evolved and adapted to climate variability",
-        "• She conducts much of her fieldwork in southwest Madagascar, \"a place where the coral reef, very clear blue waters, meet a dry desert vegetation scape,\" she says "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kristina Douglass received the $800,000 award for her research into how past human societies and environments co-evolved and adapted to climate variability",
-          "• She conducts much of her fieldwork in southwest Madagascar, \"a place where the coral reef, very clear blue waters, meet a dry desert vegetation scape,\" she says "
-        ],
-        "hopeful_bullets": [
-          "• Kristina Douglass received the $800,000 award for her research into how past human societies and environments co-evolved and adapted to climate variability"
-        ],
-        "stakes_bullets": [
-          "• Kristina Douglass received the $800,000 award for her research into how past human societies and environments co-evolved and adapted to climate variability",
-          "• She conducts much of her fieldwork in southwest Madagascar, \"a place where the coral reef, very clear blue waters, meet a dry desert vegetation scape,\" she says "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "4b8a0e48a832"
-    },
-    {
       "id": "53b68c40089a",
       "title": "Thinkers, dreamers, doers: Here's who made the 2025 MacArthur Fellow list",
       "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/08/nx-s1-5553390/macarthur-fellow-genius-grant-2025",
       "published_at": "Wed, 08 Oct 2025 12:01:00 -0400",
       "bullets": [
+        "• A cartographer, a composer, an archaeologist, a neurobiologist and an astrophysicist are among this year's MacArthur Fellows",
         "• Each Fellow will receive a no-strings attached award of $800,000",
-        "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\" It's a selection process that takes \"many months and sometimes years,\" says Marlies Carruth "
+        "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\""
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.986
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• Each Fellow will receive a no-strings attached award of $800,000",
-          "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\" It's a selection process that takes \"many months and sometimes years,\" says Marlies Carruth "
+          "• A cartographer, a composer, an archaeologist, a neurobiologist and an astrophysicist are among this year's MacArthur Fellows",
+          "• Each Fellow will receive a no-strings attached award of $800,000"
         ],
         "hopeful_bullets": [
           "• Each Fellow will receive a no-strings attached award of $800,000",
-          "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\" It's a selection process that takes \"many months and sometimes years,\" says Marlies Carruth "
+          "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\""
         ],
         "stakes_bullets": [
           "• Each Fellow will receive a no-strings attached award of $800,000"
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "58632c25973b"
-    },
-    {
-      "id": "1a0677976452",
-      "title": "At least 24 killed as army paraglider bombs Myanmar Buddhist festival",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cge2l1xj2zdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 11:52:14 GMT",
-      "bullets": [
-        "• At least 24 people have been killed and injured in Myanmar's latest attack",
-        "• The attack comes as the country continues to fight back against the government",
-        "• It is the latest in a long line of attacks by the government in the country's long-suffering military "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 24 people have been killed and injured in Myanmar's latest attack",
-          "• The attack comes as the country continues to fight back against the government"
-        ],
-        "hopeful_bullets": [
-          "• The attack comes as the country continues to fight back against the government"
-        ],
-        "stakes_bullets": [
-          "• At least 24 people have been killed and injured in Myanmar's latest attack",
-          "• The attack comes as the country continues to fight back against the government",
-          "• It is the latest in a long line of attacks by the government in the country's long-suffering military "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2f332c5e6ab4"
-    },
-    {
-      "id": "9e2b33105435",
-      "title": "Israeli forces intercept new aid flotilla bound for Gaza",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyn9qp9v11o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 10:53:48 GMT",
-      "bullets": [
-        "• Israeli forces intercept new aid flotilla bound for Gaza with food and medical supplies",
-        "• The fleet, made up of nine vessels and 150 people, was stopped in international waters",
-        "• Last week, Israel's military stopped a 42-boat aid convoy with 479 pro-Palestinian activists on board "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israeli forces intercept new aid flotilla bound for Gaza with food and medical supplies",
-          "• The fleet, made up of nine vessels and 150 people, was stopped in international waters"
-        ],
-        "hopeful_bullets": [
-          "• Israeli forces intercept new aid flotilla bound for Gaza with food and medical supplies",
-          "• The fleet, made up of nine vessels and 150 people, was stopped in international waters"
-        ],
-        "stakes_bullets": [
-          "• Israeli forces intercept new aid flotilla bound for Gaza with food and medical supplies",
-          "• The fleet, made up of nine vessels and 150 people, was stopped in international waters",
-          "• Last week, Israel's military stopped a 42-boat aid convoy with 479 pro-Palestinian activists on board "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3ccce2ebdec1"
     },
     {
       "id": "626dbc1ff4e4",
@@ -4014,7 +3465,7 @@
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "080f03578dea"
+      "cluster_id": "8ab642dd30f6"
     },
     {
       "id": "2428db96d4d2",
@@ -6178,68 +5629,6 @@
       "cluster_id": "de631f7845cb"
     },
     {
-      "id": "10170fc9583f",
-      "title": "The Salem Chronicles arrives 10/21 On Demand and Digital",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/the-salem-chronicles-arrives-10-21-on-demand-and-digital/",
-      "published_at": "Thu, 25 Sep 2025 18:19:14 +0000",
-      "bullets": [
-        "• Trailer: The Salem Chronicles (2025) Official Trailer – Nathan Kehn, Gina Vitori",
-        "• The deadly witches and sorcery of centuries past are alive and seeking revenge in New England’s most notorious town",
-        "• A young detective returns to his childhood home in Salem, Massachusetts to settle the estate of his mother "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.947
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trailer: The Salem Chronicles (2025) Official Trailer – Nathan Kehn, Gina Vitori",
-          "• The deadly witches and sorcery of centuries past are alive and seeking revenge in New England’s most notorious town"
-        ],
-        "hopeful_bullets": [
-          "• Trailer: The Salem Chronicles (2025) Official Trailer – Nathan Kehn, Gina Vitori",
-          "• The deadly witches and sorcery of centuries past are alive and seeking revenge in New England’s most notorious town"
-        ],
-        "stakes_bullets": [
-          "• Trailer: The Salem Chronicles (2025) Official Trailer – Nathan Kehn, Gina Vitori",
-          "• The deadly witches and sorcery of centuries past are alive and seeking revenge in New England’s most notorious town",
-          "• A young detective returns to his childhood home in Salem, Massachusetts to settle the estate of his mother "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "324091cf1d82"
-    },
-    {
-      "id": "aeb8159239dd",
-      "title": "Official Poster: Melon Heads – House of Crow",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/official-poster-melon-heads-house-of-crow/",
-      "published_at": "Thu, 25 Sep 2025 18:17:23 +0000",
-      "bullets": [
-        "• Horror Society gave The Curse of Lilith Ratchet a 9 out of 10 deeming it a classic gory haunting you don’t want to miss! Scaretissue magazine said that Scarred is a total 80’s throwback with in your face kills with a Highly recommendation stamped on it!"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Horror Society gave The Curse of Lilith Ratchet a 9 out of 10 deeming it a classic gory haunting you don’t want to miss! Scaretissue magazine said that Scarred is a total 80’s throwback with in your face kills with a Highly recommendation stamped on it!"
-        ],
-        "hopeful_bullets": [
-          "• Horror Society gave The Curse of Lilith Ratchet a 9 out of 10 deeming it a classic gory haunting you don’t want to miss! Scaretissue magazine said that Scarred is a total 80’s throwback with in your face kills with a Highly recommendation stamped on it!"
-        ],
-        "stakes_bullets": [
-          "• Horror Society gave The Curse of Lilith Ratchet a 9 out of 10 deeming it a classic gory haunting you don’t want to miss! Scaretissue magazine said that Scarred is a total 80’s throwback with in your face kills with a Highly recommendation stamped on it!"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "998e145d8e57"
-    },
-    {
       "id": "20c2cf6df9de",
       "title": "From problem to possibility: how your attention can improve your life",
       "outlet": "Positive News",
@@ -6403,39 +5792,702 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
-      "id": "1a238085abcd",
-      "title": "The First Look at John Lithgow's Dumbledore Confirms Major Changes to the Classic Harry Potter Story",
+      "id": "f14cf53dd447",
+      "title": "Edgar Wright Called Mad Max: Fury Road 'the Best Action Film of All Time'",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/hbo-harry-potter-john-lithgow-dumbledore-nicholas-flamel-changes/",
-      "published_at": "Thu, 09 Oct 2025 00:00:13 GMT",
+      "url": "https://www.cbr.com/edgar-wright-called-mad-max-fury-best-action-film/",
+      "published_at": "Thu, 09 Oct 2025 02:20:12 GMT",
       "bullets": [
-        "• The first Harry Potter film was released in theaters 25 years ago",
-        "• The seminal film series concluded in 2011, and Warner Bros",
-        "• attempted to revive the franchise with the Fantastic Beasts films",
-        "• HBO is now on a mission to retell the Harry Potter story through the lens of television "
+        "• George Miller's Mad Max franchise is a stunning example of post-apocalyptic fiction",
+        "• Fury Road was originally conceived in 1987, although the movie suffered numerous obstacles that prevented production until 2012",
+        "• The movie received ten nominations and six Academy Awards, in addition to being considered one of the greatest movies of the 21st century "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.965
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• The first Harry Potter film was released in theaters 25 years ago",
-          "• The seminal film series concluded in 2011, and Warner Bros"
+          "• George Miller's Mad Max franchise is a stunning example of post-apocalyptic fiction",
+          "• Fury Road was originally conceived in 1987, although the movie suffered numerous obstacles that prevented production until 2012"
         ],
         "hopeful_bullets": [
-          "• The first Harry Potter film was released in theaters 25 years ago",
-          "• The seminal film series concluded in 2011, and Warner Bros"
+          "• The movie received ten nominations and six Academy Awards, in addition to being considered one of the greatest movies of the 21st century "
         ],
         "stakes_bullets": [
-          "• The first Harry Potter film was released in theaters 25 years ago",
-          "• The seminal film series concluded in 2011, and Warner Bros",
-          "• attempted to revive the franchise with the Fantastic Beasts films"
+          "• George Miller's Mad Max franchise is a stunning example of post-apocalyptic fiction",
+          "• Fury Road was originally conceived in 1987, although the movie suffered numerous obstacles that prevented production until 2012",
+          "• The movie received ten nominations and six Academy Awards, in addition to being considered one of the greatest movies of the 21st century "
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "c3931509b016"
+      "cluster_id": "bfdcffdfde8a"
+    },
+    {
+      "id": "0353454f3e0e",
+      "title": "10 Best Isekai Anime That Aren’t Just Generic Fantasy Shows (We Promise)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-isekai-anime-without-fantasy-tropes/",
+      "published_at": "Thu, 09 Oct 2025 02:17:08 GMT",
+      "bullets": [
+        "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
+        "• The classic Digimon Adventure anime was much more than just another monster-raising story",
+        "• While fantasy aspects are still present in some works, it's done in a way that still feels fresh and unique "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
+          "• The classic Digimon Adventure anime was much more than just another monster-raising story"
+        ],
+        "hopeful_bullets": [
+          "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
+          "• The classic Digimon Adventure anime was much more than just another monster-raising story"
+        ],
+        "stakes_bullets": [
+          "• The isekai anime genre might be one of the most popular and ubiquitous in the medium, but some fans have become tired of it",
+          "• The classic Digimon Adventure anime was much more than just another monster-raising story",
+          "• While fantasy aspects are still present in some works, it's done in a way that still feels fresh and unique "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "8630f7c5f8c3"
+    },
+    {
+      "id": "7e49a86119da",
+      "title": "Travis Kelce Reacts to Taylor Swift’s Song ‘Wood,’ That’s About His… ‘Redwood Tree’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/travis-kelce-taylor-swift-wood-song-life-of-a-showgirl-1235443618/",
+      "published_at": "Thu, 09 Oct 2025 02:15:01 +0000",
+      "bullets": [
+        "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl",
+        "• The Kansas City Chiefs tight end said he thought the song was about his own appendage",
+        "• Swift revealed that she played the highly suggestive track for her mother "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.635
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl",
+          "• The Kansas City Chiefs tight end said he thought the song was about his own appendage"
+        ],
+        "hopeful_bullets": [
+          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl"
+        ],
+        "stakes_bullets": [
+          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl",
+          "• The Kansas City Chiefs tight end said he thought the song was about his own appendage",
+          "• Swift revealed that she played the highly suggestive track for her mother "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2b8f955dc53e"
+    },
+    {
+      "id": "2a9022aaddbf",
+      "title": "Stay Review: Huluween Delivers a Smart but Slow-Paced Haunted House Horror",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/stay-movie-hulu-review/",
+      "published_at": "Thu, 09 Oct 2025 01:55:53 GMT",
+      "bullets": [
+        "• Stay is a darker and more mature take on horror, just in time for Huluween",
+        "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama",
+        "• Blending elements of African spiritualism, ghost stories and moody character-centric pieces of the independent golden age "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stay is a darker and more mature take on horror, just in time for Huluween",
+          "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama"
+        ],
+        "hopeful_bullets": [
+          "• Stay is a darker and more mature take on horror, just in time for Huluween",
+          "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama"
+        ],
+        "stakes_bullets": [
+          "• Stay is a darker and more mature take on horror, just in time for Huluween",
+          "• Written and directed by Jas Summers, Stay is equal parts haunted house, supernatural thriller, and devastating family drama",
+          "• Blending elements of African spiritualism, ghost stories and moody character-centric pieces of the independent golden age "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "4d85de9e1170"
+    },
+    {
+      "id": "6ef1a45a6925",
+      "title": "Israel, Hamas agree to first phase of Gaza peace plan, allowing release of hostages and prisoners",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-allowing-release-of-hostages-.html",
+      "published_at": "Thu, 09 Oct 2025 01:52:40 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan",
+        "• The preliminary agreement was confirmed by Israeli officials, Hamas and mediator Qatar",
+        "• Israeli Prime Minister Benjamin Netanyahu thanked Trump on X and said that with approval of the plan, all our hostages will be brought home "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump announced Wednesday night that Israel and Hamas had agreed on the first phase of a peace plan",
+          "• Israeli Prime Minister Benjamin Netanyahu thanked Trump on X and said that with approval of the plan, all our hostages will be brought home "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1af183b33426"
+    },
+    {
+      "id": "c21d70eec7d1",
+      "title": "White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/08/donald-trump-james-comey-justice-department-national-guard-chicago-antifa-government-shutdown-us-politics-live-news-updates",
+      "published_at": "Thu, 09 Oct 2025 01:48:59 GMT",
+      "bullets": [
+        "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
+        "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.913
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
+          "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
+        ],
+        "hopeful_bullets": [
+          "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
+        ],
+        "stakes_bullets": [
+          "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
+          "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "8d3f78d366fd"
+    },
+    {
+      "id": "7ec1f7c779f1",
+      "title": "Cristina Fernández de Kirchner: Argentinian court sentences man to 10 years for attempted assassination",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/09/cristina-fernandez-de-kirchner-former-argentinian-president-attempted-assassination-court-sentences-man",
+      "published_at": "Thu, 09 Oct 2025 01:43:33 GMT",
+      "bullets": [
+        "• A court in Buenos Aires has sentenced a man to 10 years in prison for attempting to kill a woman",
+        "• The woman's accomplice has also been sentenced to eight years in jail",
+        "• She was found guilty of trying to kill the woman in a bid to keep her own life alive "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A court in Buenos Aires has sentenced a man to 10 years in prison for attempting to kill a woman",
+          "• The woman's accomplice has also been sentenced to eight years in jail"
+        ],
+        "hopeful_bullets": [
+          "• A court in Buenos Aires has sentenced a man to 10 years in prison for attempting to kill a woman",
+          "• The woman's accomplice has also been sentenced to eight years in jail"
+        ],
+        "stakes_bullets": [
+          "• A court in Buenos Aires has sentenced a man to 10 years in prison for attempting to kill a woman",
+          "• The woman's accomplice has also been sentenced to eight years in jail",
+          "• She was found guilty of trying to kill the woman in a bid to keep her own life alive "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "29887c181b8c"
+    },
+    {
+      "id": "81684dd4c82e",
+      "title": "A Gaza ceasefire deal could be Trump’s biggest diplomatic achievement – but the devil is in the detail",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/09/gaza-ceasefire-deal-trump-biggest-diplomatic-achievement-what-detail",
+      "published_at": "Thu, 09 Oct 2025 01:41:12 GMT",
+      "bullets": [
+        "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
+        "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
+          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+        ],
+        "hopeful_bullets": [
+          "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
+          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+        ],
+        "stakes_bullets": [
+          "• The details and sequencing of a deal to end Israel’s war in Gaza remain murky but the statement of purpose by both Israel and Hamas is meaningful",
+          "• In agreeing to a deal with political backing from Arab states and other regional powers, this is the best chance for an end to the war since a ceasefire broke down in March "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "88d6c1737e2b"
+    },
+    {
+      "id": "4e1843201e98",
+      "title": "The Walking Dead's New Villain Is the Negan Replacement Fans Have Been Begging For",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-walking-dead-negan-replacement-fede/",
+      "published_at": "Thu, 09 Oct 2025 01:40:12 GMT",
+      "bullets": [
+        "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
+        "• This installment has been widely praised by critics and viewers alike",
+        "• In typical Walking Dead fashion, the plot is slowly revealing details about Fede "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
+          "• This installment has been widely praised by critics and viewers alike"
+        ],
+        "hopeful_bullets": [
+          "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
+          "• This installment has been widely praised by critics and viewers alike"
+        ],
+        "stakes_bullets": [
+          "• In The Walking Dead: Daryl Dixon Season 3, Episode 5, \"Limbo,\" Daryl goes on a solo mission to bring a captured Solaz del Mar citizen back from El Alcazar in Barcelona",
+          "• This installment has been widely praised by critics and viewers alike",
+          "• In typical Walking Dead fashion, the plot is slowly revealing details about Fede "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "8d47b3d23a0e"
+    },
+    {
+      "id": "aa4588d7206e",
+      "title": "10 Ridiculous Dragon Ball GT Storylines We Can’t Believe Made It On Screen",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-gt-weirdest-storylines/",
+      "published_at": "Thu, 09 Oct 2025 01:25:12 GMT",
+      "bullets": [
+        "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
+        "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions",
+        "• Some Dragon Ball's exploration of Sugoroku Space, a board game-esque purgatory, is especially awkward "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.852
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
+          "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions"
+        ],
+        "hopeful_bullets": [
+          "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
+          "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions"
+        ],
+        "stakes_bullets": [
+          "• Dragon Ball GT takes some time to find its footing, but it still has a lot to offer",
+          "• Some of the franchise's more interesting moments stem from some of its more controversial and polarizing decisions",
+          "• Some Dragon Ball's exploration of Sugoroku Space, a board game-esque purgatory, is especially awkward "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "d01a91ad5594"
+    },
+    {
+      "id": "3bfc9d086ddf",
+      "title": "David Cronenberg's 20-Year-Old, Oscar-Nominated Crime Thriller Is Secretly A DC Movie Masterpiece",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/david-cronenberg-a-history-of-violence-dc-movie-masterpiece/",
+      "published_at": "Thu, 09 Oct 2025 01:25:12 GMT",
+      "bullets": [
+        "• A History of Violence was released in 2005",
+        "• It is one of the best comic book movies of all time",
+        "• The film is based on a graphic novel from the same publisher that inspired the film",
+        "• It was released by the same company that produced the film in 1997 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A History of Violence was released in 2005",
+          "• It is one of the best comic book movies of all time"
+        ],
+        "hopeful_bullets": [
+          "• A History of Violence was released in 2005",
+          "• It is one of the best comic book movies of all time"
+        ],
+        "stakes_bullets": [
+          "• A History of Violence was released in 2005",
+          "• It is one of the best comic book movies of all time",
+          "• The film is based on a graphic novel from the same publisher that inspired the film"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "32df547b7ba0"
+    },
+    {
+      "id": "a9b672f2eea9",
+      "title": "SoftBank shares soar 13% after it agrees to buy ABB robotics unit for $5.4 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
+      "published_at": "Thu, 09 Oct 2025 01:25:03 GMT",
+      "bullets": [
+        "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+        "• Shares of SoftBank jumped as much as 13% Thursday, hours after the deal was announced",
+        "• SoftBank founder Masayoshi Son has looked to position SoftBank at the center of the potential AI boom "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.607
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+          "• Shares of SoftBank jumped as much as 13% Thursday, hours after the deal was announced"
+        ],
+        "hopeful_bullets": [
+          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+          "• Shares of SoftBank jumped as much as 13% Thursday, hours after the deal was announced"
+        ],
+        "stakes_bullets": [
+          "• SoftBank buys robotics division of Swiss engineering firm ABB for $5.4 billion",
+          "• Shares of SoftBank jumped as much as 13% Thursday, hours after the deal was announced",
+          "• SoftBank founder Masayoshi Son has looked to position SoftBank at the center of the potential AI boom "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "26f20e78d259"
+    },
+    {
+      "id": "c12cefd617f5",
+      "title": "Senate Republicans vote against check on Trump using deadly force against cartels",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/08/senate-republicans-trump-deadly-force-cartels",
+      "published_at": "Thu, 09 Oct 2025 01:19:46 GMT",
+      "bullets": [
+        "• The vote fell mostly along party lines, 48-51, with two Republicans voting in favor and one Democrat voting against",
+        "• It was the first vote in Congress on Trump’s military campaign against drug cartels",
+        "• The White House has so far destroyed four vessels, killed at least 21 people and stopped narcotics reaching US "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The vote fell mostly along party lines, 48-51, with two Republicans voting in favor and one Democrat voting against",
+          "• It was the first vote in Congress on Trump’s military campaign against drug cartels"
+        ],
+        "hopeful_bullets": [
+          "• The vote fell mostly along party lines, 48-51, with two Republicans voting in favor and one Democrat voting against",
+          "• It was the first vote in Congress on Trump’s military campaign against drug cartels"
+        ],
+        "stakes_bullets": [
+          "• The vote fell mostly along party lines, 48-51, with two Republicans voting in favor and one Democrat voting against",
+          "• It was the first vote in Congress on Trump’s military campaign against drug cartels",
+          "• The White House has so far destroyed four vessels, killed at least 21 people and stopped narcotics reaching US "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "95b4b130d486"
+    },
+    {
+      "id": "1421d81fad9a",
+      "title": "1 Year Later, Monsters: The Menendez Brothers Story Remains Netflix's Biggest Misstep",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/monsters-the-menendez-brothers-netflix-biggest-mistake/",
+      "published_at": "Thu, 09 Oct 2025 01:01:12 GMT",
+      "bullets": [
+        "• Netflix has had several major streaming hits over the years, with the 2020s being particularly kind to the platform",
+        "• This era has seen several successes come and go, with a few of these being more notorious than others",
+        "• Ryan Murphy's Monster anthology series The Jeffrey Dahmer Story is premiering its third season "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix has had several major streaming hits over the years, with the 2020s being particularly kind to the platform",
+          "• This era has seen several successes come and go, with a few of these being more notorious than others"
+        ],
+        "hopeful_bullets": [
+          "• Netflix has had several major streaming hits over the years, with the 2020s being particularly kind to the platform",
+          "• This era has seen several successes come and go, with a few of these being more notorious than others"
+        ],
+        "stakes_bullets": [
+          "• Netflix has had several major streaming hits over the years, with the 2020s being particularly kind to the platform",
+          "• This era has seen several successes come and go, with a few of these being more notorious than others",
+          "• Ryan Murphy's Monster anthology series The Jeffrey Dahmer Story is premiering its third season "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "9532e99696ab"
+    },
+    {
+      "id": "63fa3f768207",
+      "title": "We Found 265 of the Best Prime Day Deals Still on for 2025: Up To 55% Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
+      "published_at": "Thu, 09 Oct 2025 00:55:29 +0000",
+      "bullets": [
+        "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
+        "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
+          "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
+        ],
+        "hopeful_bullets": [
+          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong"
+        ],
+        "stakes_bullets": [
+          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
+          "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
+        ]
+      },
+      "read_minutes": 54,
+      "cluster_id": "85a0fc742e12"
+    },
+    {
+      "id": "7c2bb04a8566",
+      "title": "Nintendo's $4.5 Million Reddit Lawsuit Shows a Troubling Trend",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/nintendo-45-million-reddit-lawsuit-trend/",
+      "published_at": "Thu, 09 Oct 2025 00:45:12 GMT",
+      "bullets": [
+        "• Nintendo is in the midst of a legal battle against a Reddit moderator",
+        "• The company is seeking $4.5 million in damages",
+        "• It's understandable that a company like Nintendo would want to crack down on piracy, but the move is a bridge too far "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nintendo is in the midst of a legal battle against a Reddit moderator",
+          "• The company is seeking $4.5 million in damages"
+        ],
+        "hopeful_bullets": [
+          "• Nintendo is in the midst of a legal battle against a Reddit moderator"
+        ],
+        "stakes_bullets": [
+          "• Nintendo is in the midst of a legal battle against a Reddit moderator",
+          "• The company is seeking $4.5 million in damages",
+          "• It's understandable that a company like Nintendo would want to crack down on piracy, but the move is a bridge too far "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2fd781aeea21"
+    },
+    {
+      "id": "061bec053f00",
+      "title": "8 Reasons Its Tough to Watch the Lord of the Rings Trilogy Today",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/lord-of-the-rings-trilogy-tough-to-watch-today-list/",
+      "published_at": "Thu, 09 Oct 2025 00:20:12 GMT",
+      "bullets": [
+        "• The Lord of the Rings remains one of the most popular fantasy movie franchises of all time",
+        "• Peter Jackson did a spectacular job of condensing the story without straying too far from the main plotline",
+        "• Many fans were frustrated by the excisions of far too many book sequences "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Lord of the Rings remains one of the most popular fantasy movie franchises of all time",
+          "• Peter Jackson did a spectacular job of condensing the story without straying too far from the main plotline"
+        ],
+        "hopeful_bullets": [
+          "• The Lord of the Rings remains one of the most popular fantasy movie franchises of all time",
+          "• Peter Jackson did a spectacular job of condensing the story without straying too far from the main plotline"
+        ],
+        "stakes_bullets": [
+          "• The Lord of the Rings remains one of the most popular fantasy movie franchises of all time",
+          "• Peter Jackson did a spectacular job of condensing the story without straying too far from the main plotline",
+          "• Many fans were frustrated by the excisions of far too many book sequences "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "b3552f26ad18"
+    },
+    {
+      "id": "a2977fb29d65",
+      "title": "Trump says Israel and Hamas 'sign off' on first phase of Gaza peace plan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 00:17:34 GMT",
+      "bullets": [
+        "• Israel and Hamas agree to end two-year conflict in Gaza",
+        "• Agreement reached after three days of talks in Egypt, Qatar and Israel",
+        "• Agreement does not include future governance of Gaza and other issues",
+        "• Agreement is expected to be signed by Israel and the United States "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel and Hamas agree to end two-year conflict in Gaza",
+          "• Agreement reached after three days of talks in Egypt, Qatar and Israel"
+        ],
+        "hopeful_bullets": [
+          "• Israel and Hamas agree to end two-year conflict in Gaza",
+          "• Agreement reached after three days of talks in Egypt, Qatar and Israel"
+        ],
+        "stakes_bullets": [
+          "• Agreement is expected to be signed by Israel and the United States "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c4d1d2e9736b"
+    },
+    {
+      "id": "ef1a08daabf5",
+      "title": "FORGIVE US ALL |  NEO-WESTERN APOCALYPTIC HORROR",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/forgive-us-all-neo-western-apocalyptic-horror/",
+      "published_at": "Thu, 09 Oct 2025 00:16:25 +0000",
+      "bullets": [
+        "• Post-apocalyptic thriller Forgive Us All will be released in the UK & Ireland from October 13th October",
+        "• The film stars Lily Sullivan, Callan Mulvey & Richard Roxburgh",
+        "• It was shot entirely in Queenstown, New Zealand, with a production budget of $10m "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.872
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Post-apocalyptic thriller Forgive Us All will be released in the UK & Ireland from October 13th October",
+          "• The film stars Lily Sullivan, Callan Mulvey & Richard Roxburgh"
+        ],
+        "hopeful_bullets": [
+          "• Post-apocalyptic thriller Forgive Us All will be released in the UK & Ireland from October 13th October",
+          "• The film stars Lily Sullivan, Callan Mulvey & Richard Roxburgh"
+        ],
+        "stakes_bullets": [
+          "• Post-apocalyptic thriller Forgive Us All will be released in the UK & Ireland from October 13th October"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "57c54d8ed83c"
+    },
+    {
+      "id": "dc6d5af1fb03",
+      "title": "Solo Leveling Sequel Reveals Jinwoo’s Son Will Never Match His Dad’s Aura",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/solo-leveling-ragnarok-sung-suho-shadow-armor-jinwoo-aura-farming/",
+      "published_at": "Thu, 09 Oct 2025 00:15:12 GMT",
+      "bullets": [
+        "• Solo Leveling: Ragnarok Chapter 58 picks up at the climax of Sung Suho’s fight against Hwang Dongsoo",
+        "• In order to augment his strength, Suho crafts a full set of Shadow Armor using his Shadow Creation skill "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Solo Leveling: Ragnarok Chapter 58 picks up at the climax of Sung Suho’s fight against Hwang Dongsoo",
+          "• In order to augment his strength, Suho crafts a full set of Shadow Armor using his Shadow Creation skill "
+        ],
+        "hopeful_bullets": [
+          "• Solo Leveling: Ragnarok Chapter 58 picks up at the climax of Sung Suho’s fight against Hwang Dongsoo"
+        ],
+        "stakes_bullets": [
+          "• Solo Leveling: Ragnarok Chapter 58 picks up at the climax of Sung Suho’s fight against Hwang Dongsoo",
+          "• In order to augment his strength, Suho crafts a full set of Shadow Armor using his Shadow Creation skill "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "59f5832d1628"
+    },
+    {
+      "id": "6781107aa578",
+      "title": "Kaitlyn Trentham of Jester 2 Joins A Soldier’s Descent",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/kaitlyn-trentham-of-jester-2-joins-a-soldiers-descent/",
+      "published_at": "Thu, 09 Oct 2025 00:10:53 +0000",
+      "bullets": [
+        "• Kaitlyn Trentham of Jester 2 has joined the cast of Phil Herman's upcoming horror horror film A Soldier’s Descent",
+        "• The film is set to be released on Apple+ streaming October 17",
+        "• Over 15 Veterans are involved in the production as part of the cast and crew "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kaitlyn Trentham of Jester 2 has joined the cast of Phil Herman's upcoming horror horror film A Soldier’s Descent",
+          "• The film is set to be released on Apple+ streaming October 17"
+        ],
+        "hopeful_bullets": [
+          "• Kaitlyn Trentham of Jester 2 has joined the cast of Phil Herman's upcoming horror horror film A Soldier’s Descent",
+          "• The film is set to be released on Apple+ streaming October 17"
+        ],
+        "stakes_bullets": [
+          "• Kaitlyn Trentham of Jester 2 has joined the cast of Phil Herman's upcoming horror horror film A Soldier’s Descent",
+          "• The film is set to be released on Apple+ streaming October 17",
+          "• Over 15 Veterans are involved in the production as part of the cast and crew "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3bc372a82b8a"
     },
     {
       "id": "dfa71b9e1765",
@@ -7534,72 +7586,6 @@
       "cluster_id": "cf0e4b6d9070"
     },
     {
-      "id": "a11d1b629027",
-      "title": "Brazil’s president asks US to scrap tariffs in ‘friendly’ call with Trump",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/06/brazil-president-lula-trump-tariffs-sanctions",
-      "published_at": "Mon, 06 Oct 2025 16:55:11 GMT",
-      "bullets": [
-        "• Donald Trump and Brazil's president hold phone call after months of friction",
-        "• Trump and Lula have been trying to pressure Lula to withdraw support for Brazil’s far-right leader",
-        "• Lula was sentenced to 27 years in prison last month after being found guilty of the crime "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump and Brazil's president hold phone call after months of friction",
-          "• Trump and Lula have been trying to pressure Lula to withdraw support for Brazil’s far-right leader"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump and Brazil's president hold phone call after months of friction",
-          "• Trump and Lula have been trying to pressure Lula to withdraw support for Brazil’s far-right leader"
-        ],
-        "stakes_bullets": [
-          "• Trump and Lula have been trying to pressure Lula to withdraw support for Brazil’s far-right leader"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "621860942f4d"
-    },
-    {
-      "id": "5de7ddb9ebfe",
-      "title": "Rush reform for first time since drummer Neil Peart’s death",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/music/2025/oct/06/rush-reform-for-first-time-since-drummer-neil-peart-death-annika-nilles",
-      "published_at": "Mon, 06 Oct 2025 16:47:31 GMT",
-      "bullets": [
-        "• Geddy Lee and Alex Lifeson, both 72, will tour US, Canada and Mexico",
-        "• They will play seven concerts in summer 2026 beginning in Los Angeles on 7 June",
-        "• Lee promises a ‘vast selection of songs’ from the band’s 19 studio albums "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Geddy Lee and Alex Lifeson, both 72, will tour US, Canada and Mexico",
-          "• They will play seven concerts in summer 2026 beginning in Los Angeles on 7 June"
-        ],
-        "hopeful_bullets": [
-          "• Geddy Lee and Alex Lifeson, both 72, will tour US, Canada and Mexico",
-          "• They will play seven concerts in summer 2026 beginning in Los Angeles on 7 June"
-        ],
-        "stakes_bullets": [
-          "• Geddy Lee and Alex Lifeson, both 72, will tour US, Canada and Mexico",
-          "• They will play seven concerts in summer 2026 beginning in Los Angeles on 7 June",
-          "• Lee promises a ‘vast selection of songs’ from the band’s 19 studio albums "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ce572d517bd5"
-    },
-    {
       "id": "b1317ad5c886",
       "title": "Horror Highlights: PREDATOR: BADLANDS, CHATTER, HALF-O-WEEN, HIM",
       "outlet": "Daily Dead",
@@ -8438,6 +8424,206 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "22d9b6f3b274",
+      "title": "Prime Day ends soon, but these deals are still going at Walmart",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025",
+      "published_at": "2025-10-08T21:15:49-04:00",
+      "bullets": [
+        "• Amazon's Prime Day event ends soon, but these deals are still going at Walmart",
+        "• Walmart’s sale event, simply called “Walmart Deals,” runs through Sunday, October 12th",
+        "• There are great deals below on gaming products, 4K TVs, laptops, and more "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon's Prime Day event ends soon, but these deals are still going at Walmart",
+          "• Walmart’s sale event, simply called “Walmart Deals,” runs through Sunday, October 12th"
+        ],
+        "hopeful_bullets": [
+          "• Amazon's Prime Day event ends soon, but these deals are still going at Walmart",
+          "• Walmart’s sale event, simply called “Walmart Deals,” runs through Sunday, October 12th"
+        ],
+        "stakes_bullets": [
+          "• Amazon's Prime Day event ends soon, but these deals are still going at Walmart",
+          "• Walmart’s sale event, simply called “Walmart Deals,” runs through Sunday, October 12th",
+          "• There are great deals below on gaming products, 4K TVs, laptops, and more "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e6c7bd7fadc6"
+    },
+    {
+      "id": "a6c5b7ac13f3",
+      "title": "Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale",
+      "published_at": "2025-10-08T21:15:41-04:00",
+      "bullets": [
+        "• Amazon is hosting a lot of good deals during October Prime Day, but it can’t compete with Dell when it comes to its sale on the Alienware AW2725Q",
+        "• The 27-inch 4K QD-OLED gaming monitor is $699.99 right now",
+        "• It has sold at a similar price before, but discounts have been infrequent these past several months "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.954
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon is hosting a lot of good deals during October Prime Day, but it can’t compete with Dell when it comes to its sale on the Alienware AW2725Q",
+          "• The 27-inch 4K QD-OLED gaming monitor is $699.99 right now"
+        ],
+        "hopeful_bullets": [
+          "• Amazon is hosting a lot of good deals during October Prime Day, but it can’t compete with Dell when it comes to its sale on the Alienware AW2725Q",
+          "• The 27-inch 4K QD-OLED gaming monitor is $699.99 right now"
+        ],
+        "stakes_bullets": [
+          "• Amazon is hosting a lot of good deals during October Prime Day, but it can’t compete with Dell when it comes to its sale on the Alienware AW2725Q",
+          "• The 27-inch 4K QD-OLED gaming monitor is $699.99 right now",
+          "• It has sold at a similar price before, but discounts have been infrequent these past several months "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9589136d7d50"
+    },
+    {
+      "id": "57c5eaa21a1d",
+      "title": "These great October Prime Day deals on laptops won’t last much longer",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
+      "published_at": "2025-10-08T21:05:58-04:00",
+      "bullets": [
+        "• Amazon Prime Day is October 9th and ends at 3am ET / 12am PT",
+        "• There are sales on MacBooks, various Windows laptops, and a few gaming laptops",
+        "• The best MacBooks include Apple, MacBook Air, MacBook Pro, and MacBook Air "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon Prime Day is October 9th and ends at 3am ET / 12am PT",
+          "• There are sales on MacBooks, various Windows laptops, and a few gaming laptops"
+        ],
+        "hopeful_bullets": [
+          "• There are sales on MacBooks, various Windows laptops, and a few gaming laptops"
+        ],
+        "stakes_bullets": [
+          "• Amazon Prime Day is October 9th and ends at 3am ET / 12am PT",
+          "• There are sales on MacBooks, various Windows laptops, and a few gaming laptops",
+          "• The best MacBooks include Apple, MacBook Air, MacBook Pro, and MacBook Air "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "f3db9de4f579"
+    },
+    {
+      "id": "a9b7d2a27787",
+      "title": "The 225 best last-minute Prime Day deals you can still grab",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+      "published_at": "2025-10-08T20:46:06-04:00",
+      "bullets": [
+        "• The last-minute Prime Day deals are closing in on Amazon's October Prime Day sale",
+        "• Most of the best deals should still be available through midnight tonight",
+        "• Some deals will enter a brief hibernation ahead of Black Friday and Cyber Monday",
+        "• The majority of our recommendations have been thoroughly tested by Verge writers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The last-minute Prime Day deals are closing in on Amazon's October Prime Day sale",
+          "• Most of the best deals should still be available through midnight tonight"
+        ],
+        "hopeful_bullets": [
+          "• The last-minute Prime Day deals are closing in on Amazon's October Prime Day sale",
+          "• Most of the best deals should still be available through midnight tonight"
+        ],
+        "stakes_bullets": [
+          "• Some deals will enter a brief hibernation ahead of Black Friday and Cyber Monday"
+        ]
+      },
+      "read_minutes": 59,
+      "cluster_id": "497ed3929ee9"
+    },
+    {
+      "id": "016ef7596716",
+      "title": "My go-to Switch 2 accessories are still available for October Prime Day",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day",
+      "published_at": "2025-10-08T20:03:03-04:00",
+      "bullets": [
+        "• There are just a few hours remaining in Amazon’s October Prime Day sale",
+        "• While the console itself isn’t discounted, a number of recommended add-ons are still on sale for their best price to date",
+        "• These include microSD Express cards, carrying cases, controllers, screen protectors, and more "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.713
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There are just a few hours remaining in Amazon’s October Prime Day sale",
+          "• While the console itself isn’t discounted, a number of recommended add-ons are still on sale for their best price to date"
+        ],
+        "hopeful_bullets": [
+          "• There are just a few hours remaining in Amazon’s October Prime Day sale",
+          "• While the console itself isn’t discounted, a number of recommended add-ons are still on sale for their best price to date"
+        ],
+        "stakes_bullets": [
+          "• There are just a few hours remaining in Amazon’s October Prime Day sale",
+          "• While the console itself isn’t discounted, a number of recommended add-ons are still on sale for their best price to date",
+          "• These include microSD Express cards, carrying cases, controllers, screen protectors, and more "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5b16c5a21c3e"
+    },
+    {
+      "id": "0546c4b60028",
+      "title": "You still have time to save on Verge-favorite gadgets before Prime Day ends",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025",
+      "published_at": "2025-10-08T19:58:35-04:00",
+      "bullets": [
+        "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+        "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+          "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
+        ],
+        "hopeful_bullets": [
+          "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+          "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
+        ],
+        "stakes_bullets": [
+          "• All of the deals we’ve recommended from Prime Big Deal Days are for products our team has tested and can personally vouch for",
+          "• However, there are also plenty of other gadgets that the Verge staff genuinely loves that don’t receive a dedicated review or a slot in one of our buying guides "
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "7f445ff1b92a"
+    },
+    {
       "id": "d2e03fcb6d61",
       "title": "I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now",
       "outlet": "The Verge",
@@ -8571,204 +8757,7 @@
         ]
       },
       "read_minutes": 17,
-      "cluster_id": "3ca61e7508f3"
-    },
-    {
-      "id": "298c7fca5447",
-      "title": "Our favorite batteries and chargers are on sale for October Prime Day",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025",
-      "published_at": "2025-10-08T18:46:59-04:00",
-      "bullets": [
-        "• Our favorite batteries and chargers are on sale for October Prime Day",
-        "• Beefy power banks, 3-in-1 magnetic chargers, and durable cables are all discounted for Prime Big Deal Days",
-        "• Many of the discounted charging accessories listed below are compatible with Google’s latest handsets, as well as newer iPhone models "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Our favorite batteries and chargers are on sale for October Prime Day",
-          "• Beefy power banks, 3-in-1 magnetic chargers, and durable cables are all discounted for Prime Big Deal Days"
-        ],
-        "hopeful_bullets": [
-          "• Our favorite batteries and chargers are on sale for October Prime Day",
-          "• Beefy power banks, 3-in-1 magnetic chargers, and durable cables are all discounted for Prime Big Deal Days"
-        ],
-        "stakes_bullets": [
-          "• Beefy power banks, 3-in-1 magnetic chargers, and durable cables are all discounted for Prime Big Deal Days"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "c6380c6f3c19"
-    },
-    {
-      "id": "e75abb2e4939",
-      "title": "You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
-      "published_at": "2025-10-08T18:43:15-04:00",
-      "bullets": [
-        "• Many of the discounts below will presumably expire when the clock strikes 3AM ET tonight",
-        "• You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
-        "• The Eufy X10 Pro Omni, our favorite midrange robovac / mop, is down to $499.99 ($400 off) at Amazon (with Prime)"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Many of the discounts below will presumably expire when the clock strikes 3AM ET tonight",
-          "• You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now"
-        ],
-        "hopeful_bullets": [
-          "• Many of the discounts below will presumably expire when the clock strikes 3AM ET tonight",
-          "• You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now"
-        ],
-        "stakes_bullets": [
-          "• Many of the discounts below will presumably expire when the clock strikes 3AM ET tonight"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "d4b12d92ec9a"
-    },
-    {
-      "id": "c7bc4a3d2311",
-      "title": "We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025",
-      "published_at": "2025-10-08T18:37:38-04:00",
-      "bullets": [
-        "• We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
-        "• Headphones, Bluetooth trackers, smart speakers, Bluetooth speakers, and more are discounted through the end of today",
-        "• The Amazon Fire TV Stick 4K is 50 percent off, coming in at just $24.99 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
-          "• Headphones, Bluetooth trackers, smart speakers, Bluetooth speakers, and more are discounted through the end of today"
-        ],
-        "hopeful_bullets": [
-          "• We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
-          "• Headphones, Bluetooth trackers, smart speakers, Bluetooth speakers, and more are discounted through the end of today"
-        ],
-        "stakes_bullets": [
-          "• We handpicked 30 last-minute Prime Day deals you can still grab for under $25",
-          "• Headphones, Bluetooth trackers, smart speakers, Bluetooth speakers, and more are discounted through the end of today",
-          "• The Amazon Fire TV Stick 4K is 50 percent off, coming in at just $24.99 "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "9ec18a087177"
-    },
-    {
-      "id": "8726267a1fd4",
-      "title": "Several Apple products are cheaper than usual now that fall Prime Day&#8217;s almost over",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025",
-      "published_at": "2025-10-08T18:29:22-04:00",
-      "bullets": [
-        "• Amazon’s October Prime Day event is still trucking through the end of the day",
-        "• Amazon is offering steep discounts on a variety of last-gen Apple devices",
-        "• The Apple Watch Series 10, for example, is down to $279, matching the low price we saw in July "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon’s October Prime Day event is still trucking through the end of the day",
-          "• Amazon is offering steep discounts on a variety of last-gen Apple devices"
-        ],
-        "hopeful_bullets": [
-          "• Amazon’s October Prime Day event is still trucking through the end of the day",
-          "• Amazon is offering steep discounts on a variety of last-gen Apple devices"
-        ],
-        "stakes_bullets": [
-          "• Amazon’s October Prime Day event is still trucking through the end of the day",
-          "• Amazon is offering steep discounts on a variety of last-gen Apple devices",
-          "• The Apple Watch Series 10, for example, is down to $279, matching the low price we saw in July "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "79ddc6175dd7"
-    },
-    {
-      "id": "4901930aa5a8",
-      "title": "We found 30-odd October Prime Day deals we love for $100 or less",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/795989/amazon-october-prime-day-best-cheap-tech-deals-under-100-2025",
-      "published_at": "2025-10-08T18:15:00-04:00",
-      "bullets": [
-        "• Some of the best deals we’ve seen this year will set you back less than $100",
-        "• The AirPods 4, Fire HD 10 Tablet, and Ring Battery Doorbell Plus are three great examples",
-        "• Many items are under $50 (or even $25!) so you can stock up on chargers, earbuds, media streamers, and other accessories "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some of the best deals we’ve seen this year will set you back less than $100",
-          "• The AirPods 4, Fire HD 10 Tablet, and Ring Battery Doorbell Plus are three great examples"
-        ],
-        "hopeful_bullets": [
-          "• Some of the best deals we’ve seen this year will set you back less than $100",
-          "• The AirPods 4, Fire HD 10 Tablet, and Ring Battery Doorbell Plus are three great examples"
-        ],
-        "stakes_bullets": [
-          "• Some of the best deals we’ve seen this year will set you back less than $100"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "f6b68a15cf52"
-    },
-    {
-      "id": "a9b7d2a27787",
-      "title": "The 222 best October Prime Day deals",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
-      "published_at": "2025-10-08T18:01:24-04:00",
-      "bullets": [
-        "• Amazon Prime Day runs until Thursday at 3AM ET / 12AM PT",
-        "• Many of the deals will enter a brief hibernation ahead of Black Friday and Cyber Monday",
-        "• We've included the best deals we could find on everything from noise-canceling headphones to robot vacuums "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon Prime Day runs until Thursday at 3AM ET / 12AM PT",
-          "• Many of the deals will enter a brief hibernation ahead of Black Friday and Cyber Monday"
-        ],
-        "hopeful_bullets": [
-          "• Amazon Prime Day runs until Thursday at 3AM ET / 12AM PT",
-          "• Many of the deals will enter a brief hibernation ahead of Black Friday and Cyber Monday"
-        ],
-        "stakes_bullets": [
-          "• Many of the deals will enter a brief hibernation ahead of Black Friday and Cyber Monday",
-          "• We've included the best deals we could find on everything from noise-canceling headphones to robot vacuums "
-        ]
-      },
-      "read_minutes": 59,
-      "cluster_id": "e0ed14c9f803"
+      "cluster_id": "f3db9de4f579"
     },
     {
       "id": "c41ff758b36a",
@@ -9132,44 +9121,27 @@
       },
       "read_minutes": 3,
       "cluster_id": "fd873c5292d9"
-    },
-    {
-      "id": "fea211984f52",
-      "title": "Wicked: For Good final trailer",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/259980830-Wicked-For-Good-final-trailer",
-      "published_at": null,
-      "bullets": [
-        "• Wicked: For Good final trailer released September 24, 2025",
-        "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21",
-        "• Elphaba, now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest",
-        "• Glinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Wicked: For Good final trailer released September 24, 2025",
-          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21"
-        ],
-        "hopeful_bullets": [
-          "• Wicked: For Good final trailer released September 24, 2025",
-          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21"
-        ],
-        "stakes_bullets": [
-          "• Wicked: For Good final trailer released September 24, 2025",
-          "• Musical starring Ariana Grande and Cynthia Erivo opens in theaters November 21",
-          "• Elphaba, now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "55fabe335e50"
     }
   ],
   "clusters": [
+    {
+      "id": "c4d1d2e9736b",
+      "topic": "first hama israel off",
+      "keywords": [
+        "first",
+        "hama",
+        "israel",
+        "off",
+        "sign",
+        "trump"
+      ],
+      "item_ids": [
+        "a2977fb29d65"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
     {
       "id": "79c0e691ff85",
       "topic": "french hour macron minister",
@@ -9189,54 +9161,39 @@
       ]
     },
     {
-      "id": "a171aff1363c",
-      "topic": "gaza peace progres talk",
+      "id": "8ab642dd30f6",
+      "topic": "comey director fbi former",
       "keywords": [
-        "gaza",
-        "peace",
-        "progres",
-        "talk",
-        "trump",
-        "very"
+        "comey",
+        "director",
+        "fbi",
+        "former",
+        "guilty",
+        "jame",
+        "plead"
       ],
       "item_ids": [
-        "aed60da5687b"
+        "0a3b1083dc7c",
+        "626dbc1ff4e4"
       ],
       "outlets": [
-        "BBC News"
+        "BBC News",
+        "NPR Topics: Politics"
       ]
     },
     {
-      "id": "3ccce2ebdec1",
-      "topic": "aid bound flotilla force",
+      "id": "2b58074ad0de",
+      "topic": "captured escaped inmate month",
       "keywords": [
-        "aid",
-        "bound",
-        "flotilla",
-        "force",
-        "intercept",
-        "israeli"
+        "captured",
+        "escaped",
+        "inmate",
+        "month",
+        "orlean",
+        "run"
       ],
       "item_ids": [
-        "9e2b33105435"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "2f332c5e6ab4",
-      "topic": "army bomb killed least",
-      "keywords": [
-        "army",
-        "bomb",
-        "killed",
-        "least",
-        "myanmar",
-        "paraglider"
-      ],
-      "item_ids": [
-        "1a0677976452"
+        "52c715aef196"
       ],
       "outlets": [
         "BBC News"
@@ -9441,6 +9398,42 @@
       ]
     },
     {
+      "id": "29887c181b8c",
+      "topic": "argentinian court cristina fern",
+      "keywords": [
+        "argentinian",
+        "court",
+        "cristina",
+        "fern",
+        "kirchner",
+        "ndez"
+      ],
+      "item_ids": [
+        "7ec1f7c779f1"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
+      "id": "95b4b130d486",
+      "topic": "against check republican senate",
+      "keywords": [
+        "against",
+        "check",
+        "republican",
+        "senate",
+        "trump",
+        "vote"
+      ],
+      "item_ids": [
+        "c12cefd617f5"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "c62e1c8047c7",
       "topic": "curfew deadly impose jamaica",
       "keywords": [
@@ -9495,42 +9488,6 @@
       ]
     },
     {
-      "id": "621860942f4d",
-      "topic": "asks brazil friendly president",
-      "keywords": [
-        "asks",
-        "brazil",
-        "friendly",
-        "president",
-        "scrap",
-        "tariff"
-      ],
-      "item_ids": [
-        "a11d1b629027"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "ce572d517bd5",
-      "topic": "drummer first reform rush",
-      "keywords": [
-        "drummer",
-        "first",
-        "reform",
-        "rush",
-        "since",
-        "time"
-      ],
-      "item_ids": [
-        "5de7ddb9ebfe"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
       "id": "8d3f78d366fd",
       "topic": "conservative give house influencer",
       "keywords": [
@@ -9543,6 +9500,42 @@
       ],
       "item_ids": [
         "c21d70eec7d1"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "88d6c1737e2b",
+      "topic": "biggest ceasefire deal diplomatic",
+      "keywords": [
+        "biggest",
+        "ceasefire",
+        "deal",
+        "diplomatic",
+        "gaza",
+        "trump"
+      ],
+      "item_ids": [
+        "81684dd4c82e"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "cba519a87a1e",
+      "topic": "reed routine trump visit",
+      "keywords": [
+        "reed",
+        "routine",
+        "trump",
+        "visit",
+        "walter",
+        "yearly"
+      ],
+      "item_ids": [
+        "b0a11159a74b"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9641,60 +9634,6 @@
       ]
     },
     {
-      "id": "37077423e323",
-      "topic": "charged fire killed man",
-      "keywords": [
-        "charged",
-        "fire",
-        "killed",
-        "man",
-        "palisade",
-        "starting"
-      ],
-      "item_ids": [
-        "c1b74cb8ef8a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d3c6b9600696",
-      "topic": "charge eight link midwife",
-      "keywords": [
-        "charge",
-        "eight",
-        "link",
-        "midwife",
-        "people",
-        "texa"
-      ],
-      "item_ids": [
-        "f8ab4d7a0d23"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "aa9102678975",
-      "topic": "competing deadlock deepen reject",
-      "keywords": [
-        "competing",
-        "deadlock",
-        "deepen",
-        "reject",
-        "senator",
-        "shutdown"
-      ],
-      "item_ids": [
-        "4dabcdc74cf1"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "bc044215324e",
       "topic": "end medicine nhs pay",
       "keywords": [
@@ -9713,7 +9652,25 @@
       ]
     },
     {
-      "id": "5eea748c0ab7",
+      "id": "0469e18e8154",
+      "topic": "candidate case court even",
+      "keywords": [
+        "candidate",
+        "case",
+        "court",
+        "even",
+        "sued",
+        "supreme"
+      ],
+      "item_ids": [
+        "f51a3e5c8cc5"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "1af183b33426",
       "topic": "agree first gaza hama",
       "keywords": [
         "agree",
@@ -9724,10 +9681,12 @@
         "phase"
       ],
       "item_ids": [
-        "915f21f2e20d"
+        "915f21f2e20d",
+        "6ef1a45a6925"
       ],
       "outlets": [
-        "NPR Topics: News"
+        "NPR Topics: News",
+        "US Top News and Analysis"
       ]
     },
     {
@@ -9875,24 +9834,6 @@
       ]
     },
     {
-      "id": "4b8a0e48a832",
-      "topic": "ancient geniu glean lesson",
-      "keywords": [
-        "ancient",
-        "geniu",
-        "glean",
-        "lesson",
-        "macarthur",
-        "surprising"
-      ],
-      "item_ids": [
-        "6db26b8c77ea"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "10920c773f58",
       "topic": "another divided fed interest",
       "keywords": [
@@ -9941,6 +9882,24 @@
       ],
       "item_ids": [
         "82f1b643db05"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "26f20e78d259",
+      "topic": "abb agree buy share",
+      "keywords": [
+        "abb",
+        "agree",
+        "buy",
+        "share",
+        "soar",
+        "softbank"
+      ],
+      "item_ids": [
+        "a9b672f2eea9"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10019,39 +9978,21 @@
       ]
     },
     {
-      "id": "7b3fab4f9a51",
-      "topic": "kept made old renting",
+      "id": "85a0fc742e12",
+      "topic": "265 best day deal",
       "keywords": [
-        "kept",
-        "made",
-        "old",
-        "renting",
-        "she",
-        "year"
-      ],
-      "item_ids": [
-        "179a12a7d993"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "bb770f0c73df",
-      "topic": "amd deal give much",
-      "keywords": [
-        "amd",
+        "265",
+        "best",
+        "day",
         "deal",
-        "give",
-        "much",
-        "nvidia",
-        "openai"
+        "found",
+        "prime"
       ],
       "item_ids": [
-        "36cbf2af624a"
+        "63fa3f768207"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10146,24 +10087,6 @@
       ]
     },
     {
-      "id": "efaa9ee5027b",
-      "topic": "217 best day deal",
-      "keywords": [
-        "217",
-        "best",
-        "day",
-        "deal",
-        "found",
-        "prime"
-      ],
-      "item_ids": [
-        "63fa3f768207"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "e15359236298",
       "topic": "eversweet max now off",
       "keywords": [
@@ -10215,6 +10138,116 @@
       ],
       "outlets": [
         "WIRED"
+      ]
+    },
+    {
+      "id": "e6c7bd7fadc6",
+      "topic": "day deal ends prime",
+      "keywords": [
+        "day",
+        "deal",
+        "ends",
+        "prime",
+        "soon",
+        "these"
+      ],
+      "item_ids": [
+        "22d9b6f3b274"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "9589136d7d50",
+      "topic": "alienware gaming inch incredible",
+      "keywords": [
+        "alienware",
+        "gaming",
+        "inch",
+        "incredible",
+        "monitor",
+        "oled"
+      ],
+      "item_ids": [
+        "a6c5b7ac13f3"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "f3db9de4f579",
+      "topic": "day deal great october",
+      "keywords": [
+        "day",
+        "deal",
+        "great",
+        "october",
+        "prime",
+        "these",
+        "under"
+      ],
+      "item_ids": [
+        "57c5eaa21a1d",
+        "20a602511d88"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "497ed3929ee9",
+      "topic": "225 best day last",
+      "keywords": [
+        "225",
+        "best",
+        "day",
+        "last",
+        "minute",
+        "prime"
+      ],
+      "item_ids": [
+        "a9b7d2a27787"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "5b16c5a21c3e",
+      "topic": "accessorie available october prime",
+      "keywords": [
+        "accessorie",
+        "available",
+        "october",
+        "prime",
+        "still",
+        "switch"
+      ],
+      "item_ids": [
+        "016ef7596716"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "7f445ff1b92a",
+      "topic": "favorite gadget save still",
+      "keywords": [
+        "favorite",
+        "gadget",
+        "save",
+        "still",
+        "time",
+        "verge"
+      ],
+      "item_ids": [
+        "0546c4b60028"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10272,129 +10305,21 @@
       ]
     },
     {
-      "id": "3ca61e7508f3",
-      "topic": "day deal october prime",
+      "id": "a0d1175d7bf9",
+      "topic": "cuts mission nasa saved",
       "keywords": [
-        "day",
-        "deal",
-        "october",
-        "prime",
-        "these",
-        "under"
+        "cuts",
+        "mission",
+        "nasa",
+        "saved",
+        "science",
+        "trump"
       ],
       "item_ids": [
-        "20a602511d88"
+        "82656a54da64"
       ],
       "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "c6380c6f3c19",
-      "topic": "batterie charger favorite october",
-      "keywords": [
-        "batterie",
-        "charger",
-        "favorite",
-        "october",
-        "prime",
-        "sale"
-      ],
-      "item_ids": [
-        "298c7fca5447"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "d4b12d92ec9a",
-      "topic": "750 dreame dyson off",
-      "keywords": [
-        "750",
-        "dreame",
-        "dyson",
-        "off",
-        "robovac",
-        "score"
-      ],
-      "item_ids": [
-        "e75abb2e4939"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9ec18a087177",
-      "topic": "day deal handpicked last",
-      "keywords": [
-        "day",
-        "deal",
-        "handpicked",
-        "last",
-        "minute",
-        "prime"
-      ],
-      "item_ids": [
-        "c7bc4a3d2311"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "79ddc6175dd7",
-      "topic": "apple cheaper now product",
-      "keywords": [
-        "apple",
-        "cheaper",
-        "now",
-        "product",
-        "several",
-        "usual"
-      ],
-      "item_ids": [
-        "8726267a1fd4"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "f6b68a15cf52",
-      "topic": "day deal found october",
-      "keywords": [
-        "day",
-        "deal",
-        "found",
-        "october",
-        "odd",
-        "prime"
-      ],
-      "item_ids": [
-        "4901930aa5a8"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "e0ed14c9f803",
-      "topic": "222 best day deal",
-      "keywords": [
-        "222",
-        "best",
-        "day",
-        "deal",
-        "october",
-        "prime"
-      ],
-      "item_ids": [
-        "a9b7d2a27787"
-      ],
-      "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10554,24 +10479,6 @@
       ],
       "item_ids": [
         "cfc7db4b7a5c"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "7abbf0a3d0a1",
-      "topic": "ads all deface listen",
-      "keywords": [
-        "ads",
-        "all",
-        "deface",
-        "listen",
-        "necklace",
-        "vandal"
-      ],
-      "item_ids": [
-        "36dde4f2ae11"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10914,24 +10821,6 @@
       ],
       "outlets": [
         "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "080f03578dea",
-      "topic": "comey director fbi former",
-      "keywords": [
-        "comey",
-        "director",
-        "fbi",
-        "former",
-        "guilty",
-        "plead"
-      ],
-      "item_ids": [
-        "626dbc1ff4e4"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
       ]
     },
     {
@@ -11661,22 +11550,6 @@
       ]
     },
     {
-      "id": "55fabe335e50",
-      "topic": "final good trailer wicked",
-      "keywords": [
-        "final",
-        "good",
-        "trailer",
-        "wicked"
-      ],
-      "item_ids": [
-        "fea211984f52"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
       "id": "873bedab990a",
       "topic": "event fortnite fortnitemare kick",
       "keywords": [
@@ -12373,6 +12246,42 @@
       ]
     },
     {
+      "id": "57c54d8ed83c",
+      "topic": "all apocalyptic forgive horror",
+      "keywords": [
+        "all",
+        "apocalyptic",
+        "forgive",
+        "horror",
+        "neo",
+        "western"
+      ],
+      "item_ids": [
+        "ef1a08daabf5"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
+      "id": "3bc372a82b8a",
+      "topic": "descent jester join kaitlyn",
+      "keywords": [
+        "descent",
+        "jester",
+        "join",
+        "kaitlyn",
+        "soldier",
+        "trentham"
+      ],
+      "item_ids": [
+        "6781107aa578"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
       "id": "b9bfc8d631f5",
       "topic": "disturbing faux harvest strange",
       "keywords": [
@@ -12472,41 +12381,6 @@
       ],
       "item_ids": [
         "29577a3d17ae"
-      ],
-      "outlets": [
-        "HorrorFix"
-      ]
-    },
-    {
-      "id": "324091cf1d82",
-      "topic": "arrive chronicle demand digital",
-      "keywords": [
-        "arrive",
-        "chronicle",
-        "demand",
-        "digital",
-        "salem"
-      ],
-      "item_ids": [
-        "10170fc9583f"
-      ],
-      "outlets": [
-        "HorrorFix"
-      ]
-    },
-    {
-      "id": "998e145d8e57",
-      "topic": "crow head house melon",
-      "keywords": [
-        "crow",
-        "head",
-        "house",
-        "melon",
-        "official",
-        "poster"
-      ],
-      "item_ids": [
-        "aeb8159239dd"
       ],
       "outlets": [
         "HorrorFix"
@@ -13158,179 +13032,180 @@
       ]
     },
     {
-      "id": "c3931509b016",
-      "topic": "confirm dumbledore first john",
+      "id": "bfdcffdfde8a",
+      "topic": "called edgar fury mad",
       "keywords": [
-        "confirm",
-        "dumbledore",
-        "first",
-        "john",
-        "lithgow",
-        "look"
+        "called",
+        "edgar",
+        "fury",
+        "mad",
+        "max",
+        "wright"
       ],
       "item_ids": [
-        "1a238085abcd"
+        "f14cf53dd447"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "85d4bee1d55d",
-      "topic": "cringiest harry later moment",
+      "id": "8630f7c5f8c3",
+      "topic": "anime aren best generic",
       "keywords": [
-        "cringiest",
-        "harry",
-        "later",
-        "moment",
-        "potter",
-        "year"
-      ],
-      "item_ids": [
-        "7e1d61ee3a77"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "513ee6019ec9",
-      "topic": "gem hidden horror old",
-      "keywords": [
-        "gem",
-        "hidden",
-        "horror",
-        "old",
-        "sci",
-        "year"
-      ],
-      "item_ids": [
-        "b0a7467b0ec8"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d13a0004388c",
-      "topic": "amazing anime finish last",
-      "keywords": [
-        "amazing",
         "anime",
-        "finish",
-        "last",
-        "start",
-        "until"
-      ],
-      "item_ids": [
-        "a5169364f161"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e758b43ee38b",
-      "topic": "already big demi landman",
-      "keywords": [
-        "already",
-        "big",
-        "demi",
-        "landman",
-        "moore",
-        "season"
-      ],
-      "item_ids": [
-        "b5d1c40be13a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "b3b1d01bbf31",
-      "topic": "fantasy film flopped george",
-      "keywords": [
-        "fantasy",
-        "film",
-        "flopped",
-        "george",
-        "martin",
-        "theater"
-      ],
-      "item_ids": [
-        "4c7e60b8af39"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0fde34a25d15",
-      "topic": "annabeth coming gen saw",
-      "keywords": [
-        "annabeth",
-        "coming",
-        "gen",
-        "saw",
-        "secret"
-      ],
-      "item_ids": [
-        "15dfd8724a46"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0575aae7d2fb",
-      "topic": "all best hercule might",
-      "keywords": [
-        "all",
+        "aren",
         "best",
-        "hercule",
-        "might",
-        "quirk",
-        "represented"
+        "generic",
+        "isekai",
+        "just"
       ],
       "item_ids": [
-        "31fccde1e8b6"
+        "0353454f3e0e"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "bdea75769e1e",
-      "topic": "anime controversial gundam later",
+      "id": "4d85de9e1170",
+      "topic": "deliver huluween review slow",
       "keywords": [
-        "anime",
-        "controversial",
-        "gundam",
-        "later",
-        "return",
+        "deliver",
+        "huluween",
+        "review",
+        "slow",
+        "smart",
+        "stay"
+      ],
+      "item_ids": [
+        "2a9022aaddbf"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "8d47b3d23a0e",
+      "topic": "dead fans negan replacement",
+      "keywords": [
+        "dead",
+        "fans",
+        "negan",
+        "replacement",
+        "villain",
+        "walking"
+      ],
+      "item_ids": [
+        "4e1843201e98"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d01a91ad5594",
+      "topic": "ball believe dragon made",
+      "keywords": [
+        "ball",
+        "believe",
+        "dragon",
+        "made",
+        "ridiculou",
+        "storyline"
+      ],
+      "item_ids": [
+        "aa4588d7206e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "32df547b7ba0",
+      "topic": "cronenberg david nominated old",
+      "keywords": [
+        "cronenberg",
+        "david",
+        "nominated",
+        "old",
+        "oscar",
         "year"
       ],
       "item_ids": [
-        "c12b5a659d57"
+        "3bfc9d086ddf"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "0d3fd0eb13a0",
-      "topic": "every fan lasso must",
+      "id": "9532e99696ab",
+      "topic": "brother later menendez monster",
       "keywords": [
-        "every",
-        "fan",
-        "lasso",
-        "must",
-        "ted",
+        "brother",
+        "later",
+        "menendez",
+        "monster",
+        "story",
+        "year"
+      ],
+      "item_ids": [
+        "1421d81fad9a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2fd781aeea21",
+      "topic": "lawsuit million nintendo reddit",
+      "keywords": [
+        "lawsuit",
+        "million",
+        "nintendo",
+        "reddit",
+        "show",
+        "troubling"
+      ],
+      "item_ids": [
+        "7c2bb04a8566"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b3552f26ad18",
+      "topic": "lord reason ring tough",
+      "keywords": [
+        "lord",
+        "reason",
+        "ring",
+        "tough",
+        "trilogy",
         "watch"
       ],
       "item_ids": [
-        "d6f61ceb4f54"
+        "061bec053f00"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "59f5832d1628",
+      "topic": "jinwoo leveling reveal sequel",
+      "keywords": [
+        "jinwoo",
+        "leveling",
+        "reveal",
+        "sequel",
+        "solo",
+        "son"
+      ],
+      "item_ids": [
+        "dc6d5af1fb03"
       ],
       "outlets": [
         "CBR"
@@ -13515,6 +13390,24 @@
       ]
     },
     {
+      "id": "2b8f955dc53e",
+      "topic": "kelce react song swift",
+      "keywords": [
+        "kelce",
+        "react",
+        "song",
+        "swift",
+        "taylor",
+        "travi"
+      ],
+      "item_ids": [
+        "7e49a86119da"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "a12f7e0afd26",
       "topic": "bailey debut finally halle",
       "keywords": [
@@ -13656,24 +13549,6 @@
       ],
       "item_ids": [
         "ccc47d360e11"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "948be2dd60e1",
-      "topic": "21st 250 century far",
-      "keywords": [
-        "21st",
-        "250",
-        "century",
-        "far",
-        "greatest",
-        "song"
-      ],
-      "item_ids": [
-        "99b935bf5f3a"
       ],
       "outlets": [
         "Music News"
