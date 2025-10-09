@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T05:59:11Z",
+  "generated_at": "2025-10-09T06:16:59Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -392,6 +392,39 @@
       },
       "read_minutes": 13,
       "cluster_id": "2edc5df5240c"
+    },
+    {
+      "id": "8c05db2f68fa",
+      "title": "America's top banker sounds warning on US stock market fall",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5ej03p604o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 08 Oct 2025 23:02:24 GMT",
+      "bullets": [
+        "• America's top banker sounds warning on US stock market fall",
+        "• Jamie Dimon says he is \"far more worried than others\" about a serious market correction",
+        "• The bank boss also said that the US had become a \"less reliable\" partner on the world stage "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• America's top banker sounds warning on US stock market fall",
+          "• Jamie Dimon says he is \"far more worried than others\" about a serious market correction"
+        ],
+        "hopeful_bullets": [
+          "• America's top banker sounds warning on US stock market fall",
+          "• Jamie Dimon says he is \"far more worried than others\" about a serious market correction"
+        ],
+        "stakes_bullets": [
+          "• America's top banker sounds warning on US stock market fall",
+          "• The bank boss also said that the US had become a \"less reliable\" partner on the world stage "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "0529a26d4ecf"
     },
     {
       "id": "a3b18d6dec37",
@@ -1357,38 +1390,6 @@
       "cluster_id": "0af00d3b0385"
     },
     {
-      "id": "4a6498f31951",
-      "title": "IRS furloughs nearly half of its workforce due to government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/08/irs-furloughs-workers-government-shutdown.html",
-      "published_at": "Wed, 08 Oct 2025 20:00:29 GMT",
-      "bullets": [
-        "• About 34,000 IRS workers are being furloughed, the tax agency says",
-        "• Another 39,870 employees, representing 53.6% of the workforce, will remain on the job",
-        "• The furloughs come as the shutdown of federal government operations is in its eighth day "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• About 34,000 IRS workers are being furloughed, the tax agency says",
-          "• Another 39,870 employees, representing 53.6% of the workforce, will remain on the job"
-        ],
-        "hopeful_bullets": [
-          "• About 34,000 IRS workers are being furloughed, the tax agency says",
-          "• Another 39,870 employees, representing 53.6% of the workforce, will remain on the job"
-        ],
-        "stakes_bullets": [
-          "• Another 39,870 employees, representing 53.6% of the workforce, will remain on the job"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "2f138bda608b"
-    },
-    {
       "id": "f51a3e5c8cc5",
       "title": "At the Supreme Court, the case of the candidate who sued, even though he won",
       "outlet": "NPR Topics: News",
@@ -2319,26 +2320,26 @@
       "url": "https://www.bbc.com/news/articles/cy4r3xj78dpo?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 08 Oct 2025 16:32:00 GMT",
       "bullets": [
-        "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding",
-        "• His lawyer Patrick Fitzgerald said he would seek to have the case dismissed for several reasons including that his client, a critic of President Donald Trump, was being targeted",
-        "• A judge set a trial date of 5 January after Mr Comey's lawyers requested a speedy trial "
+        "• Ex-FBI director James Comey pleads not guilty to two charges of making false statements to Congress",
+        "• He was accused of lying to Congress during a hearing in September",
+        "• Mr Comey was fired as FBI director in 2017, about four months into his first term as president "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding",
-          "• His lawyer Patrick Fitzgerald said he would seek to have the case dismissed for several reasons including that his client, a critic of President Donald Trump, was being targeted"
+          "• Ex-FBI director James Comey pleads not guilty to two charges of making false statements to Congress",
+          "• He was accused of lying to Congress during a hearing in September"
         ],
         "hopeful_bullets": [
-          "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding",
-          "• His lawyer Patrick Fitzgerald said he would seek to have the case dismissed for several reasons including that his client, a critic of President Donald Trump, was being targeted"
+          "• Ex-FBI director James Comey pleads not guilty to two charges of making false statements to Congress",
+          "• He was accused of lying to Congress during a hearing in September"
         ],
         "stakes_bullets": [
-          "• Ex-FBI director James Comey pleads not guilty to lying to Congress and obstructing a congressional proceeding"
+          "• Ex-FBI director James Comey pleads not guilty to two charges of making false statements to Congress"
         ]
       },
       "read_minutes": 3,
@@ -2510,39 +2511,6 @@
       "cluster_id": "afa2a7e763e6"
     },
     {
-      "id": "1a766e0b5cc2",
-      "title": "Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/08/g-s1-91922/los-angeles-spaghetti-cumbia-una-banda-nacida-de-la-fusion-cultural",
-      "published_at": "Wed, 08 Oct 2025 16:00:00 -0400",
-      "bullets": [
-        "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-        "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas",
-        "• El grupo crecieron escuchando música latina en sus casas y en fiestas familiares "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
-        ],
-        "hopeful_bullets": [
-          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
-        ],
-        "stakes_bullets": [
-          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
-          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "21b4985c42e4"
-    },
-    {
       "id": "ab8d35bc0aa1",
       "title": "Los Angeles: Spaghetti Cumbia, a band born from cultural fusion",
       "outlet": "NPR Topics: News",
@@ -2575,6 +2543,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "fd73a94059dc"
+    },
+    {
+      "id": "1a766e0b5cc2",
+      "title": "Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/08/g-s1-91922/los-angeles-spaghetti-cumbia-una-banda-nacida-de-la-fusion-cultural",
+      "published_at": "Wed, 08 Oct 2025 16:00:00 -0400",
+      "bullets": [
+        "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+        "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas",
+        "• El grupo crecieron escuchando música latina en sus casas y en fiestas familiares "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
+        ],
+        "hopeful_bullets": [
+          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
+        ],
+        "stakes_bullets": [
+          "• Los Ángeles: Spaghetti Cumbia, una banda nacida de la fusión cultural",
+          "• Los miembros of the banda tienen profundos vínculos con sus raíces mexicanas"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "21b4985c42e4"
     },
     {
       "id": "ace4a7d02ea8",
@@ -2911,41 +2912,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "42a885bd8944"
-    },
-    {
-      "id": "2fa810d12c93",
-      "title": "Three killed in latest Ukrainian strike on Russia's Belgorod region",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz9j8jlyzzno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 14:41:03 GMT",
-      "bullets": [
-        "• Three killed in latest Ukrainian strike on Russia's Belgorod region",
-        "• At least nine others injured in latest attack on the Russian border region",
-        "• The strike hit the village of Maslova Pristan early on Wednesday",
-        "• Emergency workers are searching for people feared trapped under rubble "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Three killed in latest Ukrainian strike on Russia's Belgorod region",
-          "• At least nine others injured in latest attack on the Russian border region"
-        ],
-        "hopeful_bullets": [
-          "• Three killed in latest Ukrainian strike on Russia's Belgorod region",
-          "• At least nine others injured in latest attack on the Russian border region"
-        ],
-        "stakes_bullets": [
-          "• Three killed in latest Ukrainian strike on Russia's Belgorod region",
-          "• At least nine others injured in latest attack on the Russian border region",
-          "• The strike hit the village of Maslova Pristan early on Wednesday"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fc306ed50a51"
     },
     {
       "id": "d66e2cb522a7",
@@ -5126,40 +5092,6 @@
       "cluster_id": "42123661a6f9"
     },
     {
-      "id": "503386db7771",
-      "title": "Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17180557/texas-tech-university-system-faculty-gender-identity",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
-        "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula",
-        "• Simulated patient exams that included scenarios with transgender patients were suddenly in question "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
-          "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula"
-        ],
-        "hopeful_bullets": [
-          "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
-          "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula"
-        ],
-        "stakes_bullets": [
-          "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
-          "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula",
-          "• Simulated patient exams that included scenarios with transgender patients were suddenly in question "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "b1e8cc17f2f0"
-    },
-    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -5525,38 +5457,105 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "47df055d115e",
+      "title": "Major Anime Streaming Crackdown Hits AnimeHeaven, 1xAnime & 200+ More in Global Domain Sweep",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/anime-streaming-piracy-crackdown-animeheaven-target/",
+      "published_at": "Thu, 09 Oct 2025 06:03:13 GMT",
+      "bullets": [
+        "• A new mass piracy shutdown has several of the world's top illegal anime streaming sites in its crosshairs",
+        "• AnimeHeavens, 1xAnime, AnimeKai, Anoboy, 123animehub and over 200 other movie and TV streaming sites were named in a targeted global domain sweep",
+        "• The aim is to 'slay the hydra,' essentially cutting off the ability for the sites to reappear elsewhere "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new mass piracy shutdown has several of the world's top illegal anime streaming sites in its crosshairs",
+          "• AnimeHeavens, 1xAnime, AnimeKai, Anoboy, 123animehub and over 200 other movie and TV streaming sites were named in a targeted global domain sweep"
+        ],
+        "hopeful_bullets": [
+          "• A new mass piracy shutdown has several of the world's top illegal anime streaming sites in its crosshairs",
+          "• AnimeHeavens, 1xAnime, AnimeKai, Anoboy, 123animehub and over 200 other movie and TV streaming sites were named in a targeted global domain sweep"
+        ],
+        "stakes_bullets": [
+          "• The aim is to 'slay the hydra,' essentially cutting off the ability for the sites to reappear elsewhere "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "76ec82b72775"
+    },
+    {
       "id": "1c044817fe6a",
       "title": "Taylor Swift Reveals Travis Kelce’s Hilarious Mix-Up With Hugh Grant’s Wife and Greta Gerwig",
       "outlet": "Music News",
       "url": "https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-greta-gerwig-mix-up-1235443635/",
       "published_at": "Thu, 09 Oct 2025 05:35:02 +0000",
       "bullets": [
-        "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras tour led to her fiancé meeting Greta Gerwig",
+        "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras Tour led to her fiancé, Travis Kelce, meeting Greta Gerwig",
         "• Kelce had mistaken Grant’s wife for the famed director",
-        "• The Kansas City Chiefs player said he had told the Barbie director an “I’m just Ken” joke that didn’t seem to go over too well "
+        "• The Kansas City Chiefs player said he had told the Barbie director an “I'm just Ken” joke that didn’t go over too well "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.919
+        "score": 0.899
       },
       "moods": {
         "brief_bullets": [
-          "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras tour led to her fiancé meeting Greta Gerwig",
+          "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras Tour led to her fiancé, Travis Kelce, meeting Greta Gerwig",
           "• Kelce had mistaken Grant’s wife for the famed director"
         ],
         "hopeful_bullets": [
-          "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras tour led to her fiancé meeting Greta Gerwig",
+          "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras Tour led to her fiancé, Travis Kelce, meeting Greta Gerwig",
           "• Kelce had mistaken Grant’s wife for the famed director"
         ],
         "stakes_bullets": [
-          "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras tour led to her fiancé meeting Greta Gerwig",
+          "• Taylor Swift spilled the tea on how a case of mistaken identity during her Eras Tour led to her fiancé, Travis Kelce, meeting Greta Gerwig",
           "• Kelce had mistaken Grant’s wife for the famed director",
-          "• The Kansas City Chiefs player said he had told the Barbie director an “I’m just Ken” joke that didn’t seem to go over too well "
+          "• The Kansas City Chiefs player said he had told the Barbie director an “I'm just Ken” joke that didn’t go over too well "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "285f02da354b"
+    },
+    {
+      "id": "6ce247512bf0",
+      "title": "Will Takaichi's 'Abenomics' weaken the yen and raise the ire of Trump?",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/the-takaichi-trade-dilemma-japan-currency-tightrope-with-trump-abenomics.html",
+      "published_at": "Thu, 09 Oct 2025 05:33:43 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump has accused Japan of engaging in \"unfair trade practices\" in the past",
+        "• Trump again singled out Japan in March, alleging that Tokyo weakened its currency to gain an unfair trade advantage",
+        "• Now, as Abe's protégé, Sanae Takaichi is poised to helm the world's fourth-largest economy "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump has accused Japan of engaging in \"unfair trade practices\" in the past"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump has accused Japan of engaging in \"unfair trade practices\" in the past"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• President Donald Trump has accused Japan of engaging in \"unfair trade practices\" in the past",
+          "• Trump again singled out Japan in March, alleging that Tokyo weakened its currency to gain an unfair trade advantage"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f64aa917329c"
     },
     {
       "id": "228475ca7392",
@@ -6060,41 +6059,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "26f20e78d259"
-    },
-    {
-      "id": "ccad5a2d8d65",
-      "title": "Criminal Minds’ Most Disturbing Unsub Still Haunts Fans 20 Years Later",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/most-disturbing-criminal-minds-unsub/",
-      "published_at": "Thu, 09 Oct 2025 03:00:13 GMT",
-      "bullets": [
-        "• Criminal Minds has introduced many scary and disturbing serial killers throughout its eighteen seasons",
-        "• Frank Breitkopf was introduced in the second season of the show",
-        "• His story arc set the tone for later villains, such as George Foyet and Mr",
-        "• Scratch "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Criminal Minds has introduced many scary and disturbing serial killers throughout its eighteen seasons",
-          "• Frank Breitkopf was introduced in the second season of the show"
-        ],
-        "hopeful_bullets": [
-          "• Criminal Minds has introduced many scary and disturbing serial killers throughout its eighteen seasons",
-          "• Frank Breitkopf was introduced in the second season of the show"
-        ],
-        "stakes_bullets": [
-          "• Criminal Minds has introduced many scary and disturbing serial killers throughout its eighteen seasons",
-          "• Frank Breitkopf was introduced in the second season of the show",
-          "• His story arc set the tone for later villains, such as George Foyet and Mr"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "b17f2a38ef85"
     },
     {
       "id": "6ea5f483afa6",
@@ -9200,6 +9164,42 @@
       ]
     },
     {
+      "id": "0529a26d4ecf",
+      "topic": "america banker sound stock",
+      "keywords": [
+        "america",
+        "banker",
+        "sound",
+        "stock",
+        "top",
+        "warning"
+      ],
+      "item_ids": [
+        "8c05db2f68fa"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "3b79cfd5f64e",
+      "topic": "apologise dad fugitive parent",
+      "keywords": [
+        "apologise",
+        "dad",
+        "fugitive",
+        "parent",
+        "trouble",
+        "zealand"
+      ],
+      "item_ids": [
+        "cb7e120ce8f8"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "8ab642dd30f6",
       "topic": "comey director fbi former",
       "keywords": [
@@ -9251,42 +9251,6 @@
       ],
       "item_ids": [
         "7d4564e8928a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3b79cfd5f64e",
-      "topic": "apologise dad fugitive parent",
-      "keywords": [
-        "apologise",
-        "dad",
-        "fugitive",
-        "parent",
-        "trouble",
-        "zealand"
-      ],
-      "item_ids": [
-        "cb7e120ce8f8"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "fc306ed50a51",
-      "topic": "belgorod killed region russia",
-      "keywords": [
-        "belgorod",
-        "killed",
-        "region",
-        "russia",
-        "strike",
-        "ukrainian"
-      ],
-      "item_ids": [
-        "2fa810d12c93"
       ],
       "outlets": [
         "BBC News"
@@ -9763,24 +9727,6 @@
       ]
     },
     {
-      "id": "21b4985c42e4",
-      "topic": "banda cumbia los ngele",
-      "keywords": [
-        "banda",
-        "cumbia",
-        "los",
-        "ngele",
-        "spaghetti",
-        "una"
-      ],
-      "item_ids": [
-        "1a766e0b5cc2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "fd73a94059dc",
       "topic": "angele band born cumbia",
       "keywords": [
@@ -9793,6 +9739,24 @@
       ],
       "item_ids": [
         "ab8d35bc0aa1"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "21b4985c42e4",
+      "topic": "banda cumbia los ngele",
+      "keywords": [
+        "banda",
+        "cumbia",
+        "los",
+        "ngele",
+        "spaghetti",
+        "una"
+      ],
+      "item_ids": [
+        "1a766e0b5cc2"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9925,6 +9889,24 @@
       ]
     },
     {
+      "id": "f64aa917329c",
+      "topic": "abenomic ire raise takaichi",
+      "keywords": [
+        "abenomic",
+        "ire",
+        "raise",
+        "takaichi",
+        "weaken",
+        "yen"
+      ],
+      "item_ids": [
+        "6ce247512bf0"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "26f20e78d259",
       "topic": "abb agree buy share",
       "keywords": [
@@ -9991,24 +9973,6 @@
       ],
       "item_ids": [
         "85370fba50b0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "2f138bda608b",
-      "topic": "due furlough half irs",
-      "keywords": [
-        "due",
-        "furlough",
-        "half",
-        "irs",
-        "nearly",
-        "workforce"
-      ],
-      "item_ids": [
-        "4a6498f31951"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13121,6 +13085,24 @@
       ]
     },
     {
+      "id": "76ec82b72775",
+      "topic": "anime animeheaven crackdown hits",
+      "keywords": [
+        "anime",
+        "animeheaven",
+        "crackdown",
+        "hits",
+        "major",
+        "streaming"
+      ],
+      "item_ids": [
+        "47df055d115e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "c6d63d780b0e",
       "topic": "ball cgi dragon reveal",
       "keywords": [
@@ -13274,24 +13256,6 @@
       ],
       "item_ids": [
         "0274d786c634"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "b17f2a38ef85",
-      "topic": "criminal disturbing mind most",
-      "keywords": [
-        "criminal",
-        "disturbing",
-        "mind",
-        "most",
-        "still",
-        "unsub"
-      ],
-      "item_ids": [
-        "ccad5a2d8d65"
       ],
       "outlets": [
         "CBR"
@@ -13977,24 +13941,6 @@
       ],
       "item_ids": [
         "e6fdd8ddd73a"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "b1e8cc17f2f0",
-      "topic": "gender guideline system tech",
-      "keywords": [
-        "gender",
-        "guideline",
-        "system",
-        "tech",
-        "texa",
-        "vague"
-      ],
-      "item_ids": [
-        "503386db7771"
       ],
       "outlets": [
         "The Texas Tribune"
