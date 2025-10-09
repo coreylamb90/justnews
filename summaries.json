@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T16:08:20Z",
+  "generated_at": "2025-10-09T17:06:01Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -143,29 +143,64 @@
       "published_at": "Wed, 08 Oct 2025 23:55:49 EDT",
       "bullets": [
         "• Scientists suggest the brain may work best with 7 senses, not just 5",
-        "• Skoltech developed a new mathematical model of memory that explores how information is encoded and stored",
-        "• Study suggests there may be an optimal number of senses -- if so, those of us with five senses could use a couple more!"
+        "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored",
+        "• Their analysis suggests memory works best in a seven-dimensional conceptual space — equivalent to having seven senses "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.983
+        "score": 0.952
       },
       "moods": {
         "brief_bullets": [
           "• Scientists suggest the brain may work best with 7 senses, not just 5",
-          "• Skoltech developed a new mathematical model of memory that explores how information is encoded and stored"
+          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored"
         ],
         "hopeful_bullets": [
           "• Scientists suggest the brain may work best with 7 senses, not just 5",
-          "• Skoltech developed a new mathematical model of memory that explores how information is encoded and stored"
+          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored"
         ],
         "stakes_bullets": [
-          "• Study suggests there may be an optimal number of senses -- if so, those of us with five senses could use a couple more!"
+          "• Scientists suggest the brain may work best with 7 senses, not just 5",
+          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored",
+          "• Their analysis suggests memory works best in a seven-dimensional conceptual space — equivalent to having seven senses "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "d1a11753293f"
+    },
+    {
+      "id": "6fb8e1b21083",
+      "title": "Despite Stiff Opposition, an Alabama City Changes Its Laws to Accommodate Data Centers",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/08102025/bessemer-alabama-changes-laws-to-accommodate-data-centers/",
+      "published_at": "Wed, 08 Oct 2025 23:50:51 +0000",
+      "bullets": [
+        "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+        "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
+        "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
+        ],
+        "hopeful_bullets": [
+          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
+        ],
+        "stakes_bullets": [
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
+          "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "e7c039e05f7b"
     },
     {
       "id": "98aebdc72852",
@@ -209,24 +244,25 @@
       "url": "https://www.sciencedaily.com/releases/2025/10/251008030949.htm",
       "published_at": "Wed, 08 Oct 2025 23:24:48 EDT",
       "bullets": [
-        "• Researchers at the University of Bath, in collaboration with the Universities of Oxford and Bristol, have developed a molecule that prevents the clumping and build-up of a protein linked to Parkinson's disease",
-        "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+        "• Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias",
+        "• In lab and animal tests, it stabilized the protein and improved motor function",
+        "• The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "negative",
-        "score": 0.943
+        "label": "positive",
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Researchers at the University of Bath, in collaboration with the Universities of Oxford and Bristol, have developed a molecule that prevents the clumping and build-up of a protein linked to Parkinson's disease",
-          "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+          "• Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias",
+          "• In lab and animal tests, it stabilized the protein and improved motor function"
         ],
         "hopeful_bullets": [
-          "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+          "• In lab and animal tests, it stabilized the protein and improved motor function"
         ],
         "stakes_bullets": [
-          "• The team has successfully demonstrated it works in an animal model of Parkinson's and hopes that in the future this could lead to a treatment that slows the progression of the disease "
+          "• The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments "
         ]
       },
       "read_minutes": 3,
@@ -297,40 +333,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "0529a26d4ecf"
-    },
-    {
-      "id": "a3b18d6dec37",
-      "title": "The Dell 14 Plus Is Now Only $650",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/dell-14-plus-prime-day-2025/",
-      "published_at": "Wed, 08 Oct 2025 22:46:57 +0000",
-      "bullets": [
-        "• Dell 14 Plus (6/10, WIRED Reviewed) sells for just $650",
-        "• It has 16 GB of RAM, a terabyte of storage and a 2560 x 1600 resolution display",
-        "• The processor used is the Intel Core Ultra 7 258V, which is a flagship chip used in some of the best laptops "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dell 14 Plus (6/10, WIRED Reviewed) sells for just $650",
-          "• It has 16 GB of RAM, a terabyte of storage and a 2560 x 1600 resolution display"
-        ],
-        "hopeful_bullets": [
-          "• Dell 14 Plus (6/10, WIRED Reviewed) sells for just $650",
-          "• It has 16 GB of RAM, a terabyte of storage and a 2560 x 1600 resolution display"
-        ],
-        "stakes_bullets": [
-          "• Dell 14 Plus (6/10, WIRED Reviewed) sells for just $650",
-          "• It has 16 GB of RAM, a terabyte of storage and a 2560 x 1600 resolution display",
-          "• The processor used is the Intel Core Ultra 7 258V, which is a flagship chip used in some of the best laptops "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "70e0dd4fd823"
     },
     {
       "id": "55c6f6e332fb",
@@ -443,12 +445,12 @@
         "• Number: VC53",
         "• Released: 2011",
         "• One of the few remaining Fans’ Choice poll characters yet to be produced",
-        "• A near-perfect depiction of the character"
+        "• A near-perfect collection of memorabilia from the Star Wars universe "
       ],
       "category": "Star Wars",
       "sentiment": {
         "label": "positive",
-        "score": 0.992
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
@@ -536,40 +538,6 @@
       "cluster_id": "872b75e66fc8"
     },
     {
-      "id": "09309c07f9cd",
-      "title": "Sony’s System 6 Offers Cinematic Sound for a Massive Prime Day Discount",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/prime-day-sony-bravia-theater-system-6-deal-october-2025/",
-      "published_at": "Wed, 08 Oct 2025 21:39:33 +0000",
-      "bullets": [
-        "• The Sony Bravia Theater System 6 comes in a rather large box, with its hefty subwoofer taking up most of the real estate",
-        "• The large cabinet serves as both the sonic foundation and the primary hub of the 5.1-channel system",
-        "• Inputs include HDMI eARC for seamless TV connection, digital optical and 3.5-mm analog "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.806
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Sony Bravia Theater System 6 comes in a rather large box, with its hefty subwoofer taking up most of the real estate",
-          "• The large cabinet serves as both the sonic foundation and the primary hub of the 5.1-channel system"
-        ],
-        "hopeful_bullets": [
-          "• The Sony Bravia Theater System 6 comes in a rather large box, with its hefty subwoofer taking up most of the real estate",
-          "• The large cabinet serves as both the sonic foundation and the primary hub of the 5.1-channel system"
-        ],
-        "stakes_bullets": [
-          "• The Sony Bravia Theater System 6 comes in a rather large box, with its hefty subwoofer taking up most of the real estate",
-          "• The large cabinet serves as both the sonic foundation and the primary hub of the 5.1-channel system",
-          "• Inputs include HDMI eARC for seamless TV connection, digital optical and 3.5-mm analog "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2d3f304121e4"
-    },
-    {
       "id": "b55668c36af1",
       "title": "Saoirse Ronan Cast as Linda McCartney in Sam Mendes’ Beatles Biopics",
       "outlet": "RSS: News",
@@ -632,40 +600,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "92abf6382dbf"
-    },
-    {
-      "id": "caf689f90eaf",
-      "title": "The Best Anti-Prime Day Deals for Amazon Haters (2025): Sheets, Sex Tech, and Fire Pits",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025-1/",
-      "published_at": "Wed, 08 Oct 2025 21:16:07 +0000",
-      "bullets": [
-        "• The Cozy Earth sale means you can save up to 25 percent off nearly everything on the website",
-        "• Backcountry is offering up to 70 percent off on outdoor gear",
-        "• Bookshop.org is offering a \"Anti-Prime Sale\" through the end of today "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.54
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Cozy Earth sale means you can save up to 25 percent off nearly everything on the website",
-          "• Backcountry is offering up to 70 percent off on outdoor gear"
-        ],
-        "hopeful_bullets": [
-          "• The Cozy Earth sale means you can save up to 25 percent off nearly everything on the website",
-          "• Backcountry is offering up to 70 percent off on outdoor gear"
-        ],
-        "stakes_bullets": [
-          "• The Cozy Earth sale means you can save up to 25 percent off nearly everything on the website",
-          "• Backcountry is offering up to 70 percent off on outdoor gear",
-          "• Bookshop.org is offering a \"Anti-Prime Sale\" through the end of today "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b758011e839a"
     },
     {
       "id": "3c614a24af71",
@@ -1587,38 +1521,6 @@
       "cluster_id": "0d71ddbd3e0a"
     },
     {
-      "id": "b9fd5d251b52",
-      "title": "Scientists just proved the moai could walk, solving a 500-year mystery",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251008030938.htm",
-      "published_at": "Wed, 08 Oct 2025 09:43:41 EDT",
-      "bullets": [
-        "• Scientists just proved the moai could walk, solving a 500-year mystery",
-        "• New study uses 3D modeling, field experiments to confirm how Rapa Nui villagers moved massive statues",
-        "• Researchers confirmed that the statues actually walked - with a little rope and remarkably few people"
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.935
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists just proved the moai could walk, solving a 500-year mystery",
-          "• New study uses 3D modeling, field experiments to confirm how Rapa Nui villagers moved massive statues"
-        ],
-        "hopeful_bullets": [
-          "• Scientists just proved the moai could walk, solving a 500-year mystery",
-          "• New study uses 3D modeling, field experiments to confirm how Rapa Nui villagers moved massive statues"
-        ],
-        "stakes_bullets": [
-          "• Scientists just proved the moai could walk, solving a 500-year mystery"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e3841961a34d"
-    },
-    {
       "id": "4d17c46f7c54",
       "title": "Los Alamos and University of Michigan Want to Build a National Security ‘Data Center’ in Ypsilanti. Residents and Local Officials See Few Benefits.",
       "outlet": "Inside Climate News",
@@ -1717,39 +1619,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "257a9c1807ea"
-    },
-    {
-      "id": "0cf235965c38",
-      "title": "Shutdowns serve as excuse for GOP and Democrats to spend more, says Sen. Ron Johnson",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/08/nx-s1-5564781/federal-government-shutdown-negotiations-ron-johnson",
-      "published_at": "Wed, 08 Oct 2025 06:46:20 -0400",
-      "bullets": [
-        "• Republican Sen",
-        "• Ron Johnson says shutdowns are a good excuse for Republicans and Democrats to spend more",
-        "• Johnson: \"The American public, by and large, loves free federal money\" Republicans want a clean spending bill that would fund the government for seven weeks",
-        "• Democrats want to extend Affordable Care Act subsidies "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.911
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Republican Sen",
-          "• Ron Johnson says shutdowns are a good excuse for Republicans and Democrats to spend more"
-        ],
-        "hopeful_bullets": [
-          "• Republican Sen",
-          "• Ron Johnson says shutdowns are a good excuse for Republicans and Democrats to spend more"
-        ],
-        "stakes_bullets": [
-          "• Johnson: \"The American public, by and large, loves free federal money\" Republicans want a clean spending bill that would fund the government for seven weeks"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "d42e3d7b1bed"
     },
     {
       "id": "947174476ee9",
@@ -1885,40 +1754,6 @@
       "cluster_id": "d9a6f3a44b7e"
     },
     {
-      "id": "103107dfbfcd",
-      "title": "The Red Sea that vanished and the catastrophic flood that brought it back",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251007081831.htm",
-      "published_at": "Wed, 08 Oct 2025 04:27:10 EDT",
-      "bullets": [
-        "• The Red Sea went from connecting with the Mediterranean Sea to an empty, salt-filled basin",
-        "• Then, a massive flood burst through volcanic barriers to open the Bab el-Mandab strait",
-        "• The flood carved deep channels and restored marine life in less than 100,000 years "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Red Sea went from connecting with the Mediterranean Sea to an empty, salt-filled basin",
-          "• Then, a massive flood burst through volcanic barriers to open the Bab el-Mandab strait"
-        ],
-        "hopeful_bullets": [
-          "• The Red Sea went from connecting with the Mediterranean Sea to an empty, salt-filled basin",
-          "• Then, a massive flood burst through volcanic barriers to open the Bab el-Mandab strait"
-        ],
-        "stakes_bullets": [
-          "• The Red Sea went from connecting with the Mediterranean Sea to an empty, salt-filled basin",
-          "• Then, a massive flood burst through volcanic barriers to open the Bab el-Mandab strait",
-          "• The flood carved deep channels and restored marine life in less than 100,000 years "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a896c6a9b56b"
-    },
-    {
       "id": "dbf0de9d16e3",
       "title": "TVC15: Gungan Warrior (VC74)",
       "outlet": "Jedi Temple Archives",
@@ -1953,72 +1788,70 @@
       "cluster_id": "e152660562c3"
     },
     {
-      "id": "a7d1227c6ed0",
-      "title": "Scientists uncover a hidden power source inside a monster black hole",
+      "id": "ab5edfe2eb37",
+      "title": "Glowing shark and hidden crab found deep off Australia",
       "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251007081827.htm",
-      "published_at": "Wed, 08 Oct 2025 01:22:54 EDT",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030943.htm",
+      "published_at": "Wed, 08 Oct 2025 03:09:43 EDT",
       "bullets": [
-        "• Scientists uncover a hidden power source inside a monster black hole",
-        "• Black holes like M87* unleash their cosmic power through magnetic reconnection and rotation, fueling the universe’s most spectacular jets",
-        "• These findings shed new light on how black holes energize the cosmos and shape galaxies "
+        "• Glowing shark and hidden crab found deep off Australia highlight the dazzling adaptations of life in the deep sea",
+        "• The discoveries were made from specimens collected during a 2022 CSIRO research voyage",
+        "• The West Australian Lanternshark is relatively small, with the largest specimen measuring just 407 millimeters long",
+        "• The large eyes are adapted for the dark depths of the ocean "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Scientists uncover a hidden power source inside a monster black hole",
-          "• Black holes like M87* unleash their cosmic power through magnetic reconnection and rotation, fueling the universe’s most spectacular jets"
+          "• Glowing shark and hidden crab found deep off Australia highlight the dazzling adaptations of life in the deep sea",
+          "• The discoveries were made from specimens collected during a 2022 CSIRO research voyage"
         ],
         "hopeful_bullets": [
-          "• Scientists uncover a hidden power source inside a monster black hole",
-          "• Black holes like M87* unleash their cosmic power through magnetic reconnection and rotation, fueling the universe’s most spectacular jets"
+          "• Glowing shark and hidden crab found deep off Australia highlight the dazzling adaptations of life in the deep sea"
         ],
         "stakes_bullets": [
-          "• Scientists uncover a hidden power source inside a monster black hole",
-          "• Black holes like M87* unleash their cosmic power through magnetic reconnection and rotation, fueling the universe’s most spectacular jets",
-          "• These findings shed new light on how black holes energize the cosmos and shape galaxies "
+          "• Glowing shark and hidden crab found deep off Australia highlight the dazzling adaptations of life in the deep sea",
+          "• The discoveries were made from specimens collected during a 2022 CSIRO research voyage",
+          "• The West Australian Lanternshark is relatively small, with the largest specimen measuring just 407 millimeters long"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "f13a070c5e60"
+      "read_minutes": 3,
+      "cluster_id": "a0ab6265597f"
     },
     {
-      "id": "06109aa018ec",
-      "title": "Gaia solves the mystery of tumbling asteroids and reveals what’s inside them",
+      "id": "b9fd5d251b52",
+      "title": "Scientists just proved the moai could walk, solving a 500-year mystery",
       "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251007081825.htm",
-      "published_at": "Wed, 08 Oct 2025 00:29:43 EDT",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030938.htm",
+      "published_at": "Wed, 08 Oct 2025 03:09:38 EDT",
       "bullets": [
-        "• Gaia solves the mystery of tumbling asteroids and reveals what’s inside them",
-        "• Findings are based on data from the European Space Agency's Gaia mission and provide a means of determining an asteroid's physical properties",
-        "• This information is vital for successfully deflecting asteroids on a collision course with Earth "
+        "• Scientists just proved the moai could walk, solving a 500-year mystery",
+        "• New study uses 3D modeling, field experiments to confirm how Rapa Nui villagers moved massive statues",
+        "• Researchers confirmed that the statues actually walked - with a little rope and remarkably few people"
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.999
+        "label": "negative",
+        "score": 0.935
       },
       "moods": {
         "brief_bullets": [
-          "• Gaia solves the mystery of tumbling asteroids and reveals what’s inside them",
-          "• Findings are based on data from the European Space Agency's Gaia mission and provide a means of determining an asteroid's physical properties"
+          "• Scientists just proved the moai could walk, solving a 500-year mystery",
+          "• New study uses 3D modeling, field experiments to confirm how Rapa Nui villagers moved massive statues"
         ],
         "hopeful_bullets": [
-          "• Gaia solves the mystery of tumbling asteroids and reveals what’s inside them",
-          "• Findings are based on data from the European Space Agency's Gaia mission and provide a means of determining an asteroid's physical properties"
+          "• Scientists just proved the moai could walk, solving a 500-year mystery",
+          "• New study uses 3D modeling, field experiments to confirm how Rapa Nui villagers moved massive statues"
         ],
         "stakes_bullets": [
-          "• Gaia solves the mystery of tumbling asteroids and reveals what’s inside them",
-          "• Findings are based on data from the European Space Agency's Gaia mission and provide a means of determining an asteroid's physical properties",
-          "• This information is vital for successfully deflecting asteroids on a collision course with Earth "
+          "• Scientists just proved the moai could walk, solving a 500-year mystery"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "40835ac3d177"
+      "cluster_id": "e3841961a34d"
     },
     {
       "id": "8bc2e543862e",
@@ -2053,40 +1886,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "a98a0ede1c29"
-    },
-    {
-      "id": "c58a0fd655f3",
-      "title": "TVC15: Darth Vader (VC08)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-01-tvc15-darth-vader-vc08/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-vader-vc08",
-      "published_at": "Wed, 01 Oct 2025 23:19:32 +0000",
-      "bullets": [
-        "• The only reason you would want to add this figure to your collection is for nostalgia",
-        "• Hasbro got a lot of mileage out of this Darth Vader action figure",
-        "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The only reason you would want to add this figure to your collection is for nostalgia",
-          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
-        ],
-        "hopeful_bullets": [
-          "• The only reason you would want to add this figure to your collection is for nostalgia",
-          "• Hasbro got a lot of mileage out of this Darth Vader action figure"
-        ],
-        "stakes_bullets": [
-          "• The only reason you would want to add this figure to your collection is for nostalgia",
-          "• Hasbro got a lot of mileage out of this Darth Vader action figure",
-          "• By today's standards, it’s obsolete, but it served a grand purpose for decades "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "53dc19c6d15a"
     },
     {
       "id": "7d9fedc75080",
@@ -3243,50 +3042,468 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
-      "id": "ae042e862f0b",
-      "title": "Deathstalker Exclusive Clip Teases Iconic Take on the New Reboot",
+      "id": "d636e914c6f0",
+      "title": "The Absolute Justice League's Final Member Is Living His Arch-Rival's Smallville Dreams",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/the-lord-of-the-rings-stars-1983-remake-with-a-perfect-rt-score-teases/",
-      "published_at": "Thu, 09 Oct 2025 16:00:12 GMT",
+      "url": "https://www.cbr.com/absolute-evil-justice-league-lex-luthor-smallville-dreams/",
+      "published_at": "Thu, 09 Oct 2025 17:00:12 GMT",
       "bullets": [
-        "• Roger Corman's 1983 swords-and-sorcery classic has received a reboot with 2025's Deathstalker",
-        "• The new take on the cult classic is set to premiere in theaters on Oct",
-        "• 10",
-        "• Legendary stuntman and actor Daniel Bernhardt plays the titular character "
+        "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano",
+        "• The final member of the Justice League is Lex Luthor, who first appeared in 1940's Action Comics "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.968
+        "score": 0.981
       },
       "moods": {
         "brief_bullets": [
-          "• Roger Corman's 1983 swords-and-sorcery classic has received a reboot with 2025's Deathstalker",
-          "• The new take on the cult classic is set to premiere in theaters on Oct"
+          "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano",
+          "• The final member of the Justice League is Lex Luthor, who first appeared in 1940's Action Comics "
         ],
         "hopeful_bullets": [
-          "• Roger Corman's 1983 swords-and-sorcery classic has received a reboot with 2025's Deathstalker",
-          "• The new take on the cult classic is set to premiere in theaters on Oct"
+          "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano"
         ],
         "stakes_bullets": [
-          "• Roger Corman's 1983 swords-and-sorcery classic has received a reboot with 2025's Deathstalker",
-          "• The new take on the cult classic is set to premiere in theaters on Oct",
-          "• 10"
+          "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano",
+          "• The final member of the Justice League is Lex Luthor, who first appeared in 1940's Action Comics "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "f2c2491fcb00"
+      "cluster_id": "f6e1e8c7ac8a"
     },
     {
-      "id": "bc7d440f5156",
-      "title": "A New Era of Ben 10 Begins, With Exciting Details",
+      "id": "522961df5c54",
+      "title": "Star Trek’s Most Disappointing Episode Gave Fans Exactly What They Wanted (Then Took It Away Again)",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/ben-10-new-comic-era/",
-      "published_at": "Thu, 09 Oct 2025 16:00:12 GMT",
+      "url": "https://www.cbr.com/star-trek-voyager-janeway-romance-taken-away/",
+      "published_at": "Thu, 09 Oct 2025 17:00:12 GMT",
       "bullets": [
-        "• A new Ben 10 comic book series is set to reintroduce the franchise like never before",
-        "• Original co-creator and Man of Action co-founder Joe Casey will write the new series",
-        "• The series will offer an updated origin story before the wider Ben 10 mythos is expanded upon and refined "
+        "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
+        "• It is the first Star Trek series ever to feature a female captain",
+        "• Despite how long the series ran, one of its most disappointing episodes happened in Season 2 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
+          "• It is the first Star Trek series ever to feature a female captain"
+        ],
+        "hopeful_bullets": [
+          "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
+          "• It is the first Star Trek series ever to feature a female captain"
+        ],
+        "stakes_bullets": [
+          "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
+          "• It is the first Star Trek series ever to feature a female captain",
+          "• Despite how long the series ran, one of its most disappointing episodes happened in Season 2 "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "be3971279fc3"
+    },
+    {
+      "id": "ebd422bf3bf0",
+      "title": "‘In Search of Edgar Allan Poe’ Documentary to Air on PBS This Month",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/tv/3908266/in-search-of-edgar-allan-poe-documentary-to-air-on-pbs-this-month/?utm_source=rss&utm_medium=rss&utm_campaign=in-search-of-edgar-allan-poe-documentary-to-air-on-pbs-this-month",
+      "published_at": "Thu, 09 Oct 2025 16:41:35 +0000",
+      "bullets": [
+        "• In Search of Edgar Allan Poe Documentary to air on PBS stations and streaming on the PBS App on October 25",
+        "• The three-part film promises to be the most in-depth documentary ever made on one of America’s most enigmatic literary figures, delving into his mysterious life and enduring legacy "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In Search of Edgar Allan Poe Documentary to air on PBS stations and streaming on the PBS App on October 25",
+          "• The three-part film promises to be the most in-depth documentary ever made on one of America’s most enigmatic literary figures, delving into his mysterious life and enduring legacy "
+        ],
+        "hopeful_bullets": [
+          "• In Search of Edgar Allan Poe Documentary to air on PBS stations and streaming on the PBS App on October 25",
+          "• The three-part film promises to be the most in-depth documentary ever made on one of America’s most enigmatic literary figures, delving into his mysterious life and enduring legacy "
+        ],
+        "stakes_bullets": [
+          "• In Search of Edgar Allan Poe Documentary to air on PBS stations and streaming on the PBS App on October 25",
+          "• The three-part film promises to be the most in-depth documentary ever made on one of America’s most enigmatic literary figures, delving into his mysterious life and enduring legacy "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "144c95825154"
+    },
+    {
+      "id": "f2e0d16a3447",
+      "title": "Oshi no Ko Season 3 Is Officially Coming to Crunchyroll",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/oshi-no-ko-season-3-crunchyroll-streaming/",
+      "published_at": "Thu, 09 Oct 2025 16:39:08 GMT",
+      "bullets": [
+        "• The dark anime idol thriller is being released on a different streaming service than its usual home on HIDIVE",
+        "• The new season of Oshi no Ko will premiere on Crunchyroll in January 2026",
+        "• The announcement was made at New York Comic Con 2025 at the Jacob Javits Convention Center "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.905
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The dark anime idol thriller is being released on a different streaming service than its usual home on HIDIVE",
+          "• The new season of Oshi no Ko will premiere on Crunchyroll in January 2026"
+        ],
+        "hopeful_bullets": [
+          "• The dark anime idol thriller is being released on a different streaming service than its usual home on HIDIVE",
+          "• The new season of Oshi no Ko will premiere on Crunchyroll in January 2026"
+        ],
+        "stakes_bullets": [
+          "• The new season of Oshi no Ko will premiere on Crunchyroll in January 2026"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "18100e527a5e"
+    },
+    {
+      "id": "6787ab6e10ce",
+      "title": "Delta says premium travel is set to overtake coach cabin sales next year",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/delta-premium-travel-set-to-overtake-coach-cabin-sales-2026.html",
+      "published_at": "Thu, 09 Oct 2025 16:30:29 GMT",
+      "bullets": [
+        "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
+        "• Main cabin ticket revenue fell 4% from a year earlier to just over $6 billion",
+        "• CEO says he's seen no sign of premium-travel demand slowing down "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
+          "• Main cabin ticket revenue fell 4% from a year earlier to just over $6 billion"
+        ],
+        "hopeful_bullets": [
+          "• CEO says he's seen no sign of premium-travel demand slowing down "
+        ],
+        "stakes_bullets": [
+          "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
+          "• Main cabin ticket revenue fell 4% from a year earlier to just over $6 billion"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a757d5c620ed"
+    },
+    {
+      "id": "10a45f72523e",
+      "title": "‘ParaNorman: The Thrifting’ – First Look at Brand New Official ‘ParaNorman’ Short Film [Trailer]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3908265/paranorman-the-thrifting-first-look-at-brand-new-official-paranorman-short-film-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=paranorman-the-thrifting-first-look-at-brand-new-official-paranorman-short-film-trailer",
+      "published_at": "Thu, 09 Oct 2025 16:29:23 +0000",
+      "bullets": [
+        "• The 2012 stop-motion animated film will screen in newly remastered 3D and 2D formats from October 25-28 via Fathom Entertainment",
+        "• The new CG-animated short, ParaNorman: The Thrifting, stars Finn Wolfhard (“Stranger Things”) and Anna Kendrick reprising her role of Norman’s older sister "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.86
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 2012 stop-motion animated film will screen in newly remastered 3D and 2D formats from October 25-28 via Fathom Entertainment",
+          "• The new CG-animated short, ParaNorman: The Thrifting, stars Finn Wolfhard (“Stranger Things”) and Anna Kendrick reprising her role of Norman’s older sister "
+        ],
+        "hopeful_bullets": [
+          "• The 2012 stop-motion animated film will screen in newly remastered 3D and 2D formats from October 25-28 via Fathom Entertainment",
+          "• The new CG-animated short, ParaNorman: The Thrifting, stars Finn Wolfhard (“Stranger Things”) and Anna Kendrick reprising her role of Norman’s older sister "
+        ],
+        "stakes_bullets": [
+          "• The 2012 stop-motion animated film will screen in newly remastered 3D and 2D formats from October 25-28 via Fathom Entertainment"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bc0e3e0308b7"
+    },
+    {
+      "id": "b16bfb1865a2",
+      "title": "NCIS: Tony & Ziva Stars Tease Why the New Pairing Work",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/ncis-tony-ziva-cote-de-pablo-michael-weatherly-why-pairing-works/",
+      "published_at": "Thu, 09 Oct 2025 16:29:16 GMT",
+      "bullets": [
+        "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
+        "• The duo appeared together in 128 episodes of NCIS",
+        "• De Pablo said she doesn't know why they get along so well "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
+          "• The duo appeared together in 128 episodes of NCIS"
+        ],
+        "hopeful_bullets": [
+          "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
+          "• The duo appeared together in 128 episodes of NCIS"
+        ],
+        "stakes_bullets": [
+          "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
+          "• The duo appeared together in 128 episodes of NCIS",
+          "• De Pablo said she doesn't know why they get along so well "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1b91c8ea9997"
+    },
+    {
+      "id": "63fa3f768207",
+      "title": "We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
+      "published_at": "Thu, 09 Oct 2025 16:29:04 +0000",
+      "bullets": [
+        "• Amazon Prime's latest Prime Day sale has come and gone",
+        "• We're still keeping you updated here with all the best markdowns on our favorite tech gear and gadgets that are still available",
+        "• The WIRED Reviews team tests products year-round, and at sales events like this, we only recommend deals on stuff we have actually used "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon Prime's latest Prime Day sale has come and gone",
+          "• We're still keeping you updated here with all the best markdowns on our favorite tech gear and gadgets that are still available"
+        ],
+        "hopeful_bullets": [
+          "• Amazon Prime's latest Prime Day sale has come and gone",
+          "• We're still keeping you updated here with all the best markdowns on our favorite tech gear and gadgets that are still available"
+        ],
+        "stakes_bullets": [
+          "• Amazon Prime's latest Prime Day sale has come and gone",
+          "• We're still keeping you updated here with all the best markdowns on our favorite tech gear and gadgets that are still available",
+          "• The WIRED Reviews team tests products year-round, and at sales events like this, we only recommend deals on stuff we have actually used "
+        ]
+      },
+      "read_minutes": 37,
+      "cluster_id": "37d9e4c3a9ce"
+    },
+    {
+      "id": "b8931686e30e",
+      "title": "Hasbro NYCC The Vintage Collection & The Black Series Reveals",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-09-hasbro-nycc-the-vintage-collection-the-black-series-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=hasbro-nycc-the-vintage-collection-the-black-series-reveals",
+      "published_at": "Thu, 09 Oct 2025 16:23:17 +0000",
+      "bullets": [
+        "• Hasbro held their Star Wars and Marvel showcase today at New York Comic Con",
+        "• Here are the reveals from the Star Wars portion: The Vintage Collection- Padme Amidala (VC383) The Black Series- Boba Fett (Duel’s End) pre-orders go live on October 28th at 1 PM Eastern "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro held their Star Wars and Marvel showcase today at New York Comic Con",
+          "• Here are the reveals from the Star Wars portion: The Vintage Collection- Padme Amidala (VC383) The Black Series- Boba Fett (Duel’s End) pre-orders go live on October 28th at 1 PM Eastern "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro held their Star Wars and Marvel showcase today at New York Comic Con",
+          "• Here are the reveals from the Star Wars portion: The Vintage Collection- Padme Amidala (VC383) The Black Series- Boba Fett (Duel’s End) pre-orders go live on October 28th at 1 PM Eastern "
+        ],
+        "stakes_bullets": [
+          "• Hasbro held their Star Wars and Marvel showcase today at New York Comic Con",
+          "• Here are the reveals from the Star Wars portion: The Vintage Collection- Padme Amidala (VC383) The Black Series- Boba Fett (Duel’s End) pre-orders go live on October 28th at 1 PM Eastern "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bc62c8fb7c6c"
+    },
+    {
+      "id": "43706ff98966",
+      "title": "House speaker Mike Johnson accuses Democrats of ‘political theater’ as shutdown enters day nine – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
+      "published_at": "Thu, 09 Oct 2025 16:22:47 GMT",
+      "bullets": [
+        "• On ninth day of government shutdown, Mike Johnson says Democrats are performing 'political theater' The Senate has rejected the Democratic stopgap funding bill on day nine of the government shutdown",
+        "• Trump says administration is 'only' going to make permanent cuts to 'Democrat programs'"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• On ninth day of government shutdown, Mike Johnson says Democrats are performing 'political theater' The Senate has rejected the Democratic stopgap funding bill on day nine of the government shutdown",
+          "• Trump says administration is 'only' going to make permanent cuts to 'Democrat programs'"
+        ],
+        "hopeful_bullets": [
+          "• On ninth day of government shutdown, Mike Johnson says Democrats are performing 'political theater' The Senate has rejected the Democratic stopgap funding bill on day nine of the government shutdown",
+          "• Trump says administration is 'only' going to make permanent cuts to 'Democrat programs'"
+        ],
+        "stakes_bullets": [
+          "• On ninth day of government shutdown, Mike Johnson says Democrats are performing 'political theater' The Senate has rejected the Democratic stopgap funding bill on day nine of the government shutdown",
+          "• Trump says administration is 'only' going to make permanent cuts to 'Democrat programs'"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "b35d6a8b6ebd"
+    },
+    {
+      "id": "fe8b8b9ad563",
+      "title": "Solo Leveling Movie Officially in the Works, Confirms Series Creator",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/solo-leveling-movie-confirmed-series-creator/",
+      "published_at": "Thu, 09 Oct 2025 16:20:12 GMT",
+      "bullets": [
+        "• Solo Leveling light novel author Chugong confirmed that a movie based on the series is in the early stages of creation",
+        "• He didn’t specify whether these discussions revolve around a live-action movie or an anime movie",
+        "• The existence of the Netflix live action series suggests that this movie would conflict with that upcoming release "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Solo Leveling light novel author Chugong confirmed that a movie based on the series is in the early stages of creation",
+          "• He didn’t specify whether these discussions revolve around a live-action movie or an anime movie"
+        ],
+        "hopeful_bullets": [
+          "• Solo Leveling light novel author Chugong confirmed that a movie based on the series is in the early stages of creation",
+          "• He didn’t specify whether these discussions revolve around a live-action movie or an anime movie"
+        ],
+        "stakes_bullets": [
+          "• Solo Leveling light novel author Chugong confirmed that a movie based on the series is in the early stages of creation",
+          "• He didn’t specify whether these discussions revolve around a live-action movie or an anime movie",
+          "• The existence of the Netflix live action series suggests that this movie would conflict with that upcoming release "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0f10859b044c"
+    },
+    {
+      "id": "f939c51ea809",
+      "title": "‘Deathstalker’ Review – A Bloody, Tongue-in-Cheek Sword & Sorcery Throwback",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/reviews/3908204/deathstalker-review-a-bloody-tongue-in-cheek-sword-sorcery-throwback/?utm_source=rss&utm_medium=rss&utm_campaign=deathstalker-review-a-bloody-tongue-in-cheek-sword-sorcery-throwback",
+      "published_at": "Thu, 09 Oct 2025 16:18:35 +0000",
+      "bullets": [
+        "• Steven Kostanski continues his streak of updating ’80s and ’90s cult subgenres with energetic tongue-in-cheek flair",
+        "• In this reimagining, the notorious scavenger Deathstalker finds himself unwittingly on a path to heroism when he swipes a mysterious amulet from a dying prince "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Steven Kostanski continues his streak of updating ’80s and ’90s cult subgenres with energetic tongue-in-cheek flair",
+          "• In this reimagining, the notorious scavenger Deathstalker finds himself unwittingly on a path to heroism when he swipes a mysterious amulet from a dying prince "
+        ],
+        "hopeful_bullets": [
+          "• Steven Kostanski continues his streak of updating ’80s and ’90s cult subgenres with energetic tongue-in-cheek flair",
+          "• In this reimagining, the notorious scavenger Deathstalker finds himself unwittingly on a path to heroism when he swipes a mysterious amulet from a dying prince "
+        ],
+        "stakes_bullets": [
+          "• Steven Kostanski continues his streak of updating ’80s and ’90s cult subgenres with energetic tongue-in-cheek flair",
+          "• In this reimagining, the notorious scavenger Deathstalker finds himself unwittingly on a path to heroism when he swipes a mysterious amulet from a dying prince "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "00b21d77a396"
+    },
+    {
+      "id": "48034b14a055",
+      "title": "IRS unveils higher capital gains tax brackets for 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/capital-gains-tax-2026-federal.html",
+      "published_at": "Thu, 09 Oct 2025 16:18:22 GMT",
+      "bullets": [
+        "• The agency boosted the taxable income limits for the long-term capital gains brackets, which apply to assets owned for more than one year",
+        "• For 2026, the standard deduction will rise to $16,100 for single filers and $32,200 for married couples filing jointly "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.938
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The agency boosted the taxable income limits for the long-term capital gains brackets, which apply to assets owned for more than one year",
+          "• For 2026, the standard deduction will rise to $16,100 for single filers and $32,200 for married couples filing jointly "
+        ],
+        "hopeful_bullets": [
+          "• The agency boosted the taxable income limits for the long-term capital gains brackets, which apply to assets owned for more than one year"
+        ],
+        "stakes_bullets": [
+          "• For 2026, the standard deduction will rise to $16,100 for single filers and $32,200 for married couples filing jointly "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f0f3eb559c52"
+    },
+    {
+      "id": "5b04cd8ed224",
+      "title": "Rare earths stocks surge after China tightens grip on global supplies",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/china-tightens-rare-earths-grip-stocks-surge.html",
+      "published_at": "Thu, 09 Oct 2025 16:16:42 GMT",
+      "bullets": [
+        "• China has imposed restrictions on exports of rare earths worth 0.1% of the value",
+        "• Beijing has been a major point of contention in trade talks with the U.S",
+        "• Rare earths",
+        "• The restrictions are expected to come ahead of a meeting with President Xi Jinping in South Korea "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.706
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China has imposed restrictions on exports of rare earths worth 0.1% of the value",
+          "• Beijing has been a major point of contention in trade talks with the U.S"
+        ],
+        "hopeful_bullets": [
+          "• China has imposed restrictions on exports of rare earths worth 0.1% of the value",
+          "• Beijing has been a major point of contention in trade talks with the U.S"
+        ],
+        "stakes_bullets": [
+          "• The restrictions are expected to come ahead of a meeting with President Xi Jinping in South Korea "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d595ac6c3a37"
+    },
+    {
+      "id": "d92eed328917",
+      "title": "A Wes Craven Remake's Streaming Success Quietly Redeems the 14% RT Horror Movie 15 Years Later",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/wes-craven-remake-a-nightmare-on-elm-street-2010-1984/",
+      "published_at": "Thu, 09 Oct 2025 16:15:12 GMT",
+      "bullets": [
+        "• Wes Craven is one of the most important filmmakers who has ever worked in the horror genre",
+        "• Craven's first horror film, The Last House on the Left, was released in 1972",
+        "• He is perhaps best known for the Scream franchise that has released six films and a television series "
       ],
       "category": "Comics",
       "sentiment": {
@@ -3295,89 +3512,288 @@
       },
       "moods": {
         "brief_bullets": [
-          "• A new Ben 10 comic book series is set to reintroduce the franchise like never before",
-          "• Original co-creator and Man of Action co-founder Joe Casey will write the new series"
+          "• Wes Craven is one of the most important filmmakers who has ever worked in the horror genre",
+          "• Craven's first horror film, The Last House on the Left, was released in 1972"
         ],
         "hopeful_bullets": [
-          "• A new Ben 10 comic book series is set to reintroduce the franchise like never before",
-          "• Original co-creator and Man of Action co-founder Joe Casey will write the new series"
+          "• Wes Craven is one of the most important filmmakers who has ever worked in the horror genre",
+          "• Craven's first horror film, The Last House on the Left, was released in 1972"
         ],
         "stakes_bullets": [
-          "• Original co-creator and Man of Action co-founder Joe Casey will write the new series",
-          "• The series will offer an updated origin story before the wider Ben 10 mythos is expanded upon and refined "
+          "• Wes Craven is one of the most important filmmakers who has ever worked in the horror genre",
+          "• Craven's first horror film, The Last House on the Left, was released in 1972",
+          "• He is perhaps best known for the Scream franchise that has released six films and a television series "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "843185e904e0"
+    },
+    {
+      "id": "c59eeb5bf403",
+      "title": "Game of Thrones: A Knight of the Seven Kingdoms Releases Official Trailer",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/game-of-thrones-knight-seven-kingdoms-first-trailer/",
+      "published_at": "Thu, 09 Oct 2025 16:13:11 GMT",
+      "bullets": [
+        "• HBO has released the first official trailer for A Knight of the Seven Kingdoms",
+        "• The series is a prequel to Game of Thrones",
+        "• It stars Peter Claffey as Ser Duncan the Tall and his squire Aegon Targaryen",
+        "• The trailer shows Dunk and Egg meeting up and having a fireside chat "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.806
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HBO has released the first official trailer for A Knight of the Seven Kingdoms",
+          "• The series is a prequel to Game of Thrones"
+        ],
+        "hopeful_bullets": [
+          "• HBO has released the first official trailer for A Knight of the Seven Kingdoms",
+          "• The series is a prequel to Game of Thrones"
+        ],
+        "stakes_bullets": [
+          "• HBO has released the first official trailer for A Knight of the Seven Kingdoms",
+          "• The series is a prequel to Game of Thrones",
+          "• It stars Peter Claffey as Ser Duncan the Tall and his squire Aegon Targaryen"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fed3acb3ffa2"
+    },
+    {
+      "id": "794802841d88",
+      "title": "Anti-abortion activists pardoned by Trump face trial for new clinic ‘invasion’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/09/anti-abortion-activists-pardoned-trump-trial",
+      "published_at": "Thu, 09 Oct 2025 16:10:03 GMT",
+      "bullets": [
+        "• Six people have been charged with criminal conspiracy in Pennsylvania",
+        "• They are accused of trying to force them to leave the clinic",
+        "• The charges include trespassing on the property of the property",
+        "• The group has been involved in a series of incidents in the U.S"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Six people have been charged with criminal conspiracy in Pennsylvania",
+          "• They are accused of trying to force them to leave the clinic"
+        ],
+        "hopeful_bullets": [
+          "• Six people have been charged with criminal conspiracy in Pennsylvania",
+          "• They are accused of trying to force them to leave the clinic"
+        ],
+        "stakes_bullets": [
+          "• Six people have been charged with criminal conspiracy in Pennsylvania",
+          "• They are accused of trying to force them to leave the clinic",
+          "• The charges include trespassing on the property of the property"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1c4dec32ffac"
+    },
+    {
+      "id": "1b3d3a9ff7b4",
+      "title": "Charlie Hunnam Will Return to Monster Season 4 as Production Starts",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/monster-season-4-massive-update-charlie-hunnam-returning/",
+      "published_at": "Thu, 09 Oct 2025 16:05:44 GMT",
+      "bullets": [
+        "• Production is now underway on Monster Season 4",
+        "• Ella Beatty will take on the lead role of Lizzie Borden",
+        "• Charlie Hunnam will return as Andrew Borden, the Bordens' father",
+        "• Max Winkler will direct the first episode of the new season "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Production is now underway on Monster Season 4",
+          "• Ella Beatty will take on the lead role of Lizzie Borden"
+        ],
+        "hopeful_bullets": [
+          "• Max Winkler will direct the first episode of the new season "
+        ],
+        "stakes_bullets": [
+          "• Ella Beatty will take on the lead role of Lizzie Borden",
+          "• Charlie Hunnam will return as Andrew Borden, the Bordens' father",
+          "• Max Winkler will direct the first episode of the new season "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "b54e5fafb7e8"
+      "cluster_id": "088168a53a73"
     },
     {
-      "id": "d501677a9428",
-      "title": "Overhated & Underrated: This Star Wars Show Is the Most Overhated in the Franchise",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/overhated-underrated-star-wars-the-book-of-boba-fett/",
-      "published_at": "Thu, 09 Oct 2025 16:00:12 GMT",
+      "id": "eed25e070c14",
+      "title": "Europe Pledges $600 Billion for Clean Energy Projects in Africa",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/",
+      "published_at": "Thu, 09 Oct 2025 16:05:07 +0000",
       "bullets": [
-        "• The Book of Boba Fett is a strong entry in the Star Wars franchise and that the series is aggressively overhated",
-        "• Temura Morrison, Robert Rodriguez, and Ming-Na Wen give fans an action-packed Star Wars adventure that deserves far more love than it has ever received",
-        "• With an audience score of only 48% on Rotten Tomatoes, it's clear that the fans had strong negative feelings "
+        "• The European Union announced a €545 million ($636 million) investment package to support renewable energy and electrification in Africa",
+        "• New EU-funded projects will include a high-voltage transmission line in Côte d’Ivoire, the electrification of hundreds of rural communities in Cameroon, the exploitation of wind and hydro energy in Lesotho, and the installation of mini-grids in remote areas of Madagascar "
       ],
-      "category": "Comics",
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.934
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The European Union announced a €545 million ($636 million) investment package to support renewable energy and electrification in Africa",
+          "• New EU-funded projects will include a high-voltage transmission line in Côte d’Ivoire, the electrification of hundreds of rural communities in Cameroon, the exploitation of wind and hydro energy in Lesotho, and the installation of mini-grids in remote areas of Madagascar "
+        ],
+        "hopeful_bullets": [
+          "• New EU-funded projects will include a high-voltage transmission line in Côte d’Ivoire, the electrification of hundreds of rural communities in Cameroon, the exploitation of wind and hydro energy in Lesotho, and the installation of mini-grids in remote areas of Madagascar "
+        ],
+        "stakes_bullets": [
+          "• New EU-funded projects will include a high-voltage transmission line in Côte d’Ivoire, the electrification of hundreds of rural communities in Cameroon, the exploitation of wind and hydro energy in Lesotho, and the installation of mini-grids in remote areas of Madagascar "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c5dd7cfda549"
+    },
+    {
+      "id": "0fc4fd7a3484",
+      "title": "IRS announces new federal income tax brackets for 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/2026-federal-tax-brackets.html",
+      "published_at": "Thu, 09 Oct 2025 16:03:32 GMT",
+      "bullets": [
+        "• The IRS announces new income tax brackets and standard deductions for 2026",
+        "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600",
+        "• Single filers can claim $16,100, a bump up from $15,750",
+        "• The standard deduction will also rise to $32,200 for married couples filing jointly "
+      ],
+      "category": "Business",
       "sentiment": {
         "label": "negative",
         "score": 0.931
       },
       "moods": {
         "brief_bullets": [
-          "• The Book of Boba Fett is a strong entry in the Star Wars franchise and that the series is aggressively overhated",
-          "• Temura Morrison, Robert Rodriguez, and Ming-Na Wen give fans an action-packed Star Wars adventure that deserves far more love than it has ever received"
+          "• The IRS announces new income tax brackets and standard deductions for 2026",
+          "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600"
         ],
         "hopeful_bullets": [
-          "• The Book of Boba Fett is a strong entry in the Star Wars franchise and that the series is aggressively overhated",
-          "• With an audience score of only 48% on Rotten Tomatoes, it's clear that the fans had strong negative feelings "
+          "• The IRS announces new income tax brackets and standard deductions for 2026",
+          "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600"
         ],
         "stakes_bullets": [
-          "• The Book of Boba Fett is a strong entry in the Star Wars franchise and that the series is aggressively overhated",
-          "• Temura Morrison, Robert Rodriguez, and Ming-Na Wen give fans an action-packed Star Wars adventure that deserves far more love than it has ever received",
-          "• With an audience score of only 48% on Rotten Tomatoes, it's clear that the fans had strong negative feelings "
+          "• The standard deduction will also rise to $32,200 for married couples filing jointly "
         ]
       },
-      "read_minutes": 8,
-      "cluster_id": "702767cb44fa"
+      "read_minutes": 1,
+      "cluster_id": "fd5046070208"
     },
     {
-      "id": "d88628d9a842",
-      "title": "Game of Thrones Prequel Star Teases How the Show Honors George R.R. Martin",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/game-of-thrones-george-r-r-martin-knight-seven-kingdoms-fandom/",
-      "published_at": "Thu, 09 Oct 2025 15:51:13 GMT",
+      "id": "ef8ae26af10f",
+      "title": "YouTube will give banned creators a 'second chance' after rule rollback",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/youtube-banned-accounts-trump-misinformation.html",
+      "published_at": "Thu, 09 Oct 2025 16:00:01 GMT",
       "bullets": [
-        "• Peter Claffey is the star of the upcoming Game of Thrones prequel series A Knight of the Seven Kingdoms",
-        "• The series is based on George R.R",
-        "• Martin's novella series Game of the Thrones",
-        "• The show is set to debut on HBO in 2026 "
+        "• YouTube is rolling out a feature for previously terminated creators to apply to create a new channel",
+        "• Creators are only eligible to apply one year after their original channel was terminated",
+        "• Previous rules led to a lifetime ban from the platform",
+        "• The company said it will review requests based on the severity and frequency of past violations "
       ],
-      "category": "Comics",
+      "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.984
+        "label": "negative",
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• Peter Claffey is the star of the upcoming Game of Thrones prequel series A Knight of the Seven Kingdoms",
-          "• The series is based on George R.R"
+          "• YouTube is rolling out a feature for previously terminated creators to apply to create a new channel",
+          "• Creators are only eligible to apply one year after their original channel was terminated"
         ],
         "hopeful_bullets": [
-          "• Peter Claffey is the star of the upcoming Game of Thrones prequel series A Knight of the Seven Kingdoms",
-          "• The series is based on George R.R"
+          "• YouTube is rolling out a feature for previously terminated creators to apply to create a new channel",
+          "• Creators are only eligible to apply one year after their original channel was terminated"
         ],
         "stakes_bullets": [
-          "• Peter Claffey is the star of the upcoming Game of Thrones prequel series A Knight of the Seven Kingdoms",
-          "• The series is based on George R.R",
-          "• Martin's novella series Game of the Thrones"
+          "• Previous rules led to a lifetime ban from the platform",
+          "• The company said it will review requests based on the severity and frequency of past violations "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "057314ddef6b"
+      "cluster_id": "d3d814e1a082"
+    },
+    {
+      "id": "3694521ab4e4",
+      "title": "He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/mark-bray-book-antifa-death-threats/",
+      "published_at": "Thu, 09 Oct 2025 15:55:56 +0000",
+      "bullets": [
+        "• Mark Bray, a historian at Rutgers University, has been a far-right target ever since he published Antifa: The Anti-Fascist Handbook in 2017",
+        "• The threats, emailed from anonymous accounts and reviewed by WIRED, included a message that read: “I’ll kill you in front of your students.” Bray says he and his family were not allowed to board at the airport "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mark Bray, a historian at Rutgers University, has been a far-right target ever since he published Antifa: The Anti-Fascist Handbook in 2017",
+          "• The threats, emailed from anonymous accounts and reviewed by WIRED, included a message that read: “I’ll kill you in front of your students.” Bray says he and his family were not allowed to board at the airport "
+        ],
+        "hopeful_bullets": [
+          "• Mark Bray, a historian at Rutgers University, has been a far-right target ever since he published Antifa: The Anti-Fascist Handbook in 2017",
+          "• The threats, emailed from anonymous accounts and reviewed by WIRED, included a message that read: “I’ll kill you in front of your students.” Bray says he and his family were not allowed to board at the airport "
+        ],
+        "stakes_bullets": [
+          "• Mark Bray, a historian at Rutgers University, has been a far-right target ever since he published Antifa: The Anti-Fascist Handbook in 2017",
+          "• The threats, emailed from anonymous accounts and reviewed by WIRED, included a message that read: “I’ll kill you in front of your students.” Bray says he and his family were not allowed to board at the airport "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a79a0926d01d"
+    },
+    {
+      "id": "dcf8d6a90534",
+      "title": "Man who appealed Pelicot rape conviction handed longer jail term",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq65e2jdd3lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 15:52:51 GMT",
+      "bullets": [
+        "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
+        "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old",
+        "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
+          "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old"
+        ],
+        "hopeful_bullets": [
+          "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
+          "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old"
+        ],
+        "stakes_bullets": [
+          "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
+          "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old",
+          "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "38ca06fcd04c"
     },
     {
       "id": "8fb9ff6dc7ac",
@@ -3414,6 +3830,70 @@
       "cluster_id": "cb098ddee88d"
     },
     {
+      "id": "1f4b375048a6",
+      "title": "Tesla investigated over self-driving cars on wrong side of road",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg02rdxxz7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 15:41:56 GMT",
+      "bullets": [
+        "• US government investigating 58 reports of incidents involving self-driving cars",
+        "• Reports include driving on wrong side of road and not stopping for red lights",
+        "• An estimated 2.9 million cars equipped with full-driving tech will fall under investigation",
+        "• Tesla boss Elon Musk recently became the world's first half-trillionaire "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US government investigating 58 reports of incidents involving self-driving cars",
+          "• Reports include driving on wrong side of road and not stopping for red lights"
+        ],
+        "hopeful_bullets": [
+          "• US government investigating 58 reports of incidents involving self-driving cars",
+          "• Reports include driving on wrong side of road and not stopping for red lights"
+        ],
+        "stakes_bullets": [
+          "• An estimated 2.9 million cars equipped with full-driving tech will fall under investigation"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f0e9cd6d5ed2"
+    },
+    {
+      "id": "a03bfc19ff11",
+      "title": "How Hong Kong Gave Rise to Labubu",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/made-in-china-why-labubus-come-from-hong-kong/",
+      "published_at": "Thu, 09 Oct 2025 15:40:38 +0000",
+      "bullets": [
+        "• Labubu, the creepy-cute stuffed monster that swept the world this summer, has turned into the biggest Gen-Z cultural trend of 2025",
+        "• The toy is manufactured by a Chinese company in Vietnamese factories, designed by a Dutch artist in Belgium and inspired by indie toy culture in Hong Kong "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Labubu, the creepy-cute stuffed monster that swept the world this summer, has turned into the biggest Gen-Z cultural trend of 2025",
+          "• The toy is manufactured by a Chinese company in Vietnamese factories, designed by a Dutch artist in Belgium and inspired by indie toy culture in Hong Kong "
+        ],
+        "hopeful_bullets": [
+          "• Labubu, the creepy-cute stuffed monster that swept the world this summer, has turned into the biggest Gen-Z cultural trend of 2025",
+          "• The toy is manufactured by a Chinese company in Vietnamese factories, designed by a Dutch artist in Belgium and inspired by indie toy culture in Hong Kong "
+        ],
+        "stakes_bullets": [
+          "• Labubu, the creepy-cute stuffed monster that swept the world this summer, has turned into the biggest Gen-Z cultural trend of 2025"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "ea4f58c66f6b"
+    },
+    {
       "id": "e5441c9402b8",
       "title": "‘Indera’ Trailer – Searing Malaysian Folk Horror Will Be Unleashed on Halloween [Exclusive]",
       "outlet": "Bloody Disgusting!",
@@ -3446,75 +3926,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "3ed01417f288"
-    },
-    {
-      "id": "ee88a195d90a",
-      "title": "Police fire rubber bullets as Madagascar protesters reject president's promises",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c07v33mg9m2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 09 Oct 2025 15:35:37 GMT",
-      "bullets": [
-        "• Police fire rubber bullets and tear gas to disperse latest youth-led protest in Madagascar",
-        "• At least 1,000 protesters marched through capital on Thursday, some hurling objects at security",
-        "• They rejected President Andry Rajoelina's offer to attend talks, demanding he resign",
-        "• Protests began on 25 September triggered by persistent power and water shortages "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Police fire rubber bullets and tear gas to disperse latest youth-led protest in Madagascar",
-          "• At least 1,000 protesters marched through capital on Thursday, some hurling objects at security"
-        ],
-        "hopeful_bullets": [
-          "• Police fire rubber bullets and tear gas to disperse latest youth-led protest in Madagascar",
-          "• At least 1,000 protesters marched through capital on Thursday, some hurling objects at security"
-        ],
-        "stakes_bullets": [
-          "• Police fire rubber bullets and tear gas to disperse latest youth-led protest in Madagascar",
-          "• At least 1,000 protesters marched through capital on Thursday, some hurling objects at security",
-          "• They rejected President Andry Rajoelina's offer to attend talks, demanding he resign"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7ae79637375a"
-    },
-    {
-      "id": "fa9abe0bb8ef",
-      "title": "Delta's profit forecast tops estimates, buoyed by higher fares and resilient luxury demand",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/delta-air-lines-dal-q3-2025-earnings.html",
-      "published_at": "Thu, 09 Oct 2025 15:31:26 GMT",
-      "bullets": [
-        "• Revenue in the last three months of the year will grow as much as 4%, Delta says",
-        "• The Atlanta-based carrier is the first of the major airlines to report results this quarter",
-        "• Delta's third-quarter profit rose 11% to $1.42 billion, or $2.17 a share "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.958
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Revenue in the last three months of the year will grow as much as 4%, Delta says",
-          "• The Atlanta-based carrier is the first of the major airlines to report results this quarter"
-        ],
-        "hopeful_bullets": [
-          "• Revenue in the last three months of the year will grow as much as 4%, Delta says",
-          "• The Atlanta-based carrier is the first of the major airlines to report results this quarter"
-        ],
-        "stakes_bullets": [
-          "• Revenue in the last three months of the year will grow as much as 4%, Delta says",
-          "• The Atlanta-based carrier is the first of the major airlines to report results this quarter",
-          "• Delta's third-quarter profit rose 11% to $1.42 billion, or $2.17 a share "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d4342b70c3d3"
     },
     {
       "id": "68cd1dc87733",
@@ -3616,169 +4027,6 @@
       "cluster_id": "b8839cd80ec0"
     },
     {
-      "id": "5b04cd8ed224",
-      "title": "Rare earths stocks surge after China tightens grip on global supplies",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/china-tightens-rare-earths-grip-stocks-surge.html",
-      "published_at": "Thu, 09 Oct 2025 15:20:54 GMT",
-      "bullets": [
-        "• Shares of U.S",
-        "• rare earth and critical mineral miners soar after China imposes restrictions on exports",
-        "• China imposed the restrictions ahead of an expected meeting between President Xi Jinping and President Donald Trump",
-        "• Rare earths have been a major point of contention in trade talks between Beijing and Washington "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares of U.S",
-          "• rare earth and critical mineral miners soar after China imposes restrictions on exports"
-        ],
-        "hopeful_bullets": [
-          "• Shares of U.S",
-          "• rare earth and critical mineral miners soar after China imposes restrictions on exports"
-        ],
-        "stakes_bullets": [
-          "• China imposed the restrictions ahead of an expected meeting between President Xi Jinping and President Donald Trump"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d595ac6c3a37"
-    },
-    {
-      "id": "dcf8d6a90534",
-      "title": "Man who appealed Pelicot rape conviction handed longer jail term",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq65e2jdd3lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 09 Oct 2025 15:20:43 GMT",
-      "bullets": [
-        "• Husamettin Dogan was convicted of aggravated rape of Gisèle Pelicot last December",
-        "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years",
-        "• Prosecutors had asked the court to impose a 12-year term on Dogan",
-        "• He argued he was innocent, despite graphic video footage of him penetrating a motionless woman "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Husamettin Dogan was convicted of aggravated rape of Gisèle Pelicot last December",
-          "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years"
-        ],
-        "hopeful_bullets": [
-          "• Husamettin Dogan was convicted of aggravated rape of Gisèle Pelicot last December",
-          "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years"
-        ],
-        "stakes_bullets": [
-          "• Prosecutors had asked the court to impose a 12-year term on Dogan"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "38ca06fcd04c"
-    },
-    {
-      "id": "375f276986ac",
-      "title": "Maigret Showrunner Breaks Down Adapting Georges Simenon's Books for TV",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/video/maigret-showrunner-breaks-down-adapting-georges-simenons-books-for-tv/",
-      "published_at": "Thu, 09 Oct 2025 15:19:28 GMT",
-      "bullets": [
-        "• Patrick Harbinson, writer and executive producer of MASTERPIECE's Maigret, talks to Alan A",
-        "• Mehanna about the venture of adapting Georges Simenon's classic best-selling novels to the modern world",
-        "• He discusses why he chose not to make it a period piece "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.688
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Patrick Harbinson, writer and executive producer of MASTERPIECE's Maigret, talks to Alan A",
-          "• Mehanna about the venture of adapting Georges Simenon's classic best-selling novels to the modern world"
-        ],
-        "hopeful_bullets": [
-          "• Patrick Harbinson, writer and executive producer of MASTERPIECE's Maigret, talks to Alan A",
-          "• Mehanna about the venture of adapting Georges Simenon's classic best-selling novels to the modern world"
-        ],
-        "stakes_bullets": [
-          "• Patrick Harbinson, writer and executive producer of MASTERPIECE's Maigret, talks to Alan A"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "426dcfeafcef"
-    },
-    {
-      "id": "18229c943a29",
-      "title": "Jennifer Aniston Addresses Why a Friends Reboot Will Never Happen",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jennifer-aniston-why-friends-reboot-impossible/",
-      "published_at": "Thu, 09 Oct 2025 15:19:06 GMT",
-      "bullets": [
-        "• Jennifer Aniston addressed the possibility of a Friends reboot in a new interview",
-        "• She said it would be \"physically impossible\" because of Matthew Perry's death",
-        "• The actor died in October 2023 after an accidental drowning due to a ketamine overdose",
-        "• In 2021, the actors reunited for the documentary Friends: The Reunion "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jennifer Aniston addressed the possibility of a Friends reboot in a new interview",
-          "• She said it would be \"physically impossible\" because of Matthew Perry's death"
-        ],
-        "hopeful_bullets": [
-          "• Jennifer Aniston addressed the possibility of a Friends reboot in a new interview",
-          "• She said it would be \"physically impossible\" because of Matthew Perry's death"
-        ],
-        "stakes_bullets": [
-          "• She said it would be \"physically impossible\" because of Matthew Perry's death"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "cb4e0b0c1dcc"
-    },
-    {
-      "id": "8c28a95d0121",
-      "title": "Demon Slayer’s Biggest Threat Isn’t Muzan; It’s Infinity Castle’s Pacing",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/demon-slayer-infinity-castle-movie-bad-pacing-too-many-flashbacks/",
-      "published_at": "Thu, 09 Oct 2025 15:15:12 GMT",
-      "bullets": [
-        "• The fight between Akaza, Tanjiro and Giyu was a visual treat, but it ended up dragging",
-        "• Every character that fans actually get to watch spends too much time ruminating on their past",
-        "• The story's execution becomes the real villain of Demon Slayer: Infinity Castle "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The fight between Akaza, Tanjiro and Giyu was a visual treat, but it ended up dragging",
-          "• Every character that fans actually get to watch spends too much time ruminating on their past"
-        ],
-        "hopeful_bullets": [
-          "• The fight between Akaza, Tanjiro and Giyu was a visual treat, but it ended up dragging",
-          "• Every character that fans actually get to watch spends too much time ruminating on their past"
-        ],
-        "stakes_bullets": [
-          "• The story's execution becomes the real villain of Demon Slayer: Infinity Castle "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9b61c9ab5bba"
-    },
-    {
       "id": "e8a2d57cca28",
       "title": "‘No Other Choice’ Trailer – Park Chan-wook’s Killer Dark Comedy Opens on Christmas",
       "outlet": "Bloody Disgusting!",
@@ -3809,137 +4057,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "aac0f4a22da2"
-    },
-    {
-      "id": "dc75d8e93666",
-      "title": "Marvel Ending a Massive Universe in 2026",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/marvel-ultimate-universe-ending-2026/",
-      "published_at": "Thu, 09 Oct 2025 15:13:32 GMT",
-      "bullets": [
-        "• Marvel's Ultimate Universe is heading toward the finish line and will end in April 2026",
-        "• The imprint is receiving an official finale in the form of the aptly titled crossover event, Ultimate Endgame",
-        "• The cover art for the first issue is a recreation of the Avengers: Endgame poster "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.755
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel's Ultimate Universe is heading toward the finish line and will end in April 2026",
-          "• The imprint is receiving an official finale in the form of the aptly titled crossover event, Ultimate Endgame"
-        ],
-        "hopeful_bullets": [
-          "• Marvel's Ultimate Universe is heading toward the finish line and will end in April 2026",
-          "• The imprint is receiving an official finale in the form of the aptly titled crossover event, Ultimate Endgame"
-        ],
-        "stakes_bullets": [
-          "• Marvel's Ultimate Universe is heading toward the finish line and will end in April 2026"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "79a3618eb5fa"
-    },
-    {
-      "id": "c2a484ff7084",
-      "title": "Mayor of Kingstown Season 4 Trailer",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jeremy-renner-mayor-of-kingstown-season-4-trailer/",
-      "published_at": "Thu, 09 Oct 2025 15:10:19 GMT",
-      "bullets": [
-        "• Mayor of Kingstown Season 4 premieres on Oct",
-        "• 26",
-        "• The Taylor Sheridan-created series will return to the series",
-        "• Jeremy Renner returns as the mayor",
-        "• The series is set to return to its fourth season on October 26"
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.919
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mayor of Kingstown Season 4 premieres on Oct",
-          "• 26"
-        ],
-        "hopeful_bullets": [
-          "• Mayor of Kingstown Season 4 premieres on Oct",
-          "• 26"
-        ],
-        "stakes_bullets": [
-          "• The Taylor Sheridan-created series will return to the series"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "64b07a01dd9c"
-    },
-    {
-      "id": "43706ff98966",
-      "title": "House speaker Mike Johnson accuses Democrats of ‘political theater’ as shutdown enters day nine – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
-      "published_at": "Thu, 09 Oct 2025 15:10:15 GMT",
-      "bullets": [
-        "• On ninth day of government shutdown, Democrats continue to push for bill to keep troops paid",
-        "• President Obama says shutdown has been a 'tough time' for the military",
-        "• Democrats say it's time to pass a bill to stop the shutdown and pass it through "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• On ninth day of government shutdown, Democrats continue to push for bill to keep troops paid",
-          "• President Obama says shutdown has been a 'tough time' for the military"
-        ],
-        "hopeful_bullets": [
-          "• On ninth day of government shutdown, Democrats continue to push for bill to keep troops paid",
-          "• President Obama says shutdown has been a 'tough time' for the military"
-        ],
-        "stakes_bullets": [
-          "• On ninth day of government shutdown, Democrats continue to push for bill to keep troops paid",
-          "• Democrats say it's time to pass a bill to stop the shutdown and pass it through "
-        ]
-      },
-      "read_minutes": 14,
-      "cluster_id": "b35d6a8b6ebd"
-    },
-    {
-      "id": "0fc4fd7a3484",
-      "title": "IRS announces new federal income tax brackets for 2026",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/2026-federal-tax-brackets.html",
-      "published_at": "Thu, 09 Oct 2025 15:06:39 GMT",
-      "bullets": [
-        "• The new income tax brackets apply to tax year 2026 for returns filed in 2027",
-        "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600 and married couples filing jointly earning $768,700 or more",
-        "• The standard deduction will also increase in 2026 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.94
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The new income tax brackets apply to tax year 2026 for returns filed in 2027",
-          "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600 and married couples filing jointly earning $768,700 or more"
-        ],
-        "hopeful_bullets": [
-          "• The new income tax brackets apply to tax year 2026 for returns filed in 2027",
-          "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600 and married couples filing jointly earning $768,700 or more"
-        ],
-        "stakes_bullets": [
-          "• The standard deduction will also increase in 2026 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fd5046070208"
     },
     {
       "id": "38f58972dba9",
@@ -4044,69 +4161,36 @@
       "cluster_id": "6689f584dd07"
     },
     {
-      "id": "d98d115f4440",
-      "title": "Battlefield 6 Has a Thrilling Campaign, But It Could Have Been So Much Better",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/battlefield-6-campaign-impressions/",
-      "published_at": "Thu, 09 Oct 2025 15:00:12 GMT",
+      "id": "aad143628e99",
+      "title": "'Business is at a standstill' - Mali jihadists' fuel blockade hits the capital",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd071g83101o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 15:00:11 GMT",
       "bullets": [
-        "• The Battlefield 6 campaign isn't a mind-blowing story that will reshape impressions of what it means to play a modern military shooter",
-        "• It's not a terrible waste of time by any means and is definitely not a failure for the franchise",
-        "• The previous entry in the series, Battlefield 2042, did not include any single-player campaign content "
+        "• Militants from an al-Qaeda affiliate have imposed a fuel blockade on major highways in Mali",
+        "• Long queues have been snaking around petrol stations in the capital city of Bamako",
+        "• The military government has assured residents it is only a temporary issue, but there are fears it will quickly run out "
       ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Battlefield 6 campaign isn't a mind-blowing story that will reshape impressions of what it means to play a modern military shooter",
-          "• It's not a terrible waste of time by any means and is definitely not a failure for the franchise"
-        ],
-        "hopeful_bullets": [
-          "• The Battlefield 6 campaign isn't a mind-blowing story that will reshape impressions of what it means to play a modern military shooter"
-        ],
-        "stakes_bullets": [
-          "• The Battlefield 6 campaign isn't a mind-blowing story that will reshape impressions of what it means to play a modern military shooter"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "c4a5cf2db4a8"
-    },
-    {
-      "id": "440f1b6d6fd4",
-      "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
-      "published_at": "Thu, 09 Oct 2025 14:58:20 GMT",
-      "bullets": [
-        "• The U.S",
-        "• Department of Education is sending out notices to student loan borrowers that their debt will soon be cancelled",
-        "• In July, the Education Department announced that it would temporarily stop forgiving the debt of borrowers enrolled in the IBR plan",
-        "• The development sparked panic among borrowers "
-      ],
-      "category": "Business",
+      "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The U.S",
-          "• Department of Education is sending out notices to student loan borrowers that their debt will soon be cancelled"
+          "• Militants from an al-Qaeda affiliate have imposed a fuel blockade on major highways in Mali",
+          "• Long queues have been snaking around petrol stations in the capital city of Bamako"
         ],
         "hopeful_bullets": [
-          "• The U.S",
-          "• Department of Education is sending out notices to student loan borrowers that their debt will soon be cancelled"
+          "• Militants from an al-Qaeda affiliate have imposed a fuel blockade on major highways in Mali",
+          "• Long queues have been snaking around petrol stations in the capital city of Bamako"
         ],
         "stakes_bullets": [
-          "• Department of Education is sending out notices to student loan borrowers that their debt will soon be cancelled",
-          "• In July, the Education Department announced that it would temporarily stop forgiving the debt of borrowers enrolled in the IBR plan"
+          "• The military government has assured residents it is only a temporary issue, but there are fears it will quickly run out "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "1ec3d6fc9a80"
+      "read_minutes": 3,
+      "cluster_id": "e3d68fe4f31e"
     },
     {
       "id": "eb98b441fa62",
@@ -4172,7 +4256,7 @@
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "464bc54f2eea"
+      "cluster_id": "846ad27515fb"
     },
     {
       "id": "7946edc1e738",
@@ -4239,36 +4323,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "23e68d8e7f19"
-    },
-    {
-      "id": "48034b14a055",
-      "title": "IRS unveils higher capital gains tax brackets for 2026",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/capital-gains-tax-2026-federal.html",
-      "published_at": "Thu, 09 Oct 2025 14:45:36 GMT",
-      "bullets": [
-        "• The agency boosted the taxable income limits for the long-term capital gains brackets, which apply to assets owned for more than one year",
-        "• For 2026, the standard deduction will rise to $16,100 for single filers and $32,200 for married couples filing jointly "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.938
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The agency boosted the taxable income limits for the long-term capital gains brackets, which apply to assets owned for more than one year",
-          "• For 2026, the standard deduction will rise to $16,100 for single filers and $32,200 for married couples filing jointly "
-        ],
-        "hopeful_bullets": [
-          "• The agency boosted the taxable income limits for the long-term capital gains brackets, which apply to assets owned for more than one year"
-        ],
-        "stakes_bullets": [
-          "• For 2026, the standard deduction will rise to $16,100 for single filers and $32,200 for married couples filing jointly "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f0f3eb559c52"
     },
     {
       "id": "a8e25c566fa9",
@@ -4670,38 +4724,6 @@
       "cluster_id": "0edbcec48c62"
     },
     {
-      "id": "f471e1eea151",
-      "title": "Ferrari on track for worst trading day ever as guidance disappoints",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
-      "published_at": "Thu, 09 Oct 2025 13:57:30 GMT",
-      "bullets": [
-        "• Ferrari's Milan-listed stock price tumbled 16.1%, before paring some of its losses",
-        "• It was last seen down 13.2%, on track for its worst trading day since the automaker publicly listed in early 2016",
-        "• U.S.-listed shares, with a market cap of nearly $80 billion, is now down about 1% for 2014 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ferrari's Milan-listed stock price tumbled 16.1%, before paring some of its losses",
-          "• It was last seen down 13.2%, on track for its worst trading day since the automaker publicly listed in early 2016"
-        ],
-        "hopeful_bullets": [
-          "• Ferrari's Milan-listed stock price tumbled 16.1%, before paring some of its losses",
-          "• It was last seen down 13.2%, on track for its worst trading day since the automaker publicly listed in early 2016"
-        ],
-        "stakes_bullets": [
-          "• U.S.-listed shares, with a market cap of nearly $80 billion, is now down about 1% for 2014 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "67a551466f4a"
-    },
-    {
       "id": "9b1aab67d1a2",
       "title": "Production On ‘Monster: Lizzie Borden’ Begins With Ella Beatty Playing Infamous Axe Murderer for Netflix",
       "outlet": "Bloody Disgusting!",
@@ -4734,73 +4756,6 @@
       "cluster_id": "7a320bdf8dc6"
     },
     {
-      "id": "aa10c00cf602",
-      "title": "Bryan Bertino & Dakota Fanning Preview ‘Vicious’ in New Featurette Ahead of Tomorrow’s Release",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3908192/bryan-bertino-dakota-fanning-preview-vicious-in-new-featurette-ahead-of-tomorrows-release/?utm_source=rss&utm_medium=rss&utm_campaign=bryan-bertino-dakota-fanning-preview-vicious-in-new-featurette-ahead-of-tomorrows-release",
-      "published_at": "Thu, 09 Oct 2025 13:50:01 +0000",
-      "bullets": [
-        "• The Strangers writer-director Bryan Bertino and star Dakota Fanning preview Vicious",
-        "• The film releases tomorrow, October 10, on Paramount+ and Digital",
-        "• It stars Fanning and Bertino as a woman trapped in a terrifying world "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.764
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Strangers writer-director Bryan Bertino and star Dakota Fanning preview Vicious",
-          "• The film releases tomorrow, October 10, on Paramount+ and Digital"
-        ],
-        "hopeful_bullets": [
-          "• The Strangers writer-director Bryan Bertino and star Dakota Fanning preview Vicious",
-          "• The film releases tomorrow, October 10, on Paramount+ and Digital"
-        ],
-        "stakes_bullets": [
-          "• The Strangers writer-director Bryan Bertino and star Dakota Fanning preview Vicious",
-          "• The film releases tomorrow, October 10, on Paramount+ and Digital",
-          "• It stars Fanning and Bertino as a woman trapped in a terrifying world "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8fa77aadf741"
-    },
-    {
-      "id": "fd49d0ed1014",
-      "title": "‘WNUF Halloween Special’ & ‘Out There Halloween Mega Tape’ Now Available at Walmart With Double Feature Blu-ray",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/home-video/3908173/wnuf-halloween-special-out-there-halloween-mega-tape-now-available-at-walmart-with-double-feature-blu-ray/?utm_source=rss&utm_medium=rss&utm_campaign=wnuf-halloween-special-out-there-halloween-mega-tape-now-available-at-walmart-with-double-feature-blu-ray",
-      "published_at": "Thu, 09 Oct 2025 13:29:14 +0000",
-      "bullets": [
-        "• Terror Vision has released a double feature Blu-ray of WNUF Halloween Special and its spinoff sequel",
-        "• Director Chris Lamartina expanded upon the world of the Halloween cult classic with Out There Halloween Mega Tape just last year",
-        "• Terror Vision’s release packages both movies together for the first time",
-        "• It's only available from Walmart both in stores & online!"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Terror Vision has released a double feature Blu-ray of WNUF Halloween Special and its spinoff sequel",
-          "• Director Chris Lamartina expanded upon the world of the Halloween cult classic with Out There Halloween Mega Tape just last year"
-        ],
-        "hopeful_bullets": [
-          "• Terror Vision has released a double feature Blu-ray of WNUF Halloween Special and its spinoff sequel",
-          "• Director Chris Lamartina expanded upon the world of the Halloween cult classic with Out There Halloween Mega Tape just last year"
-        ],
-        "stakes_bullets": [
-          "• Director Chris Lamartina expanded upon the world of the Halloween cult classic with Out There Halloween Mega Tape just last year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "406dc7e530f7"
-    },
-    {
       "id": "8437aaa6fe49",
       "title": "Tax credits for electric cars are no more. What’s next for the US EV industry?",
       "outlet": "Ars Technica - All content",
@@ -4831,41 +4786,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0a88becd2a34"
-    },
-    {
-      "id": "2d24d64b1b4b",
-      "title": "‘Fortnite’ Gets Terrified: Art the Clown Has Joined ‘Fortnitemares 2025’!",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3908171/art-the-clown-has-joined-fortnitemares-2025/?utm_source=rss&utm_medium=rss&utm_campaign=art-the-clown-has-joined-fortnitemares-2025",
-      "published_at": "Thu, 09 Oct 2025 13:15:01 +0000",
-      "bullets": [
-        "• Terrifier: The ARTcade Game currently in development for PC via Steam, Nintendo Switch, PlayStation 5, and Xbox Series",
-        "• Art the Clown is in the mix as well, as Terrifier series creator Damien Leone confirmed this morning",
-        "• Jason Voorhees, Ghostface, Scooby-Doo and The Grabber from The Black Phone are also in the event",
-        "• Wednesday Addams from Netflix’s “Wednesday” TV series is also in "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.863
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Terrifier: The ARTcade Game currently in development for PC via Steam, Nintendo Switch, PlayStation 5, and Xbox Series",
-          "• Art the Clown is in the mix as well, as Terrifier series creator Damien Leone confirmed this morning"
-        ],
-        "hopeful_bullets": [
-          "• Terrifier: The ARTcade Game currently in development for PC via Steam, Nintendo Switch, PlayStation 5, and Xbox Series",
-          "• Art the Clown is in the mix as well, as Terrifier series creator Damien Leone confirmed this morning"
-        ],
-        "stakes_bullets": [
-          "• Terrifier: The ARTcade Game currently in development for PC via Steam, Nintendo Switch, PlayStation 5, and Xbox Series",
-          "• Art the Clown is in the mix as well, as Terrifier series creator Damien Leone confirmed this morning",
-          "• Jason Voorhees, Ghostface, Scooby-Doo and The Grabber from The Black Phone are also in the event"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fcd856bb7690"
     },
     {
       "id": "d589ced251ec",
@@ -5104,6 +5024,39 @@
       "cluster_id": "f9034ab5f00f"
     },
     {
+      "id": "5c2f1e85df3d",
+      "title": "United just revealed new summer 2026 flights. Here's where you can fly nonstop",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/united-airlines-summer-2026-flights.html",
+      "published_at": "Thu, 09 Oct 2025 12:21:00 GMT",
+      "bullets": [
+        "• United Airlines' summer 2026 international travel plan is out, and smaller European cities are in",
+        "• The carrier is vying with Delta for big-spending travelers looking for trips beyond major European capitals",
+        "• United executives have long touted its vast international network as a driver for customer loyalty "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.74
+      },
+      "moods": {
+        "brief_bullets": [
+          "• United Airlines' summer 2026 international travel plan is out, and smaller European cities are in",
+          "• The carrier is vying with Delta for big-spending travelers looking for trips beyond major European capitals"
+        ],
+        "hopeful_bullets": [
+          "• United Airlines' summer 2026 international travel plan is out, and smaller European cities are in",
+          "• The carrier is vying with Delta for big-spending travelers looking for trips beyond major European capitals"
+        ],
+        "stakes_bullets": [
+          "• United Airlines' summer 2026 international travel plan is out, and smaller European cities are in",
+          "• United executives have long touted its vast international network as a driver for customer loyalty "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e25629ef77a0"
+    },
+    {
       "id": "48da1f719b58",
       "title": "President Petro accuses US of killing Colombians in attacks on ‘narco-boats’",
       "outlet": "World news | The Guardian",
@@ -5136,6 +5089,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "e4c482b2f737"
+    },
+    {
+      "id": "d1471128489d",
+      "title": "What to know about the Nobel Peace Prize",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/09/nx-s1-5567786/nobel-peace-prize-explained",
+      "published_at": "Thu, 09 Oct 2025 12:17:08 -0400",
+      "bullets": [
+        "• The Norwegian Nobel Peace Prize will be announced on Friday",
+        "• Bookies are taking bets on who will win this year's prize",
+        "• The prize is given to the person or organization who has done the most for \"fraternity between the nations and the formation and spreading of peace\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Norwegian Nobel Peace Prize will be announced on Friday",
+          "• Bookies are taking bets on who will win this year's prize"
+        ],
+        "hopeful_bullets": [
+          "• Bookies are taking bets on who will win this year's prize"
+        ],
+        "stakes_bullets": [
+          "• The Norwegian Nobel Peace Prize will be announced on Friday",
+          "• Bookies are taking bets on who will win this year's prize"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "663f2eac716e"
     },
     {
       "id": "a24a2c5c694e",
@@ -5201,37 +5186,6 @@
       "cluster_id": "8929e353a24c"
     },
     {
-      "id": "519880ab0c31",
-      "title": "Alarm as CDC calls for separate MMR vaccines despite measles outbreak",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/09/cdc-separate-mmr-vaccines",
-      "published_at": "Thu, 09 Oct 2025 12:00:24 GMT",
-      "bullets": [
-        "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services",
-        "• The agency is urging the use of Tylenol and ‘mixed’ vaccines, as well as delaying hepatitis B vaccination from birth "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services",
-          "• The agency is urging the use of Tylenol and ‘mixed’ vaccines, as well as delaying hepatitis B vaccination from birth "
-        ],
-        "hopeful_bullets": [
-          "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services",
-          "• The agency is urging the use of Tylenol and ‘mixed’ vaccines, as well as delaying hepatitis B vaccination from birth "
-        ],
-        "stakes_bullets": [
-          "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0024f4a389ae"
-    },
-    {
       "id": "9aa3e37c5fdd",
       "title": "Inside a US parents’ group chat about raising kids in violent times",
       "outlet": "US news | The Guardian",
@@ -5264,6 +5218,37 @@
       },
       "read_minutes": 4,
       "cluster_id": "64a7ee45863f"
+    },
+    {
+      "id": "519880ab0c31",
+      "title": "Alarm as CDC calls for separate MMR vaccines despite measles outbreak",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/09/cdc-separate-mmr-vaccines",
+      "published_at": "Thu, 09 Oct 2025 12:00:24 GMT",
+      "bullets": [
+        "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services",
+        "• The agency is urging the use of Tylenol and ‘mixed’ vaccines, as well as delaying hepatitis B vaccination from birth "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services",
+          "• The agency is urging the use of Tylenol and ‘mixed’ vaccines, as well as delaying hepatitis B vaccination from birth "
+        ],
+        "hopeful_bullets": [
+          "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services",
+          "• The agency is urging the use of Tylenol and ‘mixed’ vaccines, as well as delaying hepatitis B vaccination from birth "
+        ],
+        "stakes_bullets": [
+          "• The measles, mumps and rubella (MMR) vaccine is under increased scrutiny by the US Department of Health and Human Services"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "0024f4a389ae"
     },
     {
       "id": "19bfcde43c83",
@@ -5362,51 +5347,16 @@
       "cluster_id": "0aa51fc82dd9"
     },
     {
-      "id": "3d42a48be8b0",
-      "title": "China restricts export of metals vital for making electronics",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgzl0nwvd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 09 Oct 2025 11:08:38 GMT",
-      "bullets": [
-        "• China tightens export rules for crucial rare earths and other materials critical for advanced tech manufacturing",
-        "• Foreign companies now need approval to export products with even small amounts of the material",
-        "• Similar restrictions on the export of lithium batteries and some forms of graphite",
-        "• Beijing said the regulations are intended to \"safeguard national security\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China tightens export rules for crucial rare earths and other materials critical for advanced tech manufacturing",
-          "• Foreign companies now need approval to export products with even small amounts of the material"
-        ],
-        "hopeful_bullets": [
-          "• China tightens export rules for crucial rare earths and other materials critical for advanced tech manufacturing",
-          "• Foreign companies now need approval to export products with even small amounts of the material"
-        ],
-        "stakes_bullets": [
-          "• China tightens export rules for crucial rare earths and other materials critical for advanced tech manufacturing",
-          "• Foreign companies now need approval to export products with even small amounts of the material",
-          "• Similar restrictions on the export of lithium batteries and some forms of graphite"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "717a29cde093"
-    },
-    {
       "id": "4efeaac57102",
       "title": "US west coast faults could trigger catastrophic back-to-back earthquakes, study finds",
-      "outlet": "US news | The Guardian",
+      "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/09/back-to-back-earthquakes-west-coast",
       "published_at": "Thu, 09 Oct 2025 11:00:23 GMT",
       "bullets": [
         "• A high-magnitude earthquake in the Pacific north-west could set off a secondary one on California’s San Andreas fault, a new study says",
         "• The Cascadia subduction zone, which can produce magnitude 9 earthquakes on its own, has triggered temblors in the past "
       ],
-      "category": "US",
+      "category": "Environment",
       "sentiment": {
         "label": "negative",
         "score": 0.988
@@ -5458,6 +5408,37 @@
       },
       "read_minutes": 7,
       "cluster_id": "c234df600255"
+    },
+    {
+      "id": "d9df4c488458",
+      "title": "Scientists stunned by wild Martian dust devils racing at hurricane speeds",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251009033215.htm",
+      "published_at": "Thu, 09 Oct 2025 10:35:46 EDT",
+      "bullets": [
+        "• Scientists stunned by wild Martian dust devils racing at hurricane speeds",
+        "• Powerful gusts play a key role in shaping the planet’s weather and climate by lifting vast amounts of dust into the atmosphere",
+        "• Stronger winds may be responsible for much of the dust lofted into the Martian atmospher "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists stunned by wild Martian dust devils racing at hurricane speeds",
+          "• Powerful gusts play a key role in shaping the planet’s weather and climate by lifting vast amounts of dust into the atmosphere"
+        ],
+        "hopeful_bullets": [
+          "• Stronger winds may be responsible for much of the dust lofted into the Martian atmospher "
+        ],
+        "stakes_bullets": [
+          "• Powerful gusts play a key role in shaping the planet’s weather and climate by lifting vast amounts of dust into the atmosphere"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3905fd46e4a3"
     },
     {
       "id": "756ac2c6224c",
@@ -5888,6 +5869,73 @@
       "cluster_id": "97ed96c3ee72"
     },
     {
+      "id": "b91a1bd4511d",
+      "title": "JWST spots a hidden red supergiant just before it exploded",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251009033233.htm",
+      "published_at": "Thu, 09 Oct 2025 07:54:34 EDT",
+      "bullets": [
+        "• JWST spots a hidden red supergiant just before it exploded, finally solving a cosmic mystery",
+        "• Finding shows that many massive stars do explode but are obscured from view — until now",
+        "• Breakthrough may finally explain why astronomers rarely see red supergiants explode "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JWST spots a hidden red supergiant just before it exploded, finally solving a cosmic mystery",
+          "• Finding shows that many massive stars do explode but are obscured from view — until now"
+        ],
+        "hopeful_bullets": [
+          "• Breakthrough may finally explain why astronomers rarely see red supergiants explode "
+        ],
+        "stakes_bullets": [
+          "• JWST spots a hidden red supergiant just before it exploded, finally solving a cosmic mystery",
+          "• Finding shows that many massive stars do explode but are obscured from view — until now",
+          "• Breakthrough may finally explain why astronomers rarely see red supergiants explode "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "4264359156ab"
+    },
+    {
+      "id": "cfeb1759a789",
+      "title": "Tiny asteroid flew right over Antarctica, and no one saw it coming",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251009033240.htm",
+      "published_at": "Thu, 09 Oct 2025 07:06:47 EDT",
+      "bullets": [
+        "• Tiny asteroid flew right over Antarctica, and no one saw it coming",
+        "• Roughly the size of a small car, it was detected hours after flyby and posed no danger",
+        "• Asteroid 2025 TF passed over Antarctica at 00:47:26 UTC + 18 seconds on October 1, 2018 "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tiny asteroid flew right over Antarctica, and no one saw it coming",
+          "• Roughly the size of a small car, it was detected hours after flyby and posed no danger"
+        ],
+        "hopeful_bullets": [
+          "• Tiny asteroid flew right over Antarctica, and no one saw it coming",
+          "• Roughly the size of a small car, it was detected hours after flyby and posed no danger"
+        ],
+        "stakes_bullets": [
+          "• Tiny asteroid flew right over Antarctica, and no one saw it coming",
+          "• Roughly the size of a small car, it was detected hours after flyby and posed no danger",
+          "• Asteroid 2025 TF passed over Antarctica at 00:47:26 UTC + 18 seconds on October 1, 2018 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ae7911aade93"
+    },
+    {
       "id": "2a75e50a42ae",
       "title": "Israel and Hamas reach initial ceasefire deal. And, National Guard arrive near Chicago",
       "outlet": "NPR Topics: News",
@@ -6252,7 +6300,7 @@
     {
       "id": "efa2902fc5f8",
       "title": "59% of Americans disapprove of RFK Jr.'s moves as health secretary, a new poll says",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/sections/shots-health-news/2025/10/09/nx-s1-5566101/kff-poll-vaccines-tylenol-rfk-jr-trump",
       "published_at": "Thu, 09 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -6260,7 +6308,7 @@
         "• The poll, which also asked voters about other topics, offers a window into how dramatically public opinion has changed",
         "• There is no scientific research showing a causal link between acetaminophen and autism "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.978
@@ -6414,37 +6462,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "95b4b130d486"
-    },
-    {
-      "id": "63fa3f768207",
-      "title": "We Found 265 of the Best Prime Day Deals Still on for 2025: Up To 55% Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
-      "published_at": "Thu, 09 Oct 2025 00:55:29 +0000",
-      "bullets": [
-        "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
-        "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
-          "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
-        ],
-        "hopeful_bullets": [
-          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong"
-        ],
-        "stakes_bullets": [
-          "• The mega-retailer’s two-day sales event for Prime members may be winding down, but there are plenty of deals still going strong",
-          "• The WIRED Reviews team tests products year-round and at sales events like this, we only recommend deals on stuff we have actually used and approved "
-        ]
-      },
-      "read_minutes": 54,
-      "cluster_id": "85a0fc742e12"
     },
     {
       "id": "ef1a08daabf5",
@@ -7707,40 +7724,6 @@
       "cluster_id": "68552eff9a44"
     },
     {
-      "id": "cba069b58a4d",
-      "title": "New research reveals what’s really hiding in bottled water",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251006051131.htm",
-      "published_at": "Mon, 06 Oct 2025 10:17:16 EDT",
-      "bullets": [
-        "• New study reveals what’s really hiding in bottled water is harmful microplastic particles",
-        "• Each sip may contain invisible microplastics that can slip through the body's defenses",
-        "• These tiny pollutants are linked to inflammation, hormonal disruption, and even neurological damage "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New study reveals what’s really hiding in bottled water is harmful microplastic particles",
-          "• Each sip may contain invisible microplastics that can slip through the body's defenses"
-        ],
-        "hopeful_bullets": [
-          "• New study reveals what’s really hiding in bottled water is harmful microplastic particles",
-          "• Each sip may contain invisible microplastics that can slip through the body's defenses"
-        ],
-        "stakes_bullets": [
-          "• New study reveals what’s really hiding in bottled water is harmful microplastic particles",
-          "• Each sip may contain invisible microplastics that can slip through the body's defenses",
-          "• These tiny pollutants are linked to inflammation, hormonal disruption, and even neurological damage "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8a26e9a28f22"
-    },
-    {
       "id": "a835216311b2",
       "title": "The medicine Nobel Prize goes to 3 scientists for work on peripheral immune tolerance",
       "outlet": "NPR Topics: Science",
@@ -8315,6 +8298,107 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "8518e0877acf",
+      "title": "OpenAI’s Sora has already hit more than 1 million downloads",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads",
+      "published_at": "2025-10-09T12:38:38-04:00",
+      "bullets": [
+        "• OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch",
+        "• The company says the AI video generation app is outpacing ChatGPT's growth at launch",
+        "• It also lets users insert the likeness of themselves or a friend into an AI video with a \"cameos\" feature "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch",
+          "• The company says the AI video generation app is outpacing ChatGPT's growth at launch"
+        ],
+        "hopeful_bullets": [
+          "• The company says the AI video generation app is outpacing ChatGPT's growth at launch"
+        ],
+        "stakes_bullets": [
+          "• OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch",
+          "• The company says the AI video generation app is outpacing ChatGPT's growth at launch",
+          "• It also lets users insert the likeness of themselves or a friend into an AI video with a \"cameos\" feature "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "846ad27515fb"
+    },
+    {
+      "id": "11b0a3b17d6d",
+      "title": "The AI industry is at a major crossroads",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt",
+      "published_at": "2025-10-09T12:00:00-04:00",
+      "bullets": [
+        "• It's been a very big news week in AI, and a lot of it had to do with OpenAI",
+        "• The company hosted its annual DevDay in San Francisco on Monday",
+        "• It announced a bunch of ChatGPT product features and new agent tools",
+        "• At the same time, the new Sora iOS app has shoved AI-generated video into the mainstream "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It's been a very big news week in AI, and a lot of it had to do with OpenAI",
+          "• The company hosted its annual DevDay in San Francisco on Monday"
+        ],
+        "hopeful_bullets": [
+          "• It's been a very big news week in AI, and a lot of it had to do with OpenAI",
+          "• The company hosted its annual DevDay in San Francisco on Monday"
+        ],
+        "stakes_bullets": [
+          "• It's been a very big news week in AI, and a lot of it had to do with OpenAI",
+          "• The company hosted its annual DevDay in San Francisco on Monday",
+          "• It announced a bunch of ChatGPT product features and new agent tools"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "07c394e0d0c7"
+    },
+    {
+      "id": "fad80eadba11",
+      "title": "Timex is resurrecting its first LCD watch 50 years later",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/797692/timex-ssq-digital-reissue-lcd-watch-retro",
+      "published_at": "2025-10-09T11:49:58-04:00",
+      "bullets": [
+        "• In 1972, Hamilton’s Pulsar Time Computer launched the first commercially sold digital watch, but its LED screen was power hungry and only showed the time when you pushed a button",
+        "• Now, 50 years later, Timex is resurrecting that breakthrough watch",
+        "• The Timex SSQ Digital Reissue has been updated with a recycled stainless-steel case and a chunky but retro-looking navy blue acrylic bezel around the LCD display "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 1972, Hamilton’s Pulsar Time Computer launched the first commercially sold digital watch, but its LED screen was power hungry and only showed the time when you pushed a button",
+          "• Now, 50 years later, Timex is resurrecting that breakthrough watch"
+        ],
+        "hopeful_bullets": [
+          "• Now, 50 years later, Timex is resurrecting that breakthrough watch"
+        ],
+        "stakes_bullets": [
+          "• In 1972, Hamilton’s Pulsar Time Computer launched the first commercially sold digital watch, but its LED screen was power hungry and only showed the time when you pushed a button",
+          "• Now, 50 years later, Timex is resurrecting that breakthrough watch",
+          "• The Timex SSQ Digital Reissue has been updated with a recycled stainless-steel case and a chunky but retro-looking navy blue acrylic bezel around the LCD display "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f92b3d8cb3e3"
+    },
+    {
       "id": "49e48edbcce8",
       "title": "The 2027 Chevy Bolt will be one of the cheapest EVs you can get",
       "outlet": "The Verge",
@@ -8546,105 +8630,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "23501bc8fd57"
-    },
-    {
-      "id": "19c84ca29359",
-      "title": "Xtra: the company that lets DJI sneak its popular cameras into the US",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/795016/xtra-muse-dji-osmo-pocket-3-us-customs-tariffs",
-      "published_at": "2025-10-09T10:00:00-04:00",
-      "bullets": [
-        "• DJI's Osmo Pocket 3, the baby steadicam, is one of the most popular gadgets the company’s ever made",
-        "• But you’ll pay a hefty Trump tax to get one in the US: $799",
-        "• An entire new “US” company has quietly been erected to sell it on Amazon for far lower, even as low as $499 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• DJI's Osmo Pocket 3, the baby steadicam, is one of the most popular gadgets the company’s ever made",
-          "• But you’ll pay a hefty Trump tax to get one in the US: $799"
-        ],
-        "hopeful_bullets": [
-          "• DJI's Osmo Pocket 3, the baby steadicam, is one of the most popular gadgets the company’s ever made",
-          "• But you’ll pay a hefty Trump tax to get one in the US: $799"
-        ],
-        "stakes_bullets": [
-          "• DJI's Osmo Pocket 3, the baby steadicam, is one of the most popular gadgets the company’s ever made",
-          "• But you’ll pay a hefty Trump tax to get one in the US: $799",
-          "• An entire new “US” company has quietly been erected to sell it on Amazon for far lower, even as low as $499 "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "3495cdafa92d"
-    },
-    {
-      "id": "9f7bfec1f48a",
-      "title": "We took viral TikTok gadgets on the road",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/795199/tiktok-gadgets-travel-viral-social-media",
-      "published_at": "2025-10-09T10:00:00-04:00",
-      "bullets": [
-        "• We took viral TikTok gadgets on the road to see if they are worth the hype",
-        "• Follow along with our producer, Andru Marino, as he takes a train to a destination that has been self-advertised online as the \"Pancake Capital of the World\""
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• We took viral TikTok gadgets on the road to see if they are worth the hype",
-          "• Follow along with our producer, Andru Marino, as he takes a train to a destination that has been self-advertised online as the \"Pancake Capital of the World\""
-        ],
-        "hopeful_bullets": [
-          "• We took viral TikTok gadgets on the road to see if they are worth the hype",
-          "• Follow along with our producer, Andru Marino, as he takes a train to a destination that has been self-advertised online as the \"Pancake Capital of the World\""
-        ],
-        "stakes_bullets": [
-          "• We took viral TikTok gadgets on the road to see if they are worth the hype",
-          "• Follow along with our producer, Andru Marino, as he takes a train to a destination that has been self-advertised online as the \"Pancake Capital of the World\""
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7cc086ec0cda"
-    },
-    {
-      "id": "e4f70e6c52dc",
-      "title": "Google fights to prevent search remedies from inhibiting its AI ambitions",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/797639/google-search-remedies-doj-gemini-ai",
-      "published_at": "2025-10-09T09:57:14-04:00",
-      "bullets": [
-        "• Google and the DOJ are hashing out the finer details of the search remedies order",
-        "• Google says it will not be able to use Google's AI search engine to compete with other apps like Google Maps and Google Maps",
-        "• Google and Google are working on a plan to limit the use of Google’s search engine in the U.S"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Google and the DOJ are hashing out the finer details of the search remedies order",
-          "• Google says it will not be able to use Google's AI search engine to compete with other apps like Google Maps and Google Maps"
-        ],
-        "hopeful_bullets": [
-          "• Google and the DOJ are hashing out the finer details of the search remedies order",
-          "• Google says it will not be able to use Google's AI search engine to compete with other apps like Google Maps and Google Maps"
-        ],
-        "stakes_bullets": [
-          "• Google says it will not be able to use Google's AI search engine to compete with other apps like Google Maps and Google Maps",
-          "• Google and Google are working on a plan to limit the use of Google’s search engine in the U.S"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "dc3e9ae93211"
     },
     {
       "id": "c41ff758b36a",
@@ -9030,42 +9015,6 @@
       ]
     },
     {
-      "id": "82f94b7be91b",
-      "topic": "celebrate deal fear joy",
-      "keywords": [
-        "celebrate",
-        "deal",
-        "fear",
-        "joy",
-        "pain",
-        "palestinian"
-      ],
-      "item_ids": [
-        "46702101a88e"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "8c2ca4aac79a",
-      "topic": "deal delight firework israeli",
-      "keywords": [
-        "deal",
-        "delight",
-        "firework",
-        "israeli",
-        "life",
-        "toast"
-      ],
-      "item_ids": [
-        "126dab17b21a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "38ca06fcd04c",
       "topic": "appealed conviction handed man",
       "keywords": [
@@ -9096,6 +9045,42 @@
       ],
       "item_ids": [
         "7a6fb05bcb08"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "e3d68fe4f31e",
+      "topic": "blockade busines fuel jihadist",
+      "keywords": [
+        "blockade",
+        "busines",
+        "fuel",
+        "jihadist",
+        "mali",
+        "standstill"
+      ],
+      "item_ids": [
+        "aad143628e99"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "f0e9cd6d5ed2",
+      "topic": "cars driving investigated self",
+      "keywords": [
+        "cars",
+        "driving",
+        "investigated",
+        "self",
+        "tesla",
+        "wrong"
+      ],
+      "item_ids": [
+        "1f4b375048a6"
       ],
       "outlets": [
         "BBC News"
@@ -9138,6 +9123,42 @@
       ]
     },
     {
+      "id": "82f94b7be91b",
+      "topic": "celebrate deal fear joy",
+      "keywords": [
+        "celebrate",
+        "deal",
+        "fear",
+        "joy",
+        "pain",
+        "palestinian"
+      ],
+      "item_ids": [
+        "46702101a88e"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "8c2ca4aac79a",
+      "topic": "deal delight firework israeli",
+      "keywords": [
+        "deal",
+        "delight",
+        "firework",
+        "israeli",
+        "life",
+        "toast"
+      ],
+      "item_ids": [
+        "126dab17b21a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "12b73084f480",
       "topic": "arson bees dutch half",
       "keywords": [
@@ -9150,42 +9171,6 @@
       ],
       "item_ids": [
         "a24a2c5c694e"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "7ae79637375a",
-      "topic": "bullet fire madagascar police",
-      "keywords": [
-        "bullet",
-        "fire",
-        "madagascar",
-        "police",
-        "protester",
-        "rubber"
-      ],
-      "item_ids": [
-        "ee88a195d90a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "717a29cde093",
-      "topic": "china export making metal",
-      "keywords": [
-        "china",
-        "export",
-        "making",
-        "metal",
-        "restrict",
-        "vital"
-      ],
-      "item_ids": [
-        "3d42a48be8b0"
       ],
       "outlets": [
         "BBC News"
@@ -9390,6 +9375,24 @@
       ]
     },
     {
+      "id": "1c4dec32ffac",
+      "topic": "abortion activist anti face",
+      "keywords": [
+        "abortion",
+        "activist",
+        "anti",
+        "face",
+        "pardoned",
+        "trump"
+      ],
+      "item_ids": [
+        "794802841d88"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "b12490ccdd23",
       "topic": "become california first out",
       "keywords": [
@@ -9462,24 +9465,6 @@
       ]
     },
     {
-      "id": "0024f4a389ae",
-      "topic": "alarm call cdc mmr",
-      "keywords": [
-        "alarm",
-        "call",
-        "cdc",
-        "mmr",
-        "separate",
-        "vaccine"
-      ],
-      "item_ids": [
-        "519880ab0c31"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "64a7ee45863f",
       "topic": "chat group inside kids",
       "keywords": [
@@ -9492,6 +9477,24 @@
       ],
       "item_ids": [
         "9aa3e37c5fdd"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0024f4a389ae",
+      "topic": "alarm call cdc mmr",
+      "keywords": [
+        "alarm",
+        "call",
+        "cdc",
+        "mmr",
+        "separate",
+        "vaccine"
+      ],
+      "item_ids": [
+        "519880ab0c31"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9516,24 +9519,6 @@
       ]
     },
     {
-      "id": "d846d60535b8",
-      "topic": "back catastrophic coast fault",
-      "keywords": [
-        "back",
-        "catastrophic",
-        "coast",
-        "fault",
-        "trigger",
-        "west"
-      ],
-      "item_ids": [
-        "4efeaac57102"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "c234df600255",
       "topic": "cannot execution halt push",
       "keywords": [
@@ -9549,6 +9534,22 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "663f2eac716e",
+      "topic": "know nobel peace prize",
+      "keywords": [
+        "know",
+        "nobel",
+        "peace",
+        "prize"
+      ],
+      "item_ids": [
+        "d1471128489d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9714,24 +9715,6 @@
       ]
     },
     {
-      "id": "031f77aa16a8",
-      "topic": "american disapprove health move",
-      "keywords": [
-        "american",
-        "disapprove",
-        "health",
-        "move",
-        "rfk",
-        "secretary"
-      ],
-      "item_ids": [
-        "efa2902fc5f8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "d595ac6c3a37",
       "topic": "china earth rare stock",
       "keywords": [
@@ -9786,9 +9769,46 @@
       ]
     },
     {
-      "id": "464bc54f2eea",
-      "topic": "download hit less million",
+      "id": "a757d5c620ed",
+      "topic": "coach delta overtake premium",
       "keywords": [
+        "coach",
+        "delta",
+        "overtake",
+        "premium",
+        "set",
+        "travel"
+      ],
+      "item_ids": [
+        "6787ab6e10ce"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "d3d814e1a082",
+      "topic": "banned chance creator give",
+      "keywords": [
+        "banned",
+        "chance",
+        "creator",
+        "give",
+        "second",
+        "youtube"
+      ],
+      "item_ids": [
+        "ef8ae26af10f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "846ad27515fb",
+      "topic": "already download hit less",
+      "keywords": [
+        "already",
         "download",
         "hit",
         "less",
@@ -9797,9 +9817,11 @@
         "sora"
       ],
       "item_ids": [
-        "34b4d9f30441"
+        "34b4d9f30441",
+        "8518e0877acf"
       ],
       "outlets": [
+        "The Verge",
         "US Top News and Analysis"
       ]
     },
@@ -9840,60 +9862,6 @@
       ]
     },
     {
-      "id": "67a551466f4a",
-      "topic": "day ever ferrari track",
-      "keywords": [
-        "day",
-        "ever",
-        "ferrari",
-        "track",
-        "trading",
-        "worst"
-      ],
-      "item_ids": [
-        "f471e1eea151"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "1ec3d6fc9a80",
-      "topic": "administration forgivenes loan send",
-      "keywords": [
-        "administration",
-        "forgivenes",
-        "loan",
-        "send",
-        "student",
-        "trump"
-      ],
-      "item_ids": [
-        "440f1b6d6fd4"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "d4342b70c3d3",
-      "topic": "buoyed delta estimate forecast",
-      "keywords": [
-        "buoyed",
-        "delta",
-        "estimate",
-        "forecast",
-        "profit",
-        "tops"
-      ],
-      "item_ids": [
-        "fa9abe0bb8ef"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "9af0a19c5198",
       "topic": "becoming casino destination gambling",
       "keywords": [
@@ -9909,6 +9877,95 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e25629ef77a0",
+      "topic": "2026 flight just revealed",
+      "keywords": [
+        "2026",
+        "flight",
+        "just",
+        "revealed",
+        "summer",
+        "united"
+      ],
+      "item_ids": [
+        "5c2f1e85df3d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "37d9e4c3a9ce",
+      "topic": "136 best day deal",
+      "keywords": [
+        "136",
+        "best",
+        "day",
+        "deal",
+        "found",
+        "prime"
+      ],
+      "item_ids": [
+        "63fa3f768207"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "c5dd7cfda549",
+      "topic": "600 billion clean energy",
+      "keywords": [
+        "600",
+        "billion",
+        "clean",
+        "energy",
+        "europe",
+        "pledge"
+      ],
+      "item_ids": [
+        "eed25e070c14"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "a79a0926d01d",
+      "topic": "antifa book death driving",
+      "keywords": [
+        "antifa",
+        "book",
+        "death",
+        "driving",
+        "threat",
+        "wrote"
+      ],
+      "item_ids": [
+        "3694521ab4e4"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "ea4f58c66f6b",
+      "topic": "gave hong kong labubu",
+      "keywords": [
+        "gave",
+        "hong",
+        "kong",
+        "labubu",
+        "rise"
+      ],
+      "item_ids": [
+        "a03bfc19ff11"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10001,24 +10058,6 @@
       ]
     },
     {
-      "id": "85a0fc742e12",
-      "topic": "265 best day deal",
-      "keywords": [
-        "265",
-        "best",
-        "day",
-        "deal",
-        "found",
-        "prime"
-      ],
-      "item_ids": [
-        "63fa3f768207"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "2edc5df5240c",
       "topic": "100 best day deal",
       "keywords": [
@@ -10037,56 +10076,36 @@
       ]
     },
     {
-      "id": "70e0dd4fd823",
-      "topic": "650 dell now only",
+      "id": "07c394e0d0c7",
+      "topic": "crossroad industry major",
       "keywords": [
-        "650",
-        "dell",
-        "now",
-        "only",
-        "plus"
+        "crossroad",
+        "industry",
+        "major"
       ],
       "item_ids": [
-        "a3b18d6dec37"
+        "11b0a3b17d6d"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
-      "id": "2d3f304121e4",
-      "topic": "cinematic massive offer sony",
+      "id": "f92b3d8cb3e3",
+      "topic": "first lcd resurrecting timex",
       "keywords": [
-        "cinematic",
-        "massive",
-        "offer",
-        "sony",
-        "sound",
-        "system"
+        "first",
+        "lcd",
+        "resurrecting",
+        "timex",
+        "watch",
+        "year"
       ],
       "item_ids": [
-        "09309c07f9cd"
+        "fad80eadba11"
       ],
       "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "b758011e839a",
-      "topic": "amazon anti best day",
-      "keywords": [
-        "amazon",
-        "anti",
-        "best",
-        "day",
-        "deal",
-        "prime"
-      ],
-      "item_ids": [
-        "caf689f90eaf"
-      ],
-      "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10205,59 +10224,6 @@
       ],
       "item_ids": [
         "20682aaf608e"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "3495cdafa92d",
-      "topic": "company dji lets popular",
-      "keywords": [
-        "company",
-        "dji",
-        "lets",
-        "popular",
-        "sneak",
-        "xtra"
-      ],
-      "item_ids": [
-        "19c84ca29359"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "7cc086ec0cda",
-      "topic": "gadget road tiktok took",
-      "keywords": [
-        "gadget",
-        "road",
-        "tiktok",
-        "took",
-        "viral"
-      ],
-      "item_ids": [
-        "9f7bfec1f48a"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "dc3e9ae93211",
-      "topic": "fight google inhibiting prevent",
-      "keywords": [
-        "fight",
-        "google",
-        "inhibiting",
-        "prevent",
-        "remedie",
-        "search"
-      ],
-      "item_ids": [
-        "e4f70e6c52dc"
       ],
       "outlets": [
         "The Verge"
@@ -10444,6 +10410,60 @@
       ]
     },
     {
+      "id": "ae7911aade93",
+      "topic": "antarctica asteroid flew right",
+      "keywords": [
+        "antarctica",
+        "asteroid",
+        "flew",
+        "right",
+        "saw",
+        "tiny"
+      ],
+      "item_ids": [
+        "cfeb1759a789"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "4264359156ab",
+      "topic": "hidden just jwst red",
+      "keywords": [
+        "hidden",
+        "just",
+        "jwst",
+        "red",
+        "spot",
+        "supergiant"
+      ],
+      "item_ids": [
+        "b91a1bd4511d"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "3905fd46e4a3",
+      "topic": "devil dust martian scientist",
+      "keywords": [
+        "devil",
+        "dust",
+        "martian",
+        "scientist",
+        "stunned",
+        "wild"
+      ],
+      "item_ids": [
+        "d9df4c488458"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "d1a11753293f",
       "topic": "best brain scientist sense",
       "keywords": [
@@ -10474,6 +10494,24 @@
       ],
       "item_ids": [
         "bfdaeddf64e8"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "a0ab6265597f",
+      "topic": "crab deep found glowing",
+      "keywords": [
+        "crab",
+        "deep",
+        "found",
+        "glowing",
+        "hidden",
+        "shark"
+      ],
+      "item_ids": [
+        "ab5edfe2eb37"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10546,78 +10584,6 @@
       ],
       "item_ids": [
         "5e577cf27ec6"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "a896c6a9b56b",
-      "topic": "brought catastrophic flood red",
-      "keywords": [
-        "brought",
-        "catastrophic",
-        "flood",
-        "red",
-        "sea",
-        "vanished"
-      ],
-      "item_ids": [
-        "103107dfbfcd"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "f13a070c5e60",
-      "topic": "hidden inside power scientist",
-      "keywords": [
-        "hidden",
-        "inside",
-        "power",
-        "scientist",
-        "source",
-        "uncover"
-      ],
-      "item_ids": [
-        "a7d1227c6ed0"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "40835ac3d177",
-      "topic": "asteroid gaia mystery reveal",
-      "keywords": [
-        "asteroid",
-        "gaia",
-        "mystery",
-        "reveal",
-        "solve",
-        "tumbling"
-      ],
-      "item_ids": [
-        "06109aa018ec"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "8a26e9a28f22",
-      "topic": "bottled hiding really research",
-      "keywords": [
-        "bottled",
-        "hiding",
-        "really",
-        "research",
-        "reveal",
-        "water"
-      ],
-      "item_ids": [
-        "cba069b58a4d"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10768,6 +10734,24 @@
       ]
     },
     {
+      "id": "031f77aa16a8",
+      "topic": "american disapprove health move",
+      "keywords": [
+        "american",
+        "disapprove",
+        "health",
+        "move",
+        "rfk",
+        "secretary"
+      ],
+      "item_ids": [
+        "efa2902fc5f8"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "67faf9dabecb",
       "topic": "hear holiday npr plan",
       "keywords": [
@@ -10851,24 +10835,6 @@
       ],
       "item_ids": [
         "a819ec11b527"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "d42e3d7b1bed",
-      "topic": "democrat excuse gop serve",
-      "keywords": [
-        "democrat",
-        "excuse",
-        "gop",
-        "serve",
-        "shutdown",
-        "spend"
-      ],
-      "item_ids": [
-        "0cf235965c38"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11039,6 +11005,24 @@
       ],
       "item_ids": [
         "0e14b319316f"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "d846d60535b8",
+      "topic": "back catastrophic coast fault",
+      "keywords": [
+        "back",
+        "catastrophic",
+        "coast",
+        "fault",
+        "trigger",
+        "west"
+      ],
+      "item_ids": [
+        "4efeaac57102"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11236,6 +11220,24 @@
       ],
       "item_ids": [
         "5d0901c2503f"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "e7c039e05f7b",
+      "topic": "alabama change city despite",
+      "keywords": [
+        "alabama",
+        "change",
+        "city",
+        "despite",
+        "opposition",
+        "stiff"
+      ],
+      "item_ids": [
+        "6fb8e1b21083"
       ],
       "outlets": [
         "Inside Climate News"
@@ -11457,6 +11459,60 @@
       ]
     },
     {
+      "id": "144c95825154",
+      "topic": "air allan documentary edgar",
+      "keywords": [
+        "air",
+        "allan",
+        "documentary",
+        "edgar",
+        "poe",
+        "search"
+      ],
+      "item_ids": [
+        "ebd422bf3bf0"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "bc0e3e0308b7",
+      "topic": "brand first look official",
+      "keywords": [
+        "brand",
+        "first",
+        "look",
+        "official",
+        "paranorman",
+        "thrifting"
+      ],
+      "item_ids": [
+        "10a45f72523e"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "00b21d77a396",
+      "topic": "bloody cheek deathstalker review",
+      "keywords": [
+        "bloody",
+        "cheek",
+        "deathstalker",
+        "review",
+        "sword",
+        "tongue"
+      ],
+      "item_ids": [
+        "f939c51ea809"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "3ed01417f288",
       "topic": "folk horror indera malaysian",
       "keywords": [
@@ -11577,60 +11633,6 @@
       ],
       "item_ids": [
         "9b1aab67d1a2"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "8fa77aadf741",
-      "topic": "bertino bryan dakota fanning",
-      "keywords": [
-        "bertino",
-        "bryan",
-        "dakota",
-        "fanning",
-        "preview",
-        "viciou"
-      ],
-      "item_ids": [
-        "aa10c00cf602"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "406dc7e530f7",
-      "topic": "halloween mega out special",
-      "keywords": [
-        "halloween",
-        "mega",
-        "out",
-        "special",
-        "there",
-        "wnuf"
-      ],
-      "item_ids": [
-        "fd49d0ed1014"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "fcd856bb7690",
-      "topic": "art clown fortnite gets",
-      "keywords": [
-        "art",
-        "clown",
-        "fortnite",
-        "gets",
-        "joined",
-        "terrified"
-      ],
-      "item_ids": [
-        "2d24d64b1b4b"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12295,6 +12297,24 @@
       ]
     },
     {
+      "id": "bc62c8fb7c6c",
+      "topic": "black collection hasbro nycc",
+      "keywords": [
+        "black",
+        "collection",
+        "hasbro",
+        "nycc",
+        "serie",
+        "vintage"
+      ],
+      "item_ids": [
+        "b8931686e30e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "ad898df28092",
       "topic": "bom cantina patron tvc15",
       "keywords": [
@@ -12428,22 +12448,6 @@
       ],
       "item_ids": [
         "7587851d0ea3"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "53dc19c6d15a",
-      "topic": "darth tvc15 vader vc08",
-      "keywords": [
-        "darth",
-        "tvc15",
-        "vader",
-        "vc08"
-      ],
-      "item_ids": [
-        "c58a0fd655f3"
       ],
       "outlets": [
         "Jedi Temple Archives"
@@ -12941,175 +12945,143 @@
       ]
     },
     {
-      "id": "f2c2491fcb00",
-      "topic": "clip deathstalker exclusive iconic",
+      "id": "f6e1e8c7ac8a",
+      "topic": "absolute final justice league",
       "keywords": [
-        "clip",
-        "deathstalker",
-        "exclusive",
-        "iconic",
-        "take",
-        "tease"
+        "absolute",
+        "final",
+        "justice",
+        "league",
+        "living",
+        "member"
       ],
       "item_ids": [
-        "ae042e862f0b"
+        "d636e914c6f0"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "b54e5fafb7e8",
-      "topic": "begin ben detail era",
+      "id": "be3971279fc3",
+      "topic": "disappointing episode gave most",
       "keywords": [
-        "begin",
-        "ben",
-        "detail",
-        "era",
-        "exciting"
-      ],
-      "item_ids": [
-        "bc7d440f5156"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "702767cb44fa",
-      "topic": "most overhated show star",
-      "keywords": [
+        "disappointing",
+        "episode",
+        "gave",
         "most",
-        "overhated",
-        "show",
         "star",
-        "underrated",
-        "wars"
+        "trek"
       ],
       "item_ids": [
-        "d501677a9428"
+        "522961df5c54"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "057314ddef6b",
-      "topic": "game prequel show star",
+      "id": "18100e527a5e",
+      "topic": "coming crunchyroll officially oshi",
       "keywords": [
-        "game",
-        "prequel",
-        "show",
+        "coming",
+        "crunchyroll",
+        "officially",
+        "oshi",
+        "season"
+      ],
+      "item_ids": [
+        "f2e0d16a3447"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1b91c8ea9997",
+      "topic": "ncis pairing star tease",
+      "keywords": [
+        "ncis",
+        "pairing",
         "star",
         "tease",
+        "tony",
+        "ziva"
+      ],
+      "item_ids": [
+        "b16bfb1865a2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0f10859b044c",
+      "topic": "confirm leveling movie officially",
+      "keywords": [
+        "confirm",
+        "leveling",
+        "movie",
+        "officially",
+        "solo",
+        "work"
+      ],
+      "item_ids": [
+        "fe8b8b9ad563"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "843185e904e0",
+      "topic": "craven quietly remake streaming",
+      "keywords": [
+        "craven",
+        "quietly",
+        "remake",
+        "streaming",
+        "succes",
+        "wes"
+      ],
+      "item_ids": [
+        "d92eed328917"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "fed3acb3ffa2",
+      "topic": "game kingdom knight release",
+      "keywords": [
+        "game",
+        "kingdom",
+        "knight",
+        "release",
+        "seven",
         "throne"
       ],
       "item_ids": [
-        "d88628d9a842"
+        "c59eeb5bf403"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "426dcfeafcef",
-      "topic": "adapting break down george",
+      "id": "088168a53a73",
+      "topic": "charlie hunnam monster production",
       "keywords": [
-        "adapting",
-        "break",
-        "down",
-        "george",
-        "maigret",
-        "showrunner"
+        "charlie",
+        "hunnam",
+        "monster",
+        "production",
+        "return",
+        "season"
       ],
       "item_ids": [
-        "375f276986ac"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cb4e0b0c1dcc",
-      "topic": "addresse aniston friend jennifer",
-      "keywords": [
-        "addresse",
-        "aniston",
-        "friend",
-        "jennifer",
-        "never",
-        "reboot"
-      ],
-      "item_ids": [
-        "18229c943a29"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9b61c9ab5bba",
-      "topic": "biggest demon isn muzan",
-      "keywords": [
-        "biggest",
-        "demon",
-        "isn",
-        "muzan",
-        "slayer",
-        "threat"
-      ],
-      "item_ids": [
-        "8c28a95d0121"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "79a3618eb5fa",
-      "topic": "2026 ending marvel massive",
-      "keywords": [
-        "2026",
-        "ending",
-        "marvel",
-        "massive",
-        "universe"
-      ],
-      "item_ids": [
-        "dc75d8e93666"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "64b07a01dd9c",
-      "topic": "kingstown mayor season trailer",
-      "keywords": [
-        "kingstown",
-        "mayor",
-        "season",
-        "trailer"
-      ],
-      "item_ids": [
-        "c2a484ff7084"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c4a5cf2db4a8",
-      "topic": "battlefield better campaign much",
-      "keywords": [
-        "battlefield",
-        "better",
-        "campaign",
-        "much",
-        "thrilling"
-      ],
-      "item_ids": [
-        "d98d115f4440"
+        "1b3d3a9ff7b4"
       ],
       "outlets": [
         "CBR"
