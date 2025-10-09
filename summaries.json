@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T23:55:31Z",
+  "generated_at": "2025-10-09T00:12:15Z",
   "items": [
     {
       "id": "ca26e6b5b3e6",
@@ -135,6 +135,72 @@
       "cluster_id": "5306313fe14f"
     },
     {
+      "id": "7e1d61ee3a77",
+      "title": "21 Years Later, Harry Potter's Cringiest Moment Is Still Hard to Watch",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/harry-potter-cringiest-moment-prisoner-of-azkaban/",
+      "published_at": "Wed, 08 Oct 2025 23:55:12 GMT",
+      "bullets": [
+        "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film",
+        "• The film follows Harry's third year at Hogwarts",
+        "• It was released in June 2004",
+        "• The movie is the third in the series, with Deathly Hallows: Part II a fair second "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film",
+          "• The film follows Harry's third year at Hogwarts"
+        ],
+        "hopeful_bullets": [
+          "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film",
+          "• The film follows Harry's third year at Hogwarts"
+        ],
+        "stakes_bullets": [
+          "• Harry Potter and the Prisoner of Azkaban is arguably the best Harry Potter film"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "85d4bee1d55d"
+    },
+    {
+      "id": "6fb8e1b21083",
+      "title": "Despite Stiff Opposition, an Alabama City Changes Its Laws to Accommodate Data Centers",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/08102025/bessemer-alabama-changes-laws-to-accommodate-data-centers/",
+      "published_at": "Wed, 08 Oct 2025 23:50:51 +0000",
+      "bullets": [
+        "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+        "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
+        "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
+        ],
+        "hopeful_bullets": [
+          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
+        ],
+        "stakes_bullets": [
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
+          "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "e7c039e05f7b"
+    },
+    {
       "id": "b0a7467b0ec8",
       "title": "This 8-Year-Old Sci-Fi Horror Hidden Gem Is the Closest Thing to a Proper Alien Replacement",
       "outlet": "CBR",
@@ -208,7 +274,7 @@
       "title": "White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/08/donald-trump-james-comey-justice-department-national-guard-chicago-antifa-government-shutdown-us-politics-live-news-updates",
-      "published_at": "Wed, 08 Oct 2025 23:06:23 GMT",
+      "published_at": "Wed, 08 Oct 2025 23:33:09 GMT",
       "bullets": [
         "• White House gives platform to conservative influencers to air grievances during ‘antifa roundtable’ – live – live",
         "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
@@ -231,8 +297,40 @@
           "• Witnesses at White House describe being assaulted by leftwing protesters but fail to mention they often confront people and film the responses they provoke "
         ]
       },
-      "read_minutes": 11,
+      "read_minutes": 12,
       "cluster_id": "8d3f78d366fd"
+    },
+    {
+      "id": "15658a409f8e",
+      "title": "Marco Rubio interrupts Trump with handwritten note on Gaza peace deal",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/08/marco-rubio-trump-note-gaza-peace-deal",
+      "published_at": "Wed, 08 Oct 2025 23:24:57 GMT",
+      "bullets": [
+        "• Marco Rubio passed a note to Donald Trump at a White House event with conservative influencers about antifa",
+        "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform",
+        "• It was taken by Associated Press photographer Evan Vucci in a photograph taken on Wednesday afternoon "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marco Rubio passed a note to Donald Trump at a White House event with conservative influencers about antifa",
+          "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform"
+        ],
+        "hopeful_bullets": [
+          "• Marco Rubio passed a note to Donald Trump at a White House event with conservative influencers about antifa",
+          "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform"
+        ],
+        "stakes_bullets": [
+          "• The note suggested the president could soon announce a peace deal in Gaza on his social media platform"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "88bade7988d7"
     },
     {
       "id": "a5169364f161",
@@ -956,40 +1054,6 @@
       "cluster_id": "a6ac5ffedfab"
     },
     {
-      "id": "d5e8b4d6929f",
-      "title": "This 92% RT Masterpiece Remains HBO’s Most Disturbing Miniseries Ending",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/hbo-sharp-objects-disturbing-ending/",
-      "published_at": "Wed, 08 Oct 2025 21:30:12 GMT",
-      "bullets": [
-        "• Based on the book of the same name written by Gillian Flynn, Sharp Objects follows Camille Preaker, a reporter who goes back to her small hometown to investigate a series of murders",
-        "• The series takes a much darker turn when the investigation becomes personal for Camille",
-        "• The ending remains one of the most unforgettable and shocking twists of any miniseries "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Based on the book of the same name written by Gillian Flynn, Sharp Objects follows Camille Preaker, a reporter who goes back to her small hometown to investigate a series of murders",
-          "• The series takes a much darker turn when the investigation becomes personal for Camille"
-        ],
-        "hopeful_bullets": [
-          "• Based on the book of the same name written by Gillian Flynn, Sharp Objects follows Camille Preaker, a reporter who goes back to her small hometown to investigate a series of murders",
-          "• The series takes a much darker turn when the investigation becomes personal for Camille"
-        ],
-        "stakes_bullets": [
-          "• Based on the book of the same name written by Gillian Flynn, Sharp Objects follows Camille Preaker, a reporter who goes back to her small hometown to investigate a series of murders",
-          "• The series takes a much darker turn when the investigation becomes personal for Camille",
-          "• The ending remains one of the most unforgettable and shocking twists of any miniseries "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "ee05fd0120f0"
-    },
-    {
       "id": "9beff754d03b",
       "title": "IRS to furlough nearly half its workforce due to government shutdown",
       "outlet": "US news | The Guardian",
@@ -1085,40 +1149,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "92abf6382dbf"
-    },
-    {
-      "id": "e786e905747f",
-      "title": "The Fantastic Four's Newest Crossover Has Already Rewritten Classic Gargoyles Lore",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/fantastic-four-gargoyles-crossover-changed-lore/",
-      "published_at": "Wed, 08 Oct 2025 21:17:20 GMT",
-      "bullets": [
-        "• The following article contains spoilers for Fantastic Four/Gargoyles #1, out next week from Marvel Comics",
-        "• It allows the iconic writer to really delve into how integrating the Gargoyles characters into the Marvel Universe helps change a lot of their lore",
-        "• The issue is from writer Greg Weisman (W) and artist Enid Balám "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The following article contains spoilers for Fantastic Four/Gargoyles #1, out next week from Marvel Comics",
-          "• It allows the iconic writer to really delve into how integrating the Gargoyles characters into the Marvel Universe helps change a lot of their lore"
-        ],
-        "hopeful_bullets": [
-          "• The following article contains spoilers for Fantastic Four/Gargoyles #1, out next week from Marvel Comics",
-          "• It allows the iconic writer to really delve into how integrating the Gargoyles characters into the Marvel Universe helps change a lot of their lore"
-        ],
-        "stakes_bullets": [
-          "• The following article contains spoilers for Fantastic Four/Gargoyles #1, out next week from Marvel Comics",
-          "• It allows the iconic writer to really delve into how integrating the Gargoyles characters into the Marvel Universe helps change a lot of their lore",
-          "• The issue is from writer Greg Weisman (W) and artist Enid Balám "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "234058f1a18b"
     },
     {
       "id": "caf689f90eaf",
@@ -1944,31 +1974,31 @@
     },
     {
       "id": "915f21f2e20d",
-      "title": "Israel and Hamas agree on the \"first phase\" of Gaza ceasefire deal",
+      "title": "Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/08/g-s1-92558/gaza-ceasefire-israel-hamas",
       "published_at": "Wed, 08 Oct 2025 19:24:36 -0400",
       "bullets": [
-        "• Israel and Hamas agree on the \"first phase\" of Gaza ceasefire deal",
-        "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 people "
+        "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
+        "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Israel and Hamas agree on the \"first phase\" of Gaza ceasefire deal",
-          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 people "
+          "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
+          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
         ],
         "hopeful_bullets": [
-          "• Israel and Hamas agree on the \"first phase\" of Gaza ceasefire deal",
-          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 people "
+          "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
+          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
         ],
         "stakes_bullets": [
-          "• Israel and Hamas agree on the \"first phase\" of Gaza ceasefire deal",
-          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 people "
+          "• Israel and Hamas agree on the 'first phase' of Gaza ceasefire deal",
+          "• President Trump: \"This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America\" Deal calls for Hamas to release nearly 50 hostages, living and dead, and for Israel to free nearly 2,000 "
         ]
       },
       "read_minutes": 3,
@@ -2340,38 +2370,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "aa9102678975"
-    },
-    {
-      "id": "2fabe9180e02",
-      "title": "Democratic frontrunner for California governor threatens to walk out of interview",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/08/katie-porter-cbs-interview",
-      "published_at": "Wed, 08 Oct 2025 18:25:00 GMT",
-      "bullets": [
-        "• Democratic candidate for governor threatens to walk out of an interview with a reporter",
-        "• She was asked if she would need to win support of Republicans who voted for Donald Trump",
-        "• She said: “I think I will win the people who did not vote for Trump’s.”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democratic candidate for governor threatens to walk out of an interview with a reporter",
-          "• She was asked if she would need to win support of Republicans who voted for Donald Trump"
-        ],
-        "hopeful_bullets": [
-          "• She was asked if she would need to win support of Republicans who voted for Donald Trump",
-          "• She said: “I think I will win the people who did not vote for Trump’s.”"
-        ],
-        "stakes_bullets": [
-          "• She said: “I think I will win the people who did not vote for Trump’s.”"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a6b0772aec46"
     },
     {
       "id": "0ef3ab42e36c",
@@ -3503,6 +3501,40 @@
       "cluster_id": "b4b58b8e3223"
     },
     {
+      "id": "99b935bf5f3a",
+      "title": "250 Greatest Songs of the 21st Century So Far",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/the-250-greatest-songs-of-the-21st-century-so-far-shell-1235442995/",
+      "published_at": "Wed, 08 Oct 2025 14:32:30 +0000",
+      "bullets": [
+        "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
+        "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles",
+        "• There’s reggaeton and K-pop and drill and crunk, country and Afrobeats "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
+          "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles"
+        ],
+        "hopeful_bullets": [
+          "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
+          "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles"
+        ],
+        "stakes_bullets": [
+          "• The 250 Greatest Songs of the 21st Century So Far are a wide-ranging mix of different styles, different beats, different voices",
+          "• These songs range from Seoul to Spain to San Juan, from Vegas to Veracruz to Versailles",
+          "• There’s reggaeton and K-pop and drill and crunk, country and Afrobeats "
+        ]
+      },
+      "read_minutes": 29,
+      "cluster_id": "948be2dd60e1"
+    },
+    {
       "id": "15e6eeb496db",
       "title": "Yungblud Fires Back at ‘Bitter and Jealous’ Critics of VMA’s Ozzy Osbourne Tribute",
       "outlet": "Music News",
@@ -3661,40 +3693,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "35662fc0892e"
-    },
-    {
-      "id": "c7ee1f1977d6",
-      "title": "Dua Lipa Dances ‘All Night Long’ With Special Guest Lionel Richie at L.A. Show",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/dua-lipa-lionel-richie-la-guest-appearance-1235442892/",
-      "published_at": "Wed, 08 Oct 2025 13:27:23 +0000",
-      "bullets": [
-        "• Dua Lipa's Radical Optimism tour is an ode to dancing the night away",
-        "• At her most recent stop in Los Angeles, she welcomed a special guest",
-        "• Lionel Richie joined her for a special performance of \"All Night Long (All Night)”"
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dua Lipa's Radical Optimism tour is an ode to dancing the night away",
-          "• At her most recent stop in Los Angeles, she welcomed a special guest"
-        ],
-        "hopeful_bullets": [
-          "• Dua Lipa's Radical Optimism tour is an ode to dancing the night away",
-          "• At her most recent stop in Los Angeles, she welcomed a special guest"
-        ],
-        "stakes_bullets": [
-          "• Dua Lipa's Radical Optimism tour is an ode to dancing the night away",
-          "• At her most recent stop in Los Angeles, she welcomed a special guest",
-          "• Lionel Richie joined her for a special performance of \"All Night Long (All Night)”"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "69cc0e6decb6"
     },
     {
       "id": "5f9de616a6cb",
@@ -5114,27 +5112,28 @@
       "url": "https://feeds.texastribune.org/link/16799/17181063/tribcast-redistricting-map",
       "published_at": "Tue, 07 Oct 2025 20:06:52 -0500",
       "bullets": [
+        "• The full TribCast program is presented by The Texas Tribune",
         "• Join us Nov",
-        "• 13â15 in downtown Austin to hear from 300+ thinkers, leaders and change-makers shaping Texas's future",
-        "• The full TribCast program is now available at The Texas Tribune",
-        "• Watch the full program at the Texas Tribune's TribFest 2025 "
+        "• 13–15 in Austin, Texas, for the next year's TribFest",
+        "• Hear from thinkers, leaders and change-makers shaping the country's future",
+        "• Read the full program "
       ],
       "category": "Texas",
       "sentiment": {
         "label": "positive",
-        "score": 0.983
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• Join us Nov",
-          "• 13â15 in downtown Austin to hear from 300+ thinkers, leaders and change-makers shaping Texas's future"
+          "• The full TribCast program is presented by The Texas Tribune",
+          "• Join us Nov"
         ],
         "hopeful_bullets": [
-          "• Join us Nov",
-          "• 13â15 in downtown Austin to hear from 300+ thinkers, leaders and change-makers shaping Texas's future"
+          "• The full TribCast program is presented by The Texas Tribune",
+          "• Join us Nov"
         ],
         "stakes_bullets": [
-          "• 13â15 in downtown Austin to hear from 300+ thinkers, leaders and change-makers shaping Texas's future"
+          "• Hear from thinkers, leaders and change-makers shaping the country's future"
         ]
       },
       "read_minutes": 1,
@@ -5884,8 +5883,8 @@
       "url": "https://feeds.texastribune.org/link/16799/17180557/texas-tech-university-system-faculty-gender-identity",
       "published_at": "Tue, 07 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• Texas Tech systemâs vague guidelines on gender identity spur more questions than answers",
-        "• Teaching doctors were told to remove words like âtransgender,â âDEIâ and âaffirmative actionâ from curricula",
+        "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
+        "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula",
         "• Simulated patient exams that included scenarios with transgender patients were suddenly in question "
       ],
       "category": "Texas",
@@ -5895,16 +5894,16 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Texas Tech systemâs vague guidelines on gender identity spur more questions than answers",
-          "• Teaching doctors were told to remove words like âtransgender,â âDEIâ and âaffirmative actionâ from curricula"
+          "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
+          "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula"
         ],
         "hopeful_bullets": [
-          "• Texas Tech systemâs vague guidelines on gender identity spur more questions than answers",
-          "• Teaching doctors were told to remove words like âtransgender,â âDEIâ and âaffirmative actionâ from curricula"
+          "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
+          "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula"
         ],
         "stakes_bullets": [
-          "• Texas Tech systemâs vague guidelines on gender identity spur more questions than answers",
-          "• Teaching doctors were told to remove words like âtransgender,â âDEIâ and âaffirmative actionâ from curricula",
+          "• Texas Tech system’s vague guidelines on gender identity spur more questions than answers",
+          "• Teaching doctors were told to remove words like “transgender,” “DEI” and “affirmative action” from curricula",
           "• Simulated patient exams that included scenarios with transgender patients were suddenly in question "
         ]
       },
@@ -6402,6 +6401,41 @@
       },
       "read_minutes": 3,
       "cluster_id": "b5ebb78247cb"
+    },
+    {
+      "id": "1a238085abcd",
+      "title": "The First Look at John Lithgow's Dumbledore Confirms Major Changes to the Classic Harry Potter Story",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/hbo-harry-potter-john-lithgow-dumbledore-nicholas-flamel-changes/",
+      "published_at": "Thu, 09 Oct 2025 00:00:13 GMT",
+      "bullets": [
+        "• The first Harry Potter film was released in theaters 25 years ago",
+        "• The seminal film series concluded in 2011, and Warner Bros",
+        "• attempted to revive the franchise with the Fantastic Beasts films",
+        "• HBO is now on a mission to retell the Harry Potter story through the lens of television "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first Harry Potter film was released in theaters 25 years ago",
+          "• The seminal film series concluded in 2011, and Warner Bros"
+        ],
+        "hopeful_bullets": [
+          "• The first Harry Potter film was released in theaters 25 years ago",
+          "• The seminal film series concluded in 2011, and Warner Bros"
+        ],
+        "stakes_bullets": [
+          "• The first Harry Potter film was released in theaters 25 years ago",
+          "• The seminal film series concluded in 2011, and Warner Bros",
+          "• attempted to revive the franchise with the Fantastic Beasts films"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "c3931509b016"
     },
     {
       "id": "dfa71b9e1765",
@@ -7436,38 +7470,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "b235c16fb40e"
-    },
-    {
-      "id": "2e2682de3b93",
-      "title": "New Report Marks a Decade of Progress, Challenges on Global Decarbonization",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/06102025/global-decarbonization-climate-policy-report/",
-      "published_at": "Mon, 06 Oct 2025 23:34:29 +0000",
-      "bullets": [
-        "• A report released Monday shows that collective global climate action is still falling short of what’s needed",
-        "• Progress has accelerated dramatically in the decade since the Paris Agreement, spurring policies such as investments in renewable energy and public transit that are speeding up the transition away from fossil fuels",
-        "• The 2015 Paris Agreement to limit global warming, reduce carbon dioxide emissions and increase resilience to climate extremes "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.517
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A report released Monday shows that collective global climate action is still falling short of what’s needed",
-          "• Progress has accelerated dramatically in the decade since the Paris Agreement, spurring policies such as investments in renewable energy and public transit that are speeding up the transition away from fossil fuels"
-        ],
-        "hopeful_bullets": [
-          "• Progress has accelerated dramatically in the decade since the Paris Agreement, spurring policies such as investments in renewable energy and public transit that are speeding up the transition away from fossil fuels",
-          "• The 2015 Paris Agreement to limit global warming, reduce carbon dioxide emissions and increase resilience to climate extremes "
-        ],
-        "stakes_bullets": [
-          "• The 2015 Paris Agreement to limit global warming, reduce carbon dioxide emissions and increase resilience to climate extremes "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e3f2b8be7cd8"
     },
     {
       "id": "16253c338978",
@@ -9547,6 +9549,24 @@
       ]
     },
     {
+      "id": "88bade7988d7",
+      "topic": "handwritten interrupt marco note",
+      "keywords": [
+        "handwritten",
+        "interrupt",
+        "marco",
+        "note",
+        "rubio",
+        "trump"
+      ],
+      "item_ids": [
+        "15658a409f8e"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "cf294b45500f",
       "topic": "democrat johnson mike pres",
       "keywords": [
@@ -9669,24 +9689,6 @@
       ],
       "item_ids": [
         "4dabcdc74cf1"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "a6b0772aec46",
-      "topic": "california democratic frontrunner governor",
-      "keywords": [
-        "california",
-        "democratic",
-        "frontrunner",
-        "governor",
-        "threaten",
-        "walk"
-      ],
-      "item_ids": [
-        "2fabe9180e02"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -11354,6 +11356,24 @@
       ]
     },
     {
+      "id": "e7c039e05f7b",
+      "topic": "alabama change city despite",
+      "keywords": [
+        "alabama",
+        "change",
+        "city",
+        "despite",
+        "opposition",
+        "stiff"
+      ],
+      "item_ids": [
+        "6fb8e1b21083"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "315aa9def0b7",
       "topic": "block florida hurricane law",
       "keywords": [
@@ -11510,24 +11530,6 @@
       ],
       "item_ids": [
         "195d09c4f8f2"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "e3f2b8be7cd8",
-      "topic": "challenge decade global mark",
-      "keywords": [
-        "challenge",
-        "decade",
-        "global",
-        "mark",
-        "progres",
-        "report"
-      ],
-      "item_ids": [
-        "2e2682de3b93"
       ],
       "outlets": [
         "Inside Climate News"
@@ -13156,6 +13158,42 @@
       ]
     },
     {
+      "id": "c3931509b016",
+      "topic": "confirm dumbledore first john",
+      "keywords": [
+        "confirm",
+        "dumbledore",
+        "first",
+        "john",
+        "lithgow",
+        "look"
+      ],
+      "item_ids": [
+        "1a238085abcd"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "85d4bee1d55d",
+      "topic": "cringiest harry later moment",
+      "keywords": [
+        "cringiest",
+        "harry",
+        "later",
+        "moment",
+        "potter",
+        "year"
+      ],
+      "item_ids": [
+        "7e1d61ee3a77"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "513ee6019ec9",
       "topic": "gem hidden horror old",
       "keywords": [
@@ -13293,42 +13331,6 @@
       ],
       "item_ids": [
         "d6f61ceb4f54"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ee05fd0120f0",
-      "topic": "disturbing hbo masterpiece miniserie",
-      "keywords": [
-        "disturbing",
-        "hbo",
-        "masterpiece",
-        "miniserie",
-        "most",
-        "remain"
-      ],
-      "item_ids": [
-        "d5e8b4d6929f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "234058f1a18b",
-      "topic": "already crossover fantastic four",
-      "keywords": [
-        "already",
-        "crossover",
-        "fantastic",
-        "four",
-        "newest",
-        "rewritten"
-      ],
-      "item_ids": [
-        "e786e905747f"
       ],
       "outlets": [
         "CBR"
@@ -13660,6 +13662,24 @@
       ]
     },
     {
+      "id": "948be2dd60e1",
+      "topic": "21st 250 century far",
+      "keywords": [
+        "21st",
+        "250",
+        "century",
+        "far",
+        "greatest",
+        "song"
+      ],
+      "item_ids": [
+        "99b935bf5f3a"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "f5ab8fbaa2ec",
       "topic": "back bitter critic fire",
       "keywords": [
@@ -13672,24 +13692,6 @@
       ],
       "item_ids": [
         "15e6eeb496db"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "69cc0e6decb6",
-      "topic": "all dance dua lipa",
-      "keywords": [
-        "all",
-        "dance",
-        "dua",
-        "lipa",
-        "long",
-        "night"
-      ],
-      "item_ids": [
-        "c7ee1f1977d6"
       ],
       "outlets": [
         "Music News"
