@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T18:16:37Z",
+  "generated_at": "2025-10-09T19:08:13Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -269,39 +269,6 @@
       "cluster_id": "85faa0bc534f"
     },
     {
-      "id": "8c05db2f68fa",
-      "title": "America's top banker sounds warning on US stock market fall",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg5ej03p604o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 08 Oct 2025 23:02:24 GMT",
-      "bullets": [
-        "• America's top banker sounds warning on US stock market fall",
-        "• Jamie Dimon said he was \"far more worried than others\" about a serious market correction",
-        "• The bank boss also said that the US had become a \"less reliable\" partner on the world stage "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• America's top banker sounds warning on US stock market fall",
-          "• Jamie Dimon said he was \"far more worried than others\" about a serious market correction"
-        ],
-        "hopeful_bullets": [
-          "• America's top banker sounds warning on US stock market fall",
-          "• Jamie Dimon said he was \"far more worried than others\" about a serious market correction"
-        ],
-        "stakes_bullets": [
-          "• America's top banker sounds warning on US stock market fall",
-          "• The bank boss also said that the US had become a \"less reliable\" partner on the world stage "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0529a26d4ecf"
-    },
-    {
       "id": "55c6f6e332fb",
       "title": "Stoke Space gives us another reason to take it very seriously",
       "outlet": "Ars Technica - All content",
@@ -436,39 +403,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ad898df28092"
-    },
-    {
-      "id": "67a41af02315",
-      "title": "Halle Bailey Is Finally Ready to Release Her Debut Album ‘Love? Or Something Like It’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/halle-bailey-debut-solo-album-love-or-something-like-it-1235443564/",
-      "published_at": "Wed, 08 Oct 2025 21:56:29 +0000",
-      "bullets": [
-        "• Halle Bailey's debut solo album, Love? Or Something Like It, will arrive Oct",
-        "• 24",
-        "• Bailey announced the news with a short teaser clip on Instagram",
-        "• She described the album as “a story of first love, heartbreak, and everything that comes after”"
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Halle Bailey's debut solo album, Love? Or Something Like It, will arrive Oct",
-          "• 24"
-        ],
-        "hopeful_bullets": [
-          "• Halle Bailey's debut solo album, Love? Or Something Like It, will arrive Oct",
-          "• 24"
-        ],
-        "stakes_bullets": [
-          "• Halle Bailey's debut solo album, Love? Or Something Like It, will arrive Oct"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a12f7e0afd26"
     },
     {
       "id": "cbffb9a93318",
@@ -1485,42 +1419,6 @@
       "cluster_id": "bfcd0df98408"
     },
     {
-      "id": "291649875cb2",
-      "title": "With the Texas National Guard now in Illinois, here’s what you need to know about the unit",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17181308/texas-national-guard-abbott-deployment-chicago",
-      "published_at": "Wed, 08 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Around 200 members of the Texas National Guard are currently in Illinois",
-        "• Gov",
-        "• Greg Abbott says the troops are being deployed to “safeguard” U.S",
-        "• Immigration and Customs Enforcement officers",
-        "• ICE agents have been using increasingly aggressive methods to go after undocumented immigrants in Chicago "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.853
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Around 200 members of the Texas National Guard are currently in Illinois",
-          "• Gov"
-        ],
-        "hopeful_bullets": [
-          "• Around 200 members of the Texas National Guard are currently in Illinois",
-          "• Gov"
-        ],
-        "stakes_bullets": [
-          "• Around 200 members of the Texas National Guard are currently in Illinois",
-          "• Gov",
-          "• Greg Abbott says the troops are being deployed to “safeguard” U.S"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "3998797deed8"
-    },
-    {
       "id": "9fdfa841281d",
       "title": "Texas GOP to consider blocking lawmakers from 2026 primary ballot in first test of new censure rule",
       "outlet": "The Texas Tribune",
@@ -1550,6 +1448,42 @@
       },
       "read_minutes": 13,
       "cluster_id": "f9593e25714b"
+    },
+    {
+      "id": "291649875cb2",
+      "title": "With the Texas National Guard now in Illinois, here’s what you need to know about the unit",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17181308/texas-national-guard-abbott-deployment-chicago",
+      "published_at": "Wed, 08 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• Around 200 members of the Texas National Guard are currently in Illinois",
+        "• Gov",
+        "• Greg Abbott said the troops were being deployed to “safeguard” U.S",
+        "• Immigration and Customs Enforcement officers",
+        "• The Trump administration has been using increasingly aggressive methods to go after undocumented immigrants in Chicago "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.601
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Around 200 members of the Texas National Guard are currently in Illinois",
+          "• Gov"
+        ],
+        "hopeful_bullets": [
+          "• Around 200 members of the Texas National Guard are currently in Illinois",
+          "• Gov"
+        ],
+        "stakes_bullets": [
+          "• Around 200 members of the Texas National Guard are currently in Illinois",
+          "• Gov",
+          "• Greg Abbott said the troops were being deployed to “safeguard” U.S"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "3998797deed8"
     },
     {
       "id": "580c13986b7c",
@@ -2808,6 +2742,335 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "628f9e0f49a2",
+      "title": "Two Animated Classics Team Up for an Unprecedented Disney Crossover",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/gargoyles-darkwing-duck-disney-crossover/",
+      "published_at": "Thu, 09 Oct 2025 19:00:13 GMT",
+      "bullets": [
+        "• The worlds of Gargoyles and Darkwing Duck are about to collide for the very first time in a new comic book series",
+        "• The series will see St",
+        "• Canard's greatest heroes make the journey to New York to team up with the Manhattan Clan and face off against their most dangerous foes "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The worlds of Gargoyles and Darkwing Duck are about to collide for the very first time in a new comic book series",
+          "• The series will see St"
+        ],
+        "hopeful_bullets": [
+          "• The worlds of Gargoyles and Darkwing Duck are about to collide for the very first time in a new comic book series",
+          "• Canard's greatest heroes make the journey to New York to team up with the Manhattan Clan and face off against their most dangerous foes "
+        ],
+        "stakes_bullets": [
+          "• The series will see St"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5be32e165903"
+    },
+    {
+      "id": "a98d50cc0b04",
+      "title": "Watch The Marías’ Haunting Performance of ‘Back to Me’ for Austin City Limits TV",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/the-marias-back-to-me-austin-city-limits-performance-1235443938/",
+      "published_at": "Thu, 09 Oct 2025 19:00:00 +0000",
+      "bullets": [
+        "• The Marías hosted a special set for Austin City Limits back in July",
+        "• The live performance video was filmed during a one-night-only concert at the Moody Theatre",
+        "• The group played songs such as “Only in My Dreams,” “Heavy” and “No One Noticed”"
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Marías hosted a special set for Austin City Limits back in July",
+          "• The live performance video was filmed during a one-night-only concert at the Moody Theatre"
+        ],
+        "hopeful_bullets": [
+          "• The Marías hosted a special set for Austin City Limits back in July",
+          "• The live performance video was filmed during a one-night-only concert at the Moody Theatre"
+        ],
+        "stakes_bullets": [
+          "• The Marías hosted a special set for Austin City Limits back in July",
+          "• The live performance video was filmed during a one-night-only concert at the Moody Theatre",
+          "• The group played songs such as “Only in My Dreams,” “Heavy” and “No One Noticed”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c9da60df3265"
+    },
+    {
+      "id": "d850e61ef2c8",
+      "title": "10 Anime Transformations That Are (Almost) as Iconic as Dragon Ball’s Super Saiyan",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-anime-transformations-rival-dragon-ball-super-saiyan/",
+      "published_at": "Thu, 09 Oct 2025 18:57:14 GMT",
+      "bullets": [
+        "• One Piece's Gear 5 awakening is one of the craziest moments in the series",
+        "• The power-up is reminiscent of Dragon Ball's first Super Saiyan transformation",
+        "• Other anime shows have their own ways of creating memorable power-ups",
+        "• Some of these power ups combine emotion with absurdity "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Piece's Gear 5 awakening is one of the craziest moments in the series",
+          "• The power-up is reminiscent of Dragon Ball's first Super Saiyan transformation"
+        ],
+        "hopeful_bullets": [
+          "• One Piece's Gear 5 awakening is one of the craziest moments in the series",
+          "• The power-up is reminiscent of Dragon Ball's first Super Saiyan transformation"
+        ],
+        "stakes_bullets": [
+          "• One Piece's Gear 5 awakening is one of the craziest moments in the series",
+          "• The power-up is reminiscent of Dragon Ball's first Super Saiyan transformation",
+          "• Other anime shows have their own ways of creating memorable power-ups"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "e34ae7d43a30"
+    },
+    {
+      "id": "eb9875b1dd92",
+      "title": "Trump threatens to use government shutdown to cut 'popular Democrat programs'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/trump-government-shutdown-programs.html",
+      "published_at": "Thu, 09 Oct 2025 18:41:05 GMT",
+      "bullets": [
+        "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
+        "• The shutdown is now in its ninth day",
+        "• Trump said Democrats will \"get a little taste of their own medicine\" during a Cabinet meeting at the White House on Thursday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
+          "• The shutdown is now in its ninth day"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
+          "• The shutdown is now in its ninth day"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
+          "• Trump said Democrats will \"get a little taste of their own medicine\" during a Cabinet meeting at the White House on Thursday "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cd04e613c6a2"
+    },
+    {
+      "id": "a344ca30dc1c",
+      "title": "Ice Nine Kills Pay Homage to Tim Burton’s ‘Batman’ in ‘The Last Laugh’ Music Video with Matthew Lillard",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/music/3908283/ice-nine-kills-pay-homage-to-tim-burtons-batman-in-the-last-laugh-music-video-with-matthew-lillard/?utm_source=rss&utm_medium=rss&utm_campaign=ice-nine-kills-pay-homage-to-tim-burtons-batman-in-the-last-laugh-music-video-with-matthew-lillard",
+      "published_at": "Thu, 09 Oct 2025 18:37:37 +0000",
+      "bullets": [
+        "• Ice Nine Kills have released a two-part short film for “The Last Laugh,” a new single based on Tim Burton’s Batman",
+        "• The horror-inspired metalcore act is comprised of vocalist Spencer Charnas, guitarists Ricky Armellino, bassist Joe Occhiuti, and drummer Mike Cortada",
+        "• The band members star in the video alongside Matthew Lillard (Scream) and Phil Morris (Seinfeld)"
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ice Nine Kills have released a two-part short film for “The Last Laugh,” a new single based on Tim Burton’s Batman",
+          "• The horror-inspired metalcore act is comprised of vocalist Spencer Charnas, guitarists Ricky Armellino, bassist Joe Occhiuti, and drummer Mike Cortada"
+        ],
+        "hopeful_bullets": [
+          "• Ice Nine Kills have released a two-part short film for “The Last Laugh,” a new single based on Tim Burton’s Batman",
+          "• The horror-inspired metalcore act is comprised of vocalist Spencer Charnas, guitarists Ricky Armellino, bassist Joe Occhiuti, and drummer Mike Cortada"
+        ],
+        "stakes_bullets": [
+          "• The band members star in the video alongside Matthew Lillard (Scream) and Phil Morris (Seinfeld)"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ee2fbf15eed2"
+    },
+    {
+      "id": "cdc263792fcd",
+      "title": "10 Best Anime You Can Binge Watch on Crunchyroll in 1 Weekend",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/short-crunchyroll-anime-binge-weekend/",
+      "published_at": "Thu, 09 Oct 2025 18:36:28 GMT",
+      "bullets": [
+        "• Crunchyroll was once a niche platform for anime fans to catch some of their favorite series, but the medium's global explosion allowed it to expand considerably",
+        "• One Piece, Bleach, and Bleach contain more than 2000 episodes in total",
+        "• Solo Leveling features a standard shonen protagonist with a special twist -- unlike most anime heroes, Sung Jin-woo becomes one of the strongest characters in his universe "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Crunchyroll was once a niche platform for anime fans to catch some of their favorite series, but the medium's global explosion allowed it to expand considerably",
+          "• One Piece, Bleach, and Bleach contain more than 2000 episodes in total"
+        ],
+        "hopeful_bullets": [
+          "• Solo Leveling features a standard shonen protagonist with a special twist -- unlike most anime heroes, Sung Jin-woo becomes one of the strongest characters in his universe "
+        ],
+        "stakes_bullets": [
+          "• Crunchyroll was once a niche platform for anime fans to catch some of their favorite series, but the medium's global explosion allowed it to expand considerably"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "38abe39a31f6"
+    },
+    {
+      "id": "bd13b21c27ec",
+      "title": "Margot Robbie's Ocean's Eleven Prequel Adds Bradley Cooper to Cast",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/bradley-cooper-cast-oceans-eleven-prequel/",
+      "published_at": "Thu, 09 Oct 2025 18:27:45 GMT",
+      "bullets": [
+        "• Bradley Cooper is reportedly in talks to star alongside Margot Robbie in the new Ocean's Eleven prequel",
+        "• The still untitled film is set to be a prequel to 2001's Ocean's 11",
+        "• The movie takes place before the events of the 2001 movie that starred Brad Pitt and George Clooney "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.723
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bradley Cooper is reportedly in talks to star alongside Margot Robbie in the new Ocean's Eleven prequel",
+          "• The still untitled film is set to be a prequel to 2001's Ocean's 11"
+        ],
+        "hopeful_bullets": [
+          "• Bradley Cooper is reportedly in talks to star alongside Margot Robbie in the new Ocean's Eleven prequel",
+          "• The still untitled film is set to be a prequel to 2001's Ocean's 11"
+        ],
+        "stakes_bullets": [
+          "• Bradley Cooper is reportedly in talks to star alongside Margot Robbie in the new Ocean's Eleven prequel",
+          "• The still untitled film is set to be a prequel to 2001's Ocean's 11",
+          "• The movie takes place before the events of the 2001 movie that starred Brad Pitt and George Clooney "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b74d2e8b2e9f"
+    },
+    {
+      "id": "693dcb38b9cf",
+      "title": "Letterboxd Shares List of ‘The Official Top 25 Horror Films of 2025’ for Halloween",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3908287/letterboxd-shares-list-of-the-official-top-25-horror-films-of-2025-for-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=letterboxd-shares-list-of-the-official-top-25-horror-films-of-2025-for-halloween",
+      "published_at": "Thu, 09 Oct 2025 18:27:20 +0000",
+      "bullets": [
+        "• Letterboxd’s Top 25 Horror Films of 2025 features some obvious picks including Sinners (at #1), Weapons, Weapons, Bring Her Back, 28 Years Later, Together, and Guillermo del Toro's upcoming Netflix movie Frankenstein",
+        "• The list includes many horror films you maybe haven’t heard of yet "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Letterboxd’s Top 25 Horror Films of 2025 features some obvious picks including Sinners (at #1), Weapons, Weapons, Bring Her Back, 28 Years Later, Together, and Guillermo del Toro's upcoming Netflix movie Frankenstein",
+          "• The list includes many horror films you maybe haven’t heard of yet "
+        ],
+        "hopeful_bullets": [
+          "• Letterboxd’s Top 25 Horror Films of 2025 features some obvious picks including Sinners (at #1), Weapons, Weapons, Bring Her Back, 28 Years Later, Together, and Guillermo del Toro's upcoming Netflix movie Frankenstein",
+          "• The list includes many horror films you maybe haven’t heard of yet "
+        ],
+        "stakes_bullets": [
+          "• Letterboxd’s Top 25 Horror Films of 2025 features some obvious picks including Sinners (at #1), Weapons, Weapons, Bring Her Back, 28 Years Later, Together, and Guillermo del Toro's upcoming Netflix movie Frankenstein",
+          "• The list includes many horror films you maybe haven’t heard of yet "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4960c8099f43"
+    },
+    {
+      "id": "083fea195d77",
+      "title": "A Minecraft Movie 2 Release Date Announced",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/minecraft-movie-2-release-date/",
+      "published_at": "Thu, 09 Oct 2025 18:20:34 GMT",
+      "bullets": [
+        "• Warner Bros",
+        "• has just announced when A Minecraft Movie 2 will be hitting theaters",
+        "• Jared Hess has been confirmed to return as director on the project",
+        "• The first Minecraft movie was an unexpected hit, grossing almost $1 billion worldwide earlier this year "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Warner Bros",
+          "• has just announced when A Minecraft Movie 2 will be hitting theaters"
+        ],
+        "hopeful_bullets": [
+          "• Warner Bros",
+          "• has just announced when A Minecraft Movie 2 will be hitting theaters"
+        ],
+        "stakes_bullets": [
+          "• has just announced when A Minecraft Movie 2 will be hitting theaters",
+          "• The first Minecraft movie was an unexpected hit, grossing almost $1 billion worldwide earlier this year "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f3cfc80dcd20"
+    },
+    {
+      "id": "a0b5ef1035c2",
+      "title": "Get Medieval With TTRPG ‘Danse Macabre’, Now on Kickstarter",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/books/3908238/get-medieval-with-ttrpg-danse-macabre-now-on-kickstarter/?utm_source=rss&utm_medium=rss&utm_campaign=get-medieval-with-ttrpg-danse-macabre-now-on-kickstarter",
+      "published_at": "Thu, 09 Oct 2025 18:15:12 +0000",
+      "bullets": [
+        "• Christopher Pickett’s new TTRPG Danse Macabre: Medieval Horror Roleplaying has almost reached its Kickstarter goal",
+        "• The story centers around the end of the 14th century in Abandoned Constantinople",
+        "• The book also includes new rules for classes, relics, arms and armor, and encounters "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.843
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Christopher Pickett’s new TTRPG Danse Macabre: Medieval Horror Roleplaying has almost reached its Kickstarter goal",
+          "• The story centers around the end of the 14th century in Abandoned Constantinople"
+        ],
+        "hopeful_bullets": [
+          "• Christopher Pickett’s new TTRPG Danse Macabre: Medieval Horror Roleplaying has almost reached its Kickstarter goal",
+          "• The story centers around the end of the 14th century in Abandoned Constantinople"
+        ],
+        "stakes_bullets": [
+          "• The story centers around the end of the 14th century in Abandoned Constantinople"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b47dec01e1f1"
+    },
+    {
       "id": "b9c4f3151a60",
       "title": "Post Malone and Lainey Wilson Duet ‘Nosedive’ at Posty’s Nashville Bar Grand Opening",
       "outlet": "Music News",
@@ -2840,6 +3103,72 @@
       },
       "read_minutes": 1,
       "cluster_id": "c7760e0998fd"
+    },
+    {
+      "id": "43706ff98966",
+      "title": "Trump says ‘we’re only going to cut Democrat programs’ as Senate again fails to advance stopgap funding bill – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
+      "published_at": "Thu, 09 Oct 2025 18:06:22 GMT",
+      "bullets": [
+        "• Trump says ‘we’re only going to cut Democrat programs’ as Senate again fails to pass dueling funding bills",
+        "• ‘We’ll be cutting some very popular Democrat programs that aren’t popular with Republicans, frankly, that’s the way it works’"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says ‘we’re only going to cut Democrat programs’ as Senate again fails to pass dueling funding bills",
+          "• ‘We’ll be cutting some very popular Democrat programs that aren’t popular with Republicans, frankly, that’s the way it works’"
+        ],
+        "hopeful_bullets": [
+          "• Trump says ‘we’re only going to cut Democrat programs’ as Senate again fails to pass dueling funding bills",
+          "• ‘We’ll be cutting some very popular Democrat programs that aren’t popular with Republicans, frankly, that’s the way it works’"
+        ],
+        "stakes_bullets": [
+          "• Trump says ‘we’re only going to cut Democrat programs’ as Senate again fails to pass dueling funding bills",
+          "• ‘We’ll be cutting some very popular Democrat programs that aren’t popular with Republicans, frankly, that’s the way it works’"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "21929674345f"
+    },
+    {
+      "id": "0a52c970d762",
+      "title": "Grisly recording reveals bat catching, killing and eating robin mid-flight",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/science/2025/oct/09/grisly-recording-reveals-bat-catching-killing-and-eating-robin-mid-flight",
+      "published_at": "Thu, 09 Oct 2025 18:00:30 GMT",
+      "bullets": [
+        "• The greater noctule is Europe's largest bat species and is thought to be the biggest predator in the world",
+        "• It ate the bird for 23 minutes before it was caught and killed by a swarm of bats",
+        "• It is believed to be one of the world's largest bats, killing and eating the bird "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.923
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The greater noctule is Europe's largest bat species and is thought to be the biggest predator in the world",
+          "• It ate the bird for 23 minutes before it was caught and killed by a swarm of bats"
+        ],
+        "hopeful_bullets": [
+          "• The greater noctule is Europe's largest bat species and is thought to be the biggest predator in the world",
+          "• It ate the bird for 23 minutes before it was caught and killed by a swarm of bats"
+        ],
+        "stakes_bullets": [
+          "• The greater noctule is Europe's largest bat species and is thought to be the biggest predator in the world",
+          "• It ate the bird for 23 minutes before it was caught and killed by a swarm of bats",
+          "• It is believed to be one of the world's largest bats, killing and eating the bird "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bdc1a0d766b5"
     },
     {
       "id": "5c0bc89b3ac4",
@@ -2905,6 +3234,38 @@
       },
       "read_minutes": 7,
       "cluster_id": "619dea0bc5ce"
+    },
+    {
+      "id": "6787ab6e10ce",
+      "title": "Delta says premium travel is set to overtake coach cabin sales next year",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/delta-premium-travel-set-to-overtake-coach-cabin-sales-2026.html",
+      "published_at": "Thu, 09 Oct 2025 17:59:58 GMT",
+      "bullets": [
+        "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
+        "• Main-cabin ticket revenue fell 4% from a year earlier to just over $6 billion",
+        "• CEO says he's seen no sign of premium-travel demand slowing down "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
+          "• Main-cabin ticket revenue fell 4% from a year earlier to just over $6 billion"
+        ],
+        "hopeful_bullets": [
+          "• CEO says he's seen no sign of premium-travel demand slowing down "
+        ],
+        "stakes_bullets": [
+          "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
+          "• Main-cabin ticket revenue fell 4% from a year earlier to just over $6 billion"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a757d5c620ed"
     },
     {
       "id": "b3ae5e82c927",
@@ -2974,6 +3335,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "8ac700c45487"
+    },
+    {
+      "id": "0fa42502d4fa",
+      "title": "Here are the new federal income tax brackets for 2026—the standard deduction now exceeds $16,000 for single filers",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/irs-announces-new-federal-income-tax-brackets-for-2026.html",
+      "published_at": "Thu, 09 Oct 2025 17:52:29 GMT",
+      "bullets": [
+        "• Tax brackets will rise by about 4% for lower-income ranges and roughly 2% for higher earners",
+        "• The IRS also raised income thresholds for long-term capital gains taxes and made inflation adjustments to the estate and gift tax",
+        "• The standard deduction will increase from $15,750 to $16,100 for single filers starting in 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.921
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tax brackets will rise by about 4% for lower-income ranges and roughly 2% for higher earners",
+          "• The IRS also raised income thresholds for long-term capital gains taxes and made inflation adjustments to the estate and gift tax"
+        ],
+        "hopeful_bullets": [
+          "• The IRS also raised income thresholds for long-term capital gains taxes and made inflation adjustments to the estate and gift tax"
+        ],
+        "stakes_bullets": [
+          "• Tax brackets will rise by about 4% for lower-income ranges and roughly 2% for higher earners",
+          "• The standard deduction will increase from $15,750 to $16,100 for single filers starting in 2026 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fdf32665d989"
     },
     {
       "id": "b066810e663a",
@@ -3077,39 +3470,6 @@
       "cluster_id": "14d352ca49b4"
     },
     {
-      "id": "eb9875b1dd92",
-      "title": "Trump threatens to use government shutdown to cut 'popular Democrat programs'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/trump-government-shutdown-programs.html",
-      "published_at": "Thu, 09 Oct 2025 17:37:54 GMT",
-      "bullets": [
-        "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
-        "• The shutdown is now in its ninth day",
-        "• Trump said Democrats will \"get a little taste of their own medicine\" during a Cabinet meeting at the White House on Thursday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
-          "• The shutdown is now in its ninth day"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
-          "• The shutdown is now in its ninth day"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says he plans to use the shutdown to permanently cut programs popular with Democrats",
-          "• Trump said Democrats will \"get a little taste of their own medicine\" during a Cabinet meeting at the White House on Thursday "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cd04e613c6a2"
-    },
-    {
       "id": "46702101a88e",
       "title": "'Joy and pain': Palestinians celebrate deal but fear confronting grief",
       "outlet": "BBC News",
@@ -3118,12 +3478,12 @@
       "bullets": [
         "• Palestinians celebrate ceasefire deal but fear confronting grief over two years of war",
         "• Deal will see release of prisoners and bodies of 28 dead Palestinians in return for 1,700 prisoners",
-        "• Deal is first phase of a 20-point peace plan that could lead to an end to the war "
+        "• Deal is first phase of a 20-point peace plan that could lead to an end to two-year conflict "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.989
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
@@ -3136,41 +3496,11 @@
         ],
         "stakes_bullets": [
           "• Deal will see release of prisoners and bodies of 28 dead Palestinians in return for 1,700 prisoners",
-          "• Deal is first phase of a 20-point peace plan that could lead to an end to the war "
+          "• Deal is first phase of a 20-point peace plan that could lead to an end to two-year conflict "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "82f94b7be91b"
-    },
-    {
-      "id": "43706ff98966",
-      "title": "Trump says ‘we’re only going to cut Democrat programs’ as Senate again fails to advance stopgap funding bill – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
-      "published_at": "Thu, 09 Oct 2025 17:32:14 GMT",
-      "bullets": [
-        "• Trump says 'we will be making cuts that are permanent and we're only going to cut Democrat programs, I hate to tell you' Agriculture secretary Brooke Rollins says the government will be able to help farmers once shutdown is over",
-        "• Agriculture secretary says the administration inherited a slew of issues inherited by the previous administration "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says 'we will be making cuts that are permanent and we're only going to cut Democrat programs, I hate to tell you' Agriculture secretary Brooke Rollins says the government will be able to help farmers once shutdown is over",
-          "• Agriculture secretary says the administration inherited a slew of issues inherited by the previous administration "
-        ],
-        "hopeful_bullets": [
-          "• Trump says 'we will be making cuts that are permanent and we're only going to cut Democrat programs, I hate to tell you' Agriculture secretary Brooke Rollins says the government will be able to help farmers once shutdown is over"
-        ],
-        "stakes_bullets": [
-          "• Trump says 'we will be making cuts that are permanent and we're only going to cut Democrat programs, I hate to tell you' Agriculture secretary Brooke Rollins says the government will be able to help farmers once shutdown is over"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "21929674345f"
     },
     {
       "id": "ec18534f1c28",
@@ -3309,29 +3639,26 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/09/palisades-fire-suspect-jail",
       "published_at": "Thu, 09 Oct 2025 17:15:23 GMT",
       "bullets": [
-        "• Rinderknecht is ordered to remain in jail in Florida",
-        "• He is accused of starting a fire that killed 12 people in Los Angeles",
-        "• The fire started on New Year's Day and spread through the city",
-        "• He has since been evicted from his home in Brevard County "
+        "• Jonathan Rinderknecht is charged with arson in the Los Angeles Palisades fire",
+        "• He was ordered to remain in jail after a prosecutor said he had traits of an arsonist",
+        "• The fire, which left 12 dead, was one of two blazes that killed more than 30 people in all "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.839
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Rinderknecht is ordered to remain in jail in Florida",
-          "• He is accused of starting a fire that killed 12 people in Los Angeles"
+          "• Jonathan Rinderknecht is charged with arson in the Los Angeles Palisades fire",
+          "• He was ordered to remain in jail after a prosecutor said he had traits of an arsonist"
         ],
         "hopeful_bullets": [
-          "• Rinderknecht is ordered to remain in jail in Florida",
-          "• He is accused of starting a fire that killed 12 people in Los Angeles"
+          "• Jonathan Rinderknecht is charged with arson in the Los Angeles Palisades fire",
+          "• He was ordered to remain in jail after a prosecutor said he had traits of an arsonist"
         ],
         "stakes_bullets": [
-          "• Rinderknecht is ordered to remain in jail in Florida",
-          "• He is accused of starting a fire that killed 12 people in Los Angeles",
-          "• The fire started on New Year's Day and spread through the city"
+          "• He was ordered to remain in jail after a prosecutor said he had traits of an arsonist"
         ]
       },
       "read_minutes": 1,
@@ -3475,7 +3802,7 @@
     },
     {
       "id": "ec3b16c0bc8e",
-      "title": "Trump’s Nobel peace prize campaign has been anything but subtle. Why is he so obsessed?",
+      "title": "Truly, madly, deeply: Trump’s desire for a Nobel peace prize is driving diplomacy",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/09/trump-nobel-peace-prize",
       "published_at": "Thu, 09 Oct 2025 17:02:43 GMT",
@@ -3486,8 +3813,8 @@
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.983
+        "label": "positive",
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
@@ -3503,7 +3830,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "2ffc8b7be08e"
+      "cluster_id": "eefd831ed6a9"
     },
     {
       "id": "a1e7466a6321",
@@ -3537,71 +3864,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0bca1fbc9248"
-    },
-    {
-      "id": "d636e914c6f0",
-      "title": "The Absolute Justice League's Final Member Is Living His Arch-Rival's Smallville Dreams",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/absolute-evil-justice-league-lex-luthor-smallville-dreams/",
-      "published_at": "Thu, 09 Oct 2025 17:00:12 GMT",
-      "bullets": [
-        "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano",
-        "• The final member of the Justice League is Lex Luthor, who first appeared in 1940's Action Comics "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano",
-          "• The final member of the Justice League is Lex Luthor, who first appeared in 1940's Action Comics "
-        ],
-        "hopeful_bullets": [
-          "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano"
-        ],
-        "stakes_bullets": [
-          "• Absolute Evil #1 is written by Al Ewing, Giuseppe Camuncoli, Stefano Nesi, Romulo Fajardo Jr., and Tom Napolitano",
-          "• The final member of the Justice League is Lex Luthor, who first appeared in 1940's Action Comics "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f6e1e8c7ac8a"
-    },
-    {
-      "id": "522961df5c54",
-      "title": "Star Trek’s Most Disappointing Episode Gave Fans Exactly What They Wanted (Then Took It Away Again)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-voyager-janeway-romance-taken-away/",
-      "published_at": "Thu, 09 Oct 2025 17:00:12 GMT",
-      "bullets": [
-        "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
-        "• It is the first Star Trek series ever to feature a female captain",
-        "• Despite how long the series ran, one of its most disappointing episodes happened in Season 2 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
-          "• It is the first Star Trek series ever to feature a female captain"
-        ],
-        "hopeful_bullets": [
-          "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
-          "• It is the first Star Trek series ever to feature a female captain"
-        ],
-        "stakes_bullets": [
-          "• Star Trek: Voyager (1995-2001) is the fifth series installment of the Star Trek franchise",
-          "• It is the first Star Trek series ever to feature a female captain",
-          "• Despite how long the series ran, one of its most disappointing episodes happened in Season 2 "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "be3971279fc3"
     },
     {
       "id": "5b04cd8ed224",
@@ -3671,7 +3933,7 @@
     },
     {
       "id": "a315cc0993dc",
-      "title": "One of world’s biggest wind farm developers to cut quarter of workforce",
+      "title": "One of world’s biggest windfarm developers to cut quarter of workforce",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/environment/2025/oct/09/worlds-biggest-offshore-wind-company-to-cut-a-quarter-of-its-workforce-as",
       "published_at": "Thu, 09 Oct 2025 16:45:03 GMT",
@@ -3683,7 +3945,7 @@
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.813
+        "score": 0.883
       },
       "moods": {
         "brief_bullets": [
@@ -3698,7 +3960,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "394d894ce999"
+      "cluster_id": "14915d4f8f59"
     },
     {
       "id": "ebd422bf3bf0",
@@ -3733,68 +3995,36 @@
       "cluster_id": "144c95825154"
     },
     {
-      "id": "f2e0d16a3447",
-      "title": "Oshi no Ko Season 3 Is Officially Coming to Crunchyroll",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/oshi-no-ko-season-3-crunchyroll-streaming/",
-      "published_at": "Thu, 09 Oct 2025 16:39:08 GMT",
+      "id": "513655d6bd1f",
+      "title": "NBA games back in China for first time since Hong Kong row",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9zmld314ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 09 Oct 2025 16:37:10 GMT",
       "bullets": [
-        "• Oshi no Ko Season 3 will premiere in January 2026",
-        "• The dark anime idol thriller is being released on a different streaming service than its usual home on HIDIVE",
-        "• Crunchyroll made the announcement at New York Comic Con 2025 at the Jacob Javits Convention Center on Manhattan's West Side "
+        "• Two pre-season games are scheduled for Friday and Sunday between the Brooklyn Nets and the Phoenix Suns",
+        "• It is the first time an NBA fixture has been played in Macau since 2007",
+        "• China effectively froze the NBA out six years ago after a manager wrote in support of pro-democracy protesters in Hong Kong "
       ],
-      "category": "Comics",
+      "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.833
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Oshi no Ko Season 3 will premiere in January 2026",
-          "• The dark anime idol thriller is being released on a different streaming service than its usual home on HIDIVE"
+          "• Two pre-season games are scheduled for Friday and Sunday between the Brooklyn Nets and the Phoenix Suns",
+          "• It is the first time an NBA fixture has been played in Macau since 2007"
         ],
         "hopeful_bullets": [
-          "• Oshi no Ko Season 3 will premiere in January 2026",
-          "• The dark anime idol thriller is being released on a different streaming service than its usual home on HIDIVE"
+          "• Two pre-season games are scheduled for Friday and Sunday between the Brooklyn Nets and the Phoenix Suns",
+          "• It is the first time an NBA fixture has been played in Macau since 2007"
         ],
         "stakes_bullets": [
-          "• Oshi no Ko Season 3 will premiere in January 2026"
+          "• China effectively froze the NBA out six years ago after a manager wrote in support of pro-democracy protesters in Hong Kong "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "18100e527a5e"
-    },
-    {
-      "id": "6787ab6e10ce",
-      "title": "Delta says premium travel is set to overtake coach cabin sales next year",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/delta-premium-travel-set-to-overtake-coach-cabin-sales-2026.html",
-      "published_at": "Thu, 09 Oct 2025 16:30:29 GMT",
-      "bullets": [
-        "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
-        "• Main cabin ticket revenue fell 4% from a year earlier to just over $6 billion",
-        "• CEO says he's seen no sign of premium-travel demand slowing down "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
-          "• Main cabin ticket revenue fell 4% from a year earlier to just over $6 billion"
-        ],
-        "hopeful_bullets": [
-          "• CEO says he's seen no sign of premium-travel demand slowing down "
-        ],
-        "stakes_bullets": [
-          "• Ticket revenue from Delta's premium cabin rose 9% from last year to nearly $5.8 billion",
-          "• Main cabin ticket revenue fell 4% from a year earlier to just over $6 billion"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a757d5c620ed"
+      "cluster_id": "210571d7a5b0"
     },
     {
       "id": "10a45f72523e",
@@ -3828,44 +4058,10 @@
       "cluster_id": "bc0e3e0308b7"
     },
     {
-      "id": "b16bfb1865a2",
-      "title": "NCIS: Tony & Ziva Stars Tease Why the New Pairing Work",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ncis-tony-ziva-cote-de-pablo-michael-weatherly-why-pairing-works/",
-      "published_at": "Thu, 09 Oct 2025 16:29:16 GMT",
-      "bullets": [
-        "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
-        "• The duo appeared together in 128 episodes of NCIS",
-        "• De Pablo said she doesn't know why they get along so well "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
-          "• The duo appeared together in 128 episodes of NCIS"
-        ],
-        "hopeful_bullets": [
-          "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
-          "• The duo appeared together in 128 episodes of NCIS"
-        ],
-        "stakes_bullets": [
-          "• NCIS: Tony & Ziva stars Cote de Pablo and Michael Weatherly talk to CBR's Grae Drake at the New York Comic Con",
-          "• The duo appeared together in 128 episodes of NCIS",
-          "• De Pablo said she doesn't know why they get along so well "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1b91c8ea9997"
-    },
-    {
-      "id": "63fa3f768207",
+      "id": "2c2e258486b0",
       "title": "We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off",
       "outlet": "WIRED",
-      "url": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
+      "url": "https://www.wired.com/story/prime-day-deals-october-2025-2/",
       "published_at": "Thu, 09 Oct 2025 16:29:04 +0000",
       "bullets": [
         "• Amazon Prime's latest Prime Day sale has come and gone",
@@ -3893,7 +4089,7 @@
         ]
       },
       "read_minutes": 37,
-      "cluster_id": "37d9e4c3a9ce"
+      "cluster_id": "94f05168a67b"
     },
     {
       "id": "b8931686e30e",
@@ -4387,38 +4583,6 @@
       "cluster_id": "b8839cd80ec0"
     },
     {
-      "id": "e8a2d57cca28",
-      "title": "‘No Other Choice’ Trailer – Park Chan-wook’s Killer Dark Comedy Opens on Christmas",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/news/3908240/no-other-choice-trailer-park-chan-wooks-killer-dark-comedy-opens-on-christmas/?utm_source=rss&utm_medium=rss&utm_campaign=no-other-choice-trailer-park-chan-wooks-killer-dark-comedy-opens-on-christmas",
-      "published_at": "Thu, 09 Oct 2025 15:13:47 +0000",
-      "bullets": [
-        "• Based on Donald E",
-        "• Westlake’s 1997 novel The Ax, the black comedy thriller will open in select theaters on December 25",
-        "• Lee Byung-hun, Son Ye-jin, Park Hee-soon, Lee Sung-min, Yeom Hye-ran, Cha Seung-won, and Yoo Yeon-seok also star "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Based on Donald E",
-          "• Westlake’s 1997 novel The Ax, the black comedy thriller will open in select theaters on December 25"
-        ],
-        "hopeful_bullets": [
-          "• Based on Donald E",
-          "• Westlake’s 1997 novel The Ax, the black comedy thriller will open in select theaters on December 25"
-        ],
-        "stakes_bullets": [
-          "• Westlake’s 1997 novel The Ax, the black comedy thriller will open in select theaters on December 25"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "aac0f4a22da2"
-    },
-    {
       "id": "38f58972dba9",
       "title": "Netflix’s The Vince Staples Show Gets Season 2 Trailer: Watch",
       "outlet": "RSS: News",
@@ -4621,38 +4785,6 @@
       "cluster_id": "846ad27515fb"
     },
     {
-      "id": "7946edc1e738",
-      "title": "Senate to vote seventh time to end government shutdown, with little hope of passage",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/government-shutdown-senate-vote-bills.html",
-      "published_at": "Thu, 09 Oct 2025 14:53:30 GMT",
-      "bullets": [
-        "• The Senate is set to vote at around 11:30 a.m",
-        "• ET on dueling Republican and Democratic proposals to end the government shutdown",
-        "• The IRS says it is furloughing nearly half of its workforce as a result of the shutdown "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Senate is set to vote at around 11:30 a.m",
-          "• ET on dueling Republican and Democratic proposals to end the government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• The Senate is set to vote at around 11:30 a.m",
-          "• ET on dueling Republican and Democratic proposals to end the government shutdown"
-        ],
-        "stakes_bullets": [
-          "• The IRS says it is furloughing nearly half of its workforce as a result of the shutdown "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "d5479b8fa2fa"
-    },
-    {
       "id": "3eba0b5b029d",
       "title": "Madonna to Share ‘Untold Chapter’ of ‘Bedtime Stories’ With New EP",
       "outlet": "Music News",
@@ -4685,38 +4817,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "23e68d8e7f19"
-    },
-    {
-      "id": "a8e25c566fa9",
-      "title": "Gushers Revives ’90s Fruitheads Ad for Horror Short Starring Bradley Whitford",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/videos/3908221/gushers-revives-90s-fruitheads-ad-for-horror-short-starring-bradley-whitford/?utm_source=rss&utm_medium=rss&utm_campaign=gushers-revives-90s-fruitheads-ad-for-horror-short-starring-bradley-whitford",
-      "published_at": "Thu, 09 Oct 2025 14:40:00 +0000",
-      "bullets": [
-        "• Horror short stars Bradley Whitford and Chester Collins",
-        "• The nine-minute video reveals how one unlucky actor from the ’90s ad was cursed to live his life as a FruitHead",
-        "• It will make its festival debut at the Brooklyn Horror Film Festival later this month "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Horror short stars Bradley Whitford and Chester Collins",
-          "• The nine-minute video reveals how one unlucky actor from the ’90s ad was cursed to live his life as a FruitHead"
-        ],
-        "hopeful_bullets": [
-          "• Horror short stars Bradley Whitford and Chester Collins",
-          "• The nine-minute video reveals how one unlucky actor from the ’90s ad was cursed to live his life as a FruitHead"
-        ],
-        "stakes_bullets": [
-          "• It will make its festival debut at the Brooklyn Horror Film Festival later this month "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "24db8c4222b0"
     },
     {
       "id": "03dc9f7d2466",
@@ -4784,37 +4884,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "d7ec7068667c"
-    },
-    {
-      "id": "aca44dd96b45",
-      "title": "Jason Blum Says James Wan Will Be “Hugely Involved” in the ‘SAW’ Franchise’s Future",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3908214/jason-blum-says-james-wan-will-be-hugely-involved-in-the-saw-franchises-future/?utm_source=rss&utm_medium=rss&utm_campaign=jason-blum-says-james-wan-will-be-hugely-involved-in-the-saw-franchises-future",
-      "published_at": "Thu, 09 Oct 2025 14:25:47 +0000",
-      "bullets": [
-        "• Jason Blum says James Wan and Leigh Whannell will be helping to “guide the future of the franchise” Blumhouse recently acquired the franchise rights from Twisted Pictures",
-        "• A new SAW movie is expected to be in development very soon "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jason Blum says James Wan and Leigh Whannell will be helping to “guide the future of the franchise” Blumhouse recently acquired the franchise rights from Twisted Pictures",
-          "• A new SAW movie is expected to be in development very soon "
-        ],
-        "hopeful_bullets": [
-          "• Jason Blum says James Wan and Leigh Whannell will be helping to “guide the future of the franchise” Blumhouse recently acquired the franchise rights from Twisted Pictures"
-        ],
-        "stakes_bullets": [
-          "• Jason Blum says James Wan and Leigh Whannell will be helping to “guide the future of the franchise” Blumhouse recently acquired the franchise rights from Twisted Pictures",
-          "• A new SAW movie is expected to be in development very soon "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "41d7403bf9af"
     },
     {
       "id": "d8dc60db8546",
@@ -5130,28 +5199,28 @@
       "url": "https://www.wired.com/story/intel-arizona-fabrication-chips-trump-manufacturing/",
       "published_at": "Thu, 09 Oct 2025 13:00:00 +0000",
       "bullets": [
-        "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona is turning out its first chips",
+        "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona, is turning out its first chips",
         "• The announcement comes just six weeks after the White House acquired a 9.9 percent stake in Intel in exchange for $8.9 billion in stock",
-        "• The company also shared more details about the long-awaited CPUs that it will be producing in the facility using Intel's brand new 18A process technology "
+        "• The company also shared more details about the long-awaited CPUs that it will be producing in the facility "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "neutral",
-        "score": 0.521
+        "score": 0.549
       },
       "moods": {
         "brief_bullets": [
-          "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona is turning out its first chips",
+          "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona, is turning out its first chips",
           "• The announcement comes just six weeks after the White House acquired a 9.9 percent stake in Intel in exchange for $8.9 billion in stock"
         ],
         "hopeful_bullets": [
-          "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona is turning out its first chips",
+          "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona, is turning out its first chips",
           "• The announcement comes just six weeks after the White House acquired a 9.9 percent stake in Intel in exchange for $8.9 billion in stock"
         ],
         "stakes_bullets": [
-          "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona is turning out its first chips",
+          "• Intel announced Thursday that its Fab 52 semiconductor plant in Chandler, Arizona, is turning out its first chips",
           "• The announcement comes just six weeks after the White House acquired a 9.9 percent stake in Intel in exchange for $8.9 billion in stock",
-          "• The company also shared more details about the long-awaited CPUs that it will be producing in the facility using Intel's brand new 18A process technology "
+          "• The company also shared more details about the long-awaited CPUs that it will be producing in the facility "
         ]
       },
       "read_minutes": 7,
@@ -5389,37 +5458,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "663f2eac716e"
-    },
-    {
-      "id": "d2cadfbf6fa6",
-      "title": "Britain missing out on potential £2bn recycling industry by exporting plastic waste",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/09/britain-2bn-recycling-industry-export-plastic-waste",
-      "published_at": "Thu, 09 Oct 2025 12:05:48 GMT",
-      "bullets": [
-        "• In the first half of the year, the number of people in the world's most populous country of origin has increased by more than 100,000",
-        "• This year's population has grown to 6,000 people per year, according to the International Statistical Statistical Statistical Service "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In the first half of the year, the number of people in the world's most populous country of origin has increased by more than 100,000",
-          "• This year's population has grown to 6,000 people per year, according to the International Statistical Statistical Statistical Service "
-        ],
-        "hopeful_bullets": [
-          "• In the first half of the year, the number of people in the world's most populous country of origin has increased by more than 100,000",
-          "• This year's population has grown to 6,000 people per year, according to the International Statistical Statistical Statistical Service "
-        ],
-        "stakes_bullets": [
-          "• In the first half of the year, the number of people in the world's most populous country of origin has increased by more than 100,000"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8929e353a24c"
     },
     {
       "id": "19bfcde43c83",
@@ -6152,24 +6190,27 @@
       "published_at": "Thu, 09 Oct 2025 06:00:00 -0400",
       "bullets": [
         "• Mormon Women for Ethical Government is among the plaintiffs in a lawsuit that is now forcing lawmakers to redistrict Utah's four congressional seats",
-        "• The Utah legislature passed a new district map that improves Democrats' chances of winning a House seat in the heavily Republican state next year "
+        "• The redistricting comes amid Trump's battle for the U.S",
+        "• House of Representatives",
+        "• The legislature on Monday passed a new district map that improves Democrats' chances of winning a House seat in Utah "
       ],
       "category": "General",
       "sentiment": {
         "label": "neutral",
-        "score": 0.553
+        "score": 0.552
       },
       "moods": {
         "brief_bullets": [
           "• Mormon Women for Ethical Government is among the plaintiffs in a lawsuit that is now forcing lawmakers to redistrict Utah's four congressional seats",
-          "• The Utah legislature passed a new district map that improves Democrats' chances of winning a House seat in the heavily Republican state next year "
+          "• The redistricting comes amid Trump's battle for the U.S"
         ],
         "hopeful_bullets": [
-          "• The Utah legislature passed a new district map that improves Democrats' chances of winning a House seat in the heavily Republican state next year "
+          "• The legislature on Monday passed a new district map that improves Democrats' chances of winning a House seat in Utah "
         ],
         "stakes_bullets": [
           "• Mormon Women for Ethical Government is among the plaintiffs in a lawsuit that is now forcing lawmakers to redistrict Utah's four congressional seats",
-          "• The Utah legislature passed a new district map that improves Democrats' chances of winning a House seat in the heavily Republican state next year "
+          "• The redistricting comes amid Trump's battle for the U.S",
+          "• House of Representatives"
         ]
       },
       "read_minutes": 4,
@@ -6275,36 +6316,37 @@
       "cluster_id": "2a78106339af"
     },
     {
-      "id": "32ac6adcfa81",
-      "title": "South Texas students have a new chance to taste the race for space",
+      "id": "cd40517a5e67",
+      "title": "A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182152/south-texas-spacex-project-vortex-rockets",
+      "url": "https://feeds.texastribune.org/link/16799/17182151/texas-hood-county-crypto-noise-incorporate-city",
       "published_at": "Thu, 09 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• South Texas students have a new chance to taste the race for space",
-        "• The South Texas Astronomical Society is accepting applications for Project Vortex",
-        "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
+        "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
+        "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers",
+        "• Some residents say they don't spend much time outside anymore because of what many call “that roar”"
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "positive",
-        "score": 0.999
+        "label": "negative",
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
-          "• South Texas students have a new chance to taste the race for space",
-          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
+          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
+          "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers"
         ],
         "hopeful_bullets": [
-          "• South Texas students have a new chance to taste the race for space",
-          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
+          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
+          "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers"
         ],
         "stakes_bullets": [
-          "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
+          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
+          "• Some residents say they don't spend much time outside anymore because of what many call “that roar”"
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "81c7f4c71204"
+      "read_minutes": 9,
+      "cluster_id": "dfd3eebe7c1a"
     },
     {
       "id": "bf633ec3a78d",
@@ -6341,37 +6383,36 @@
       "cluster_id": "be01b2bd2298"
     },
     {
-      "id": "cd40517a5e67",
-      "title": "A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
+      "id": "32ac6adcfa81",
+      "title": "South Texas students have a new chance to taste the race for space",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182151/texas-hood-county-crypto-noise-incorporate-city",
+      "url": "https://feeds.texastribune.org/link/16799/17182152/south-texas-spacex-project-vortex-rockets",
       "published_at": "Thu, 09 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-        "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers",
-        "• Some residents say they don't spend much time outside anymore because of what many call “that roar”"
+        "• South Texas students have a new chance to taste the race for space",
+        "• The South Texas Astronomical Society is accepting applications for Project Vortex",
+        "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "negative",
-        "score": 0.977
+        "label": "positive",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-          "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers"
+          "• South Texas students have a new chance to taste the race for space",
+          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
         ],
         "hopeful_bullets": [
-          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-          "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers"
+          "• South Texas students have a new chance to taste the race for space",
+          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
         ],
         "stakes_bullets": [
-          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-          "• Some residents say they don't spend much time outside anymore because of what many call “that roar”"
+          "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
         ]
       },
-      "read_minutes": 9,
-      "cluster_id": "dfd3eebe7c1a"
+      "read_minutes": 5,
+      "cluster_id": "81c7f4c71204"
     },
     {
       "id": "e5124fdd70d5",
@@ -6474,32 +6515,31 @@
     },
     {
       "id": "7e49a86119da",
-      "title": "Travis Kelce Reacts to Taylor Swift’s Song ‘Wood,’ That’s About His… ‘Redwood Tree’",
+      "title": "Travis Kelce Reacts to Taylor Swift’s Song ‘Wood,’ Which Is About His … ‘Redwood Tree’",
       "outlet": "Music News",
       "url": "https://www.rollingstone.com/music/music-news/travis-kelce-taylor-swift-wood-song-life-of-a-showgirl-1235443618/",
       "published_at": "Thu, 09 Oct 2025 02:15:01 +0000",
       "bullets": [
-        "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl",
-        "• The Kansas City Chiefs tight end said he thought the song was about his own appendage",
-        "• Swift revealed that she played the highly suggestive track for her mother "
+        "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift's song \"Wood\" The Kansas City Chiefs tight end said the song is about his own appendage",
+        "• Swift said she played the highly suggestive track for her mother when she played it to her "
       ],
       "category": "Music",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.635
+        "label": "positive",
+        "score": 0.898
       },
       "moods": {
         "brief_bullets": [
-          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl",
-          "• The Kansas City Chiefs tight end said he thought the song was about his own appendage"
+          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift's song \"Wood\" The Kansas City Chiefs tight end said the song is about his own appendage",
+          "• Swift said she played the highly suggestive track for her mother when she played it to her "
         ],
         "hopeful_bullets": [
-          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl"
+          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift's song \"Wood\" The Kansas City Chiefs tight end said the song is about his own appendage",
+          "• Swift said she played the highly suggestive track for her mother when she played it to her "
         ],
         "stakes_bullets": [
-          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift’s song “Wood” off her record-breaking album, The Life of a Showgirl",
-          "• The Kansas City Chiefs tight end said he thought the song was about his own appendage",
-          "• Swift revealed that she played the highly suggestive track for her mother "
+          "• Jason Kelce asked his brother Travis Kelce what he thought of Taylor Swift's song \"Wood\" The Kansas City Chiefs tight end said the song is about his own appendage",
+          "• Swift said she played the highly suggestive track for her mother when she played it to her "
         ]
       },
       "read_minutes": 1,
@@ -8305,40 +8345,6 @@
       "cluster_id": "564fa7a26415"
     },
     {
-      "id": "7587851d0ea3",
-      "title": "TVC15: Obi-Wan Kenobi (VC31)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-02-tvc15-obi-wan-kenobi-vc31/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-obi-wan-kenobi-vc31",
-      "published_at": "Fri, 03 Oct 2025 01:44:02 +0000",
-      "bullets": [
-        "• The Vintage Collection was released in 2011",
-        "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
-        "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection was released in 2011",
-          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection was released in 2011",
-          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection was released in 2011",
-          "• Obi-Wan Kenobi was based on the character’s appearance in Episode II",
-          "• Hasbro repainted it for re-release, but it didn’t have the same magic as the original release "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "86689e11f8fe"
-    },
-    {
       "id": "a14f093f556a",
       "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
       "outlet": "The Star Wars Report Podcast",
@@ -8371,6 +8377,103 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "bdb913c62f3d",
+      "title": "Amazon’s giant ads have ruined the Echo Show",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus",
+      "published_at": "2025-10-09T14:33:12-04:00",
+      "bullets": [
+        "• Amazon’s giant ads have ruined the Echo Show",
+        "• With full-screen ads on its smart displays, Alexa is becoming less like an assistant and more like a sales rep",
+        "• The ads are new and very intrusive, appearing between photos when the Show is set to Photo Frame mode or between content if it's set to show different categories "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon’s giant ads have ruined the Echo Show",
+          "• With full-screen ads on its smart displays, Alexa is becoming less like an assistant and more like a sales rep"
+        ],
+        "hopeful_bullets": [
+          "• Amazon’s giant ads have ruined the Echo Show",
+          "• With full-screen ads on its smart displays, Alexa is becoming less like an assistant and more like a sales rep"
+        ],
+        "stakes_bullets": [
+          "• Amazon’s giant ads have ruined the Echo Show",
+          "• With full-screen ads on its smart displays, Alexa is becoming less like an assistant and more like a sales rep",
+          "• The ads are new and very intrusive, appearing between photos when the Show is set to Photo Frame mode or between content if it's set to show different categories "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3dd3fdeef6d2"
+    },
+    {
+      "id": "843657c6128d",
+      "title": "512GB microSD Express cards for Switch 2 are cheaper than ever right now",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale",
+      "published_at": "2025-10-09T14:15:00-04:00",
+      "bullets": [
+        "• Lexar’s 512GB and 1TB microSD Express cards are currently selling at the lowest prices we’ve seen yet",
+        "• The 512GB model is $88.47 ($31 off) at Amazon, or double the extra storage to 1TB for $157.96 ($62 off)"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lexar’s 512GB and 1TB microSD Express cards are currently selling at the lowest prices we’ve seen yet",
+          "• The 512GB model is $88.47 ($31 off) at Amazon, or double the extra storage to 1TB for $157.96 ($62 off)"
+        ],
+        "hopeful_bullets": [
+          "• Lexar’s 512GB and 1TB microSD Express cards are currently selling at the lowest prices we’ve seen yet",
+          "• The 512GB model is $88.47 ($31 off) at Amazon, or double the extra storage to 1TB for $157.96 ($62 off)"
+        ],
+        "stakes_bullets": [
+          "• Lexar’s 512GB and 1TB microSD Express cards are currently selling at the lowest prices we’ve seen yet",
+          "• The 512GB model is $88.47 ($31 off) at Amazon, or double the extra storage to 1TB for $157.96 ($62 off)"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "84d10a7712ca"
+    },
+    {
+      "id": "251432ad9bc3",
+      "title": "YouTube opens &#8216;second chance&#8217; program to creators banned for misinformation",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/797848/youtube-banned-creators-second-chance-program-covid-election-misinformation-new-channel",
+      "published_at": "2025-10-09T14:11:33-04:00",
+      "bullets": [
+        "• YouTube is giving some creators who were banned for spreading misinformation a chance to make a new channel",
+        "• Under political pressure, the company had said last month that it was going to set up this pilot program for “a subset of creators” and “channels terminated for policies that have been deprecated”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• YouTube is giving some creators who were banned for spreading misinformation a chance to make a new channel",
+          "• Under political pressure, the company had said last month that it was going to set up this pilot program for “a subset of creators” and “channels terminated for policies that have been deprecated”"
+        ],
+        "hopeful_bullets": [
+          "• YouTube is giving some creators who were banned for spreading misinformation a chance to make a new channel",
+          "• Under political pressure, the company had said last month that it was going to set up this pilot program for “a subset of creators” and “channels terminated for policies that have been deprecated”"
+        ],
+        "stakes_bullets": [
+          "• YouTube is giving some creators who were banned for spreading misinformation a chance to make a new channel"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "84676c49fa33"
     },
     {
       "id": "1fa6701fb3d9",
@@ -8600,108 +8703,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "f92b3d8cb3e3"
-    },
-    {
-      "id": "49e48edbcce8",
-      "title": "The 2027 Chevy Bolt will be one of the cheapest EVs you can get",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/797646/chevy-bolt-price-reveal-ev-affordable-specs",
-      "published_at": "2025-10-09T11:30:40-04:00",
-      "bullets": [
-        "• The 2027 Chevy Bolt will start at $29,990, including destination fees",
-        "• It will be able to charge as many Tesla Supercharger stations at speeds of up to 150kW",
-        "• The new Bolt will sport a 65kWh LFP battery that will enable an estimated 255 miles of range",
-        "• And it will recharge from 10-80 percent in 26 minutes "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.963
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 2027 Chevy Bolt will start at $29,990, including destination fees",
-          "• It will be able to charge as many Tesla Supercharger stations at speeds of up to 150kW"
-        ],
-        "hopeful_bullets": [
-          "• The 2027 Chevy Bolt will start at $29,990, including destination fees",
-          "• It will be able to charge as many Tesla Supercharger stations at speeds of up to 150kW"
-        ],
-        "stakes_bullets": [
-          "• The 2027 Chevy Bolt will start at $29,990, including destination fees",
-          "• It will be able to charge as many Tesla Supercharger stations at speeds of up to 150kW",
-          "• The new Bolt will sport a 65kWh LFP battery that will enable an estimated 255 miles of range",
-          "• And it will recharge from 10-80 percent in 26 minutes "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9374d570a8a0"
-    },
-    {
-      "id": "dd90dd601821",
-      "title": "Meta wants its metaverse everywhere",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/column/797624/meta-metaverse-horizon-worlds-mobile-vr-social",
-      "published_at": "2025-10-09T11:30:00-04:00",
-      "bullets": [
-        "• Meta’s struggles with Horizon Worlds have been well-documented",
-        "• The company has launched a series of polished games within Horizon and spent heavily to attract VR developers to the platform",
-        "• At the company's Connect conference, Meta doubled down on its efforts by announcing not just AI develvelations "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.949
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Meta’s struggles with Horizon Worlds have been well-documented",
-          "• The company has launched a series of polished games within Horizon and spent heavily to attract VR developers to the platform"
-        ],
-        "hopeful_bullets": [
-          "• Meta’s struggles with Horizon Worlds have been well-documented",
-          "• The company has launched a series of polished games within Horizon and spent heavily to attract VR developers to the platform"
-        ],
-        "stakes_bullets": [
-          "• Meta’s struggles with Horizon Worlds have been well-documented",
-          "• The company has launched a series of polished games within Horizon and spent heavily to attract VR developers to the platform",
-          "• At the company's Connect conference, Meta doubled down on its efforts by announcing not just AI develvelations "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "47ad583ed1be"
-    },
-    {
-      "id": "1eb887c3b36d",
-      "title": "Sony teases new GPU tech for the PS6",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/797640/sony-ps6-handheld-gpu-ray-path-tracing-amd-radiance-cores",
-      "published_at": "2025-10-09T11:02:05-04:00",
-      "bullets": [
-        "• Sony's next console (presumably the PS6) is coming in “a few years time,” according to someone who I’d believe to make that claim",
-        "• Mark Cerny, lead architect on the PS5 and PS5 Pro, joined Jack Huynh, SVP and GM of AMD’s computing and graphics group, in a YouTube video",
-        "• The pair cautioned that the technologies are still in ‘very early days” and “only exist in simulation right now "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sony's next console (presumably the PS6) is coming in “a few years time,” according to someone who I’d believe to make that claim",
-          "• Mark Cerny, lead architect on the PS5 and PS5 Pro, joined Jack Huynh, SVP and GM of AMD’s computing and graphics group, in a YouTube video"
-        ],
-        "hopeful_bullets": [
-          "• Sony's next console (presumably the PS6) is coming in “a few years time,” according to someone who I’d believe to make that claim",
-          "• Mark Cerny, lead architect on the PS5 and PS5 Pro, joined Jack Huynh, SVP and GM of AMD’s computing and graphics group, in a YouTube video"
-        ],
-        "stakes_bullets": [
-          "• Mark Cerny, lead architect on the PS5 and PS5 Pro, joined Jack Huynh, SVP and GM of AMD’s computing and graphics group, in a YouTube video"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "831e418eb19e"
     },
     {
       "id": "c41ff758b36a",
@@ -9087,6 +9088,24 @@
       ]
     },
     {
+      "id": "698723354180",
+      "topic": "bowen chance jeremy now",
+      "keywords": [
+        "bowen",
+        "chance",
+        "jeremy",
+        "now",
+        "realistic",
+        "there"
+      ],
+      "item_ids": [
+        "441869a1edfa"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "38ca06fcd04c",
       "topic": "appealed conviction handed man",
       "keywords": [
@@ -9159,24 +9178,6 @@
       ]
     },
     {
-      "id": "0529a26d4ecf",
-      "topic": "america banker sound stock",
-      "keywords": [
-        "america",
-        "banker",
-        "sound",
-        "stock",
-        "top",
-        "warning"
-      ],
-      "item_ids": [
-        "8c05db2f68fa"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "3b79cfd5f64e",
       "topic": "apologise dad fugitive parent",
       "keywords": [
@@ -9189,24 +9190,6 @@
       ],
       "item_ids": [
         "cb7e120ce8f8"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "698723354180",
-      "topic": "bowen chance jeremy now",
-      "keywords": [
-        "bowen",
-        "chance",
-        "jeremy",
-        "now",
-        "realistic",
-        "there"
-      ],
-      "item_ids": [
-        "441869a1edfa"
       ],
       "outlets": [
         "BBC News"
@@ -9243,6 +9226,24 @@
       ],
       "item_ids": [
         "126dab17b21a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "210571d7a5b0",
+      "topic": "back china first game",
+      "keywords": [
+        "back",
+        "china",
+        "first",
+        "game",
+        "nba",
+        "time"
+      ],
+      "item_ids": [
+        "513655d6bd1f"
       ],
       "outlets": [
         "BBC News"
@@ -9483,14 +9484,14 @@
       ]
     },
     {
-      "id": "2ffc8b7be08e",
-      "topic": "anything campaign nobel peace",
+      "id": "eefd831ed6a9",
+      "topic": "deeply desire madly nobel",
       "keywords": [
-        "anything",
-        "campaign",
+        "deeply",
+        "desire",
+        "madly",
         "nobel",
-        "peace",
-        "prize",
+        "truly",
         "trump"
       ],
       "item_ids": [
@@ -9769,18 +9770,18 @@
       ]
     },
     {
-      "id": "d595ac6c3a37",
-      "topic": "china earth rare stock",
+      "id": "cd04e613c6a2",
+      "topic": "cut government shutdown threaten",
       "keywords": [
-        "china",
-        "earth",
-        "rare",
-        "stock",
-        "surge",
-        "tighten"
+        "cut",
+        "government",
+        "shutdown",
+        "threaten",
+        "trump",
+        "use"
       ],
       "item_ids": [
-        "5b04cd8ed224"
+        "eb9875b1dd92"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9805,36 +9806,18 @@
       ]
     },
     {
-      "id": "cd04e613c6a2",
-      "topic": "cut government shutdown threaten",
+      "id": "d595ac6c3a37",
+      "topic": "china earth rare stock",
       "keywords": [
-        "cut",
-        "government",
-        "shutdown",
-        "threaten",
-        "trump",
-        "use"
+        "china",
+        "earth",
+        "rare",
+        "stock",
+        "surge",
+        "tighten"
       ],
       "item_ids": [
-        "eb9875b1dd92"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "d5479b8fa2fa",
-      "topic": "end government senate seventh",
-      "keywords": [
-        "end",
-        "government",
-        "senate",
-        "seventh",
-        "time",
-        "vote"
-      ],
-      "item_ids": [
-        "7946edc1e738"
+        "5b04cd8ed224"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9916,18 +9899,18 @@
       ]
     },
     {
-      "id": "9af0a19c5198",
-      "topic": "becoming casino destination gambling",
+      "id": "fdf32665d989",
+      "topic": "2026 bracket federal here",
       "keywords": [
-        "becoming",
-        "casino",
-        "destination",
-        "gambling",
-        "macao",
-        "winning"
+        "2026",
+        "bracket",
+        "federal",
+        "here",
+        "income",
+        "tax"
       ],
       "item_ids": [
-        "eb98b441fa62"
+        "0fa42502d4fa"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9952,6 +9935,24 @@
       ]
     },
     {
+      "id": "9af0a19c5198",
+      "topic": "becoming casino destination gambling",
+      "keywords": [
+        "becoming",
+        "casino",
+        "destination",
+        "gambling",
+        "macao",
+        "winning"
+      ],
+      "item_ids": [
+        "eb98b441fa62"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "01f193937730",
       "topic": "apple down ice these",
       "keywords": [
@@ -9970,7 +9971,7 @@
       ]
     },
     {
-      "id": "37d9e4c3a9ce",
+      "id": "94f05168a67b",
       "topic": "136 best day deal",
       "keywords": [
         "136",
@@ -9981,7 +9982,7 @@
         "prime"
       ],
       "item_ids": [
-        "63fa3f768207"
+        "2c2e258486b0"
       ],
       "outlets": [
         "WIRED"
@@ -10130,6 +10131,60 @@
       ]
     },
     {
+      "id": "3dd3fdeef6d2",
+      "topic": "ads amazon echo giant",
+      "keywords": [
+        "ads",
+        "amazon",
+        "echo",
+        "giant",
+        "ruined",
+        "show"
+      ],
+      "item_ids": [
+        "bdb913c62f3d"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "84d10a7712ca",
+      "topic": "512gb card cheaper expres",
+      "keywords": [
+        "512gb",
+        "card",
+        "cheaper",
+        "expres",
+        "microsd",
+        "switch"
+      ],
+      "item_ids": [
+        "843657c6128d"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "84676c49fa33",
+      "topic": "8216 8217 chance open",
+      "keywords": [
+        "8216",
+        "8217",
+        "chance",
+        "open",
+        "second",
+        "youtube"
+      ],
+      "item_ids": [
+        "251432ad9bc3"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "fb81049aaba5",
       "topic": "bank belkin camera give",
       "keywords": [
@@ -10229,57 +10284,6 @@
       ],
       "item_ids": [
         "fad80eadba11"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9374d570a8a0",
-      "topic": "2027 bolt cheapest chevy",
-      "keywords": [
-        "2027",
-        "bolt",
-        "cheapest",
-        "chevy",
-        "evs",
-        "get"
-      ],
-      "item_ids": [
-        "49e48edbcce8"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "47ad583ed1be",
-      "topic": "everywhere meta metaverse want",
-      "keywords": [
-        "everywhere",
-        "meta",
-        "metaverse",
-        "want"
-      ],
-      "item_ids": [
-        "dd90dd601821"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "831e418eb19e",
-      "topic": "gpu ps6 sony tease",
-      "keywords": [
-        "gpu",
-        "ps6",
-        "sony",
-        "tease",
-        "tech"
-      ],
-      "item_ids": [
-        "1eb887c3b36d"
       ],
       "outlets": [
         "The Verge"
@@ -11194,6 +11198,24 @@
       ]
     },
     {
+      "id": "bdc1a0d766b5",
+      "topic": "bat catching grisly killing",
+      "keywords": [
+        "bat",
+        "catching",
+        "grisly",
+        "killing",
+        "recording",
+        "reveal"
+      ],
+      "item_ids": [
+        "0a52c970d762"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "5e2033959717",
       "topic": "attend climate cop30 prince",
       "keywords": [
@@ -11212,36 +11234,18 @@
       ]
     },
     {
-      "id": "394d894ce999",
-      "topic": "biggest cut developer farm",
+      "id": "14915d4f8f59",
+      "topic": "biggest cut developer quarter",
       "keywords": [
         "biggest",
         "cut",
         "developer",
-        "farm",
-        "wind",
+        "quarter",
+        "windfarm",
         "world"
       ],
       "item_ids": [
         "a315cc0993dc"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "8929e353a24c",
-      "topic": "2bn britain missing out",
-      "keywords": [
-        "2bn",
-        "britain",
-        "missing",
-        "out",
-        "potential",
-        "recycling"
-      ],
-      "item_ids": [
-        "d2cadfbf6fa6"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11552,6 +11556,60 @@
       ]
     },
     {
+      "id": "ee2fbf15eed2",
+      "topic": "homage ice kill nine",
+      "keywords": [
+        "homage",
+        "ice",
+        "kill",
+        "nine",
+        "pay",
+        "tim"
+      ],
+      "item_ids": [
+        "a344ca30dc1c"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "4960c8099f43",
+      "topic": "horror letterboxd list official",
+      "keywords": [
+        "horror",
+        "letterboxd",
+        "list",
+        "official",
+        "share",
+        "top"
+      ],
+      "item_ids": [
+        "693dcb38b9cf"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "b47dec01e1f1",
+      "topic": "danse get macabre medieval",
+      "keywords": [
+        "danse",
+        "get",
+        "macabre",
+        "medieval",
+        "now",
+        "ttrpg"
+      ],
+      "item_ids": [
+        "a0b5ef1035c2"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "94c9b4dade85",
       "topic": "bye carole fantasy game",
       "keywords": [
@@ -11672,60 +11730,6 @@
       ],
       "item_ids": [
         "e5441c9402b8"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "aac0f4a22da2",
-      "topic": "chan choice other park",
-      "keywords": [
-        "chan",
-        "choice",
-        "other",
-        "park",
-        "trailer",
-        "wook"
-      ],
-      "item_ids": [
-        "e8a2d57cca28"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "24db8c4222b0",
-      "topic": "90s fruithead gusher horror",
-      "keywords": [
-        "90s",
-        "fruithead",
-        "gusher",
-        "horror",
-        "revive",
-        "short"
-      ],
-      "item_ids": [
-        "a8e25c566fa9"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "41d7403bf9af",
-      "topic": "blum hugely involved jame",
-      "keywords": [
-        "blum",
-        "hugely",
-        "involved",
-        "jame",
-        "jason",
-        "wan"
-      ],
-      "item_ids": [
-        "aca44dd96b45"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12530,23 +12534,6 @@
       ]
     },
     {
-      "id": "86689e11f8fe",
-      "topic": "kenobi obi tvc15 vc31",
-      "keywords": [
-        "kenobi",
-        "obi",
-        "tvc15",
-        "vc31",
-        "wan"
-      ],
-      "item_ids": [
-        "7587851d0ea3"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -13038,6 +13025,95 @@
       ]
     },
     {
+      "id": "5be32e165903",
+      "topic": "animated classic crossover disney",
+      "keywords": [
+        "animated",
+        "classic",
+        "crossover",
+        "disney",
+        "team",
+        "unprecedented"
+      ],
+      "item_ids": [
+        "628f9e0f49a2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "e34ae7d43a30",
+      "topic": "almost anime ball dragon",
+      "keywords": [
+        "almost",
+        "anime",
+        "ball",
+        "dragon",
+        "iconic",
+        "transformation"
+      ],
+      "item_ids": [
+        "d850e61ef2c8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "38abe39a31f6",
+      "topic": "anime best binge crunchyroll",
+      "keywords": [
+        "anime",
+        "best",
+        "binge",
+        "crunchyroll",
+        "watch",
+        "weekend"
+      ],
+      "item_ids": [
+        "cdc263792fcd"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b74d2e8b2e9f",
+      "topic": "adds eleven margot ocean",
+      "keywords": [
+        "adds",
+        "eleven",
+        "margot",
+        "ocean",
+        "prequel",
+        "robbie"
+      ],
+      "item_ids": [
+        "bd13b21c27ec"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f3cfc80dcd20",
+      "topic": "announced date minecraft movie",
+      "keywords": [
+        "announced",
+        "date",
+        "minecraft",
+        "movie",
+        "release"
+      ],
+      "item_ids": [
+        "083fea195d77"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "526741d5981c",
       "topic": "ice later sci starring",
       "keywords": [
@@ -13122,77 +13198,6 @@
       ],
       "item_ids": [
         "bd71c3235b54"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f6e1e8c7ac8a",
-      "topic": "absolute final justice league",
-      "keywords": [
-        "absolute",
-        "final",
-        "justice",
-        "league",
-        "living",
-        "member"
-      ],
-      "item_ids": [
-        "d636e914c6f0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "be3971279fc3",
-      "topic": "disappointing episode gave most",
-      "keywords": [
-        "disappointing",
-        "episode",
-        "gave",
-        "most",
-        "star",
-        "trek"
-      ],
-      "item_ids": [
-        "522961df5c54"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "18100e527a5e",
-      "topic": "coming crunchyroll officially oshi",
-      "keywords": [
-        "coming",
-        "crunchyroll",
-        "officially",
-        "oshi",
-        "season"
-      ],
-      "item_ids": [
-        "f2e0d16a3447"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1b91c8ea9997",
-      "topic": "ncis pairing star tease",
-      "keywords": [
-        "ncis",
-        "pairing",
-        "star",
-        "tease",
-        "tony",
-        "ziva"
-      ],
-      "item_ids": [
-        "b16bfb1865a2"
       ],
       "outlets": [
         "CBR"
@@ -13377,6 +13382,24 @@
       ]
     },
     {
+      "id": "c9da60df3265",
+      "topic": "austin back haunting mar",
+      "keywords": [
+        "austin",
+        "back",
+        "haunting",
+        "mar",
+        "performance",
+        "watch"
+      ],
+      "item_ids": [
+        "a98d50cc0b04"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "c7760e0998fd",
       "topic": "duet lainey malone nosedive",
       "keywords": [
@@ -13533,24 +13556,6 @@
       ],
       "item_ids": [
         "7e49a86119da"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "a12f7e0afd26",
-      "topic": "bailey debut finally halle",
-      "keywords": [
-        "bailey",
-        "debut",
-        "finally",
-        "halle",
-        "ready",
-        "release"
-      ],
-      "item_ids": [
-        "67a41af02315"
       ],
       "outlets": [
         "Music News"
@@ -13773,18 +13778,18 @@
       ]
     },
     {
-      "id": "81c7f4c71204",
-      "topic": "chance race south student",
+      "id": "dfd3eebe7c1a",
+      "topic": "city community form north",
       "keywords": [
-        "chance",
-        "race",
-        "south",
-        "student",
-        "taste",
-        "texa"
+        "city",
+        "community",
+        "form",
+        "north",
+        "texa",
+        "vote"
       ],
       "item_ids": [
-        "32ac6adcfa81"
+        "cd40517a5e67"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13809,18 +13814,18 @@
       ]
     },
     {
-      "id": "dfd3eebe7c1a",
-      "topic": "city community form north",
+      "id": "81c7f4c71204",
+      "topic": "chance race south student",
       "keywords": [
-        "city",
-        "community",
-        "form",
-        "north",
-        "texa",
-        "vote"
+        "chance",
+        "race",
+        "south",
+        "student",
+        "taste",
+        "texa"
       ],
       "item_ids": [
-        "cd40517a5e67"
+        "32ac6adcfa81"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13845,24 +13850,6 @@
       ]
     },
     {
-      "id": "3998797deed8",
-      "topic": "guard here illinoi national",
-      "keywords": [
-        "guard",
-        "here",
-        "illinoi",
-        "national",
-        "now",
-        "texa"
-      ],
-      "item_ids": [
-        "291649875cb2"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "f9593e25714b",
       "topic": "2026 blocking consider gop",
       "keywords": [
@@ -13875,6 +13862,24 @@
       ],
       "item_ids": [
         "9fdfa841281d"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "3998797deed8",
+      "topic": "guard here illinoi national",
+      "keywords": [
+        "guard",
+        "here",
+        "illinoi",
+        "national",
+        "now",
+        "texa"
+      ],
+      "item_ids": [
+        "291649875cb2"
       ],
       "outlets": [
         "The Texas Tribune"
