@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T11:00:37Z",
+  "generated_at": "2025-10-09T11:20:57Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -399,6 +399,37 @@
       },
       "read_minutes": 1,
       "cluster_id": "af155ea3f44b"
+    },
+    {
+      "id": "d0a8968623c0",
+      "title": "CoreWeave CEO pushes back against circular investment concerns",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/08/coreweave-ceo-pushes-back-against-circular-investment-concerns-.html",
+      "published_at": "Wed, 08 Oct 2025 22:35:40 GMT",
+      "bullets": [
+        "• CoreWeave CEO Michael Intrator talks to CNBC's Jim Cramer about AI deals with AI giants",
+        "• Intrator: \"There's nothing circular about that\" The company went public in March, raising $1.5 billion in its share market debut "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CoreWeave CEO Michael Intrator talks to CNBC's Jim Cramer about AI deals with AI giants",
+          "• Intrator: \"There's nothing circular about that\" The company went public in March, raising $1.5 billion in its share market debut "
+        ],
+        "hopeful_bullets": [
+          "• CoreWeave CEO Michael Intrator talks to CNBC's Jim Cramer about AI deals with AI giants",
+          "• Intrator: \"There's nothing circular about that\" The company went public in March, raising $1.5 billion in its share market debut "
+        ],
+        "stakes_bullets": [
+          "• Intrator: \"There's nothing circular about that\" The company went public in March, raising $1.5 billion in its share market debut "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "34f68404e048"
     },
     {
       "id": "d0e4390150a2",
@@ -1033,40 +1064,6 @@
       "cluster_id": "dd86e6a1672a"
     },
     {
-      "id": "0e583e3d7365",
-      "title": "The Petkit Eversweet Max 2 Is $23 Off Right Now",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/",
-      "published_at": "Wed, 08 Oct 2025 20:12:00 +0000",
-      "bullets": [
-        "• Petkit Eversweet Max is 25 percent off for Prime Day",
-        "• Cats see stagnant water as potentially harmful, so they're more naturally drawn to moving water in nature",
-        "• The high-tech automatic fountain can be either plugged in or cordless battery-powered "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Petkit Eversweet Max is 25 percent off for Prime Day",
-          "• Cats see stagnant water as potentially harmful, so they're more naturally drawn to moving water in nature"
-        ],
-        "hopeful_bullets": [
-          "• Petkit Eversweet Max is 25 percent off for Prime Day",
-          "• Cats see stagnant water as potentially harmful, so they're more naturally drawn to moving water in nature"
-        ],
-        "stakes_bullets": [
-          "• Petkit Eversweet Max is 25 percent off for Prime Day",
-          "• Cats see stagnant water as potentially harmful, so they're more naturally drawn to moving water in nature",
-          "• The high-tech automatic fountain can be either plugged in or cordless battery-powered "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e15359236298"
-    },
-    {
       "id": "1fd7722de55c",
       "title": "Salesforce says it won’t pay extortion demand in 1 billion records breach",
       "outlet": "Ars Technica - All content",
@@ -1529,40 +1526,6 @@
       "cluster_id": "8ff0402a44bc"
     },
     {
-      "id": "cfab9757c687",
-      "title": "Gold hits $4,000 but stocks still win over time, top advisor says: 'Gold glitters but earnings compound'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/08/gold-vs-sp500-returns.html",
-      "published_at": "Wed, 08 Oct 2025 18:18:00 GMT",
-      "bullets": [
-        "• Spot gold is now over $4,000 per ounce for the first time",
-        "• It's up 51.6% year-to-date, as of Tuesday's close",
-        "• Over the long haul, gold underperforms compared to stocks and other assets "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.855
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Spot gold is now over $4,000 per ounce for the first time",
-          "• It's up 51.6% year-to-date, as of Tuesday's close"
-        ],
-        "hopeful_bullets": [
-          "• Spot gold is now over $4,000 per ounce for the first time",
-          "• It's up 51.6% year-to-date, as of Tuesday's close"
-        ],
-        "stakes_bullets": [
-          "• Spot gold is now over $4,000 per ounce for the first time",
-          "• It's up 51.6% year-to-date, as of Tuesday's close",
-          "• Over the long haul, gold underperforms compared to stocks and other assets "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6ae8d434c77d"
-    },
-    {
       "id": "0ef3ab42e36c",
       "title": "Watch the ‘Chainsaw Man – The Movie: Reze Arc’ Opening Sequence Featuring Kenshi Yonezu’s “Iris Out”",
       "outlet": "Bloody Disgusting!",
@@ -1925,6 +1888,73 @@
       },
       "read_minutes": 1,
       "cluster_id": "e28a00031846"
+    },
+    {
+      "id": "5b8f7ac6299e",
+      "title": "Gorillaz Share New Song “The Manifesto” Featuring Trueno and Proof: Listen",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/gorillaz-share-new-song-the-manifesto-featuring-trueno-and-proof-listen",
+      "published_at": "Wed, 08 Oct 2025 16:08:50 +0000",
+      "bullets": [
+        "• Gorillaz have shared the latest single from their new album The Mountain",
+        "• “The Manifesto” features the Argentine rapper Trueno and a freestyle from the late D12 member Proof",
+        "• Idles, Kara Jackson, Yasiin Bey, Omar Souleyman, Black Thought and Black Thought also feature "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gorillaz have shared the latest single from their new album The Mountain",
+          "• “The Manifesto” features the Argentine rapper Trueno and a freestyle from the late D12 member Proof"
+        ],
+        "hopeful_bullets": [
+          "• Gorillaz have shared the latest single from their new album The Mountain",
+          "• “The Manifesto” features the Argentine rapper Trueno and a freestyle from the late D12 member Proof"
+        ],
+        "stakes_bullets": [
+          "• Gorillaz have shared the latest single from their new album The Mountain",
+          "• “The Manifesto” features the Argentine rapper Trueno and a freestyle from the late D12 member Proof",
+          "• Idles, Kara Jackson, Yasiin Bey, Omar Souleyman, Black Thought and Black Thought also feature "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c50a5f26bc5e"
+    },
+    {
+      "id": "bdbe2bf5718b",
+      "title": "Geese Share New “Au Pays du Cocaine” Video: Watch",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/geese-share-new-au-pays-du-cocaine-video-watch",
+      "published_at": "Wed, 08 Oct 2025 16:04:11 +0000",
+      "bullets": [
+        "• Geese have shared a new music video for their new album Getting Killed",
+        "• Frontman Cameron Winter shared his debut solo album, Heavy Metal, in December",
+        "• On Friday, they'll kick off a North American tour in support of the album "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.764
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Geese have shared a new music video for their new album Getting Killed",
+          "• Frontman Cameron Winter shared his debut solo album, Heavy Metal, in December"
+        ],
+        "hopeful_bullets": [
+          "• Frontman Cameron Winter shared his debut solo album, Heavy Metal, in December"
+        ],
+        "stakes_bullets": [
+          "• Geese have shared a new music video for their new album Getting Killed",
+          "• Frontman Cameron Winter shared his debut solo album, Heavy Metal, in December",
+          "• On Friday, they'll kick off a North American tour in support of the album "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ad853ff5b831"
     },
     {
       "id": "036147e8bb2a",
@@ -2840,40 +2870,6 @@
       "cluster_id": "d9a6f3a44b7e"
     },
     {
-      "id": "7b8d7d0e7880",
-      "title": "Over $100M spent on ads for and against California's redistricting ballot measure",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/08/nx-s1-5560946/over-100m-spent-on-ads-for-and-against-californias-redistricting-ballot-measure",
-      "published_at": "Wed, 08 Oct 2025 04:53:51 -0400",
-      "bullets": [
-        "• Over $100M spent on ads for and against California's redistricting ballot measure",
-        "• Prop 50 is a November ballot measure that would redraw congressional maps to favor Democrats",
-        "• It's in response to Republican-led gerrymandering efforts in Texas and other states, following demands from President Trump "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Over $100M spent on ads for and against California's redistricting ballot measure",
-          "• Prop 50 is a November ballot measure that would redraw congressional maps to favor Democrats"
-        ],
-        "hopeful_bullets": [
-          "• Over $100M spent on ads for and against California's redistricting ballot measure",
-          "• It's in response to Republican-led gerrymandering efforts in Texas and other states, following demands from President Trump "
-        ],
-        "stakes_bullets": [
-          "• Over $100M spent on ads for and against California's redistricting ballot measure",
-          "• Prop 50 is a November ballot measure that would redraw congressional maps to favor Democrats",
-          "• It's in response to Republican-led gerrymandering efforts in Texas and other states, following demands from President Trump "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d99834549e9e"
-    },
-    {
       "id": "103107dfbfcd",
       "title": "The Red Sea that vanished and the catastrophic flood that brought it back",
       "outlet": "All Top News -- ScienceDaily",
@@ -3370,6 +3366,38 @@
       "cluster_id": "d2c0a7814a49"
     },
     {
+      "id": "fe02a67b7346",
+      "title": "United States Department of Homeland Security Responds to Anti-ICE Lyrics in Zach Bryan Song Snippet",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/united-states-department-of-homeland-security-responds-to-anti-ice-lyrics-in-zach-bryan-song-snippet",
+      "published_at": "Tue, 07 Oct 2025 22:31:25 +0000",
+      "bullets": [
+        "• Zach Bryan posted a snippet of an unreleased song on his Instagram with the caption “the fading of the red white and blue.” The lyrics have since drawn the ire of the federal government",
+        "• DHS went on to taunt Bryan by using his song “Revival” in a recruitment video "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zach Bryan posted a snippet of an unreleased song on his Instagram with the caption “the fading of the red white and blue.” The lyrics have since drawn the ire of the federal government",
+          "• DHS went on to taunt Bryan by using his song “Revival” in a recruitment video "
+        ],
+        "hopeful_bullets": [
+          "• Zach Bryan posted a snippet of an unreleased song on his Instagram with the caption “the fading of the red white and blue.” The lyrics have since drawn the ire of the federal government",
+          "• DHS went on to taunt Bryan by using his song “Revival” in a recruitment video "
+        ],
+        "stakes_bullets": [
+          "• Zach Bryan posted a snippet of an unreleased song on his Instagram with the caption “the fading of the red white and blue.” The lyrics have since drawn the ire of the federal government",
+          "• DHS went on to taunt Bryan by using his song “Revival” in a recruitment video "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "907383a433be"
+    },
+    {
       "id": "d1a8a0ca3de3",
       "title": "Global Renewable Power Capacity Expected to More than Double by 2030",
       "outlet": "Inside Climate News",
@@ -3671,37 +3699,39 @@
       "cluster_id": "49a5578219d9"
     },
     {
-      "id": "dc1480de8e58",
-      "title": "Attorney General Bondi talks at Senate Judiciary",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5563951/attorney-general-bondi-talks-at-senate-judiciary",
-      "published_at": "Tue, 07 Oct 2025 16:37:39 -0400",
+      "id": "81afd8076d54",
+      "title": "Sudan Archives Announces 2026 North American Tour",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/sudan-archives-announces-2026-north-american-tour",
+      "published_at": "Tue, 07 Oct 2025 17:05:52 +0000",
       "bullets": [
-        "• Attorney General Pam Bondi faced questions about her leadership of the Justice Department at a Senate hearing",
-        "• Democrats say she has weaponized the DOJ to go after President Trump's perceived enemies",
-        "• Democrats point to the indictment of former FBI Director James Comey just days after the president demanded that the DOJ prosecute Comey "
+        "• Sudan Archives will tour North America early next year",
+        "• Her new album The BPM will be released October 17",
+        "• She'll tour Europe and North America",
+        "• The tour will wrap up on February 20 with a show at Los Angeles' Fonda Theatre "
       ],
-      "category": "Politics",
+      "category": "Music",
       "sentiment": {
-        "label": "negative",
-        "score": 0.986
+        "label": "positive",
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Attorney General Pam Bondi faced questions about her leadership of the Justice Department at a Senate hearing",
-          "• Democrats say she has weaponized the DOJ to go after President Trump's perceived enemies"
+          "• Sudan Archives will tour North America early next year",
+          "• Her new album The BPM will be released October 17"
         ],
         "hopeful_bullets": [
-          "• Attorney General Pam Bondi faced questions about her leadership of the Justice Department at a Senate hearing",
-          "• Democrats say she has weaponized the DOJ to go after President Trump's perceived enemies"
+          "• Sudan Archives will tour North America early next year",
+          "• Her new album The BPM will be released October 17"
         ],
         "stakes_bullets": [
-          "• Attorney General Pam Bondi faced questions about her leadership of the Justice Department at a Senate hearing",
-          "• Democrats point to the indictment of former FBI Director James Comey just days after the president demanded that the DOJ prosecute Comey "
+          "• Sudan Archives will tour North America early next year",
+          "• Her new album The BPM will be released October 17",
+          "• The tour will wrap up on February 20 with a show at Los Angeles' Fonda Theatre "
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "cb8f047f205f"
+      "read_minutes": 2,
+      "cluster_id": "813658695048"
     },
     {
       "id": "d2e95a73e468",
@@ -3802,41 +3832,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1712aac2afca"
-    },
-    {
-      "id": "ab7f1ed89188",
-      "title": "Taylor Swift Talks The Life of a Showgirl, Engagement, Super Bowl, and More on Fallon: Watch",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/taylor-swift-talks-the-life-of-a-showgirl-engagement-super-bowl-and-more-on-fallon-watch",
-      "published_at": "Tue, 07 Oct 2025 14:45:05 +0000",
-      "bullets": [
-        "• Taylor Swift made her first U.S",
-        "• late-night appearance since the release of The Life of a Showgirl",
-        "• She also talked about her friendship with Selena Gomez and her engagement to Travis Kelce",
-        "• The singer also denied she turned down the Super Bowl halftime show "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift made her first U.S",
-          "• late-night appearance since the release of The Life of a Showgirl"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift made her first U.S",
-          "• late-night appearance since the release of The Life of a Showgirl"
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift made her first U.S",
-          "• late-night appearance since the release of The Life of a Showgirl",
-          "• She also talked about her friendship with Selena Gomez and her engagement to Travis Kelce"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f8144e771608"
     },
     {
       "id": "4203d36ab23f",
@@ -4438,6 +4433,105 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "9c7deb40cff8",
+      "title": "Jack Thorne's Lord of the Flies Adaptation Unveils First Look",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/lord-of-the-flies-remake-first-look-photos/",
+      "published_at": "Thu, 09 Oct 2025 11:05:36 GMT",
+      "bullets": [
+        "• New images show the cast of the upcoming series filming on location in Malaysia",
+        "• It will be a four-part series set in the early 1950s on an unnamed Pacific island",
+        "• Adolescence creator Jack Thorne is leading the adaptation, with National Treasure's Marc Munden directing "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New images show the cast of the upcoming series filming on location in Malaysia",
+          "• It will be a four-part series set in the early 1950s on an unnamed Pacific island"
+        ],
+        "hopeful_bullets": [
+          "• New images show the cast of the upcoming series filming on location in Malaysia",
+          "• It will be a four-part series set in the early 1950s on an unnamed Pacific island"
+        ],
+        "stakes_bullets": [
+          "• It will be a four-part series set in the early 1950s on an unnamed Pacific island",
+          "• Adolescence creator Jack Thorne is leading the adaptation, with National Treasure's Marc Munden directing "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0db3b3a32a91"
+    },
+    {
+      "id": "fa9abe0bb8ef",
+      "title": "Delta's profit forecast tops estimates, buoyed by higher fares and resilient luxury demand",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/delta-air-lines-dal-q3-2025-earnings.html",
+      "published_at": "Thu, 09 Oct 2025 10:49:47 GMT",
+      "bullets": [
+        "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
+        "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects",
+        "• Delta's third-quarter profit rose 11% to $1.42 billion, or $2.17 a share "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
+          "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects"
+        ],
+        "hopeful_bullets": [
+          "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
+          "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects"
+        ],
+        "stakes_bullets": [
+          "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
+          "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects",
+          "• Delta's third-quarter profit rose 11% to $1.42 billion, or $2.17 a share "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d4342b70c3d3"
+    },
+    {
+      "id": "f471e1eea151",
+      "title": "Ferrari shares plunge 14% after carmaker updates guidance, halves EV sales target",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
+      "published_at": "Thu, 09 Oct 2025 10:42:09 GMT",
+      "bullets": [
+        "• Ferrari says it expects net revenue of at least 7.1 billion euros this year, up from a previous forecast of more than 7 billion euros",
+        "• Milan-listed stock price tumbled as much as 14.7% on Thursday morning",
+        "• Ferrari said it would target a 2030 sports car model line-up made up of 40% ICE cars, 40% hybrid and 20% fully electric vehicles "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ferrari says it expects net revenue of at least 7.1 billion euros this year, up from a previous forecast of more than 7 billion euros",
+          "• Milan-listed stock price tumbled as much as 14.7% on Thursday morning"
+        ],
+        "hopeful_bullets": [
+          "• Ferrari says it expects net revenue of at least 7.1 billion euros this year, up from a previous forecast of more than 7 billion euros",
+          "• Milan-listed stock price tumbled as much as 14.7% on Thursday morning"
+        ],
+        "stakes_bullets": [
+          "• Ferrari says it expects net revenue of at least 7.1 billion euros this year, up from a previous forecast of more than 7 billion euros"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c4dc62621309"
+    },
+    {
       "id": "d38741c4b54e",
       "title": "Forget The Sopranos - HBO's True Masterpiece Is Timothy Olyphant's 92% RT Western",
       "outlet": "CBR",
@@ -4472,71 +4566,72 @@
       "cluster_id": "c569c39b225e"
     },
     {
-      "id": "fa9abe0bb8ef",
-      "title": "Delta's profit forecast tops estimates, buoyed by higher fares and resilient luxury demand",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/delta-air-lines-dal-q3-2025-earnings.html",
-      "published_at": "Thu, 09 Oct 2025 10:31:54 GMT",
+      "id": "43706ff98966",
+      "title": "National guard troops ‘protecting’ ICE and other federal property in Chicago area – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
+      "published_at": "Thu, 09 Oct 2025 10:35:10 GMT",
       "bullets": [
-        "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
-        "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects",
-        "• Delta's third-quarter profit rose 11% to $1.42 billion, or $2.17 a share "
+        "• A small number of federal troops have arrived in Chicago to protect federal property",
+        "• The troops are in the city to protect US Immigration and Customs Enforcement (ICE) personnel",
+        "• All 500 troops are under the Northern Command and have been activated for 60 days",
+        "• It comes as Donald Trump calls for the arrest of Chicago’s mayor "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.995
+        "label": "negative",
+        "score": 0.886
       },
       "moods": {
         "brief_bullets": [
-          "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
-          "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects"
+          "• A small number of federal troops have arrived in Chicago to protect federal property",
+          "• The troops are in the city to protect US Immigration and Customs Enforcement (ICE) personnel"
         ],
         "hopeful_bullets": [
-          "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
-          "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects"
+          "• A small number of federal troops have arrived in Chicago to protect federal property",
+          "• The troops are in the city to protect US Immigration and Customs Enforcement (ICE) personnel"
         ],
         "stakes_bullets": [
-          "• Delta Air Lines forecast a better-than-expected end to 2025 thanks to rising airfares and resilient luxury travel demand",
-          "• Revenue in the last three months of the year will grow as much as 4%, Delta said, above the 1.7% Wall Street expects",
-          "• Delta's third-quarter profit rose 11% to $1.42 billion, or $2.17 a share "
+          "• A small number of federal troops have arrived in Chicago to protect federal property",
+          "• The troops are in the city to protect US Immigration and Customs Enforcement (ICE) personnel",
+          "• All 500 troops are under the Northern Command and have been activated for 60 days"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "d4342b70c3d3"
+      "read_minutes": 6,
+      "cluster_id": "a6302db247f7"
     },
     {
-      "id": "f471e1eea151",
-      "title": "Ferrari shares plunge 13% after carmaker updates guidance, halves EV sales target",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
-      "published_at": "Thu, 09 Oct 2025 10:26:36 GMT",
+      "id": "756ac2c6224c",
+      "title": "6 Best Smart Locks (2025) for Front Doors, Slider Doors, and Even Garages",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/best-smart-locks/",
+      "published_at": "Thu, 09 Oct 2025 10:32:00 +0000",
       "bullets": [
-        "• Ferrari says it will target a 2030 sports car model line-up made up of 40% ICE, 40% hybrid and 20% fully electric vehicles",
-        "• Ferrari unveiled the production-ready chassis and powertrain of the \"elettrica,\" its first fully electric vehicle",
-        "• The completed car is expected to be launched at a global premiere next year "
+        "• Smart locks are all about convenience, offering multiple ways to enter",
+        "• Yale Approach Lock With Keypad Touch only switches out the back of your dead bolt, allowing you to use the same keys you already have",
+        "• We've been testing smart locks for more than a year, ranging from renter-friendly solutions to options that work for your sliding door "
       ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
         "label": "positive",
         "score": 0.985
       },
       "moods": {
         "brief_bullets": [
-          "• Ferrari says it will target a 2030 sports car model line-up made up of 40% ICE, 40% hybrid and 20% fully electric vehicles",
-          "• Ferrari unveiled the production-ready chassis and powertrain of the \"elettrica,\" its first fully electric vehicle"
+          "• Smart locks are all about convenience, offering multiple ways to enter",
+          "• Yale Approach Lock With Keypad Touch only switches out the back of your dead bolt, allowing you to use the same keys you already have"
         ],
         "hopeful_bullets": [
-          "• Ferrari says it will target a 2030 sports car model line-up made up of 40% ICE, 40% hybrid and 20% fully electric vehicles",
-          "• Ferrari unveiled the production-ready chassis and powertrain of the \"elettrica,\" its first fully electric vehicle"
+          "• Yale Approach Lock With Keypad Touch only switches out the back of your dead bolt, allowing you to use the same keys you already have"
         ],
         "stakes_bullets": [
-          "• Ferrari says it will target a 2030 sports car model line-up made up of 40% ICE, 40% hybrid and 20% fully electric vehicles",
-          "• The completed car is expected to be launched at a global premiere next year "
+          "• Smart locks are all about convenience, offering multiple ways to enter",
+          "• Yale Approach Lock With Keypad Touch only switches out the back of your dead bolt, allowing you to use the same keys you already have",
+          "• We've been testing smart locks for more than a year, ranging from renter-friendly solutions to options that work for your sliding door "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "c4dc62621309"
+      "read_minutes": 27,
+      "cluster_id": "8d539582e0ad"
     },
     {
       "id": "a2977fb29d65",
@@ -4636,42 +4731,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "62a679be8459"
-    },
-    {
-      "id": "43706ff98966",
-      "title": "National guard troops ‘protecting’ ICE and other federal property in Chicago area – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
-      "published_at": "Thu, 09 Oct 2025 10:08:11 GMT",
-      "bullets": [
-        "• The United States has agreed to a deal with the world's largest oil and energy companies",
-        "• The deal was announced on Thursday",
-        "• It is the first time the U.S",
-        "• government has agreed a deal to work together with the Arab world",
-        "• The U.N"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The United States has agreed to a deal with the world's largest oil and energy companies",
-          "• The deal was announced on Thursday"
-        ],
-        "hopeful_bullets": [
-          "• The United States has agreed to a deal with the world's largest oil and energy companies",
-          "• The deal was announced on Thursday"
-        ],
-        "stakes_bullets": [
-          "• The United States has agreed to a deal with the world's largest oil and energy companies",
-          "• The deal was announced on Thursday",
-          "• It is the first time the U.S"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6302db247f7"
     },
     {
       "id": "ec18534f1c28",
@@ -4900,7 +4959,7 @@
     },
     {
       "id": "46702101a88e",
-      "title": "'Joy and pain': Palestinians celebrate ceasefire deal but fear confronting grief",
+      "title": "'Joy and pain': Palestinians celebrate  deal but fear confronting grief",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvgv0gypy75o?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 09 Oct 2025 09:25:10 GMT",
@@ -4930,7 +4989,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "62ee31e215f4"
+      "cluster_id": "82f94b7be91b"
     },
     {
       "id": "7a6fb05bcb08",
@@ -5364,37 +5423,37 @@
     },
     {
       "id": "3c1ba9e3f8b1",
-      "title": "Pope Leo issues new document on poverty",
+      "title": "Pope Leo says faith and love for migrants are connected",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/09/nx-s1-5567702/pope-leo-issues-new-document-on-poverty",
       "published_at": "Thu, 09 Oct 2025 06:11:58 -0400",
       "bullets": [
-        "• Pope Leo XIV issues first major document since his election in May",
-        "• The document was begun by Pope Francis, who died in April, and finished by Pope Leo",
-        "• Pope Leo: \"I too consider it essential to insist on this path to holiness\""
+        "• Pope Leo XIV: \"The Church, like a mother, accompanies those who are walking\" \"Dilexi te\" (I Have Loved You) is addressed to \"All Christians\" It was signed on Oct",
+        "• 4, on the feast of St",
+        "• Francis of Assisi, and follows in the footsteps of predecessors "
       ],
       "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.96
+        "label": "positive",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Pope Leo XIV issues first major document since his election in May",
-          "• The document was begun by Pope Francis, who died in April, and finished by Pope Leo"
+          "• Pope Leo XIV: \"The Church, like a mother, accompanies those who are walking\" \"Dilexi te\" (I Have Loved You) is addressed to \"All Christians\" It was signed on Oct",
+          "• 4, on the feast of St"
         ],
         "hopeful_bullets": [
-          "• Pope Leo XIV issues first major document since his election in May",
-          "• The document was begun by Pope Francis, who died in April, and finished by Pope Leo"
+          "• Pope Leo XIV: \"The Church, like a mother, accompanies those who are walking\" \"Dilexi te\" (I Have Loved You) is addressed to \"All Christians\" It was signed on Oct",
+          "• 4, on the feast of St"
         ],
         "stakes_bullets": [
-          "• Pope Leo XIV issues first major document since his election in May",
-          "• The document was begun by Pope Francis, who died in April, and finished by Pope Leo",
-          "• Pope Leo: \"I too consider it essential to insist on this path to holiness\""
+          "• Pope Leo XIV: \"The Church, like a mother, accompanies those who are walking\" \"Dilexi te\" (I Have Loved You) is addressed to \"All Christians\" It was signed on Oct",
+          "• 4, on the feast of St",
+          "• Francis of Assisi, and follows in the footsteps of predecessors "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "d342e5a62888"
+      "read_minutes": 4,
+      "cluster_id": "87b6729cc628"
     },
     {
       "id": "47df055d115e",
@@ -6121,41 +6180,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "466d3afbf959"
-    },
-    {
-      "id": "6159564e8fa9",
-      "title": "All of Zoro's Swords In One Piece",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/one-piece-blades-roronoa-zoro-wielded-used/",
-      "published_at": "Thu, 09 Oct 2025 03:31:26 GMT",
-      "bullets": [
-        "• Roronoa Zoro is the resident swordsman of One Piece's Straw Hat Pirates and one of the strongest people in Monkey D",
-        "• Luffy's crew",
-        "• Since he was a child, Zoro has aimed to become the strongest swordsman in the world",
-        "• He has wielded many different blades across the series' narrative "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Roronoa Zoro is the resident swordsman of One Piece's Straw Hat Pirates and one of the strongest people in Monkey D",
-          "• Luffy's crew"
-        ],
-        "hopeful_bullets": [
-          "• Roronoa Zoro is the resident swordsman of One Piece's Straw Hat Pirates and one of the strongest people in Monkey D",
-          "• Since he was a child, Zoro has aimed to become the strongest swordsman in the world"
-        ],
-        "stakes_bullets": [
-          "• Roronoa Zoro is the resident swordsman of One Piece's Straw Hat Pirates and one of the strongest people in Monkey D",
-          "• Luffy's crew",
-          "• Since he was a child, Zoro has aimed to become the strongest swordsman in the world"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "ad1c1b944aeb"
     },
     {
       "id": "6ea5f483afa6",
@@ -7582,40 +7606,6 @@
       "cluster_id": "7fe3bc1c3120"
     },
     {
-      "id": "77b9349c1842",
-      "title": "Nine Inch Nails’ Future Ruins Festival Canceled",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/nine-inch-nails-future-ruins-festival-canceled",
-      "published_at": "Mon, 06 Oct 2025 14:48:30 +0000",
-      "bullets": [
-        "• Future Ruins is canceled a month before its planned launch in Los Angeles",
-        "• The festival cited “logistical challenges and complications” that would prevent it from materializing as planned",
-        "• Refunds will be issued automatically, according to a statement on social media "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Future Ruins is canceled a month before its planned launch in Los Angeles",
-          "• The festival cited “logistical challenges and complications” that would prevent it from materializing as planned"
-        ],
-        "hopeful_bullets": [
-          "• Future Ruins is canceled a month before its planned launch in Los Angeles",
-          "• The festival cited “logistical challenges and complications” that would prevent it from materializing as planned"
-        ],
-        "stakes_bullets": [
-          "• Future Ruins is canceled a month before its planned launch in Los Angeles",
-          "• The festival cited “logistical challenges and complications” that would prevent it from materializing as planned",
-          "• Refunds will be issued automatically, according to a statement on social media "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "65a961cce414"
-    },
-    {
       "id": "383185bdf323",
       "title": "ICC convicts former Sudan militia leader for war crimes in Darfur",
       "outlet": "World news | The Guardian",
@@ -8260,75 +8250,6 @@
       "cluster_id": "65f8b15f2aa1"
     },
     {
-      "id": "484731e7ce5e",
-      "title": "Sean “Diddy” Combs Sentenced to More Than Four Years for Prostitution Charges",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/sean-diddy-combs-sentenced-to-more-than-four-years-for-prostitution-charges",
-      "published_at": "Fri, 03 Oct 2025 20:43:56 +0000",
-      "bullets": [
-        "• Sean “Diddy” Combs has been sentenced to 50 months in prison and pay a fine of $500,000",
-        "• He was found guilty of two counts of transportation to engage in prostitution",
-        "• Judge Arun Subramanian said the sentence was necessary to send a message to abusers and victims alike "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sean “Diddy” Combs has been sentenced to 50 months in prison and pay a fine of $500,000",
-          "• He was found guilty of two counts of transportation to engage in prostitution"
-        ],
-        "hopeful_bullets": [
-          "• Sean “Diddy” Combs has been sentenced to 50 months in prison and pay a fine of $500,000",
-          "• He was found guilty of two counts of transportation to engage in prostitution"
-        ],
-        "stakes_bullets": [
-          "• Sean “Diddy” Combs has been sentenced to 50 months in prison and pay a fine of $500,000",
-          "• He was found guilty of two counts of transportation to engage in prostitution",
-          "• Judge Arun Subramanian said the sentence was necessary to send a message to abusers and victims alike "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "d826e1327561"
-    },
-    {
-      "id": "6bf0cb3df69c",
-      "title": "11 New Albums You Should Listen to Now: Taylor Swift, Malibu, and More",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/11-new-albums-you-should-listen-to-now-taylor-swift-malibu-and-more",
-      "published_at": "Fri, 03 Oct 2025 14:14:28 +0000",
-      "bullets": [
-        "• Taylor Swift releases her 12th album, The Life of a Showgirl",
-        "• The album was produced by Max Martin and Shellback",
-        "• The title track closes the album with a guest appearance by Sabrina Carpenter",
-        "• Malibu, Kelly Moran, Snooper and Snooper also release new albums "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift releases her 12th album, The Life of a Showgirl",
-          "• The album was produced by Max Martin and Shellback"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift releases her 12th album, The Life of a Showgirl",
-          "• The album was produced by Max Martin and Shellback"
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift releases her 12th album, The Life of a Showgirl",
-          "• The album was produced by Max Martin and Shellback",
-          "• The title track closes the album with a guest appearance by Sabrina Carpenter"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6208bbd1e66f"
-    },
-    {
       "id": "492a87a5748d",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -8427,6 +8348,39 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "26e81f00721b",
+      "title": "OneDrive is getting a new Windows app and an AI photo agent",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features",
+      "published_at": "2025-10-09T06:44:54-04:00",
+      "bullets": [
+        "• New OneDrive app features new gallery view and editing features",
+        "• New version of the app will also let you edit photos and share them with friends",
+        "• It will be available for iOS and Android users, with a new version of OneDrive that lets you share photos with photos "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New OneDrive app features new gallery view and editing features",
+          "• New version of the app will also let you edit photos and share them with friends"
+        ],
+        "hopeful_bullets": [
+          "• New OneDrive app features new gallery view and editing features",
+          "• New version of the app will also let you edit photos and share them with friends"
+        ],
+        "stakes_bullets": [
+          "• New version of the app will also let you edit photos and share them with friends",
+          "• It will be available for iOS and Android users, with a new version of OneDrive that lets you share photos with photos "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7117b8cdf07a"
     },
     {
       "id": "cf7d3f10b17b",
@@ -8724,41 +8678,6 @@
       },
       "read_minutes": 14,
       "cluster_id": "7f445ff1b92a"
-    },
-    {
-      "id": "d2e03fcb6d61",
-      "title": "I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025",
-      "published_at": "2025-10-08T19:24:53-04:00",
-      "bullets": [
-        "• Nomad’s slim tracker is about the size of two standard credit cards smashed together",
-        "• It's 1.7mm thick, so it should have no problem slotting into the slimmest of wallets",
-        "• Despite its thin design, the Tracking Card lasts up to five months on a single charge",
-        "• You can grab the tracker at Amazon in either black or white for an all-time low of $23.20 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nomad’s slim tracker is about the size of two standard credit cards smashed together",
-          "• It's 1.7mm thick, so it should have no problem slotting into the slimmest of wallets"
-        ],
-        "hopeful_bullets": [
-          "• Nomad’s slim tracker is about the size of two standard credit cards smashed together",
-          "• It's 1.7mm thick, so it should have no problem slotting into the slimmest of wallets"
-        ],
-        "stakes_bullets": [
-          "• Nomad’s slim tracker is about the size of two standard credit cards smashed together",
-          "• It's 1.7mm thick, so it should have no problem slotting into the slimmest of wallets",
-          "• Despite its thin design, the Tracking Card lasts up to five months on a single charge"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1dff5e7b1b5a"
     },
     {
       "id": "c41ff758b36a",
@@ -9148,12 +9067,12 @@
       ]
     },
     {
-      "id": "62ee31e215f4",
-      "topic": "ceasefire celebrate deal joy",
+      "id": "82f94b7be91b",
+      "topic": "celebrate deal fear joy",
       "keywords": [
-        "ceasefire",
         "celebrate",
         "deal",
+        "fear",
         "joy",
         "pain",
         "palestinian"
@@ -9655,14 +9574,15 @@
       ]
     },
     {
-      "id": "d342e5a62888",
-      "topic": "document issue leo pope",
+      "id": "87b6729cc628",
+      "topic": "connected faith leo love",
       "keywords": [
-        "document",
-        "issue",
+        "connected",
+        "faith",
         "leo",
-        "pope",
-        "poverty"
+        "love",
+        "migrant",
+        "pope"
       ],
       "item_ids": [
         "3c1ba9e3f8b1"
@@ -9816,24 +9736,6 @@
       ]
     },
     {
-      "id": "62a679be8459",
-      "topic": "000 cut jobs offshore",
-      "keywords": [
-        "000",
-        "cut",
-        "jobs",
-        "offshore",
-        "orsted",
-        "trump"
-      ],
-      "item_ids": [
-        "ec114803105f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d4342b70c3d3",
       "topic": "buoyed delta estimate forecast",
       "keywords": [
@@ -9870,6 +9772,24 @@
       ]
     },
     {
+      "id": "62a679be8459",
+      "topic": "000 cut jobs offshore",
+      "keywords": [
+        "000",
+        "cut",
+        "jobs",
+        "offshore",
+        "orsted",
+        "trump"
+      ],
+      "item_ids": [
+        "ec114803105f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "c4dc62621309",
       "topic": "carmaker ferrari guidance halve",
       "keywords": [
@@ -9882,42 +9802,6 @@
       ],
       "item_ids": [
         "f471e1eea151"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "55bb55cfbeaf",
-      "topic": "all candy ferrero goes",
-      "keywords": [
-        "all",
-        "candy",
-        "ferrero",
-        "goes",
-        "maker",
-        "sport"
-      ],
-      "item_ids": [
-        "6de8582b0d57"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "c4bd9a1ff91f",
-      "topic": "china earth expand export",
-      "keywords": [
-        "china",
-        "earth",
-        "expand",
-        "export",
-        "rare",
-        "restriction"
-      ],
-      "item_ids": [
-        "b2408ba27071"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9942,6 +9826,42 @@
       ]
     },
     {
+      "id": "55bb55cfbeaf",
+      "topic": "all candy ferrero goes",
+      "keywords": [
+        "all",
+        "candy",
+        "ferrero",
+        "goes",
+        "maker",
+        "sport"
+      ],
+      "item_ids": [
+        "6de8582b0d57"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "34f68404e048",
+      "topic": "against back ceo circular",
+      "keywords": [
+        "against",
+        "back",
+        "ceo",
+        "circular",
+        "coreweave",
+        "pushe"
+      ],
+      "item_ids": [
+        "d0a8968623c0"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "39f0a58cf1d1",
       "topic": "against europe hybrid russia",
       "keywords": [
@@ -9960,21 +9880,39 @@
       ]
     },
     {
-      "id": "6ae8d434c77d",
-      "topic": "000 gold hits still",
+      "id": "c4bd9a1ff91f",
+      "topic": "china earth expand export",
       "keywords": [
-        "000",
-        "gold",
-        "hits",
-        "still",
-        "stock",
-        "win"
+        "china",
+        "earth",
+        "expand",
+        "export",
+        "rare",
+        "restriction"
       ],
       "item_ids": [
-        "cfab9757c687"
+        "b2408ba27071"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8d539582e0ad",
+      "topic": "2025 best door front",
+      "keywords": [
+        "2025",
+        "best",
+        "door",
+        "front",
+        "lock",
+        "smart"
+      ],
+      "item_ids": [
+        "756ac2c6224c"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10123,21 +10061,21 @@
       ]
     },
     {
-      "id": "e15359236298",
-      "topic": "eversweet max now off",
+      "id": "7117b8cdf07a",
+      "topic": "agent app getting onedrive",
       "keywords": [
-        "eversweet",
-        "max",
-        "now",
-        "off",
-        "petkit",
-        "right"
+        "agent",
+        "app",
+        "getting",
+        "onedrive",
+        "photo",
+        "window"
       ],
       "item_ids": [
-        "0e583e3d7365"
+        "26e81f00721b"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10297,24 +10235,6 @@
       ],
       "item_ids": [
         "0546c4b60028"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "1dff5e7b1b5a",
-      "topic": "8217 lose never nomad",
-      "keywords": [
-        "8217",
-        "lose",
-        "never",
-        "nomad",
-        "slim",
-        "wallet"
-      ],
-      "item_ids": [
-        "d2e03fcb6d61"
       ],
       "outlets": [
         "The Verge"
@@ -10908,42 +10828,6 @@
       ],
       "item_ids": [
         "0cf235965c38"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "d99834549e9e",
-      "topic": "100m ads against california",
-      "keywords": [
-        "100m",
-        "ads",
-        "against",
-        "california",
-        "redistricting",
-        "spent"
-      ],
-      "item_ids": [
-        "7b8d7d0e7880"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "cb8f047f205f",
-      "topic": "attorney bondi general judiciary",
-      "keywords": [
-        "attorney",
-        "bondi",
-        "general",
-        "judiciary",
-        "senate",
-        "talk"
-      ],
-      "item_ids": [
-        "dc1480de8e58"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13050,6 +12934,24 @@
       ]
     },
     {
+      "id": "0db3b3a32a91",
+      "topic": "adaptation flie jack lord",
+      "keywords": [
+        "adaptation",
+        "flie",
+        "jack",
+        "lord",
+        "thorne",
+        "unveil"
+      ],
+      "item_ids": [
+        "9c7deb40cff8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "c569c39b225e",
       "topic": "forget hbo masterpiece soprano",
       "keywords": [
@@ -13205,22 +13107,6 @@
       ],
       "item_ids": [
         "215a5f48fea7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ad1c1b944aeb",
-      "topic": "all piece sword zoro",
-      "keywords": [
-        "all",
-        "piece",
-        "sword",
-        "zoro"
-      ],
-      "item_ids": [
-        "6159564e8fa9"
       ],
       "outlets": [
         "CBR"
@@ -13606,6 +13492,42 @@
       ]
     },
     {
+      "id": "c50a5f26bc5e",
+      "topic": "featuring gorillaz manifesto share",
+      "keywords": [
+        "featuring",
+        "gorillaz",
+        "manifesto",
+        "share",
+        "song",
+        "trueno"
+      ],
+      "item_ids": [
+        "5b8f7ac6299e"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
+      "id": "ad853ff5b831",
+      "topic": "cocaine geese pays share",
+      "keywords": [
+        "cocaine",
+        "geese",
+        "pays",
+        "share",
+        "video",
+        "watch"
+      ],
+      "item_ids": [
+        "bdbe2bf5718b"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "9d08ff8e24dc",
       "topic": "album announce beverly copeland",
       "keywords": [
@@ -13618,6 +13540,24 @@
       ],
       "item_ids": [
         "912be7bb5347"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
+      "id": "907383a433be",
+      "topic": "department homeland respond security",
+      "keywords": [
+        "department",
+        "homeland",
+        "respond",
+        "security",
+        "state",
+        "united"
+      ],
+      "item_ids": [
+        "fe02a67b7346"
       ],
       "outlets": [
         "RSS: News"
@@ -13660,6 +13600,24 @@
       ]
     },
     {
+      "id": "813658695048",
+      "topic": "2026 american announce archive",
+      "keywords": [
+        "2026",
+        "american",
+        "announce",
+        "archive",
+        "north",
+        "sudan"
+      ],
+      "item_ids": [
+        "81afd8076d54"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "1712aac2afca",
       "topic": "audition bon elordi iver",
       "keywords": [
@@ -13672,78 +13630,6 @@
       ],
       "item_ids": [
         "2c9d5e6892e8"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "f8144e771608",
-      "topic": "engagement life showgirl swift",
-      "keywords": [
-        "engagement",
-        "life",
-        "showgirl",
-        "swift",
-        "talk",
-        "taylor"
-      ],
-      "item_ids": [
-        "ab7f1ed89188"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "65a961cce414",
-      "topic": "festival future inch nail",
-      "keywords": [
-        "festival",
-        "future",
-        "inch",
-        "nail",
-        "nine",
-        "ruin"
-      ],
-      "item_ids": [
-        "77b9349c1842"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "d826e1327561",
-      "topic": "comb diddy four sean",
-      "keywords": [
-        "comb",
-        "diddy",
-        "four",
-        "sean",
-        "sentenced",
-        "year"
-      ],
-      "item_ids": [
-        "484731e7ce5e"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "6208bbd1e66f",
-      "topic": "album listen malibu now",
-      "keywords": [
-        "album",
-        "listen",
-        "malibu",
-        "now",
-        "swift",
-        "taylor"
-      ],
-      "item_ids": [
-        "6bf0cb3df69c"
       ],
       "outlets": [
         "RSS: News"
