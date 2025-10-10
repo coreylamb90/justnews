@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T22:54:17Z",
+  "generated_at": "2025-10-10T23:13:12Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -3617,40 +3617,6 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
-      "id": "e8001a710e88",
-      "title": "RFR Q&A #263: RFR at Rancho Obi-Wan Recap",
-      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
-      "url": "https://www.rebelforceradio.com/shows/2025/9/15/rfr-qampa-263-rfr-at-rancho-obi-wan-recap",
-      "published_at": "Mon, 15 Sep 2025 18:46:01 +0000",
-      "bullets": [
-        "• RFR Q&A #263: RFR at Rancho Obi-Wan recap/As you heard on the latest Weekly RFR, we had an absolute blast",
-        "• Eric from Phoenix shares his stories, thoughts and memories from that epic evening in California",
-        "• Eric also nailed down the location for the after party at Torches "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• RFR Q&A #263: RFR at Rancho Obi-Wan recap/As you heard on the latest Weekly RFR, we had an absolute blast",
-          "• Eric from Phoenix shares his stories, thoughts and memories from that epic evening in California"
-        ],
-        "hopeful_bullets": [
-          "• RFR Q&A #263: RFR at Rancho Obi-Wan recap/As you heard on the latest Weekly RFR, we had an absolute blast",
-          "• Eric from Phoenix shares his stories, thoughts and memories from that epic evening in California"
-        ],
-        "stakes_bullets": [
-          "• RFR Q&A #263: RFR at Rancho Obi-Wan recap/As you heard on the latest Weekly RFR, we had an absolute blast",
-          "• Eric from Phoenix shares his stories, thoughts and memories from that epic evening in California",
-          "• Eric also nailed down the location for the after party at Torches "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8a8687793581"
-    },
-    {
       "id": "11607afa6306",
       "title": "The Penguin: A Gritty, Edge-of-Your-Seat Masterpiece",
       "outlet": "Comic Quarters",
@@ -4149,6 +4115,104 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "653744cd956f",
+      "title": "Inside Ahsoka with Ashley Eckstein",
+      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
+      "url": "https://www.rebelforceradio.com/shows/2025/10/9/inside-ahsoka-with-ashley-eckstein",
+      "published_at": "Fri, 10 Oct 2025 23:04:50 +0000",
+      "bullets": [
+        "• Ashley Eckstein is the voice of Ahsoka on The Clone Wars",
+        "• She developed the character from the ground up alongside George Lucas himself",
+        "• Ashley bravely opens up about being denied the opportunity to bring the character to life in live-action",
+        "• Plus, we review Haslab’s Mos Eisley Cantina and listen to the first public comments from Mia Goth about joining the cast of Star Wars: Starfighter "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ashley Eckstein is the voice of Ahsoka on The Clone Wars",
+          "• She developed the character from the ground up alongside George Lucas himself"
+        ],
+        "hopeful_bullets": [
+          "• Ashley Eckstein is the voice of Ahsoka on The Clone Wars",
+          "• She developed the character from the ground up alongside George Lucas himself"
+        ],
+        "stakes_bullets": [
+          "• Ashley Eckstein is the voice of Ahsoka on The Clone Wars",
+          "• She developed the character from the ground up alongside George Lucas himself",
+          "• Ashley bravely opens up about being denied the opportunity to bring the character to life in live-action"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3a37da55faa2"
+    },
+    {
+      "id": "5f3293ff5e85",
+      "title": "5 Best Netflix Shows to Binge-Watch This Weekend: Oct. 10-12, 2025",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-shows-binge-watch-october-10-12/",
+      "published_at": "Fri, 10 Oct 2025 23:00:13 GMT",
+      "bullets": [
+        "• Alice in Borderland blends the thriller and sci-fi genres into a combustible cocktail",
+        "• The Japanese-language series promises to terrify and delight in equal measure",
+        "• The third season of the live-action series will be released on September 25, 2025 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alice in Borderland blends the thriller and sci-fi genres into a combustible cocktail",
+          "• The Japanese-language series promises to terrify and delight in equal measure"
+        ],
+        "hopeful_bullets": [
+          "• Alice in Borderland blends the thriller and sci-fi genres into a combustible cocktail",
+          "• The Japanese-language series promises to terrify and delight in equal measure"
+        ],
+        "stakes_bullets": [
+          "• The third season of the live-action series will be released on September 25, 2025 "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3cb49486bb33"
+    },
+    {
+      "id": "965b41427b21",
+      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "published_at": "Fri, 10 Oct 2025 22:44:48 GMT",
+      "bullets": [
+        "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says",
+        "• An official says the departments targeted include Treasury, Health and Human Services, Education, Energy, Commerce, and Interior "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says",
+          "• An official says the departments targeted include Treasury, Health and Human Services, Education, Energy, Commerce, and Interior "
+        ],
+        "hopeful_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says",
+          "• An official says the departments targeted include Treasury, Health and Human Services, Education, Energy, Commerce, and Interior "
+        ],
+        "stakes_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6c988f50455f"
+    },
+    {
       "id": "196a206f80d4",
       "title": "Kingpin Is Getting A New Enemy In The MCU, And We Know Who Has Been Cast",
       "outlet": "CBR",
@@ -4181,6 +4245,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "189cacdb0dfd"
+    },
+    {
+      "id": "203333e6ca0c",
+      "title": "Trump threatens to impose additional 100% tariff on China",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 22:38:14 GMT",
+      "bullets": [
+        "• Trump threatens to impose additional 100% tariff on China imports from next month",
+        "• He accuses China of \"becoming very hostile\" and trying to hold the world \"captive\" The S&P 500 closes down 2.7% on Friday, its steepest fall since April "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump threatens to impose additional 100% tariff on China imports from next month",
+          "• He accuses China of \"becoming very hostile\" and trying to hold the world \"captive\" The S&P 500 closes down 2.7% on Friday, its steepest fall since April "
+        ],
+        "hopeful_bullets": [
+          "• Trump threatens to impose additional 100% tariff on China imports from next month",
+          "• He accuses China of \"becoming very hostile\" and trying to hold the world \"captive\" The S&P 500 closes down 2.7% on Friday, its steepest fall since April "
+        ],
+        "stakes_bullets": [
+          "• Trump threatens to impose additional 100% tariff on China imports from next month",
+          "• He accuses China of \"becoming very hostile\" and trying to hold the world \"captive\" The S&P 500 closes down 2.7% on Friday, its steepest fall since April "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0b3402b0e87a"
     },
     {
       "id": "97567878ebcc",
@@ -4313,6 +4409,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "3b473b75456f"
+    },
+    {
+      "id": "ad1eb6601679",
+      "title": "Nineteen people feared dead after blast at Tennessee munitions plant",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion",
+      "published_at": "Fri, 10 Oct 2025 22:29:23 GMT",
+      "bullets": [
+        "• The explosion occurred at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
+        "• The explosion is believed to have been caused by an explosion at a munitions plant",
+        "• Emergency services are searching the area for casualties and injuries "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The explosion occurred at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
+          "• The explosion is believed to have been caused by an explosion at a munitions plant"
+        ],
+        "hopeful_bullets": [
+          "• The explosion occurred at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
+          "• The explosion is believed to have been caused by an explosion at a munitions plant"
+        ],
+        "stakes_bullets": [
+          "• The explosion is believed to have been caused by an explosion at a munitions plant"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "298a5f5825bb"
     },
     {
       "id": "00a5c1704fd6",
@@ -4618,30 +4746,63 @@
       "published_at": "Fri, 10 Oct 2025 21:49:19 GMT",
       "bullets": [
         "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
-        "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security",
-        "• Media outlets have reported layoffs are also expected at other agencies",
-        "• Donald Trump promises impossible 1000% discounts on prescription drugs by up to 1,000% "
+        "• Trump claims his threat to 'obliterate' Hamas sealed deal to end Gaza war and bring peace 'to the entire Middle East'"
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
           "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
-          "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security"
+          "• Trump claims his threat to 'obliterate' Hamas sealed deal to end Gaza war and bring peace 'to the entire Middle East'"
         ],
         "hopeful_bullets": [
           "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies"
         ],
         "stakes_bullets": [
-          "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security",
-          "• Media outlets have reported layoffs are also expected at other agencies"
+          "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
+          "• Trump claims his threat to 'obliterate' Hamas sealed deal to end Gaza war and bring peace 'to the entire Middle East'"
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 7,
       "cluster_id": "0d13bcd4141e"
+    },
+    {
+      "id": "286c5f1b28e9",
+      "title": "Trump admin fires more health employees amid government shutdown",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/",
+      "published_at": "Fri, 10 Oct 2025 21:48:40 +0000",
+      "bullets": [
+        "• An unknown number of federal health employees received termination notices Friday afternoon",
+        "• The Department of Health and Human Services has taken heavy hits since Trump came to office",
+        "• Early in the year, the Trump administration pushed out 10,000 employees through early retirements and deferred resignations",
+        "• In the current government shutdown, 32,000 HHS employees are furloughed "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An unknown number of federal health employees received termination notices Friday afternoon",
+          "• The Department of Health and Human Services has taken heavy hits since Trump came to office"
+        ],
+        "hopeful_bullets": [
+          "• An unknown number of federal health employees received termination notices Friday afternoon",
+          "• The Department of Health and Human Services has taken heavy hits since Trump came to office"
+        ],
+        "stakes_bullets": [
+          "• An unknown number of federal health employees received termination notices Friday afternoon",
+          "• The Department of Health and Human Services has taken heavy hits since Trump came to office",
+          "• Early in the year, the Trump administration pushed out 10,000 employees through early retirements and deferred resignations"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7758fc4c0130"
     },
     {
       "id": "8b7d9d184a78",
@@ -4877,40 +5038,6 @@
       "cluster_id": "8258289f8e1d"
     },
     {
-      "id": "303fdac6b748",
-      "title": "Upcoming Marvel Project Being Called 'The Best Show No One's Ever Seen' By Producer",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/wonder-man-best-show-no-ones-ever-seen/",
-      "published_at": "Fri, 10 Oct 2025 21:15:12 GMT",
-      "bullets": [
-        "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
-        "• Marvel Zombies was the latest animated series to spin out of the franchise",
-        "• Wonder Man is the next Marvel Studios project set to release on Disney+ before the end of this year "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
-          "• Marvel Zombies was the latest animated series to spin out of the franchise"
-        ],
-        "hopeful_bullets": [
-          "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
-          "• Marvel Zombies was the latest animated series to spin out of the franchise"
-        ],
-        "stakes_bullets": [
-          "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
-          "• Marvel Zombies was the latest animated series to spin out of the franchise",
-          "• Wonder Man is the next Marvel Studios project set to release on Disney+ before the end of this year "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "a1e80885f8ba"
-    },
-    {
       "id": "5a5a3b539c6e",
       "title": "Ceasefire comes into force as Israel's military pulls out of parts of Gaza",
       "outlet": "BBC News",
@@ -5072,72 +5199,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "9e86aa625689"
-    },
-    {
-      "id": "965b41427b21",
-      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-      "published_at": "Fri, 10 Oct 2025 21:09:09 GMT",
-      "bullets": [
-        "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-        "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-        ],
-        "hopeful_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-        ],
-        "stakes_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6c988f50455f"
-    },
-    {
-      "id": "203333e6ca0c",
-      "title": "Trump threatens to impose additional 100% tariff on China",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 21:07:35 GMT",
-      "bullets": [
-        "• Trump threatens to impose additional 100% tariff on China's exports of rare earths",
-        "• S&P 500 closes 2.7% down after Donald Trump's threat to impose more restrictions on China",
-        "• China has also tightened rules for exports of key materials, including rare earth "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump threatens to impose additional 100% tariff on China's exports of rare earths",
-          "• S&P 500 closes 2.7% down after Donald Trump's threat to impose more restrictions on China"
-        ],
-        "hopeful_bullets": [
-          "• Trump threatens to impose additional 100% tariff on China's exports of rare earths",
-          "• S&P 500 closes 2.7% down after Donald Trump's threat to impose more restrictions on China"
-        ],
-        "stakes_bullets": [
-          "• Trump threatens to impose additional 100% tariff on China's exports of rare earths",
-          "• S&P 500 closes 2.7% down after Donald Trump's threat to impose more restrictions on China",
-          "• China has also tightened rules for exports of key materials, including rare earth "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0b3402b0e87a"
     },
     {
       "id": "39cda6cbe5c7",
@@ -5435,38 +5496,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a84ca1adeeaf"
-    },
-    {
-      "id": "ad1eb6601679",
-      "title": "Nineteen people feared dead after blast at Tennessee munitions plant",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion",
-      "published_at": "Fri, 10 Oct 2025 20:28:17 GMT",
-      "bullets": [
-        "• The explosion occurred at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
-        "• The explosion is believed to have been caused by an explosion at a munitions plant",
-        "• Emergency services are searching the area for casualties and injuries "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The explosion occurred at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
-          "• The explosion is believed to have been caused by an explosion at a munitions plant"
-        ],
-        "hopeful_bullets": [
-          "• The explosion occurred at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
-          "• The explosion is believed to have been caused by an explosion at a munitions plant"
-        ],
-        "stakes_bullets": [
-          "• The explosion is believed to have been caused by an explosion at a munitions plant"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "298a5f5825bb"
     },
     {
       "id": "f3bc5335f988",
@@ -6983,38 +7012,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "df226d59c88f"
-    },
-    {
-      "id": "a2507cd9db0c",
-      "title": "OpenAI will stop saving most ChatGPT users’ deleted chats",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/10/openai-no-longer-forced-to-save-deleted-chats-but-some-users-still-affected/",
-      "published_at": "Fri, 10 Oct 2025 14:58:29 +0000",
-      "bullets": [
-        "• OpenAI will stop saving ChatGPT users' deleted and temporary chats after a court fight",
-        "• The AI firm was sued by The New York Times and other news plaintiffs",
-        "• The order came in a lawsuit filed by news organizations and a judge agreed to end the order "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OpenAI will stop saving ChatGPT users' deleted and temporary chats after a court fight",
-          "• The AI firm was sued by The New York Times and other news plaintiffs"
-        ],
-        "hopeful_bullets": [
-          "• OpenAI will stop saving ChatGPT users' deleted and temporary chats after a court fight",
-          "• The AI firm was sued by The New York Times and other news plaintiffs"
-        ],
-        "stakes_bullets": [
-          "• OpenAI will stop saving ChatGPT users' deleted and temporary chats after a court fight"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ba57094d9263"
     },
     {
       "id": "cf5887f17bb7",
@@ -9484,6 +9481,24 @@
       ]
     },
     {
+      "id": "298a5f5825bb",
+      "topic": "blast dead feared nineteen",
+      "keywords": [
+        "blast",
+        "dead",
+        "feared",
+        "nineteen",
+        "people",
+        "tennessee"
+      ],
+      "item_ids": [
+        "ad1eb6601679"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "0d13bcd4141e",
       "topic": "begin congres federal layoff",
       "keywords": [
@@ -9532,24 +9547,6 @@
       ],
       "item_ids": [
         "2112aa0602fd"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "298a5f5825bb",
-      "topic": "blast dead feared nineteen",
-      "keywords": [
-        "blast",
-        "dead",
-        "feared",
-        "nineteen",
-        "people",
-        "tennessee"
-      ],
-      "item_ids": [
-        "ad1eb6601679"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10343,6 +10340,24 @@
       ]
     },
     {
+      "id": "7758fc4c0130",
+      "topic": "admin employee fire government",
+      "keywords": [
+        "admin",
+        "employee",
+        "fire",
+        "government",
+        "health",
+        "trump"
+      ],
+      "item_ids": [
+        "286c5f1b28e9"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "2f35930402d0",
       "topic": "oks plan putin russian",
       "keywords": [
@@ -10499,24 +10514,6 @@
       ],
       "item_ids": [
         "7bcd33f27275"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "ba57094d9263",
-      "topic": "chatgpt most openai saving",
-      "keywords": [
-        "chatgpt",
-        "most",
-        "openai",
-        "saving",
-        "stop",
-        "user"
-      ],
-      "item_ids": [
-        "a2507cd9db0c"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -12777,6 +12774,22 @@
       ]
     },
     {
+      "id": "3a37da55faa2",
+      "topic": "ahsoka ashley eckstein inside",
+      "keywords": [
+        "ahsoka",
+        "ashley",
+        "eckstein",
+        "inside"
+      ],
+      "item_ids": [
+        "653744cd956f"
+      ],
+      "outlets": [
+        "All Shows - Rebel Force Radio: Star Wars Podcast"
+      ]
+    },
+    {
       "id": "ce288799fa10",
       "topic": "plot rumor star starfighter",
       "keywords": [
@@ -12892,24 +12905,6 @@
       ],
       "item_ids": [
         "f458ca5a46dd"
-      ],
-      "outlets": [
-        "All Shows - Rebel Force Radio: Star Wars Podcast"
-      ]
-    },
-    {
-      "id": "8a8687793581",
-      "topic": "263 obi rancho recap",
-      "keywords": [
-        "263",
-        "obi",
-        "rancho",
-        "recap",
-        "rfr",
-        "wan"
-      ],
-      "item_ids": [
-        "e8001a710e88"
       ],
       "outlets": [
         "All Shows - Rebel Force Radio: Star Wars Podcast"
@@ -13093,6 +13088,24 @@
       ]
     },
     {
+      "id": "3cb49486bb33",
+      "topic": "best binge netflix show",
+      "keywords": [
+        "best",
+        "binge",
+        "netflix",
+        "show",
+        "watch",
+        "weekend"
+      ],
+      "item_ids": [
+        "5f3293ff5e85"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "189cacdb0dfd",
       "topic": "cast enemy getting kingpin",
       "keywords": [
@@ -13246,24 +13259,6 @@
       ],
       "item_ids": [
         "6d40378f3757"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "a1e80885f8ba",
-      "topic": "being best called marvel",
-      "keywords": [
-        "being",
-        "best",
-        "called",
-        "marvel",
-        "project",
-        "upcoming"
-      ],
-      "item_ids": [
-        "303fdac6b748"
       ],
       "outlets": [
         "CBR"
