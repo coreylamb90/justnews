@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T18:13:12Z",
+  "generated_at": "2025-10-10T19:08:29Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1282,6 +1282,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1315,38 +1347,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -1816,7 +1816,7 @@
     },
     {
       "id": "d597ad7aac78",
-      "title": "Senate Nixes Management Plans for Public Lands to Open Access for Fossil Fuels",
+      "title": "Senate Nixes Management Plans for Public Lands, Expanding Access for Fossil Fuels",
       "outlet": "Inside Climate News",
       "url": "https://insideclimatenews.org/news/09102025/congress-management-plans/",
       "published_at": "Thu, 09 Oct 2025 21:54:16 +0000",
@@ -1828,7 +1828,7 @@
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
@@ -1979,41 +1979,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "5008fb8d2ba4"
-    },
-    {
-      "id": "992cf58ffeb4",
-      "title": "A Knight of the Seven Kingdoms teaser debuts at NYCC",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/culture/2025/10/a-knight-of-the-seven-kingdoms-teaser-debuts-at-nycc/",
-      "published_at": "Thu, 09 Oct 2025 20:00:13 +0000",
-      "bullets": [
-        "• A Knight of the Seven Kingdoms is based on George R.R",
-        "• Martin's novella series, Tales of Dunk and Egg",
-        "• The series is set 50 years after the events of House of the Dragon",
-        "• The main cast includes Peter Claffey, Dexter Sol Ansell, Sam Spruell and Finn Bennett "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.933
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Knight of the Seven Kingdoms is based on George R.R",
-          "• Martin's novella series, Tales of Dunk and Egg"
-        ],
-        "hopeful_bullets": [
-          "• A Knight of the Seven Kingdoms is based on George R.R",
-          "• Martin's novella series, Tales of Dunk and Egg"
-        ],
-        "stakes_bullets": [
-          "• A Knight of the Seven Kingdoms is based on George R.R",
-          "• Martin's novella series, Tales of Dunk and Egg",
-          "• The series is set 50 years after the events of House of the Dragon"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "784a8e1b8fa8"
     },
     {
       "id": "a0c99c0c467e",
@@ -2917,40 +2882,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b79c08c09902"
-    },
-    {
-      "id": "068bf4cefb34",
-      "title": "In Utah, a group that helped prompt the redistricting says it's acting on faith",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/09/nx-s1-5564011/utah-redistricting-midterm-elections-faith",
-      "published_at": "Thu, 09 Oct 2025 06:00:00 -0400",
-      "bullets": [
-        "• Mormon Women for Ethical Government is among the plaintiffs in a lawsuit that is now forcing lawmakers to redistrict Utah's four congressional seats",
-        "• The redistricting comes amid Trump's battle for the U.S",
-        "• House",
-        "• The Legislature on Monday passed a new district map that improves Democrats' chances of winning a House seat in the heavily Republican state "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.693
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mormon Women for Ethical Government is among the plaintiffs in a lawsuit that is now forcing lawmakers to redistrict Utah's four congressional seats",
-          "• The redistricting comes amid Trump's battle for the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The Legislature on Monday passed a new district map that improves Democrats' chances of winning a House seat in the heavily Republican state "
-        ],
-        "stakes_bullets": [
-          "• Mormon Women for Ethical Government is among the plaintiffs in a lawsuit that is now forcing lawmakers to redistrict Utah's four congressional seats",
-          "• The redistricting comes amid Trump's battle for the U.S",
-          "• House"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e4ff836baa49"
     },
     {
       "id": "ef83dc0771ee",
@@ -4580,6 +4511,305 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "00c640ed633b",
+      "title": "The Wife of Matlock's David Del Rio Speaks Out After Sexual Assault Allegations",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/matlock-david-del-rio-wife-responds-to-allegations/",
+      "published_at": "Fri, 10 Oct 2025 18:57:55 GMT",
+      "bullets": [
+        "• David Del Rio, who plays Billy Martinez on Matlock, was fired earlier this week",
+        "• He was accused of sexually assaulting his co-star, Leah Lewis, on Oct",
+        "• 2",
+        "• Following the accusations, his wife Katherine Del Rio took to social media to defend her husband",
+        "• Lewis thanked everyone for their support on Instagram stories "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• David Del Rio, who plays Billy Martinez on Matlock, was fired earlier this week",
+          "• He was accused of sexually assaulting his co-star, Leah Lewis, on Oct"
+        ],
+        "hopeful_bullets": [
+          "• Following the accusations, his wife Katherine Del Rio took to social media to defend her husband"
+        ],
+        "stakes_bullets": [
+          "• David Del Rio, who plays Billy Martinez on Matlock, was fired earlier this week",
+          "• Following the accusations, his wife Katherine Del Rio took to social media to defend her husband"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7955b99ab0d0"
+    },
+    {
+      "id": "e297edff60cc",
+      "title": "The Inheritance Games Getting Series Adaptation by Twilight Producers",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/lionsgate-the-inheritance-games-series-adaptation/",
+      "published_at": "Fri, 10 Oct 2025 18:49:07 GMT",
+      "bullets": [
+        "• Jennifer Lynn Barnes' bestselling book series The Inheritance Games has sold over six million copies worldwide, with the eponymous first installment becoming an instant New York Times bestseller",
+        "• Lionsgate Television has teamed up with Temple Hill Entertainment to develop the series as a scripted series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jennifer Lynn Barnes' bestselling book series The Inheritance Games has sold over six million copies worldwide, with the eponymous first installment becoming an instant New York Times bestseller",
+          "• Lionsgate Television has teamed up with Temple Hill Entertainment to develop the series as a scripted series "
+        ],
+        "hopeful_bullets": [
+          "• Jennifer Lynn Barnes' bestselling book series The Inheritance Games has sold over six million copies worldwide, with the eponymous first installment becoming an instant New York Times bestseller",
+          "• Lionsgate Television has teamed up with Temple Hill Entertainment to develop the series as a scripted series "
+        ],
+        "stakes_bullets": [
+          "• Jennifer Lynn Barnes' bestselling book series The Inheritance Games has sold over six million copies worldwide, with the eponymous first installment becoming an instant New York Times bestseller",
+          "• Lionsgate Television has teamed up with Temple Hill Entertainment to develop the series as a scripted series "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "38b05164fad0"
+    },
+    {
+      "id": "9b4eb694aac8",
+      "title": "Nobel Peace Prize winner Machado praises Trump after White House criticizes snub",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-nobel-peace-prize-machado-cheung.html",
+      "published_at": "Fri, 10 Oct 2025 18:30:03 GMT",
+      "bullets": [
+        "• Venezuelan opposition leader Maria Corina Machado dedicates the prize to President Trump",
+        "• The White House says the prize committee chose \"politics over peace\" Trump has been openly critical of Obama receiving the prize in 2009",
+        "• Trump has frequently said that he ended seven wars "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.649
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Venezuelan opposition leader Maria Corina Machado dedicates the prize to President Trump",
+          "• The White House says the prize committee chose \"politics over peace\" Trump has been openly critical of Obama receiving the prize in 2009"
+        ],
+        "hopeful_bullets": [
+          "• Venezuelan opposition leader Maria Corina Machado dedicates the prize to President Trump",
+          "• The White House says the prize committee chose \"politics over peace\" Trump has been openly critical of Obama receiving the prize in 2009"
+        ],
+        "stakes_bullets": [
+          "• Venezuelan opposition leader Maria Corina Machado dedicates the prize to President Trump"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6ce3a6615003"
+    },
+    {
+      "id": "2be8a42fbacf",
+      "title": "Billie Eilish Grabbed and Pulled by Fan During Miami Concert",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/billie-eilish-grabbed-fan-miami-concert-1235444809/",
+      "published_at": "Fri, 10 Oct 2025 18:29:54 +0000",
+      "bullets": [
+        "• Video shows Billie Eilish being pulled into the crowd during her Miami concert",
+        "• The incident occurred during her show at the Kaseya Center in Miami on Oct",
+        "• 9",
+        "• Police say the person was ejected from the center but no criminal charges are pending "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.786
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Video shows Billie Eilish being pulled into the crowd during her Miami concert",
+          "• The incident occurred during her show at the Kaseya Center in Miami on Oct"
+        ],
+        "hopeful_bullets": [
+          "• Video shows Billie Eilish being pulled into the crowd during her Miami concert",
+          "• The incident occurred during her show at the Kaseya Center in Miami on Oct"
+        ],
+        "stakes_bullets": [
+          "• Video shows Billie Eilish being pulled into the crowd during her Miami concert"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "acbde0369842"
+    },
+    {
+      "id": "cf16a4af10a7",
+      "title": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 18:28:13 GMT",
+      "bullets": [
+        "• The award was given to Venezuela's President María Corina Macha",
+        "• She is one of the world's most famous people to receive the award",
+        "• The award is awarded to the country's first female leader in 15 years",
+        "• She has been awarded the award for her efforts to win the Nobel Peace Prize "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The award was given to Venezuela's President María Corina Macha",
+          "• She is one of the world's most famous people to receive the award"
+        ],
+        "hopeful_bullets": [
+          "• The award was given to Venezuela's President María Corina Macha",
+          "• She is one of the world's most famous people to receive the award",
+          "• The award is awarded to the country's first female leader in 15 years",
+          "• She has been awarded the award for her efforts to win the Nobel Peace Prize "
+        ],
+        "stakes_bullets": [
+          "• The award is awarded to the country's first female leader in 15 years"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1525624d22ff"
+    },
+    {
+      "id": "606a64742f02",
+      "title": "Trump threatens 'massive' tariff hike on China over rare earths dispute",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-china-tariffs-rare-earths.html",
+      "published_at": "Fri, 10 Oct 2025 18:26:20 GMT",
+      "bullets": [
+        "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
+        "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute",
+        "• China controls about 70% of the global supply of rare earths minerals, which are critical for high-tech industries "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
+          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
+          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
+          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f13e637084a9"
+    },
+    {
+      "id": "f0beaa865c7f",
+      "title": "Federal layoffs have started, Trump’s budget chief says, as Congress remains deadlocked over funding to end shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
+      "published_at": "Fri, 10 Oct 2025 18:20:46 GMT",
+      "bullets": [
+        "• DHS says layoffs will happen at cybersecurity agency while government shutdown continues",
+        "• Axios reports that Donald Trump plans to hold a summit on Gaza with world leaders during Egypt visit",
+        "• White House budget chief Russ Vought announces layoffs of federal workers are to come as the government shutdown enters its 10th day "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• DHS says layoffs will happen at cybersecurity agency while government shutdown continues",
+          "• Axios reports that Donald Trump plans to hold a summit on Gaza with world leaders during Egypt visit"
+        ],
+        "hopeful_bullets": [
+          "• DHS says layoffs will happen at cybersecurity agency while government shutdown continues",
+          "• Axios reports that Donald Trump plans to hold a summit on Gaza with world leaders during Egypt visit"
+        ],
+        "stakes_bullets": [
+          "• DHS says layoffs will happen at cybersecurity agency while government shutdown continues",
+          "• Axios reports that Donald Trump plans to hold a summit on Gaza with world leaders during Egypt visit"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "0d18559fa440"
+    },
+    {
+      "id": "4fdc76067595",
+      "title": "Trump officials cancel major solar project in latest hit to renewable energy",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-officials-drop-major-solar-power-project-in-another-renewable-energy-attack",
+      "published_at": "Fri, 10 Oct 2025 18:15:45 GMT",
+      "bullets": [
+        "• The network of solar panels and batteries was set to produce 6.2 gigawatts of energy",
+        "• The project would have been one of the largest in the world",
+        "• The White House has changed the status of the project to say its plans have been cancelled "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The network of solar panels and batteries was set to produce 6.2 gigawatts of energy",
+          "• The project would have been one of the largest in the world"
+        ],
+        "hopeful_bullets": [
+          "• The network of solar panels and batteries was set to produce 6.2 gigawatts of energy",
+          "• The project would have been one of the largest in the world"
+        ],
+        "stakes_bullets": [
+          "• The White House has changed the status of the project to say its plans have been cancelled "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a480f9f93584"
+    },
+    {
+      "id": "d0bef9bdf7db",
+      "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
+      "published_at": "Fri, 10 Oct 2025 18:11:35 GMT",
+      "bullets": [
+        "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
+        "• Hollywood groups have objected to the service's copyright policies",
+        "• Some of the prompts failed due to copyright infringement, while others worked",
+        "• Watch what happens when we put Sora 2 to the test "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
+          "• Hollywood groups have objected to the service's copyright policies"
+        ],
+        "hopeful_bullets": [
+          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
+          "• Hollywood groups have objected to the service's copyright policies"
+        ],
+        "stakes_bullets": [
+          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
+          "• Hollywood groups have objected to the service's copyright policies",
+          "• Some of the prompts failed due to copyright infringement, while others worked"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a1b9f912178e"
+    },
+    {
       "id": "02908e62178e",
       "title": "Rachel Chinouriri Falls in Love Again and Again With Madonna, Charli XCX, and Herself",
       "outlet": "Music News",
@@ -4612,6 +4842,105 @@
       },
       "read_minutes": 3,
       "cluster_id": "95b1f671c1c5"
+    },
+    {
+      "id": "280f9f1c7abc",
+      "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
+      "published_at": "Fri, 10 Oct 2025 18:08:10 GMT",
+      "bullets": [
+        "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue",
+        "• The data center company reported earnings after the bell on Thursday",
+        "• First quarter revenue of $64.2 million was up 84% from a year ago",
+        "• The stock is up more than 350% for the year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.54
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue",
+          "• The data center company reported earnings after the bell on Thursday"
+        ],
+        "hopeful_bullets": [
+          "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue"
+        ],
+        "stakes_bullets": [
+          "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue",
+          "• The data center company reported earnings after the bell on Thursday",
+          "• First quarter revenue of $64.2 million was up 84% from a year ago"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3aaaa6e001d5"
+    },
+    {
+      "id": "6fb33a050c57",
+      "title": "White House announces federal worker layoffs as government shutdown nears third week",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/federal-workers-pay-government-shutdown",
+      "published_at": "Fri, 10 Oct 2025 18:07:37 GMT",
+      "bullets": [
+        "• Russell Vought, director of the White House office of management and budget, wrote on social media that “RIFs have begun” He provided no further details on the departments and agencies at which the layoffs were taking place",
+        "• Union leaders warned the layoffs would have “devastating effects” on services relied upon by millions of Americans "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russell Vought, director of the White House office of management and budget, wrote on social media that “RIFs have begun” He provided no further details on the departments and agencies at which the layoffs were taking place",
+          "• Union leaders warned the layoffs would have “devastating effects” on services relied upon by millions of Americans "
+        ],
+        "hopeful_bullets": [
+          "• Russell Vought, director of the White House office of management and budget, wrote on social media that “RIFs have begun” He provided no further details on the departments and agencies at which the layoffs were taking place",
+          "• Union leaders warned the layoffs would have “devastating effects” on services relied upon by millions of Americans "
+        ],
+        "stakes_bullets": [
+          "• Union leaders warned the layoffs would have “devastating effects” on services relied upon by millions of Americans "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "9806aaf5e14e"
+    },
+    {
+      "id": "0087a772412f",
+      "title": "These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/",
+      "published_at": "Fri, 10 Oct 2025 18:04:04 +0000",
+      "bullets": [
+        "• SteelSeries Arctis GameBuds (9/10, WIRED Recommends) are currently marked down at Amazon to just $128",
+        "• They're currently available in both a black Xbox version, and a white Playstation version",
+        "• Both styles play well with Switch, PC, and smartphones without any additional software or drivers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SteelSeries Arctis GameBuds (9/10, WIRED Recommends) are currently marked down at Amazon to just $128",
+          "• They're currently available in both a black Xbox version, and a white Playstation version"
+        ],
+        "hopeful_bullets": [
+          "• SteelSeries Arctis GameBuds (9/10, WIRED Recommends) are currently marked down at Amazon to just $128",
+          "• They're currently available in both a black Xbox version, and a white Playstation version"
+        ],
+        "stakes_bullets": [
+          "• SteelSeries Arctis GameBuds (9/10, WIRED Recommends) are currently marked down at Amazon to just $128",
+          "• They're currently available in both a black Xbox version, and a white Playstation version",
+          "• Both styles play well with Switch, PC, and smartphones without any additional software or drivers "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6fbeb32e41ec"
     },
     {
       "id": "c6f9778afe8d",
@@ -4748,6 +5077,107 @@
       "cluster_id": "c0efb73c570c"
     },
     {
+      "id": "965b41427b21",
+      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "published_at": "Fri, 10 Oct 2025 17:56:19 GMT",
+      "bullets": [
+        "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+        "• government shutdown",
+        "• No other details of the layoffs were immediately released",
+        "• The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+          "• government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+          "• government shutdown"
+        ],
+        "stakes_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+          "• government shutdown",
+          "• No other details of the layoffs were immediately released"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6c988f50455f"
+    },
+    {
+      "id": "398a0a74a559",
+      "title": "CPI inflation report will be released by Labor Department, while other data is delayed by shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html",
+      "published_at": "Fri, 10 Oct 2025 17:53:59 GMT",
+      "bullets": [
+        "• Bureau of Labor Statistics will \"promptly resume\" work on September's consumer price index data",
+        "• The report will come out at 8:30 a.m",
+        "• ET on Oct",
+        "• 24, nine days after it was originally scheduled",
+        "• The Social Security Administration needs third-quarter CPI data for calculating and publishing annual cost-of-living adjustments before Nov"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bureau of Labor Statistics will \"promptly resume\" work on September's consumer price index data",
+          "• The report will come out at 8:30 a.m"
+        ],
+        "hopeful_bullets": [
+          "• Bureau of Labor Statistics will \"promptly resume\" work on September's consumer price index data",
+          "• The report will come out at 8:30 a.m"
+        ],
+        "stakes_bullets": [
+          "• Bureau of Labor Statistics will \"promptly resume\" work on September's consumer price index data",
+          "• The report will come out at 8:30 a.m"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f94fb3936283"
+    },
+    {
+      "id": "bc982710430a",
+      "title": "Letitia James criminally charged in Trump’s latest effort to punish rivals",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general",
+      "published_at": "Fri, 10 Oct 2025 17:51:08 GMT",
+      "bullets": [
+        "• Grand jury indicts Letitia James for fraud and making false statements",
+        "• James: \"No one is above the law",
+        "• The facts and the law in this case are clear, and we will continue following them to ensure that justice is served\" Donald Trump's actions are a \"grave violation of our constitutional order,\" James says "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Grand jury indicts Letitia James for fraud and making false statements",
+          "• James: \"No one is above the law"
+        ],
+        "hopeful_bullets": [
+          "• The facts and the law in this case are clear, and we will continue following them to ensure that justice is served\" Donald Trump's actions are a \"grave violation of our constitutional order,\" James says "
+        ],
+        "stakes_bullets": [
+          "• The facts and the law in this case are clear, and we will continue following them to ensure that justice is served\" Donald Trump's actions are a \"grave violation of our constitutional order,\" James says "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c89e97176b01"
+    },
+    {
       "id": "56f220435e0d",
       "title": "First Wonder Man Teaser Drops, Immediately Pokes Fun At Superhero Fatigue",
       "outlet": "CBR",
@@ -4779,6 +5209,108 @@
       },
       "read_minutes": 2,
       "cluster_id": "8ff1dcf05f92"
+    },
+    {
+      "id": "803d9e6d8c13",
+      "title": "Trump nominee Paul Ingrassia reportedly accused of sexual harassment",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-ingrassia-accused-sexual-harassment.html",
+      "published_at": "Fri, 10 Oct 2025 17:46:32 GMT",
+      "bullets": [
+        "• President Donald Trump's nominee to head the U.S",
+        "• Office of Special Counsel was accused of sexual harassment",
+        "• Ingrassia was investigated in connection with an incident in late July, Politico reported",
+        "• He told a lower-ranking female colleague on a business trip that she would be sharing a hotel room with him, it said "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump's nominee to head the U.S",
+          "• Office of Special Counsel was accused of sexual harassment"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump's nominee to head the U.S",
+          "• Office of Special Counsel was accused of sexual harassment"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump's nominee to head the U.S",
+          "• Office of Special Counsel was accused of sexual harassment",
+          "• Ingrassia was investigated in connection with an incident in late July, Politico reported"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "710e04661e9d"
+    },
+    {
+      "id": "cae5b0dad43a",
+      "title": "Termite farmers fine-tune their weed control",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/",
+      "published_at": "Fri, 10 Oct 2025 17:45:12 +0000",
+      "bullets": [
+        "• Termites are effectively blind, but they can detect the environment based on olfactory reception and touch",
+        "• Workers collect dead leaves, wood, and grass to stack them in underground fungus gardens called combs",
+        "• The fungi break down the tough plant fibers, making them accessible for the termites "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Termites are effectively blind, but they can detect the environment based on olfactory reception and touch",
+          "• Workers collect dead leaves, wood, and grass to stack them in underground fungus gardens called combs"
+        ],
+        "hopeful_bullets": [
+          "• Termites are effectively blind, but they can detect the environment based on olfactory reception and touch",
+          "• Workers collect dead leaves, wood, and grass to stack them in underground fungus gardens called combs"
+        ],
+        "stakes_bullets": [
+          "• Termites are effectively blind, but they can detect the environment based on olfactory reception and touch",
+          "• The fungi break down the tough plant fibers, making them accessible for the termites "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "48d5fe612af6"
+    },
+    {
+      "id": "d40fd900434b",
+      "title": "Sister Jean Dolores Schmidt, beloved Loyola University team chaplain, dies aged 106",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/sister-jean-dolores-schmidt-death-loyola-university",
+      "published_at": "Fri, 10 Oct 2025 17:44:13 GMT",
+      "bullets": [
+        "• Sister Jean Dolores Schmidt died on Thursday at the age of 106",
+        "• She was the chaplain for Loyola University Chicago men’s basketball team",
+        "• Schmidt became a beloved figure in US college basketball seven years ago when she supported her team as they reached the final four of the NCAA tournament "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sister Jean Dolores Schmidt died on Thursday at the age of 106",
+          "• She was the chaplain for Loyola University Chicago men’s basketball team"
+        ],
+        "hopeful_bullets": [
+          "• Sister Jean Dolores Schmidt died on Thursday at the age of 106",
+          "• She was the chaplain for Loyola University Chicago men’s basketball team"
+        ],
+        "stakes_bullets": [
+          "• Sister Jean Dolores Schmidt died on Thursday at the age of 106",
+          "• She was the chaplain for Loyola University Chicago men’s basketball team",
+          "• Schmidt became a beloved figure in US college basketball seven years ago when she supported her team as they reached the final four of the NCAA tournament "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "01b07f2d61dd"
     },
     {
       "id": "28b92eeeb887",
@@ -4814,41 +5346,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "23c8bef0fe5d"
-    },
-    {
-      "id": "965b41427b21",
-      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-      "published_at": "Fri, 10 Oct 2025 17:40:13 GMT",
-      "bullets": [
-        "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
-        "• government shutdown",
-        "• No other details of the layoffs were immediately released",
-        "• The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
-          "• government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
-          "• government shutdown"
-        ],
-        "stakes_bullets": [
-          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
-          "• government shutdown",
-          "• No other details of the layoffs were immediately released"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6c988f50455f"
     },
     {
       "id": "df11f5f37de5",
@@ -4914,10 +5411,10 @@
       "cluster_id": "16d1eaf5eba4"
     },
     {
-      "id": "707b1c75eec5",
+      "id": "52fb1ca8e747",
       "title": "Prime Video Cancels Countdown & Butterfly After 1 Season",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/prime-video-butterfly-countown-canceled/",
+      "url": "https://www.cbr.com/prime-video-butterfly-countdown-canceled/",
       "published_at": "Fri, 10 Oct 2025 17:30:54 GMT",
       "bullets": [
         "• Countdown and Butterfly will not be getting Season 2 renewals at Prime Video",
@@ -4944,41 +5441,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "9da95c2059ec"
-    },
-    {
-      "id": "f0beaa865c7f",
-      "title": "Federal layoffs have started, Trump’s budget chief says, as Congress remains deadlocked over funding to end shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
-      "published_at": "Fri, 10 Oct 2025 17:30:04 GMT",
-      "bullets": [
-        "• US government workforce cuts have begun, OMB chief says",
-        "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown",
-        "• This comes after the American Federation of Government Employees (AFGE) sued the administration over the layoff threat",
-        "• MIT becomes first university to reject White House offer for special funding "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.547
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US government workforce cuts have begun, OMB chief says",
-          "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown"
-        ],
-        "hopeful_bullets": [
-          "• US government workforce cuts have begun, OMB chief says",
-          "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown"
-        ],
-        "stakes_bullets": [
-          "• US government workforce cuts have begun, OMB chief says",
-          "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "0d18559fa440"
+      "cluster_id": "97571e5dd18f"
     },
     {
       "id": "5e0b1f6fb5d8",
@@ -5014,38 +5477,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b140b9e74858"
-    },
-    {
-      "id": "88390e435039",
-      "title": "My one-month-old grandson was killed by police tear gas",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg02rjn0r8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 17:29:23 GMT",
-      "bullets": [
-        "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-        "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-        ],
-        "hopeful_bullets": [
-          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-        ],
-        "stakes_bullets": [
-          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "dd907394c94d"
     },
     {
       "id": "d090d5c7c5b3",
@@ -5245,40 +5676,6 @@
       "cluster_id": "068c6881e73b"
     },
     {
-      "id": "280f9f1c7abc",
-      "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
-      "published_at": "Fri, 10 Oct 2025 17:14:38 GMT",
-      "bullets": [
-        "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue",
-        "• The data center company reported earnings after the bell on Thursday",
-        "• First quarter revenue of $64.2 million was up 84% from a year ago",
-        "• The stock is up more than 350% for the year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.54
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue",
-          "• The data center company reported earnings after the bell on Thursday"
-        ],
-        "hopeful_bullets": [
-          "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue"
-        ],
-        "stakes_bullets": [
-          "• Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue",
-          "• The data center company reported earnings after the bell on Thursday",
-          "• First quarter revenue of $64.2 million was up 84% from a year ago"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3aaaa6e001d5"
-    },
-    {
       "id": "981f95af6728",
       "title": "Mattel Meets H.R. Giger With Stunning New ‘Alien’ Doll from the Monster High Collection!",
       "outlet": "Bloody Disgusting!",
@@ -5309,102 +5706,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7d2f44313e1e"
-    },
-    {
-      "id": "f938c5be4794",
-      "title": "New York Democrats rally behind Letitia James day after indictment for mortgage fraud",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/letitia-james-indictment-trump-ny-democrats",
-      "published_at": "Fri, 10 Oct 2025 17:05:54 GMT",
-      "bullets": [
-        "• Letitia James indicted on mortgage fraud charges by a federal prosecutor appointed by Donald Trump last month",
-        "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Letitia James indicted on mortgage fraud charges by a federal prosecutor appointed by Donald Trump last month",
-          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
-        ],
-        "hopeful_bullets": [
-          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
-        ],
-        "stakes_bullets": [
-          "• Letitia James indicted on mortgage fraud charges by a federal prosecutor appointed by Donald Trump last month",
-          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0bfae052807f"
-    },
-    {
-      "id": "6b012042e9de",
-      "title": "Superman Just Unleashed A Powerful Weapon He's Been Hiding Since the '90s",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/superman-unleashes-powerful-weapon-hiding-since-the-90s/",
-      "published_at": "Fri, 10 Oct 2025 17:03:44 GMT",
-      "bullets": [
-        "• The Dawnsday Knuckles, a weapon that is surely set to level the playing field for Superman in the DC KO tournament, is last seen in the world of comics during an era when gasoline cost a little more than a dollar a gallon and the Dallas Cowboys were reigning as one of the supreme teams in the NFL",
-        "• Written by Joshua Williamson and Scott Snyder with impeccable artistry from Xermánico, "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Dawnsday Knuckles, a weapon that is surely set to level the playing field for Superman in the DC KO tournament, is last seen in the world of comics during an era when gasoline cost a little more than a dollar a gallon and the Dallas Cowboys were reigning as one of the supreme teams in the NFL",
-          "• Written by Joshua Williamson and Scott Snyder with impeccable artistry from Xermánico, "
-        ],
-        "hopeful_bullets": [
-          "• The Dawnsday Knuckles, a weapon that is surely set to level the playing field for Superman in the DC KO tournament, is last seen in the world of comics during an era when gasoline cost a little more than a dollar a gallon and the Dallas Cowboys were reigning as one of the supreme teams in the NFL",
-          "• Written by Joshua Williamson and Scott Snyder with impeccable artistry from Xermánico, "
-        ],
-        "stakes_bullets": [
-          "• Written by Joshua Williamson and Scott Snyder with impeccable artistry from Xermánico, "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "82ead4a2ef03"
-    },
-    {
-      "id": "31b168b65867",
-      "title": "Call the Midwife Is a Flawless Historical Drama (& You Can Binge It on Netflix)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/call-the-midwife-netflix-october-2025/",
-      "published_at": "Fri, 10 Oct 2025 17:01:12 GMT",
-      "bullets": [
-        "• BBC drama Call the Midwife has been on TV since 2012",
-        "• Set in London's East End during the 1950s and 1960s, the series introduces midwives, nuns, mothers, and families who are confronting an era of unprecedented social change",
-        "• With 14 seasons released and more in production, this show combines history, humanity and heart "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• BBC drama Call the Midwife has been on TV since 2012",
-          "• Set in London's East End during the 1950s and 1960s, the series introduces midwives, nuns, mothers, and families who are confronting an era of unprecedented social change"
-        ],
-        "hopeful_bullets": [
-          "• BBC drama Call the Midwife has been on TV since 2012",
-          "• Set in London's East End during the 1950s and 1960s, the series introduces midwives, nuns, mothers, and families who are confronting an era of unprecedented social change"
-        ],
-        "stakes_bullets": [
-          "• BBC drama Call the Midwife has been on TV since 2012",
-          "• Set in London's East End during the 1950s and 1960s, the series introduces midwives, nuns, mothers, and families who are confronting an era of unprecedented social change",
-          "• With 14 seasons released and more in production, this show combines history, humanity and heart "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "5b9fc3314a06"
     },
     {
       "id": "2d439c25841c",
@@ -5575,41 +5876,6 @@
       "cluster_id": "8b4dae959526"
     },
     {
-      "id": "398a0a74a559",
-      "title": "CPI inflation report will be released by Labor Department, while other data is delayed by shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html",
-      "published_at": "Fri, 10 Oct 2025 16:53:44 GMT",
-      "bullets": [
-        "• Bureau of Labor Statistics will \"promptly resume\" work on consumer price index data",
-        "• The report will come out at 8:30 a.m",
-        "• ET on Oct",
-        "• 24, nine days after it was originally scheduled",
-        "• The Social Security Administration needs third-quarter CPI data for calculating and publishing annual cost-of-living adjustments before Nov"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bureau of Labor Statistics will \"promptly resume\" work on consumer price index data",
-          "• The report will come out at 8:30 a.m"
-        ],
-        "hopeful_bullets": [
-          "• Bureau of Labor Statistics will \"promptly resume\" work on consumer price index data",
-          "• The report will come out at 8:30 a.m"
-        ],
-        "stakes_bullets": [
-          "• Bureau of Labor Statistics will \"promptly resume\" work on consumer price index data",
-          "• The report will come out at 8:30 a.m"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f94fb3936283"
-    },
-    {
       "id": "aaac4f8a9764",
       "title": "‘Battle Royale’ Trailer – Japanese Classic Returns to Theaters in 4K for 25th Anniversary",
       "outlet": "Bloody Disgusting!",
@@ -5640,39 +5906,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "a522ad4fbe9b"
-    },
-    {
-      "id": "e8b69ade4310",
-      "title": "How new federal tax changes for 2026 may affect families",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/irs-2026-tax-changes-child-tax-credit-family-refunds.html",
-      "published_at": "Fri, 10 Oct 2025 16:49:52 GMT",
-      "bullets": [
-        "• The IRS has announced new tax inflation adjustments for 2026",
-        "• Qualifying families may see higher amounts for the child tax credit and earned income tax credit",
-        "• The adoption credit and gift tax exclusion have also been adjusted for next year",
-        "• The changes may affect how much federal taxes families pay in taxes or receive in their refunds come tax time "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The IRS has announced new tax inflation adjustments for 2026",
-          "• Qualifying families may see higher amounts for the child tax credit and earned income tax credit"
-        ],
-        "hopeful_bullets": [
-          "• The IRS has announced new tax inflation adjustments for 2026",
-          "• Qualifying families may see higher amounts for the child tax credit and earned income tax credit"
-        ],
-        "stakes_bullets": [
-          "• The changes may affect how much federal taxes families pay in taxes or receive in their refunds come tax time "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3c7b373b46bd"
     },
     {
       "id": "21e34ffd7ade",
@@ -5706,32 +5939,65 @@
       "cluster_id": "845fe1b43aae"
     },
     {
+      "id": "5a5a3b539c6e",
+      "title": "Ceasefire comes into force as IDF pulls out of parts of Gaza",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 16:47:25 GMT",
+      "bullets": [
+        "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
+        "• Israeli military says it has partially withdrawn troops from parts of the territory",
+        "• Under the deal, Hamas has until 12:00 local time (10:00 BST) on Monday to release all Israeli hostages "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.841
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
+          "• Israeli military says it has partially withdrawn troops from parts of the territory"
+        ],
+        "hopeful_bullets": [
+          "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
+          "• Israeli military says it has partially withdrawn troops from parts of the territory"
+        ],
+        "stakes_bullets": [
+          "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
+          "• Israeli military says it has partially withdrawn troops from parts of the territory",
+          "• Under the deal, Hamas has until 12:00 local time (10:00 BST) on Monday to release all Israeli hostages "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "4a06b8959dbf"
+    },
+    {
       "id": "ad1eb6601679",
       "title": "Blast at Tennessee military explosives plant leaves multiple people dead or missing",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion",
       "published_at": "Fri, 10 Oct 2025 16:46:08 GMT",
       "bullets": [
-        "• The explosion happened at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
-        "• The explosion ripped through the explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away",
-        "• First responders said secondary blasts initially kept rescuers at some distance from the site "
+        "• Blast ripped through explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away and bringing emergency services to the scene",
+        "• The incident happened at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "positive",
+        "score": 0.905
       },
       "moods": {
         "brief_bullets": [
-          "• The explosion happened at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
-          "• The explosion ripped through the explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away"
+          "• Blast ripped through explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away and bringing emergency services to the scene",
+          "• The incident happened at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville "
         ],
         "hopeful_bullets": [
-          "• The explosion happened at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville",
-          "• The explosion ripped through the explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away"
+          "• Blast ripped through explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away and bringing emergency services to the scene",
+          "• The incident happened at Accurate Energetic Systems near the town of Bucksnort, about 60 miles south-west of Nashville "
         ],
         "stakes_bullets": [
-          "• The explosion ripped through the explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away"
+          "• Blast ripped through explosives manufacturing plant in rural Tennessee on Friday morning, rattling homes miles away and bringing emergency services to the scene"
         ]
       },
       "read_minutes": 2,
@@ -5804,37 +6070,6 @@
       "cluster_id": "72b5dfe5994e"
     },
     {
-      "id": "9b4eb694aac8",
-      "title": "White House knocks Nobel Committee for snubbing Trump, but peace prize winner praises him",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-nobel-peace-prize-machado-cheung.html",
-      "published_at": "Fri, 10 Oct 2025 16:45:01 GMT",
-      "bullets": [
-        "• The White House criticizes the Nobel Committee for snubbing President Donald Trump",
-        "• But the prize's actual recipient, Venezuelan opposition leader Maria Corina Machado, dedicates the award to Trump",
-        "• Machado said she was partly dedicating the prize to her efforts to promote democracy in Venezuela "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.696
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The White House criticizes the Nobel Committee for snubbing President Donald Trump",
-          "• But the prize's actual recipient, Venezuelan opposition leader Maria Corina Machado, dedicates the award to Trump"
-        ],
-        "hopeful_bullets": [
-          "• But the prize's actual recipient, Venezuelan opposition leader Maria Corina Machado, dedicates the award to Trump"
-        ],
-        "stakes_bullets": [
-          "• But the prize's actual recipient, Venezuelan opposition leader Maria Corina Machado, dedicates the award to Trump"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1bbdf4898a74"
-    },
-    {
       "id": "438f1143264e",
       "title": "Timbaland Puts His AI Music Has ‘Pure Soul’ Theory to the Test With Tata Taktumi Debut",
       "outlet": "Music News",
@@ -5896,6 +6131,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "1c30bdb5b197"
+    },
+    {
+      "id": "0ddab43915c2",
+      "title": "NBA Commissioner Adam Silver says 'we'd love to bring a WNBA game' to China",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/nba-commissioner-adam-silver-wnba-games-china.html",
+      "published_at": "Fri, 10 Oct 2025 16:41:25 GMT",
+      "bullets": [
+        "• NBA Commissioner Adam Silver: \"We'd love to bring a WNBA game to Macao or to mainland China\" The games this weekend mark the NBA's return to China after a six-year hiatus",
+        "• 16 Chinese players have played in the NBA and WNBA, according to the league "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NBA Commissioner Adam Silver: \"We'd love to bring a WNBA game to Macao or to mainland China\" The games this weekend mark the NBA's return to China after a six-year hiatus",
+          "• 16 Chinese players have played in the NBA and WNBA, according to the league "
+        ],
+        "hopeful_bullets": [
+          "• NBA Commissioner Adam Silver: \"We'd love to bring a WNBA game to Macao or to mainland China\" The games this weekend mark the NBA's return to China after a six-year hiatus",
+          "• 16 Chinese players have played in the NBA and WNBA, according to the league "
+        ],
+        "stakes_bullets": [
+          "• NBA Commissioner Adam Silver: \"We'd love to bring a WNBA game to Macao or to mainland China\" The games this weekend mark the NBA's return to China after a six-year hiatus",
+          "• 16 Chinese players have played in the NBA and WNBA, according to the league "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f2c7b13f7622"
     },
     {
       "id": "b79329fe53e4",
@@ -6067,74 +6334,6 @@
       "cluster_id": "437a3f511098"
     },
     {
-      "id": "40942b8a421b",
-      "title": "Melania Trump says eight Ukrainian children seized by Russians have been reunited with their families",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/melania-trump-ukrainian-children-reunited-families",
-      "published_at": "Fri, 10 Oct 2025 16:04:53 GMT",
-      "bullets": [
-        "• Melania Trump says eight Ukrainian children have been reunited with their families after ongoing talks with Vladimir Putin",
-        "• The first lady wrote a letter to Putin and had her husband hand-deliver it to him during his meeting with the Russian president in Alaska in August",
-        "• Putin's invasion of Ukraine has resulted in Russia taking Ukrainian children out of their country to be raised as Russian "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.715
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Melania Trump says eight Ukrainian children have been reunited with their families after ongoing talks with Vladimir Putin",
-          "• The first lady wrote a letter to Putin and had her husband hand-deliver it to him during his meeting with the Russian president in Alaska in August"
-        ],
-        "hopeful_bullets": [
-          "• Melania Trump says eight Ukrainian children have been reunited with their families after ongoing talks with Vladimir Putin",
-          "• The first lady wrote a letter to Putin and had her husband hand-deliver it to him during his meeting with the Russian president in Alaska in August"
-        ],
-        "stakes_bullets": [
-          "• The first lady wrote a letter to Putin and had her husband hand-deliver it to him during his meeting with the Russian president in Alaska in August",
-          "• Putin's invasion of Ukraine has resulted in Russia taking Ukrainian children out of their country to be raised as Russian "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "496c38e00e7c"
-    },
-    {
-      "id": "ea0bc3453e84",
-      "title": "White House slams Trump’s perceived Nobel peace prize snub as ‘politics over peace’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-nobel-peace-prize-reaction",
-      "published_at": "Fri, 10 Oct 2025 16:00:35 GMT",
-      "bullets": [
-        "• White House denounces Norwegian Nobel Committee's decision to award prize to Venezuelan opposition politician",
-        "• Senior aides to US president attack the committee as politicised",
-        "• Donald Trump had openly campaigned for the prize, pushing through a Gaza peace deal",
-        "• His daughter-in-law Lara Trump said: “We know these people who establish who wins the Nobel peace prize hate Donald Trump – they suffer from 'Trump Derangement Syndrome'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• White House denounces Norwegian Nobel Committee's decision to award prize to Venezuelan opposition politician",
-          "• Senior aides to US president attack the committee as politicised"
-        ],
-        "hopeful_bullets": [
-          "• White House denounces Norwegian Nobel Committee's decision to award prize to Venezuelan opposition politician",
-          "• His daughter-in-law Lara Trump said: “We know these people who establish who wins the Nobel peace prize hate Donald Trump – they suffer from 'Trump Derangement Syndrome'"
-        ],
-        "stakes_bullets": [
-          "• White House denounces Norwegian Nobel Committee's decision to award prize to Venezuelan opposition politician",
-          "• Senior aides to US president attack the committee as politicised",
-          "• Donald Trump had openly campaigned for the prize, pushing through a Gaza peace deal"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a60c3634d684"
-    },
-    {
       "id": "89292837848a",
       "title": "‘The Shining’ Screen Print by Murugiah On Sale Now at Mutant",
       "outlet": "Bloody Disgusting!",
@@ -6169,102 +6368,36 @@
       "cluster_id": "f368832f17b0"
     },
     {
-      "id": "606a64742f02",
-      "title": "Trump threatens 'massive' tariff hike on China over rare earths dispute",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-china-tariffs-rare-earths.html",
-      "published_at": "Fri, 10 Oct 2025 15:51:02 GMT",
-      "bullets": [
-        "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-        "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute",
-        "• China controls about 70% of the global supply of rare earths minerals, critical for high-tech industries "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f13e637084a9"
-    },
-    {
       "id": "8f59375e7965",
       "title": "Major Russian strikes cut power in Kyiv and across Ukraine",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 10 Oct 2025 15:44:44 GMT",
       "bullets": [
-        "• Power restored to 423,000 consumers in Kyiv - but another 380,000 still without electricity",
-        "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's \"military-industrial complex\" Russia has escalated attacks on Ukrainian energy facilities as winter approaches "
+        "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
+        "• Power restored to 466,000 consumers in the city - but more than 300,000 still without electricity",
+        "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's \"military-industrial complex\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• Power restored to 423,000 consumers in Kyiv - but another 380,000 still without electricity",
-          "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's \"military-industrial complex\" Russia has escalated attacks on Ukrainian energy facilities as winter approaches "
+          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
+          "• Power restored to 466,000 consumers in the city - but more than 300,000 still without electricity"
         ],
         "hopeful_bullets": [
-          "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's \"military-industrial complex\" Russia has escalated attacks on Ukrainian energy facilities as winter approaches "
+          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
+          "• Power restored to 466,000 consumers in the city - but more than 300,000 still without electricity"
         ],
         "stakes_bullets": [
-          "• Power restored to 423,000 consumers in Kyiv - but another 380,000 still without electricity",
-          "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's \"military-industrial complex\" Russia has escalated attacks on Ukrainian energy facilities as winter approaches "
+          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions"
         ]
       },
       "read_minutes": 2,
       "cluster_id": "8b533990aa62"
-    },
-    {
-      "id": "76e0ebe99f10",
-      "title": "Rocket Lab's stock set for 20% gain this week after flurry of new launch deals",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/rocket-lab-stock-launch-deals-japan.html",
-      "published_at": "Fri, 10 Oct 2025 15:42:46 GMT",
-      "bullets": [
-        "• Rocket Lab has added more than a quarter in value this week as the aerospace company inked new launch deals",
-        "• Shares were up nearly 50% over the last two weeks and traded near fresh highs on Friday",
-        "• The company said it secured two launches with the Japan Aerospace Exploration Agency, scheduled for December and in 2026 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rocket Lab has added more than a quarter in value this week as the aerospace company inked new launch deals",
-          "• Shares were up nearly 50% over the last two weeks and traded near fresh highs on Friday"
-        ],
-        "hopeful_bullets": [
-          "• Rocket Lab has added more than a quarter in value this week as the aerospace company inked new launch deals",
-          "• Shares were up nearly 50% over the last two weeks and traded near fresh highs on Friday"
-        ],
-        "stakes_bullets": [
-          "• Rocket Lab has added more than a quarter in value this week as the aerospace company inked new launch deals",
-          "• Shares were up nearly 50% over the last two weeks and traded near fresh highs on Friday",
-          "• The company said it secured two launches with the Japan Aerospace Exploration Agency, scheduled for December and in 2026 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8cfd859b2333"
     },
     {
       "id": "0559292c48cc",
@@ -6296,73 +6429,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "5cdd7583d9ca"
-    },
-    {
-      "id": "6fb33a050c57",
-      "title": "Federal workers receive partial pay as government shutdown nears third week",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/federal-workers-pay-government-shutdown",
-      "published_at": "Fri, 10 Oct 2025 15:37:39 GMT",
-      "bullets": [
-        "• Federal workers on Friday received a partial paycheck that will be the last until the end of the government shutdown",
-        "• The shutdown is set to stretch into a third week with no resolution in sight",
-        "• If the government is not reopened by next Wednesday, military personnel will miss a full paycheck "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal workers on Friday received a partial paycheck that will be the last until the end of the government shutdown",
-          "• The shutdown is set to stretch into a third week with no resolution in sight"
-        ],
-        "hopeful_bullets": [
-          "• Federal workers on Friday received a partial paycheck that will be the last until the end of the government shutdown",
-          "• The shutdown is set to stretch into a third week with no resolution in sight"
-        ],
-        "stakes_bullets": [
-          "• Federal workers on Friday received a partial paycheck that will be the last until the end of the government shutdown",
-          "• If the government is not reopened by next Wednesday, military personnel will miss a full paycheck "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5035f4bada6d"
-    },
-    {
-      "id": "4fdc76067595",
-      "title": "Trump officials cancel major solar project in latest hit to renewable energy",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-officials-drop-major-solar-power-project-in-another-renewable-energy-attack",
-      "published_at": "Fri, 10 Oct 2025 15:33:49 GMT",
-      "bullets": [
-        "• Esmeralda 7 project in southern Nevada was set to cover 185 sq miles - a footprint close to the size of Las Vegas",
-        "• It would have been one of the largest solar power projects in the world",
-        "• The Bureau of Land Management changed the status of the project to say its environmental review has been ‘cancelled”"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Esmeralda 7 project in southern Nevada was set to cover 185 sq miles - a footprint close to the size of Las Vegas",
-          "• It would have been one of the largest solar power projects in the world"
-        ],
-        "hopeful_bullets": [
-          "• Esmeralda 7 project in southern Nevada was set to cover 185 sq miles - a footprint close to the size of Las Vegas",
-          "• It would have been one of the largest solar power projects in the world"
-        ],
-        "stakes_bullets": [
-          "• Esmeralda 7 project in southern Nevada was set to cover 185 sq miles - a footprint close to the size of Las Vegas",
-          "• It would have been one of the largest solar power projects in the world",
-          "• The Bureau of Land Management changed the status of the project to say its environmental review has been ‘cancelled”"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a480f9f93584"
     },
     {
       "id": "87a8e4456b50",
@@ -6502,25 +6568,25 @@
       "url": "https://www.rollingstone.com/music/music-news/john-lodge-the-moody-blues-bassist-singer-dead-obituary-1235444425/",
       "published_at": "Fri, 10 Oct 2025 14:52:34 +0000",
       "bullets": [
-        "• John Lodge, a longtime bassist and singer in the Moody Blues, dies at 82",
-        "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of The Everly Brothers and Buddy Holly” Lodge joined the band in 1966 "
+        "• John Lodge, a longtime bassist and singer in the Moody Blues, has died at the age of 82",
+        "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of the Everly Brothers and Buddy Holly”"
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.952
+        "score": 0.93
       },
       "moods": {
         "brief_bullets": [
-          "• John Lodge, a longtime bassist and singer in the Moody Blues, dies at 82",
-          "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of The Everly Brothers and Buddy Holly” Lodge joined the band in 1966 "
+          "• John Lodge, a longtime bassist and singer in the Moody Blues, has died at the age of 82",
+          "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of the Everly Brothers and Buddy Holly”"
         ],
         "hopeful_bullets": [
-          "• John Lodge, a longtime bassist and singer in the Moody Blues, dies at 82",
-          "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of The Everly Brothers and Buddy Holly” Lodge joined the band in 1966 "
+          "• John Lodge, a longtime bassist and singer in the Moody Blues, has died at the age of 82",
+          "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of the Everly Brothers and Buddy Holly”"
         ],
         "stakes_bullets": [
-          "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of The Everly Brothers and Buddy Holly” Lodge joined the band in 1966 "
+          "• Lodge’s family said he died “suddenly and unexpectedly,” and that he “peacefully slipped away surrounded by his loved-ones and the sounds of the Everly Brothers and Buddy Holly”"
         ]
       },
       "read_minutes": 3,
@@ -6587,6 +6653,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "14c282f03e9d"
+    },
+    {
+      "id": "df02b89a0e2c",
+      "title": "White House says 'substantial' layoffs of federal workers have begun, with few details",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
+      "published_at": "Fri, 10 Oct 2025 14:27:00 -0400",
+      "bullets": [
+        "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+        "• OMB director: \"The RIFs have begun\" Department of Health and Human Services: \"All HHS employees receiving reduction-in-force notices were designated non-essential by their respective divisions\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+          "• OMB director: \"The RIFs have begun\" Department of Health and Human Services: \"All HHS employees receiving reduction-in-force notices were designated non-essential by their respective divisions\""
+        ],
+        "hopeful_bullets": [
+          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+          "• OMB director: \"The RIFs have begun\" Department of Health and Human Services: \"All HHS employees receiving reduction-in-force notices were designated non-essential by their respective divisions\""
+        ],
+        "stakes_bullets": [
+          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+          "• OMB director: \"The RIFs have begun\" Department of Health and Human Services: \"All HHS employees receiving reduction-in-force notices were designated non-essential by their respective divisions\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9806aaf5e14e"
     },
     {
       "id": "ecd853c21fc6",
@@ -6854,41 +6952,6 @@
       "cluster_id": "88aadf395ed3"
     },
     {
-      "id": "56e3dbc6eed2",
-      "title": "Sombr Performs ‘I’m Not the Only One’ With Sam Smith: ‘All I Wanted to Do Is Be Like You’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/sombr-sam-smith-im-not-the-only-one-1235444356/",
-      "published_at": "Fri, 10 Oct 2025 14:00:23 +0000",
-      "bullets": [
-        "• Sombr performed with Sam Smith at New York's Pier 17 on Thursday, Oct",
-        "• 9",
-        "• The duo will continue their live show run on the Late Nights & Young Romance Tour with another night at Pier 17",
-        "• Sombr will continue the tour with a performance on Friday, Oct., Oct",
-        "• 10 "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sombr performed with Sam Smith at New York's Pier 17 on Thursday, Oct",
-          "• 9"
-        ],
-        "hopeful_bullets": [
-          "• Sombr performed with Sam Smith at New York's Pier 17 on Thursday, Oct",
-          "• 9"
-        ],
-        "stakes_bullets": [
-          "• The duo will continue their live show run on the Late Nights & Young Romance Tour with another night at Pier 17",
-          "• Sombr will continue the tour with a performance on Friday, Oct., Oct"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0cb34a4a2a69"
-    },
-    {
       "id": "4df6d6ea1d84",
       "title": "It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?",
       "outlet": "Ars Technica - All content",
@@ -6918,6 +6981,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "55779764ec70"
+    },
+    {
+      "id": "d19f826f989b",
+      "title": "Perú: Chicha cumbia, el pulso eléctrico de Lima",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/10/g-s1-92885/peru-chicha-cumbia-el-pulso-electrico-de-lima",
+      "published_at": "Fri, 10 Oct 2025 14:00:00 -0400",
+      "bullets": [
+        "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
+        "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.617
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
+          "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
+        ],
+        "hopeful_bullets": [
+          "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
+          "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
+        ],
+        "stakes_bullets": [
+          "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
+          "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "562345ee49ff"
     },
     {
       "id": "d4d310caabc1",
@@ -7313,71 +7408,6 @@
       "cluster_id": "d1b21bc5fce8"
     },
     {
-      "id": "12d22599123d",
-      "title": "High earners could soon lose a tax break from this 401(k) change",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/401k-change-catch-up-contributions.html",
-      "published_at": "Fri, 10 Oct 2025 11:15:01 GMT",
-      "bullets": [
-        "• 401(k) deferrals can defer up to $23,500 into 401(K) plans for 2025",
-        "• Workers age 50 or older can save an extra $7,500, known as \"catch-up contributions\" The catch-up limit jumps to $11,250 for workers age 60 to 63 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 401(k) deferrals can defer up to $23,500 into 401(K) plans for 2025",
-          "• Workers age 50 or older can save an extra $7,500, known as \"catch-up contributions\" The catch-up limit jumps to $11,250 for workers age 60 to 63 "
-        ],
-        "hopeful_bullets": [
-          "• 401(k) deferrals can defer up to $23,500 into 401(K) plans for 2025",
-          "• Workers age 50 or older can save an extra $7,500, known as \"catch-up contributions\" The catch-up limit jumps to $11,250 for workers age 60 to 63 "
-        ],
-        "stakes_bullets": [
-          "• 401(k) deferrals can defer up to $23,500 into 401(K) plans for 2025"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "eba6381e7659"
-    },
-    {
-      "id": "cf16a4af10a7",
-      "title": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 11:08:54 GMT",
-      "bullets": [
-        "• Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize",
-        "• She has campaigned against Venezuela's President Nicolás Maduro's 12-year rule",
-        "• US President Donald Trump among those who missed out on the award",
-        "• Machado is recognised for \"her struggle to achieve a just and peaceful transition to democracy\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize",
-          "• She has campaigned against Venezuela's President Nicolás Maduro's 12-year rule"
-        ],
-        "hopeful_bullets": [
-          "• Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize",
-          "• She has campaigned against Venezuela's President Nicolás Maduro's 12-year rule",
-          "• US President Donald Trump among those who missed out on the award"
-        ],
-        "stakes_bullets": [
-          "• Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1525624d22ff"
-    },
-    {
       "id": "00c5edc5978d",
       "title": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
       "outlet": "Ars Technica - All content",
@@ -7472,40 +7502,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "aef402748934"
-    },
-    {
-      "id": "8a364dc13333",
-      "title": "Best Latex Mattress Options for Natural Support (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-latex-mattresses/",
-      "published_at": "Fri, 10 Oct 2025 10:39:00 +0000",
-      "bullets": [
-        "• Latex is basically just baked rubber sap",
-        "• Talalay is the softest, Dunlop is the firmest, and latex foam is a less expensive alternative to solid latex",
-        "• The best latex mattress options are also some of the top organic ones "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Latex is basically just baked rubber sap",
-          "• Talalay is the softest, Dunlop is the firmest, and latex foam is a less expensive alternative to solid latex"
-        ],
-        "hopeful_bullets": [
-          "• Latex is basically just baked rubber sap",
-          "• Talalay is the softest, Dunlop is the firmest, and latex foam is a less expensive alternative to solid latex"
-        ],
-        "stakes_bullets": [
-          "• Latex is basically just baked rubber sap",
-          "• Talalay is the softest, Dunlop is the firmest, and latex foam is a less expensive alternative to solid latex",
-          "• The best latex mattress options are also some of the top organic ones "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "81934e8aa856"
     },
     {
       "id": "8bf53997344b",
@@ -7813,13 +7809,13 @@
       "bullets": [
         "• Israel says it has completed a pullback of troops in Gaza",
         "• Israel's Cabinet approved a plan for a ceasefire aimed at ending the devastating 2-year-old war",
-        "• Israel has pledged to release about 250 Palestinian prisoners and detainees, including women and children",
+        "• Israeli forces began pulling back from the coastal highway into Gaza city overnight",
         "• The handover of the living hostages is expected to begin Monday "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.909
+        "score": 0.934
       },
       "moods": {
         "brief_bullets": [
@@ -8001,39 +7997,38 @@
       "cluster_id": "63357268cb07"
     },
     {
-      "id": "94762c340a64",
-      "title": "As energy finds Texas young conservatives, U.S. Senate hopefuls make their pitch",
+      "id": "30885e8252e5",
+      "title": "How the Texas GOP’s bid to block lawmakers from the ballot defies a century of court precedent",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182886/texas-senate-primary-young-conservatives",
+      "url": "https://feeds.texastribune.org/link/16799/17182885/texas-republican-party-censures-primary-ballot-court-precedent",
       "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
-        "• He's hoping to unseat U.S",
-        "• Sen",
-        "• John Cornyn of Texas",
-        "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
+        "• Texas Democrats want to keep state Sen",
+        "• Thomas B",
+        "• Love off the ballot",
+        "• The state's high court has repeatedly upheld this ruling",
+        "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "neutral",
+        "score": 0.592
       },
       "moods": {
         "brief_bullets": [
-          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
-          "• He's hoping to unseat U.S"
+          "• Texas Democrats want to keep state Sen",
+          "• Thomas B"
         ],
         "hopeful_bullets": [
-          "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
+          "• Texas Democrats want to keep state Sen",
+          "• Thomas B"
         ],
         "stakes_bullets": [
-          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
-          "• He's hoping to unseat U.S",
-          "• Sen"
+          "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "0fb6075febad"
+      "read_minutes": 8,
+      "cluster_id": "31c201d3b2ad"
     },
     {
       "id": "513217038302",
@@ -8070,38 +8065,39 @@
       "cluster_id": "f3c780f1966f"
     },
     {
-      "id": "30885e8252e5",
-      "title": "How the Texas GOP’s bid to block lawmakers from the ballot defies a century of court precedent",
+      "id": "94762c340a64",
+      "title": "As energy finds Texas young conservatives, U.S. Senate hopefuls make their pitch",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182885/texas-republican-party-censures-primary-ballot-court-precedent",
+      "url": "https://feeds.texastribune.org/link/16799/17182886/texas-senate-primary-young-conservatives",
       "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• Texas Democrats want to keep state Sen",
-        "• Thomas B",
-        "• Love off the ballot",
-        "• The state's high court has repeatedly upheld this ruling",
-        "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
+        "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
+        "• He's hoping to unseat U.S",
+        "• Sen",
+        "• John Cornyn of Texas",
+        "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.592
+        "label": "positive",
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Texas Democrats want to keep state Sen",
-          "• Thomas B"
+          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
+          "• He's hoping to unseat U.S"
         ],
         "hopeful_bullets": [
-          "• Texas Democrats want to keep state Sen",
-          "• Thomas B"
+          "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
         ],
         "stakes_bullets": [
-          "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
+          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
+          "• He's hoping to unseat U.S",
+          "• Sen"
         ]
       },
-      "read_minutes": 8,
-      "cluster_id": "31c201d3b2ad"
+      "read_minutes": 4,
+      "cluster_id": "0fb6075febad"
     },
     {
       "id": "8f7d31c0558b",
@@ -8135,40 +8131,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "c804a72726b0"
-    },
-    {
-      "id": "a68124c77d49",
-      "title": "Where has Trump suggested sending troops? In cities run by Democratic mayors",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/10/nx-s1-5567177/national-guard-map-chicago-california-oregon",
-      "published_at": "Fri, 10 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• In just four months, President Trump has suggested or ordered sending federal intervention to nearly a dozen cities",
-        "• Trump has argued that National Guard forces are necessary to combat crime, quell protests, or safeguard ICE facilities and personnel",
-        "• Critics have called it a dangerous abuse of power "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In just four months, President Trump has suggested or ordered sending federal intervention to nearly a dozen cities",
-          "• Trump has argued that National Guard forces are necessary to combat crime, quell protests, or safeguard ICE facilities and personnel"
-        ],
-        "hopeful_bullets": [
-          "• In just four months, President Trump has suggested or ordered sending federal intervention to nearly a dozen cities",
-          "• Trump has argued that National Guard forces are necessary to combat crime, quell protests, or safeguard ICE facilities and personnel"
-        ],
-        "stakes_bullets": [
-          "• In just four months, President Trump has suggested or ordered sending federal intervention to nearly a dozen cities",
-          "• Trump has argued that National Guard forces are necessary to combat crime, quell protests, or safeguard ICE facilities and personnel",
-          "• Critics have called it a dangerous abuse of power "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "db0d8837b0c5"
     },
     {
       "id": "1b91900132be",
@@ -9092,18 +9054,18 @@
   ],
   "clusters": [
     {
-      "id": "6fa135d05f2c",
-      "topic": "200 gaza israel monitor",
+      "id": "4a06b8959dbf",
+      "topic": "ceasefire come force idf",
       "keywords": [
-        "200",
-        "gaza",
-        "israel",
-        "monitor",
-        "send",
-        "troop"
+        "ceasefire",
+        "come",
+        "force",
+        "idf",
+        "out",
+        "pull"
       ],
       "item_ids": [
-        "a0f08e3a3fd3"
+        "5a5a3b539c6e"
       ],
       "outlets": [
         "BBC News"
@@ -9149,6 +9111,24 @@
       ]
     },
     {
+      "id": "7c473b70d0a3",
+      "topic": "burkina deportee faso refuse",
+      "keywords": [
+        "burkina",
+        "deportee",
+        "faso",
+        "refuse",
+        "stop",
+        "take"
+      ],
+      "item_ids": [
+        "5141a5e16aeb"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "8b533990aa62",
       "topic": "cut kyiv major power",
       "keywords": [
@@ -9185,18 +9165,18 @@
       ]
     },
     {
-      "id": "7c473b70d0a3",
-      "topic": "burkina deportee faso refuse",
+      "id": "6fa135d05f2c",
+      "topic": "200 gaza israel monitor",
       "keywords": [
-        "burkina",
-        "deportee",
-        "faso",
-        "refuse",
-        "stop",
-        "take"
+        "200",
+        "gaza",
+        "israel",
+        "monitor",
+        "send",
+        "troop"
       ],
       "item_ids": [
-        "5141a5e16aeb"
+        "a0f08e3a3fd3"
       ],
       "outlets": [
         "BBC News"
@@ -9250,24 +9230,6 @@
       ],
       "item_ids": [
         "ecd853c21fc6"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "dd907394c94d",
-      "topic": "grandson killed month old",
-      "keywords": [
-        "grandson",
-        "killed",
-        "month",
-        "old",
-        "police",
-        "tear"
-      ],
-      "item_ids": [
-        "88390e435039"
       ],
       "outlets": [
         "BBC News"
@@ -9472,6 +9434,63 @@
       ]
     },
     {
+      "id": "a480f9f93584",
+      "topic": "cancel major official project",
+      "keywords": [
+        "cancel",
+        "major",
+        "official",
+        "project",
+        "solar",
+        "trump"
+      ],
+      "item_ids": [
+        "4fdc76067595"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "9806aaf5e14e",
+      "topic": "announce federal house layoff",
+      "keywords": [
+        "announce",
+        "federal",
+        "house",
+        "layoff",
+        "substantial",
+        "white",
+        "worker"
+      ],
+      "item_ids": [
+        "6fb33a050c57",
+        "df02b89a0e2c"
+      ],
+      "outlets": [
+        "NPR Topics: News",
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "01b07f2d61dd",
+      "topic": "beloved dolore jean loyola",
+      "keywords": [
+        "beloved",
+        "dolore",
+        "jean",
+        "loyola",
+        "schmidt",
+        "sister"
+      ],
+      "item_ids": [
+        "d40fd900434b"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "bb5e08c4e40a",
       "topic": "columbia free group speech",
       "keywords": [
@@ -9565,75 +9584,39 @@
       ]
     },
     {
-      "id": "496c38e00e7c",
-      "topic": "children eight melania seized",
+      "id": "c89e97176b01",
+      "topic": "charged criminally effort jame",
       "keywords": [
-        "children",
-        "eight",
-        "melania",
-        "seized",
-        "trump",
-        "ukrainian"
-      ],
-      "item_ids": [
-        "40942b8a421b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "a60c3634d684",
-      "topic": "house nobel perceived slam",
-      "keywords": [
-        "house",
-        "nobel",
-        "perceived",
-        "slam",
-        "trump",
-        "white"
-      ],
-      "item_ids": [
-        "ea0bc3453e84"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "5035f4bada6d",
-      "topic": "federal government partial pay",
-      "keywords": [
-        "federal",
-        "government",
-        "partial",
-        "pay",
-        "receive",
-        "worker"
-      ],
-      "item_ids": [
-        "6fb33a050c57"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "0bfae052807f",
-      "topic": "behind democrat jame letitia",
-      "keywords": [
-        "behind",
-        "democrat",
+        "charged",
+        "criminally",
+        "effort",
         "jame",
         "letitia",
-        "rally",
-        "york"
+        "trump"
       ],
       "item_ids": [
-        "f938c5be4794"
+        "bc982710430a"
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "562345ee49ff",
+      "topic": "chicha ctrico cumbia lima",
+      "keywords": [
+        "chicha",
+        "ctrico",
+        "cumbia",
+        "lima",
+        "per",
+        "pulso"
+      ],
+      "item_ids": [
+        "d19f826f989b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9744,24 +9727,6 @@
       ]
     },
     {
-      "id": "db0d8837b0c5",
-      "topic": "citie run sending suggested",
-      "keywords": [
-        "citie",
-        "run",
-        "sending",
-        "suggested",
-        "troop",
-        "trump"
-      ],
-      "item_ids": [
-        "a68124c77d49"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6c988f50455f",
       "topic": "administration begin federal layoff",
       "keywords": [
@@ -9792,6 +9757,24 @@
       ],
       "item_ids": [
         "5f88b076d5a8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "710e04661e9d",
+      "topic": "accused ingrassia nominee paul",
+      "keywords": [
+        "accused",
+        "ingrassia",
+        "nominee",
+        "paul",
+        "reportedly",
+        "trump"
+      ],
+      "item_ids": [
+        "803d9e6d8c13"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9852,15 +9835,15 @@
       ]
     },
     {
-      "id": "1bbdf4898a74",
-      "topic": "committee house knock nobel",
+      "id": "6ce3a6615003",
+      "topic": "machado nobel peace praise",
       "keywords": [
-        "committee",
-        "house",
-        "knock",
+        "machado",
         "nobel",
-        "snubbing",
-        "white"
+        "peace",
+        "praise",
+        "prize",
+        "winner"
       ],
       "item_ids": [
         "9b4eb694aac8"
@@ -9870,57 +9853,57 @@
       ]
     },
     {
-      "id": "eba6381e7659",
-      "topic": "break earner high lose",
+      "id": "a1b9f912178e",
+      "topic": "find generator openai sora",
       "keywords": [
-        "break",
-        "earner",
-        "high",
-        "lose",
-        "soon",
-        "tax"
+        "find",
+        "generator",
+        "openai",
+        "sora",
+        "tested",
+        "video"
       ],
       "item_ids": [
-        "12d22599123d"
+        "d0bef9bdf7db"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "3c7b373b46bd",
-      "topic": "2026 affect change familie",
+      "id": "f2c7b13f7622",
+      "topic": "adam bring commissioner love",
       "keywords": [
-        "2026",
-        "affect",
-        "change",
-        "familie",
-        "federal",
-        "tax"
+        "adam",
+        "bring",
+        "commissioner",
+        "love",
+        "nba",
+        "silver"
       ],
       "item_ids": [
-        "e8b69ade4310"
+        "0ddab43915c2"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "8cfd859b2333",
-      "topic": "gain lab rocket set",
+      "id": "6fbeb32e41ec",
+      "topic": "earbud gaming great off",
       "keywords": [
-        "gain",
-        "lab",
-        "rocket",
-        "set",
-        "stock",
-        "week"
+        "earbud",
+        "gaming",
+        "great",
+        "off",
+        "steelserie",
+        "these"
       ],
       "item_ids": [
-        "76e0ebe99f10"
+        "0087a772412f"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10078,24 +10061,6 @@
       ],
       "item_ids": [
         "a7fc3c6f60c2"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "81934e8aa856",
-      "topic": "best latex mattres natural",
-      "keywords": [
-        "best",
-        "latex",
-        "mattres",
-        "natural",
-        "option",
-        "support"
-      ],
-      "item_ids": [
-        "8a364dc13333"
       ],
       "outlets": [
         "WIRED"
@@ -10277,6 +10242,24 @@
       ]
     },
     {
+      "id": "48d5fe612af6",
+      "topic": "control farmer fine termite",
+      "keywords": [
+        "control",
+        "farmer",
+        "fine",
+        "termite",
+        "tune",
+        "weed"
+      ],
+      "item_ids": [
+        "cae5b0dad43a"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "8b4dae959526",
       "topic": "change force google plan",
       "keywords": [
@@ -10433,24 +10416,6 @@
       ],
       "item_ids": [
         "906331a9ae05"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "784a8e1b8fa8",
-      "topic": "debut kingdom knight nycc",
-      "keywords": [
-        "debut",
-        "kingdom",
-        "knight",
-        "nycc",
-        "seven",
-        "teaser"
-      ],
-      "item_ids": [
-        "992cf58ffeb4"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10762,24 +10727,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10792,6 +10739,24 @@
       ],
       "item_ids": [
         "9fb2d8e40a3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
+      "keywords": [
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
+      ],
+      "item_ids": [
+        "8ed599fe270c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10932,24 +10897,6 @@
       ],
       "item_ids": [
         "e9422aaa5e53"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "e4ff836baa49",
-      "topic": "acting group helped prompt",
-      "keywords": [
-        "acting",
-        "group",
-        "helped",
-        "prompt",
-        "redistricting",
-        "utah"
-      ],
-      "item_ids": [
-        "068bf4cefb34"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11105,24 +11052,6 @@
       ],
       "outlets": [
         "CNN.com - RSS Channel - Politics"
-      ]
-    },
-    {
-      "id": "a480f9f93584",
-      "topic": "cancel major official project",
-      "keywords": [
-        "cancel",
-        "major",
-        "official",
-        "project",
-        "solar",
-        "trump"
-      ],
-      "item_ids": [
-        "4fdc76067595"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
       ]
     },
     {
@@ -13045,6 +12974,42 @@
       ]
     },
     {
+      "id": "7955b99ab0d0",
+      "topic": "david del matlock rio",
+      "keywords": [
+        "david",
+        "del",
+        "matlock",
+        "rio",
+        "speak",
+        "wife"
+      ],
+      "item_ids": [
+        "00c640ed633b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "38b05164fad0",
+      "topic": "adaptation game getting inheritance",
+      "keywords": [
+        "adaptation",
+        "game",
+        "getting",
+        "inheritance",
+        "serie",
+        "twilight"
+      ],
+      "item_ids": [
+        "e297edff60cc"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "2b5747c1273b",
       "topic": "best binge prime show",
       "keywords": [
@@ -13133,7 +13098,7 @@
       ]
     },
     {
-      "id": "9da95c2059ec",
+      "id": "97571e5dd18f",
       "topic": "butterfly cancel countdown prime",
       "keywords": [
         "butterfly",
@@ -13144,7 +13109,7 @@
         "video"
       ],
       "item_ids": [
-        "707b1c75eec5"
+        "52fb1ca8e747"
       ],
       "outlets": [
         "CBR"
@@ -13181,42 +13146,6 @@
       ],
       "item_ids": [
         "2e8c21875a34"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "82ead4a2ef03",
-      "topic": "hiding just powerful superman",
-      "keywords": [
-        "hiding",
-        "just",
-        "powerful",
-        "superman",
-        "unleashed",
-        "weapon"
-      ],
-      "item_ids": [
-        "6b012042e9de"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5b9fc3314a06",
-      "topic": "binge call drama flawles",
-      "keywords": [
-        "binge",
-        "call",
-        "drama",
-        "flawles",
-        "historical",
-        "midwife"
-      ],
-      "item_ids": [
-        "31b168b65867"
       ],
       "outlets": [
         "CBR"
@@ -13401,6 +13330,24 @@
       ]
     },
     {
+      "id": "acbde0369842",
+      "topic": "billie during eilish fan",
+      "keywords": [
+        "billie",
+        "during",
+        "eilish",
+        "fan",
+        "grabbed",
+        "pulled"
+      ],
+      "item_ids": [
+        "2be8a42fbacf"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "95b1f671c1c5",
       "topic": "again chinouriri fall love",
       "keywords": [
@@ -13557,24 +13504,6 @@
       ],
       "item_ids": [
         "78fd31f9a13a"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "0cb34a4a2a69",
-      "topic": "all only perform sam",
-      "keywords": [
-        "all",
-        "only",
-        "perform",
-        "sam",
-        "smith",
-        "sombr"
-      ],
-      "item_ids": [
-        "56e3dbc6eed2"
       ],
       "outlets": [
         "Music News"
@@ -13760,18 +13689,18 @@
       ]
     },
     {
-      "id": "0fb6075febad",
-      "topic": "conservative energy find senate",
+      "id": "31c201d3b2ad",
+      "topic": "ballot bid block gop",
       "keywords": [
-        "conservative",
-        "energy",
-        "find",
-        "senate",
-        "texa",
-        "young"
+        "ballot",
+        "bid",
+        "block",
+        "gop",
+        "lawmaker",
+        "texa"
       ],
       "item_ids": [
-        "94762c340a64"
+        "30885e8252e5"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13796,18 +13725,18 @@
       ]
     },
     {
-      "id": "31c201d3b2ad",
-      "topic": "ballot bid block gop",
+      "id": "0fb6075febad",
+      "topic": "conservative energy find senate",
       "keywords": [
-        "ballot",
-        "bid",
-        "block",
-        "gop",
-        "lawmaker",
-        "texa"
+        "conservative",
+        "energy",
+        "find",
+        "senate",
+        "texa",
+        "young"
       ],
       "item_ids": [
-        "30885e8252e5"
+        "94762c340a64"
       ],
       "outlets": [
         "The Texas Tribune"
