@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T22:10:06Z",
+  "generated_at": "2025-10-10T22:54:17Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1186,38 +1186,6 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
-    },
-    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1251,6 +1219,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
+    },
+    {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -4149,6 +4149,306 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "196a206f80d4",
+      "title": "Kingpin Is Getting A New Enemy In The MCU, And We Know Who Has Been Cast",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/kingpin-getting-new-mcu-enemy-for-daredevil-born-again/",
+      "published_at": "Fri, 10 Oct 2025 22:43:07 GMT",
+      "bullets": [
+        "• Season 2 of Marvel's \"Daredevil\" premieres on Friday at 8 p.m",
+        "• ET on Thursday",
+        "• The series is set to be the first time the series has aired on a new series of episodes",
+        "• The first episode will focus on the character of Mr",
+        "• Charles, aka Mr"
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.622
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Season 2 of Marvel's \"Daredevil\" premieres on Friday at 8 p.m",
+          "• ET on Thursday"
+        ],
+        "hopeful_bullets": [
+          "• Season 2 of Marvel's \"Daredevil\" premieres on Friday at 8 p.m",
+          "• ET on Thursday"
+        ],
+        "stakes_bullets": [
+          "• The first episode will focus on the character of Mr"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "189cacdb0dfd"
+    },
+    {
+      "id": "97567878ebcc",
+      "title": "The Massive Star Warner Bros. Wanted For The Riddler in Christopher Nolan's Batman Trilogy",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/riddler-christopher-nolan-dark-knight-trilogy-leonardo-dicaprio/",
+      "published_at": "Fri, 10 Oct 2025 22:35:12 GMT",
+      "bullets": [
+        "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
+        "• Warner Bros",
+        "• wanted a huge star to play the villain in Christopher Nolan's Dark Knight trilogy",
+        "• David S",
+        "• Goyer revealed that he was approached by the studio at the Dark Knight premiere "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.777
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
+          "• Warner Bros"
+        ],
+        "hopeful_bullets": [
+          "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
+          "• Warner Bros"
+        ],
+        "stakes_bullets": [
+          "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
+          "• Warner Bros",
+          "• wanted a huge star to play the villain in Christopher Nolan's Dark Knight trilogy"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "63a335bb84ae"
+    },
+    {
+      "id": "7ad2f7e820ca",
+      "title": "TVC15: Kithaba (Skiff Guard) (VC56)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-10-tvc15-kithaba-skiff-guard-vc56/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-kithaba-skiff-guard-vc56",
+      "published_at": "Fri, 10 Oct 2025 22:31:23 +0000",
+      "bullets": [
+        "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
+        "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana",
+        "• It was also re-released for the 40th Anniversary of Return Of The Jedi "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.839
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
+          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
+          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
+        ],
+        "stakes_bullets": [
+          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3bcabf443022"
+    },
+    {
+      "id": "d5d064418ade",
+      "title": "Netflix's Dorohedoro Finally Gets Production Update After Major Season 2 Release Delay",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dorohedoro-season-2-netflix-release-window/",
+      "published_at": "Fri, 10 Oct 2025 22:30:12 GMT",
+      "bullets": [
+        "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season",
+        "• The first season consisted of 12 episodes and six shorts",
+        "• The grim, gritty, overtly violent anime series holds a perfect 100% \"Fresh\" rating on Rotten Tomatoes "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season",
+          "• The first season consisted of 12 episodes and six shorts"
+        ],
+        "hopeful_bullets": [
+          "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season",
+          "• The first season consisted of 12 episodes and six shorts"
+        ],
+        "stakes_bullets": [
+          "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f1131c542c3f"
+    },
+    {
+      "id": "d2abac09751b",
+      "title": "Guillermo Del Toro's 78% RT Hit Remains the Most Overlooked Family-Friendly Horror Movie",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/scary-stories-to-tell-in-the-dark-underrated-pg-13-horror-movie/",
+      "published_at": "Fri, 10 Oct 2025 22:30:12 GMT",
+      "bullets": [
+        "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein",
+        "• The horror flick is one of the best PG-13 films ever created",
+        "• Scary Stories to Tell in the Dark is based on the collection of scary stories by Alvin Schwartz "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein",
+          "• The horror flick is one of the best PG-13 films ever created"
+        ],
+        "hopeful_bullets": [
+          "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein",
+          "• The horror flick is one of the best PG-13 films ever created"
+        ],
+        "stakes_bullets": [
+          "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "3b473b75456f"
+    },
+    {
+      "id": "00a5c1704fd6",
+      "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
+      "published_at": "Fri, 10 Oct 2025 22:22:20 GMT",
+      "bullets": [
+        "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+        "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
+        "• The company's flagship app, Seemour, connects to home security cameras "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.932
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
+        ],
+        "hopeful_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
+        ],
+        "stakes_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
+          "• The company's flagship app, Seemour, connects to home security cameras "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c04934c6d339"
+    },
+    {
+      "id": "3c81037f7d4c",
+      "title": "‘The Buried Giant’ Included in Stop-Motion Studio Plans from Guillermo del Toro and Netflix",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3908603/the-buried-giant-included-in-stop-motion-studio-plans-from-guillermo-del-toro-and-netflix/?utm_source=rss&utm_medium=rss&utm_campaign=the-buried-giant-included-in-stop-motion-studio-plans-from-guillermo-del-toro-and-netflix",
+      "published_at": "Fri, 10 Oct 2025 22:19:33 +0000",
+      "bullets": [
+        "• Guillermo del Toro and Netflix are launching a new stop-motion animation studio",
+        "• The studio will be a tribute to the late Mark Gustafson, the co-director of del Toro’s Pinocchio",
+        "• One of the films being developed for this new endeavor is an adaptation of Kazuo Ishiguro's fantasy novel The Buried Giant "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Guillermo del Toro and Netflix are launching a new stop-motion animation studio",
+          "• The studio will be a tribute to the late Mark Gustafson, the co-director of del Toro’s Pinocchio"
+        ],
+        "hopeful_bullets": [
+          "• Guillermo del Toro and Netflix are launching a new stop-motion animation studio",
+          "• The studio will be a tribute to the late Mark Gustafson, the co-director of del Toro’s Pinocchio"
+        ],
+        "stakes_bullets": [
+          "• The studio will be a tribute to the late Mark Gustafson, the co-director of del Toro’s Pinocchio"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "512e047429aa"
+    },
+    {
+      "id": "3958cd1e3e75",
+      "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+      "published_at": "Fri, 10 Oct 2025 22:11:52 GMT",
+      "bullets": [
+        "• The U.S",
+        "• will impose new tariffs of 100% on imports from China starting on Nov",
+        "• 1",
+        "• The president's announcement comes hours after he threatened to slap \"a massive increase\" of tariffs on Chinese imports",
+        "• China imposed new controls that China imposed on exports of rare earths minerals from that nation "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.958
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• will impose new tariffs of 100% on imports from China starting on Nov"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• will impose new tariffs of 100% on imports from China starting on Nov"
+        ],
+        "stakes_bullets": [
+          "• will impose new tariffs of 100% on imports from China starting on Nov",
+          "• The president's announcement comes hours after he threatened to slap \"a massive increase\" of tariffs on Chinese imports"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fd22abbdbe9e"
+    },
+    {
+      "id": "1889dd3f3312",
+      "title": "Macron reappoints Lecornu as French PM after days of turmoil",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 22:00:15 GMT",
+      "bullets": [
+        "• Lecornu's return as French prime minister is a surprise",
+        "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government",
+        "• He is not certain he will be able to form the government "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lecornu's return as French prime minister is a surprise",
+          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government"
+        ],
+        "hopeful_bullets": [
+          "• Lecornu's return as French prime minister is a surprise",
+          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government"
+        ],
+        "stakes_bullets": [
+          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government",
+          "• He is not certain he will be able to form the government "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6cacdf7ad90f"
+    },
+    {
       "id": "457226e4b816",
       "title": "Earth-X's Dark DC History, Explained",
       "outlet": "CBR",
@@ -4311,6 +4611,39 @@
       "cluster_id": "4483e6a59007"
     },
     {
+      "id": "f0beaa865c7f",
+      "title": "‘Substantial’ federal layoffs begin as Congress remains deadlocked over funding to end shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
+      "published_at": "Fri, 10 Oct 2025 21:49:19 GMT",
+      "bullets": [
+        "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
+        "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security",
+        "• Media outlets have reported layoffs are also expected at other agencies",
+        "• Donald Trump promises impossible 1000% discounts on prescription drugs by up to 1,000% "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
+          "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security"
+        ],
+        "hopeful_bullets": [
+          "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies"
+        ],
+        "stakes_bullets": [
+          "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security",
+          "• Media outlets have reported layoffs are also expected at other agencies"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "0d13bcd4141e"
+    },
+    {
       "id": "8b7d9d184a78",
       "title": "10 Overrated 1990s Anime That Are Unwatchable Today",
       "outlet": "CBR",
@@ -4380,74 +4713,6 @@
       "cluster_id": "1840da40622a"
     },
     {
-      "id": "1889dd3f3312",
-      "title": "Macron reappoints Lecornu as French PM after days of turmoil",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 21:32:44 GMT",
-      "bullets": [
-        "• Lecornu's return as French prime minister is a surprise",
-        "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government",
-        "• He is not certain he will be able to form the government "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lecornu's return as French prime minister is a surprise",
-          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government"
-        ],
-        "hopeful_bullets": [
-          "• Lecornu's return as French prime minister is a surprise",
-          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government"
-        ],
-        "stakes_bullets": [
-          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government",
-          "• He is not certain he will be able to form the government "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6cacdf7ad90f"
-    },
-    {
-      "id": "3958cd1e3e75",
-      "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
-      "published_at": "Fri, 10 Oct 2025 21:31:00 GMT",
-      "bullets": [
-        "• The U.S",
-        "• will impose new tariffs of 100% on imports from China starting on Nov",
-        "• 1",
-        "• The president's announcement comes hours after he threatened to slap \"a massive increase\" of tariffs on Chinese imports",
-        "• China imposed new controls that China imposed on exports of rare earths minerals from that nation "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.958
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• will impose new tariffs of 100% on imports from China starting on Nov"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• will impose new tariffs of 100% on imports from China starting on Nov"
-        ],
-        "stakes_bullets": [
-          "• will impose new tariffs of 100% on imports from China starting on Nov",
-          "• The president's announcement comes hours after he threatened to slap \"a massive increase\" of tariffs on Chinese imports"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fd22abbdbe9e"
-    },
-    {
       "id": "6d40378f3757",
       "title": "HBO Can Officially Erase Harry Potter’s Biggest Dumbledore Mistake Since Fantastic Beasts",
       "outlet": "CBR",
@@ -4478,40 +4743,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "3cae4dde54c9"
-    },
-    {
-      "id": "f0beaa865c7f",
-      "title": "‘Substantial’ federal layoffs begin as Congress remains deadlocked over funding to end shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
-      "published_at": "Fri, 10 Oct 2025 21:29:25 GMT",
-      "bullets": [
-        "• Trump threatens additional 100% tariff on imports from China, and export controls on software",
-        "• Laidoffs are under way at several federal agencies, including the Department of Education and Homeland Security",
-        "• The White House has not commented on the latest developments in the trade war "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump threatens additional 100% tariff on imports from China, and export controls on software",
-          "• Laidoffs are under way at several federal agencies, including the Department of Education and Homeland Security"
-        ],
-        "hopeful_bullets": [
-          "• Trump threatens additional 100% tariff on imports from China, and export controls on software",
-          "• Laidoffs are under way at several federal agencies, including the Department of Education and Homeland Security"
-        ],
-        "stakes_bullets": [
-          "• Trump threatens additional 100% tariff on imports from China, and export controls on software",
-          "• Laidoffs are under way at several federal agencies, including the Department of Education and Homeland Security",
-          "• The White House has not commented on the latest developments in the trade war "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "0d13bcd4141e"
     },
     {
       "id": "9bea45fcf9e3",
@@ -4940,74 +5171,6 @@
       "cluster_id": "ee54c98a928f"
     },
     {
-      "id": "fa01e8d717f2",
-      "title": "One of Batman's Most Controversial Stories Will Become a Movie in 2026",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/batman-knightfall-movie-2026-announced/",
-      "published_at": "Fri, 10 Oct 2025 21:00:12 GMT",
-      "bullets": [
-        "• Batman: Knightfall: Part 1: The Dark Knight is a new DC Comics movie",
-        "• The film is based on the famous story from 1993 to 1994",
-        "• The movie is set to be released at the end of this year's New York Comic Con "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Batman: Knightfall: Part 1: The Dark Knight is a new DC Comics movie",
-          "• The film is based on the famous story from 1993 to 1994"
-        ],
-        "hopeful_bullets": [
-          "• Batman: Knightfall: Part 1: The Dark Knight is a new DC Comics movie",
-          "• The film is based on the famous story from 1993 to 1994"
-        ],
-        "stakes_bullets": [
-          "• Batman: Knightfall: Part 1: The Dark Knight is a new DC Comics movie",
-          "• The film is based on the famous story from 1993 to 1994",
-          "• The movie is set to be released at the end of this year's New York Comic Con "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8b65f481f72f"
-    },
-    {
-      "id": "f6d6b2eed165",
-      "title": "Why 1923 Ended After Season 2 Despite a Perfect 100% RT Score",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/why-yellowstone-1923-ended-after-season-2/",
-      "published_at": "Fri, 10 Oct 2025 21:00:12 GMT",
-      "bullets": [
-        "• 1923 was Taylor Sheridan’s second Yellowstone spinoff about the Dutton family",
-        "• It followed up 1883, a prequel about the earliest-known members of the family as they journeyed a variant of the Oregon Trail, ultimately establishing the Yellowstone Dutton Ranch",
-        "• The finale of 1923 Season 2 concluded in spite of its success "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 1923 was Taylor Sheridan’s second Yellowstone spinoff about the Dutton family",
-          "• It followed up 1883, a prequel about the earliest-known members of the family as they journeyed a variant of the Oregon Trail, ultimately establishing the Yellowstone Dutton Ranch"
-        ],
-        "hopeful_bullets": [
-          "• 1923 was Taylor Sheridan’s second Yellowstone spinoff about the Dutton family",
-          "• It followed up 1883, a prequel about the earliest-known members of the family as they journeyed a variant of the Oregon Trail, ultimately establishing the Yellowstone Dutton Ranch"
-        ],
-        "stakes_bullets": [
-          "• 1923 was Taylor Sheridan’s second Yellowstone spinoff about the Dutton family",
-          "• It followed up 1883, a prequel about the earliest-known members of the family as they journeyed a variant of the Oregon Trail, ultimately establishing the Yellowstone Dutton Ranch",
-          "• The finale of 1923 Season 2 concluded in spite of its success "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "b79a52d0ac0a"
-    },
-    {
       "id": "8503bcd3a0e1",
       "title": "Where Has Ellen Ripley Gone? Sigourney Weaver Has Met With Disney About a Potential ‘Alien’ Return",
       "outlet": "Bloody Disgusting!",
@@ -5105,41 +5268,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "5825a5177df2"
-    },
-    {
-      "id": "ea9a9f922101",
-      "title": "Countdown Showrunner Addresses Cancellation and Confirms Oliveras Lived",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/countdown-showrunner-cancellation-oliveras-fate/",
-      "published_at": "Fri, 10 Oct 2025 20:56:07 GMT",
-      "bullets": [
-        "• Prime Video's Countdown and Butterfly were canceled",
-        "• The show premiered in June",
-        "• The creator of the show thanked Prime Video and said it was \"Fun to make all around\" Jensen Ackles played Detective Mark Meachum on the show",
-        "• The finale ended with Oliveras running for her life "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Prime Video's Countdown and Butterfly were canceled",
-          "• The show premiered in June"
-        ],
-        "hopeful_bullets": [
-          "• Prime Video's Countdown and Butterfly were canceled",
-          "• The show premiered in June"
-        ],
-        "stakes_bullets": [
-          "• Prime Video's Countdown and Butterfly were canceled",
-          "• The show premiered in June",
-          "• The creator of the show thanked Prime Video and said it was \"Fun to make all around\" Jensen Ackles played Detective Mark Meachum on the show"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "963c1dd31a83"
     },
     {
       "id": "07ea88428611",
@@ -5244,42 +5372,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "77b4992a8660"
-    },
-    {
-      "id": "ca2988b02024",
-      "title": "A Knight of the Seven Kingdoms Creator Reveals the Show Should Last 3 Seasons",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/a-knight-of-the-seven-kingdoms-three-seasons/",
-      "published_at": "Fri, 10 Oct 2025 20:36:39 GMT",
-      "bullets": [
-        "• Game of Thrones prequel series A Knight of the Seven Kingdoms is set to premiere on HBO in January",
-        "• The show is based on the Tales of Dunk and Egg novellas by George R",
-        "• R",
-        "• Martin, of which there are three",
-        "• At six episodes, Season 1 is the shortest in the series, with Season 8 consisting of six episodes "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Game of Thrones prequel series A Knight of the Seven Kingdoms is set to premiere on HBO in January",
-          "• The show is based on the Tales of Dunk and Egg novellas by George R"
-        ],
-        "hopeful_bullets": [
-          "• Game of Thrones prequel series A Knight of the Seven Kingdoms is set to premiere on HBO in January",
-          "• The show is based on the Tales of Dunk and Egg novellas by George R"
-        ],
-        "stakes_bullets": [
-          "• Game of Thrones prequel series A Knight of the Seven Kingdoms is set to premiere on HBO in January",
-          "• The show is based on the Tales of Dunk and Egg novellas by George R",
-          "• R"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "49cf97ea49bf"
     },
     {
       "id": "2112aa0602fd",
@@ -6161,41 +6253,6 @@
       "cluster_id": "1525624d22ff"
     },
     {
-      "id": "d0bef9bdf7db",
-      "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
-      "published_at": "Fri, 10 Oct 2025 18:11:35 GMT",
-      "bullets": [
-        "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-        "• Hollywood groups have objected to the service's copyright policies",
-        "• Some of the prompts failed due to copyright infringement, while others worked",
-        "• Watch what happens when we put Sora 2 to the test "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-          "• Hollywood groups have objected to the service's copyright policies"
-        ],
-        "hopeful_bullets": [
-          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-          "• Hollywood groups have objected to the service's copyright policies"
-        ],
-        "stakes_bullets": [
-          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-          "• Hollywood groups have objected to the service's copyright policies",
-          "• Some of the prompts failed due to copyright infringement, while others worked"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a1b9f912178e"
-    },
-    {
       "id": "02908e62178e",
       "title": "Rachel Chinouriri Falls in Love Again and Again With Madonna, Charli XCX, and Herself",
       "outlet": "Music News",
@@ -6631,38 +6688,6 @@
       "cluster_id": "d02122c1026d"
     },
     {
-      "id": "981f95af6728",
-      "title": "Mattel Meets H.R. Giger With Stunning New ‘Alien’ Doll from the Monster High Collection!",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/toys/3908492/mattel-meets-h-r-giger-with-stunning-new-alien-doll-from-the-monster-high-collection/?utm_source=rss&utm_medium=rss&utm_campaign=mattel-meets-h-r-giger-with-stunning-new-alien-doll-from-the-monster-high-collection",
-      "published_at": "Fri, 10 Oct 2025 17:07:19 +0000",
-      "bullets": [
-        "• Mattel’s “Skullector” wave of their Monster High line has proven to be a treasure trove of incredible dolls based on horror properties",
-        "• Mattel Creations has unveiled a terrifyingly chic reimagining of the Xenomorph from the Alien franchise "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mattel’s “Skullector” wave of their Monster High line has proven to be a treasure trove of incredible dolls based on horror properties",
-          "• Mattel Creations has unveiled a terrifyingly chic reimagining of the Xenomorph from the Alien franchise "
-        ],
-        "hopeful_bullets": [
-          "• Mattel’s “Skullector” wave of their Monster High line has proven to be a treasure trove of incredible dolls based on horror properties",
-          "• Mattel Creations has unveiled a terrifyingly chic reimagining of the Xenomorph from the Alien franchise "
-        ],
-        "stakes_bullets": [
-          "• Mattel’s “Skullector” wave of their Monster High line has proven to be a treasure trove of incredible dolls based on horror properties",
-          "• Mattel Creations has unveiled a terrifyingly chic reimagining of the Xenomorph from the Alien franchise "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7d2f44313e1e"
-    },
-    {
       "id": "2d439c25841c",
       "title": "This free speech group at Columbia is taking on Trump when the university won’t – and winning",
       "outlet": "US news | The Guardian",
@@ -7032,29 +7057,29 @@
       "url": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
       "published_at": "Fri, 10 Oct 2025 14:27:00 -0400",
       "bullets": [
-        "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
-        "• OMB director Russell Vought said, \"The RIFs have begun\" Vought blamed the Biden administration for creating a \"bloated bureaucracy\""
+        "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+        "• Administration has offered few details on the scope of the layoffs",
+        "• Some federal employees have received actual layoff notices, while others have been notified merely of an intent to cut their workforce "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
-          "• OMB director Russell Vought said, \"The RIFs have begun\" Vought blamed the Biden administration for creating a \"bloated bureaucracy\""
+          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+          "• Administration has offered few details on the scope of the layoffs"
         ],
         "hopeful_bullets": [
-          "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
-          "• OMB director Russell Vought said, \"The RIFs have begun\" Vought blamed the Biden administration for creating a \"bloated bureaucracy\""
+          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
+          "• Administration has offered few details on the scope of the layoffs"
         ],
         "stakes_bullets": [
-          "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
-          "• OMB director Russell Vought said, \"The RIFs have begun\" Vought blamed the Biden administration for creating a \"bloated bureaucracy\""
+          "• Some federal employees have received actual layoff notices, while others have been notified merely of an intent to cut their workforce "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 6,
       "cluster_id": "9806aaf5e14e"
     },
     {
@@ -8479,31 +8504,31 @@
       "url": "https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale",
       "published_at": "2025-10-10T13:34:17-04:00",
       "bullets": [
-        "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
-        "• Even the newer C5 model is on sale, starting at $929.99 at Amazon",
+        "• LG’s C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at Amazon",
+        "• Even the newer C5 model is on sale, starting at $899.99 ($700 off) in the 48-inch sizing",
         "• Both TVs boast a stunning OLED display that delivers deep, inky blacks and rich, lifelike colors "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.993
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
-          "• Even the newer C5 model is on sale, starting at $929.99 at Amazon"
+          "• LG’s C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at Amazon",
+          "• Even the newer C5 model is on sale, starting at $899.99 ($700 off) in the 48-inch sizing"
         ],
         "hopeful_bullets": [
-          "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
-          "• Even the newer C5 model is on sale, starting at $929.99 at Amazon"
+          "• LG’s C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at Amazon",
+          "• Even the newer C5 model is on sale, starting at $899.99 ($700 off) in the 48-inch sizing"
         ],
         "stakes_bullets": [
-          "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
-          "• Even the newer C5 model is on sale, starting at $929.99 at Amazon",
+          "• LG’s C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at Amazon",
+          "• Even the newer C5 model is on sale, starting at $899.99 ($700 off) in the 48-inch sizing",
           "• Both TVs boast a stunning OLED display that delivers deep, inky blacks and rich, lifelike colors "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "e38188ea0e96"
     },
     {
@@ -8837,6 +8862,261 @@
       },
       "read_minutes": 9,
       "cluster_id": "8a1f3b14891e"
+    },
+    {
+      "id": "9382eb59f0cc",
+      "title": "Weekend predictions: Tron: Ares looking soft going into the weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260120830-Weekend-predictions-Tron-Ares-looking-soft-going-into-the-weekend",
+      "published_at": null,
+      "bullets": [
+        "• Tron: Ares looks as though it will more-or-less hit the same numbers as Taylor Swift did last weekend",
+        "• Soul on Fire looks likely to be the second-highest opener this weekend, based on its comps and a decent preview number for a faith-based film "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tron: Ares looks as though it will more-or-less hit the same numbers as Taylor Swift did last weekend",
+          "• Soul on Fire looks likely to be the second-highest opener this weekend, based on its comps and a decent preview number for a faith-based film "
+        ],
+        "hopeful_bullets": [
+          "• Tron: Ares looks as though it will more-or-less hit the same numbers as Taylor Swift did last weekend",
+          "• Soul on Fire looks likely to be the second-highest opener this weekend, based on its comps and a decent preview number for a faith-based film "
+        ],
+        "stakes_bullets": [
+          "• Tron: Ares looks as though it will more-or-less hit the same numbers as Taylor Swift did last weekend"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "466e018b9a94"
+    },
+    {
+      "id": "8e9daa1d39df",
+      "title": "Theater counts: Tron: Ares lights up 4,000 theaters across North America",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260110830-Theater-counts-Tron-Ares-lights-up-4-000-theaters-across-North-America",
+      "published_at": null,
+      "bullets": [
+        "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide",
+        "• The sci-fi action epic features an all-star cast led by Jared Leto as Ares, a super-intelligent entity torn between his programmed directives and the emergence of emotions "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide",
+          "• The sci-fi action epic features an all-star cast led by Jared Leto as Ares, a super-intelligent entity torn between his programmed directives and the emergence of emotions "
+        ],
+        "hopeful_bullets": [
+          "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide"
+        ],
+        "stakes_bullets": [
+          "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide",
+          "• The sci-fi action epic features an all-star cast led by Jared Leto as Ares, a super-intelligent entity torn between his programmed directives and the emergence of emotions "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e8cb4812f075"
+    },
+    {
+      "id": "6cc34dfb028d",
+      "title": "Weekend projections: Taylor Swift brings much-needed buzz to theaters",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260080830-Weekend-projections-Taylor-Swift-brings-much-needed-buzz-to-theaters",
+      "published_at": null,
+      "bullets": [
+        "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
+        "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
+          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
+        ],
+        "hopeful_bullets": [
+          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
+          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
+        ],
+        "stakes_bullets": [
+          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
+          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ff61f88758de"
+    },
+    {
+      "id": "f013c719b3de",
+      "title": "Weekend predictions: Taylor Swift set to have biggest party in theaters this weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260070830-Weekend-predictions-Taylor-Swift-set-to-have-biggest-party-in-theaters-this-weekend",
+      "published_at": null,
+      "bullets": [
+        "• Taylor Swift set to have biggest party in theaters this weekend, with Taylor Swift | The Official Release Party of a Showgirl set to dominate at the box office",
+        "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.875
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taylor Swift set to have biggest party in theaters this weekend, with Taylor Swift | The Official Release Party of a Showgirl set to dominate at the box office",
+          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
+        ],
+        "hopeful_bullets": [
+          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
+        ],
+        "stakes_bullets": [
+          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a868a6fe7739"
+    },
+    {
+      "id": "45c23c8d0be7",
+      "title": "Theater counts: Can One Battle After Another hold the line against Swift competition?",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260060830-Theater-counts-Can-One-Battle-After-Another-hold-the-line-against-Swift-competition",
+      "published_at": null,
+      "bullets": [
+        "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.698
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
+        ],
+        "hopeful_bullets": [
+          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
+        ],
+        "stakes_bullets": [
+          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2ede1ddb1e1a"
+    },
+    {
+      "id": "aed784fb3371",
+      "title": "The Numbers Business Report: 2026 Q2 Box Office Prediction",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260050830-Numbers-Business-Report-2026-Q2-Box-Office-Prediction-The",
+      "published_at": null,
+      "bullets": [
+        "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+        "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
+        "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
+        ],
+        "hopeful_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
+        ],
+        "stakes_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
+          "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7d4e7d428cef"
+    },
+    {
+      "id": "0e12ee20974d",
+      "title": "Weekend projections: One Battle After Another and Gabby’s Dollhouse hoping for good word-of-mouth after middling debuts",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260020830-Weekend-projections-One-Battle-After-Another-and-Gabbys-Dollhouse-hoping-for-good-word-of-mouth-after-middling-debuts",
+      "published_at": null,
+      "bullets": [
+        "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+        "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
+        "• $25 million for There Will be Blood), and marketing costs",
+        "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.509
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
+        ],
+        "hopeful_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
+        ],
+        "stakes_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
+          "• $25 million for There Will be Blood), and marketing costs",
+          "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2634fa7adbf2"
+    },
+    {
+      "id": "8bb731020288",
+      "title": "Weekend predictions: One Battle After Another will win the weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260010830-Weekend-predictions-One-Battle-After-Another-will-win-the-weekend",
+      "published_at": null,
+      "bullets": [
+        "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
+        "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
+        "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
+          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper"
+        ],
+        "hopeful_bullets": [
+          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million"
+        ],
+        "stakes_bullets": [
+          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
+          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
+          "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5671c89c706a"
     }
   ],
   "clusters": [
@@ -9566,6 +9846,24 @@
       ]
     },
     {
+      "id": "c04934c6d339",
+      "topic": "acquire apple deal near",
+      "keywords": [
+        "acquire",
+        "apple",
+        "deal",
+        "near",
+        "talent",
+        "technology"
+      ],
+      "item_ids": [
+        "00a5c1704fd6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "6c988f50455f",
       "topic": "administration begin federal layoff",
       "keywords": [
@@ -9686,24 +9984,6 @@
       ],
       "item_ids": [
         "9b4eb694aac8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a1b9f912178e",
-      "topic": "find generator openai sora",
-      "keywords": [
-        "find",
-        "generator",
-        "openai",
-        "sora",
-        "tested",
-        "video"
-      ],
-      "item_ids": [
-        "d0bef9bdf7db"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10548,24 +10828,6 @@
       ]
     },
     {
-      "id": "6760911b272d",
-      "topic": "600 arizona connect home",
-      "keywords": [
-        "600",
-        "arizona",
-        "connect",
-        "home",
-        "planned",
-        "tribe"
-      ],
-      "item_ids": [
-        "9fb2d8e40a3c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "4256f8991aff",
       "topic": "experience government high long",
       "keywords": [
@@ -10578,6 +10840,24 @@
       ],
       "item_ids": [
         "8ed599fe270c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
+      "keywords": [
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
+      ],
+      "item_ids": [
+        "9fb2d8e40a3c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11217,6 +11497,167 @@
       ]
     },
     {
+      "id": "466e018b9a94",
+      "topic": "ares looking prediction soft",
+      "keywords": [
+        "ares",
+        "looking",
+        "prediction",
+        "soft",
+        "tron",
+        "weekend"
+      ],
+      "item_ids": [
+        "9382eb59f0cc"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "e8cb4812f075",
+      "topic": "000 ares count light",
+      "keywords": [
+        "000",
+        "ares",
+        "count",
+        "light",
+        "theater",
+        "tron"
+      ],
+      "item_ids": [
+        "8e9daa1d39df"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "ff61f88758de",
+      "topic": "bring much projection swift",
+      "keywords": [
+        "bring",
+        "much",
+        "projection",
+        "swift",
+        "taylor",
+        "weekend"
+      ],
+      "item_ids": [
+        "6cc34dfb028d"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "a868a6fe7739",
+      "topic": "biggest prediction set swift",
+      "keywords": [
+        "biggest",
+        "prediction",
+        "set",
+        "swift",
+        "taylor",
+        "weekend"
+      ],
+      "item_ids": [
+        "f013c719b3de"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "2ede1ddb1e1a",
+      "topic": "another battle count hold",
+      "keywords": [
+        "another",
+        "battle",
+        "count",
+        "hold",
+        "line",
+        "theater"
+      ],
+      "item_ids": [
+        "45c23c8d0be7"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "7d4e7d428cef",
+      "topic": "2026 box busines number",
+      "keywords": [
+        "2026",
+        "box",
+        "busines",
+        "number",
+        "office",
+        "report"
+      ],
+      "item_ids": [
+        "aed784fb3371"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "2634fa7adbf2",
+      "topic": "another battle dollhouse gabby",
+      "keywords": [
+        "another",
+        "battle",
+        "dollhouse",
+        "gabby",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "0e12ee20974d"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "5671c89c706a",
+      "topic": "another battle prediction weekend",
+      "keywords": [
+        "another",
+        "battle",
+        "prediction",
+        "weekend",
+        "win"
+      ],
+      "item_ids": [
+        "8bb731020288"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "512e047429aa",
+      "topic": "buried giant included motion",
+      "keywords": [
+        "buried",
+        "giant",
+        "included",
+        "motion",
+        "stop",
+        "studio"
+      ],
+      "item_ids": [
+        "3c81037f7d4c"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "9e86aa625689",
       "topic": "action halloween michael myer",
       "keywords": [
@@ -11373,24 +11814,6 @@
       ],
       "item_ids": [
         "df11f5f37de5"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "7d2f44313e1e",
-      "topic": "alien doll giger mattel",
-      "keywords": [
-        "alien",
-        "doll",
-        "giger",
-        "mattel",
-        "meet",
-        "stunning"
-      ],
-      "item_ids": [
-        "981f95af6728"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12056,6 +12479,23 @@
       ]
     },
     {
+      "id": "3bcabf443022",
+      "topic": "guard kithaba skiff tvc15",
+      "keywords": [
+        "guard",
+        "kithaba",
+        "skiff",
+        "tvc15",
+        "vc56"
+      ],
+      "item_ids": [
+        "7ad2f7e820ca"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "fe5e873152df",
       "topic": "222 ben otoga quadinaro",
       "keywords": [
@@ -12653,6 +13093,78 @@
       ]
     },
     {
+      "id": "189cacdb0dfd",
+      "topic": "cast enemy getting kingpin",
+      "keywords": [
+        "cast",
+        "enemy",
+        "getting",
+        "kingpin",
+        "know",
+        "mcu"
+      ],
+      "item_ids": [
+        "196a206f80d4"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "63a335bb84ae",
+      "topic": "bros massive riddler star",
+      "keywords": [
+        "bros",
+        "massive",
+        "riddler",
+        "star",
+        "wanted",
+        "warner"
+      ],
+      "item_ids": [
+        "97567878ebcc"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f1131c542c3f",
+      "topic": "dorohedoro finally gets major",
+      "keywords": [
+        "dorohedoro",
+        "finally",
+        "gets",
+        "major",
+        "netflix",
+        "production"
+      ],
+      "item_ids": [
+        "d5d064418ade"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3b473b75456f",
+      "topic": "del guillermo hit most",
+      "keywords": [
+        "del",
+        "guillermo",
+        "hit",
+        "most",
+        "remain",
+        "toro"
+      ],
+      "item_ids": [
+        "d2abac09751b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "dc9d28dddfcf",
       "topic": "dark earth explained history",
       "keywords": [
@@ -12752,78 +13264,6 @@
       ],
       "item_ids": [
         "303fdac6b748"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8b65f481f72f",
-      "topic": "batman become controversial most",
-      "keywords": [
-        "batman",
-        "become",
-        "controversial",
-        "most",
-        "movie",
-        "storie"
-      ],
-      "item_ids": [
-        "fa01e8d717f2"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "b79a52d0ac0a",
-      "topic": "100 1923 despite ended",
-      "keywords": [
-        "100",
-        "1923",
-        "despite",
-        "ended",
-        "perfect",
-        "season"
-      ],
-      "item_ids": [
-        "f6d6b2eed165"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "963c1dd31a83",
-      "topic": "addresse cancellation confirm countdown",
-      "keywords": [
-        "addresse",
-        "cancellation",
-        "confirm",
-        "countdown",
-        "olivera",
-        "showrunner"
-      ],
-      "item_ids": [
-        "ea9a9f922101"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "49cf97ea49bf",
-      "topic": "creator kingdom knight reveal",
-      "keywords": [
-        "creator",
-        "kingdom",
-        "knight",
-        "reveal",
-        "seven",
-        "show"
-      ],
-      "item_ids": [
-        "ca2988b02024"
       ],
       "outlets": [
         "CBR"
