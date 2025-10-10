@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T05:18:26Z",
+  "generated_at": "2025-10-10T05:57:57Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -104,40 +104,6 @@
       "cluster_id": "5306313fe14f"
     },
     {
-      "id": "47832008a6d8",
-      "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
-      "published_at": "Wed, 08 Oct 2025 23:55:49 EDT",
-      "bullets": [
-        "• Scientists suggest the brain may work best with 7 senses, not just 5",
-        "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored",
-        "• Their analysis suggests memory works best in a seven-dimensional conceptual space — equivalent to having seven senses "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.952
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists suggest the brain may work best with 7 senses, not just 5",
-          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored"
-        ],
-        "hopeful_bullets": [
-          "• Scientists suggest the brain may work best with 7 senses, not just 5",
-          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored"
-        ],
-        "stakes_bullets": [
-          "• Scientists suggest the brain may work best with 7 senses, not just 5",
-          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored",
-          "• Their analysis suggests memory works best in a seven-dimensional conceptual space — equivalent to having seven senses "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d1a11753293f"
-    },
-    {
       "id": "6fb8e1b21083",
       "title": "Despite Stiff Opposition, an Alabama City Changes Its Laws to Accommodate Data Centers",
       "outlet": "Inside Climate News",
@@ -204,37 +170,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "801a15b5270d"
-    },
-    {
-      "id": "bfdaeddf64e8",
-      "title": "Scientists just found a molecule that could stop Parkinson’s in its tracks",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251008030949.htm",
-      "published_at": "Wed, 08 Oct 2025 23:24:48 EDT",
-      "bullets": [
-        "• Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias",
-        "• In lab and animal tests, it stabilized the protein and improved motor function",
-        "• The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias",
-          "• In lab and animal tests, it stabilized the protein and improved motor function"
-        ],
-        "hopeful_bullets": [
-          "• In lab and animal tests, it stabilized the protein and improved motor function"
-        ],
-        "stakes_bullets": [
-          "• The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "85faa0bc534f"
     },
     {
       "id": "551366e439b1",
@@ -1055,6 +990,71 @@
       "cluster_id": "e152660562c3"
     },
     {
+      "id": "47832008a6d8",
+      "title": "Scientists suggest the brain may work best with 7 senses, not just 5",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
+      "published_at": "Wed, 08 Oct 2025 03:09:55 EDT",
+      "bullets": [
+        "• Scientists suggest the brain may work best with 7 senses, not just 5",
+        "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored",
+        "• Their analysis suggests memory works best in a seven-dimensional conceptual space — equivalent to having seven senses "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists suggest the brain may work best with 7 senses, not just 5",
+          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored"
+        ],
+        "hopeful_bullets": [
+          "• Scientists suggest the brain may work best with 7 senses, not just 5",
+          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored"
+        ],
+        "stakes_bullets": [
+          "• Scientists suggest the brain may work best with 7 senses, not just 5",
+          "• Researchers at Skoltech developed a mathematical model of memory that explores how information is encoded and stored",
+          "• Their analysis suggests memory works best in a seven-dimensional conceptual space — equivalent to having seven senses "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d1a11753293f"
+    },
+    {
+      "id": "bfdaeddf64e8",
+      "title": "Scientists just found a molecule that could stop Parkinson’s in its tracks",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030949.htm",
+      "published_at": "Wed, 08 Oct 2025 03:09:49 EDT",
+      "bullets": [
+        "• Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias",
+        "• In lab and animal tests, it stabilized the protein and improved motor function",
+        "• The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias",
+          "• In lab and animal tests, it stabilized the protein and improved motor function"
+        ],
+        "hopeful_bullets": [
+          "• In lab and animal tests, it stabilized the protein and improved motor function"
+        ],
+        "stakes_bullets": [
+          "• The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "85faa0bc534f"
+    },
+    {
       "id": "ab5edfe2eb37",
       "title": "Glowing shark and hidden crab found deep off Australia",
       "outlet": "All Top News -- ScienceDaily",
@@ -1063,13 +1063,12 @@
       "bullets": [
         "• Glowing shark and hidden crab found deep off Australia highlight the dazzling adaptations of life in the deep sea",
         "• The discoveries were made from specimens collected during a 2022 CSIRO research voyage",
-        "• The West Australian Lanternshark is relatively small, with the largest specimen measuring just 407 millimeters long",
-        "• The large eyes are adapted for the dark depths of the ocean "
+        "• The West Australian Lanternshark is relatively small, with the largest specimen measuring just 407 millimeters long "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.994
+        "score": 0.98
       },
       "moods": {
         "brief_bullets": [
@@ -1082,7 +1081,7 @@
         "stakes_bullets": [
           "• Glowing shark and hidden crab found deep off Australia highlight the dazzling adaptations of life in the deep sea",
           "• The discoveries were made from specimens collected during a 2022 CSIRO research voyage",
-          "• The West Australian Lanternshark is relatively small, with the largest specimen measuring just 407 millimeters long"
+          "• The West Australian Lanternshark is relatively small, with the largest specimen measuring just 407 millimeters long "
         ]
       },
       "read_minutes": 3,
@@ -2375,40 +2374,6 @@
       "cluster_id": "fe5e873152df"
     },
     {
-      "id": "66a8549c23ee",
-      "title": "Former Fed Governor Larry Lindsey withdraws name for Fed chair",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/former-fed-governor-larry-lindsey-withdraws-name-for-fed-chair.html",
-      "published_at": "Thu, 09 Oct 2025 22:35:22 GMT",
-      "bullets": [
-        "• Larry Lindsey was one of the candidates being interviewed by Treasury Secretary Scott Bessent",
-        "• President Donald Trump has been considering a list of candidates to replace Federal Reserve Chairman Jerome Powell",
-        "• Lindsey: \"I have a very full varied and enjoyable life right now that I don't want to give up\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Larry Lindsey was one of the candidates being interviewed by Treasury Secretary Scott Bessent",
-          "• President Donald Trump has been considering a list of candidates to replace Federal Reserve Chairman Jerome Powell"
-        ],
-        "hopeful_bullets": [
-          "• Larry Lindsey was one of the candidates being interviewed by Treasury Secretary Scott Bessent",
-          "• President Donald Trump has been considering a list of candidates to replace Federal Reserve Chairman Jerome Powell"
-        ],
-        "stakes_bullets": [
-          "• Larry Lindsey was one of the candidates being interviewed by Treasury Secretary Scott Bessent",
-          "• President Donald Trump has been considering a list of candidates to replace Federal Reserve Chairman Jerome Powell",
-          "• Lindsey: \"I have a very full varied and enjoyable life right now that I don't want to give up\""
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "2f6f2775a3b1"
-    },
-    {
       "id": "2b744d6ea229",
       "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
       "outlet": "Ars Technica - All content",
@@ -3294,39 +3259,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d089f5582168"
-    },
-    {
-      "id": "0fc4fd7a3484",
-      "title": "IRS announces new federal income tax brackets for 2026",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/09/2026-federal-tax-brackets.html",
-      "published_at": "Thu, 09 Oct 2025 19:29:34 GMT",
-      "bullets": [
-        "• The IRS announces new income tax brackets and standard deductions for 2026",
-        "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600",
-        "• Single filers can claim $16,100, a bump up from $15,750",
-        "• The standard deduction will also rise to $32,200 for married couples filing jointly "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.931
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The IRS announces new income tax brackets and standard deductions for 2026",
-          "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600"
-        ],
-        "hopeful_bullets": [
-          "• The IRS announces new income tax brackets and standard deductions for 2026",
-          "• For 2026, the top rate of 37% applies to individuals with taxable income above $640,600"
-        ],
-        "stakes_bullets": [
-          "• The standard deduction will also rise to $32,200 for married couples filing jointly "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fd5046070208"
     },
     {
       "id": "2c50b4a4562e",
@@ -5425,39 +5357,6 @@
       "cluster_id": "8abc19042267"
     },
     {
-      "id": "a731745a7e7e",
-      "title": "China curbs rare earth exports, raising stakes before Trump-Xi talks",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/09/g-s1-92685/china-curbs-rare-earth-exports-raising-stakes-before-trump-xi-talks",
-      "published_at": "Thu, 09 Oct 2025 08:46:51 -0400",
-      "bullets": [
-        "• China introduces restrictions on exports of rare earths and related technology on Thursday",
-        "• Analysts say the move is an attempt to boost Beijing's leverage in trade talks with the U.S",
-        "• China processes around 90% of the world's rare earth, which are critical inputs in everything from smartphones to advanced fighter jets "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China introduces restrictions on exports of rare earths and related technology on Thursday",
-          "• Analysts say the move is an attempt to boost Beijing's leverage in trade talks with the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Analysts say the move is an attempt to boost Beijing's leverage in trade talks with the U.S"
-        ],
-        "stakes_bullets": [
-          "• China introduces restrictions on exports of rare earths and related technology on Thursday",
-          "• Analysts say the move is an attempt to boost Beijing's leverage in trade talks with the U.S",
-          "• China processes around 90% of the world's rare earth, which are critical inputs in everything from smartphones to advanced fighter jets "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "13d26b4c5395"
-    },
-    {
       "id": "b91a1bd4511d",
       "title": "JWST spots a hidden red supergiant just before it exploded",
       "outlet": "All Top News -- ScienceDaily",
@@ -7521,6 +7420,72 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "27d07923def2",
+      "title": "China's property slump this year is looking much worse than expected, S&P says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/chinas-property-slump-this-year-looks-worse-than-expected-sp-says.html",
+      "published_at": "Fri, 10 Oct 2025 05:29:13 GMT",
+      "bullets": [
+        "• S&P Global Ratings project sales of new homes will drop by 8% from last year to between 8 trillion yuan and 9 trillion yuan",
+        "• That's a far steeper decline than the 3% drop the ratings agency had predicted in May",
+        "• Beijing called for efforts to \"halt\" the real estate decline in September 2024 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• S&P Global Ratings project sales of new homes will drop by 8% from last year to between 8 trillion yuan and 9 trillion yuan",
+          "• That's a far steeper decline than the 3% drop the ratings agency had predicted in May"
+        ],
+        "hopeful_bullets": [
+          "• S&P Global Ratings project sales of new homes will drop by 8% from last year to between 8 trillion yuan and 9 trillion yuan",
+          "• That's a far steeper decline than the 3% drop the ratings agency had predicted in May"
+        ],
+        "stakes_bullets": [
+          "• S&P Global Ratings project sales of new homes will drop by 8% from last year to between 8 trillion yuan and 9 trillion yuan"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fd5b4dc6ff04"
+    },
+    {
+      "id": "e8dd620c64fe",
+      "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
+      "published_at": "Fri, 10 Oct 2025 05:27:35 GMT",
+      "bullets": [
+        "• A major trading platform in the U.K",
+        "• has issued a stark warning to investors hoping to cash in on relaxed crypto rules",
+        "• A longstanding ban on retail investors being able to access crypto exchange-traded notes (ETNs) was lifted on Oct",
+        "• 8",
+        "• Hargreaves Lansdowne urged British retail investors to be cautious about cryptocurrencies "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A major trading platform in the U.K",
+          "• has issued a stark warning to investors hoping to cash in on relaxed crypto rules"
+        ],
+        "hopeful_bullets": [
+          "• A major trading platform in the U.K",
+          "• has issued a stark warning to investors hoping to cash in on relaxed crypto rules"
+        ],
+        "stakes_bullets": [
+          "• A longstanding ban on retail investors being able to access crypto exchange-traded notes (ETNs) was lifted on Oct"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "08f0b8510519"
+    },
+    {
       "id": "aad1aae11311",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -8214,6 +8179,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "7646724e9470"
+    },
+    {
+      "id": "18a3e5f38c6d",
+      "title": "Peru's Congress votes to initiate impeachment trial of President Boluarte",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/10/nx-s1-5570600/perus-impeachment-trial-boluarte",
+      "published_at": "Fri, 10 Oct 2025 01:11:09 -0400",
+      "bullets": [
+        "• Peru's Congress votes to initiate impeachment trial of President Dina Boluarte",
+        "• Lawmakers vote to accept four requests for a vote to remove her from office",
+        "• They exceeded the minimum 56 votes required for each request, setting up a debate and impeachment trial",
+        "• A motion would then require 87 votes to remove the president "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.925
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Peru's Congress votes to initiate impeachment trial of President Dina Boluarte",
+          "• Lawmakers vote to accept four requests for a vote to remove her from office"
+        ],
+        "hopeful_bullets": [
+          "• Peru's Congress votes to initiate impeachment trial of President Dina Boluarte",
+          "• Lawmakers vote to accept four requests for a vote to remove her from office"
+        ],
+        "stakes_bullets": [
+          "• They exceeded the minimum 56 votes required for each request, setting up a debate and impeachment trial",
+          "• A motion would then require 87 votes to remove the president "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "62a5576d6b0e"
     },
     {
       "id": "d5aee07277dd",
@@ -9670,6 +9669,24 @@
       ]
     },
     {
+      "id": "62a5576d6b0e",
+      "topic": "congres impeachment initiate peru",
+      "keywords": [
+        "congres",
+        "impeachment",
+        "initiate",
+        "peru",
+        "trial",
+        "vote"
+      ],
+      "item_ids": [
+        "18a3e5f38c6d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "a86dc748cf65",
       "topic": "000 assault claim house",
       "keywords": [
@@ -9828,24 +9845,6 @@
       ]
     },
     {
-      "id": "13d26b4c5395",
-      "topic": "china curb earth export",
-      "keywords": [
-        "china",
-        "curb",
-        "earth",
-        "export",
-        "raising",
-        "rare"
-      ],
-      "item_ids": [
-        "a731745a7e7e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "fd0ea836a246",
       "topic": "called charge indicted jame",
       "keywords": [
@@ -9918,36 +9917,36 @@
       ]
     },
     {
-      "id": "a80a38b7e9ff",
-      "topic": "blacklist china chip firm",
+      "id": "fd5b4dc6ff04",
+      "topic": "china looking much property",
       "keywords": [
-        "blacklist",
         "china",
-        "chip",
-        "firm",
-        "major",
-        "research"
+        "looking",
+        "much",
+        "property",
+        "slump",
+        "year"
       ],
       "item_ids": [
-        "353e5eda57f4"
+        "27d07923def2"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "7646724e9470",
-      "topic": "electronic hit hynix record",
+      "id": "08f0b8510519",
+      "topic": "asset biggest bitcoin clas",
       "keywords": [
-        "electronic",
-        "hit",
-        "hynix",
-        "record",
-        "samsung",
-        "share"
+        "asset",
+        "biggest",
+        "bitcoin",
+        "clas",
+        "investment",
+        "platform"
       ],
       "item_ids": [
-        "0ae6c763343e"
+        "e8dd620c64fe"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9990,36 +9989,36 @@
       ]
     },
     {
-      "id": "2f6f2775a3b1",
-      "topic": "fed former governor larry",
+      "id": "a80a38b7e9ff",
+      "topic": "blacklist china chip firm",
       "keywords": [
-        "fed",
-        "former",
-        "governor",
-        "larry",
-        "lindsey",
-        "withdraw"
+        "blacklist",
+        "china",
+        "chip",
+        "firm",
+        "major",
+        "research"
       ],
       "item_ids": [
-        "66a8549c23ee"
+        "353e5eda57f4"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "fd5046070208",
-      "topic": "announce bracket federal income",
+      "id": "7646724e9470",
+      "topic": "electronic hit hynix record",
       "keywords": [
-        "announce",
-        "bracket",
-        "federal",
-        "income",
-        "irs",
-        "tax"
+        "electronic",
+        "hit",
+        "hynix",
+        "record",
+        "samsung",
+        "share"
       ],
       "item_ids": [
-        "0fc4fd7a3484"
+        "0ae6c763343e"
       ],
       "outlets": [
         "US Top News and Analysis"
