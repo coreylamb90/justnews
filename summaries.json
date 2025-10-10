@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T21:16:05Z",
+  "generated_at": "2025-10-10T21:53:36Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -135,41 +135,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "e7c039e05f7b"
-    },
-    {
-      "id": "98aebdc72852",
-      "title": "These Florida Communities Wanted to Be More Sustainable and Resilient. A New State Law Blocks Their Efforts.",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/08102025/florida-hurricane-disaster-policies/",
-      "published_at": "Wed, 08 Oct 2025 23:34:37 +0000",
-      "bullets": [
-        "• Manatee County commissioners are being threatened with removal from office",
-        "• The measures were meant to enhance disaster resilience in this fast-growing region",
-        "• One of the measures was intended to protect the wetlands and guard against future flooding",
-        "• The other would control sprawl by addressing a loophole that allowed development east of the line "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Manatee County commissioners are being threatened with removal from office",
-          "• The measures were meant to enhance disaster resilience in this fast-growing region"
-        ],
-        "hopeful_bullets": [
-          "• The measures were meant to enhance disaster resilience in this fast-growing region",
-          "• One of the measures was intended to protect the wetlands and guard against future flooding"
-        ],
-        "stakes_bullets": [
-          "• Manatee County commissioners are being threatened with removal from office",
-          "• The measures were meant to enhance disaster resilience in this fast-growing region",
-          "• One of the measures was intended to protect the wetlands and guard against future flooding"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "801a15b5270d"
     },
     {
       "id": "551366e439b1",
@@ -1221,6 +1186,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1254,38 +1251,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -1885,38 +1850,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "2b6b208e9ecf"
-    },
-    {
-      "id": "5b09aa2e83e9",
-      "title": "‘The Red Mask’ Exclusive Stills Reveal A New Slasher Villain",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/545770/the-red-mask-exclusive-stills-reveal-a-new-slasher-villain/",
-      "published_at": "Thu, 09 Oct 2025 19:30:11 +0000",
-      "bullets": [
-        "• Ritesh Gupta’s new film, The Red Mask, makes its US debut at Screamfest",
-        "• The chilling new feature is described as “A home invasion thriller with a postmodern edge” The film plays Screamfest on October 11, 2025, at 7:00 PM at the TCL Chinese Theatre "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ritesh Gupta’s new film, The Red Mask, makes its US debut at Screamfest",
-          "• The chilling new feature is described as “A home invasion thriller with a postmodern edge” The film plays Screamfest on October 11, 2025, at 7:00 PM at the TCL Chinese Theatre "
-        ],
-        "hopeful_bullets": [
-          "• Ritesh Gupta’s new film, The Red Mask, makes its US debut at Screamfest",
-          "• The chilling new feature is described as “A home invasion thriller with a postmodern edge” The film plays Screamfest on October 11, 2025, at 7:00 PM at the TCL Chinese Theatre "
-        ],
-        "stakes_bullets": [
-          "• Ritesh Gupta’s new film, The Red Mask, makes its US debut at Screamfest",
-          "• The chilling new feature is described as “A home invasion thriller with a postmodern edge” The film plays Screamfest on October 11, 2025, at 7:00 PM at the TCL Chinese Theatre "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b56c7d091280"
     },
     {
       "id": "499d59dbb6d7",
@@ -4250,6 +4183,571 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "8b7d9d184a78",
+      "title": "10 Overrated 1990s Anime That Are Unwatchable Today",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/overrated-90s-anime-aged-poorly/",
+      "published_at": "Fri, 10 Oct 2025 21:40:16 GMT",
+      "bullets": [
+        "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
+        "• This is especially true as newer creators are constantly refining the same ideas",
+        "• Despite all this, much of the popular 1990s anime has aged poorly",
+        "• There were repetitive monster-of-the-week plots and many filler episodes "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
+          "• This is especially true as newer creators are constantly refining the same ideas"
+        ],
+        "hopeful_bullets": [
+          "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
+          "• This is especially true as newer creators are constantly refining the same ideas"
+        ],
+        "stakes_bullets": [
+          "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
+          "• This is especially true as newer creators are constantly refining the same ideas",
+          "• Despite all this, much of the popular 1990s anime has aged poorly"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "9c920fc051cd"
+    },
+    {
+      "id": "2b7d096d00ea",
+      "title": "Journey’s Jonathan Cain to Leave Band After One More Tour",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/journey-jonathan-cain-leave-band-one-more-tour-1235445237/",
+      "published_at": "Fri, 10 Oct 2025 21:38:23 +0000",
+      "bullets": [
+        "• Journey’s Jonathan Cain is set to depart the band after one more tour",
+        "• Cain's longtime bandmate Neal Schon effectively broke the news on social media last night",
+        "• It's unclear if the band will continue without Cain after that tour "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Journey’s Jonathan Cain is set to depart the band after one more tour",
+          "• Cain's longtime bandmate Neal Schon effectively broke the news on social media last night"
+        ],
+        "hopeful_bullets": [
+          "• Journey’s Jonathan Cain is set to depart the band after one more tour",
+          "• Cain's longtime bandmate Neal Schon effectively broke the news on social media last night"
+        ],
+        "stakes_bullets": [
+          "• Journey’s Jonathan Cain is set to depart the band after one more tour",
+          "• Cain's longtime bandmate Neal Schon effectively broke the news on social media last night",
+          "• It's unclear if the band will continue without Cain after that tour "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1840da40622a"
+    },
+    {
+      "id": "6d40378f3757",
+      "title": "HBO Can Officially Erase Harry Potter’s Biggest Dumbledore Mistake Since Fantastic Beasts",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/hbo-harry-potter-reboot-dumbledore-backstory/",
+      "published_at": "Fri, 10 Oct 2025 21:30:12 GMT",
+      "bullets": [
+        "• HBO’s Harry Potter reboot has overwhelmed the entertainment news cycle, and the series hasn’t even premiered yet",
+        "• The eight-film series had to make tough decisions and cut where necessary",
+        "• The new reboot offers a chance to rectify this, largely in the case of Albus Dumbledore "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.53
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HBO’s Harry Potter reboot has overwhelmed the entertainment news cycle, and the series hasn’t even premiered yet",
+          "• The eight-film series had to make tough decisions and cut where necessary"
+        ],
+        "hopeful_bullets": [
+          "• HBO’s Harry Potter reboot has overwhelmed the entertainment news cycle, and the series hasn’t even premiered yet",
+          "• The eight-film series had to make tough decisions and cut where necessary"
+        ],
+        "stakes_bullets": [
+          "• The eight-film series had to make tough decisions and cut where necessary"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "3cae4dde54c9"
+    },
+    {
+      "id": "9bea45fcf9e3",
+      "title": "EXCLUSIVE ‘Vicious’ Clip: Dakota Fanning Discusses The Film’s Cursed Box",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/545929/exclusive-vicious-clip-dakota-fanning-discusses-the-films-cursed-box/",
+      "published_at": "Fri, 10 Oct 2025 21:25:57 +0000",
+      "bullets": [
+        "• Dakota Fanning discusses the cursed box at the center of the film",
+        "• Fanning stars in the film with Kathryn Hunter, Mary McCormack, Rachel Blanchard, Devyn Nekoda, Klea Scott and Emily Mitchell",
+        "• In our exclusive clip from the film’s special features, Fanning talks about the film's cursed box "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dakota Fanning discusses the cursed box at the center of the film",
+          "• Fanning stars in the film with Kathryn Hunter, Mary McCormack, Rachel Blanchard, Devyn Nekoda, Klea Scott and Emily Mitchell"
+        ],
+        "hopeful_bullets": [
+          "• Dakota Fanning discusses the cursed box at the center of the film",
+          "• Fanning stars in the film with Kathryn Hunter, Mary McCormack, Rachel Blanchard, Devyn Nekoda, Klea Scott and Emily Mitchell"
+        ],
+        "stakes_bullets": [
+          "• Dakota Fanning discusses the cursed box at the center of the film",
+          "• Fanning stars in the film with Kathryn Hunter, Mary McCormack, Rachel Blanchard, Devyn Nekoda, Klea Scott and Emily Mitchell",
+          "• In our exclusive clip from the film’s special features, Fanning talks about the film's cursed box "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "218b88ed6a8b"
+    },
+    {
+      "id": "7de362db18a3",
+      "title": "The Trump Administration Is Cutting Billions in Clean Energy Investments—But the Savings Are Overstated",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/10102025/the-trump-administration-is-cutting-billions-in-clean-energy-grants-but-savings-are-overstated/",
+      "published_at": "Fri, 10 Oct 2025 21:25:36 +0000",
+      "bullets": [
+        "• Leaked list of clean energy projects targeted by the U.S",
+        "• Department of Energy lists 327 new projects",
+        "• The list is widely circulated among lobbyists, members of Congress and news outlets",
+        "• Some recipients of the targeted projects have vowed to continue with their work, though scale and speed may suffer "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Leaked list of clean energy projects targeted by the U.S",
+          "• Department of Energy lists 327 new projects"
+        ],
+        "hopeful_bullets": [
+          "• Leaked list of clean energy projects targeted by the U.S",
+          "• Department of Energy lists 327 new projects"
+        ],
+        "stakes_bullets": [
+          "• Leaked list of clean energy projects targeted by the U.S",
+          "• Department of Energy lists 327 new projects",
+          "• The list is widely circulated among lobbyists, members of Congress and news outlets"
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "7d3762727e9b"
+    },
+    {
+      "id": "541727fbe1cf",
+      "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
+      "published_at": "Fri, 10 Oct 2025 21:22:15 GMT",
+      "bullets": [
+        "• Shares of Amazon, Nvidia and Tesla each dropped around 5% on Friday, as tech's megacaps lost $770 billion in market cap",
+        "• Nasdaq down 3.6% and S&P 500 down 2.7% for worst day since April, when Trump said he would slap \"reciprocal\" duties on U.S",
+        "• trading partners "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares of Amazon, Nvidia and Tesla each dropped around 5% on Friday, as tech's megacaps lost $770 billion in market cap",
+          "• Nasdaq down 3.6% and S&P 500 down 2.7% for worst day since April, when Trump said he would slap \"reciprocal\" duties on U.S"
+        ],
+        "hopeful_bullets": [
+          "• Shares of Amazon, Nvidia and Tesla each dropped around 5% on Friday, as tech's megacaps lost $770 billion in market cap",
+          "• Nasdaq down 3.6% and S&P 500 down 2.7% for worst day since April, when Trump said he would slap \"reciprocal\" duties on U.S"
+        ],
+        "stakes_bullets": [
+          "• Shares of Amazon, Nvidia and Tesla each dropped around 5% on Friday, as tech's megacaps lost $770 billion in market cap"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6516161bc30e"
+    },
+    {
+      "id": "3958cd1e3e75",
+      "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+      "published_at": "Fri, 10 Oct 2025 21:20:49 GMT",
+      "bullets": [
+        "• U.S",
+        "• will impose new tariffs of 100% on imports from China \"over and above any Tariff that they are currently paying,\" starting on Nov",
+        "• 1",
+        "• The president's announcement comes hours after he threatened to slap \"a massive increase\" of tariffs on Chinese imports in retaliation for new controls that China imposed on exports of rare earths minerals "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• will impose new tariffs of 100% on imports from China \"over and above any Tariff that they are currently paying,\" starting on Nov"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• will impose new tariffs of 100% on imports from China \"over and above any Tariff that they are currently paying,\" starting on Nov"
+        ],
+        "stakes_bullets": [
+          "• will impose new tariffs of 100% on imports from China \"over and above any Tariff that they are currently paying,\" starting on Nov",
+          "• The president's announcement comes hours after he threatened to slap \"a massive increase\" of tariffs on Chinese imports in retaliation for new controls that China imposed on exports of rare earths minerals "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fd22abbdbe9e"
+    },
+    {
+      "id": "07f01940f0d9",
+      "title": "Govini, a defense tech startup taking on Palantir, hits $100 million in annual recurring revenue",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/defense-tech-govini-palantir-revenue.html",
+      "published_at": "Fri, 10 Oct 2025 21:16:32 GMT",
+      "bullets": [
+        "• Palantir software company has blown past $100 million in annual recurring revenue",
+        "• It plans to use the money to expand its team and product offering to satisfy security demands",
+        "• The company has already secured a string of big wins in recent years, including an over $900-million government contract "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Palantir software company has blown past $100 million in annual recurring revenue",
+          "• It plans to use the money to expand its team and product offering to satisfy security demands"
+        ],
+        "hopeful_bullets": [
+          "• The company has already secured a string of big wins in recent years, including an over $900-million government contract "
+        ],
+        "stakes_bullets": [
+          "• It plans to use the money to expand its team and product offering to satisfy security demands"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8258289f8e1d"
+    },
+    {
+      "id": "1889dd3f3312",
+      "title": "Macron reappoints Lecornu as French PM after days of turmoil",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 21:15:47 GMT",
+      "bullets": [
+        "• Lecornu's return as French prime minister is a surprise",
+        "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government",
+        "• He is not certain he will be able to form the government "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lecornu's return as French prime minister is a surprise",
+          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government"
+        ],
+        "hopeful_bullets": [
+          "• Lecornu's return as French prime minister is a surprise",
+          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government"
+        ],
+        "stakes_bullets": [
+          "• He said he was not \"chasing the job\" and his \"mission is over\" The new PM faces a deadline on Monday to form a government",
+          "• He is not certain he will be able to form the government "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6cacdf7ad90f"
+    },
+    {
+      "id": "303fdac6b748",
+      "title": "Upcoming Marvel Project Being Called 'The Best Show No One's Ever Seen' By Producer",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/wonder-man-best-show-no-ones-ever-seen/",
+      "published_at": "Fri, 10 Oct 2025 21:15:12 GMT",
+      "bullets": [
+        "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
+        "• Marvel Zombies was the latest animated series to spin out of the franchise",
+        "• Wonder Man is the next Marvel Studios project set to release on Disney+ before the end of this year "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
+          "• Marvel Zombies was the latest animated series to spin out of the franchise"
+        ],
+        "hopeful_bullets": [
+          "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
+          "• Marvel Zombies was the latest animated series to spin out of the franchise"
+        ],
+        "stakes_bullets": [
+          "• The Marvel Cinematic Universe may not have many upcoming projects, but it does have some intriguing ones",
+          "• Marvel Zombies was the latest animated series to spin out of the franchise",
+          "• Wonder Man is the next Marvel Studios project set to release on Disney+ before the end of this year "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "a1e80885f8ba"
+    },
+    {
+      "id": "5a5a3b539c6e",
+      "title": "Ceasefire comes into force as Israel's military pulls out of parts of Gaza",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 21:14:01 GMT",
+      "bullets": [
+        "• Ceasefire agreement between Israel and Hamas comes into effect in Gaza",
+        "• Troops have pulled back to an agreed position within the Gaza Strip",
+        "• Israel has until 12:00 local time (10:00 BST) on Monday to release all hostages "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ceasefire agreement between Israel and Hamas comes into effect in Gaza",
+          "• Troops have pulled back to an agreed position within the Gaza Strip"
+        ],
+        "hopeful_bullets": [
+          "• Ceasefire agreement between Israel and Hamas comes into effect in Gaza",
+          "• Troops have pulled back to an agreed position within the Gaza Strip"
+        ],
+        "stakes_bullets": [
+          "• Ceasefire agreement between Israel and Hamas comes into effect in Gaza"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f0ae26243e5c"
+    },
+    {
+      "id": "8f59375e7965",
+      "title": "Major Russian strikes cut power in Kyiv and across Ukraine",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 21:12:11 GMT",
+      "bullets": [
+        "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
+        "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity",
+        "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's military-industrial complex "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
+          "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity"
+        ],
+        "hopeful_bullets": [
+          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
+          "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity"
+        ],
+        "stakes_bullets": [
+          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8b533990aa62"
+    },
+    {
+      "id": "30ece4b1f0a4",
+      "title": "Trump threatens 100% China tariffs as Beijing restricts rare-earth exports",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs",
+      "published_at": "Fri, 10 Oct 2025 21:11:36 GMT",
+      "bullets": [
+        "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
+        "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry",
+        "• Wall Street fell sharply after the president reignited public tensions with the Chinese government "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
+          "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
+          "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
+          "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry",
+          "• Wall Street fell sharply after the president reignited public tensions with the Chinese government "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4f614d3de9d9"
+    },
+    {
+      "id": "70cdad8ca386",
+      "title": "‘Halloween: Resurrection’ Michael Myers Ultimate Action Figure Available from NECA",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/toys/3908474/halloween-resurrection-michael-myers-ultimate-action-figure-available-from-neca/?utm_source=rss&utm_medium=rss&utm_campaign=halloween-resurrection-michael-myers-ultimate-action-figure-available-from-neca",
+      "published_at": "Fri, 10 Oct 2025 21:09:17 +0000",
+      "bullets": [
+        "• NECA has released its Halloween: Resurrection Michael Myers ultimate action figure",
+        "• The 7″ scale toy is fully articulated and includes seven interchangeable hands, two kitchen knives, a camera on tripod, doll, and Jack-o-lantern",
+        "• Released in 2002, the eighth installment in the slasher franchise is directed by Rick Rosenthal "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NECA has released its Halloween: Resurrection Michael Myers ultimate action figure",
+          "• The 7″ scale toy is fully articulated and includes seven interchangeable hands, two kitchen knives, a camera on tripod, doll, and Jack-o-lantern"
+        ],
+        "hopeful_bullets": [
+          "• NECA has released its Halloween: Resurrection Michael Myers ultimate action figure",
+          "• The 7″ scale toy is fully articulated and includes seven interchangeable hands, two kitchen knives, a camera on tripod, doll, and Jack-o-lantern"
+        ],
+        "stakes_bullets": [
+          "• NECA has released its Halloween: Resurrection Michael Myers ultimate action figure",
+          "• The 7″ scale toy is fully articulated and includes seven interchangeable hands, two kitchen knives, a camera on tripod, doll, and Jack-o-lantern",
+          "• Released in 2002, the eighth installment in the slasher franchise is directed by Rick Rosenthal "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9e86aa625689"
+    },
+    {
+      "id": "965b41427b21",
+      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "published_at": "Fri, 10 Oct 2025 21:09:09 GMT",
+      "bullets": [
+        "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
+        "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
+          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
+        ],
+        "hopeful_bullets": [
+          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
+          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
+        ],
+        "stakes_bullets": [
+          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
+          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6c988f50455f"
+    },
+    {
+      "id": "f0beaa865c7f",
+      "title": "‘Substantial’ federal layoffs begin as Congress remains deadlocked over funding to end shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
+      "published_at": "Fri, 10 Oct 2025 21:07:41 GMT",
+      "bullets": [
+        "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+        "• Trump threatens additional 100% tariff on imports from China, and export controls on software",
+        "• The wave of layoffs at federal agencies has reportedly reached the Internal Revenue Service (IRS)"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+          "• Trump threatens additional 100% tariff on imports from China, and export controls on software"
+        ],
+        "hopeful_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies"
+        ],
+        "stakes_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+          "• Trump threatens additional 100% tariff on imports from China, and export controls on software",
+          "• The wave of layoffs at federal agencies has reportedly reached the Internal Revenue Service (IRS)"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "0d13bcd4141e"
+    },
+    {
+      "id": "203333e6ca0c",
+      "title": "US markets reel as Trump threatens to pull out of meeting with China's Xi",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 21:07:35 GMT",
+      "bullets": [
+        "• US markets reel as Trump threatens to pull out of meeting with China's Xi Jinping",
+        "• Trump hit back at Beijing's move to tighten rules for exports of rare earths",
+        "• The S&P 500 closes down 2.7%, its steepest fall since April "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US markets reel as Trump threatens to pull out of meeting with China's Xi Jinping",
+          "• Trump hit back at Beijing's move to tighten rules for exports of rare earths"
+        ],
+        "hopeful_bullets": [
+          "• US markets reel as Trump threatens to pull out of meeting with China's Xi Jinping",
+          "• Trump hit back at Beijing's move to tighten rules for exports of rare earths"
+        ],
+        "stakes_bullets": [
+          "• US markets reel as Trump threatens to pull out of meeting with China's Xi Jinping",
+          "• Trump hit back at Beijing's move to tighten rules for exports of rare earths",
+          "• The S&P 500 closes down 2.7%, its steepest fall since April "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "baf36f1a1259"
+    },
+    {
       "id": "39cda6cbe5c7",
       "title": "Neil Young Says to ‘Forget’ Amazon: ‘Soon My Music Will Not Be There’",
       "outlet": "Music News",
@@ -4355,33 +4853,63 @@
       "url": "https://bloody-disgusting.com/movie/3908575/where-has-ellen-ripley-gone-sigourney-weaver-has-met-with-disney-about-a-potential-alien-return/?utm_source=rss&utm_medium=rss&utm_campaign=where-has-ellen-ripley-gone-sigourney-weaver-has-met-with-disney-about-a-potential-alien-return",
       "published_at": "Fri, 10 Oct 2025 20:59:22 +0000",
       "bullets": [
-        "• Sigourney Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
-        "• Weaver said in August 2024 that she would “consider” a return to the franchise",
-        "• A sequel to Fede Alvarez’s Alien: Romulus is in development",
-        "• Noah Hawley's series “Alien: Earth” wrapping up its first season "
+        "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
+        "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
+        "• Weaver said in August 2024 that she would “consider” a return "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 0.973
+        "score": 0.851
       },
       "moods": {
         "brief_bullets": [
-          "• Sigourney Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
-          "• Weaver said in August 2024 that she would “consider” a return to the franchise"
+          "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
+          "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley"
         ],
         "hopeful_bullets": [
-          "• Sigourney Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
-          "• Weaver said in August 2024 that she would “consider” a return to the franchise"
+          "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
+          "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley"
         ],
         "stakes_bullets": [
-          "• Sigourney Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
-          "• Weaver said in August 2024 that she would “consider” a return to the franchise",
-          "• A sequel to Fede Alvarez’s Alien: Romulus is in development"
+          "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
+          "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
+          "• Weaver said in August 2024 that she would “consider” a return "
         ]
       },
       "read_minutes": 2,
       "cluster_id": "96a2d7222519"
+    },
+    {
+      "id": "1e1d92522447",
+      "title": "Airlines tell passengers to prepare for delays as government shutdown continues",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/government-shutdown-airlines-passengers-delays.html",
+      "published_at": "Fri, 10 Oct 2025 20:57:46 GMT",
+      "bullets": [
+        "• Air traffic controller shortages this week delayed flights at some U.S",
+        "• airports",
+        "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Air traffic controller shortages this week delayed flights at some U.S",
+          "• airports"
+        ],
+        "hopeful_bullets": [
+          "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
+        ],
+        "stakes_bullets": [
+          "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5825a5177df2"
     },
     {
       "id": "ea9a9f922101",
@@ -4591,37 +5119,6 @@
       "cluster_id": "8504ad798b17"
     },
     {
-      "id": "1889dd3f3312",
-      "title": "Macron reappoints Lecornu as French PM after days of turmoil",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 20:34:08 GMT",
-      "bullets": [
-        "• Lecornu has been tasked with forming a government for the next 18 months",
-        "• He said he was not \"chasing the job\" and his \"mission is over\" and will not be able to \"shirk\" the French government "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.885
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lecornu has been tasked with forming a government for the next 18 months",
-          "• He said he was not \"chasing the job\" and his \"mission is over\" and will not be able to \"shirk\" the French government "
-        ],
-        "hopeful_bullets": [
-          "• Lecornu has been tasked with forming a government for the next 18 months",
-          "• He said he was not \"chasing the job\" and his \"mission is over\" and will not be able to \"shirk\" the French government "
-        ],
-        "stakes_bullets": [
-          "• He said he was not \"chasing the job\" and his \"mission is over\" and will not be able to \"shirk\" the French government "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6cacdf7ad90f"
-    },
-    {
       "id": "aef3692e70fb",
       "title": "The mortgage fraud case against Letitia James is ‘bupkis’, experts say",
       "outlet": "US news | The Guardian",
@@ -4654,41 +5151,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a84ca1adeeaf"
-    },
-    {
-      "id": "203333e6ca0c",
-      "title": "US markets reel as Trump threatens to pull out of meeting with China's Xi",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 20:29:36 GMT",
-      "bullets": [
-        "• President Xi Jinping threatens to impose new rules on China's rare-earth trade",
-        "• China is the world's largest producer of rare earths",
-        "• The U.S",
-        "• has been in talks with the Chinese government over the issue of China's trade embargo on the rare earth "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.931
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Xi Jinping threatens to impose new rules on China's rare-earth trade",
-          "• China is the world's largest producer of rare earths"
-        ],
-        "hopeful_bullets": [
-          "• President Xi Jinping threatens to impose new rules on China's rare-earth trade",
-          "• China is the world's largest producer of rare earths"
-        ],
-        "stakes_bullets": [
-          "• President Xi Jinping threatens to impose new rules on China's rare-earth trade",
-          "• China is the world's largest producer of rare earths",
-          "• The U.S"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "baf36f1a1259"
     },
     {
       "id": "ad1eb6601679",
@@ -4822,40 +5284,6 @@
       "cluster_id": "2b9775212f3f"
     },
     {
-      "id": "30ece4b1f0a4",
-      "title": "Trump threatens ‘massive’ China tariffs as Beijing restricts rare-earth exports",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs",
-      "published_at": "Fri, 10 Oct 2025 20:10:31 GMT",
-      "bullets": [
-        "• Trump accuses China of 'very hostile' moves to restrict exports of rare earths needed for U.S",
-        "• industry",
-        "• Wall Street falls sharply after the US president reignited public tensions with the Chinese government",
-        "• Relations had improved between Washington and Beijing over the summer after a tariff reduction deal "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump accuses China of 'very hostile' moves to restrict exports of rare earths needed for U.S",
-          "• industry"
-        ],
-        "hopeful_bullets": [
-          "• Relations had improved between Washington and Beijing over the summer after a tariff reduction deal "
-        ],
-        "stakes_bullets": [
-          "• Trump accuses China of 'very hostile' moves to restrict exports of rare earths needed for U.S",
-          "• industry",
-          "• Wall Street falls sharply after the US president reignited public tensions with the Chinese government"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f13e637084a9"
-    },
-    {
       "id": "cdebba1134d8",
       "title": "Friday, October 10 – These 11 New Horror Movies Released This Week",
       "outlet": "Bloody Disgusting!",
@@ -4920,39 +5348,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8d57a6851e65"
-    },
-    {
-      "id": "f0beaa865c7f",
-      "title": "‘Substantial’ federal layoffs begin as Congress remains deadlocked over funding to end shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
-      "published_at": "Fri, 10 Oct 2025 20:02:56 GMT",
-      "bullets": [
-        "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
-        "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security",
-        "• Former New York prosecutor Jessica Roth said it was “extremely distressing” to see prosecutions brought against the president’s perceived political enemies "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
-          "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security"
-        ],
-        "hopeful_bullets": [
-          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
-          "• Former New York prosecutor Jessica Roth said it was “extremely distressing” to see prosecutions brought against the president’s perceived political enemies "
-        ],
-        "stakes_bullets": [
-          "• Laidings are expected at the Department of Education, Department of Health and Human Services and Department of Homeland Security",
-          "• Former New York prosecutor Jessica Roth said it was “extremely distressing” to see prosecutions brought against the president’s perceived political enemies "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "0d13bcd4141e"
     },
     {
       "id": "fbd246ca1331",
@@ -5251,37 +5646,6 @@
       "cluster_id": "df92db430efc"
     },
     {
-      "id": "1e1d92522447",
-      "title": "Airlines tell passengers to prepare for delays as government shutdown continues",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/government-shutdown-airlines-passengers-delays.html",
-      "published_at": "Fri, 10 Oct 2025 19:43:14 GMT",
-      "bullets": [
-        "• Air traffic controller shortages this week delayed flights at some U.S",
-        "• airports",
-        "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Air traffic controller shortages this week delayed flights at some U.S",
-          "• airports"
-        ],
-        "hopeful_bullets": [
-          "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
-        ],
-        "stakes_bullets": [
-          "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "5825a5177df2"
-    },
-    {
       "id": "830002d74359",
       "title": "Horror Highlights: BEEFY FRANK, HUXLEY: THE ORACLE, THE DISINVITED",
       "outlet": "Daily Dead",
@@ -5475,110 +5839,6 @@
       "cluster_id": "a480f9f93584"
     },
     {
-      "id": "803d9e6d8c13",
-      "title": "Trump nominee Paul Ingrassia reportedly accused of sexual harassment",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-ingrassia-accused-sexual-harassment.html",
-      "published_at": "Fri, 10 Oct 2025 19:21:21 GMT",
-      "bullets": [
-        "• President Donald Trump's nominee to head the U.S",
-        "• Office of Special Counsel, Paul Ingrassia, was accused of sexual harassment",
-        "• He was investigated in connection with an incident in late July in which he told a lower-ranking female colleague that she would be sharing a hotel room with him, Politico reported",
-        "• The woman \"initially protested\" the arrangement, but relented in order to avoid causing a scene around other colleagues, officials said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump's nominee to head the U.S",
-          "• Office of Special Counsel, Paul Ingrassia, was accused of sexual harassment"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump's nominee to head the U.S",
-          "• Office of Special Counsel, Paul Ingrassia, was accused of sexual harassment"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump's nominee to head the U.S",
-          "• Office of Special Counsel, Paul Ingrassia, was accused of sexual harassment",
-          "• He was investigated in connection with an incident in late July in which he told a lower-ranking female colleague that she would be sharing a hotel room with him, Politico reported"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "710e04661e9d"
-    },
-    {
-      "id": "9f9252fd605a",
-      "title": "Hazbin Hotel Creator Addresses Season 4 Renewal With Exciting Story Update",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/hazbin-hotel-season-4-update-curse-blessing-vivienne-medrano/",
-      "published_at": "Fri, 10 Oct 2025 19:15:33 GMT",
-      "bullets": [
-        "• Vivienne Medrano was able to bring Hazbin Hotel to life in large part due to the support of her online fans",
-        "• After finding success on YouTube, the animated series moved to Prime Video and was rewarded with a four-season renewal",
-        "• Medrano calls this long leash a blessing and a curse "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Vivienne Medrano was able to bring Hazbin Hotel to life in large part due to the support of her online fans",
-          "• After finding success on YouTube, the animated series moved to Prime Video and was rewarded with a four-season renewal"
-        ],
-        "hopeful_bullets": [
-          "• Vivienne Medrano was able to bring Hazbin Hotel to life in large part due to the support of her online fans",
-          "• After finding success on YouTube, the animated series moved to Prime Video and was rewarded with a four-season renewal"
-        ],
-        "stakes_bullets": [
-          "• Vivienne Medrano was able to bring Hazbin Hotel to life in large part due to the support of her online fans",
-          "• After finding success on YouTube, the animated series moved to Prime Video and was rewarded with a four-season renewal",
-          "• Medrano calls this long leash a blessing and a curse "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "975640ce1606"
-    },
-    {
-      "id": "e8b8aebf84f3",
-      "title": "10 Insane Anime Endings You Won't Believe",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/10-weirdest-saddest-anime-endings-ranked/",
-      "published_at": "Fri, 10 Oct 2025 19:15:12 GMT",
-      "bullets": [
-        "• With a typical anime, fans can often have a sense of how it's going to end from early on",
-        "• Other times, an anime's ending can be completely insane",
-        "• With the Eclipse, everything for Guts and the world around him goes to Hell",
-        "• Even some anime movies possess endings that make viewers question everything they just watched "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.704
-      },
-      "moods": {
-        "brief_bullets": [
-          "• With a typical anime, fans can often have a sense of how it's going to end from early on",
-          "• Other times, an anime's ending can be completely insane"
-        ],
-        "hopeful_bullets": [
-          "• With a typical anime, fans can often have a sense of how it's going to end from early on",
-          "• Other times, an anime's ending can be completely insane"
-        ],
-        "stakes_bullets": [
-          "• With a typical anime, fans can often have a sense of how it's going to end from early on",
-          "• Other times, an anime's ending can be completely insane",
-          "• With the Eclipse, everything for Guts and the world around him goes to Hell"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "479f0e303442"
-    },
-    {
       "id": "c32e18262f9e",
       "title": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
       "outlet": "Ars Technica - All content",
@@ -5609,38 +5869,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "166a8653747f"
-    },
-    {
-      "id": "965b41427b21",
-      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-      "published_at": "Fri, 10 Oct 2025 19:06:32 GMT",
-      "bullets": [
-        "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-        "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-        ],
-        "hopeful_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-        ],
-        "stakes_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" Vought leads the Office of Management and Budget",
-          "• Senate Minority Leader Chuck Schumer: \"Nobody's forcing Trump and Vought to do this\" The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6c988f50455f"
     },
     {
       "id": "1acaefacc685",
@@ -5675,40 +5903,6 @@
       "cluster_id": "1fb6a0ff8570"
     },
     {
-      "id": "00c640ed633b",
-      "title": "The Wife of Matlock's David Del Rio Speaks Out After Sexual Assault Allegations",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/matlock-david-del-rio-wife-responds-to-allegations/",
-      "published_at": "Fri, 10 Oct 2025 18:57:55 GMT",
-      "bullets": [
-        "• David Del Rio, who plays Billy Martinez on Matlock, was fired earlier this week",
-        "• He was accused of sexually assaulting his co-star, Leah Lewis, on Oct",
-        "• 2",
-        "• Following the accusations, his wife Katherine Del Rio took to social media to defend her husband",
-        "• Lewis thanked everyone for their support on Instagram stories "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• David Del Rio, who plays Billy Martinez on Matlock, was fired earlier this week",
-          "• He was accused of sexually assaulting his co-star, Leah Lewis, on Oct"
-        ],
-        "hopeful_bullets": [
-          "• Following the accusations, his wife Katherine Del Rio took to social media to defend her husband"
-        ],
-        "stakes_bullets": [
-          "• David Del Rio, who plays Billy Martinez on Matlock, was fired earlier this week",
-          "• Following the accusations, his wife Katherine Del Rio took to social media to defend her husband"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7955b99ab0d0"
-    },
-    {
       "id": "4350347affbd",
       "title": "Why ‘Monster: The Ed Gein Story’ Recreates the Filming of ‘The Texas Chain Saw Massacre’",
       "outlet": "Bloody Disgusting!",
@@ -5741,40 +5935,6 @@
       "cluster_id": "b1372d460731"
     },
     {
-      "id": "f8bafdd63cfd",
-      "title": "Trump reaches deal with AstraZeneca to lower U.S. drug prices, MSNBC reports",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-astrazeneca-drug-pricing-deal.html",
-      "published_at": "Fri, 10 Oct 2025 18:53:15 GMT",
-      "bullets": [
-        "• The deal would follow a similar pact with U.S",
-        "• drugmaker Pfizer, which was announced late last month",
-        "• President Donald Trump and AstraZeneca CEO Pascal Soriot will announce the deal Friday, MSNBC reports",
-        "• The company will sell drugs directly to Medicaid patients at the lowest price offered in other developed countries "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The deal would follow a similar pact with U.S",
-          "• drugmaker Pfizer, which was announced late last month"
-        ],
-        "hopeful_bullets": [
-          "• The deal would follow a similar pact with U.S",
-          "• drugmaker Pfizer, which was announced late last month"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump and AstraZeneca CEO Pascal Soriot will announce the deal Friday, MSNBC reports",
-          "• The company will sell drugs directly to Medicaid patients at the lowest price offered in other developed countries "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bb098d58d5fb"
-    },
-    {
       "id": "760f33e9273c",
       "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
       "outlet": "Ars Technica - All content",
@@ -5805,39 +5965,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "59946f4d3996"
-    },
-    {
-      "id": "606a64742f02",
-      "title": "Trump threatens 'massive' tariff hike on China over rare earths dispute",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-china-tariffs-rare-earths.html",
-      "published_at": "Fri, 10 Oct 2025 18:43:29 GMT",
-      "bullets": [
-        "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-        "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute",
-        "• China controls about 70% of the global supply of rare earths minerals, which are critical for high-tech industries "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump threatens to slap a \"massive increase of Tariffs\" on Chinese products imported into the U.S",
-          "• He also threatens to cancel his upcoming meeting with Chinese President Xi Jinping because of the dispute"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f13e637084a9"
     },
     {
       "id": "9b4eb694aac8",
@@ -6476,40 +6603,6 @@
       "cluster_id": "bb5e08c4e40a"
     },
     {
-      "id": "8d5e9a3bfd2d",
-      "title": "Rachel Talalay Explains How ‘Freddy’s Dead’ Is Finally Available the Way It Was Meant to Be Seen [Interview]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/interviews/3908394/rachel-talalay-explains-how-freddys-dead-is-finally-available-the-way-it-was-mean-to-be-seen-interview/?utm_source=rss&utm_medium=rss&utm_campaign=rachel-talalay-explains-how-freddys-dead-is-finally-available-the-way-it-was-mean-to-be-seen-interview",
-      "published_at": "Fri, 10 Oct 2025 17:00:55 +0000",
-      "bullets": [
-        "• Rachel Talalay was with the Nightmare on Elm Street franchise from the beginning",
-        "• She made her directorial debut on Freddy’s Dead: The Final Nightmare",
-        "• She says she is hurt by the accusations she made the ‘girl version’ of the film and ruined horror films "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rachel Talalay was with the Nightmare on Elm Street franchise from the beginning",
-          "• She made her directorial debut on Freddy’s Dead: The Final Nightmare"
-        ],
-        "hopeful_bullets": [
-          "• Rachel Talalay was with the Nightmare on Elm Street franchise from the beginning",
-          "• She made her directorial debut on Freddy’s Dead: The Final Nightmare"
-        ],
-        "stakes_bullets": [
-          "• Rachel Talalay was with the Nightmare on Elm Street franchise from the beginning",
-          "• She made her directorial debut on Freddy’s Dead: The Final Nightmare",
-          "• She says she is hurt by the accusations she made the ‘girl version’ of the film and ruined horror films "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6e368540d8ff"
-    },
-    {
       "id": "efbdcb80bb2d",
       "title": "UK regulators plan to force Google changes under new competition law",
       "outlet": "Ars Technica - All content",
@@ -6540,71 +6633,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8b4dae959526"
-    },
-    {
-      "id": "21e34ffd7ade",
-      "title": "Frank Zappa’s Halloween Live Series Continues With Box Set of Famed 1978 Residency",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/frank-zappa-halloween-1978-box-set-1235444669/",
-      "published_at": "Fri, 10 Oct 2025 16:48:48 +0000",
-      "bullets": [
-        "• Frank Zappa’s Halloween 1978 residency at New York's Palladium will be the focus of an upcoming box set",
-        "• The release is the fourth in a series of Zappa Records Halloween live albums",
-        "• The box set features a Zappa-inspired monster mask, complete with a pitchfork "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Frank Zappa’s Halloween 1978 residency at New York's Palladium will be the focus of an upcoming box set",
-          "• The release is the fourth in a series of Zappa Records Halloween live albums"
-        ],
-        "hopeful_bullets": [
-          "• The release is the fourth in a series of Zappa Records Halloween live albums"
-        ],
-        "stakes_bullets": [
-          "• Frank Zappa’s Halloween 1978 residency at New York's Palladium will be the focus of an upcoming box set"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "845fe1b43aae"
-    },
-    {
-      "id": "5a5a3b539c6e",
-      "title": "Ceasefire comes into force as IDF pulls out of parts of Gaza",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 16:47:25 GMT",
-      "bullets": [
-        "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
-        "• Israeli military says it has partially withdrawn troops from parts of the territory",
-        "• Under the deal, Hamas has until 12:00 local time (10:00 BST) on Monday to release all Israeli hostages "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.841
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
-          "• Israeli military says it has partially withdrawn troops from parts of the territory"
-        ],
-        "hopeful_bullets": [
-          "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
-          "• Israeli military says it has partially withdrawn troops from parts of the territory"
-        ],
-        "stakes_bullets": [
-          "• Ceasefire comes into force as IDF pulls out of parts of Gaza",
-          "• Israeli military says it has partially withdrawn troops from parts of the territory",
-          "• Under the deal, Hamas has until 12:00 local time (10:00 BST) on Monday to release all Israeli hostages "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4a06b8959dbf"
     },
     {
       "id": "7bcd33f27275",
@@ -6771,38 +6799,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "4dc8eb186f17"
-    },
-    {
-      "id": "8f59375e7965",
-      "title": "Major Russian strikes cut power in Kyiv and across Ukraine",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 15:44:44 GMT",
-      "bullets": [
-        "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
-        "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity",
-        "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's military-industrial complex "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
-          "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity"
-        ],
-        "hopeful_bullets": [
-          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
-          "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity"
-        ],
-        "stakes_bullets": [
-          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8b533990aa62"
     },
     {
       "id": "87a8e4456b50",
@@ -8349,6 +8345,39 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "835a9746b8fe",
+      "title": "Bose is yanking key features from its SoundTouch speakers",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down",
+      "published_at": "2025-10-10T17:27:17-04:00",
+      "bullets": [
+        "• Bose is discontinuing support for the cloud-based features available on its SoundTouch products on February 18th, 2026",
+        "• That same day, the SoundTouch app will stop working, too, meaning you won’t be able to use it to control your speakers",
+        "• Some functions such as Bluetooth and AUX on standalone speakers will most likely continue to work "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bose is discontinuing support for the cloud-based features available on its SoundTouch products on February 18th, 2026",
+          "• That same day, the SoundTouch app will stop working, too, meaning you won’t be able to use it to control your speakers"
+        ],
+        "hopeful_bullets": [
+          "• Bose is discontinuing support for the cloud-based features available on its SoundTouch products on February 18th, 2026",
+          "• That same day, the SoundTouch app will stop working, too, meaning you won’t be able to use it to control your speakers"
+        ],
+        "stakes_bullets": [
+          "• That same day, the SoundTouch app will stop working, too, meaning you won’t be able to use it to control your speakers",
+          "• Some functions such as Bluetooth and AUX on standalone speakers will most likely continue to work "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fc4cddad8f55"
+    },
+    {
       "id": "88a7eead152b",
       "title": "OpenAI is trying to clamp down on ‘bias’ in ChatGPT",
       "outlet": "The Verge",
@@ -8644,40 +8673,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "de881e71f68a"
-    },
-    {
-      "id": "29ba8c25d986",
-      "title": "Fractal’s first gaming headset is as refreshingly elegant as its PC cases",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset",
-      "published_at": "2025-10-10T10:15:52-04:00",
-      "bullets": [
-        "• Fractal's $199.99 Scape is one of my favorite tech releases of 2025",
-        "• The fit and finish are impressive for a first-gen device from a company with no lineage in audio hardware",
-        "• It has a chunkier version of Apple’s Digital Crown on the back of its left ear cup "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fractal's $199.99 Scape is one of my favorite tech releases of 2025",
-          "• The fit and finish are impressive for a first-gen device from a company with no lineage in audio hardware"
-        ],
-        "hopeful_bullets": [
-          "• Fractal's $199.99 Scape is one of my favorite tech releases of 2025",
-          "• The fit and finish are impressive for a first-gen device from a company with no lineage in audio hardware"
-        ],
-        "stakes_bullets": [
-          "• Fractal's $199.99 Scape is one of my favorite tech releases of 2025",
-          "• The fit and finish are impressive for a first-gen device from a company with no lineage in audio hardware",
-          "• It has a chunkier version of Apple’s Digital Crown on the back of its left ear cup "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "533b371f2c3d"
     },
     {
       "id": "c41ff758b36a",
@@ -9072,14 +9067,14 @@
   ],
   "clusters": [
     {
-      "id": "4a06b8959dbf",
-      "topic": "ceasefire come force idf",
+      "id": "f0ae26243e5c",
+      "topic": "ceasefire come force israel",
       "keywords": [
         "ceasefire",
         "come",
         "force",
-        "idf",
-        "out",
+        "israel",
+        "military",
         "pull"
       ],
       "item_ids": [
@@ -9435,6 +9430,42 @@
       ]
     },
     {
+      "id": "4f614d3de9d9",
+      "topic": "100 beijing china tariff",
+      "keywords": [
+        "100",
+        "beijing",
+        "china",
+        "tariff",
+        "threaten",
+        "trump"
+      ],
+      "item_ids": [
+        "30ece4b1f0a4"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0d13bcd4141e",
+      "topic": "begin congres federal layoff",
+      "keywords": [
+        "begin",
+        "congres",
+        "federal",
+        "layoff",
+        "remain",
+        "substantial"
+      ],
+      "item_ids": [
+        "f0beaa865c7f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "8504ad798b17",
       "topic": "border chicago indicted patrol",
       "keywords": [
@@ -9465,45 +9496,6 @@
       ],
       "item_ids": [
         "ad1eb6601679"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "f13e637084a9",
-      "topic": "beijing china hike massive",
-      "keywords": [
-        "beijing",
-        "china",
-        "hike",
-        "massive",
-        "tariff",
-        "threaten",
-        "trump"
-      ],
-      "item_ids": [
-        "30ece4b1f0a4",
-        "606a64742f02"
-      ],
-      "outlets": [
-        "US Top News and Analysis",
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "0d13bcd4141e",
-      "topic": "begin congres federal layoff",
-      "keywords": [
-        "begin",
-        "congres",
-        "federal",
-        "layoff",
-        "remain",
-        "substantial"
-      ],
-      "item_ids": [
-        "f0beaa865c7f"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9746,6 +9738,42 @@
       ]
     },
     {
+      "id": "fd22abbdbe9e",
+      "topic": "100 china extra puts",
+      "keywords": [
+        "100",
+        "china",
+        "extra",
+        "puts",
+        "tariff",
+        "trump"
+      ],
+      "item_ids": [
+        "3958cd1e3e75"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "6516161bc30e",
+      "topic": "770 billion lose megacap",
+      "keywords": [
+        "770",
+        "billion",
+        "lose",
+        "megacap",
+        "tech",
+        "value"
+      ],
+      "item_ids": [
+        "541727fbe1cf"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "6c988f50455f",
       "topic": "administration begin federal layoff",
       "keywords": [
@@ -9776,6 +9804,24 @@
       ],
       "item_ids": [
         "05f80000898a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8258289f8e1d",
+      "topic": "defense govini palantir startup",
+      "keywords": [
+        "defense",
+        "govini",
+        "palantir",
+        "startup",
+        "taking",
+        "tech"
+      ],
+      "item_ids": [
+        "07f01940f0d9"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9836,24 +9882,6 @@
       ]
     },
     {
-      "id": "bb098d58d5fb",
-      "topic": "astrazeneca deal drug lower",
-      "keywords": [
-        "astrazeneca",
-        "deal",
-        "drug",
-        "lower",
-        "reache",
-        "trump"
-      ],
-      "item_ids": [
-        "f8bafdd63cfd"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "6ce3a6615003",
       "topic": "machado nobel peace praise",
       "keywords": [
@@ -9884,24 +9912,6 @@
       ],
       "item_ids": [
         "d0bef9bdf7db"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "710e04661e9d",
-      "topic": "accused ingrassia nominee paul",
-      "keywords": [
-        "accused",
-        "ingrassia",
-        "nominee",
-        "paul",
-        "reportedly",
-        "trump"
-      ],
-      "item_ids": [
-        "803d9e6d8c13"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10083,6 +10093,24 @@
       ]
     },
     {
+      "id": "fc4cddad8f55",
+      "topic": "bose feature key soundtouch",
+      "keywords": [
+        "bose",
+        "feature",
+        "key",
+        "soundtouch",
+        "speaker",
+        "yanking"
+      ],
+      "item_ids": [
+        "835a9746b8fe"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "f5032fd0f7a9",
       "topic": "bias chatgpt clamp down",
       "keywords": [
@@ -10237,24 +10265,6 @@
       ],
       "item_ids": [
         "f93480a0b153"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "533b371f2c3d",
-      "topic": "elegant first fractal gaming",
-      "keywords": [
-        "elegant",
-        "first",
-        "fractal",
-        "gaming",
-        "headset",
-        "refreshingly"
-      ],
-      "item_ids": [
-        "29ba8c25d986"
       ],
       "outlets": [
         "The Verge"
@@ -10746,24 +10756,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10776,6 +10768,24 @@
       ],
       "item_ids": [
         "9fb2d8e40a3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
+      "keywords": [
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
+      ],
+      "item_ids": [
+        "8ed599fe270c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11236,6 +11246,24 @@
       ]
     },
     {
+      "id": "7d3762727e9b",
+      "topic": "administration billion clean cutting",
+      "keywords": [
+        "administration",
+        "billion",
+        "clean",
+        "cutting",
+        "energy",
+        "trump"
+      ],
+      "item_ids": [
+        "7de362db18a3"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "caa28980aa1e",
       "topic": "bitcoin came michigan mine",
       "keywords": [
@@ -11397,24 +11425,6 @@
       ]
     },
     {
-      "id": "801a15b5270d",
-      "topic": "communitie florida resilient sustainable",
-      "keywords": [
-        "communitie",
-        "florida",
-        "resilient",
-        "sustainable",
-        "these",
-        "wanted"
-      ],
-      "item_ids": [
-        "98aebdc72852"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
       "id": "466e018b9a94",
       "topic": "ares looking prediction soft",
       "keywords": [
@@ -11555,6 +11565,24 @@
       ],
       "outlets": [
         "The Numbers"
+      ]
+    },
+    {
+      "id": "9e86aa625689",
+      "topic": "action halloween michael myer",
+      "keywords": [
+        "action",
+        "halloween",
+        "michael",
+        "myer",
+        "resurrection",
+        "ultimate"
+      ],
+      "item_ids": [
+        "70cdad8ca386"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
       ]
     },
     {
@@ -11714,24 +11742,6 @@
       ],
       "item_ids": [
         "981f95af6728"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "6e368540d8ff",
-      "topic": "dead explain finally freddy",
-      "keywords": [
-        "dead",
-        "explain",
-        "finally",
-        "freddy",
-        "rachel",
-        "talalay"
-      ],
-      "item_ids": [
-        "8d5e9a3bfd2d"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -11918,6 +11928,24 @@
       ]
     },
     {
+      "id": "218b88ed6a8b",
+      "topic": "clip dakota discusse exclusive",
+      "keywords": [
+        "clip",
+        "dakota",
+        "discusse",
+        "exclusive",
+        "fanning",
+        "viciou"
+      ],
+      "item_ids": [
+        "9bea45fcf9e3"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
       "id": "d5394a43b72d",
       "topic": "believer cover exclusive horror",
       "keywords": [
@@ -12074,24 +12102,6 @@
       ],
       "item_ids": [
         "d71b24c8fd24"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "b56c7d091280",
-      "topic": "exclusive mask red reveal",
-      "keywords": [
-        "exclusive",
-        "mask",
-        "red",
-        "reveal",
-        "slasher",
-        "still"
-      ],
-      "item_ids": [
-        "5b09aa2e83e9"
       ],
       "outlets": [
         "Dread Central"
@@ -12994,6 +13004,59 @@
       ]
     },
     {
+      "id": "9c920fc051cd",
+      "topic": "1990 anime overrated today",
+      "keywords": [
+        "1990",
+        "anime",
+        "overrated",
+        "today",
+        "unwatchable"
+      ],
+      "item_ids": [
+        "8b7d9d184a78"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3cae4dde54c9",
+      "topic": "biggest erase harry hbo",
+      "keywords": [
+        "biggest",
+        "erase",
+        "harry",
+        "hbo",
+        "officially",
+        "potter"
+      ],
+      "item_ids": [
+        "6d40378f3757"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "a1e80885f8ba",
+      "topic": "being best called marvel",
+      "keywords": [
+        "being",
+        "best",
+        "called",
+        "marvel",
+        "project",
+        "upcoming"
+      ],
+      "item_ids": [
+        "303fdac6b748"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "8b65f481f72f",
       "topic": "batman become controversial most",
       "keywords": [
@@ -13113,59 +13176,6 @@
       ],
       "item_ids": [
         "17f45334a1b7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "975640ce1606",
-      "topic": "addresse creator hazbin hotel",
-      "keywords": [
-        "addresse",
-        "creator",
-        "hazbin",
-        "hotel",
-        "renewal",
-        "season"
-      ],
-      "item_ids": [
-        "9f9252fd605a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "479f0e303442",
-      "topic": "anime believe ending insane",
-      "keywords": [
-        "anime",
-        "believe",
-        "ending",
-        "insane",
-        "won"
-      ],
-      "item_ids": [
-        "e8b8aebf84f3"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7955b99ab0d0",
-      "topic": "david del matlock rio",
-      "keywords": [
-        "david",
-        "del",
-        "matlock",
-        "rio",
-        "speak",
-        "wife"
-      ],
-      "item_ids": [
-        "00c640ed633b"
       ],
       "outlets": [
         "CBR"
@@ -13350,6 +13360,24 @@
       ]
     },
     {
+      "id": "1840da40622a",
+      "topic": "band cain jonathan journey",
+      "keywords": [
+        "band",
+        "cain",
+        "jonathan",
+        "journey",
+        "leave",
+        "tour"
+      ],
+      "item_ids": [
+        "2b7d096d00ea"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "ee54c98a928f",
       "topic": "amazon forget music neil",
       "keywords": [
@@ -13506,24 +13534,6 @@
       ],
       "item_ids": [
         "d04628091813"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "845fe1b43aae",
-      "topic": "continue frank halloween live",
-      "keywords": [
-        "continue",
-        "frank",
-        "halloween",
-        "live",
-        "serie",
-        "zappa"
-      ],
-      "item_ids": [
-        "21e34ffd7ade"
       ],
       "outlets": [
         "Music News"
