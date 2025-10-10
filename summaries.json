@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T17:54:08Z",
+  "generated_at": "2025-10-10T18:13:12Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -102,6 +102,39 @@
       },
       "read_minutes": 12,
       "cluster_id": "5306313fe14f"
+    },
+    {
+      "id": "6fb8e1b21083",
+      "title": "Despite Stiff Opposition, an Alabama City Changes Its Laws to Accommodate Data Centers",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/08102025/bessemer-alabama-changes-laws-to-accommodate-data-centers/",
+      "published_at": "Wed, 08 Oct 2025 23:50:51 +0000",
+      "bullets": [
+        "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+        "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
+        "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
+        ],
+        "hopeful_bullets": [
+          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
+        ],
+        "stakes_bullets": [
+          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
+          "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "e7c039e05f7b"
     },
     {
       "id": "98aebdc72852",
@@ -2250,40 +2283,6 @@
       "cluster_id": "bc62c8fb7c6c"
     },
     {
-      "id": "dcf8d6a90534",
-      "title": "Man who appealed Pelicot rape conviction handed longer jail term",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq65e2jdd3lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 09 Oct 2025 15:52:51 GMT",
-      "bullets": [
-        "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
-        "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old",
-        "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
-          "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old"
-        ],
-        "hopeful_bullets": [
-          "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
-          "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old"
-        ],
-        "stakes_bullets": [
-          "• Husamettin Dogan, 44, was convicted of aggravated rape of Gisèle Pelicot in December last year",
-          "• He argued he was innocent despite graphic video of him penetrating a motionless 72-year-old",
-          "• The court of appeal in Nîmes extended his original nine-year jail term to 10 years "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "38ca06fcd04c"
-    },
-    {
       "id": "38f58972dba9",
       "title": "Netflix’s The Vince Staples Show Gets Season 2 Trailer: Watch",
       "outlet": "RSS: News",
@@ -2556,6 +2555,37 @@
       },
       "read_minutes": 4,
       "cluster_id": "663f2eac716e"
+    },
+    {
+      "id": "19bfcde43c83",
+      "title": "A Community Burdened by Chemical Waste Is Demanding Cancer Data. Texas Health Officials Won’t Give It to Them.",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/09102025/a-community-burdened-by-chemical-waste-is-demanding-cancer-data-texas-health-officials-wont-give-it-to-them/",
+      "published_at": "Thu, 09 Oct 2025 12:00:00 +0000",
+      "bullets": [
+        "• Texas health officials have refused to release cancer data at the census-tract level",
+        "• This granular data can pinpoint areas with high cancer burdens and help connect those discrepancies to risk factors",
+        "• Two independent epidemiologists told Public Health Watch the state’s decision not to release this data was illogical and indefensible "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas health officials have refused to release cancer data at the census-tract level",
+          "• This granular data can pinpoint areas with high cancer burdens and help connect those discrepancies to risk factors"
+        ],
+        "hopeful_bullets": [
+          "• This granular data can pinpoint areas with high cancer burdens and help connect those discrepancies to risk factors"
+        ],
+        "stakes_bullets": [
+          "• This granular data can pinpoint areas with high cancer burdens and help connect those discrepancies to risk factors"
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "83dc796d741c"
     },
     {
       "id": "4efeaac57102",
@@ -2955,38 +2985,6 @@
       "cluster_id": "2a78106339af"
     },
     {
-      "id": "32ac6adcfa81",
-      "title": "South Texas students have a new chance to taste the race for space",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182152/south-texas-spacex-project-vortex-rockets",
-      "published_at": "Thu, 09 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• South Texas students have a new chance to taste the race for space",
-        "• The South Texas Astronomical Society is accepting applications for Project Vortex",
-        "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Texas students have a new chance to taste the race for space",
-          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
-        ],
-        "hopeful_bullets": [
-          "• South Texas students have a new chance to taste the race for space",
-          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
-        ],
-        "stakes_bullets": [
-          "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "81c7f4c71204"
-    },
-    {
       "id": "bf633ec3a78d",
       "title": "Some Texas community colleges remove course materials amid broader push to limit gender identity discussions",
       "outlet": "The Texas Tribune",
@@ -3052,6 +3050,38 @@
       },
       "read_minutes": 9,
       "cluster_id": "dfd3eebe7c1a"
+    },
+    {
+      "id": "32ac6adcfa81",
+      "title": "South Texas students have a new chance to taste the race for space",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17182152/south-texas-spacex-project-vortex-rockets",
+      "published_at": "Thu, 09 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• South Texas students have a new chance to taste the race for space",
+        "• The South Texas Astronomical Society is accepting applications for Project Vortex",
+        "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Texas students have a new chance to taste the race for space",
+          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
+        ],
+        "hopeful_bullets": [
+          "• South Texas students have a new chance to taste the race for space",
+          "• The South Texas Astronomical Society is accepting applications for Project Vortex"
+        ],
+        "stakes_bullets": [
+          "• It will give high school students first-hand experience in building a rocket to launch it in the spring "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "81c7f4c71204"
     },
     {
       "id": "e5124fdd70d5",
@@ -4550,6 +4580,174 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "02908e62178e",
+      "title": "Rachel Chinouriri Falls in Love Again and Again With Madonna, Charli XCX, and Herself",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/rachel-chinouriri-madonna-charli-xcx-love-song-shuffle-1235444652/",
+      "published_at": "Fri, 10 Oct 2025 18:08:51 +0000",
+      "bullets": [
+        "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
+        "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events",
+        "• She also finds love in Madonna's \"Hung Up\" and Charli XCX's \"Von Dutch\""
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
+          "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events"
+        ],
+        "hopeful_bullets": [
+          "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
+          "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events"
+        ],
+        "stakes_bullets": [
+          "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
+          "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events",
+          "• She also finds love in Madonna's \"Hung Up\" and Charli XCX's \"Von Dutch\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "95b1f671c1c5"
+    },
+    {
+      "id": "c6f9778afe8d",
+      "title": "5 Best Prime Video Shows to Binge-Watch This Weekend: Oct. 10-12, 2025",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-prime-video-shows-to-binge-this-weekend-oct-10-12-2025/",
+      "published_at": "Fri, 10 Oct 2025 18:00:12 GMT",
+      "bullets": [
+        "• Prime Video has a slew of television shows, both new and old, that have captivating characters and fantastic writing",
+        "• Fleabag is a bitingly funny yet vulnerable show about a woman who is trying to navigate relationships, grief, and her penchant for self-sabotage in London "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Prime Video has a slew of television shows, both new and old, that have captivating characters and fantastic writing",
+          "• Fleabag is a bitingly funny yet vulnerable show about a woman who is trying to navigate relationships, grief, and her penchant for self-sabotage in London "
+        ],
+        "hopeful_bullets": [
+          "• Prime Video has a slew of television shows, both new and old, that have captivating characters and fantastic writing",
+          "• Fleabag is a bitingly funny yet vulnerable show about a woman who is trying to navigate relationships, grief, and her penchant for self-sabotage in London "
+        ],
+        "stakes_bullets": [
+          "• Prime Video has a slew of television shows, both new and old, that have captivating characters and fantastic writing",
+          "• Fleabag is a bitingly funny yet vulnerable show about a woman who is trying to navigate relationships, grief, and her penchant for self-sabotage in London "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "2b5747c1273b"
+    },
+    {
+      "id": "f4ebc1a28f61",
+      "title": "10 Incredible DC Characters Who Aren’t Superheroes or Villains",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dc-comics-best-characters-not-superheroes-villains/",
+      "published_at": "Fri, 10 Oct 2025 18:00:12 GMT",
+      "bullets": [
+        "• Superman, Batman and Wonder Woman are the faces of the DC Comics",
+        "• However, their supporting characters strengthen their corners of the the DC Universe",
+        "• Characters like Jimmy Olsen and Lois Lane may not have superpowers, but they support Superman and Clark Kent and make him better "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Superman, Batman and Wonder Woman are the faces of the DC Comics",
+          "• However, their supporting characters strengthen their corners of the the DC Universe"
+        ],
+        "hopeful_bullets": [
+          "• Superman, Batman and Wonder Woman are the faces of the DC Comics",
+          "• However, their supporting characters strengthen their corners of the the DC Universe"
+        ],
+        "stakes_bullets": [
+          "• Superman, Batman and Wonder Woman are the faces of the DC Comics",
+          "• However, their supporting characters strengthen their corners of the the DC Universe",
+          "• Characters like Jimmy Olsen and Lois Lane may not have superpowers, but they support Superman and Clark Kent and make him better "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6fbf98e45da9"
+    },
+    {
+      "id": "d04628091813",
+      "title": "MTV to Axe UK Music Channels at the End of the Year",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/mtv-uk-music-channels-end-of-year-1235444783/",
+      "published_at": "Fri, 10 Oct 2025 17:59:40 +0000",
+      "bullets": [
+        "• MTV UK will stop broadcasting on December 31",
+        "• The channel is set to be the last of the year",
+        "• It is thought to be due to the end of its first series of live shows on the channel",
+        "• It will be the first time the channel has stopped broadcasting live shows "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• MTV UK will stop broadcasting on December 31",
+          "• The channel is set to be the last of the year"
+        ],
+        "hopeful_bullets": [
+          "• MTV UK will stop broadcasting on December 31",
+          "• The channel is set to be the last of the year"
+        ],
+        "stakes_bullets": [
+          "• MTV UK will stop broadcasting on December 31",
+          "• It will be the first time the channel has stopped broadcasting live shows "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "cb9ffd37167e"
+    },
+    {
+      "id": "5bf1eb851831",
+      "title": "Crunchyroll Competitor Hits Back After 'AI Slop' Anime Controversy",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/crunchyroll-hidive-ai-subtitle-respond/",
+      "published_at": "Fri, 10 Oct 2025 17:56:42 GMT",
+      "bullets": [
+        "• HIDIVE: \"We don’t use AI for subtitles\" Comes after Crunchyroll faced backlash over alleged use of AI for anime subtitling",
+        "• The company's statement came in response to a user on X (formerly Twitter) who had already canceled their subscription to another service whose name was redacted",
+        "• The anime streamer has faced mounting criticism from fans who have noticed a decline in subtitle quality "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HIDIVE: \"We don’t use AI for subtitles\" Comes after Crunchyroll faced backlash over alleged use of AI for anime subtitling",
+          "• The company's statement came in response to a user on X (formerly Twitter) who had already canceled their subscription to another service whose name was redacted"
+        ],
+        "hopeful_bullets": [
+          "• HIDIVE: \"We don’t use AI for subtitles\" Comes after Crunchyroll faced backlash over alleged use of AI for anime subtitling",
+          "• The company's statement came in response to a user on X (formerly Twitter) who had already canceled their subscription to another service whose name was redacted"
+        ],
+        "stakes_bullets": [
+          "• HIDIVE: \"We don’t use AI for subtitles\" Comes after Crunchyroll faced backlash over alleged use of AI for anime subtitling",
+          "• The company's statement came in response to a user on X (formerly Twitter) who had already canceled their subscription to another service whose name was redacted",
+          "• The anime streamer has faced mounting criticism from fans who have noticed a decline in subtitle quality "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c0efb73c570c"
+    },
+    {
       "id": "56f220435e0d",
       "title": "First Wonder Man Teaser Drops, Immediately Pokes Fun At Superhero Fatigue",
       "outlet": "CBR",
@@ -4618,6 +4816,73 @@
       "cluster_id": "23c8bef0fe5d"
     },
     {
+      "id": "965b41427b21",
+      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "published_at": "Fri, 10 Oct 2025 17:40:13 GMT",
+      "bullets": [
+        "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+        "• government shutdown",
+        "• No other details of the layoffs were immediately released",
+        "• The announcement comes four days after National Economic Council director Kevin Hassett warned of \"sharp measures\" if shutdown continued "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+          "• government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+          "• government shutdown"
+        ],
+        "stakes_bullets": [
+          "• Budget chief Russell Vought: \"The RIFs have begun\" The shutdown is the 10th day of the U.S",
+          "• government shutdown",
+          "• No other details of the layoffs were immediately released"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6c988f50455f"
+    },
+    {
+      "id": "df11f5f37de5",
+      "title": "Taiwanese Survival Horror Title ‘SUFFOCATE’ Comes to Steam on October 23 [Trailer]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3908390/taiwanese-survival-horror-title-suffocate-comes-to-steam-on-october-23-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=taiwanese-survival-horror-title-suffocate-comes-to-steam-on-october-23-trailer",
+      "published_at": "Fri, 10 Oct 2025 17:37:45 +0000",
+      "bullets": [
+        "• Independent developer Naughty Cow has revealed their first Survival Horror title, SUFFOCATE",
+        "• The first-person title is set in present day Taiwan, where the player finds themself in the Lin family residence",
+        "• Players will engage in stealth mechanics, parkour, and puzzle-solving as the story unfolds "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.927
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Independent developer Naughty Cow has revealed their first Survival Horror title, SUFFOCATE",
+          "• The first-person title is set in present day Taiwan, where the player finds themself in the Lin family residence"
+        ],
+        "hopeful_bullets": [
+          "• Independent developer Naughty Cow has revealed their first Survival Horror title, SUFFOCATE",
+          "• The first-person title is set in present day Taiwan, where the player finds themself in the Lin family residence"
+        ],
+        "stakes_bullets": [
+          "• Players will engage in stealth mechanics, parkour, and puzzle-solving as the story unfolds "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "53049ee50ab8"
+    },
+    {
       "id": "0b93e3701400",
       "title": "9-1-1 Season 9 & 9-1-1: Nashville Premiere Recap & Spoilers",
       "outlet": "CBR",
@@ -4678,8 +4943,42 @@
           "• Countdown and Butterfly will not be getting Season 2 renewals at Prime Video"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 3,
       "cluster_id": "9da95c2059ec"
+    },
+    {
+      "id": "f0beaa865c7f",
+      "title": "Federal layoffs have started, Trump’s budget chief says, as Congress remains deadlocked over funding to end shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
+      "published_at": "Fri, 10 Oct 2025 17:30:04 GMT",
+      "bullets": [
+        "• US government workforce cuts have begun, OMB chief says",
+        "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown",
+        "• This comes after the American Federation of Government Employees (AFGE) sued the administration over the layoff threat",
+        "• MIT becomes first university to reject White House offer for special funding "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.547
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US government workforce cuts have begun, OMB chief says",
+          "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown"
+        ],
+        "hopeful_bullets": [
+          "• US government workforce cuts have begun, OMB chief says",
+          "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown"
+        ],
+        "stakes_bullets": [
+          "• US government workforce cuts have begun, OMB chief says",
+          "• A federal judge will actually hear arguments over the legality of the reductions in force during the shutdown"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "0d18559fa440"
     },
     {
       "id": "5e0b1f6fb5d8",
@@ -4715,6 +5014,70 @@
       },
       "read_minutes": 2,
       "cluster_id": "b140b9e74858"
+    },
+    {
+      "id": "88390e435039",
+      "title": "My one-month-old grandson was killed by police tear gas",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg02rjn0r8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 17:29:23 GMT",
+      "bullets": [
+        "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
+        "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
+          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
+        ],
+        "hopeful_bullets": [
+          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
+          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
+        ],
+        "stakes_bullets": [
+          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
+          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "dd907394c94d"
+    },
+    {
+      "id": "d090d5c7c5b3",
+      "title": "Qatar to build air force facility in Idaho, US says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75q2y92090o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 17:27:47 GMT",
+      "bullets": [
+        "• Qatar to build air force facility in Idaho, US says",
+        "• Facility will be established at the Mountain Home Airbase in the north-western US state",
+        "• US Defence Secretary Pete Hegseth praised Qatar for playing a \"substantial role\" in efforts to secure a Gaza ceasefire and hostage return deal "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Qatar to build air force facility in Idaho, US says",
+          "• Facility will be established at the Mountain Home Airbase in the north-western US state"
+        ],
+        "hopeful_bullets": [
+          "• Qatar to build air force facility in Idaho, US says",
+          "• Facility will be established at the Mountain Home Airbase in the north-western US state"
+        ],
+        "stakes_bullets": [
+          "• Facility will be established at the Mountain Home Airbase in the north-western US state"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b6d3efa6dcb5"
     },
     {
       "id": "f541aa8c367d",
@@ -4814,38 +5177,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "edbc0de667b3"
-    },
-    {
-      "id": "965b41427b21",
-      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-      "published_at": "Fri, 10 Oct 2025 17:20:37 GMT",
-      "bullets": [
-        "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" No other details of the layoffs were immediately released",
-        "• A union representing federal workers, the American Federation of Government Employees, says \"The lawsuit has been filed\" Vought has announced in tweets since shutdown began last week "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" No other details of the layoffs were immediately released",
-          "• A union representing federal workers, the American Federation of Government Employees, says \"The lawsuit has been filed\" Vought has announced in tweets since shutdown began last week "
-        ],
-        "hopeful_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" No other details of the layoffs were immediately released",
-          "• A union representing federal workers, the American Federation of Government Employees, says \"The lawsuit has been filed\" Vought has announced in tweets since shutdown began last week "
-        ],
-        "stakes_bullets": [
-          "• Budget chief Russell Vought tweets that \"RIFs have begun and are substantial\" No other details of the layoffs were immediately released",
-          "• A union representing federal workers, the American Federation of Government Employees, says \"The lawsuit has been filed\" Vought has announced in tweets since shutdown began last week "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6c988f50455f"
     },
     {
       "id": "a06e74464afc",
@@ -4987,24 +5318,24 @@
       "published_at": "Fri, 10 Oct 2025 17:05:54 GMT",
       "bullets": [
         "• Letitia James indicted on mortgage fraud charges by a federal prosecutor appointed by Donald Trump last month",
-        "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against their political enemies”"
+        "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.977
+        "score": 0.974
       },
       "moods": {
         "brief_bullets": [
           "• Letitia James indicted on mortgage fraud charges by a federal prosecutor appointed by Donald Trump last month",
-          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against their political enemies”"
+          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
         ],
         "hopeful_bullets": [
-          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against their political enemies”"
+          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
         ],
         "stakes_bullets": [
           "• Letitia James indicted on mortgage fraud charges by a federal prosecutor appointed by Donald Trump last month",
-          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against their political enemies”"
+          "• US Senate’s Democratic leader, Chuck Schumer, accused the US president of turning the Department of Justice into “personal attack dogs against political enemies”"
         ]
       },
       "read_minutes": 3,
@@ -5375,39 +5706,6 @@
       "cluster_id": "845fe1b43aae"
     },
     {
-      "id": "fc6ccb630a34",
-      "title": "Silent Night, Deadly Night Wants to Become a Christmas Holiday Cult Classic",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/silent-night-deadly-night-christmas-horror-balance-mike-nelson/",
-      "published_at": "Fri, 10 Oct 2025 16:46:59 GMT",
-      "bullets": [
-        "• Mike P",
-        "• Nelson wrote and directed the Silent Night, Deadly Night remake",
-        "• He said he wanted to bring a \"coziness\" to the film",
-        "• The remake stars Rohan Campbell and Ruby Modine as the main characters, Billy Chapman and Pamela "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mike P",
-          "• Nelson wrote and directed the Silent Night, Deadly Night remake"
-        ],
-        "hopeful_bullets": [
-          "• Mike P",
-          "• Nelson wrote and directed the Silent Night, Deadly Night remake"
-        ],
-        "stakes_bullets": [
-          "• The remake stars Rohan Campbell and Ruby Modine as the main characters, Billy Chapman and Pamela "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "eb6ab8ca5bd0"
-    },
-    {
       "id": "ad1eb6601679",
       "title": "Blast at Tennessee military explosives plant leaves multiple people dead or missing",
       "outlet": "US news | The Guardian",
@@ -5600,74 +5898,6 @@
       "cluster_id": "1c30bdb5b197"
     },
     {
-      "id": "480057d2f8a1",
-      "title": "Alien: Earth Cast Reveal the Unexpected Approach Noah Hawley Took to FX's Hit Pilot",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/alien-earth-cast-noah-hawley-editing-pilot-episode/",
-      "published_at": "Fri, 10 Oct 2025 16:41:22 GMT",
-      "bullets": [
-        "• The cast of Alien: Earth has revealed how the editing brought the story to life",
-        "• They revealed a surprise moment in the pilot was the result of the editing",
-        "• \"Imagine those [scenes] as it was written",
-        "• We didn't see any of that in episode one,\" they said "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The cast of Alien: Earth has revealed how the editing brought the story to life",
-          "• They revealed a surprise moment in the pilot was the result of the editing"
-        ],
-        "hopeful_bullets": [
-          "• The cast of Alien: Earth has revealed how the editing brought the story to life",
-          "• They revealed a surprise moment in the pilot was the result of the editing"
-        ],
-        "stakes_bullets": [
-          "• They revealed a surprise moment in the pilot was the result of the editing"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "10bd9f839ef9"
-    },
-    {
-      "id": "f0beaa865c7f",
-      "title": "Federal layoffs have started, Trump’s budget chief says, as Congress remains deadlocked over funding to end shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
-      "published_at": "Fri, 10 Oct 2025 16:41:19 GMT",
-      "bullets": [
-        "• The White House has begun a 10-day shutdown of federal government workers",
-        "• The government is trying to get rid of the idea of free tuition for students in the US",
-        "• The US government is also trying to freeze funding for universities across the world",
-        "• The proposal was rejected by the White House "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The White House has begun a 10-day shutdown of federal government workers",
-          "• The government is trying to get rid of the idea of free tuition for students in the US"
-        ],
-        "hopeful_bullets": [
-          "• The White House has begun a 10-day shutdown of federal government workers",
-          "• The government is trying to get rid of the idea of free tuition for students in the US"
-        ],
-        "stakes_bullets": [
-          "• The White House has begun a 10-day shutdown of federal government workers",
-          "• The government is trying to get rid of the idea of free tuition for students in the US",
-          "• The US government is also trying to freeze funding for universities across the world"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "0d18559fa440"
-    },
-    {
       "id": "b79329fe53e4",
       "title": "US retail workers and shoppers: tell us about the impact of Trump’s tariffs",
       "outlet": "US news | The Guardian",
@@ -5697,39 +5927,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8ed30c12e5d0"
-    },
-    {
-      "id": "5aef8a7bbaa8",
-      "title": "Transformers Celebrates 40th Anniversary With Modern Take on Doomed G1 Autobot",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/transformers-studio-series-windcharger/",
-      "published_at": "Fri, 10 Oct 2025 16:33:08 GMT",
-      "bullets": [
-        "• Studio Series 86 Deluxe Class Windcharger updates the classic Autobot \"Mini-Bot\" with a toy that recreates his animated design",
-        "• Set to be released in 2026, this toy coincides with the 40th anniversary of the film The Transformers: The Movie",
-        "• Ironically, his place in the cinematic line references the fact that he actually died in the first movie "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Studio Series 86 Deluxe Class Windcharger updates the classic Autobot \"Mini-Bot\" with a toy that recreates his animated design",
-          "• Set to be released in 2026, this toy coincides with the 40th anniversary of the film The Transformers: The Movie"
-        ],
-        "hopeful_bullets": [
-          "• Studio Series 86 Deluxe Class Windcharger updates the classic Autobot \"Mini-Bot\" with a toy that recreates his animated design"
-        ],
-        "stakes_bullets": [
-          "• Studio Series 86 Deluxe Class Windcharger updates the classic Autobot \"Mini-Bot\" with a toy that recreates his animated design",
-          "• Set to be released in 2026, this toy coincides with the 40th anniversary of the film The Transformers: The Movie",
-          "• Ironically, his place in the cinematic line references the fact that he actually died in the first movie "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "33edaed0770f"
     },
     {
       "id": "30ece4b1f0a4",
@@ -6392,41 +6589,6 @@
       "cluster_id": "14c282f03e9d"
     },
     {
-      "id": "6fed67e836ae",
-      "title": "Bloober Team Updates Release Dates for ‘I Hate This Place’, ‘Layers of Fear’ for Switch 2 and More",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3908387/bloober-team-updates-release-dates-for-i-hate-this-place-layers-of-fear-for-switch-2-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=bloober-team-updates-release-dates-for-i-hate-this-place-layers-of-fear-for-switch-2-and-more",
-      "published_at": "Fri, 10 Oct 2025 14:30:11 +0000",
-      "bullets": [
-        "• Bloober Team has updated fans with a revised release schedule for its upcoming titles",
-        "• Layers of Fear: The Final Masterpiece Edition for Nintendo Switch 2 is due out later this year",
-        "• I Hate This Place has been pushed back to January 29, 2026",
-        "• The survival horror title is based on the popular comic book by Kyle Starks and Artyom Topilin "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.86
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bloober Team has updated fans with a revised release schedule for its upcoming titles",
-          "• Layers of Fear: The Final Masterpiece Edition for Nintendo Switch 2 is due out later this year"
-        ],
-        "hopeful_bullets": [
-          "• Bloober Team has updated fans with a revised release schedule for its upcoming titles",
-          "• Layers of Fear: The Final Masterpiece Edition for Nintendo Switch 2 is due out later this year"
-        ],
-        "stakes_bullets": [
-          "• Bloober Team has updated fans with a revised release schedule for its upcoming titles",
-          "• Layers of Fear: The Final Masterpiece Edition for Nintendo Switch 2 is due out later this year",
-          "• I Hate This Place has been pushed back to January 29, 2026"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "86519c82f75f"
-    },
-    {
       "id": "ecd853c21fc6",
       "title": "Zimbabwe MP dies after his car hits an elephant",
       "outlet": "BBC News",
@@ -6692,38 +6854,6 @@
       "cluster_id": "88aadf395ed3"
     },
     {
-      "id": "88390e435039",
-      "title": "My one-month-old grandson was killed by police tear gas",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg02rjn0r8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 14:00:43 GMT",
-      "bullets": [
-        "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-        "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-        ],
-        "hopeful_bullets": [
-          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-        ],
-        "stakes_bullets": [
-          "• Razanasoa Edmondine's one-month-old grandson was killed by police tear gas in protests that have rocked Madagascar over the last two weeks",
-          "• At least 22 people were killed during clashes between police and demonstrators in the early days of the protests, which have since escalated into broader dissatisfaction "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "dd907394c94d"
-    },
-    {
       "id": "56e3dbc6eed2",
       "title": "Sombr Performs ‘I’m Not the Only One’ With Sam Smith: ‘All I Wanted to Do Is Be Like You’",
       "outlet": "Music News",
@@ -6858,40 +6988,6 @@
       "cluster_id": "cf2de09601a3"
     },
     {
-      "id": "7ae9173e0257",
-      "title": "Baz Luhrmann’s Elvis Presley Concert Film With Unseen Footage to Hit Theaters in 2026",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/baz-luhrmann-elvis-presley-concert-film-epic-2026-release-1235444344/",
-      "published_at": "Fri, 10 Oct 2025 13:09:31 +0000",
-      "bullets": [
-        "• EPiC: Elvis Presley in Concert is centered around recently discovered video of Presley’s famous 1970 Las Vegas residency and his 1972 North American tour",
-        "• It also features new 8mm footage from the Graceland archives",
-        "• The film premiered at the Toronto International Film Festival last month "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• EPiC: Elvis Presley in Concert is centered around recently discovered video of Presley’s famous 1970 Las Vegas residency and his 1972 North American tour",
-          "• It also features new 8mm footage from the Graceland archives"
-        ],
-        "hopeful_bullets": [
-          "• EPiC: Elvis Presley in Concert is centered around recently discovered video of Presley’s famous 1970 Las Vegas residency and his 1972 North American tour",
-          "• It also features new 8mm footage from the Graceland archives"
-        ],
-        "stakes_bullets": [
-          "• EPiC: Elvis Presley in Concert is centered around recently discovered video of Presley’s famous 1970 Las Vegas residency and his 1972 North American tour",
-          "• It also features new 8mm footage from the Graceland archives",
-          "• The film premiered at the Toronto International Film Festival last month "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f7b6d693852a"
-    },
-    {
       "id": "5141a5e16aeb",
       "title": "Burkina Faso refuses to take deportees as US stops issuing visas",
       "outlet": "BBC News",
@@ -7018,42 +7114,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "0a9727891417"
-    },
-    {
-      "id": "c6ddf60caf68",
-      "title": "No Doubt to Reunite for Sphere Residency in Las Vegas",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/no-doubt-las-vegas-sphere-residency-gwen-stefani-1235444272/",
-      "published_at": "Fri, 10 Oct 2025 12:12:50 +0000",
-      "bullets": [
-        "• Gwen Stefani will perform six shows at the Sphere in Las Vegas",
-        "• The short run will kick off May 6",
-        "• Presale for all shows will start Oct",
-        "• 15 at 10 a.m",
-        "• PT, with all tickets going on sale Oct"
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.942
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gwen Stefani will perform six shows at the Sphere in Las Vegas",
-          "• The short run will kick off May 6"
-        ],
-        "hopeful_bullets": [
-          "• Gwen Stefani will perform six shows at the Sphere in Las Vegas",
-          "• The short run will kick off May 6"
-        ],
-        "stakes_bullets": [
-          "• Gwen Stefani will perform six shows at the Sphere in Las Vegas",
-          "• The short run will kick off May 6",
-          "• Presale for all shows will start Oct"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "158edceb0ae4"
     },
     {
       "id": "a480dddd8e7b",
@@ -7941,40 +8001,6 @@
       "cluster_id": "63357268cb07"
     },
     {
-      "id": "30885e8252e5",
-      "title": "How the Texas GOP’s bid to block lawmakers from the ballot defies a century of court precedent",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182885/texas-republican-party-censures-primary-ballot-court-precedent",
-      "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Texas Democrats want to keep state Sen",
-        "• Thomas B",
-        "• Love off the ballot",
-        "• The state's high court has repeatedly upheld this ruling",
-        "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.592
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas Democrats want to keep state Sen",
-          "• Thomas B"
-        ],
-        "hopeful_bullets": [
-          "• Texas Democrats want to keep state Sen",
-          "• Thomas B"
-        ],
-        "stakes_bullets": [
-          "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "31c201d3b2ad"
-    },
-    {
       "id": "94762c340a64",
       "title": "As energy finds Texas young conservatives, U.S. Senate hopefuls make their pitch",
       "outlet": "The Texas Tribune",
@@ -8042,6 +8068,40 @@
       },
       "read_minutes": 8,
       "cluster_id": "f3c780f1966f"
+    },
+    {
+      "id": "30885e8252e5",
+      "title": "How the Texas GOP’s bid to block lawmakers from the ballot defies a century of court precedent",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17182885/texas-republican-party-censures-primary-ballot-court-precedent",
+      "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• Texas Democrats want to keep state Sen",
+        "• Thomas B",
+        "• Love off the ballot",
+        "• The state's high court has repeatedly upheld this ruling",
+        "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.592
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas Democrats want to keep state Sen",
+          "• Thomas B"
+        ],
+        "hopeful_bullets": [
+          "• Texas Democrats want to keep state Sen",
+          "• Thomas B"
+        ],
+        "stakes_bullets": [
+          "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "31c201d3b2ad"
     },
     {
       "id": "8f7d31c0558b",
@@ -8307,6 +8367,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "4e932a64baef",
+      "title": "You can still snag LG’s C4 OLED TV at half the price",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale",
+      "published_at": "2025-10-10T13:34:17-04:00",
+      "bullets": [
+        "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
+        "• Even the newer C5 model is on sale, starting at $929.99 at Amazon",
+        "• Both TVs boast a stunning OLED display that delivers deep, inky blacks and rich, lifelike colors "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
+          "• Even the newer C5 model is on sale, starting at $929.99 at Amazon"
+        ],
+        "hopeful_bullets": [
+          "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
+          "• Even the newer C5 model is on sale, starting at $929.99 at Amazon"
+        ],
+        "stakes_bullets": [
+          "• LG’s 48-inch C4 OLED TV, for instance, is still going for its lowest price yet of around $799.96 ($800 off) at both Amazon and Best Buy",
+          "• Even the newer C5 model is on sale, starting at $929.99 at Amazon",
+          "• Both TVs boast a stunning OLED display that delivers deep, inky blacks and rich, lifelike colors "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e38188ea0e96"
     },
     {
       "id": "c2299340fc82",
@@ -8604,40 +8698,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "58cf095c43db"
-    },
-    {
-      "id": "6d148deee63a",
-      "title": "You can now buy Microsoft&#8217;s Windows XP Crocs for $79.95",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date",
-      "published_at": "2025-10-10T09:54:02-04:00",
-      "bullets": [
-        "• Microsoft is now selling its Windows XP-themed Crocs for $79.95",
-        "• The limited edition Crocs feature the iconic blue sky and clouds from the Windows XP wallpaper",
-        "• They also include a six-pack of Microsoft Jibbitz, with nostalgic options like the original MSN logo "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft is now selling its Windows XP-themed Crocs for $79.95",
-          "• The limited edition Crocs feature the iconic blue sky and clouds from the Windows XP wallpaper"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft is now selling its Windows XP-themed Crocs for $79.95",
-          "• The limited edition Crocs feature the iconic blue sky and clouds from the Windows XP wallpaper"
-        ],
-        "stakes_bullets": [
-          "• Microsoft is now selling its Windows XP-themed Crocs for $79.95",
-          "• The limited edition Crocs feature the iconic blue sky and clouds from the Windows XP wallpaper",
-          "• They also include a six-pack of Microsoft Jibbitz, with nostalgic options like the original MSN logo "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8c5ceee013b4"
     },
     {
       "id": "c41ff758b36a",
@@ -9107,6 +9167,24 @@
       ]
     },
     {
+      "id": "b6d3efa6dcb5",
+      "topic": "air build facility force",
+      "keywords": [
+        "air",
+        "build",
+        "facility",
+        "force",
+        "idaho",
+        "qatar"
+      ],
+      "item_ids": [
+        "d090d5c7c5b3"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "7c473b70d0a3",
       "topic": "burkina deportee faso refuse",
       "keywords": [
@@ -9190,24 +9268,6 @@
       ],
       "item_ids": [
         "88390e435039"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "38ca06fcd04c",
-      "topic": "appealed conviction handed man",
-      "keywords": [
-        "appealed",
-        "conviction",
-        "handed",
-        "man",
-        "pelicot",
-        "rape"
-      ],
-      "item_ids": [
-        "dcf8d6a90534"
       ],
       "outlets": [
         "BBC News"
@@ -9394,6 +9454,24 @@
       ]
     },
     {
+      "id": "0d18559fa440",
+      "topic": "budget chief federal layoff",
+      "keywords": [
+        "budget",
+        "chief",
+        "federal",
+        "layoff",
+        "started",
+        "trump"
+      ],
+      "item_ids": [
+        "f0beaa865c7f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "bb5e08c4e40a",
       "topic": "columbia free group speech",
       "keywords": [
@@ -9442,24 +9520,6 @@
       ],
       "item_ids": [
         "ad1eb6601679"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "0d18559fa440",
-      "topic": "budget chief federal layoff",
-      "keywords": [
-        "budget",
-        "chief",
-        "federal",
-        "layoff",
-        "started",
-        "trump"
-      ],
-      "item_ids": [
-        "f0beaa865c7f"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10042,6 +10102,23 @@
       ]
     },
     {
+      "id": "e38188ea0e96",
+      "topic": "half oled price snag",
+      "keywords": [
+        "half",
+        "oled",
+        "price",
+        "snag",
+        "still"
+      ],
+      "item_ids": [
+        "4e932a64baef"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "9d705e1c6b14",
       "topic": "automatically chrome disable don",
       "keywords": [
@@ -10194,24 +10271,6 @@
       ],
       "item_ids": [
         "89e93f969da6"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "8c5ceee013b4",
-      "topic": "8217 buy croc microsoft",
-      "keywords": [
-        "8217",
-        "buy",
-        "croc",
-        "microsoft",
-        "now",
-        "window"
-      ],
-      "item_ids": [
-        "6d148deee63a"
       ],
       "outlets": [
         "The Verge"
@@ -11319,6 +11378,24 @@
       ]
     },
     {
+      "id": "83dc796d741c",
+      "topic": "burdened cancer chemical community",
+      "keywords": [
+        "burdened",
+        "cancer",
+        "chemical",
+        "community",
+        "demanding",
+        "waste"
+      ],
+      "item_ids": [
+        "19bfcde43c83"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "0f7da0da7cf0",
       "topic": "center data hope michigan",
       "keywords": [
@@ -11348,6 +11425,24 @@
       ],
       "item_ids": [
         "5d0901c2503f"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "e7c039e05f7b",
+      "topic": "alabama change city despite",
+      "keywords": [
+        "alabama",
+        "change",
+        "city",
+        "despite",
+        "opposition",
+        "stiff"
+      ],
+      "item_ids": [
+        "6fb8e1b21083"
       ],
       "outlets": [
         "Inside Climate News"
@@ -11515,6 +11610,24 @@
       ]
     },
     {
+      "id": "53049ee50ab8",
+      "topic": "come horror suffocate survival",
+      "keywords": [
+        "come",
+        "horror",
+        "suffocate",
+        "survival",
+        "taiwanese",
+        "title"
+      ],
+      "item_ids": [
+        "df11f5f37de5"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "7d2f44313e1e",
       "topic": "alien doll giger mattel",
       "keywords": [
@@ -11671,24 +11784,6 @@
       ],
       "item_ids": [
         "c81dfba39a0a"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "86519c82f75f",
-      "topic": "bloober date hate place",
-      "keywords": [
-        "bloober",
-        "date",
-        "hate",
-        "place",
-        "release",
-        "team"
-      ],
-      "item_ids": [
-        "6fed67e836ae"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12950,6 +13045,59 @@
       ]
     },
     {
+      "id": "2b5747c1273b",
+      "topic": "best binge prime show",
+      "keywords": [
+        "best",
+        "binge",
+        "prime",
+        "show",
+        "video",
+        "watch"
+      ],
+      "item_ids": [
+        "c6f9778afe8d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "6fbf98e45da9",
+      "topic": "aren character incredible superheroe",
+      "keywords": [
+        "aren",
+        "character",
+        "incredible",
+        "superheroe",
+        "villain"
+      ],
+      "item_ids": [
+        "f4ebc1a28f61"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c0efb73c570c",
+      "topic": "anime back competitor crunchyroll",
+      "keywords": [
+        "anime",
+        "back",
+        "competitor",
+        "crunchyroll",
+        "hits",
+        "slop"
+      ],
+      "item_ids": [
+        "5bf1eb851831"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "8ff1dcf05f92",
       "topic": "drop first immediately man",
       "keywords": [
@@ -13069,60 +13217,6 @@
       ],
       "item_ids": [
         "31b168b65867"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "eb6ab8ca5bd0",
-      "topic": "become christma deadly night",
-      "keywords": [
-        "become",
-        "christma",
-        "deadly",
-        "night",
-        "silent",
-        "want"
-      ],
-      "item_ids": [
-        "fc6ccb630a34"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "10bd9f839ef9",
-      "topic": "alien approach cast earth",
-      "keywords": [
-        "alien",
-        "approach",
-        "cast",
-        "earth",
-        "reveal",
-        "unexpected"
-      ],
-      "item_ids": [
-        "480057d2f8a1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "33edaed0770f",
-      "topic": "40th anniversary celebrate modern",
-      "keywords": [
-        "40th",
-        "anniversary",
-        "celebrate",
-        "modern",
-        "take",
-        "transformer"
-      ],
-      "item_ids": [
-        "5aef8a7bbaa8"
       ],
       "outlets": [
         "CBR"
@@ -13307,6 +13401,42 @@
       ]
     },
     {
+      "id": "95b1f671c1c5",
+      "topic": "again chinouriri fall love",
+      "keywords": [
+        "again",
+        "chinouriri",
+        "fall",
+        "love",
+        "madonna",
+        "rachel"
+      ],
+      "item_ids": [
+        "02908e62178e"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "cb9ffd37167e",
+      "topic": "axe channel end mtv",
+      "keywords": [
+        "axe",
+        "channel",
+        "end",
+        "mtv",
+        "music",
+        "year"
+      ],
+      "item_ids": [
+        "d04628091813"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "845fe1b43aae",
       "topic": "continue frank halloween live",
       "keywords": [
@@ -13445,42 +13575,6 @@
       ],
       "item_ids": [
         "56e3dbc6eed2"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "f7b6d693852a",
-      "topic": "baz concert elvi film",
-      "keywords": [
-        "baz",
-        "concert",
-        "elvi",
-        "film",
-        "luhrmann",
-        "presley"
-      ],
-      "item_ids": [
-        "7ae9173e0257"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "158edceb0ae4",
-      "topic": "doubt las residency reunite",
-      "keywords": [
-        "doubt",
-        "las",
-        "residency",
-        "reunite",
-        "sphere",
-        "vega"
-      ],
-      "item_ids": [
-        "c6ddf60caf68"
       ],
       "outlets": [
         "Music News"
@@ -13666,24 +13760,6 @@
       ]
     },
     {
-      "id": "31c201d3b2ad",
-      "topic": "ballot bid block gop",
-      "keywords": [
-        "ballot",
-        "bid",
-        "block",
-        "gop",
-        "lawmaker",
-        "texa"
-      ],
-      "item_ids": [
-        "30885e8252e5"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "0fb6075febad",
       "topic": "conservative energy find senate",
       "keywords": [
@@ -13714,6 +13790,24 @@
       ],
       "item_ids": [
         "513217038302"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "31c201d3b2ad",
+      "topic": "ballot bid block gop",
+      "keywords": [
+        "ballot",
+        "bid",
+        "block",
+        "gop",
+        "lawmaker",
+        "texa"
+      ],
+      "item_ids": [
+        "30885e8252e5"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13774,24 +13868,6 @@
       ]
     },
     {
-      "id": "81c7f4c71204",
-      "topic": "chance race south student",
-      "keywords": [
-        "chance",
-        "race",
-        "south",
-        "student",
-        "taste",
-        "texa"
-      ],
-      "item_ids": [
-        "32ac6adcfa81"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "be01b2bd2298",
       "topic": "college community course remove",
       "keywords": [
@@ -13822,6 +13898,24 @@
       ],
       "item_ids": [
         "cd40517a5e67"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "81c7f4c71204",
+      "topic": "chance race south student",
+      "keywords": [
+        "chance",
+        "race",
+        "south",
+        "student",
+        "taste",
+        "texa"
+      ],
+      "item_ids": [
+        "32ac6adcfa81"
       ],
       "outlets": [
         "The Texas Tribune"
