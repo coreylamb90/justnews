@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T05:02:21Z",
+  "generated_at": "2025-10-10T05:18:26Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2012,39 +2012,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "de631f7845cb"
-    },
-    {
-      "id": "20c2cf6df9de",
-      "title": "From problem to possibility: how your attention can improve your life",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/how-managing-attention-can-change-your-life/",
-      "published_at": "Thu, 25 Sep 2025 12:39:03 +0000",
-      "bullets": [
-        "• Jodie Jackson, a specialist in the way the brain forms habits, explains how our most valuable resource is our attention",
-        "• Your attention decides how your hours are spent, what you notice, how you feel, and ultimately, what gets created in your life",
-        "• In a world of constant digital noise, by reclaiming our attention we can improve our lives "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jodie Jackson, a specialist in the way the brain forms habits, explains how our most valuable resource is our attention",
-          "• Your attention decides how your hours are spent, what you notice, how you feel, and ultimately, what gets created in your life"
-        ],
-        "hopeful_bullets": [
-          "• In a world of constant digital noise, by reclaiming our attention we can improve our lives "
-        ],
-        "stakes_bullets": [
-          "• Jodie Jackson, a specialist in the way the brain forms habits, explains how our most valuable resource is our attention",
-          "• Your attention decides how your hours are spent, what you notice, how you feel, and ultimately, what gets created in your life",
-          "• In a world of constant digital noise, by reclaiming our attention we can improve our lives "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4932bfe8752a"
     },
     {
       "id": "c690784022a8",
@@ -7554,20 +7521,52 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "aad1aae11311",
+      "title": "What went right this week: the good news that matters",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/environment/good-news-stories-from-week-41-of-2025/",
+      "published_at": "Fri, 10 Oct 2025 05:00:51 +0000",
+      "bullets": [
+        "• Renewables overtook coal as the world’s leading source of electricity for the first time",
+        "• This represents a ‘historic shift’ in the global energy transition",
+        "• Wind and solar power outpaced rising global demand for electricity, with solar alone meeting 83% of the new demand "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Renewables overtook coal as the world’s leading source of electricity for the first time",
+          "• This represents a ‘historic shift’ in the global energy transition"
+        ],
+        "hopeful_bullets": [
+          "• Wind and solar power outpaced rising global demand for electricity, with solar alone meeting 83% of the new demand "
+        ],
+        "stakes_bullets": [
+          "• Renewables overtook coal as the world’s leading source of electricity for the first time"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "0e4127ec8972"
+    },
+    {
       "id": "353e5eda57f4",
       "title": "China blacklists major chip research firm TechInsights following report on Huawei",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/10/china-blacklists-major-chip-ai-research-firm-techinsights-analyzed-report-huawei.html",
-      "published_at": "Fri, 10 Oct 2025 04:26:33 GMT",
+      "published_at": "Fri, 10 Oct 2025 04:48:50 GMT",
       "bullets": [
         "• Beijing bans semiconductor research firm TechInsights from working with or receiving data from Chinese entities",
         "• The move could add to the opaqueness of the country's chip industry",
-        "• The ban comes less than a week after a report revealed that Huawei's latest artificial intelligence chips were sourced from outside China "
+        "• China's Commerce Ministry cited national security concerns, citing national security reasons",
+        "• The firm was among the first to report breakthroughs by companies like Huawei Technologies "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
@@ -7575,13 +7574,11 @@
           "• The move could add to the opaqueness of the country's chip industry"
         ],
         "hopeful_bullets": [
-          "• Beijing bans semiconductor research firm TechInsights from working with or receiving data from Chinese entities",
-          "• The move could add to the opaqueness of the country's chip industry"
+          "• The firm was among the first to report breakthroughs by companies like Huawei Technologies "
         ],
         "stakes_bullets": [
           "• Beijing bans semiconductor research firm TechInsights from working with or receiving data from Chinese entities",
-          "• The move could add to the opaqueness of the country's chip industry",
-          "• The ban comes less than a week after a report revealed that Huawei's latest artificial intelligence chips were sourced from outside China "
+          "• The move could add to the opaqueness of the country's chip industry"
         ]
       },
       "read_minutes": 2,
@@ -12958,6 +12955,23 @@
       ]
     },
     {
+      "id": "0e4127ec8972",
+      "topic": "good matter right week",
+      "keywords": [
+        "good",
+        "matter",
+        "right",
+        "week",
+        "went"
+      ],
+      "item_ids": [
+        "aad1aae11311"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "d422d9fff1c9",
       "topic": "celebrate london mother statue",
       "keywords": [
@@ -13112,23 +13126,6 @@
       ],
       "item_ids": [
         "2deb3486e451"
-      ],
-      "outlets": [
-        "Positive News"
-      ]
-    },
-    {
-      "id": "4932bfe8752a",
-      "topic": "attention improve life possibility",
-      "keywords": [
-        "attention",
-        "improve",
-        "life",
-        "possibility",
-        "problem"
-      ],
-      "item_ids": [
-        "20c2cf6df9de"
       ],
       "outlets": [
         "Positive News"
