@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T02:21:42Z",
+  "generated_at": "2025-10-11T03:31:23Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1153,38 +1153,6 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
-    },
-    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1218,6 +1186,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
+    },
+    {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -3318,6 +3318,376 @@
       "cluster_id": "897fb01038ba"
     },
     {
+      "id": "7301efcf3bdd",
+      "title": "1 Anime Officially Outgrossed Every Superhero Film of 2025 -- & It’s Not Done Yet",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/demon-slayer-infinity-castle-larger-box-office-fantastic-four-superman/",
+      "published_at": "Sat, 11 Oct 2025 03:24:53 GMT",
+      "bullets": [
+        "• The new movie is the latest in a long line of action movies to be released",
+        "• Marvel's The Fantastic Four: First Steps and DC's Superman are both solid",
+        "• The new film is a sequel to a series of Japanese anime films starring the main character",
+        "• The movie is set to debut in 2015 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The new movie is the latest in a long line of action movies to be released",
+          "• Marvel's The Fantastic Four: First Steps and DC's Superman are both solid"
+        ],
+        "hopeful_bullets": [
+          "• The new movie is the latest in a long line of action movies to be released",
+          "• Marvel's The Fantastic Four: First Steps and DC's Superman are both solid"
+        ],
+        "stakes_bullets": [
+          "• The new movie is the latest in a long line of action movies to be released",
+          "• Marvel's The Fantastic Four: First Steps and DC's Superman are both solid",
+          "• The new film is a sequel to a series of Japanese anime films starring the main character"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "cbac6c86233e"
+    },
+    {
+      "id": "3aeebc3c428c",
+      "title": "One Piece Director Aims to 'Rein It In' With Overseas Animators as Elbaf Gets First-Look Anime Reveal (Exclusive)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/one-piece-director-overseas-animators-elbaf-first-look/",
+      "published_at": "Sat, 11 Oct 2025 03:20:12 GMT",
+      "bullets": [
+        "• One Piece anime series director Wataru Matsumi spoke to CBR at New York Comic-Con",
+        "• Matsumi said he has a lot of creative freedom as director of the long-running anime series",
+        "• He also revealed a new reveal about the series' creator at the convention "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Piece anime series director Wataru Matsumi spoke to CBR at New York Comic-Con",
+          "• Matsumi said he has a lot of creative freedom as director of the long-running anime series"
+        ],
+        "hopeful_bullets": [
+          "• One Piece anime series director Wataru Matsumi spoke to CBR at New York Comic-Con",
+          "• Matsumi said he has a lot of creative freedom as director of the long-running anime series"
+        ],
+        "stakes_bullets": [
+          "• One Piece anime series director Wataru Matsumi spoke to CBR at New York Comic-Con",
+          "• Matsumi said he has a lot of creative freedom as director of the long-running anime series",
+          "• He also revealed a new reveal about the series' creator at the convention "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c70639755bff"
+    },
+    {
+      "id": "01eb5ed03a82",
+      "title": "10 Perfect, Horror-Based DC Elseworlds Stories",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dc-best-horror-elseworlds-comics/",
+      "published_at": "Sat, 11 Oct 2025 03:15:12 GMT",
+      "bullets": [
+        "• Horror fans looking to read some of the scariest, darkest DC stories should turn to the alternate universes of the DC multiverse",
+        "• Classic Elseworlds and modern Black Label books have transformed iconic DC heroes into horror-inspired monsters and creatures of the night",
+        "• DCeased is an incredible series for fans of the zombie horror genre "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Horror fans looking to read some of the scariest, darkest DC stories should turn to the alternate universes of the DC multiverse",
+          "• Classic Elseworlds and modern Black Label books have transformed iconic DC heroes into horror-inspired monsters and creatures of the night"
+        ],
+        "hopeful_bullets": [
+          "• Horror fans looking to read some of the scariest, darkest DC stories should turn to the alternate universes of the DC multiverse",
+          "• Classic Elseworlds and modern Black Label books have transformed iconic DC heroes into horror-inspired monsters and creatures of the night"
+        ],
+        "stakes_bullets": [
+          "• Horror fans looking to read some of the scariest, darkest DC stories should turn to the alternate universes of the DC multiverse",
+          "• Classic Elseworlds and modern Black Label books have transformed iconic DC heroes into horror-inspired monsters and creatures of the night",
+          "• DCeased is an incredible series for fans of the zombie horror genre "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "2357412e66b1"
+    },
+    {
+      "id": "193cb3f8b834",
+      "title": "10 Greatest JRPGs of the Last 20 Years, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/greatest-jrpgs-last-20-years-ranked/",
+      "published_at": "Sat, 11 Oct 2025 03:15:12 GMT",
+      "bullets": [
+        "• JRPGs have been a gaming staple since the NES",
+        "• The genre has continued to grow over the past two decades",
+        "• Fire Emblem: Three Houses was a massive departure from prior games in the franchise",
+        "• Despite all the Persona-esque elements, the actual battle elements remain as strategically deep as ever "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JRPGs have been a gaming staple since the NES",
+          "• The genre has continued to grow over the past two decades"
+        ],
+        "hopeful_bullets": [
+          "• JRPGs have been a gaming staple since the NES",
+          "• The genre has continued to grow over the past two decades"
+        ],
+        "stakes_bullets": [
+          "• JRPGs have been a gaming staple since the NES",
+          "• The genre has continued to grow over the past two decades",
+          "• Fire Emblem: Three Houses was a massive departure from prior games in the franchise"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "71545bf9d300"
+    },
+    {
+      "id": "b2203373ce44",
+      "title": "Supernatural Revival Gets a Disappointing Update From Mark Sheppard",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/supernatural-revival-mark-sheppard-interview/",
+      "published_at": "Sat, 11 Oct 2025 03:11:22 GMT",
+      "bullets": [
+        "• Jared Padalecki and Jensen Ackles have expressed interest in a revival of Supernatural",
+        "• Mark Sheppard said he would be open to reprising his role as Crowley",
+        "• The King of Hell said it's \"none of my business\" and that there have been no serious discussions "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jared Padalecki and Jensen Ackles have expressed interest in a revival of Supernatural",
+          "• Mark Sheppard said he would be open to reprising his role as Crowley"
+        ],
+        "hopeful_bullets": [
+          "• Jared Padalecki and Jensen Ackles have expressed interest in a revival of Supernatural",
+          "• Mark Sheppard said he would be open to reprising his role as Crowley"
+        ],
+        "stakes_bullets": [
+          "• Jared Padalecki and Jensen Ackles have expressed interest in a revival of Supernatural",
+          "• Mark Sheppard said he would be open to reprising his role as Crowley",
+          "• The King of Hell said it's \"none of my business\" and that there have been no serious discussions "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "4aac8129a7b4"
+    },
+    {
+      "id": "45b2bd8750f3",
+      "title": "Peter Jackson's Dead Alive Is a Controversial Horror Comedy",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dead-alive-peter-jackson-controversial/",
+      "published_at": "Sat, 11 Oct 2025 03:00:12 GMT",
+      "bullets": [
+        "• Peter Jackson's 1992 film Dead Alive is still regarded as one of the bloodiest films ever made",
+        "• The film pushed genre boundaries with its inclusion of slapstick comedy, dark humor and excessive gore",
+        "• The project didn't sport a Lord of the Rings-sized budget, though Dead Alive displayed what a young Peter Jackson was capable of "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Peter Jackson's 1992 film Dead Alive is still regarded as one of the bloodiest films ever made",
+          "• The film pushed genre boundaries with its inclusion of slapstick comedy, dark humor and excessive gore"
+        ],
+        "hopeful_bullets": [
+          "• Peter Jackson's 1992 film Dead Alive is still regarded as one of the bloodiest films ever made",
+          "• The film pushed genre boundaries with its inclusion of slapstick comedy, dark humor and excessive gore"
+        ],
+        "stakes_bullets": [
+          "• Peter Jackson's 1992 film Dead Alive is still regarded as one of the bloodiest films ever made",
+          "• The film pushed genre boundaries with its inclusion of slapstick comedy, dark humor and excessive gore",
+          "• The project didn't sport a Lord of the Rings-sized budget, though Dead Alive displayed what a young Peter Jackson was capable of "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "11ec7e8296d1"
+    },
+    {
+      "id": "beead204db1d",
+      "title": "5 Power Rangers Wild Force Episodes That Are Stealth Masterpieces From Start to Finish",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/power-rangers-wild-force-episodes-masterpieces-start-to-finish-list/",
+      "published_at": "Sat, 11 Oct 2025 02:30:12 GMT",
+      "bullets": [
+        "• The Power Rangers Wild Force is one of the most underrated parts of the franchise",
+        "• Some of the best episodes feature the pinnacle of the Org and Wild Zord storylines",
+        "• The episode \"The Lone Wolf\" concluded the Zen-Aku Saga, and officially began Merrick's career as the Lunar Wolf Ranger "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Power Rangers Wild Force is one of the most underrated parts of the franchise",
+          "• Some of the best episodes feature the pinnacle of the Org and Wild Zord storylines"
+        ],
+        "hopeful_bullets": [
+          "• The Power Rangers Wild Force is one of the most underrated parts of the franchise",
+          "• Some of the best episodes feature the pinnacle of the Org and Wild Zord storylines"
+        ],
+        "stakes_bullets": [
+          "• The Power Rangers Wild Force is one of the most underrated parts of the franchise",
+          "• Some of the best episodes feature the pinnacle of the Org and Wild Zord storylines",
+          "• The episode \"The Lone Wolf\" concluded the Zen-Aku Saga, and officially began Merrick's career as the Lunar Wolf Ranger "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "1f6d5c6f1a51"
+    },
+    {
+      "id": "c253f5f04a7e",
+      "title": "Forgotten Gundam Finally Gets a Modern Update With New High-End Mecha Release",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/gundam-sentinel-zeta-plus-a1-action-figure/",
+      "published_at": "Sat, 11 Oct 2025 02:21:13 GMT",
+      "bullets": [
+        "• The METAL ROBOT Spirits (Ka signature) Z PLUS A1 (TEST IMAGE COLOR) is based on the Zeta Plus A1 mobile suit from the Gundam Sentinel novels",
+        "• Sold through Premium Bandai, this highly desired collectible is set to be released nearly four decades after the novel it's based on "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.941
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The METAL ROBOT Spirits (Ka signature) Z PLUS A1 (TEST IMAGE COLOR) is based on the Zeta Plus A1 mobile suit from the Gundam Sentinel novels",
+          "• Sold through Premium Bandai, this highly desired collectible is set to be released nearly four decades after the novel it's based on "
+        ],
+        "hopeful_bullets": [
+          "• The METAL ROBOT Spirits (Ka signature) Z PLUS A1 (TEST IMAGE COLOR) is based on the Zeta Plus A1 mobile suit from the Gundam Sentinel novels",
+          "• Sold through Premium Bandai, this highly desired collectible is set to be released nearly four decades after the novel it's based on "
+        ],
+        "stakes_bullets": [
+          "• Sold through Premium Bandai, this highly desired collectible is set to be released nearly four decades after the novel it's based on "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d02a825a1a41"
+    },
+    {
+      "id": "f72991c7f4ae",
+      "title": "10 Funniest Anime of All Time, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/funniest-anime-ever-ranked/",
+      "published_at": "Sat, 11 Oct 2025 02:17:50 GMT",
+      "bullets": [
+        "• Despite being one of the most beloved and varied genres of anime out there, comedy is also the most subjective type of entertainment",
+        "• What each viewer finds funny mostly depends on their personal sense of humor",
+        "• Bocchi the Rock! unexpectedly excels at comedy thanks to its uniquely relatable protagonist "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Despite being one of the most beloved and varied genres of anime out there, comedy is also the most subjective type of entertainment",
+          "• What each viewer finds funny mostly depends on their personal sense of humor"
+        ],
+        "hopeful_bullets": [
+          "• Despite being one of the most beloved and varied genres of anime out there, comedy is also the most subjective type of entertainment",
+          "• What each viewer finds funny mostly depends on their personal sense of humor"
+        ],
+        "stakes_bullets": [
+          "• Bocchi the Rock! unexpectedly excels at comedy thanks to its uniquely relatable protagonist "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "2efd5b8b1d6c"
+    },
+    {
+      "id": "f0beaa865c7f",
+      "title": "After uproar, Pete Hegseth clarifies Qatari air force facility in Idaho is not a foreign base – as it happened",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
+      "published_at": "Sat, 11 Oct 2025 02:03:11 GMT",
+      "bullets": [
+        "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+        "• The president is fully immunized against Covid and the flu, according to his doctor following his second physical in six months",
+        "• The secretary of defense was forced to issue a clarification on social media, hours after he publicly signed what he called “a letter of acceptance” to build a Qatari air force facility in Idaho "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+          "• The president is fully immunized against Covid and the flu, according to his doctor following his second physical in six months"
+        ],
+        "hopeful_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+          "• The president is fully immunized against Covid and the flu, according to his doctor following his second physical in six months"
+        ],
+        "stakes_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+          "• The president is fully immunized against Covid and the flu, according to his doctor following his second physical in six months",
+          "• The secretary of defense was forced to issue a clarification on social media, hours after he publicly signed what he called “a letter of acceptance” to build a Qatari air force facility in Idaho "
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "34b3446dc3b0"
+    },
+    {
+      "id": "12e84245dbee",
+      "title": "Trump completes ‘semiannual’ physical before traveling to Middle East",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-physical-walter-reed",
+      "published_at": "Sat, 11 Oct 2025 02:02:24 GMT",
+      "bullets": [
+        "• Donald Trump returns to the White House for a 'routine' exam on Friday",
+        "• The president is the oldest person ever to be elected president",
+        "• The White House has not said when it will release the results of the exam",
+        "• The exam is part of the president's annual trip to the Middle East for the first time "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.933
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump returns to the White House for a 'routine' exam on Friday",
+          "• The president is the oldest person ever to be elected president"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump returns to the White House for a 'routine' exam on Friday",
+          "• The president is the oldest person ever to be elected president"
+        ],
+        "stakes_bullets": [
+          "• The White House has not said when it will release the results of the exam"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "051b50f3e813"
+    },
+    {
       "id": "3a74c8011b27",
       "title": "Disney+'s Streaming Charts Confirm This 17-Year-Old Horror Franchise Is Finally Ready for a Comeback",
       "outlet": "CBR",
@@ -3350,38 +3720,36 @@
       "cluster_id": "2c19558cbe72"
     },
     {
-      "id": "b3126dcd8905",
-      "title": "Demon Slayer's Final Arc is Ruining Tanjiro in Real Time",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/demon-slayer-final-arc-tanjiro-ruined-character/",
-      "published_at": "Sat, 11 Oct 2025 01:56:20 GMT",
+      "id": "7116930fd2c7",
+      "title": "Denmark to boost Greenland defence with new ships, jets and HQ",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy9n790j878o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 11 Oct 2025 01:56:45 GMT",
       "bullets": [
-        "• Demon Slayer fans have come to love how kind Tanjiro is and view it as his defining trait",
-        "• The Infinity Castle Arc is putting a stop to that",
-        "• This is the final phase of Demon Slayer's story, where the stakes and danger have reached their peak "
+        "• Denmark to boost Greenland defence with new ships, jets and HQ",
+        "• New Arctic command headquarters will be set up in Greenlandic capital, Nuuk",
+        "• It will also spend $4.5bn buying 16 more F-35 fighter jets from the United States "
       ],
-      "category": "Comics",
+      "category": "World",
       "sentiment": {
-        "label": "negative",
-        "score": 0.975
+        "label": "positive",
+        "score": 0.683
       },
       "moods": {
         "brief_bullets": [
-          "• Demon Slayer fans have come to love how kind Tanjiro is and view it as his defining trait",
-          "• The Infinity Castle Arc is putting a stop to that"
+          "• Denmark to boost Greenland defence with new ships, jets and HQ",
+          "• New Arctic command headquarters will be set up in Greenlandic capital, Nuuk"
         ],
         "hopeful_bullets": [
-          "• Demon Slayer fans have come to love how kind Tanjiro is and view it as his defining trait",
-          "• The Infinity Castle Arc is putting a stop to that"
+          "• Denmark to boost Greenland defence with new ships, jets and HQ"
         ],
         "stakes_bullets": [
-          "• Demon Slayer fans have come to love how kind Tanjiro is and view it as his defining trait",
-          "• The Infinity Castle Arc is putting a stop to that",
-          "• This is the final phase of Demon Slayer's story, where the stakes and danger have reached their peak "
+          "• New Arctic command headquarters will be set up in Greenlandic capital, Nuuk",
+          "• It will also spend $4.5bn buying 16 more F-35 fighter jets from the United States "
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "549bfab14efc"
+      "read_minutes": 2,
+      "cluster_id": "c46143ff9f8a"
     },
     {
       "id": "6fb33a050c57",
@@ -3415,237 +3783,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "e4209ab4d29b"
-    },
-    {
-      "id": "f0beaa865c7f",
-      "title": "After uproar, Pete Hegseth clarifies Qatari air force facility in Idaho is not a foreign base – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
-      "published_at": "Sat, 11 Oct 2025 01:37:53 GMT",
-      "bullets": [
-        "• Donald Trump was vaccinated against both Covid and the flu on Friday, according to a letter from the president’s doctor",
-        "• The doctor also wrote that Trump’ underwent an evaluation that included advanced imaging and laboratory testing, but suggested that he is in “exceptional health.”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.624
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump was vaccinated against both Covid and the flu on Friday, according to a letter from the president’s doctor",
-          "• The doctor also wrote that Trump’ underwent an evaluation that included advanced imaging and laboratory testing, but suggested that he is in “exceptional health.”"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump was vaccinated against both Covid and the flu on Friday, according to a letter from the president’s doctor"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump was vaccinated against both Covid and the flu on Friday, according to a letter from the president’s doctor",
-          "• The doctor also wrote that Trump’ underwent an evaluation that included advanced imaging and laboratory testing, but suggested that he is in “exceptional health.”"
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "34b3446dc3b0"
-    },
-    {
-      "id": "610778e1cc35",
-      "title": "Netflix’s Squid Game & Alice in Borderland Share an 86% RT Score After Their Finales, But 1 Is Definitely Better",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/netflix-alice-in-boderland-squid-game-season-3-finale/",
-      "published_at": "Sat, 11 Oct 2025 01:30:12 GMT",
-      "bullets": [
-        "• Alice in Borderland and Squid Game have both released their third seasons",
-        "• The survival thriller series arguably features the better finale based on the story's conclusion, the emotional impact, and future possibilities",
-        "• Netflix has inadvertently pitted these two series against one another for years "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.936
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alice in Borderland and Squid Game have both released their third seasons",
-          "• The survival thriller series arguably features the better finale based on the story's conclusion, the emotional impact, and future possibilities"
-        ],
-        "hopeful_bullets": [
-          "• Netflix has inadvertently pitted these two series against one another for years "
-        ],
-        "stakes_bullets": [
-          "• The survival thriller series arguably features the better finale based on the story's conclusion, the emotional impact, and future possibilities"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "33c99754147f"
-    },
-    {
-      "id": "1dd76e36d95f",
-      "title": "Invincible Season 4’s Thrilling Trailer Reveals Its Release Date",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/invincible-season-4s-thrilling-trailer-reveals-its-release-date/",
-      "published_at": "Sat, 11 Oct 2025 01:17:57 GMT",
-      "bullets": [
-        "• Season 4 of the hit series will be released on Prime Video in March 2026",
-        "• The series is set to be the first time it's been in a long-running comic series",
-        "• The trailer for the fourth season of the series has been released",
-        "• The show will be available on Amazon Prime "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Season 4 of the hit series will be released on Prime Video in March 2026",
-          "• The series is set to be the first time it's been in a long-running comic series"
-        ],
-        "hopeful_bullets": [
-          "• Season 4 of the hit series will be released on Prime Video in March 2026",
-          "• The series is set to be the first time it's been in a long-running comic series"
-        ],
-        "stakes_bullets": [
-          "• Season 4 of the hit series will be released on Prime Video in March 2026",
-          "• The show will be available on Amazon Prime "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1cce817c145f"
-    },
-    {
-      "id": "d6e8ca1246c9",
-      "title": "The Walking Dead: Daryl Dixon Unveils Exclusive Season 3 Finale Clip",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/the-walking-dead-daryl-dixon-season-3-finale-clip/",
-      "published_at": "Sat, 11 Oct 2025 01:15:12 GMT",
-      "bullets": [
-        "• The Walking Dead: Daryl Dixon is nearing Season 3 finale, and will wrap with the already-confirmed Season 4",
-        "• The season finale takes Daryl and Carol back to where they started, where the ship wrecked in Spain",
-        "• The show also reminded fans that it will come back for Season 4, and teased a special behind-the-scenes clip "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Walking Dead: Daryl Dixon is nearing Season 3 finale, and will wrap with the already-confirmed Season 4",
-          "• The season finale takes Daryl and Carol back to where they started, where the ship wrecked in Spain"
-        ],
-        "hopeful_bullets": [
-          "• The Walking Dead: Daryl Dixon is nearing Season 3 finale, and will wrap with the already-confirmed Season 4",
-          "• The season finale takes Daryl and Carol back to where they started, where the ship wrecked in Spain"
-        ],
-        "stakes_bullets": [
-          "• The Walking Dead: Daryl Dixon is nearing Season 3 finale, and will wrap with the already-confirmed Season 4",
-          "• The show also reminded fans that it will come back for Season 4, and teased a special behind-the-scenes clip "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2bc0ddbface1"
-    },
-    {
-      "id": "f8f90129787d",
-      "title": "5 Best Anime That’ll Help You Learn Japanese",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-anime-learning-japanese/",
-      "published_at": "Sat, 11 Oct 2025 01:08:32 GMT",
-      "bullets": [
-        "• Anime is one of the best and most engaging ways to learn Japanese language",
-        "• Listening to people speak in anime demonstrates how the language is spoken in different social situations",
-        "• Top picks, like Your Name and Doraemon, are balanced as well as being entertaining without being unrealistic "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anime is one of the best and most engaging ways to learn Japanese language",
-          "• Listening to people speak in anime demonstrates how the language is spoken in different social situations"
-        ],
-        "hopeful_bullets": [
-          "• Anime is one of the best and most engaging ways to learn Japanese language",
-          "• Listening to people speak in anime demonstrates how the language is spoken in different social situations"
-        ],
-        "stakes_bullets": [
-          "• Anime is one of the best and most engaging ways to learn Japanese language",
-          "• Listening to people speak in anime demonstrates how the language is spoken in different social situations",
-          "• Top picks, like Your Name and Doraemon, are balanced as well as being entertaining without being unrealistic "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "f33c57df587e"
-    },
-    {
-      "id": "199a1d405c57",
-      "title": "Indiana Jones 5's $419M Budget Is a Much Bigger Problem Than Fans Realize",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/indiana-jones-5-massive-budget-issue/",
-      "published_at": "Sat, 11 Oct 2025 01:00:12 GMT",
-      "bullets": [
-        "• The final production budget for Indiana Jones and the Dial of Destiny is $419 million",
-        "• It cost $35 million more to make than it took in at the global box office",
-        "• Even with a tax break, the movie needed a gross of (at least) $700 million to break even "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The final production budget for Indiana Jones and the Dial of Destiny is $419 million",
-          "• It cost $35 million more to make than it took in at the global box office"
-        ],
-        "hopeful_bullets": [
-          "• The final production budget for Indiana Jones and the Dial of Destiny is $419 million",
-          "• It cost $35 million more to make than it took in at the global box office"
-        ],
-        "stakes_bullets": [
-          "• The final production budget for Indiana Jones and the Dial of Destiny is $419 million",
-          "• It cost $35 million more to make than it took in at the global box office",
-          "• Even with a tax break, the movie needed a gross of (at least) $700 million to break even "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "7afdcb702a3b"
-    },
-    {
-      "id": "f15f0d54e036",
-      "title": "X-Men Needs to Bring Back 1 Thing from the Krakoa Era If They Want to Get the Franchise Back On Track",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/x-men-post-krakoa-era-problems/",
-      "published_at": "Sat, 11 Oct 2025 01:00:12 GMT",
-      "bullets": [
-        "• Marvel Comics has made some big moves with the X-Men in recent years",
-        "• The Krakoan age was an attempt to create new lore that may resonate with audiences in years to come",
-        "• With this era over for now, it's a great time to look at why it may be iconic "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel Comics has made some big moves with the X-Men in recent years",
-          "• The Krakoan age was an attempt to create new lore that may resonate with audiences in years to come"
-        ],
-        "hopeful_bullets": [
-          "• Marvel Comics has made some big moves with the X-Men in recent years",
-          "• The Krakoan age was an attempt to create new lore that may resonate with audiences in years to come"
-        ],
-        "stakes_bullets": [
-          "• Marvel Comics has made some big moves with the X-Men in recent years",
-          "• The Krakoan age was an attempt to create new lore that may resonate with audiences in years to come",
-          "• With this era over for now, it's a great time to look at why it may be iconic "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "1c3535c56b36"
     },
     {
       "id": "5a603bc7af24",
@@ -3742,73 +3879,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "a378005915a0"
-    },
-    {
-      "id": "f362ee1ebce2",
-      "title": "Tron: Ares Makes This Misunderstood Steven Spielberg Masterpiece a Must-Watch 7 Years Later",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tron-ares-steven-spielberg-masterpiece-ready-player-one/",
-      "published_at": "Sat, 11 Oct 2025 00:30:12 GMT",
-      "bullets": [
-        "• The new film surprisingly makes one of Steven Spielberg's best movies even better",
-        "• The script might not have been up to the par that fans of the Tron franchise had hoped for, but the direction, helmed by Pirates of the Caribbean: Dead Men Tell No Tales' Joachim Rønning, is excellent",
-        "• The film struggles to compare to a Spielberg classic from 2018 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The new film surprisingly makes one of Steven Spielberg's best movies even better",
-          "• The script might not have been up to the par that fans of the Tron franchise had hoped for, but the direction, helmed by Pirates of the Caribbean: Dead Men Tell No Tales' Joachim Rønning, is excellent"
-        ],
-        "hopeful_bullets": [
-          "• The script might not have been up to the par that fans of the Tron franchise had hoped for, but the direction, helmed by Pirates of the Caribbean: Dead Men Tell No Tales' Joachim Rønning, is excellent"
-        ],
-        "stakes_bullets": [
-          "• The new film surprisingly makes one of Steven Spielberg's best movies even better",
-          "• The script might not have been up to the par that fans of the Tron franchise had hoped for, but the direction, helmed by Pirates of the Caribbean: Dead Men Tell No Tales' Joachim Rønning, is excellent",
-          "• The film struggles to compare to a Spielberg classic from 2018 "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "5e76a41315e6"
-    },
-    {
-      "id": "3987ac1b6fd6",
-      "title": "I Can't Believe This Iconic 22-Year-Old Sandbox Game Never Got a Sequel",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/simpsons-hit-and-run-no-sequel/",
-      "published_at": "Sat, 11 Oct 2025 00:30:12 GMT",
-      "bullets": [
-        "• The Simpsons: Hit & Run is the perfect family-friendly clone of the Grand Theft Auto series",
-        "• The licensed title takes place in Springfield, which is located somewhere in the United States",
-        "• While the GTA series has continued to chug on, this beloved sandbox game has yet to receive a sequel "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.947
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Simpsons: Hit & Run is the perfect family-friendly clone of the Grand Theft Auto series",
-          "• The licensed title takes place in Springfield, which is located somewhere in the United States"
-        ],
-        "hopeful_bullets": [
-          "• The Simpsons: Hit & Run is the perfect family-friendly clone of the Grand Theft Auto series",
-          "• The licensed title takes place in Springfield, which is located somewhere in the United States"
-        ],
-        "stakes_bullets": [
-          "• The Simpsons: Hit & Run is the perfect family-friendly clone of the Grand Theft Auto series",
-          "• The licensed title takes place in Springfield, which is located somewhere in the United States",
-          "• While the GTA series has continued to chug on, this beloved sandbox game has yet to receive a sequel "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ec8a91faedf2"
     },
     {
       "id": "47922361a6b1",
@@ -4873,7 +4943,7 @@
     },
     {
       "id": "32d2695c5e4d",
-      "title": "Chicago TV journalist pushed to ground and arrested during Ice raid",
+      "title": "Chicago TV journalist pushed to ground and arrested during Ice raid, later released",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/10/chicago-ice-raid-arrest",
       "published_at": "Fri, 10 Oct 2025 22:36:42 GMT",
@@ -6020,40 +6090,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "4d86cc4f11a0"
-    },
-    {
-      "id": "12e84245dbee",
-      "title": "Trump completes ‘semiannual’ physical before traveling to Middle East",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-physical-walter-reed",
-      "published_at": "Fri, 10 Oct 2025 19:52:06 GMT",
-      "bullets": [
-        "• Donald Trump had a 'routine' exam at the White House on Friday",
-        "• The White House has not said why the president had the exam",
-        "• It comes as he prepares to travel to the Middle East for a peace deal with Israel and Syria "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump had a 'routine' exam at the White House on Friday",
-          "• The White House has not said why the president had the exam"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump had a 'routine' exam at the White House on Friday",
-          "• The White House has not said why the president had the exam"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump had a 'routine' exam at the White House on Friday",
-          "• The White House has not said why the president had the exam",
-          "• It comes as he prepares to travel to the Middle East for a peace deal with Israel and Syria "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "051b50f3e813"
     },
     {
       "id": "b1815a688b56",
@@ -7211,30 +7247,29 @@
       "url": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
       "published_at": "Fri, 10 Oct 2025 14:27:00 -0400",
       "bullets": [
-        "• Trump administration says about 4,200 federal employees face layoffs starting Oct",
-        "• 10",
-        "• Administration has publicly offered few details on the scope of the layoffs",
-        "• Some federal employees have received actual layoff notices, while union leaders say they have been notified merely of an intent to cut their workforce "
+        "• Trump administration says about 4,200 federal employees face layoffs",
+        "• The move follows on administration threats to slash the size of government during the shutdown",
+        "• Some federal employees began sharing actual layoff notices on social media while federal employee unions said they'd been notified of pending cuts "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• Trump administration says about 4,200 federal employees face layoffs starting Oct",
-          "• 10"
+          "• Trump administration says about 4,200 federal employees face layoffs",
+          "• The move follows on administration threats to slash the size of government during the shutdown"
         ],
         "hopeful_bullets": [
-          "• Trump administration says about 4,200 federal employees face layoffs starting Oct",
-          "• 10"
+          "• Trump administration says about 4,200 federal employees face layoffs",
+          "• The move follows on administration threats to slash the size of government during the shutdown"
         ],
         "stakes_bullets": [
-          "• Some federal employees have received actual layoff notices, while union leaders say they have been notified merely of an intent to cut their workforce "
+          "• Some federal employees began sharing actual layoff notices on social media while federal employee unions said they'd been notified of pending cuts "
         ]
       },
-      "read_minutes": 6,
+      "read_minutes": 7,
       "cluster_id": "21a0f2d2f992"
     },
     {
@@ -7595,38 +7630,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "e66b2b1ee064"
-    },
-    {
-      "id": "3d6b59bc50fb",
-      "title": "Afghanistan accuses Pakistan of 'violating sovereign territory'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62lp7yd1jeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 11:50:42 GMT",
-      "bullets": [
-        "• Afghanistan accuses Pakistan of 'violating Kabul's sovereign territory' Comes after two loud blasts were heard in Kabul late on Thursday",
-        "• Pakistan has neither confirmed nor denied that they launched an attack inside Afghanistan",
-        "• Taliban Defence Ministry says Pakistan bombed a civilian market in the border province of Patika "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Afghanistan accuses Pakistan of 'violating Kabul's sovereign territory' Comes after two loud blasts were heard in Kabul late on Thursday",
-          "• Pakistan has neither confirmed nor denied that they launched an attack inside Afghanistan"
-        ],
-        "hopeful_bullets": [
-          "• Afghanistan accuses Pakistan of 'violating Kabul's sovereign territory' Comes after two loud blasts were heard in Kabul late on Thursday",
-          "• Pakistan has neither confirmed nor denied that they launched an attack inside Afghanistan"
-        ],
-        "stakes_bullets": [
-          "• Taliban Defence Ministry says Pakistan bombed a civilian market in the border province of Patika "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a62bb9c8949f"
     },
     {
       "id": "950acb7106e0",
@@ -9214,6 +9217,24 @@
       ]
     },
     {
+      "id": "c46143ff9f8a",
+      "topic": "boost defence denmark greenland",
+      "keywords": [
+        "boost",
+        "defence",
+        "denmark",
+        "greenland",
+        "jets",
+        "ship"
+      ],
+      "item_ids": [
+        "7116930fd2c7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "3456fe969cea",
       "topic": "corina leader machado mar",
       "keywords": [
@@ -9334,24 +9355,6 @@
       ],
       "item_ids": [
         "5141a5e16aeb"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "a62bb9c8949f",
-      "topic": "accuse afghanistan pakistan sovereign",
-      "keywords": [
-        "accuse",
-        "afghanistan",
-        "pakistan",
-        "sovereign",
-        "territory",
-        "violating"
-      ],
-      "item_ids": [
-        "3d6b59bc50fb"
       ],
       "outlets": [
         "BBC News"
@@ -9538,24 +9541,6 @@
       ]
     },
     {
-      "id": "e4209ab4d29b",
-      "topic": "announce federal house layoff",
-      "keywords": [
-        "announce",
-        "federal",
-        "house",
-        "layoff",
-        "white",
-        "worker"
-      ],
-      "item_ids": [
-        "6fb33a050c57"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "34b3446dc3b0",
       "topic": "air clarifie hegseth pete",
       "keywords": [
@@ -9568,6 +9553,42 @@
       ],
       "item_ids": [
         "f0beaa865c7f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "051b50f3e813",
+      "topic": "before complete physical semiannual",
+      "keywords": [
+        "before",
+        "complete",
+        "physical",
+        "semiannual",
+        "traveling",
+        "trump"
+      ],
+      "item_ids": [
+        "12e84245dbee"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "e4209ab4d29b",
+      "topic": "announce federal house layoff",
+      "keywords": [
+        "announce",
+        "federal",
+        "house",
+        "layoff",
+        "white",
+        "worker"
+      ],
+      "item_ids": [
+        "6fb33a050c57"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9676,24 +9697,6 @@
       ],
       "item_ids": [
         "2112aa0602fd"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "051b50f3e813",
-      "topic": "before complete physical semiannual",
-      "keywords": [
-        "before",
-        "complete",
-        "physical",
-        "semiannual",
-        "traveling",
-        "trump"
-      ],
-      "item_ids": [
-        "12e84245dbee"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10909,24 +10912,6 @@
       ]
     },
     {
-      "id": "6760911b272d",
-      "topic": "600 arizona connect home",
-      "keywords": [
-        "600",
-        "arizona",
-        "connect",
-        "home",
-        "planned",
-        "tribe"
-      ],
-      "item_ids": [
-        "9fb2d8e40a3c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "4256f8991aff",
       "topic": "experience government high long",
       "keywords": [
@@ -10939,6 +10924,24 @@
       ],
       "item_ids": [
         "8ed599fe270c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
+      "keywords": [
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
+      ],
+      "item_ids": [
+        "9fb2d8e40a3c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -13208,6 +13211,165 @@
       ]
     },
     {
+      "id": "cbac6c86233e",
+      "topic": "anime every film officially",
+      "keywords": [
+        "anime",
+        "every",
+        "film",
+        "officially",
+        "outgrossed",
+        "superhero"
+      ],
+      "item_ids": [
+        "7301efcf3bdd"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c70639755bff",
+      "topic": "aims animator director oversea",
+      "keywords": [
+        "aims",
+        "animator",
+        "director",
+        "oversea",
+        "piece",
+        "rein"
+      ],
+      "item_ids": [
+        "3aeebc3c428c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2357412e66b1",
+      "topic": "based elseworld horror perfect",
+      "keywords": [
+        "based",
+        "elseworld",
+        "horror",
+        "perfect",
+        "storie"
+      ],
+      "item_ids": [
+        "01eb5ed03a82"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "71545bf9d300",
+      "topic": "greatest jrpg last ranked",
+      "keywords": [
+        "greatest",
+        "jrpg",
+        "last",
+        "ranked",
+        "year"
+      ],
+      "item_ids": [
+        "193cb3f8b834"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "4aac8129a7b4",
+      "topic": "disappointing gets mark revival",
+      "keywords": [
+        "disappointing",
+        "gets",
+        "mark",
+        "revival",
+        "sheppard",
+        "supernatural"
+      ],
+      "item_ids": [
+        "b2203373ce44"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "11ec7e8296d1",
+      "topic": "alive controversial dead horror",
+      "keywords": [
+        "alive",
+        "controversial",
+        "dead",
+        "horror",
+        "jackson",
+        "peter"
+      ],
+      "item_ids": [
+        "45b2bd8750f3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1f6d5c6f1a51",
+      "topic": "episode force power ranger",
+      "keywords": [
+        "episode",
+        "force",
+        "power",
+        "ranger",
+        "stealth",
+        "wild"
+      ],
+      "item_ids": [
+        "beead204db1d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d02a825a1a41",
+      "topic": "finally forgotten gets gundam",
+      "keywords": [
+        "finally",
+        "forgotten",
+        "gets",
+        "gundam",
+        "high",
+        "modern"
+      ],
+      "item_ids": [
+        "c253f5f04a7e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2efd5b8b1d6c",
+      "topic": "all anime funniest ranked",
+      "keywords": [
+        "all",
+        "anime",
+        "funniest",
+        "ranked",
+        "time"
+      ],
+      "item_ids": [
+        "f72991c7f4ae"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "2c19558cbe72",
       "topic": "chart confirm disney old",
       "keywords": [
@@ -13220,167 +13382,6 @@
       ],
       "item_ids": [
         "3a74c8011b27"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "549bfab14efc",
-      "topic": "arc demon final ruining",
-      "keywords": [
-        "arc",
-        "demon",
-        "final",
-        "ruining",
-        "slayer",
-        "tanjiro"
-      ],
-      "item_ids": [
-        "b3126dcd8905"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "33c99754147f",
-      "topic": "alice borderland game netflix",
-      "keywords": [
-        "alice",
-        "borderland",
-        "game",
-        "netflix",
-        "share",
-        "squid"
-      ],
-      "item_ids": [
-        "610778e1cc35"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1cce817c145f",
-      "topic": "invincible release reveal season",
-      "keywords": [
-        "invincible",
-        "release",
-        "reveal",
-        "season",
-        "thrilling",
-        "trailer"
-      ],
-      "item_ids": [
-        "1dd76e36d95f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "2bc0ddbface1",
-      "topic": "daryl dead dixon exclusive",
-      "keywords": [
-        "daryl",
-        "dead",
-        "dixon",
-        "exclusive",
-        "unveil",
-        "walking"
-      ],
-      "item_ids": [
-        "d6e8ca1246c9"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f33c57df587e",
-      "topic": "anime best help japanese",
-      "keywords": [
-        "anime",
-        "best",
-        "help",
-        "japanese",
-        "learn"
-      ],
-      "item_ids": [
-        "f8f90129787d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7afdcb702a3b",
-      "topic": "419m bigger budget indiana",
-      "keywords": [
-        "419m",
-        "bigger",
-        "budget",
-        "indiana",
-        "jone",
-        "much"
-      ],
-      "item_ids": [
-        "199a1d405c57"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1c3535c56b36",
-      "topic": "back bring krakoa men",
-      "keywords": [
-        "back",
-        "bring",
-        "krakoa",
-        "men",
-        "need",
-        "thing"
-      ],
-      "item_ids": [
-        "f15f0d54e036"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5e76a41315e6",
-      "topic": "ares make misunderstood spielberg",
-      "keywords": [
-        "ares",
-        "make",
-        "misunderstood",
-        "spielberg",
-        "steven",
-        "tron"
-      ],
-      "item_ids": [
-        "f362ee1ebce2"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ec8a91faedf2",
-      "topic": "believe game iconic old",
-      "keywords": [
-        "believe",
-        "game",
-        "iconic",
-        "old",
-        "sandbox",
-        "year"
-      ],
-      "item_ids": [
-        "3987ac1b6fd6"
       ],
       "outlets": [
         "CBR"
