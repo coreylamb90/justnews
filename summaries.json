@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T10:10:18Z",
+  "generated_at": "2025-10-11T10:55:06Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,38 +1055,6 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
-    },
-    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1120,6 +1088,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
+    },
+    {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -3084,8 +3084,105 @@
       "cluster_id": "897fb01038ba"
     },
     {
+      "id": "eba697585770",
+      "title": "Democrats refuse to fold over shutdown as Republican outrage builds",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/11/republicans-democrats-us-government-shutdown",
+      "published_at": "Sat, 11 Oct 2025 10:00:21 GMT",
+      "bullets": [
+        "• Senate minority leader Chuck Schumer said the Republican part of the shutdown believed Democrats would fold and vote to reopen the government",
+        "• Republicans printed out the remark on posters and condemned it before press conferences",
+        "• The shutdown has prompted federal agencies to close or curtail operations nationwide and forced hundreds of thousands of employees to stay home without immediate pay "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Senate minority leader Chuck Schumer said the Republican part of the shutdown believed Democrats would fold and vote to reopen the government",
+          "• Republicans printed out the remark on posters and condemned it before press conferences"
+        ],
+        "hopeful_bullets": [
+          "• Senate minority leader Chuck Schumer said the Republican part of the shutdown believed Democrats would fold and vote to reopen the government",
+          "• Republicans printed out the remark on posters and condemned it before press conferences"
+        ],
+        "stakes_bullets": [
+          "• Senate minority leader Chuck Schumer said the Republican part of the shutdown believed Democrats would fold and vote to reopen the government"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "64d984fe5c5a"
+    },
+    {
+      "id": "2680c04f8acc",
+      "title": "Man will plead guilty to threatening Pride event after Charlie Kirk’s death",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/11/texas-man-threaten-pride-event-charlie-kirk",
+      "published_at": "Sat, 11 Oct 2025 10:00:21 GMT",
+      "bullets": [
+        "• Police say they will not be allowed to use public funds to pay for public service",
+        "• The public will be forced to pay up to $1,000 for a person to be involved in a public order",
+        "• Police say the public should not be encouraged to use the public money to fight for the rights of the public "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Police say they will not be allowed to use public funds to pay for public service",
+          "• The public will be forced to pay up to $1,000 for a person to be involved in a public order"
+        ],
+        "hopeful_bullets": [
+          "• Police say they will not be allowed to use public funds to pay for public service",
+          "• The public will be forced to pay up to $1,000 for a person to be involved in a public order"
+        ],
+        "stakes_bullets": [
+          "• Police say they will not be allowed to use public funds to pay for public service",
+          "• The public will be forced to pay up to $1,000 for a person to be involved in a public order"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8a8470dbfb17"
+    },
+    {
+      "id": "eae9a4094188",
+      "title": "Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/",
+      "published_at": "Sat, 11 Oct 2025 10:00:00 +0000",
+      "bullets": [
+        "• Intel Core Ultra Series 3, codenamed Panther Lake, will include up to 16-core CPUs with a \"more than 50 percent faster CPU\" performance over the previous generation",
+        "• Intel claims the first configurations will ship before the end of the year and then more broadly starting in January 2026 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.927
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Intel Core Ultra Series 3, codenamed Panther Lake, will include up to 16-core CPUs with a \"more than 50 percent faster CPU\" performance over the previous generation",
+          "• Intel claims the first configurations will ship before the end of the year and then more broadly starting in January 2026 "
+        ],
+        "hopeful_bullets": [
+          "• Intel Core Ultra Series 3, codenamed Panther Lake, will include up to 16-core CPUs with a \"more than 50 percent faster CPU\" performance over the previous generation",
+          "• Intel claims the first configurations will ship before the end of the year and then more broadly starting in January 2026 "
+        ],
+        "stakes_bullets": [
+          "• Intel Core Ultra Series 3, codenamed Panther Lake, will include up to 16-core CPUs with a \"more than 50 percent faster CPU\" performance over the previous generation",
+          "• Intel claims the first configurations will ship before the end of the year and then more broadly starting in January 2026 "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "925cf8817d22"
+    },
+    {
       "id": "2d184bfdd6ca",
-      "title": "Militia drone strike kills at least 30 people at displacement shelter in Sudan, says local group",
+      "title": "Militia drone strike kills at least 30 in Sudan displacement camp, says El Fasher group",
       "outlet": "World news | The Guardian",
       "url": "https://www.theguardian.com/world/2025/oct/11/militia-drone-strike-kills-people-at-displacement-shelter-in-sudan-says-local-group",
       "published_at": "Sat, 11 Oct 2025 09:27:42 GMT",
@@ -3222,6 +3319,39 @@
       "cluster_id": "376a67b60407"
     },
     {
+      "id": "abcaff565d55",
+      "title": "Eighteen missing after explosion at Tennessee munitions factory",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 11 Oct 2025 08:16:44 GMT",
+      "bullets": [
+        "• Eighteen missing after explosion at Tennessee munitions factory",
+        "• One person initially believed to be on site had been located at home",
+        "• Four or five people taken to hospital after explosion that levelled the factory in Bucksnort, Tennessee",
+        "• The cause of the blast remains unclear "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Eighteen missing after explosion at Tennessee munitions factory",
+          "• One person initially believed to be on site had been located at home"
+        ],
+        "hopeful_bullets": [
+          "• Eighteen missing after explosion at Tennessee munitions factory",
+          "• One person initially believed to be on site had been located at home"
+        ],
+        "stakes_bullets": [
+          "• The cause of the blast remains unclear "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1d10fe81b2a1"
+    },
+    {
       "id": "7d5ef8de7034",
       "title": "Mexico floods leave at least 27 dead and more missing",
       "outlet": "BBC News",
@@ -3317,6 +3447,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "ac329a688e51"
+    },
+    {
+      "id": "d18c06d9c8e4",
+      "title": "Trump issues a Columbus Day proclamation to 'reclaim' the explorer's legacy",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/11/nx-s1-5570093/columbus-day-trump-proclamation",
+      "published_at": "Sat, 11 Oct 2025 06:01:00 -0400",
+      "bullets": [
+        "• Trump issues a Columbus Day proclamation to \"reclaim\" the explorer's legacy",
+        "• The proclamation comes after Trump said in April he would reinstate Columbus Day",
+        "• In recent years, Indigenous Peoples Day has been held to recognize Native land and contributions "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.545
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump issues a Columbus Day proclamation to \"reclaim\" the explorer's legacy",
+          "• The proclamation comes after Trump said in April he would reinstate Columbus Day"
+        ],
+        "hopeful_bullets": [
+          "• Trump issues a Columbus Day proclamation to \"reclaim\" the explorer's legacy",
+          "• The proclamation comes after Trump said in April he would reinstate Columbus Day"
+        ],
+        "stakes_bullets": [
+          "• Trump issues a Columbus Day proclamation to \"reclaim\" the explorer's legacy",
+          "• The proclamation comes after Trump said in April he would reinstate Columbus Day",
+          "• In recent years, Indigenous Peoples Day has been held to recognize Native land and contributions "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "53ef0114bb0a"
     },
     {
       "id": "83330fa3aed4",
@@ -3545,38 +3709,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f12be39dec7a"
-    },
-    {
-      "id": "44e9a7f89f78",
-      "title": "Rare wildflowers blanket Atacama desert",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czrp52gx075o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 11 Oct 2025 03:59:02 GMT",
-      "bullets": [
-        "• The Atacama desert typically receives less than 15mm of rain every year",
-        "• But the usually barren landscape has been transformed by a carpet of colourful wildflowers",
-        "• This year's display will be at its peak for another few weeks, according to CONAF, Chile's National Forest Corporation "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Atacama desert typically receives less than 15mm of rain every year",
-          "• But the usually barren landscape has been transformed by a carpet of colourful wildflowers"
-        ],
-        "hopeful_bullets": [
-          "• The Atacama desert typically receives less than 15mm of rain every year",
-          "• But the usually barren landscape has been transformed by a carpet of colourful wildflowers"
-        ],
-        "stakes_bullets": [
-          "• This year's display will be at its peak for another few weeks, according to CONAF, Chile's National Forest Corporation "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "49c094700db2"
     },
     {
       "id": "99fde07a5e1c",
@@ -5605,40 +5737,6 @@
       "cluster_id": "8258289f8e1d"
     },
     {
-      "id": "30ece4b1f0a4",
-      "title": "Trump threatens 100% China tariffs as Beijing restricts rare-earth exports",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs",
-      "published_at": "Fri, 10 Oct 2025 21:11:36 GMT",
-      "bullets": [
-        "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
-        "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry",
-        "• Wall Street fell sharply after the president reignited public tensions with the Chinese government "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
-          "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
-          "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump has threatened to impose additional US tariffs of 100% on China from next month",
-          "• The US president accuses Beijing of ‘very hostile’ moves to restrict exports of rare earths needed for American industry",
-          "• Wall Street fell sharply after the president reignited public tensions with the Chinese government "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4f614d3de9d9"
-    },
-    {
       "id": "44e67c6d5a40",
       "title": "Putin OKs plan to turn Russian spacecraft into flying billboards",
       "outlet": "Ars Technica - All content",
@@ -5905,38 +6003,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "77b4992a8660"
-    },
-    {
-      "id": "2112aa0602fd",
-      "title": "Chicago woman shot by US border patrol indicted by federal grand jury",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/chicago-woman-shot-by-border-patrol-indicted",
-      "published_at": "Fri, 10 Oct 2025 20:34:54 GMT",
-      "bullets": [
-        "• Marimar Martinez, 30, will plead not guilty to charges of impeding a federal officer with a deadly weapon",
-        "• She was shot multiple times by US Customs and Border Protection agents",
-        "• The shooting occurred as immigration agents have been scouring Chicago – Illinois’s largest city – for people to deport "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marimar Martinez, 30, will plead not guilty to charges of impeding a federal officer with a deadly weapon",
-          "• She was shot multiple times by US Customs and Border Protection agents"
-        ],
-        "hopeful_bullets": [
-          "• Marimar Martinez, 30, will plead not guilty to charges of impeding a federal officer with a deadly weapon",
-          "• She was shot multiple times by US Customs and Border Protection agents"
-        ],
-        "stakes_bullets": [
-          "• Marimar Martinez, 30, will plead not guilty to charges of impeding a federal officer with a deadly weapon"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8504ad798b17"
     },
     {
       "id": "aef3692e70fb",
@@ -7412,7 +7478,7 @@
     {
       "id": "df02b89a0e2c",
       "title": "Trump administration says about 4,200 federal employees face layoffs",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
       "published_at": "Fri, 10 Oct 2025 14:27:00 -0400",
       "bullets": [
@@ -7420,7 +7486,7 @@
         "• The move follows on administration threats to slash the size of government during the shutdown",
         "• Some federal employees began sharing actual layoff notices on social media while federal employee unions said they'd been notified of pending cuts "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.997
@@ -7733,38 +7799,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "e66b2b1ee064"
-    },
-    {
-      "id": "950acb7106e0",
-      "title": "Proton VPN Review (2025): The Best VPN for Most People",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/review/proton-vpn/",
-      "published_at": "Fri, 10 Oct 2025 11:30:00 +0000",
-      "bullets": [
-        "• Proton VPN has doubled down on what makes a great VPN great in the first place",
-        "• It’s secure and fast, sure, but it also disappears into the background",
-        "• Proton doesn’t limit your bandwidth at all, and privacy protections available to Plus subscribers "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.832
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Proton VPN has doubled down on what makes a great VPN great in the first place",
-          "• It’s secure and fast, sure, but it also disappears into the background"
-        ],
-        "hopeful_bullets": [
-          "• Proton VPN has doubled down on what makes a great VPN great in the first place",
-          "• It’s secure and fast, sure, but it also disappears into the background"
-        ],
-        "stakes_bullets": [
-          "• Proton doesn’t limit your bandwidth at all, and privacy protections available to Plus subscribers "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1a42cadf64ae"
     },
     {
       "id": "9edb51b64857",
@@ -8978,22 +9012,125 @@
       },
       "read_minutes": 4,
       "cluster_id": "2ede1ddb1e1a"
+    },
+    {
+      "id": "aed784fb3371",
+      "title": "The Numbers Business Report: 2026 Q2 Box Office Prediction",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260050830-Numbers-Business-Report-2026-Q2-Box-Office-Prediction-The",
+      "published_at": null,
+      "bullets": [
+        "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+        "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
+        "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
+        ],
+        "hopeful_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
+        ],
+        "stakes_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
+          "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7d4e7d428cef"
+    },
+    {
+      "id": "0e12ee20974d",
+      "title": "Weekend projections: One Battle After Another and Gabby’s Dollhouse hoping for good word-of-mouth after middling debuts",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260020830-Weekend-projections-One-Battle-After-Another-and-Gabbys-Dollhouse-hoping-for-good-word-of-mouth-after-middling-debuts",
+      "published_at": null,
+      "bullets": [
+        "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+        "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
+        "• $25 million for There Will be Blood), and marketing costs",
+        "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.509
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
+        ],
+        "hopeful_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
+        ],
+        "stakes_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
+          "• $25 million for There Will be Blood), and marketing costs",
+          "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2634fa7adbf2"
+    },
+    {
+      "id": "8bb731020288",
+      "title": "Weekend predictions: One Battle After Another will win the weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260010830-Weekend-predictions-One-Battle-After-Another-will-win-the-weekend",
+      "published_at": null,
+      "bullets": [
+        "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
+        "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
+        "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
+          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper"
+        ],
+        "hopeful_bullets": [
+          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million"
+        ],
+        "stakes_bullets": [
+          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
+          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
+          "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5671c89c706a"
     }
   ],
   "clusters": [
     {
-      "id": "a71137aa7f25",
-      "topic": "arctic boost defence denmark",
+      "id": "0b3402b0e87a",
+      "topic": "100 additional impose tariff",
       "keywords": [
-        "arctic",
-        "boost",
-        "defence",
-        "denmark",
-        "jets",
-        "ship"
+        "100",
+        "additional",
+        "impose",
+        "tariff",
+        "threaten",
+        "trump"
       ],
       "item_ids": [
-        "7116930fd2c7"
+        "203333e6ca0c"
       ],
       "outlets": [
         "BBC News"
@@ -9018,18 +9155,36 @@
       ]
     },
     {
-      "id": "0b3402b0e87a",
-      "topic": "100 additional impose tariff",
+      "id": "1d10fe81b2a1",
+      "topic": "eighteen explosion factory missing",
       "keywords": [
-        "100",
-        "additional",
-        "impose",
-        "tariff",
-        "threaten",
-        "trump"
+        "eighteen",
+        "explosion",
+        "factory",
+        "missing",
+        "munition",
+        "tennessee"
       ],
       "item_ids": [
-        "203333e6ca0c"
+        "abcaff565d55"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "a71137aa7f25",
+      "topic": "arctic boost defence denmark",
+      "keywords": [
+        "arctic",
+        "boost",
+        "defence",
+        "denmark",
+        "jets",
+        "ship"
+      ],
+      "item_ids": [
+        "7116930fd2c7"
       ],
       "outlets": [
         "BBC News"
@@ -9144,23 +9299,6 @@
       ]
     },
     {
-      "id": "49c094700db2",
-      "topic": "atacama blanket desert rare",
-      "keywords": [
-        "atacama",
-        "blanket",
-        "desert",
-        "rare",
-        "wildflower"
-      ],
-      "item_ids": [
-        "44e9a7f89f78"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "c4696b44a8c2",
       "topic": "drone kill least militia",
       "keywords": [
@@ -9168,8 +9306,8 @@
         "kill",
         "least",
         "militia",
-        "people",
-        "strike"
+        "strike",
+        "sudan"
       ],
       "item_ids": [
         "2d184bfdd6ca"
@@ -9341,6 +9479,42 @@
       ]
     },
     {
+      "id": "64d984fe5c5a",
+      "topic": "democrat fold outrage refuse",
+      "keywords": [
+        "democrat",
+        "fold",
+        "outrage",
+        "refuse",
+        "republican",
+        "shutdown"
+      ],
+      "item_ids": [
+        "eba697585770"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "8a8470dbfb17",
+      "topic": "event guilty man plead",
+      "keywords": [
+        "event",
+        "guilty",
+        "man",
+        "plead",
+        "pride",
+        "threatening"
+      ],
+      "item_ids": [
+        "2680c04f8acc"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "34b3446dc3b0",
       "topic": "air clarifie hegseth pete",
       "keywords": [
@@ -9467,42 +9641,6 @@
       ]
     },
     {
-      "id": "4f614d3de9d9",
-      "topic": "100 beijing china tariff",
-      "keywords": [
-        "100",
-        "beijing",
-        "china",
-        "tariff",
-        "threaten",
-        "trump"
-      ],
-      "item_ids": [
-        "30ece4b1f0a4"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "8504ad798b17",
-      "topic": "border chicago indicted patrol",
-      "keywords": [
-        "border",
-        "chicago",
-        "indicted",
-        "patrol",
-        "shot",
-        "woman"
-      ],
-      "item_ids": [
-        "2112aa0602fd"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "a84ca1adeeaf",
       "topic": "against case fraud jame",
       "keywords": [
@@ -9518,6 +9656,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "53ef0114bb0a",
+      "topic": "columbu day issue proclamation",
+      "keywords": [
+        "columbu",
+        "day",
+        "issue",
+        "proclamation",
+        "reclaim",
+        "trump"
+      ],
+      "item_ids": [
+        "d18c06d9c8e4"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9676,24 +9832,6 @@
       ],
       "item_ids": [
         "cf5887f17bb7"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "21a0f2d2f992",
-      "topic": "200 administration employee face",
-      "keywords": [
-        "200",
-        "administration",
-        "employee",
-        "face",
-        "federal",
-        "trump"
-      ],
-      "item_ids": [
-        "df02b89a0e2c"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9880,6 +10018,24 @@
       ]
     },
     {
+      "id": "925cf8817d22",
+      "topic": "apple arrive chip gear",
+      "keywords": [
+        "apple",
+        "arrive",
+        "chip",
+        "gear",
+        "intel",
+        "week"
+      ],
+      "item_ids": [
+        "eae9a4094188"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "9fb6fa8e4c51",
       "topic": "2026 corvette price ray",
       "keywords": [
@@ -10031,24 +10187,6 @@
       ],
       "item_ids": [
         "15689dc06d24"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "1a42cadf64ae",
-      "topic": "2025 best most proton",
-      "keywords": [
-        "2025",
-        "best",
-        "most",
-        "proton",
-        "review",
-        "vpn"
-      ],
-      "item_ids": [
-        "950acb7106e0"
       ],
       "outlets": [
         "WIRED"
@@ -10714,24 +10852,6 @@
       ]
     },
     {
-      "id": "6760911b272d",
-      "topic": "600 arizona connect home",
-      "keywords": [
-        "600",
-        "arizona",
-        "connect",
-        "home",
-        "planned",
-        "tribe"
-      ],
-      "item_ids": [
-        "9fb2d8e40a3c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "4256f8991aff",
       "topic": "experience government high long",
       "keywords": [
@@ -10750,6 +10870,24 @@
       ]
     },
     {
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
+      "keywords": [
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
+      ],
+      "item_ids": [
+        "9fb2d8e40a3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "a3133d316227",
       "topic": "biden former official peace",
       "keywords": [
@@ -10762,6 +10900,24 @@
       ],
       "item_ids": [
         "d964edd75ffc"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "21a0f2d2f992",
+      "topic": "200 administration employee face",
+      "keywords": [
+        "200",
+        "administration",
+        "employee",
+        "face",
+        "federal",
+        "trump"
+      ],
+      "item_ids": [
+        "df02b89a0e2c"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11454,6 +11610,59 @@
       ],
       "item_ids": [
         "45c23c8d0be7"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "7d4e7d428cef",
+      "topic": "2026 box busines number",
+      "keywords": [
+        "2026",
+        "box",
+        "busines",
+        "number",
+        "office",
+        "report"
+      ],
+      "item_ids": [
+        "aed784fb3371"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "2634fa7adbf2",
+      "topic": "another battle dollhouse gabby",
+      "keywords": [
+        "another",
+        "battle",
+        "dollhouse",
+        "gabby",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "0e12ee20974d"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "5671c89c706a",
+      "topic": "another battle prediction weekend",
+      "keywords": [
+        "another",
+        "battle",
+        "prediction",
+        "weekend",
+        "win"
+      ],
+      "item_ids": [
+        "8bb731020288"
       ],
       "outlets": [
         "The Numbers"
