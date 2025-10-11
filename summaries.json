@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T09:54:18Z",
+  "generated_at": "2025-10-11T10:10:18Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,6 +1055,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1088,38 +1120,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -3084,6 +3084,40 @@
       "cluster_id": "897fb01038ba"
     },
     {
+      "id": "2d184bfdd6ca",
+      "title": "Militia drone strike kills at least 30 people at displacement shelter in Sudan, says local group",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/11/militia-drone-strike-kills-people-at-displacement-shelter-in-sudan-says-local-group",
+      "published_at": "Sat, 11 Oct 2025 09:27:42 GMT",
+      "bullets": [
+        "• The Rapid Support Forces has been fighting the Sudanese Armed Forces in a civil war since April 2023",
+        "• Its militants have put El Fasher under siege for more than 500 days, and families there are starving",
+        "• The UN has described the Sudan war as one of the worst humanitarian crises of the 21st century "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Rapid Support Forces has been fighting the Sudanese Armed Forces in a civil war since April 2023",
+          "• Its militants have put El Fasher under siege for more than 500 days, and families there are starving"
+        ],
+        "hopeful_bullets": [
+          "• The Rapid Support Forces has been fighting the Sudanese Armed Forces in a civil war since April 2023",
+          "• Its militants have put El Fasher under siege for more than 500 days, and families there are starving"
+        ],
+        "stakes_bullets": [
+          "• The Rapid Support Forces has been fighting the Sudanese Armed Forces in a civil war since April 2023",
+          "• Its militants have put El Fasher under siege for more than 500 days, and families there are starving",
+          "• The UN has described the Sudan war as one of the worst humanitarian crises of the 21st century "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c4696b44a8c2"
+    },
+    {
       "id": "3be4f3302ed0",
       "title": "One of the World’s Largest Geothermal Networks Is Buried Beneath a Corporate Campus in Rural Wisconsin",
       "outlet": "Inside Climate News",
@@ -3315,6 +3349,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "9fb6fa8e4c51"
+    },
+    {
+      "id": "420831402fd2",
+      "title": "Israel strikes south Lebanon, killing 1 and wounding 7",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/11/g-s1-93117/israel-strikes-south-lebanon",
+      "published_at": "Sat, 11 Oct 2025 05:31:40 -0400",
+      "bullets": [
+        "• The Israeli military said it struck a place where machinery was stored to be used to rebuild infrastructure for the militant Hezbollah group",
+        "• The most recent Israel-Hezbollah war killed more than 4,000 people",
+        "• The U.N",
+        "• human rights chief has called for renewed efforts to bring a permanent end to hostilities in Lebanon following the war "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Israeli military said it struck a place where machinery was stored to be used to rebuild infrastructure for the militant Hezbollah group",
+          "• The most recent Israel-Hezbollah war killed more than 4,000 people"
+        ],
+        "hopeful_bullets": [
+          "• human rights chief has called for renewed efforts to bring a permanent end to hostilities in Lebanon following the war "
+        ],
+        "stakes_bullets": [
+          "• human rights chief has called for renewed efforts to bring a permanent end to hostilities in Lebanon following the war "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "da47fd082b12"
     },
     {
       "id": "541727fbe1cf",
@@ -4114,38 +4180,6 @@
       "cluster_id": "3c964fa44945"
     },
     {
-      "id": "d3909a6bedaa",
-      "title": "'They treated us like animals' - Inside the epicentre of deportations in New York City",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0rxrxd444o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 11 Oct 2025 00:35:36 GMT",
-      "bullets": [
-        "• Monica Moreta Galarza felt relieved after her husband's routine immigration hearing at New York City's 26 Federal Plaza",
-        "• The BBC witnessed similar incidents at the court house, while others – including an aggressive encounter between Immigrations and Customs Enforcement (ICE) and the media – have sparked public outcry",
-        "• ICE's operations inside the building have created a charged, tense environment "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Monica Moreta Galarza felt relieved after her husband's routine immigration hearing at New York City's 26 Federal Plaza",
-          "• The BBC witnessed similar incidents at the court house, while others – including an aggressive encounter between Immigrations and Customs Enforcement (ICE) and the media – have sparked public outcry"
-        ],
-        "hopeful_bullets": [
-          "• Monica Moreta Galarza felt relieved after her husband's routine immigration hearing at New York City's 26 Federal Plaza",
-          "• The BBC witnessed similar incidents at the court house, while others – including an aggressive encounter between Immigrations and Customs Enforcement (ICE) and the media – have sparked public outcry"
-        ],
-        "stakes_bullets": [
-          "• Monica Moreta Galarza felt relieved after her husband's routine immigration hearing at New York City's 26 Federal Plaza"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "a378005915a0"
-    },
-    {
       "id": "47922361a6b1",
       "title": "Cardi B Delayed Video for BIA Diss Track to Avoid ‘Bullying’ Rapper on Her Album Release Day",
       "outlet": "Music News",
@@ -4246,38 +4280,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "2e116862dfd5"
-    },
-    {
-      "id": "be904db8a5a8",
-      "title": "‘The fear was immense’: al-Shabaab exploits fragmented politics to reclaim land in Somalia",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/04/the-fear-was-immense-al-shabaab-exploits-fragmented-politics-to-reclaim-land-in-somalia",
-      "published_at": "Sat, 04 Oct 2025 12:00:07 GMT",
-      "bullets": [
-        "• Al-Shabaab has taken control of the Somali capital of Mogadishu in recent months",
-        "• The group is now in control of a large area of the country's capital city, Somalia",
-        "• It is believed it will return to the city after a month's long battle "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.945
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Al-Shabaab has taken control of the Somali capital of Mogadishu in recent months",
-          "• The group is now in control of a large area of the country's capital city, Somalia"
-        ],
-        "hopeful_bullets": [
-          "• Al-Shabaab has taken control of the Somali capital of Mogadishu in recent months",
-          "• The group is now in control of a large area of the country's capital city, Somalia"
-        ],
-        "stakes_bullets": [
-          "• It is believed it will return to the city after a month's long battle "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "67b60e3d651b"
     },
     {
       "id": "d049fc64ba2a",
@@ -5039,6 +5041,39 @@
       },
       "read_minutes": 7,
       "cluster_id": "59b88fbd18a1"
+    },
+    {
+      "id": "fa3aa8ecce8d",
+      "title": "Can the world's oldest president keep his title and woo a nation of young voters?",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crkjg1n0m02o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 23:12:00 GMT",
+      "bullets": [
+        "• The world's oldest president has been in power since 1982",
+        "• He is campaigning for a second term in a row of seven years",
+        "• He has been criticised for not showing up for one campaign stop",
+        "• He says he will keep his promise to help Cameroon's people "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.864
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The world's oldest president has been in power since 1982",
+          "• He is campaigning for a second term in a row of seven years"
+        ],
+        "hopeful_bullets": [
+          "• He has been criticised for not showing up for one campaign stop",
+          "• He says he will keep his promise to help Cameroon's people "
+        ],
+        "stakes_bullets": [
+          "• He says he will keep his promise to help Cameroon's people "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6c4fad1f5abc"
     },
     {
       "id": "653744cd956f",
@@ -7566,38 +7601,6 @@
       "cluster_id": "88aadf395ed3"
     },
     {
-      "id": "d19f826f989b",
-      "title": "Perú: Chicha, el pulso eléctrico de la cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/10/g-s1-92885/peru-chicha-cumbia-el-pulso-electrico-de-lima",
-      "published_at": "Fri, 10 Oct 2025 14:00:00 -0400",
-      "bullets": [
-        "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
-        "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.562
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
-          "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
-        ],
-        "hopeful_bullets": [
-          "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
-          "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
-        ],
-        "stakes_bullets": [
-          "• Pedro Tolomeo Rojas, conocido como Monky, entra a su estudio en Lima el 21 de octubre de 2024",
-          "• Monky fue un pionero en la creación de los carteles that promocionan los conciertos de cumbia "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "c65e229e9e7c"
-    },
-    {
       "id": "3a8cf62dce77",
       "title": "5 Best Folding Phones (2025), Tested and Reviewed",
       "outlet": "WIRED",
@@ -8975,109 +8978,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "2ede1ddb1e1a"
-    },
-    {
-      "id": "aed784fb3371",
-      "title": "The Numbers Business Report: 2026 Q2 Box Office Prediction",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260050830-Numbers-Business-Report-2026-Q2-Box-Office-Prediction-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-        "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
-        "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
-        ],
-        "stakes_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
-          "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7d4e7d428cef"
-    },
-    {
-      "id": "0e12ee20974d",
-      "title": "Weekend projections: One Battle After Another and Gabby’s Dollhouse hoping for good word-of-mouth after middling debuts",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260020830-Weekend-projections-One-Battle-After-Another-and-Gabbys-Dollhouse-hoping-for-good-word-of-mouth-after-middling-debuts",
-      "published_at": null,
-      "bullets": [
-        "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-        "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
-        "• $25 million for There Will be Blood), and marketing costs",
-        "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.509
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
-        ],
-        "hopeful_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
-        ],
-        "stakes_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
-          "• $25 million for There Will be Blood), and marketing costs",
-          "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2634fa7adbf2"
-    },
-    {
-      "id": "8bb731020288",
-      "title": "Weekend predictions: One Battle After Another will win the weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260010830-Weekend-predictions-One-Battle-After-Another-will-win-the-weekend",
-      "published_at": null,
-      "bullets": [
-        "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
-        "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
-        "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
-          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper"
-        ],
-        "hopeful_bullets": [
-          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million"
-        ],
-        "stakes_bullets": [
-          "• One Battle After Another will mark the start of awards season with an opening that looks set to exceed $20 million",
-          "• That will ensure not only a best weekend for Anderson, but also his first chart-topper",
-          "• The closest he's come is There Will Be Blood, which picked up $4.87 million on its fifth weekend in release, back in January 2008 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5671c89c706a"
     }
   ],
   "clusters": [
@@ -9112,6 +9012,24 @@
       ],
       "item_ids": [
         "1889dd3f3312"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "0b3402b0e87a",
+      "topic": "100 additional impose tariff",
+      "keywords": [
+        "100",
+        "additional",
+        "impose",
+        "tariff",
+        "threaten",
+        "trump"
+      ],
+      "item_ids": [
+        "203333e6ca0c"
       ],
       "outlets": [
         "BBC News"
@@ -9154,36 +9072,18 @@
       ]
     },
     {
-      "id": "a378005915a0",
-      "topic": "animal deportation epicentre inside",
+      "id": "6c4fad1f5abc",
+      "topic": "keep oldest president title",
       "keywords": [
-        "animal",
-        "deportation",
-        "epicentre",
-        "inside",
-        "like",
-        "treated"
+        "keep",
+        "oldest",
+        "president",
+        "title",
+        "woo",
+        "world"
       ],
       "item_ids": [
-        "d3909a6bedaa"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3456fe969cea",
-      "topic": "corina leader machado mar",
-      "keywords": [
-        "corina",
-        "leader",
-        "machado",
-        "mar",
-        "opposition",
-        "venezuelan"
-      ],
-      "item_ids": [
-        "cf16a4af10a7"
+        "fa3aa8ecce8d"
       ],
       "outlets": [
         "BBC News"
@@ -9226,18 +9126,18 @@
       ]
     },
     {
-      "id": "0b3402b0e87a",
-      "topic": "100 additional impose tariff",
+      "id": "3456fe969cea",
+      "topic": "corina leader machado mar",
       "keywords": [
-        "100",
-        "additional",
-        "impose",
-        "tariff",
-        "threaten",
-        "trump"
+        "corina",
+        "leader",
+        "machado",
+        "mar",
+        "opposition",
+        "venezuelan"
       ],
       "item_ids": [
-        "203333e6ca0c"
+        "cf16a4af10a7"
       ],
       "outlets": [
         "BBC News"
@@ -9258,6 +9158,24 @@
       ],
       "outlets": [
         "BBC News"
+      ]
+    },
+    {
+      "id": "c4696b44a8c2",
+      "topic": "drone kill least militia",
+      "keywords": [
+        "drone",
+        "kill",
+        "least",
+        "militia",
+        "people",
+        "strike"
+      ],
+      "item_ids": [
+        "2d184bfdd6ca"
+      ],
+      "outlets": [
+        "World news | The Guardian"
       ]
     },
     {
@@ -9327,24 +9245,6 @@
       ],
       "item_ids": [
         "2da137d51ad6"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "67b60e3d651b",
-      "topic": "exploit fear fragmented immense",
-      "keywords": [
-        "exploit",
-        "fear",
-        "fragmented",
-        "immense",
-        "politic",
-        "shabaab"
-      ],
-      "item_ids": [
-        "be904db8a5a8"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9621,6 +9521,24 @@
       ]
     },
     {
+      "id": "da47fd082b12",
+      "topic": "israel killing lebanon south",
+      "keywords": [
+        "israel",
+        "killing",
+        "lebanon",
+        "south",
+        "strike",
+        "wounding"
+      ],
+      "item_ids": [
+        "420831402fd2"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "ce1476903e4c",
       "topic": "charlie death kirk posted",
       "keywords": [
@@ -9776,23 +9694,6 @@
       ],
       "item_ids": [
         "df02b89a0e2c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "c65e229e9e7c",
-      "topic": "chicha ctrico cumbia per",
-      "keywords": [
-        "chicha",
-        "ctrico",
-        "cumbia",
-        "per",
-        "pulso"
-      ],
-      "item_ids": [
-        "d19f826f989b"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10813,24 +10714,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10843,6 +10726,24 @@
       ],
       "item_ids": [
         "9fb2d8e40a3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
+      "keywords": [
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
+      ],
+      "item_ids": [
+        "8ed599fe270c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11553,59 +11454,6 @@
       ],
       "item_ids": [
         "45c23c8d0be7"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "7d4e7d428cef",
-      "topic": "2026 box busines number",
-      "keywords": [
-        "2026",
-        "box",
-        "busines",
-        "number",
-        "office",
-        "report"
-      ],
-      "item_ids": [
-        "aed784fb3371"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "2634fa7adbf2",
-      "topic": "another battle dollhouse gabby",
-      "keywords": [
-        "another",
-        "battle",
-        "dollhouse",
-        "gabby",
-        "projection",
-        "weekend"
-      ],
-      "item_ids": [
-        "0e12ee20974d"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "5671c89c706a",
-      "topic": "another battle prediction weekend",
-      "keywords": [
-        "another",
-        "battle",
-        "prediction",
-        "weekend",
-        "win"
-      ],
-      "item_ids": [
-        "8bb731020288"
       ],
       "outlets": [
         "The Numbers"
