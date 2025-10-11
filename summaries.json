@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T16:58:55Z",
+  "generated_at": "2025-10-11T17:16:11Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,6 +1055,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1088,38 +1120,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -2984,6 +2984,71 @@
       "cluster_id": "897fb01038ba"
     },
     {
+      "id": "f6433fcdd8b9",
+      "title": "Crunchyroll Brings Major Isekai Anime Hit to the Big Screen in New International Movie Release",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/crunchyroll-reincarnated-as-a-slime-azure-sea-movie-release/",
+      "published_at": "Sat, 11 Oct 2025 17:00:12 GMT",
+      "bullets": [
+        "• That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea will be an original spinoff story from series’ creator Fuse",
+        "• Crunchyroll announced the release at its NYCC 2205 stage, confirming that it will bring the movie to franchise fans worldwide (excluding \"most Asian territories\")"
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea will be an original spinoff story from series’ creator Fuse",
+          "• Crunchyroll announced the release at its NYCC 2205 stage, confirming that it will bring the movie to franchise fans worldwide (excluding \"most Asian territories\")"
+        ],
+        "hopeful_bullets": [
+          "• That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea will be an original spinoff story from series’ creator Fuse",
+          "• Crunchyroll announced the release at its NYCC 2205 stage, confirming that it will bring the movie to franchise fans worldwide (excluding \"most Asian territories\")"
+        ],
+        "stakes_bullets": [
+          "• That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea will be an original spinoff story from series’ creator Fuse",
+          "• Crunchyroll announced the release at its NYCC 2205 stage, confirming that it will bring the movie to franchise fans worldwide (excluding \"most Asian territories\")"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5183468e0648"
+    },
+    {
+      "id": "5077c73ab19a",
+      "title": "Stargate's Forgotten Blindspot Crossover Flew Completely Under the Radar",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/stargate-blindspot-forgotten-crossover/",
+      "published_at": "Sat, 11 Oct 2025 17:00:12 GMT",
+      "bullets": [
+        "• The first episode of Stargate: Atlantis was a spin-off of the series",
+        "• The show followed a team of scientists sent to the lost city of Atlantis",
+        "• The team is shown fighting back against each other in the final episode of the show "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first episode of Stargate: Atlantis was a spin-off of the series",
+          "• The show followed a team of scientists sent to the lost city of Atlantis"
+        ],
+        "hopeful_bullets": [
+          "• The team is shown fighting back against each other in the final episode of the show "
+        ],
+        "stakes_bullets": [
+          "• The first episode of Stargate: Atlantis was a spin-off of the series",
+          "• The show followed a team of scientists sent to the lost city of Atlantis",
+          "• The team is shown fighting back against each other in the final episode of the show "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "15292fe1242f"
+    },
+    {
       "id": "0e27223ab064",
       "title": "Sarah Michelle Gellar Pens Heartbreaking Tribute to Michelle Trachtenberg",
       "outlet": "CBR",
@@ -3017,6 +3082,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "9ed52e43cc6e"
+    },
+    {
+      "id": "da7acf31e2f4",
+      "title": "Six people dead in shootings during two separate Mississippi homecoming gatherings",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/11/leland-mississippi-mass-shooting",
+      "published_at": "Sat, 11 Oct 2025 16:26:41 GMT",
+      "bullets": [
+        "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
+        "• The incident took place around midnight on Friday in Leland, a small city in Washington county",
+        "• At least 12 of the wounded were being treated at nearby hospitals "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
+          "• The incident took place around midnight on Friday in Leland, a small city in Washington county"
+        ],
+        "hopeful_bullets": [
+          "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
+          "• The incident took place around midnight on Friday in Leland, a small city in Washington county"
+        ],
+        "stakes_bullets": [
+          "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
+          "• The incident took place around midnight on Friday in Leland, a small city in Washington county",
+          "• At least 12 of the wounded were being treated at nearby hospitals "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b25f7e515dfd"
     },
     {
       "id": "a7fdf499fa6b",
@@ -3317,40 +3416,6 @@
       "cluster_id": "5a622d502333"
     },
     {
-      "id": "da7acf31e2f4",
-      "title": "Six people dead in shootings during two separate Mississippi homecoming gatherings",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/11/leland-mississippi-mass-shooting",
-      "published_at": "Sat, 11 Oct 2025 15:47:02 GMT",
-      "bullets": [
-        "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
-        "• The incident took place around midnight on Friday in Leland, a small city in Washington county",
-        "• At least 12 of the wounded were being treated at nearby hospitals "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
-          "• The incident took place around midnight on Friday in Leland, a small city in Washington county"
-        ],
-        "hopeful_bullets": [
-          "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
-          "• The incident took place around midnight on Friday in Leland, a small city in Washington county"
-        ],
-        "stakes_bullets": [
-          "• Four people have been killed and 16 others injured in a shooting in western Mississippi",
-          "• The incident took place around midnight on Friday in Leland, a small city in Washington county",
-          "• At least 12 of the wounded were being treated at nearby hospitals "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b25f7e515dfd"
-    },
-    {
       "id": "e67a1e0dae57",
       "title": "Four killed in mass shooting after Mississippi football game",
       "outlet": "BBC News",
@@ -3554,72 +3619,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "7109f14d42d7"
-    },
-    {
-      "id": "28454fbf4534",
-      "title": "Absolute Batman Is Becoming The New Bane - And His New Partner Can't Watch it Happen",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/absolute-batman-venom-transformation-ends-catwoman-partnership/",
-      "published_at": "Sat, 11 Oct 2025 15:00:12 GMT",
-      "bullets": [
-        "• Absolute Batman #13, on sale now from DC Comics, is out now",
-        "• The titular hero takes on the Red Hood Gang's territory in the issue",
-        "• The Dark Knight might just be becoming exactly what Bane wants him to be, and it might be the end of the Dark Knight's relationship with the one person who truly understands him "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Absolute Batman #13, on sale now from DC Comics, is out now",
-          "• The titular hero takes on the Red Hood Gang's territory in the issue"
-        ],
-        "hopeful_bullets": [
-          "• Absolute Batman #13, on sale now from DC Comics, is out now",
-          "• The titular hero takes on the Red Hood Gang's territory in the issue"
-        ],
-        "stakes_bullets": [
-          "• The Dark Knight might just be becoming exactly what Bane wants him to be, and it might be the end of the Dark Knight's relationship with the one person who truly understands him "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c72b68cad146"
-    },
-    {
-      "id": "83e09b62e257",
-      "title": "Jet Li's Fearless is Still 1 of the Best Martial Arts Movies of the 21st Century",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jet-li-fearless-best-martial-arts-movie-21st-century/",
-      "published_at": "Sat, 11 Oct 2025 15:00:12 GMT",
-      "bullets": [
-        "• Some of the best martial arts films of all time originated in China and Hong Kong",
-        "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography",
-        "• Western movies have rarely been able to shoot in quite the same way, nor have they always managed to convey the same depth of emotion through combat "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some of the best martial arts films of all time originated in China and Hong Kong",
-          "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography"
-        ],
-        "hopeful_bullets": [
-          "• Some of the best martial arts films of all time originated in China and Hong Kong",
-          "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography"
-        ],
-        "stakes_bullets": [
-          "• Some of the best martial arts films of all time originated in China and Hong Kong",
-          "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography",
-          "• Western movies have rarely been able to shoot in quite the same way, nor have they always managed to convey the same depth of emotion through combat "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "3fe3568c8c33"
     },
     {
       "id": "c21574902787",
@@ -4089,6 +4088,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "258d5d38b4c3"
+    },
+    {
+      "id": "07b84b9ce175",
+      "title": "4 dead and 12 injured in a shooting after Mississippi homecoming game",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/11/nx-s1-5571892/leland-mississippi-shooting-homecoming",
+      "published_at": "Sat, 11 Oct 2025 12:32:58 -0400",
+      "bullets": [
+        "• 4 dead and 12 injured in a mass shooting after Mississippi homecoming game, mayor says",
+        "• Leland, Miss., is a small town of roughly 3,700 people where \"everybody knows everybody,\" mayor John Lee says",
+        "• The shooting took place in downtown Leland after the local high school's homecoming football game "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.733
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 4 dead and 12 injured in a mass shooting after Mississippi homecoming game, mayor says",
+          "• Leland, Miss., is a small town of roughly 3,700 people where \"everybody knows everybody,\" mayor John Lee says"
+        ],
+        "hopeful_bullets": [
+          "• 4 dead and 12 injured in a mass shooting after Mississippi homecoming game, mayor says",
+          "• Leland, Miss., is a small town of roughly 3,700 people where \"everybody knows everybody,\" mayor John Lee says"
+        ],
+        "stakes_bullets": [
+          "• 4 dead and 12 injured in a mass shooting after Mississippi homecoming game, mayor says",
+          "• Leland, Miss., is a small town of roughly 3,700 people where \"everybody knows everybody,\" mayor John Lee says",
+          "• The shooting took place in downtown Leland after the local high school's homecoming football game "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "41338fc1f148"
     },
     {
       "id": "cab3e2fa514a",
@@ -4619,13 +4652,12 @@
       "bullets": [
         "• Photos celebrate the glory of girls on 'International Day of the Girl' October 11",
         "• U.N",
-        "• photojournalist Danielle Villasana has traveled the world photographing girls",
-        "• She says she is in awe of the strong spirit of the girls she's encountered "
+        "• says it is a \"rallying cry to see girls for who they truly are, to listen to their voices and to recognize their limitless potential\""
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 1.0
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
@@ -4633,12 +4665,13 @@
           "• U.N"
         ],
         "hopeful_bullets": [
-          "• She says she is in awe of the strong spirit of the girls she's encountered "
+          "• Photos celebrate the glory of girls on 'International Day of the Girl' October 11",
+          "• U.N"
         ],
         "stakes_bullets": [
           "• Photos celebrate the glory of girls on 'International Day of the Girl' October 11",
           "• U.N",
-          "• photojournalist Danielle Villasana has traveled the world photographing girls"
+          "• says it is a \"rallying cry to see girls for who they truly are, to listen to their voices and to recognize their limitless potential\""
         ]
       },
       "read_minutes": 1,
@@ -5173,38 +5206,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6516161bc30e"
-    },
-    {
-      "id": "3d68a0f435f3",
-      "title": "India is forcibly deporting Muslims, including its own citizens, after Kashmir violence",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/11/nx-s1-5564784/india-muslims",
-      "published_at": "Sat, 11 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Mustafa Kamal Sheikh set up a makeshift stall opposite a police station in a working-class suburb of Mumbai",
-        "• He says police arrested him and flew him more than a thousand miles away to the India-Bangladesh border",
-        "• Kamal says he was part of a group that included a few dozen people seized from Mumbai "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mustafa Kamal Sheikh set up a makeshift stall opposite a police station in a working-class suburb of Mumbai",
-          "• He says police arrested him and flew him more than a thousand miles away to the India-Bangladesh border"
-        ],
-        "hopeful_bullets": [
-          "• Mustafa Kamal Sheikh set up a makeshift stall opposite a police station in a working-class suburb of Mumbai",
-          "• He says police arrested him and flew him more than a thousand miles away to the India-Bangladesh border"
-        ],
-        "stakes_bullets": [
-          "• He says police arrested him and flew him more than a thousand miles away to the India-Bangladesh border"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "d47760cb342c"
     },
     {
       "id": "8c63e0f6f0a2",
@@ -8252,6 +8253,40 @@
       "cluster_id": "31c201d3b2ad"
     },
     {
+      "id": "2dfaa5b54777",
+      "title": "Remembering primate expert and conservationist Jane Goodall",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/10/nx-s1-5567206/remembering-primate-expert-and-conservationist-jane-goodall",
+      "published_at": "Fri, 10 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Jane Goodall, who died Oct",
+        "• 1, became one of the most famous scientists of the 20th century for her work observing chimpanzees in the wild in East Africa",
+        "• Goodall had no scientific training when she made her way to East Africa at age 23",
+        "• Today, we'll listen to parts of two interviews Goodall recorded by Terry Gross "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jane Goodall, who died Oct",
+          "• 1, became one of the most famous scientists of the 20th century for her work observing chimpanzees in the wild in East Africa"
+        ],
+        "hopeful_bullets": [
+          "• Today, we'll listen to parts of two interviews Goodall recorded by Terry Gross "
+        ],
+        "stakes_bullets": [
+          "• Jane Goodall, who died Oct",
+          "• 1, became one of the most famous scientists of the 20th century for her work observing chimpanzees in the wild in East Africa",
+          "• Goodall had no scientific training when she made her way to East Africa at age 23"
+        ]
+      },
+      "read_minutes": 29,
+      "cluster_id": "f23532dd0d8f"
+    },
+    {
       "id": "8f7d31c0558b",
       "title": "Social Security workers say the shutdown has them unable to help with benefit letters",
       "outlet": "NPR Topics: Politics",
@@ -9503,24 +9538,6 @@
       ]
     },
     {
-      "id": "49e9b53fb59b",
-      "topic": "before deportation dreamer here",
-      "keywords": [
-        "before",
-        "deportation",
-        "dreamer",
-        "here",
-        "shielded",
-        "trump"
-      ],
-      "item_ids": [
-        "91795f8206b3"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "b25f7e515dfd",
       "topic": "dead during people separate",
       "keywords": [
@@ -9533,6 +9550,24 @@
       ],
       "item_ids": [
         "da7acf31e2f4"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "49e9b53fb59b",
+      "topic": "before deportation dreamer here",
+      "keywords": [
+        "before",
+        "deportation",
+        "dreamer",
+        "here",
+        "shielded",
+        "trump"
+      ],
+      "item_ids": [
+        "91795f8206b3"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9662,6 +9697,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "41338fc1f148",
+      "topic": "dead game homecoming injured",
+      "keywords": [
+        "dead",
+        "game",
+        "homecoming",
+        "injured",
+        "mississippi",
+        "shooting"
+      ],
+      "item_ids": [
+        "07b84b9ce175"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9821,24 +9874,6 @@
       ],
       "item_ids": [
         "420831402fd2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "d47760cb342c",
-      "topic": "deporting forcibly including india",
-      "keywords": [
-        "deporting",
-        "forcibly",
-        "including",
-        "india",
-        "muslim",
-        "own"
-      ],
-      "item_ids": [
-        "3d68a0f435f3"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10734,6 +10769,24 @@
       ]
     },
     {
+      "id": "f23532dd0d8f",
+      "topic": "conservationist expert goodall jane",
+      "keywords": [
+        "conservationist",
+        "expert",
+        "goodall",
+        "jane",
+        "primate",
+        "remembering"
+      ],
+      "item_ids": [
+        "2dfaa5b54777"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "2a78106339af",
       "topic": "coal electricity energy generation",
       "keywords": [
@@ -10860,24 +10913,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10890,6 +10925,24 @@
       ],
       "item_ids": [
         "9fb2d8e40a3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
+      "keywords": [
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
+      ],
+      "item_ids": [
+        "8ed599fe270c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -13125,6 +13178,42 @@
       ]
     },
     {
+      "id": "5183468e0648",
+      "topic": "anime bring crunchyroll hit",
+      "keywords": [
+        "anime",
+        "bring",
+        "crunchyroll",
+        "hit",
+        "isekai",
+        "major"
+      ],
+      "item_ids": [
+        "f6433fcdd8b9"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "15292fe1242f",
+      "topic": "blindspot completely crossover flew",
+      "keywords": [
+        "blindspot",
+        "completely",
+        "crossover",
+        "flew",
+        "forgotten",
+        "stargate"
+      ],
+      "item_ids": [
+        "5077c73ab19a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "9ed52e43cc6e",
       "topic": "gellar heartbreaking michelle pens",
       "keywords": [
@@ -13263,42 +13352,6 @@
       ],
       "item_ids": [
         "519b9687551c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c72b68cad146",
-      "topic": "absolute bane batman becoming",
-      "keywords": [
-        "absolute",
-        "bane",
-        "batman",
-        "becoming",
-        "partner",
-        "watch"
-      ],
-      "item_ids": [
-        "28454fbf4534"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3fe3568c8c33",
-      "topic": "arts best fearles jet",
-      "keywords": [
-        "arts",
-        "best",
-        "fearles",
-        "jet",
-        "martial",
-        "still"
-      ],
-      "item_ids": [
-        "83e09b62e257"
       ],
       "outlets": [
         "CBR"
