@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T23:13:12Z",
+  "generated_at": "2025-10-11T00:12:23Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -102,39 +102,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "5306313fe14f"
-    },
-    {
-      "id": "6fb8e1b21083",
-      "title": "Despite Stiff Opposition, an Alabama City Changes Its Laws to Accommodate Data Centers",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/08102025/bessemer-alabama-changes-laws-to-accommodate-data-centers/",
-      "published_at": "Wed, 08 Oct 2025 23:50:51 +0000",
-      "bullets": [
-        "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
-        "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
-        "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
-          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
-        ],
-        "hopeful_bullets": [
-          "• The city of Bessemer, Alabama, voted to allow the location of data centers in areas designated for light industrial use",
-          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings"
-        ],
-        "stakes_bullets": [
-          "• Project Marvel is a $14.4 billion hyperscale data center development set to encompass 700 acres and include 18 buildings",
-          "• Locals have expressed concerns about excessive energy usage, increased utility rates, noise pollution "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "e7c039e05f7b"
     },
     {
       "id": "551366e439b1",
@@ -1186,6 +1153,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1219,38 +1218,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -3351,6 +3318,136 @@
       "cluster_id": "897fb01038ba"
     },
     {
+      "id": "47922361a6b1",
+      "title": "Cardi B Delayed Video for BIA Diss Track to Avoid ‘Bullying’ Rapper on Her Album Release Day",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/cardi-b-bia-pretty-and-petty-video-bully-album-release-1235445366/",
+      "published_at": "Sat, 11 Oct 2025 00:01:27 +0000",
+      "bullets": [
+        "• Cardi B delayed releasing a video for her BIA diss track on her album release day",
+        "• She said she didn't want to feel like a bully on the day of her foe's album release",
+        "• The rapper added that she will instead choose to make a different video for the song next week "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Cardi B delayed releasing a video for her BIA diss track on her album release day",
+          "• She said she didn't want to feel like a bully on the day of her foe's album release"
+        ],
+        "hopeful_bullets": [
+          "• Cardi B delayed releasing a video for her BIA diss track on her album release day",
+          "• She said she didn't want to feel like a bully on the day of her foe's album release"
+        ],
+        "stakes_bullets": [
+          "• The rapper added that she will instead choose to make a different video for the song next week "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "67bbbdcc1ebc"
+    },
+    {
+      "id": "e6abfd2448a5",
+      "title": "Anne Rice's Talamasca: The Secret Order and The Vampire Lestat Get First Look at NYCC",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/anne-rice-immortal-universe-the-vampire-lestat-talamasca-first-look/",
+      "published_at": "Sat, 11 Oct 2025 00:00:13 GMT",
+      "bullets": [
+        "• AMC had a panel at the New York Comic-Con to tease what to expect from Anne Rice's Immortal Universe",
+        "• The Immortal Universe kicked off with Interview With the Vampire in 2022, the franchise has grown and will welcome Talamasca: The Secret Order soon",
+        "• AMC also unveiled a full look at the six-episode first season of the series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AMC had a panel at the New York Comic-Con to tease what to expect from Anne Rice's Immortal Universe",
+          "• The Immortal Universe kicked off with Interview With the Vampire in 2022, the franchise has grown and will welcome Talamasca: The Secret Order soon"
+        ],
+        "hopeful_bullets": [
+          "• AMC had a panel at the New York Comic-Con to tease what to expect from Anne Rice's Immortal Universe",
+          "• The Immortal Universe kicked off with Interview With the Vampire in 2022, the franchise has grown and will welcome Talamasca: The Secret Order soon"
+        ],
+        "stakes_bullets": [
+          "• The Immortal Universe kicked off with Interview With the Vampire in 2022, the franchise has grown and will welcome Talamasca: The Secret Order soon"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "33b7f0b4597a"
+    },
+    {
+      "id": "e4820ce01f40",
+      "title": "Bleach Plagiarized Yu Yu Hakusho & I Can Prove It",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/bleach-story-yu-yu-hakusho-rip-off/",
+      "published_at": "Sat, 11 Oct 2025 00:00:13 GMT",
+      "bullets": [
+        "• Bleach is a completely original work in many ways, from its unique power systems to its expansive worldbuilding",
+        "• Yu Yu Hakusho was one of the first shonen anime to popularize the genre, establishing a range of tropes that future shonen series would borrow from",
+        "• Bleach doesn't come across as a copycat at first glance "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bleach is a completely original work in many ways, from its unique power systems to its expansive worldbuilding",
+          "• Yu Yu Hakusho was one of the first shonen anime to popularize the genre, establishing a range of tropes that future shonen series would borrow from"
+        ],
+        "hopeful_bullets": [
+          "• Bleach is a completely original work in many ways, from its unique power systems to its expansive worldbuilding",
+          "• Yu Yu Hakusho was one of the first shonen anime to popularize the genre, establishing a range of tropes that future shonen series would borrow from"
+        ],
+        "stakes_bullets": [
+          "• Bleach is a completely original work in many ways, from its unique power systems to its expansive worldbuilding",
+          "• Yu Yu Hakusho was one of the first shonen anime to popularize the genre, establishing a range of tropes that future shonen series would borrow from",
+          "• Bleach doesn't come across as a copycat at first glance "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "699bf7633831"
+    },
+    {
+      "id": "9c45bc5448f2",
+      "title": "High Potential Shot to 30 Million Views in Season 1 (& It's Back With New Episodes)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/high-potential-new-episodes/",
+      "published_at": "Sat, 11 Oct 2025 00:00:13 GMT",
+      "bullets": [
+        "• The first episode of High Potential season one (\"Pilot\") was watched by 3.59 million viewers in the United States",
+        "• The series centers around Morgan Gillory, a single mother of three who works as an overnight cleaner for the Los Angeles Police Department "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.904
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first episode of High Potential season one (\"Pilot\") was watched by 3.59 million viewers in the United States",
+          "• The series centers around Morgan Gillory, a single mother of three who works as an overnight cleaner for the Los Angeles Police Department "
+        ],
+        "hopeful_bullets": [
+          "• The first episode of High Potential season one (\"Pilot\") was watched by 3.59 million viewers in the United States",
+          "• The series centers around Morgan Gillory, a single mother of three who works as an overnight cleaner for the Los Angeles Police Department "
+        ],
+        "stakes_bullets": [
+          "• The first episode of High Potential season one (\"Pilot\") was watched by 3.59 million viewers in the United States",
+          "• The series centers around Morgan Gillory, a single mother of three who works as an overnight cleaner for the Los Angeles Police Department "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d8733e4612cc"
+    },
+    {
       "id": "28d65d9f6170",
       "title": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -4115,6 +4212,304 @@
       "cluster_id": "cc7d025ab986"
     },
     {
+      "id": "04f11ba6a694",
+      "title": "Superman Found The Perfect Hero To Help Him Through His Latest Kryptonite Struggle",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/superman-found-perfect-hero-shazam-help-him-through-kryptonite-struggle/",
+      "published_at": "Fri, 10 Oct 2025 23:53:07 GMT",
+      "bullets": [
+        "• New series, Superman: The Kryptonite Spectrum, centers around the Man of Steel and Sham",
+        "• The series is written by W",
+        "• Maxwell Prince, Martín Morazzo, and Chris O'Halloran",
+        "• It's set to be the first time the two characters have faced each other in the series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New series, Superman: The Kryptonite Spectrum, centers around the Man of Steel and Sham",
+          "• The series is written by W"
+        ],
+        "hopeful_bullets": [
+          "• New series, Superman: The Kryptonite Spectrum, centers around the Man of Steel and Sham",
+          "• The series is written by W"
+        ],
+        "stakes_bullets": [
+          "• New series, Superman: The Kryptonite Spectrum, centers around the Man of Steel and Sham",
+          "• The series is written by W",
+          "• Maxwell Prince, Martín Morazzo, and Chris O'Halloran"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f579b058010c"
+    },
+    {
+      "id": "00a5c1704fd6",
+      "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
+      "published_at": "Fri, 10 Oct 2025 23:42:56 GMT",
+      "bullets": [
+        "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+        "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
+        "• The company's flagship app, Seemour, connects to home security cameras "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.932
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
+        ],
+        "hopeful_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
+        ],
+        "stakes_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
+          "• The company's flagship app, Seemour, connects to home security cameras "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c04934c6d339"
+    },
+    {
+      "id": "956e2d00fc65",
+      "title": "Federal Shutdown Hampers Chesapeake Bay Agreement Talks",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/10102025/federal-shutdown-hampers-chesapeake-bay-agreement-talks/",
+      "published_at": "Fri, 10 Oct 2025 23:40:48 +0000",
+      "bullets": [
+        "• The Chesapeake Bay Program’s management board met Thursday to hammer out a proposal aimed at closing gaps identified by the public after a draft agreement was announced in July",
+        "• The draft agreement had drawn the ire of scientists, advocates and citizen groups for weakening legal accountability "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Chesapeake Bay Program’s management board met Thursday to hammer out a proposal aimed at closing gaps identified by the public after a draft agreement was announced in July",
+          "• The draft agreement had drawn the ire of scientists, advocates and citizen groups for weakening legal accountability "
+        ],
+        "hopeful_bullets": [
+          "• The Chesapeake Bay Program’s management board met Thursday to hammer out a proposal aimed at closing gaps identified by the public after a draft agreement was announced in July",
+          "• The draft agreement had drawn the ire of scientists, advocates and citizen groups for weakening legal accountability "
+        ],
+        "stakes_bullets": [
+          "• The Chesapeake Bay Program’s management board met Thursday to hammer out a proposal aimed at closing gaps identified by the public after a draft agreement was announced in July",
+          "• The draft agreement had drawn the ire of scientists, advocates and citizen groups for weakening legal accountability "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "59b88fbd18a1"
+    },
+    {
+      "id": "2bfe936cd554",
+      "title": "3 Best Netflix Series to Binge Watch This Weekend (Oct 10-12)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-netflix-anime-binge-watch-october-10/",
+      "published_at": "Fri, 10 Oct 2025 23:33:40 GMT",
+      "bullets": [
+        "• More than ever, Netflix is an appealing destination for fans of anime, even if Netflix isn't wholly dedicated to anime like Crunchyroll and HIDIVE are",
+        "• Netflix subscribers can try out or revisit some of the most popular and prominent titles on Netflix to fill a carefree afternoon or evening this weekend "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than ever, Netflix is an appealing destination for fans of anime, even if Netflix isn't wholly dedicated to anime like Crunchyroll and HIDIVE are",
+          "• Netflix subscribers can try out or revisit some of the most popular and prominent titles on Netflix to fill a carefree afternoon or evening this weekend "
+        ],
+        "hopeful_bullets": [
+          "• More than ever, Netflix is an appealing destination for fans of anime, even if Netflix isn't wholly dedicated to anime like Crunchyroll and HIDIVE are",
+          "• Netflix subscribers can try out or revisit some of the most popular and prominent titles on Netflix to fill a carefree afternoon or evening this weekend "
+        ],
+        "stakes_bullets": [
+          "• More than ever, Netflix is an appealing destination for fans of anime, even if Netflix isn't wholly dedicated to anime like Crunchyroll and HIDIVE are",
+          "• Netflix subscribers can try out or revisit some of the most popular and prominent titles on Netflix to fill a carefree afternoon or evening this weekend "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "71ad0a9adb59"
+    },
+    {
+      "id": "f0beaa865c7f",
+      "title": "‘Substantial’ federal layoffs begin as Congress remains deadlocked over funding to end shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
+      "published_at": "Fri, 10 Oct 2025 23:30:49 GMT",
+      "bullets": [
+        "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+        "• The Department of Housing and Urban Development has confirmed that layoffs of federal workers are underway during the government shutdown",
+        "• Other media outlets have reported layoffs are expected at other agencies "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies",
+          "• The Department of Housing and Urban Development has confirmed that layoffs of federal workers are underway during the government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• Multiple agencies confirm reductions in force are under way at the following departments and agencies"
+        ],
+        "stakes_bullets": [
+          "• The Department of Housing and Urban Development has confirmed that layoffs of federal workers are underway during the government shutdown",
+          "• Other media outlets have reported layoffs are expected at other agencies "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "0d13bcd4141e"
+    },
+    {
+      "id": "d42d6a4e84d7",
+      "title": "5 Scary Movies to Stream This Weekend (Even if You Hate Horror)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/scary-movies-to-stream-this-weekend/",
+      "published_at": "Fri, 10 Oct 2025 23:30:12 GMT",
+      "bullets": [
+        "• The best horror films are available on Netflix and HBO",
+        "• They range from horror films to classic comedies",
+        "• There are plenty of movies that offer a wide range of scares and thrills",
+        "• Some of the best of the series are about to be released in cinemas "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The best horror films are available on Netflix and HBO",
+          "• They range from horror films to classic comedies"
+        ],
+        "hopeful_bullets": [
+          "• The best horror films are available on Netflix and HBO",
+          "• They range from horror films to classic comedies"
+        ],
+        "stakes_bullets": [
+          "• The best horror films are available on Netflix and HBO",
+          "• They range from horror films to classic comedies",
+          "• There are plenty of movies that offer a wide range of scares and thrills"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4ea5c91ff5c2"
+    },
+    {
+      "id": "66f6503b5c68",
+      "title": "10 Best Marvel Zombies Variants, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/marvel-zombies-best-variants-ranked/",
+      "published_at": "Fri, 10 Oct 2025 23:30:12 GMT",
+      "bullets": [
+        "• When the Zombie Galacti returned to Earth, they had new members: Jean Grey, aka the Phoenix, was now part of their ranks",
+        "• It was mostly the Phoenix who kept her body alive as a zombie",
+        "• This cosmic entity explained that as a god, the others couldn't eat her, so they had to accept her on their team "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• When the Zombie Galacti returned to Earth, they had new members: Jean Grey, aka the Phoenix, was now part of their ranks",
+          "• It was mostly the Phoenix who kept her body alive as a zombie"
+        ],
+        "hopeful_bullets": [
+          "• When the Zombie Galacti returned to Earth, they had new members: Jean Grey, aka the Phoenix, was now part of their ranks",
+          "• It was mostly the Phoenix who kept her body alive as a zombie"
+        ],
+        "stakes_bullets": [
+          "• This cosmic entity explained that as a god, the others couldn't eat her, so they had to accept her on their team "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "98b8b67632a5"
+    },
+    {
+      "id": "05f80000898a",
+      "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/us-qatar-air-force-idaho-hegseth-defense.html",
+      "published_at": "Fri, 10 Oct 2025 23:19:46 GMT",
+      "bullets": [
+        "• Defense Secretary Pete Hegseth announces agreement to build Qatari Emiri Air Force facility at U.S",
+        "• Air Force Base in Idaho",
+        "• Facility will allow pilots from Qatar's air force to train with American military personnel",
+        "• Right-wing activist Laura Loomer blasted the announcement "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Defense Secretary Pete Hegseth announces agreement to build Qatari Emiri Air Force facility at U.S",
+          "• Air Force Base in Idaho"
+        ],
+        "hopeful_bullets": [
+          "• Right-wing activist Laura Loomer blasted the announcement "
+        ],
+        "stakes_bullets": [
+          "• Facility will allow pilots from Qatar's air force to train with American military personnel"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f12be39dec7a"
+    },
+    {
+      "id": "bda8dba15f66",
+      "title": "Talamasca: Miguel Mora Confirms Return to Black Phone 2 as a Different Character",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-black-phone-miguel-mora-sequel-return-new-role/",
+      "published_at": "Fri, 10 Oct 2025 23:15:40 GMT",
+      "bullets": [
+        "• Miguel Mora is returning to The Black Phone 2",
+        "• He played Robin's brother in the sequel",
+        "• Mora credits the writers for creating a \"beautiful story\" The sequel puts him in the role of Ernesto, the brother of Robin "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Miguel Mora is returning to The Black Phone 2",
+          "• He played Robin's brother in the sequel"
+        ],
+        "hopeful_bullets": [
+          "• Miguel Mora is returning to The Black Phone 2",
+          "• He played Robin's brother in the sequel"
+        ],
+        "stakes_bullets": [
+          "• Miguel Mora is returning to The Black Phone 2",
+          "• He played Robin's brother in the sequel",
+          "• Mora credits the writers for creating a \"beautiful story\" The sequel puts him in the role of Ernesto, the brother of Robin "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b6895e0620a4"
+    },
+    {
       "id": "653744cd956f",
       "title": "Inside Ahsoka with Ashley Eckstein",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -4150,6 +4545,71 @@
       "cluster_id": "3a37da55faa2"
     },
     {
+      "id": "1cd3e361cff7",
+      "title": "Navan sets price range for IPO, expects market cap of up to $6.5 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/navan-sets-price-range-for-ipo-expects-market-cap-up-to-6point5-billion.html",
+      "published_at": "Fri, 10 Oct 2025 23:02:31 GMT",
+      "bullets": [
+        "• Navan expects its market cap to be as high as $6.5 billion in its IPO",
+        "• The company anticipates selling shares at $24 to $26 each",
+        "• Navan is a developer of corporate travel and expense software",
+        "• It's based in Palo Alto, California, and had 3,400 employees at the end of July "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Navan expects its market cap to be as high as $6.5 billion in its IPO",
+          "• The company anticipates selling shares at $24 to $26 each"
+        ],
+        "hopeful_bullets": [
+          "• Navan expects its market cap to be as high as $6.5 billion in its IPO",
+          "• The company anticipates selling shares at $24 to $26 each"
+        ],
+        "stakes_bullets": [
+          "• Navan expects its market cap to be as high as $6.5 billion in its IPO"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9d86589da2d1"
+    },
+    {
+      "id": "965b41427b21",
+      "title": "Trump says 'a lot' of federal workers are being laid off during government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "published_at": "Fri, 10 Oct 2025 23:02:28 GMT",
+      "bullets": [
+        "• President Donald Trump says the number of federal workers laid off will \"be a lot\" The White House is laying off federal workers across a wide range of agencies",
+        "• The permanent job cuts, formally known as \"Reductions in Force,\" are different from the furloughing of government workers "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump says the number of federal workers laid off will \"be a lot\" The White House is laying off federal workers across a wide range of agencies",
+          "• The permanent job cuts, formally known as \"Reductions in Force,\" are different from the furloughing of government workers "
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump says the number of federal workers laid off will \"be a lot\" The White House is laying off federal workers across a wide range of agencies",
+          "• The permanent job cuts, formally known as \"Reductions in Force,\" are different from the furloughing of government workers "
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump says the number of federal workers laid off will \"be a lot\" The White House is laying off federal workers across a wide range of agencies",
+          "• The permanent job cuts, formally known as \"Reductions in Force,\" are different from the furloughing of government workers "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "69badf72ca6c"
+    },
+    {
       "id": "5f3293ff5e85",
       "title": "5 Best Netflix Shows to Binge-Watch This Weekend: Oct. 10-12, 2025",
       "outlet": "CBR",
@@ -4179,38 +4639,41 @@
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "3cb49486bb33"
+      "cluster_id": "71ad0a9adb59"
     },
     {
-      "id": "965b41427b21",
-      "title": "Trump administration begins layoffs of federal workers amid government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-      "published_at": "Fri, 10 Oct 2025 22:44:48 GMT",
+      "id": "5141a5e16aeb",
+      "title": "Burkina Faso refuses to take deportees as US stops issuing visas",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2lx5r2z475o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 10 Oct 2025 22:58:28 GMT",
       "bullets": [
-        "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says",
-        "• An official says the departments targeted include Treasury, Health and Human Services, Education, Energy, Commerce, and Interior "
+        "• Foreign affairs minister Karamoko Jean-Marie Traoré rejects US offer to take in migrants from third countries",
+        "• US State Department says it is committed to ending illegal and mass migration and bolstering US border security",
+        "• Troops seized power in a coup three years ago, and has had frosty relationship with Western nations "
       ],
-      "category": "Business",
+      "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.968
+        "score": 0.852
       },
       "moods": {
         "brief_bullets": [
-          "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says",
-          "• An official says the departments targeted include Treasury, Health and Human Services, Education, Energy, Commerce, and Interior "
+          "• Foreign affairs minister Karamoko Jean-Marie Traoré rejects US offer to take in migrants from third countries",
+          "• US State Department says it is committed to ending illegal and mass migration and bolstering US border security"
         ],
         "hopeful_bullets": [
-          "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says",
-          "• An official says the departments targeted include Treasury, Health and Human Services, Education, Energy, Commerce, and Interior "
+          "• Foreign affairs minister Karamoko Jean-Marie Traoré rejects US offer to take in migrants from third countries",
+          "• US State Department says it is committed to ending illegal and mass migration and bolstering US border security"
         ],
         "stakes_bullets": [
-          "• Budget chief Russell Vought: \"The RIFs have begun\" The number of federal workers who will be laid off will \"be a lot,\" President Donald Trump says"
+          "• Foreign affairs minister Karamoko Jean-Marie Traoré rejects US offer to take in migrants from third countries",
+          "• US State Department says it is committed to ending illegal and mass migration and bolstering US border security",
+          "• Troops seized power in a coup three years ago, and has had frosty relationship with Western nations "
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "6c988f50455f"
+      "read_minutes": 2,
+      "cluster_id": "7c473b70d0a3"
     },
     {
       "id": "196a206f80d4",
@@ -4279,40 +4742,38 @@
       "cluster_id": "0b3402b0e87a"
     },
     {
-      "id": "97567878ebcc",
-      "title": "The Massive Star Warner Bros. Wanted For The Riddler in Christopher Nolan's Batman Trilogy",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/riddler-christopher-nolan-dark-knight-trilogy-leonardo-dicaprio/",
-      "published_at": "Fri, 10 Oct 2025 22:35:12 GMT",
+      "id": "32d2695c5e4d",
+      "title": "Chicago TV journalist pushed to ground and arrested during Ice raid",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/10/chicago-ice-raid-arrest",
+      "published_at": "Fri, 10 Oct 2025 22:36:42 GMT",
       "bullets": [
-        "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
-        "• Warner Bros",
-        "• wanted a huge star to play the villain in Christopher Nolan's Dark Knight trilogy",
-        "• David S",
-        "• Goyer revealed that he was approached by the studio at the Dark Knight premiere "
+        "• Video editor and producer for Chicago’s WGN television station was arrested by federal agents on Friday morning during an Ice raid",
+        "• Debbie Brockman was forced to the ground by two agents before being handcuffed and put in a van",
+        "• The incident took place in Chicago's Lincoln Square neighborhood, as immigration agents have been scouring the city for people to deport "
       ],
-      "category": "Comics",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.777
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
-          "• Warner Bros"
+          "• Video editor and producer for Chicago’s WGN television station was arrested by federal agents on Friday morning during an Ice raid",
+          "• Debbie Brockman was forced to the ground by two agents before being handcuffed and put in a van"
         ],
         "hopeful_bullets": [
-          "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
-          "• Warner Bros"
+          "• Video editor and producer for Chicago’s WGN television station was arrested by federal agents on Friday morning during an Ice raid",
+          "• Debbie Brockman was forced to the ground by two agents before being handcuffed and put in a van"
         ],
         "stakes_bullets": [
-          "• The Riddler almost starred in a Batman movie long before Paul Dano took on the role in The Batman",
-          "• Warner Bros",
-          "• wanted a huge star to play the villain in Christopher Nolan's Dark Knight trilogy"
+          "• Video editor and producer for Chicago’s WGN television station was arrested by federal agents on Friday morning during an Ice raid",
+          "• Debbie Brockman was forced to the ground by two agents before being handcuffed and put in a van",
+          "• The incident took place in Chicago's Lincoln Square neighborhood, as immigration agents have been scouring the city for people to deport "
         ]
       },
-      "read_minutes": 7,
-      "cluster_id": "63a335bb84ae"
+      "read_minutes": 2,
+      "cluster_id": "71fe8c711bfc"
     },
     {
       "id": "7ad2f7e820ca",
@@ -4347,70 +4808,6 @@
       "cluster_id": "3bcabf443022"
     },
     {
-      "id": "d5d064418ade",
-      "title": "Netflix's Dorohedoro Finally Gets Production Update After Major Season 2 Release Delay",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dorohedoro-season-2-netflix-release-window/",
-      "published_at": "Fri, 10 Oct 2025 22:30:12 GMT",
-      "bullets": [
-        "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season",
-        "• The first season consisted of 12 episodes and six shorts",
-        "• The grim, gritty, overtly violent anime series holds a perfect 100% \"Fresh\" rating on Rotten Tomatoes "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season",
-          "• The first season consisted of 12 episodes and six shorts"
-        ],
-        "hopeful_bullets": [
-          "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season",
-          "• The first season consisted of 12 episodes and six shorts"
-        ],
-        "stakes_bullets": [
-          "• Dorohedoro Season 2 is expected to arrive in the Spring 2026 anime season"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f1131c542c3f"
-    },
-    {
-      "id": "d2abac09751b",
-      "title": "Guillermo Del Toro's 78% RT Hit Remains the Most Overlooked Family-Friendly Horror Movie",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/scary-stories-to-tell-in-the-dark-underrated-pg-13-horror-movie/",
-      "published_at": "Fri, 10 Oct 2025 22:30:12 GMT",
-      "bullets": [
-        "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein",
-        "• The horror flick is one of the best PG-13 films ever created",
-        "• Scary Stories to Tell in the Dark is based on the collection of scary stories by Alvin Schwartz "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein",
-          "• The horror flick is one of the best PG-13 films ever created"
-        ],
-        "hopeful_bullets": [
-          "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein",
-          "• The horror flick is one of the best PG-13 films ever created"
-        ],
-        "stakes_bullets": [
-          "• Guillermo del Toro will make another impact on the spooky genre with his adaptation of Frankenstein"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "3b473b75456f"
-    },
-    {
       "id": "ad1eb6601679",
       "title": "Nineteen people feared dead after blast at Tennessee munitions plant",
       "outlet": "US news | The Guardian",
@@ -4441,40 +4838,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "298a5f5825bb"
-    },
-    {
-      "id": "00a5c1704fd6",
-      "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
-      "published_at": "Fri, 10 Oct 2025 22:22:20 GMT",
-      "bullets": [
-        "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
-        "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
-        "• The company's flagship app, Seemour, connects to home security cameras "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.932
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
-          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
-        ],
-        "hopeful_bullets": [
-          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
-          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
-        ],
-        "stakes_bullets": [
-          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
-          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
-          "• The company's flagship app, Seemour, connects to home security cameras "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c04934c6d339"
     },
     {
       "id": "3c81037f7d4c",
@@ -4577,105 +4940,6 @@
       "cluster_id": "6cacdf7ad90f"
     },
     {
-      "id": "457226e4b816",
-      "title": "Earth-X's Dark DC History, Explained",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/peacemaker-earth-x-dc-comics-history-explained/",
-      "published_at": "Fri, 10 Oct 2025 22:00:12 GMT",
-      "bullets": [
-        "• DC Comics has had the multiverse as a central concept since the 1960s",
-        "• This gave rise to several divergent Earths, with these all being notably distinct from the main DC Universe",
-        "• Now, Earth-X is appearing in the DCU, and it's one of several adaptations of the concept "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• DC Comics has had the multiverse as a central concept since the 1960s",
-          "• This gave rise to several divergent Earths, with these all being notably distinct from the main DC Universe"
-        ],
-        "hopeful_bullets": [
-          "• DC Comics has had the multiverse as a central concept since the 1960s",
-          "• This gave rise to several divergent Earths, with these all being notably distinct from the main DC Universe"
-        ],
-        "stakes_bullets": [
-          "• DC Comics has had the multiverse as a central concept since the 1960s",
-          "• This gave rise to several divergent Earths, with these all being notably distinct from the main DC Universe",
-          "• Now, Earth-X is appearing in the DCU, and it's one of several adaptations of the concept "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "dc9d28dddfcf"
-    },
-    {
-      "id": "56276e3fe073",
-      "title": "Family Guy’s Darkest Episode Is the Most Uncomfortable 21 Minutes in Animation History",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/family-guy-darkest-episode/",
-      "published_at": "Fri, 10 Oct 2025 22:00:12 GMT",
-      "bullets": [
-        "• \"Family Guy\" is one of the most emotionally revealing episodes of animated TV series",
-        "• The episode, \"The Dog & Stewie,\" is a 21st episode of the series",
-        "• It was created by Seth MacFarlane in 1999 and has been a staple of the show for over two decades "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• \"Family Guy\" is one of the most emotionally revealing episodes of animated TV series",
-          "• The episode, \"The Dog & Stewie,\" is a 21st episode of the series"
-        ],
-        "hopeful_bullets": [
-          "• \"Family Guy\" is one of the most emotionally revealing episodes of animated TV series",
-          "• The episode, \"The Dog & Stewie,\" is a 21st episode of the series"
-        ],
-        "stakes_bullets": [
-          "• \"Family Guy\" is one of the most emotionally revealing episodes of animated TV series",
-          "• The episode, \"The Dog & Stewie,\" is a 21st episode of the series",
-          "• It was created by Seth MacFarlane in 1999 and has been a staple of the show for over two decades "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "05764e233604"
-    },
-    {
-      "id": "f462474b63d0",
-      "title": "Santa Claus Officially Has a New Rival (& He's a Total Scrooge)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/sanda-episode-2-review/",
-      "published_at": "Fri, 10 Oct 2025 21:57:19 GMT",
-      "bullets": [
-        "• Sanda got a lot of anime fans talking when it revealed itself to be a series about an ordinary high school student who could transform into Santa Claus",
-        "• Sanda Episode 2, \"Candies, Canes, Kisses and Blades,\" gets a bit more serious by introducing the anime's overarching conflict and socially-relevant messaging "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sanda got a lot of anime fans talking when it revealed itself to be a series about an ordinary high school student who could transform into Santa Claus",
-          "• Sanda Episode 2, \"Candies, Canes, Kisses and Blades,\" gets a bit more serious by introducing the anime's overarching conflict and socially-relevant messaging "
-        ],
-        "hopeful_bullets": [
-          "• Sanda got a lot of anime fans talking when it revealed itself to be a series about an ordinary high school student who could transform into Santa Claus",
-          "• Sanda Episode 2, \"Candies, Canes, Kisses and Blades,\" gets a bit more serious by introducing the anime's overarching conflict and socially-relevant messaging "
-        ],
-        "stakes_bullets": [
-          "• Sanda got a lot of anime fans talking when it revealed itself to be a series about an ordinary high school student who could transform into Santa Claus"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "4f5673accf9b"
-    },
-    {
       "id": "cb54e05d1f86",
       "title": "Clairo, Lucy Dacus, Nao, More Join No Music for Genocide Boycott",
       "outlet": "Music News",
@@ -4739,37 +5003,6 @@
       "cluster_id": "4483e6a59007"
     },
     {
-      "id": "f0beaa865c7f",
-      "title": "‘Substantial’ federal layoffs begin as Congress remains deadlocked over funding to end shutdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates",
-      "published_at": "Fri, 10 Oct 2025 21:49:19 GMT",
-      "bullets": [
-        "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
-        "• Trump claims his threat to 'obliterate' Hamas sealed deal to end Gaza war and bring peace 'to the entire Middle East'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
-          "• Trump claims his threat to 'obliterate' Hamas sealed deal to end Gaza war and bring peace 'to the entire Middle East'"
-        ],
-        "hopeful_bullets": [
-          "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies"
-        ],
-        "stakes_bullets": [
-          "• Multiple agencies confirm reductions in force (RIFs) are under way at the following departments and agencies",
-          "• Trump claims his threat to 'obliterate' Hamas sealed deal to end Gaza war and bring peace 'to the entire Middle East'"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "0d13bcd4141e"
-    },
-    {
       "id": "286c5f1b28e9",
       "title": "Trump admin fires more health employees amid government shutdown",
       "outlet": "Ars Technica - All content",
@@ -4805,41 +5038,6 @@
       "cluster_id": "7758fc4c0130"
     },
     {
-      "id": "8b7d9d184a78",
-      "title": "10 Overrated 1990s Anime That Are Unwatchable Today",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/overrated-90s-anime-aged-poorly/",
-      "published_at": "Fri, 10 Oct 2025 21:40:16 GMT",
-      "bullets": [
-        "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
-        "• This is especially true as newer creators are constantly refining the same ideas",
-        "• Despite all this, much of the popular 1990s anime has aged poorly",
-        "• There were repetitive monster-of-the-week plots and many filler episodes "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
-          "• This is especially true as newer creators are constantly refining the same ideas"
-        ],
-        "hopeful_bullets": [
-          "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
-          "• This is especially true as newer creators are constantly refining the same ideas"
-        ],
-        "stakes_bullets": [
-          "• Anime is never static, and every new generation introduces a shift in storytelling and presentation",
-          "• This is especially true as newer creators are constantly refining the same ideas",
-          "• Despite all this, much of the popular 1990s anime has aged poorly"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "9c920fc051cd"
-    },
-    {
       "id": "2b7d096d00ea",
       "title": "Journey’s Jonathan Cain to Leave Band After One More Tour",
       "outlet": "Music News",
@@ -4872,38 +5070,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "1840da40622a"
-    },
-    {
-      "id": "6d40378f3757",
-      "title": "HBO Can Officially Erase Harry Potter’s Biggest Dumbledore Mistake Since Fantastic Beasts",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/hbo-harry-potter-reboot-dumbledore-backstory/",
-      "published_at": "Fri, 10 Oct 2025 21:30:12 GMT",
-      "bullets": [
-        "• HBO’s Harry Potter reboot has overwhelmed the entertainment news cycle, and the series hasn’t even premiered yet",
-        "• The eight-film series had to make tough decisions and cut where necessary",
-        "• The new reboot offers a chance to rectify this, largely in the case of Albus Dumbledore "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.53
-      },
-      "moods": {
-        "brief_bullets": [
-          "• HBO’s Harry Potter reboot has overwhelmed the entertainment news cycle, and the series hasn’t even premiered yet",
-          "• The eight-film series had to make tough decisions and cut where necessary"
-        ],
-        "hopeful_bullets": [
-          "• HBO’s Harry Potter reboot has overwhelmed the entertainment news cycle, and the series hasn’t even premiered yet",
-          "• The eight-film series had to make tough decisions and cut where necessary"
-        ],
-        "stakes_bullets": [
-          "• The eight-film series had to make tough decisions and cut where necessary"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "3cae4dde54c9"
     },
     {
       "id": "9bea45fcf9e3",
@@ -5300,37 +5466,6 @@
       "cluster_id": "e16fea1b7561"
     },
     {
-      "id": "1e1d92522447",
-      "title": "Airlines tell passengers to prepare for delays as government shutdown continues",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/government-shutdown-airlines-passengers-delays.html",
-      "published_at": "Fri, 10 Oct 2025 20:57:46 GMT",
-      "bullets": [
-        "• Air traffic controller shortages this week delayed flights at some U.S",
-        "• airports",
-        "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Air traffic controller shortages this week delayed flights at some U.S",
-          "• airports"
-        ],
-        "hopeful_bullets": [
-          "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
-        ],
-        "stakes_bullets": [
-          "• Airline group: \"It is safe to fly, but ATC staffing shortages strain the system and cause flights to be spaced out, slowing down everything\" Flood watch issued for New York, Long Island, Connecticut and New Jersey from expected storm "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5825a5177df2"
-    },
-    {
       "id": "07ea88428611",
       "title": "Judge Throws Out Drake’s “Not Like Us” Defamation Lawsuit Against Universal Music Group",
       "outlet": "RSS: News",
@@ -5529,41 +5664,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1c38b60dd955"
-    },
-    {
-      "id": "05f80000898a",
-      "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/us-qatar-air-force-idaho-hegseth-defense.html",
-      "published_at": "Fri, 10 Oct 2025 20:20:29 GMT",
-      "bullets": [
-        "• U.S",
-        "• Air Force to train with Qatari air force in Qatar",
-        "• The move is part of a deepening of the relationship between the two countries",
-        "• The United States has accepted a Boeing 747 jet from Qatar to be used by the Qatari government "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• Air Force to train with Qatari air force in Qatar"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• Air Force to train with Qatari air force in Qatar"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• Air Force to train with Qatari air force in Qatar",
-          "• The move is part of a deepening of the relationship between the two countries"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f12be39dec7a"
     },
     {
       "id": "d35df58af50f",
@@ -6054,6 +6154,38 @@
       "cluster_id": "a480f9f93584"
     },
     {
+      "id": "7e93c704485d",
+      "title": "AstraZeneca makes deal with White House to lower drug prices",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices",
+      "published_at": "Fri, 10 Oct 2025 19:21:23 -0400",
+      "bullets": [
+        "• AstraZeneca is the second drugmaker to enter a deal with the White House to lower drug prices",
+        "• The company will offer discounts of up to 80% off list prices on direct sales to consumers",
+        "• TrumpRx is part of a broader initiative aimed at bringing prices paid by Americans more in line with those paid in developed countries "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.749
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AstraZeneca is the second drugmaker to enter a deal with the White House to lower drug prices",
+          "• The company will offer discounts of up to 80% off list prices on direct sales to consumers"
+        ],
+        "hopeful_bullets": [
+          "• AstraZeneca is the second drugmaker to enter a deal with the White House to lower drug prices",
+          "• The company will offer discounts of up to 80% off list prices on direct sales to consumers"
+        ],
+        "stakes_bullets": [
+          "• The company will offer discounts of up to 80% off list prices on direct sales to consumers"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b139fb7b74b2"
+    },
+    {
       "id": "c32e18262f9e",
       "title": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
       "outlet": "Ars Technica - All content",
@@ -6279,41 +6411,7 @@
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "1525624d22ff"
-    },
-    {
-      "id": "02908e62178e",
-      "title": "Rachel Chinouriri Falls in Love Again and Again With Madonna, Charli XCX, and Herself",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/rachel-chinouriri-madonna-charli-xcx-love-song-shuffle-1235444652/",
-      "published_at": "Fri, 10 Oct 2025 18:08:51 +0000",
-      "bullets": [
-        "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
-        "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events",
-        "• She also finds love in Madonna's \"Hung Up\" and Charli XCX's \"Von Dutch\""
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
-          "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events"
-        ],
-        "hopeful_bullets": [
-          "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
-          "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events"
-        ],
-        "stakes_bullets": [
-          "• Rachel Chinouriri is a champion of finding love everywhere it might exist",
-          "• The British singer-songwriter recently released her debut album What a Devastating Turn of Events",
-          "• She also finds love in Madonna's \"Hung Up\" and Charli XCX's \"Von Dutch\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "95b1f671c1c5"
+      "cluster_id": "3456fe969cea"
     },
     {
       "id": "f12239e85dc3",
@@ -6717,40 +6815,6 @@
       "cluster_id": "d02122c1026d"
     },
     {
-      "id": "2d439c25841c",
-      "title": "This free speech group at Columbia is taking on Trump when the university won’t – and winning",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/10/knight-institute-columbia-university",
-      "published_at": "Fri, 10 Oct 2025 17:01:09 GMT",
-      "bullets": [
-        "• Jameel Jaffer is the director of a Columbia-affiliated institute devoted to the defense of the first amendment",
-        "• His organization hosted a symposium about the free speech rights of noncitizens",
-        "• A federal judge in Boston ruled that the detention and attempted deportation of Mahmoud Khalil and other pro-Palestinian students was unconstitutional "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jameel Jaffer is the director of a Columbia-affiliated institute devoted to the defense of the first amendment",
-          "• His organization hosted a symposium about the free speech rights of noncitizens"
-        ],
-        "hopeful_bullets": [
-          "• Jameel Jaffer is the director of a Columbia-affiliated institute devoted to the defense of the first amendment",
-          "• His organization hosted a symposium about the free speech rights of noncitizens"
-        ],
-        "stakes_bullets": [
-          "• Jameel Jaffer is the director of a Columbia-affiliated institute devoted to the defense of the first amendment",
-          "• His organization hosted a symposium about the free speech rights of noncitizens",
-          "• A federal judge in Boston ruled that the detention and attempted deportation of Mahmoud Khalil and other pro-Palestinian students was unconstitutional "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bb5e08c4e40a"
-    },
-    {
       "id": "efbdcb80bb2d",
       "title": "UK regulators plan to force Google changes under new competition law",
       "outlet": "Ars Technica - All content",
@@ -7015,7 +7079,7 @@
     },
     {
       "id": "cf5887f17bb7",
-      "title": "Peru: Chicha Cumbia, the electric pulse of Lima",
+      "title": "Peru: Chicha, the electric pulse of cumbia",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/sections/the-picture-show/2025/10/10/nx-s1-5549181/cumbia-in-peru",
       "published_at": "Fri, 10 Oct 2025 14:47:53 -0400",
@@ -7045,7 +7109,7 @@
         ]
       },
       "read_minutes": 6,
-      "cluster_id": "576abb8b9ff1"
+      "cluster_id": "d3156db3e286"
     },
     {
       "id": "df02b89a0e2c",
@@ -7054,26 +7118,27 @@
       "url": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
       "published_at": "Fri, 10 Oct 2025 14:27:00 -0400",
       "bullets": [
-        "• White House says 'substantial' layoffs of federal workers have begun, with few details",
-        "• Administration has offered few details on the scope of the layoffs",
-        "• Some federal employees have received actual layoff notices, while others have been notified merely of an intent to cut their workforce "
+        "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
+        "• An estimated 4,200 employees across seven agencies are receiving reduction-in-force notices starting Oct",
+        "• 10",
+        "• Some federal employees have received actual layoff notices, while others say they have been notified merely of an intent to cut their workforce "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
-          "• Administration has offered few details on the scope of the layoffs"
+          "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
+          "• An estimated 4,200 employees across seven agencies are receiving reduction-in-force notices starting Oct"
         ],
         "hopeful_bullets": [
-          "• White House says 'substantial' layoffs of federal workers have begun, with few details",
-          "• Administration has offered few details on the scope of the layoffs"
+          "• White House says \"substantial\" layoffs of federal workers have begun, with few details",
+          "• An estimated 4,200 employees across seven agencies are receiving reduction-in-force notices starting Oct"
         ],
         "stakes_bullets": [
-          "• Some federal employees have received actual layoff notices, while others have been notified merely of an intent to cut their workforce "
+          "• Some federal employees have received actual layoff notices, while others say they have been notified merely of an intent to cut their workforce "
         ]
       },
       "read_minutes": 6,
@@ -7240,7 +7305,7 @@
     },
     {
       "id": "d19f826f989b",
-      "title": "Perú: Chicha cumbia, el pulso eléctrico de Lima",
+      "title": "Perú: Chicha, el pulso eléctrico de la cumbia",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/sections/the-picture-show/2025/10/10/g-s1-92885/peru-chicha-cumbia-el-pulso-electrico-de-lima",
       "published_at": "Fri, 10 Oct 2025 14:00:00 -0400",
@@ -7251,7 +7316,7 @@
       "category": "General",
       "sentiment": {
         "label": "neutral",
-        "score": 0.617
+        "score": 0.562
       },
       "moods": {
         "brief_bullets": [
@@ -7268,7 +7333,7 @@
         ]
       },
       "read_minutes": 6,
-      "cluster_id": "562345ee49ff"
+      "cluster_id": "c65e229e9e7c"
     },
     {
       "id": "d4d310caabc1",
@@ -7337,38 +7402,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "cf2de09601a3"
-    },
-    {
-      "id": "5141a5e16aeb",
-      "title": "Burkina Faso refuses to take deportees as US stops issuing visas",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2lx5r2z475o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 13:07:08 GMT",
-      "bullets": [
-        "• Foreign Affairs Minister Karamoko Jean-Marie Traoré questions if embassy's decision is 'blackmail' US stopped issuing visas in Burkina Faso on Thursday",
-        "• US has turned to African countries as a destination to deport migrants to as part of his crackdown on immigration "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Foreign Affairs Minister Karamoko Jean-Marie Traoré questions if embassy's decision is 'blackmail' US stopped issuing visas in Burkina Faso on Thursday",
-          "• US has turned to African countries as a destination to deport migrants to as part of his crackdown on immigration "
-        ],
-        "hopeful_bullets": [
-          "• Foreign Affairs Minister Karamoko Jean-Marie Traoré questions if embassy's decision is 'blackmail' US stopped issuing visas in Burkina Faso on Thursday",
-          "• US has turned to African countries as a destination to deport migrants to as part of his crackdown on immigration "
-        ],
-        "stakes_bullets": [
-          "• Foreign Affairs Minister Karamoko Jean-Marie Traoré questions if embassy's decision is 'blackmail' US stopped issuing visas in Burkina Faso on Thursday",
-          "• US has turned to African countries as a destination to deport migrants to as part of his crackdown on immigration "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7c473b70d0a3"
     },
     {
       "id": "06a4d6f11292",
@@ -7995,39 +8028,6 @@
       "cluster_id": "370015b57661"
     },
     {
-      "id": "acb900240785",
-      "title": "Venezuela's opposition leader María Corina Machado wins 2025 Nobel Peace Prize",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/10/nx-s1-5567999/venezuela-opposition-maria-corina-machado-2025-nobel-peace-prize-winner",
-      "published_at": "Fri, 10 Oct 2025 05:30:15 -0400",
-      "bullets": [
-        "• Venezuela's opposition leader María Corina Machado wins this year's Nobel Peace Prize",
-        "• She has been barred from running for president and lives in hiding in Venezuela",
-        "• The announcement of the award came as a surprise after speculation that President Trump could be a wildcard winner "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Venezuela's opposition leader María Corina Machado wins this year's Nobel Peace Prize",
-          "• She has been barred from running for president and lives in hiding in Venezuela"
-        ],
-        "hopeful_bullets": [
-          "• Venezuela's opposition leader María Corina Machado wins this year's Nobel Peace Prize",
-          "• The announcement of the award came as a surprise after speculation that President Trump could be a wildcard winner "
-        ],
-        "stakes_bullets": [
-          "• Venezuela's opposition leader María Corina Machado wins this year's Nobel Peace Prize",
-          "• The announcement of the award came as a surprise after speculation that President Trump could be a wildcard winner "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1525624d22ff"
-    },
-    {
       "id": "aad1aae11311",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -8394,6 +8394,37 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "a90576eb2c08",
+      "title": "Hollywood has no idea what to do about AI",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner",
+      "published_at": "2025-10-10T19:00:00-04:00",
+      "bullets": [
+        "• This week, I got an up-close look at how far apart Silicon Valley and Hollywood are on what to do about AI",
+        "• The next day, I arrived at Bloomberg’s Screentime event in Los Angeles to hear how media executives, agents, and studio heads felt about the AI meteor "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week, I got an up-close look at how far apart Silicon Valley and Hollywood are on what to do about AI",
+          "• The next day, I arrived at Bloomberg’s Screentime event in Los Angeles to hear how media executives, agents, and studio heads felt about the AI meteor "
+        ],
+        "hopeful_bullets": [
+          "• This week, I got an up-close look at how far apart Silicon Valley and Hollywood are on what to do about AI",
+          "• The next day, I arrived at Bloomberg’s Screentime event in Los Angeles to hear how media executives, agents, and studio heads felt about the AI meteor "
+        ],
+        "stakes_bullets": [
+          "• The next day, I arrived at Bloomberg’s Screentime event in Los Angeles to hear how media executives, agents, and studio heads felt about the AI meteor "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c19a24010495"
+    },
+    {
       "id": "e5f1e1e46bd7",
       "title": "OpenAI allegedly sent police to an AI regulation advocate’s door",
       "outlet": "The Verge",
@@ -8694,38 +8725,6 @@
       "cluster_id": "3d65d815aeeb"
     },
     {
-      "id": "2ba2351989e3",
-      "title": "Edifier’s new wireless speaker looks like a gaming PC",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc",
-      "published_at": "2025-10-10T10:53:49-04:00",
-      "bullets": [
-        "• Edifier’s new wireless speaker looks like a gaming PC with RGB lighting, exposed electronics, and a full color screen inside a transparent enclosure",
-        "• The Huazai New Cyber speaker is available in China 1,499 yuan, or around $210 in aurora white and phantom black color options "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Edifier’s new wireless speaker looks like a gaming PC with RGB lighting, exposed electronics, and a full color screen inside a transparent enclosure",
-          "• The Huazai New Cyber speaker is available in China 1,499 yuan, or around $210 in aurora white and phantom black color options "
-        ],
-        "hopeful_bullets": [
-          "• Edifier’s new wireless speaker looks like a gaming PC with RGB lighting, exposed electronics, and a full color screen inside a transparent enclosure",
-          "• The Huazai New Cyber speaker is available in China 1,499 yuan, or around $210 in aurora white and phantom black color options "
-        ],
-        "stakes_bullets": [
-          "• Edifier’s new wireless speaker looks like a gaming PC with RGB lighting, exposed electronics, and a full color screen inside a transparent enclosure",
-          "• The Huazai New Cyber speaker is available in China 1,499 yuan, or around $210 in aurora white and phantom black color options "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "dd6c7844fc57"
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -8890,37 +8889,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "466e018b9a94"
-    },
-    {
-      "id": "8e9daa1d39df",
-      "title": "Theater counts: Tron: Ares lights up 4,000 theaters across North America",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260110830-Theater-counts-Tron-Ares-lights-up-4-000-theaters-across-North-America",
-      "published_at": null,
-      "bullets": [
-        "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide",
-        "• The sci-fi action epic features an all-star cast led by Jared Leto as Ares, a super-intelligent entity torn between his programmed directives and the emergence of emotions "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide",
-          "• The sci-fi action epic features an all-star cast led by Jared Leto as Ares, a super-intelligent entity torn between his programmed directives and the emergence of emotions "
-        ],
-        "hopeful_bullets": [
-          "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide"
-        ],
-        "stakes_bullets": [
-          "• The film marks the third installment in the Tron franchise, following 1982's Tron and 2010’s Tron: Legacy, which together have grossed $426 million worldwide",
-          "• The sci-fi action epic features an all-star cast led by Jared Leto as Ares, a super-intelligent entity torn between his programmed directives and the emergence of emotions "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e8cb4812f075"
     },
     {
       "id": "6cc34dfb028d",
@@ -9154,7 +9122,7 @@
       ]
     },
     {
-      "id": "1525624d22ff",
+      "id": "3456fe969cea",
       "topic": "corina leader machado mar",
       "keywords": [
         "corina",
@@ -9162,16 +9130,13 @@
         "machado",
         "mar",
         "opposition",
-        "venezuela",
         "venezuelan"
       ],
       "item_ids": [
-        "cf16a4af10a7",
-        "acb900240785"
+        "cf16a4af10a7"
       ],
       "outlets": [
-        "BBC News",
-        "NPR Topics: News"
+        "BBC News"
       ]
     },
     {
@@ -9481,24 +9446,6 @@
       ]
     },
     {
-      "id": "298a5f5825bb",
-      "topic": "blast dead feared nineteen",
-      "keywords": [
-        "blast",
-        "dead",
-        "feared",
-        "nineteen",
-        "people",
-        "tennessee"
-      ],
-      "item_ids": [
-        "ad1eb6601679"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "0d13bcd4141e",
       "topic": "begin congres federal layoff",
       "keywords": [
@@ -9511,6 +9458,42 @@
       ],
       "item_ids": [
         "f0beaa865c7f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "71fe8c711bfc",
+      "topic": "arrested chicago during ground",
+      "keywords": [
+        "arrested",
+        "chicago",
+        "during",
+        "ground",
+        "journalist",
+        "pushed"
+      ],
+      "item_ids": [
+        "32d2695c5e4d"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "298a5f5825bb",
+      "topic": "blast dead feared nineteen",
+      "keywords": [
+        "blast",
+        "dead",
+        "feared",
+        "nineteen",
+        "people",
+        "tennessee"
+      ],
+      "item_ids": [
+        "ad1eb6601679"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9628,24 +9611,6 @@
       ]
     },
     {
-      "id": "bb5e08c4e40a",
-      "topic": "columbia free group speech",
-      "keywords": [
-        "columbia",
-        "free",
-        "group",
-        "speech",
-        "taking",
-        "trump"
-      ],
-      "item_ids": [
-        "2d439c25841c"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "a84ca1adeeaf",
       "topic": "against case fraud jame",
       "keywords": [
@@ -9661,6 +9626,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "b139fb7b74b2",
+      "topic": "astrazeneca deal house lower",
+      "keywords": [
+        "astrazeneca",
+        "deal",
+        "house",
+        "lower",
+        "make",
+        "white"
+      ],
+      "item_ids": [
+        "7e93c704485d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9700,13 +9683,12 @@
       ]
     },
     {
-      "id": "576abb8b9ff1",
-      "topic": "chicha cumbia electric lima",
+      "id": "d3156db3e286",
+      "topic": "chicha cumbia electric peru",
       "keywords": [
         "chicha",
         "cumbia",
         "electric",
-        "lima",
         "peru",
         "pulse"
       ],
@@ -9718,13 +9700,12 @@
       ]
     },
     {
-      "id": "562345ee49ff",
-      "topic": "chicha ctrico cumbia lima",
+      "id": "c65e229e9e7c",
+      "topic": "chicha ctrico cumbia per",
       "keywords": [
         "chicha",
         "ctrico",
         "cumbia",
-        "lima",
         "per",
         "pulso"
       ],
@@ -9843,6 +9824,24 @@
       ]
     },
     {
+      "id": "69badf72ca6c",
+      "topic": "being federal laid lot",
+      "keywords": [
+        "being",
+        "federal",
+        "laid",
+        "lot",
+        "trump",
+        "worker"
+      ],
+      "item_ids": [
+        "965b41427b21"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "c04934c6d339",
       "topic": "acquire apple deal near",
       "keywords": [
@@ -9861,24 +9860,6 @@
       ]
     },
     {
-      "id": "6c988f50455f",
-      "topic": "administration begin federal layoff",
-      "keywords": [
-        "administration",
-        "begin",
-        "federal",
-        "layoff",
-        "trump",
-        "worker"
-      ],
-      "item_ids": [
-        "965b41427b21"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "f12be39dec7a",
       "topic": "air built facility force",
       "keywords": [
@@ -9891,6 +9872,24 @@
       ],
       "item_ids": [
         "05f80000898a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9d86589da2d1",
+      "topic": "expect ipo navan price",
+      "keywords": [
+        "expect",
+        "ipo",
+        "navan",
+        "price",
+        "range",
+        "sets"
+      ],
+      "item_ids": [
+        "1cd3e361cff7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9945,24 +9944,6 @@
       ],
       "item_ids": [
         "5f88b076d5a8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "5825a5177df2",
-      "topic": "airline delay government passenger",
-      "keywords": [
-        "airline",
-        "delay",
-        "government",
-        "passenger",
-        "prepare",
-        "tell"
-      ],
-      "item_ids": [
-        "1e1d92522447"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10162,6 +10143,20 @@
       ]
     },
     {
+      "id": "c19a24010495",
+      "topic": "hollywood idea",
+      "keywords": [
+        "hollywood",
+        "idea"
+      ],
+      "item_ids": [
+        "a90576eb2c08"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "190f45ae2e37",
       "topic": "advocate allegedly openai police",
       "keywords": [
@@ -10316,24 +10311,6 @@
       ],
       "item_ids": [
         "f2749c1098d3"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "dd6c7844fc57",
-      "topic": "edifier gaming like look",
-      "keywords": [
-        "edifier",
-        "gaming",
-        "like",
-        "look",
-        "speaker",
-        "wireles"
-      ],
-      "item_ids": [
-        "2ba2351989e3"
       ],
       "outlets": [
         "The Verge"
@@ -10825,24 +10802,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10855,6 +10814,24 @@
       ],
       "item_ids": [
         "9fb2d8e40a3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
+      "keywords": [
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
+      ],
+      "item_ids": [
+        "8ed599fe270c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11315,6 +11292,24 @@
       ]
     },
     {
+      "id": "59b88fbd18a1",
+      "topic": "agreement bay chesapeake federal",
+      "keywords": [
+        "agreement",
+        "bay",
+        "chesapeake",
+        "federal",
+        "hamper",
+        "shutdown"
+      ],
+      "item_ids": [
+        "956e2d00fc65"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "7d3762727e9b",
       "topic": "administration billion clean cutting",
       "keywords": [
@@ -11476,24 +11471,6 @@
       ]
     },
     {
-      "id": "e7c039e05f7b",
-      "topic": "alabama change city despite",
-      "keywords": [
-        "alabama",
-        "change",
-        "city",
-        "despite",
-        "opposition",
-        "stiff"
-      ],
-      "item_ids": [
-        "6fb8e1b21083"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
       "id": "466e018b9a94",
       "topic": "ares looking prediction soft",
       "keywords": [
@@ -11506,24 +11483,6 @@
       ],
       "item_ids": [
         "9382eb59f0cc"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "e8cb4812f075",
-      "topic": "000 ares count light",
-      "keywords": [
-        "000",
-        "ares",
-        "count",
-        "light",
-        "theater",
-        "tron"
-      ],
-      "item_ids": [
-        "8e9daa1d39df"
       ],
       "outlets": [
         "The Numbers"
@@ -13088,18 +13047,143 @@
       ]
     },
     {
-      "id": "3cb49486bb33",
-      "topic": "best binge netflix show",
+      "id": "33b7f0b4597a",
+      "topic": "anne order rice secret",
+      "keywords": [
+        "anne",
+        "order",
+        "rice",
+        "secret",
+        "talamasca",
+        "vampire"
+      ],
+      "item_ids": [
+        "e6abfd2448a5"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "699bf7633831",
+      "topic": "bleach hakusho plagiarized prove",
+      "keywords": [
+        "bleach",
+        "hakusho",
+        "plagiarized",
+        "prove"
+      ],
+      "item_ids": [
+        "e4820ce01f40"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d8733e4612cc",
+      "topic": "high million potential season",
+      "keywords": [
+        "high",
+        "million",
+        "potential",
+        "season",
+        "shot",
+        "view"
+      ],
+      "item_ids": [
+        "9c45bc5448f2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f579b058010c",
+      "topic": "found help hero him",
+      "keywords": [
+        "found",
+        "help",
+        "hero",
+        "him",
+        "perfect",
+        "superman"
+      ],
+      "item_ids": [
+        "04f11ba6a694"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "71ad0a9adb59",
+      "topic": "best binge netflix serie",
       "keywords": [
         "best",
         "binge",
         "netflix",
+        "serie",
         "show",
         "watch",
         "weekend"
       ],
       "item_ids": [
+        "2bfe936cd554",
         "5f3293ff5e85"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "4ea5c91ff5c2",
+      "topic": "even hate movie scary",
+      "keywords": [
+        "even",
+        "hate",
+        "movie",
+        "scary",
+        "stream",
+        "weekend"
+      ],
+      "item_ids": [
+        "d42d6a4e84d7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "98b8b67632a5",
+      "topic": "best marvel ranked variant",
+      "keywords": [
+        "best",
+        "marvel",
+        "ranked",
+        "variant",
+        "zombie"
+      ],
+      "item_ids": [
+        "66f6503b5c68"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b6895e0620a4",
+      "topic": "black confirm miguel mora",
+      "keywords": [
+        "black",
+        "confirm",
+        "miguel",
+        "mora",
+        "return",
+        "talamasca"
+      ],
+      "item_ids": [
+        "bda8dba15f66"
       ],
       "outlets": [
         "CBR"
@@ -13118,147 +13202,6 @@
       ],
       "item_ids": [
         "196a206f80d4"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "63a335bb84ae",
-      "topic": "bros massive riddler star",
-      "keywords": [
-        "bros",
-        "massive",
-        "riddler",
-        "star",
-        "wanted",
-        "warner"
-      ],
-      "item_ids": [
-        "97567878ebcc"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f1131c542c3f",
-      "topic": "dorohedoro finally gets major",
-      "keywords": [
-        "dorohedoro",
-        "finally",
-        "gets",
-        "major",
-        "netflix",
-        "production"
-      ],
-      "item_ids": [
-        "d5d064418ade"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3b473b75456f",
-      "topic": "del guillermo hit most",
-      "keywords": [
-        "del",
-        "guillermo",
-        "hit",
-        "most",
-        "remain",
-        "toro"
-      ],
-      "item_ids": [
-        "d2abac09751b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "dc9d28dddfcf",
-      "topic": "dark earth explained history",
-      "keywords": [
-        "dark",
-        "earth",
-        "explained",
-        "history"
-      ],
-      "item_ids": [
-        "457226e4b816"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "05764e233604",
-      "topic": "darkest episode family guy",
-      "keywords": [
-        "darkest",
-        "episode",
-        "family",
-        "guy",
-        "most",
-        "uncomfortable"
-      ],
-      "item_ids": [
-        "56276e3fe073"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4f5673accf9b",
-      "topic": "clau officially rival santa",
-      "keywords": [
-        "clau",
-        "officially",
-        "rival",
-        "santa",
-        "scrooge",
-        "total"
-      ],
-      "item_ids": [
-        "f462474b63d0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9c920fc051cd",
-      "topic": "1990 anime overrated today",
-      "keywords": [
-        "1990",
-        "anime",
-        "overrated",
-        "today",
-        "unwatchable"
-      ],
-      "item_ids": [
-        "8b7d9d184a78"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3cae4dde54c9",
-      "topic": "biggest erase harry hbo",
-      "keywords": [
-        "biggest",
-        "erase",
-        "harry",
-        "hbo",
-        "officially",
-        "potter"
-      ],
-      "item_ids": [
-        "6d40378f3757"
       ],
       "outlets": [
         "CBR"
@@ -13443,6 +13386,24 @@
       ]
     },
     {
+      "id": "67bbbdcc1ebc",
+      "topic": "bia cardi delayed diss",
+      "keywords": [
+        "bia",
+        "cardi",
+        "delayed",
+        "diss",
+        "track",
+        "video"
+      ],
+      "item_ids": [
+        "47922361a6b1"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "b4c941b00163",
       "topic": "clairo dacu join lucy",
       "keywords": [
@@ -13599,24 +13560,6 @@
       ],
       "item_ids": [
         "2be8a42fbacf"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "95b1f671c1c5",
-      "topic": "again chinouriri fall love",
-      "keywords": [
-        "again",
-        "chinouriri",
-        "fall",
-        "love",
-        "madonna",
-        "rachel"
-      ],
-      "item_ids": [
-        "02908e62178e"
       ],
       "outlets": [
         "Music News"
