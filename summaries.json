@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T08:13:03Z",
+  "generated_at": "2025-10-11T09:02:04Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,6 +1055,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1088,38 +1120,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -3447,7 +3447,7 @@
     {
       "id": "f9ea770f78d2",
       "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports",
       "published_at": "Sat, 11 Oct 2025 03:44:18 -0400",
       "bullets": [
@@ -3456,7 +3456,7 @@
         "• The president expresses frustration with new export controls placed on rare earth elements by China",
         "• He says \"there seems to be no reason\" to meet with Chinese leader Xi Jinping "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -8059,40 +8059,6 @@
       "cluster_id": "e4a25928828e"
     },
     {
-      "id": "d26bba7b0581",
-      "title": "In the age of algorithms, one Irish town still does love the old-fashioned way",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/10/nx-s1-5563978/ireland-matchmaking-festival-irish-love",
-      "published_at": "Fri, 10 Oct 2025 06:00:00 -0400",
-      "bullets": [
-        "• Lisdoonvarna, a village of fewer than 1,000 people, is home to Europe's last great matchmaking festival",
-        "• The tradition stretches back more than 150 years, when farmers came after the harvest to find wives",
-        "• The village sits not far from the Cliffs of Moher, where the land falls into the Atlantic "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lisdoonvarna, a village of fewer than 1,000 people, is home to Europe's last great matchmaking festival",
-          "• The tradition stretches back more than 150 years, when farmers came after the harvest to find wives"
-        ],
-        "hopeful_bullets": [
-          "• Lisdoonvarna, a village of fewer than 1,000 people, is home to Europe's last great matchmaking festival",
-          "• The tradition stretches back more than 150 years, when farmers came after the harvest to find wives"
-        ],
-        "stakes_bullets": [
-          "• Lisdoonvarna, a village of fewer than 1,000 people, is home to Europe's last great matchmaking festival",
-          "• The tradition stretches back more than 150 years, when farmers came after the harvest to find wives",
-          "• The village sits not far from the Cliffs of Moher, where the land falls into the Atlantic "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "370015b57661"
-    },
-    {
       "id": "aad1aae11311",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -9721,6 +9687,24 @@
       ]
     },
     {
+      "id": "a7f36778af5c",
+      "topic": "100 export limit tech",
+      "keywords": [
+        "100",
+        "export",
+        "limit",
+        "tech",
+        "threaten",
+        "trump"
+      ],
+      "item_ids": [
+        "f9ea770f78d2"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "b139fb7b74b2",
       "topic": "astrazeneca deal house lower",
       "keywords": [
@@ -9874,24 +9858,6 @@
       ],
       "item_ids": [
         "91ed7ad44ce0"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "370015b57661",
-      "topic": "age algorithm does irish",
-      "keywords": [
-        "age",
-        "algorithm",
-        "does",
-        "irish",
-        "still",
-        "town"
-      ],
-      "item_ids": [
-        "d26bba7b0581"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10912,24 +10878,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10948,21 +10896,21 @@
       ]
     },
     {
-      "id": "a7f36778af5c",
-      "topic": "100 export limit tech",
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
       "keywords": [
-        "100",
-        "export",
-        "limit",
-        "tech",
-        "threaten",
-        "trump"
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
       ],
       "item_ids": [
-        "f9ea770f78d2"
+        "8ed599fe270c"
       ],
       "outlets": [
-        "NPR Topics: Politics"
+        "NPR Topics: Science"
       ]
     },
     {
