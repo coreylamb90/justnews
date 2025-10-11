@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T09:02:04Z",
+  "generated_at": "2025-10-11T09:17:17Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,38 +1055,6 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
-    },
-    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1120,6 +1088,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
+    },
+    {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -3185,6 +3185,74 @@
       },
       "read_minutes": 12,
       "cluster_id": "897fb01038ba"
+    },
+    {
+      "id": "dc1d27e2a6a8",
+      "title": "Number of wild bee species at risk of extinction in Europe doubles in 10 years",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/11/number-of-wild-bee-species-at-risk-of-extinction-in-europe-doubles-in-10-years",
+      "published_at": "Sat, 11 Oct 2025 08:45:18 GMT",
+      "bullets": [
+        "• At least 172 bee species at risk of extinction in Europe",
+        "• Number of butterflies threatened with extinction has increased from 37 to 65 since the last survey",
+        "• Causes of decline are destruction of habitats caused by overgrazing, overgassing and pesticides",
+        "• Global heating is also a major threat "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 172 bee species at risk of extinction in Europe",
+          "• Number of butterflies threatened with extinction has increased from 37 to 65 since the last survey"
+        ],
+        "hopeful_bullets": [
+          "• At least 172 bee species at risk of extinction in Europe",
+          "• Number of butterflies threatened with extinction has increased from 37 to 65 since the last survey"
+        ],
+        "stakes_bullets": [
+          "• At least 172 bee species at risk of extinction in Europe",
+          "• Number of butterflies threatened with extinction has increased from 37 to 65 since the last survey",
+          "• Causes of decline are destruction of habitats caused by overgrazing, overgassing and pesticides"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "376a67b60407"
+    },
+    {
+      "id": "7d5ef8de7034",
+      "title": "Mexico floods leave at least 27 dead and more missing",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c89d9vp1djyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 11 Oct 2025 07:50:28 GMT",
+      "bullets": [
+        "• Heavy rainfall on Thursday and Friday caused rivers to burst their banks in Mexico",
+        "• Hidalgo in east Mexico was one of the worst affected areas, with 16 deaths reported",
+        "• Thousands of houses have been damaged or destroyed as fast-running water careered down streets, carrying cars "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Heavy rainfall on Thursday and Friday caused rivers to burst their banks in Mexico",
+          "• Hidalgo in east Mexico was one of the worst affected areas, with 16 deaths reported"
+        ],
+        "hopeful_bullets": [
+          "• Heavy rainfall on Thursday and Friday caused rivers to burst their banks in Mexico",
+          "• Hidalgo in east Mexico was one of the worst affected areas, with 16 deaths reported"
+        ],
+        "stakes_bullets": [
+          "• Heavy rainfall on Thursday and Friday caused rivers to burst their banks in Mexico",
+          "• Hidalgo in east Mexico was one of the worst affected areas, with 16 deaths reported"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "75235f13b6d1"
     },
     {
       "id": "571106120d34",
@@ -5469,38 +5537,6 @@
       "cluster_id": "8258289f8e1d"
     },
     {
-      "id": "8f59375e7965",
-      "title": "Major Russian strikes cut power in Kyiv and across Ukraine",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 10 Oct 2025 21:12:11 GMT",
-      "bullets": [
-        "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
-        "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity",
-        "• Russia's defence ministry said its \"massive\" strike with high-precision weapons targeted energy facilities used by Ukraine's military-industrial complex "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
-          "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity"
-        ],
-        "hopeful_bullets": [
-          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions",
-          "• Power restored to more than 540,000 consumers in the city - but many households are still without electricity"
-        ],
-        "stakes_bullets": [
-          "• Russian missile and drone strikes have caused power cuts in large parts of Ukraine's capital, Kyiv, and eight other regions"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8b533990aa62"
-    },
-    {
       "id": "30ece4b1f0a4",
       "title": "Trump threatens 100% China tariffs as Beijing restricts rare-earth exports",
       "outlet": "US news | The Guardian",
@@ -7529,40 +7565,6 @@
       "cluster_id": "c65e229e9e7c"
     },
     {
-      "id": "d4d310caabc1",
-      "title": "Man convicted of 38 paedophile offences revealed as police informer who spied on UK activists",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2025/oct/10/man-convicted-of-38-paedophile-offences-revealed-as-police-informer-who-spied-on-uk-activists",
-      "published_at": "Fri, 10 Oct 2025 13:40:03 GMT",
-      "bullets": [
-        "• Nick Gratwick, 68, found guilty of 38 ‘abhorrent’ paedophile offences",
-        "• He discussed harming children for sexual pleasure, arranging to pay a Romanian mother to allow him to rape her daughter",
-        "• He also advised others on how to drug children to abuse them "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.936
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nick Gratwick, 68, found guilty of 38 ‘abhorrent’ paedophile offences",
-          "• He discussed harming children for sexual pleasure, arranging to pay a Romanian mother to allow him to rape her daughter"
-        ],
-        "hopeful_bullets": [
-          "• Nick Gratwick, 68, found guilty of 38 ‘abhorrent’ paedophile offences",
-          "• He discussed harming children for sexual pleasure, arranging to pay a Romanian mother to allow him to rape her daughter"
-        ],
-        "stakes_bullets": [
-          "• Nick Gratwick, 68, found guilty of 38 ‘abhorrent’ paedophile offences",
-          "• He discussed harming children for sexual pleasure, arranging to pay a Romanian mother to allow him to rape her daughter",
-          "• He also advised others on how to drug children to abuse them "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "811c243d696c"
-    },
-    {
       "id": "3a8cf62dce77",
       "title": "5 Best Folding Phones (2025), Tested and Reviewed",
       "outlet": "WIRED",
@@ -9148,6 +9150,24 @@
   ],
   "clusters": [
     {
+      "id": "a71137aa7f25",
+      "topic": "arctic boost defence denmark",
+      "keywords": [
+        "arctic",
+        "boost",
+        "defence",
+        "denmark",
+        "jets",
+        "ship"
+      ],
+      "item_ids": [
+        "7116930fd2c7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "6cacdf7ad90f",
       "topic": "days french lecornu macron",
       "keywords": [
@@ -9166,18 +9186,18 @@
       ]
     },
     {
-      "id": "a71137aa7f25",
-      "topic": "arctic boost defence denmark",
+      "id": "75235f13b6d1",
+      "topic": "dead flood least leave",
       "keywords": [
-        "arctic",
-        "boost",
-        "defence",
-        "denmark",
-        "jets",
-        "ship"
+        "dead",
+        "flood",
+        "least",
+        "leave",
+        "mexico",
+        "missing"
       ],
       "item_ids": [
-        "7116930fd2c7"
+        "7d5ef8de7034"
       ],
       "outlets": [
         "BBC News"
@@ -9303,24 +9323,6 @@
       ],
       "item_ids": [
         "44e9a7f89f78"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "8b533990aa62",
-      "topic": "cut kyiv major power",
-      "keywords": [
-        "cut",
-        "kyiv",
-        "major",
-        "power",
-        "russian",
-        "strike"
-      ],
-      "item_ids": [
-        "8f59375e7965"
       ],
       "outlets": [
         "BBC News"
@@ -10878,24 +10880,6 @@
       ]
     },
     {
-      "id": "6760911b272d",
-      "topic": "600 arizona connect home",
-      "keywords": [
-        "600",
-        "arizona",
-        "connect",
-        "home",
-        "planned",
-        "tribe"
-      ],
-      "item_ids": [
-        "9fb2d8e40a3c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "4256f8991aff",
       "topic": "experience government high long",
       "keywords": [
@@ -10908,6 +10892,24 @@
       ],
       "item_ids": [
         "8ed599fe270c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
+      "keywords": [
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
+      ],
+      "item_ids": [
+        "9fb2d8e40a3c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11334,6 +11336,24 @@
       ]
     },
     {
+      "id": "376a67b60407",
+      "topic": "bee extinction number risk",
+      "keywords": [
+        "bee",
+        "extinction",
+        "number",
+        "risk",
+        "specie",
+        "wild"
+      ],
+      "item_ids": [
+        "dc1d27e2a6a8"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "6e848288122e",
       "topic": "baby hopeful numbat sanctuarie",
       "keywords": [
@@ -11364,24 +11384,6 @@
       ],
       "item_ids": [
         "5e7adfe61ee1"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "811c243d696c",
-      "topic": "convicted man offence paedophile",
-      "keywords": [
-        "convicted",
-        "man",
-        "offence",
-        "paedophile",
-        "police",
-        "revealed"
-      ],
-      "item_ids": [
-        "d4d310caabc1"
       ],
       "outlets": [
         "Environment | The Guardian"
