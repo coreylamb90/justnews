@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T14:51:07Z",
+  "generated_at": "2025-10-11T15:12:58Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,6 +1055,38 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "hopeful_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
+        ],
+        "stakes_bullets": [
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
+    },
+    {
       "id": "8ed599fe270c",
       "title": "The government has long researched high school experiences. Then DOGE cut the effort",
       "outlet": "NPR Topics: Science",
@@ -1088,38 +1120,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "4256f8991aff"
-    },
-    {
-      "id": "9fb2d8e40a3c",
-      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-      "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
-        "• The rest of the reservation is connected to the grid, but the power is unreliable "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "hopeful_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
-          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
-        ],
-        "stakes_bullets": [
-          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -2984,6 +2984,139 @@
       "cluster_id": "897fb01038ba"
     },
     {
+      "id": "28454fbf4534",
+      "title": "Absolute Batman Is Becoming The New Bane - And His New Partner Can't Watch it Happen",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/absolute-batman-venom-transformation-ends-catwoman-partnership/",
+      "published_at": "Sat, 11 Oct 2025 15:00:12 GMT",
+      "bullets": [
+        "• Absolute Batman #13, on sale now from DC Comics, is out now",
+        "• The titular hero takes on the Red Hood Gang's territory in the issue",
+        "• The Dark Knight might just be becoming exactly what Bane wants him to be, and it might be the end of the Dark Knight's relationship with the one person who truly understands him "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Absolute Batman #13, on sale now from DC Comics, is out now",
+          "• The titular hero takes on the Red Hood Gang's territory in the issue"
+        ],
+        "hopeful_bullets": [
+          "• Absolute Batman #13, on sale now from DC Comics, is out now",
+          "• The titular hero takes on the Red Hood Gang's territory in the issue"
+        ],
+        "stakes_bullets": [
+          "• The Dark Knight might just be becoming exactly what Bane wants him to be, and it might be the end of the Dark Knight's relationship with the one person who truly understands him "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c72b68cad146"
+    },
+    {
+      "id": "83e09b62e257",
+      "title": "Jet Li's Fearless is Still 1 of the Best Martial Arts Movies of the 21st Century",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jet-li-fearless-best-martial-arts-movie-21st-century/",
+      "published_at": "Sat, 11 Oct 2025 15:00:12 GMT",
+      "bullets": [
+        "• Some of the best martial arts films of all time originated in China and Hong Kong",
+        "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography",
+        "• Western movies have rarely been able to shoot in quite the same way, nor have they always managed to convey the same depth of emotion through combat "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some of the best martial arts films of all time originated in China and Hong Kong",
+          "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography"
+        ],
+        "hopeful_bullets": [
+          "• Some of the best martial arts films of all time originated in China and Hong Kong",
+          "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography"
+        ],
+        "stakes_bullets": [
+          "• Some of the best martial arts films of all time originated in China and Hong Kong",
+          "• There's a very specific style to these films, with a great deal of attention being placed on the action choreography",
+          "• Western movies have rarely been able to shoot in quite the same way, nor have they always managed to convey the same depth of emotion through combat "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "3fe3568c8c33"
+    },
+    {
+      "id": "e3ed0cc86ea8",
+      "title": "Jensen Ackles Responds to Countdown Cancellation (& Jared Paladalecki is There for Him)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jensen-ackles-responds-countdown-cancellation/",
+      "published_at": "Sat, 11 Oct 2025 14:53:12 GMT",
+      "bullets": [
+        "• Jensen Ackles took to Instagram to address his disappointment with the cancellation of his series, Countdown",
+        "• Ackles starred as Mark Meachum in the thriller series, which was canceled after just one season",
+        "• His Supernatural co-stars, including Jared Padalecki, offered their support "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jensen Ackles took to Instagram to address his disappointment with the cancellation of his series, Countdown",
+          "• Ackles starred as Mark Meachum in the thriller series, which was canceled after just one season"
+        ],
+        "hopeful_bullets": [
+          "• Jensen Ackles took to Instagram to address his disappointment with the cancellation of his series, Countdown",
+          "• Ackles starred as Mark Meachum in the thriller series, which was canceled after just one season"
+        ],
+        "stakes_bullets": [
+          "• Jensen Ackles took to Instagram to address his disappointment with the cancellation of his series, Countdown",
+          "• Ackles starred as Mark Meachum in the thriller series, which was canceled after just one season",
+          "• His Supernatural co-stars, including Jared Padalecki, offered their support "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0d28ac3c9a0f"
+    },
+    {
+      "id": "1ba585014bc3",
+      "title": "Drone strike in besieged Sudan city kills at least 60 people",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 11 Oct 2025 14:21:07 GMT",
+      "bullets": [
+        "• At least 60 people have been killed in Sudanese city of El-Fasher",
+        "• Children, women and the elderly were among those killed in the attack",
+        "• The group has been fighting for control of the city for 17 months",
+        "• It is believed the city will soon be overrun by the army "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 60 people have been killed in Sudanese city of El-Fasher",
+          "• Children, women and the elderly were among those killed in the attack"
+        ],
+        "hopeful_bullets": [
+          "• At least 60 people have been killed in Sudanese city of El-Fasher",
+          "• Children, women and the elderly were among those killed in the attack"
+        ],
+        "stakes_bullets": [
+          "• It is believed the city will soon be overrun by the army "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9d74bf93d9f9"
+    },
+    {
       "id": "47fab8a1cacf",
       "title": "The 10 Biggest Anime in the World Right Now",
       "outlet": "CBR",
@@ -3417,41 +3550,6 @@
       "cluster_id": "80ce9c9f8c70"
     },
     {
-      "id": "1ba585014bc3",
-      "title": "At least 60 people killed in drone strike in besieged Sudan city",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 11 Oct 2025 13:19:54 GMT",
-      "bullets": [
-        "• At least 60 people killed in drone strike in Sudanese city of El-Fasher",
-        "• Children, women and the elderly were killed in cold blood, group says",
-        "• The situation has \"gone beyond disaster and genocide\", the group said",
-        "• The Sudanese army has been trying to take control of the city for 17 months "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 60 people killed in drone strike in Sudanese city of El-Fasher",
-          "• Children, women and the elderly were killed in cold blood, group says"
-        ],
-        "hopeful_bullets": [
-          "• At least 60 people killed in drone strike in Sudanese city of El-Fasher",
-          "• Children, women and the elderly were killed in cold blood, group says"
-        ],
-        "stakes_bullets": [
-          "• At least 60 people killed in drone strike in Sudanese city of El-Fasher",
-          "• Children, women and the elderly were killed in cold blood, group says",
-          "• The situation has \"gone beyond disaster and genocide\", the group said"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7d6dd08b0ec0"
-    },
-    {
       "id": "1e3fb07d0cf3",
       "title": "This New Anime is Killing Solo Leveling’s Chance To Be Anime of the Year",
       "outlet": "CBR",
@@ -3684,73 +3782,6 @@
       "cluster_id": "49db31b7688e"
     },
     {
-      "id": "29a9b5d605e1",
-      "title": "This Hidden Gem Comic Book Movie Can Be Streamed On Paramount+ — Just In Time For Halloween",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/hellboy-streaming-paramount-october-2025/",
-      "published_at": "Sat, 11 Oct 2025 13:00:13 GMT",
-      "bullets": [
-        "• Paramount+ has added a new classic comic book movie to its streaming lineup",
-        "• Guillermo del Toro's 2004 Hellboy film is now available for streaming on the platform",
-        "• The 2004 movie starred Ron Perlman in the titular role, with Selma Blair, Jeffrey Tambor, Karel Roden, Rupert Evans and John Hurt "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Paramount+ has added a new classic comic book movie to its streaming lineup",
-          "• Guillermo del Toro's 2004 Hellboy film is now available for streaming on the platform"
-        ],
-        "hopeful_bullets": [
-          "• Paramount+ has added a new classic comic book movie to its streaming lineup",
-          "• Guillermo del Toro's 2004 Hellboy film is now available for streaming on the platform"
-        ],
-        "stakes_bullets": [
-          "• Paramount+ has added a new classic comic book movie to its streaming lineup",
-          "• Guillermo del Toro's 2004 Hellboy film is now available for streaming on the platform",
-          "• The 2004 movie starred Ron Perlman in the titular role, with Selma Blair, Jeffrey Tambor, Karel Roden, Rupert Evans and John Hurt "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "50989049cd61"
-    },
-    {
-      "id": "f846415b73aa",
-      "title": "20 Years Later, Tim Burton’s Corpse Bride Remains the Most Overlooked Frankenstein Adaptation Ever Made",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tim-burton-corpse-bride-best-frankenstein-adaptation/",
-      "published_at": "Sat, 11 Oct 2025 13:00:13 GMT",
-      "bullets": [
-        "• Tim Burton's love for monster movies, Halloween and all things gothic is well-documented",
-        "• Corpse Bride is a fantastic display of what the Frankenstein story is at its core",
-        "• Burton has gone on record and claimed that parts of the narrative were inspired by Jewish folklore "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tim Burton's love for monster movies, Halloween and all things gothic is well-documented",
-          "• Corpse Bride is a fantastic display of what the Frankenstein story is at its core"
-        ],
-        "hopeful_bullets": [
-          "• Burton has gone on record and claimed that parts of the narrative were inspired by Jewish folklore "
-        ],
-        "stakes_bullets": [
-          "• Tim Burton's love for monster movies, Halloween and all things gothic is well-documented",
-          "• Corpse Bride is a fantastic display of what the Frankenstein story is at its core",
-          "• Burton has gone on record and claimed that parts of the narrative were inspired by Jewish folklore "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "91b9b8c951ea"
-    },
-    {
       "id": "cd1c0d6caa72",
       "title": "Sheila Atim Will Play ‘Queen of the Damned’ Akasha for AMC Series ‘The Vampire Lestat’",
       "outlet": "Bloody Disgusting!",
@@ -3781,40 +3812,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "258d5d38b4c3"
-    },
-    {
-      "id": "ac782ca2b3d1",
-      "title": "Talamasca: The Secret Order's Nicholas Denton Teases a Coming-of-Age Story for Guy",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/talamasca-secret-order-coming-of-age-story/",
-      "published_at": "Sat, 11 Oct 2025 12:44:10 GMT",
-      "bullets": [
-        "• Anne Rice's Immortal Universe is set to expand with Talamasca: The Secret Order",
-        "• The horror series is based on Rice's The Vampire Chronicles",
-        "• The lead actor Nicholas Denton said it will be a surprising coming-of-age story",
-        "• Denton also talked about Rice's writing in a broader sense "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anne Rice's Immortal Universe is set to expand with Talamasca: The Secret Order",
-          "• The horror series is based on Rice's The Vampire Chronicles"
-        ],
-        "hopeful_bullets": [
-          "• Anne Rice's Immortal Universe is set to expand with Talamasca: The Secret Order",
-          "• The horror series is based on Rice's The Vampire Chronicles"
-        ],
-        "stakes_bullets": [
-          "• Anne Rice's Immortal Universe is set to expand with Talamasca: The Secret Order",
-          "• The lead actor Nicholas Denton said it will be a surprising coming-of-age story"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "aef1c772b0a8"
     },
     {
       "id": "cab3e2fa514a",
@@ -4271,6 +4268,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "d75acc6a8b80"
+    },
+    {
+      "id": "492329138dc4",
+      "title": "Photos celebrate the glory of girls on 'International Day of the Girl'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/11/g-s1-92962/photos-celebrate-the-glory-of-girls-on-international-day-of-the-girl",
+      "published_at": "Sat, 11 Oct 2025 10:21:18 -0400",
+      "bullets": [
+        "• Photos celebrate the glory of girls on 'International Day of the Girl' October 11",
+        "• U.N",
+        "• photojournalist Danielle Villasana has traveled the world photographing girls",
+        "• She says she is in awe of the strong spirit of the girls she's encountered "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Photos celebrate the glory of girls on 'International Day of the Girl' October 11",
+          "• U.N"
+        ],
+        "hopeful_bullets": [
+          "• She says she is in awe of the strong spirit of the girls she's encountered "
+        ],
+        "stakes_bullets": [
+          "• Photos celebrate the glory of girls on 'International Day of the Girl' October 11",
+          "• U.N",
+          "• photojournalist Danielle Villasana has traveled the world photographing girls"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1724d704c442"
     },
     {
       "id": "2680c04f8acc",
@@ -4938,7 +4969,7 @@
     {
       "id": "f9ea770f78d2",
       "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports",
       "published_at": "Sat, 11 Oct 2025 03:44:18 -0400",
       "bullets": [
@@ -4947,7 +4978,7 @@
         "• The president expresses frustration with new export controls placed on rare earth elements by China",
         "• He says \"there seems to be no reason\" to meet with Chinese leader Xi Jinping "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -9079,15 +9110,15 @@
       ]
     },
     {
-      "id": "7d6dd08b0ec0",
-      "topic": "besieged drone killed least",
+      "id": "9d74bf93d9f9",
+      "topic": "besieged city drone kill",
       "keywords": [
         "besieged",
+        "city",
         "drone",
-        "killed",
-        "least",
-        "people",
-        "strike"
+        "kill",
+        "strike",
+        "sudan"
       ],
       "item_ids": [
         "1ba585014bc3"
@@ -9601,6 +9632,24 @@
       ]
     },
     {
+      "id": "1724d704c442",
+      "topic": "celebrate day girl glory",
+      "keywords": [
+        "celebrate",
+        "day",
+        "girl",
+        "glory",
+        "international",
+        "photo"
+      ],
+      "item_ids": [
+        "492329138dc4"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "8cfe82e69c27",
       "topic": "dismissal federal lawyer luigi",
       "keywords": [
@@ -9757,24 +9806,6 @@
       ],
       "item_ids": [
         "8c63e0f6f0a2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "a7f36778af5c",
-      "topic": "100 export limit tech",
-      "keywords": [
-        "100",
-        "export",
-        "limit",
-        "tech",
-        "threaten",
-        "trump"
-      ],
-      "item_ids": [
-        "f9ea770f78d2"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10796,24 +10827,6 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
-      "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
-      ],
-      "item_ids": [
-        "8ed599fe270c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "6760911b272d",
       "topic": "600 arizona connect home",
       "keywords": [
@@ -10832,6 +10845,24 @@
       ]
     },
     {
+      "id": "4256f8991aff",
+      "topic": "experience government high long",
+      "keywords": [
+        "experience",
+        "government",
+        "high",
+        "long",
+        "researched",
+        "school"
+      ],
+      "item_ids": [
+        "8ed599fe270c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "10b0c0bd13dd",
       "topic": "argentina economy rescue trump",
       "keywords": [
@@ -10842,6 +10873,24 @@
       ],
       "item_ids": [
         "2389f7c99a55"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "a7f36778af5c",
+      "topic": "100 export limit tech",
+      "keywords": [
+        "100",
+        "export",
+        "limit",
+        "tech",
+        "threaten",
+        "trump"
+      ],
+      "item_ids": [
+        "f9ea770f78d2"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13025,6 +13074,60 @@
       ]
     },
     {
+      "id": "c72b68cad146",
+      "topic": "absolute bane batman becoming",
+      "keywords": [
+        "absolute",
+        "bane",
+        "batman",
+        "becoming",
+        "partner",
+        "watch"
+      ],
+      "item_ids": [
+        "28454fbf4534"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3fe3568c8c33",
+      "topic": "arts best fearles jet",
+      "keywords": [
+        "arts",
+        "best",
+        "fearles",
+        "jet",
+        "martial",
+        "still"
+      ],
+      "item_ids": [
+        "83e09b62e257"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0d28ac3c9a0f",
+      "topic": "ackle cancellation countdown jared",
+      "keywords": [
+        "ackle",
+        "cancellation",
+        "countdown",
+        "jared",
+        "jensen",
+        "respond"
+      ],
+      "item_ids": [
+        "e3ed0cc86ea8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "26a9e58286fb",
       "topic": "anime biggest now right",
       "keywords": [
@@ -13144,60 +13247,6 @@
       ],
       "item_ids": [
         "4ff809902159"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "50989049cd61",
-      "topic": "book comic gem hidden",
-      "keywords": [
-        "book",
-        "comic",
-        "gem",
-        "hidden",
-        "movie",
-        "streamed"
-      ],
-      "item_ids": [
-        "29a9b5d605e1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "91b9b8c951ea",
-      "topic": "bride burton corpse later",
-      "keywords": [
-        "bride",
-        "burton",
-        "corpse",
-        "later",
-        "tim",
-        "year"
-      ],
-      "item_ids": [
-        "f846415b73aa"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "aef1c772b0a8",
-      "topic": "denton nichola order secret",
-      "keywords": [
-        "denton",
-        "nichola",
-        "order",
-        "secret",
-        "talamasca",
-        "tease"
-      ],
-      "item_ids": [
-        "ac782ca2b3d1"
       ],
       "outlets": [
         "CBR"
