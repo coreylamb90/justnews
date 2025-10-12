@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-12T05:08:21Z",
+  "generated_at": "2025-10-12T05:55:40Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,39 +1055,36 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "8ed599fe270c",
-      "title": "The government has long researched high school experiences. Then DOGE cut the effort",
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
       "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5521282/trump-research-education-survey-high-school-students-doge",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
       "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• The U.S",
-        "• Department of Government Efficiency has been collecting high school data for 50 years",
-        "• The surveys started in 1972, and have gathered data on more than 100,000 high school students",
-        "• They were worth tens of thousands of dollars of research "
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.963
+        "label": "negative",
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
         ],
         "hopeful_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
         ],
         "stakes_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years",
-          "• The surveys started in 1972, and have gathered data on more than 100,000 high school students"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "4256f8991aff"
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -2785,11 +2782,108 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "4bfbbd7026bf",
+      "title": "Tati Gabrielle and Adeline Rudolph Have Sabrina Reunion on Mortal Kombat II",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/sabrina-mortal-kombat-reunion-tati-gabrielle-adeline-rudolph/",
+      "published_at": "Sun, 12 Oct 2025 05:26:33 GMT",
+      "bullets": [
+        "• Adeline Rudolph and Tati Gabrielle previously co-starred in Netflix's Chilling Adventures of Sabrina",
+        "• The actors talked about reuniting on the set of Mortal Kombat II",
+        "• The two will play Jade and Kitana in the upcoming video game adaptation "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Adeline Rudolph and Tati Gabrielle previously co-starred in Netflix's Chilling Adventures of Sabrina",
+          "• The actors talked about reuniting on the set of Mortal Kombat II"
+        ],
+        "hopeful_bullets": [
+          "• Adeline Rudolph and Tati Gabrielle previously co-starred in Netflix's Chilling Adventures of Sabrina",
+          "• The actors talked about reuniting on the set of Mortal Kombat II"
+        ],
+        "stakes_bullets": [
+          "• The two will play Jade and Kitana in the upcoming video game adaptation "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "01f8808ef59e"
+    },
+    {
+      "id": "e885326f857a",
+      "title": "Restitution row: how Nigeria’s new home for the Benin bronzes ended up with clay replicas",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/oct/12/restitution-row-how-nigerias-new-home-for-the-benin-bronzes-ended-up-with-clay-replicas",
+      "published_at": "Sun, 12 Oct 2025 05:00:44 GMT",
+      "bullets": [
+        "• The Benin bronzes were looted by British colonial forces in 1897",
+        "• In the decades that followed they were scattered across collections in Europe and America",
+        "• A new museum in Nigeria's Edo state is set to open in November this year",
+        "• But the only artefacts on display will be clay replicas of the original bronzes "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Benin bronzes were looted by British colonial forces in 1897",
+          "• In the decades that followed they were scattered across collections in Europe and America"
+        ],
+        "hopeful_bullets": [
+          "• The Benin bronzes were looted by British colonial forces in 1897",
+          "• In the decades that followed they were scattered across collections in Europe and America"
+        ],
+        "stakes_bullets": [
+          "• But the only artefacts on display will be clay replicas of the original bronzes "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "fad4c9e5dbcc"
+    },
+    {
+      "id": "f28ee40fbb74",
+      "title": "‘The recovery process can be bleak, but we wanted to make sure it was joyous’",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/society/uks-first-artist-residency-treatment-recovery-centre-launches/",
+      "published_at": "Sun, 12 Oct 2025 05:00:26 +0000",
+      "bullets": [
+        "• Castlefield Gallery teamed up with Anew, a residential therapeutic centre in Hyde, Greater Manchester, to explore how creative activities can aid recovery journeys",
+        "• The project was put together by Portraits of Recovery, a UK contemporary arts organisation working with people in recovery from substance use "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Castlefield Gallery teamed up with Anew, a residential therapeutic centre in Hyde, Greater Manchester, to explore how creative activities can aid recovery journeys",
+          "• The project was put together by Portraits of Recovery, a UK contemporary arts organisation working with people in recovery from substance use "
+        ],
+        "hopeful_bullets": [
+          "• Castlefield Gallery teamed up with Anew, a residential therapeutic centre in Hyde, Greater Manchester, to explore how creative activities can aid recovery journeys",
+          "• The project was put together by Portraits of Recovery, a UK contemporary arts organisation working with people in recovery from substance use "
+        ],
+        "stakes_bullets": [
+          "• Castlefield Gallery teamed up with Anew, a residential therapeutic centre in Hyde, Greater Manchester, to explore how creative activities can aid recovery journeys",
+          "• The project was put together by Portraits of Recovery, a UK contemporary arts organisation working with people in recovery from substance use "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "cf6753f07556"
+    },
+    {
       "id": "32e56bc77251",
       "title": "China defends rare earth export curbs as ‘legitimate,’ hits back at U.S. tariffs as Trump-Xi meeting hangs in balance",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
-      "published_at": "Sun, 12 Oct 2025 04:41:55 GMT",
+      "published_at": "Sun, 12 Oct 2025 04:59:25 GMT",
       "bullets": [
         "• China defends its new export controls on rare earths as a \"legitimate\" measure under international law",
         "• The Chinese Ministry of Commerce said the controls were part of Beijing's effort to strengthen its export control system",
@@ -3220,40 +3314,6 @@
       "cluster_id": "75a6b484a809"
     },
     {
-      "id": "5d25383ff6bb",
-      "title": "10 Horrifying True Crime Shows to Binge on Hulu",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-true-crime-shows-on-hulu-now/",
-      "published_at": "Sun, 12 Oct 2025 02:50:12 GMT",
-      "bullets": [
-        "• Hulu has some of the best true crime docuseries currently available to stream",
-        "• The Case That Haunts Me is a personal look at some horrific real-life crimes",
-        "• Fugitives Caught on Camera is one of Hulu's most popular true crime shows "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hulu has some of the best true crime docuseries currently available to stream",
-          "• The Case That Haunts Me is a personal look at some horrific real-life crimes"
-        ],
-        "hopeful_bullets": [
-          "• Hulu has some of the best true crime docuseries currently available to stream",
-          "• The Case That Haunts Me is a personal look at some horrific real-life crimes"
-        ],
-        "stakes_bullets": [
-          "• Hulu has some of the best true crime docuseries currently available to stream",
-          "• The Case That Haunts Me is a personal look at some horrific real-life crimes",
-          "• Fugitives Caught on Camera is one of Hulu's most popular true crime shows "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "941370da6220"
-    },
-    {
       "id": "a350a48e5ca8",
       "title": "‘The Creep Tapes’ Will Return for a Third Season in 2026 on Shudder",
       "outlet": "Bloody Disgusting!",
@@ -3284,6 +3344,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "0cfcfa0f0bd4"
+    },
+    {
+      "id": "f66909ac84ef",
+      "title": "Global week ahead: Three-speed Europe heads to Washington D.C.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/12/global-week-ahead-three-speed-europe-heads-to-washington-dc.html",
+      "published_at": "Sun, 12 Oct 2025 02:17:24 GMT",
+      "bullets": [
+        "• The U.S",
+        "• is preparing for the first half of the year for a major event in Washington, D.C",
+        "• and Europe",
+        "• The world's largest economies are struggling to find their footing in the world's economic and political climate",
+        "• This year's events will be the first time since 2008 that the U.N"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• is preparing for the first half of the year for a major event in Washington, D.C"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• is preparing for the first half of the year for a major event in Washington, D.C"
+        ],
+        "stakes_bullets": [
+          "• This year's events will be the first time since 2008 that the U.N"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "be1d3cebddef"
     },
     {
       "id": "1c8ac677ba31",
@@ -6204,38 +6298,6 @@
       "cluster_id": "7d1f5af9f25f"
     },
     {
-      "id": "2deb3486e451",
-      "title": "What went right this week: ‘a landmark victory for the ocean’, plus more",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2025/",
-      "published_at": "Fri, 26 Sep 2025 05:06:45 +0000",
-      "bullets": [
-        "• The Global Ocean Treaty became a reality this week after more than 60 nations formally ratified it",
-        "• The treaty gives governments a legal framework to protect waters that lie outside of any country’s national boundaries",
-        "• If fully implemented, the treaty could establish the largest network of ocean sanctuaries in history "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Global Ocean Treaty became a reality this week after more than 60 nations formally ratified it",
-          "• The treaty gives governments a legal framework to protect waters that lie outside of any country’s national boundaries"
-        ],
-        "hopeful_bullets": [
-          "• The Global Ocean Treaty became a reality this week after more than 60 nations formally ratified it",
-          "• The treaty gives governments a legal framework to protect waters that lie outside of any country’s national boundaries"
-        ],
-        "stakes_bullets": [
-          "• If fully implemented, the treaty could establish the largest network of ocean sanctuaries in history "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "b224bdb8cf46"
-    },
-    {
       "id": "01a8a8f7898c",
       "title": "STAR WARS: STARFIGHTER | Our First Look",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -7393,41 +7455,6 @@
       "cluster_id": "59946f4d3996"
     },
     {
-      "id": "d0bef9bdf7db",
-      "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
-      "published_at": "Fri, 10 Oct 2025 18:11:35 GMT",
-      "bullets": [
-        "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-        "• Hollywood groups have objected to the service's copyright policies",
-        "• Some of the prompts failed due to copyright infringement, while others worked",
-        "• Watch what happens when we put Sora 2 to the test "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-          "• Hollywood groups have objected to the service's copyright policies"
-        ],
-        "hopeful_bullets": [
-          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-          "• Hollywood groups have objected to the service's copyright policies"
-        ],
-        "stakes_bullets": [
-          "• OpenAI's Sora 2 AI video service allows users to generate short videos for free",
-          "• Hollywood groups have objected to the service's copyright policies",
-          "• Some of the prompts failed due to copyright infringement, while others worked"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a1b9f912178e"
-    },
-    {
       "id": "f12239e85dc3",
       "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
       "outlet": "Ars Technica - All content",
@@ -7959,37 +7986,6 @@
       "cluster_id": "ab54dfbe703f"
     },
     {
-      "id": "b80acf5b19ac",
-      "title": "DRC says EU’s minerals deal with Rwanda is ‘obvious double standard’",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/10/drc-calls-eu-minerals-deal-rwanda-obvious-double-standard",
-      "published_at": "Fri, 10 Oct 2025 09:54:03 GMT",
-      "bullets": [
-        "• The Democratic Republic of the Congo has accused the EU of ‘an obvious double standard’ for maintaining a minerals deal with Rwanda to supply Europe’s hi-tech industries",
-        "• The DRC foreign minister urged the EU to levy much stronger sanctions against Rwanda, which has fuelled the conflict "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Democratic Republic of the Congo has accused the EU of ‘an obvious double standard’ for maintaining a minerals deal with Rwanda to supply Europe’s hi-tech industries",
-          "• The DRC foreign minister urged the EU to levy much stronger sanctions against Rwanda, which has fuelled the conflict "
-        ],
-        "hopeful_bullets": [
-          "• The DRC foreign minister urged the EU to levy much stronger sanctions against Rwanda, which has fuelled the conflict "
-        ],
-        "stakes_bullets": [
-          "• The Democratic Republic of the Congo has accused the EU of ‘an obvious double standard’ for maintaining a minerals deal with Rwanda to supply Europe’s hi-tech industries",
-          "• The DRC foreign minister urged the EU to levy much stronger sanctions against Rwanda, which has fuelled the conflict "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0df7efef55ce"
-    },
-    {
       "id": "79ad5de79832",
       "title": "A Bitcoin Mine Came to Michigan’s Upper Peninsula, and Dafter Township Isn’t Happy",
       "outlet": "Inside Climate News",
@@ -8399,7 +8395,7 @@
       "url": "https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app",
       "published_at": "2025-10-11T15:35:04-04:00",
       "bullets": [
-        "• Apple’s Clips video editing app debuted in 2017 as a way to stitch together videos with music, text, and filters with a clear focus on sharing to social media",
+        "• Apple’s Clips video-editing app debuted in 2017 as a way to stitch together videos with music, text, and filters with a clear focus on sharing to social media",
         "• As of October 10th it will no longer receive updates and won’t be available to download for new users "
       ],
       "category": "Technology",
@@ -8409,11 +8405,11 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Apple’s Clips video editing app debuted in 2017 as a way to stitch together videos with music, text, and filters with a clear focus on sharing to social media",
+          "• Apple’s Clips video-editing app debuted in 2017 as a way to stitch together videos with music, text, and filters with a clear focus on sharing to social media",
           "• As of October 10th it will no longer receive updates and won’t be available to download for new users "
         ],
         "hopeful_bullets": [
-          "• Apple’s Clips video editing app debuted in 2017 as a way to stitch together videos with music, text, and filters with a clear focus on sharing to social media",
+          "• Apple’s Clips video-editing app debuted in 2017 as a way to stitch together videos with music, text, and filters with a clear focus on sharing to social media",
           "• As of October 10th it will no longer receive updates and won’t be available to download for new users "
         ],
         "stakes_bullets": [
@@ -9298,6 +9294,24 @@
       ]
     },
     {
+      "id": "fad4c9e5dbcc",
+      "topic": "benin bronze home nigeria",
+      "keywords": [
+        "benin",
+        "bronze",
+        "home",
+        "nigeria",
+        "restitution",
+        "row"
+      ],
+      "item_ids": [
+        "e885326f857a"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "806fcb3a465c",
       "topic": "another cameroon old president",
       "keywords": [
@@ -9364,24 +9378,6 @@
       ],
       "item_ids": [
         "06a4d6f11292"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "0df7efef55ce",
-      "topic": "deal double drc mineral",
-      "keywords": [
-        "deal",
-        "double",
-        "drc",
-        "mineral",
-        "obviou",
-        "rwanda"
-      ],
-      "item_ids": [
-        "b80acf5b19ac"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9856,6 +9852,24 @@
       ]
     },
     {
+      "id": "be1d3cebddef",
+      "topic": "ahead europe global head",
+      "keywords": [
+        "ahead",
+        "europe",
+        "global",
+        "head",
+        "speed",
+        "week"
+      ],
+      "item_ids": [
+        "f66909ac84ef"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "27679d593238",
       "topic": "anything dominance openai silicon",
       "keywords": [
@@ -9910,6 +9924,24 @@
       ]
     },
     {
+      "id": "b73b894660c5",
+      "topic": "career criticism julia learned",
+      "keywords": [
+        "career",
+        "criticism",
+        "julia",
+        "learned",
+        "navigate",
+        "robert"
+      ],
+      "item_ids": [
+        "d3e351b7ae41"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "6516161bc30e",
       "topic": "770 billion lose megacap",
       "keywords": [
@@ -9940,42 +9972,6 @@
       ],
       "item_ids": [
         "965b41427b21"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b73b894660c5",
-      "topic": "career criticism julia learned",
-      "keywords": [
-        "career",
-        "criticism",
-        "julia",
-        "learned",
-        "navigate",
-        "robert"
-      ],
-      "item_ids": [
-        "d3e351b7ae41"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a1b9f912178e",
-      "topic": "find generator openai sora",
-      "keywords": [
-        "find",
-        "generator",
-        "openai",
-        "sora",
-        "tested",
-        "video"
-      ],
-      "item_ids": [
-        "d0bef9bdf7db"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10836,18 +10832,18 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
       "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
       ],
       "item_ids": [
-        "8ed599fe270c"
+        "9fb2d8e40a3c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -12888,6 +12884,24 @@
       ]
     },
     {
+      "id": "cf6753f07556",
+      "topic": "bleak make proces recovery",
+      "keywords": [
+        "bleak",
+        "make",
+        "proces",
+        "recovery",
+        "sure",
+        "wanted"
+      ],
+      "item_ids": [
+        "f28ee40fbb74"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "0e4127ec8972",
       "topic": "good matter right week",
       "keywords": [
@@ -13047,21 +13061,21 @@
       ]
     },
     {
-      "id": "b224bdb8cf46",
-      "topic": "landmark ocean right victory",
+      "id": "01f8808ef59e",
+      "topic": "adeline gabrielle reunion rudolph",
       "keywords": [
-        "landmark",
-        "ocean",
-        "right",
-        "victory",
-        "week",
-        "went"
+        "adeline",
+        "gabrielle",
+        "reunion",
+        "rudolph",
+        "sabrina",
+        "tati"
       ],
       "item_ids": [
-        "2deb3486e451"
+        "4bfbbd7026bf"
       ],
       "outlets": [
-        "Positive News"
+        "CBR"
       ]
     },
     {
@@ -13220,24 +13234,6 @@
       ],
       "item_ids": [
         "5e6c04a5df7d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "941370da6220",
-      "topic": "binge crime horrifying hulu",
-      "keywords": [
-        "binge",
-        "crime",
-        "horrifying",
-        "hulu",
-        "show",
-        "true"
-      ],
-      "item_ids": [
-        "5d25383ff6bb"
       ],
       "outlets": [
         "CBR"
