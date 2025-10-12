@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-12T11:17:09Z",
+  "generated_at": "2025-10-12T11:50:01Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,39 +1055,36 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "8ed599fe270c",
-      "title": "The government has long researched high school experiences. Then DOGE cut the effort",
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
       "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5521282/trump-research-education-survey-high-school-students-doge",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
       "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• The U.S",
-        "• Department of Government Efficiency has been collecting high school data for 50 years",
-        "• The surveys started in 1972, and have gathered data on more than 100,000 high school students",
-        "• They were worth tens of thousands of dollars of research "
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.963
+        "label": "negative",
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
         ],
         "hopeful_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
         ],
         "stakes_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years",
-          "• The surveys started in 1972, and have gathered data on more than 100,000 high school students"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "4256f8991aff"
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -2550,6 +2547,72 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "c5224ffa0f1f",
+      "title": "Trump officials reportedly consider selling student loan debt to private investors",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/12/trump-sell-student-loan-debt",
+      "published_at": "Sun, 12 Oct 2025 11:00:51 GMT",
+      "bullets": [
+        "• Officials in the Trump administration are reportedly weighing the possibility of selling portions of the federal government's $1.6tn student loan portfolio to private investors",
+        "• Experts say the move could potentially reshape the student loan landscape in unpredictable ways",
+        "• Officials have also reportedly reached out to figures in the financial industry, including potential buyers, to discuss the idea "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Officials in the Trump administration are reportedly weighing the possibility of selling portions of the federal government's $1.6tn student loan portfolio to private investors",
+          "• Experts say the move could potentially reshape the student loan landscape in unpredictable ways"
+        ],
+        "hopeful_bullets": [
+          "• Officials in the Trump administration are reportedly weighing the possibility of selling portions of the federal government's $1.6tn student loan portfolio to private investors",
+          "• Experts say the move could potentially reshape the student loan landscape in unpredictable ways"
+        ],
+        "stakes_bullets": [
+          "• Experts say the move could potentially reshape the student loan landscape in unpredictable ways"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "59b31e66e6f6"
+    },
+    {
+      "id": "7fc848f96ed2",
+      "title": "Chicagoans optimistic about annual marathon even amid violent Ice activity",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/12/chicago-marathon-ice",
+      "published_at": "Sun, 12 Oct 2025 11:00:50 GMT",
+      "bullets": [
+        "• The 26.2-mile race will begin and end at Grant Park in Chicago",
+        "• Organizers, business owners and runners are cautiously optimistic about the race",
+        "• The race will take in the shores of Lake Michigan and 29 city neighborhoods",
+        "• Recent court rulings this week have prevented the national guard from being deployed in Illinois "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 26.2-mile race will begin and end at Grant Park in Chicago",
+          "• Organizers, business owners and runners are cautiously optimistic about the race"
+        ],
+        "hopeful_bullets": [
+          "• The 26.2-mile race will begin and end at Grant Park in Chicago",
+          "• Organizers, business owners and runners are cautiously optimistic about the race"
+        ],
+        "stakes_bullets": [
+          "• The 26.2-mile race will begin and end at Grant Park in Chicago",
+          "• The race will take in the shores of Lake Michigan and 29 city neighborhoods"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "99ada1db1475"
+    },
+    {
       "id": "8166b76c2c83",
       "title": "Mortal Kombat III Announced with Jeremy Slater Returning",
       "outlet": "CBR",
@@ -2585,6 +2648,41 @@
       "cluster_id": "4f345ecb746e"
     },
     {
+      "id": "86a7ed92eb51",
+      "title": "A New Algorithm Makes It Faster to Find the Shortest Paths",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/",
+      "published_at": "Sun, 12 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• Computer scientists at the University of Copenhagen have created a new algorithm for the shortest-paths problem",
+        "• Intuitively, it should be easiest to find the shortest path to nearby destinations",
+        "• But to do that, you need to repeatedly figure out which point is closest",
+        "• There's a fundamental speed limit for any algorithm that follows this approach "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Computer scientists at the University of Copenhagen have created a new algorithm for the shortest-paths problem",
+          "• Intuitively, it should be easiest to find the shortest path to nearby destinations"
+        ],
+        "hopeful_bullets": [
+          "• Computer scientists at the University of Copenhagen have created a new algorithm for the shortest-paths problem",
+          "• Intuitively, it should be easiest to find the shortest path to nearby destinations"
+        ],
+        "stakes_bullets": [
+          "• Computer scientists at the University of Copenhagen have created a new algorithm for the shortest-paths problem",
+          "• Intuitively, it should be easiest to find the shortest path to nearby destinations",
+          "• But to do that, you need to repeatedly figure out which point is closest"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a224fa742758"
+    },
+    {
       "id": "0bb2f7e06e46",
       "title": "Mortal Kombat II Confirms Positive Fan Reaction After Testing",
       "outlet": "CBR",
@@ -2615,6 +2713,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "ffa8d2d54d24"
+    },
+    {
+      "id": "8aa00ab0cdfb",
+      "title": "Seychelles' opposition leader wins presidential poll",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy7p72rj2geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 12 Oct 2025 10:39:21 GMT",
+      "bullets": [
+        "• Patrick Herminie wins presidential election in Seychelles, defeating incumbent Wavel Ramkalawan in a runoff vote",
+        "• The election went to a run-off after neither candidate won an outright majority in the first round two weeks ago",
+        "• The former parliamentary speaker was charged with witchcraft in 2023 in what he said was a politically motivated attempt to thwart his presidential ambitions "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Patrick Herminie wins presidential election in Seychelles, defeating incumbent Wavel Ramkalawan in a runoff vote",
+          "• The election went to a run-off after neither candidate won an outright majority in the first round two weeks ago"
+        ],
+        "hopeful_bullets": [
+          "• Patrick Herminie wins presidential election in Seychelles, defeating incumbent Wavel Ramkalawan in a runoff vote"
+        ],
+        "stakes_bullets": [
+          "• Patrick Herminie wins presidential election in Seychelles, defeating incumbent Wavel Ramkalawan in a runoff vote",
+          "• The election went to a run-off after neither candidate won an outright majority in the first round two weeks ago",
+          "• The former parliamentary speaker was charged with witchcraft in 2023 in what he said was a politically motivated attempt to thwart his presidential ambitions "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "25592e185d4b"
     },
     {
       "id": "f71f82773da0",
@@ -2848,7 +2979,7 @@
           "• Army unit CAPSAT claims it has taken over leadership of the military command"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "7b10b663b667"
     },
     {
@@ -2983,6 +3114,41 @@
       },
       "read_minutes": 10,
       "cluster_id": "2c34dae764af"
+    },
+    {
+      "id": "17c176815100",
+      "title": "5 things to know about the health care fight behind the shutdown",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/12/nx-s1-5570849/shutdown-aca-health-care-tax-credits",
+      "published_at": "Sun, 12 Oct 2025 07:02:00 -0400",
+      "bullets": [
+        "• The tax credits that make ACA health care premiums affordable for many Americans don't expire until December",
+        "• Democratic lawmakers want to see them extended before enrollment begins Nov",
+        "• 1",
+        "• A poll last week found that more than three-quarters of people across the political spectrum are in favor of extending the enhanced ACA tax credits "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.837
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The tax credits that make ACA health care premiums affordable for many Americans don't expire until December",
+          "• Democratic lawmakers want to see them extended before enrollment begins Nov"
+        ],
+        "hopeful_bullets": [
+          "• The tax credits that make ACA health care premiums affordable for many Americans don't expire until December",
+          "• Democratic lawmakers want to see them extended before enrollment begins Nov"
+        ],
+        "stakes_bullets": [
+          "• The tax credits that make ACA health care premiums affordable for many Americans don't expire until December",
+          "• Democratic lawmakers want to see them extended before enrollment begins Nov",
+          "• 1"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "20d15a09acfb"
     },
     {
       "id": "277ce2a47d5a",
@@ -4045,41 +4211,6 @@
       "cluster_id": "f023071e09e9"
     },
     {
-      "id": "97ee629e333a",
-      "title": "Indian student captured by Ukraine joined Russian army to avoid drug charges, says mother",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy870p96yjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 11 Oct 2025 22:40:29 GMT",
-      "bullets": [
-        "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
-        "• His mother claims he was falsely accused in a drug case last April",
-        "• He joined the Russian army to avoid imprisonment over drug charges, she says",
-        "• The Indian foreign ministry says it is investigating the case "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
-          "• His mother claims he was falsely accused in a drug case last April"
-        ],
-        "hopeful_bullets": [
-          "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
-          "• His mother claims he was falsely accused in a drug case last April"
-        ],
-        "stakes_bullets": [
-          "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
-          "• His mother claims he was falsely accused in a drug case last April",
-          "• He joined the Russian army to avoid imprisonment over drug charges, she says"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5c24f35bc9c0"
-    },
-    {
       "id": "6c99f2eb0fa5",
       "title": "National guard troops in Illinois can remain but cannot be deployed yet, judge rules",
       "outlet": "US news | The Guardian",
@@ -4372,38 +4503,6 @@
       "cluster_id": "deeb06f25b8a"
     },
     {
-      "id": "1ba605d115a6",
-      "title": "No survivors in Tennessee explosives factory blast, officials say",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/11/no-survivors-tennessee-explosives-factory",
-      "published_at": "Sat, 11 Oct 2025 18:08:57 GMT",
-      "bullets": [
-        "• There were no survivors in the blast that obliterated part of an explosives factory in rural Tennessee, authorities said on Saturday",
-        "• The families of 18 people had been waiting anxiously on Saturday as their loved ones had been feared dead since explosions ripped through the plant near McEwen in western Tennessee early on Friday",
-        "• The initial toll had been believed to be 19 people but that figure was later revised "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There were no survivors in the blast that obliterated part of an explosives factory in rural Tennessee, authorities said on Saturday",
-          "• The families of 18 people had been waiting anxiously on Saturday as their loved ones had been feared dead since explosions ripped through the plant near McEwen in western Tennessee early on Friday"
-        ],
-        "hopeful_bullets": [
-          "• There were no survivors in the blast that obliterated part of an explosives factory in rural Tennessee, authorities said on Saturday",
-          "• The families of 18 people had been waiting anxiously on Saturday as their loved ones had been feared dead since explosions ripped through the plant near McEwen in western Tennessee early on Friday"
-        ],
-        "stakes_bullets": [
-          "• The families of 18 people had been waiting anxiously on Saturday as their loved ones had been feared dead since explosions ripped through the plant near McEwen in western Tennessee early on Friday"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "164215d673f3"
-    },
-    {
       "id": "01a3961473e5",
       "title": "Nobel Prize winner Machado says Venezuela is in 'chaos' under current regime",
       "outlet": "NPR Topics: News",
@@ -4569,38 +4668,6 @@
       "cluster_id": "403d8dd63309"
     },
     {
-      "id": "91795f8206b3",
-      "title": "Before Trump, ‘Dreamers’ were shielded from deportation. Here’s what’s changed",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/11/trump-immigration-dreamers-daca",
-      "published_at": "Sat, 11 Oct 2025 16:00:27 GMT",
-      "bullets": [
-        "• Deferred Action for Childhood Arrivals (Daca) allows undocumented immigrants brought to the U.S",
-        "• as children to live and work legally without serious risk of deportation",
-        "• New court filing suggests it may resume consideration of initial Daca applications for the first time in years "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.699
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Deferred Action for Childhood Arrivals (Daca) allows undocumented immigrants brought to the U.S",
-          "• as children to live and work legally without serious risk of deportation"
-        ],
-        "hopeful_bullets": [
-          "• Deferred Action for Childhood Arrivals (Daca) allows undocumented immigrants brought to the U.S",
-          "• as children to live and work legally without serious risk of deportation"
-        ],
-        "stakes_bullets": [
-          "• as children to live and work legally without serious risk of deportation"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "49e9b53fb59b"
-    },
-    {
       "id": "ae33893e3c7f",
       "title": "Disturbed’s Belgium Concert Reportedly Canceled Due to Safety Concerns Over Singer’s Israel Support",
       "outlet": "Music News",
@@ -4737,6 +4804,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "47d2acbcfaa0"
+    },
+    {
+      "id": "62aa2ebb0fc5",
+      "title": "Joe Biden receiving radiation therapy for prostate cancer",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/11/joe-biden-radiation-therapy-prostate-cancer",
+      "published_at": "Sat, 11 Oct 2025 14:01:35 GMT",
+      "bullets": [
+        "• Joe Biden is receiving radiation therapy for prostate cancer, a spokesperson for the former US president said on Saturday morning",
+        "• The former president was diagnosed in May with an “aggressive form” of prostate cancer that had spread to his bones",
+        "• He had already been taking hormone medication in pill form "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Joe Biden is receiving radiation therapy for prostate cancer, a spokesperson for the former US president said on Saturday morning",
+          "• The former president was diagnosed in May with an “aggressive form” of prostate cancer that had spread to his bones"
+        ],
+        "hopeful_bullets": [
+          "• Joe Biden is receiving radiation therapy for prostate cancer, a spokesperson for the former US president said on Saturday morning",
+          "• The former president was diagnosed in May with an “aggressive form” of prostate cancer that had spread to his bones"
+        ],
+        "stakes_bullets": [
+          "• Joe Biden is receiving radiation therapy for prostate cancer, a spokesperson for the former US president said on Saturday morning",
+          "• The former president was diagnosed in May with an “aggressive form” of prostate cancer that had spread to his bones",
+          "• He had already been taking hormone medication in pill form "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3bfe343782c3"
     },
     {
       "id": "eea06fff1acc",
@@ -4902,40 +5003,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "80ce9c9f8c70"
-    },
-    {
-      "id": "eba697585770",
-      "title": "Democrats refuse to fold over shutdown as Republican outrage builds",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/11/republicans-democrats-us-government-shutdown",
-      "published_at": "Sat, 11 Oct 2025 13:00:57 GMT",
-      "bullets": [
-        "• Chuck Schumer said Republicans believed Democrats would fold and vote to reopen the government, but instead they had stuck to their guns",
-        "• Republicans printed out the remark on posters and condemned it before press conferences",
-        "• The shutdown has prompted federal agencies to close or curtail operations nationwide, and forced hundreds of thousands of employees to stay home without immediate pay "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chuck Schumer said Republicans believed Democrats would fold and vote to reopen the government, but instead they had stuck to their guns",
-          "• Republicans printed out the remark on posters and condemned it before press conferences"
-        ],
-        "hopeful_bullets": [
-          "• Chuck Schumer said Republicans believed Democrats would fold and vote to reopen the government, but instead they had stuck to their guns",
-          "• Republicans printed out the remark on posters and condemned it before press conferences"
-        ],
-        "stakes_bullets": [
-          "• Chuck Schumer said Republicans believed Democrats would fold and vote to reopen the government, but instead they had stuck to their guns",
-          "• Republicans printed out the remark on posters and condemned it before press conferences",
-          "• The shutdown has prompted federal agencies to close or curtail operations nationwide, and forced hundreds of thousands of employees to stay home without immediate pay "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "64d984fe5c5a"
     },
     {
       "id": "cd1c0d6caa72",
@@ -5193,38 +5260,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a716b33e47fb"
-    },
-    {
-      "id": "b221c1aa5c29",
-      "title": "Africa's oldest leader isn't ready to retire — and he's not the only one defying age",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/11/nx-s1-5570875/cameroon-biya-africa",
-      "published_at": "Sat, 11 Oct 2025 11:32:10 -0400",
-      "bullets": [
-        "• Africa's oldest leader isn't ready to retire — and he's not the only one defying age",
-        "• Despite being the continent with the world's youngest population, Africa boasts numerous gerontocracies",
-        "• It is an irony for a continent whose median age is just 19, says analyst Paul Nantulya "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.924
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Africa's oldest leader isn't ready to retire — and he's not the only one defying age",
-          "• Despite being the continent with the world's youngest population, Africa boasts numerous gerontocracies"
-        ],
-        "hopeful_bullets": [
-          "• Africa's oldest leader isn't ready to retire — and he's not the only one defying age",
-          "• Despite being the continent with the world's youngest population, Africa boasts numerous gerontocracies"
-        ],
-        "stakes_bullets": [
-          "• Africa's oldest leader isn't ready to retire — and he's not the only one defying age"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9d8e84f920fd"
     },
     {
       "id": "78a17ed50c08",
@@ -5829,72 +5864,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "ce1476903e4c"
-    },
-    {
-      "id": "965b41427b21",
-      "title": "Trump says 'a lot' of federal workers are being laid off during government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-      "published_at": "Sat, 11 Oct 2025 04:27:26 GMT",
-      "bullets": [
-        "• At least 4,000 federal workers received layoff notices Friday, the 10th day of the U.S",
-        "• government shutdown",
-        "• \"Reductions in Force\" are different from the furloughing of government workers",
-        "• President Donald Trump says the number of federal workers who will be laid off will \"be a lot\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 4,000 federal workers received layoff notices Friday, the 10th day of the U.S",
-          "• government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• At least 4,000 federal workers received layoff notices Friday, the 10th day of the U.S",
-          "• government shutdown"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says the number of federal workers who will be laid off will \"be a lot\""
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "69badf72ca6c"
-    },
-    {
-      "id": "f9ea770f78d2",
-      "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports",
-      "published_at": "Sat, 11 Oct 2025 03:44:18 -0400",
-      "bullets": [
-        "• President Trump threatens to place an additional 100% tax on Chinese imports starting on Nov",
-        "• 1 or sooner",
-        "• The president expresses frustration with new export controls placed on rare earth elements by China",
-        "• He says \"there seems to be no reason\" to meet with Chinese leader Xi Jinping "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump threatens to place an additional 100% tax on Chinese imports starting on Nov",
-          "• 1 or sooner"
-        ],
-        "hopeful_bullets": [
-          "• President Trump threatens to place an additional 100% tax on Chinese imports starting on Nov",
-          "• 1 or sooner"
-        ],
-        "stakes_bullets": [
-          "• He says \"there seems to be no reason\" to meet with Chinese leader Xi Jinping "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a7f36778af5c"
     },
     {
       "id": "47922361a6b1",
@@ -6528,6 +6497,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "cc7d025ab986"
+    },
+    {
+      "id": "00a5c1704fd6",
+      "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
+      "published_at": "Fri, 10 Oct 2025 23:42:56 GMT",
+      "bullets": [
+        "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+        "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
+        "• The company's flagship app, Seemour, connects to home security cameras "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.932
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
+        ],
+        "hopeful_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures"
+        ],
+        "stakes_bullets": [
+          "• Apple is in late-stage talks to acquire computer vision startup Prompt AI, CNBC has learned",
+          "• Prompt AI was founded in 2023 and raised a $5 million seed round led by AIX and Abstract Ventures",
+          "• The company's flagship app, Seemour, connects to home security cameras "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c04934c6d339"
     },
     {
       "id": "956e2d00fc65",
@@ -7224,40 +7227,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a4c6ba3087ba"
-    },
-    {
-      "id": "b1815a688b56",
-      "title": "WIRED Roundup: Are We In An AI Bubble?",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/",
-      "published_at": "Fri, 10 Oct 2025 19:50:22 +0000",
-      "bullets": [
-        "• In this week's episode, Zoë Schiffer and Leah Feiger run through five stories that you need to know about this week",
-        "• From the Antifa professor who’s fleeing to Europe for safety to how some chatbots are manipulating users to avoid saying goodbye",
-        "• Then, they break down why a recent announcement from OpenAI rattled the markets and answer the question everyone is wondering is we in an AI bubble?"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In this week's episode, Zoë Schiffer and Leah Feiger run through five stories that you need to know about this week",
-          "• From the Antifa professor who’s fleeing to Europe for safety to how some chatbots are manipulating users to avoid saying goodbye"
-        ],
-        "hopeful_bullets": [
-          "• In this week's episode, Zoë Schiffer and Leah Feiger run through five stories that you need to know about this week",
-          "• From the Antifa professor who’s fleeing to Europe for safety to how some chatbots are manipulating users to avoid saying goodbye"
-        ],
-        "stakes_bullets": [
-          "• In this week's episode, Zoë Schiffer and Leah Feiger run through five stories that you need to know about this week",
-          "• From the Antifa professor who’s fleeing to Europe for safety to how some chatbots are manipulating users to avoid saying goodbye",
-          "• Then, they break down why a recent announcement from OpenAI rattled the markets and answer the question everyone is wondering is we in an AI bubble?"
-        ]
-      },
-      "read_minutes": 17,
-      "cluster_id": "2ef4dc6f3c99"
     },
     {
       "id": "98b0873f6b8f",
@@ -9213,6 +9182,24 @@
       ]
     },
     {
+      "id": "25592e185d4b",
+      "topic": "leader opposition poll presidential",
+      "keywords": [
+        "leader",
+        "opposition",
+        "poll",
+        "presidential",
+        "seychelle",
+        "wins"
+      ],
+      "item_ids": [
+        "8aa00ab0cdfb"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "1b94c07bc1ea",
       "topic": "all available direct fund",
       "keywords": [
@@ -9264,24 +9251,6 @@
       ],
       "item_ids": [
         "049d5818a1b2"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "5c24f35bc9c0",
-      "topic": "captured indian joined russian",
-      "keywords": [
-        "captured",
-        "indian",
-        "joined",
-        "russian",
-        "student",
-        "ukraine"
-      ],
-      "item_ids": [
-        "97ee629e333a"
       ],
       "outlets": [
         "BBC News"
@@ -9468,6 +9437,42 @@
       ]
     },
     {
+      "id": "59b31e66e6f6",
+      "topic": "consider official reportedly selling",
+      "keywords": [
+        "consider",
+        "official",
+        "reportedly",
+        "selling",
+        "student",
+        "trump"
+      ],
+      "item_ids": [
+        "c5224ffa0f1f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "99ada1db1475",
+      "topic": "annual chicagoan even marathon",
+      "keywords": [
+        "annual",
+        "chicagoan",
+        "even",
+        "marathon",
+        "optimistic",
+        "violent"
+      ],
+      "item_ids": [
+        "7fc848f96ed2"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "b4eac671455f",
       "topic": "federal pawn political reel",
       "keywords": [
@@ -9594,57 +9599,39 @@
       ]
     },
     {
-      "id": "164215d673f3",
-      "topic": "blast explosive factory official",
+      "id": "3bfe343782c3",
+      "topic": "biden joe prostate radiation",
       "keywords": [
-        "blast",
-        "explosive",
-        "factory",
-        "official",
-        "survivor",
-        "tennessee"
+        "biden",
+        "joe",
+        "prostate",
+        "radiation",
+        "receiving",
+        "therapy"
       ],
       "item_ids": [
-        "1ba605d115a6"
+        "62aa2ebb0fc5"
       ],
       "outlets": [
         "US news | The Guardian"
       ]
     },
     {
-      "id": "49e9b53fb59b",
-      "topic": "before deportation dreamer here",
+      "id": "20d15a09acfb",
+      "topic": "behind care fight health",
       "keywords": [
-        "before",
-        "deportation",
-        "dreamer",
-        "here",
-        "shielded",
-        "trump"
+        "behind",
+        "care",
+        "fight",
+        "health",
+        "know",
+        "thing"
       ],
       "item_ids": [
-        "91795f8206b3"
+        "17c176815100"
       ],
       "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "64d984fe5c5a",
-      "topic": "democrat fold outrage refuse",
-      "keywords": [
-        "democrat",
-        "fold",
-        "outrage",
-        "refuse",
-        "republican",
-        "shutdown"
-      ],
-      "item_ids": [
-        "eba697585770"
-      ],
-      "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9792,24 +9779,6 @@
       ]
     },
     {
-      "id": "9d8e84f920fd",
-      "topic": "africa isn leader oldest",
-      "keywords": [
-        "africa",
-        "isn",
-        "leader",
-        "oldest",
-        "ready",
-        "retire"
-      ],
-      "item_ids": [
-        "b221c1aa5c29"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "ff6176926590",
       "topic": "china curb defend earth",
       "keywords": [
@@ -9900,6 +9869,42 @@
       ]
     },
     {
+      "id": "b73b894660c5",
+      "topic": "career criticism julia learned",
+      "keywords": [
+        "career",
+        "criticism",
+        "julia",
+        "learned",
+        "navigate",
+        "robert"
+      ],
+      "item_ids": [
+        "d3e351b7ae41"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c04934c6d339",
+      "topic": "acquire apple deal near",
+      "keywords": [
+        "acquire",
+        "apple",
+        "deal",
+        "near",
+        "talent",
+        "technology"
+      ],
+      "item_ids": [
+        "00a5c1704fd6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "1a03f6678b74",
       "topic": "airline change east fees",
       "keywords": [
@@ -9936,24 +9941,6 @@
       ]
     },
     {
-      "id": "b73b894660c5",
-      "topic": "career criticism julia learned",
-      "keywords": [
-        "career",
-        "criticism",
-        "julia",
-        "learned",
-        "navigate",
-        "robert"
-      ],
-      "item_ids": [
-        "d3e351b7ae41"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "6516161bc30e",
       "topic": "770 billion lose megacap",
       "keywords": [
@@ -9972,21 +9959,21 @@
       ]
     },
     {
-      "id": "69badf72ca6c",
-      "topic": "being federal laid lot",
+      "id": "a224fa742758",
+      "topic": "algorithm faster find make",
       "keywords": [
-        "being",
-        "federal",
-        "laid",
-        "lot",
-        "trump",
-        "worker"
+        "algorithm",
+        "faster",
+        "find",
+        "make",
+        "path",
+        "shortest"
       ],
       "item_ids": [
-        "965b41427b21"
+        "86a7ed92eb51"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10146,21 +10133,6 @@
       ],
       "item_ids": [
         "83330fa3aed4"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "2ef4dc6f3c99",
-      "topic": "bubble roundup wired",
-      "keywords": [
-        "bubble",
-        "roundup",
-        "wired"
-      ],
-      "item_ids": [
-        "b1815a688b56"
       ],
       "outlets": [
         "WIRED"
@@ -10845,18 +10817,18 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
       "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
       ],
       "item_ids": [
-        "8ed599fe270c"
+        "9fb2d8e40a3c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10945,24 +10917,6 @@
       ],
       "item_ids": [
         "8c63e0f6f0a2"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "a7f36778af5c",
-      "topic": "100 export limit tech",
-      "keywords": [
-        "100",
-        "export",
-        "limit",
-        "tech",
-        "threaten",
-        "trump"
-      ],
-      "item_ids": [
-        "f9ea770f78d2"
       ],
       "outlets": [
         "NPR Topics: Politics"
