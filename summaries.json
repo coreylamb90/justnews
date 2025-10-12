@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-12T10:55:52Z",
+  "generated_at": "2025-10-12T11:17:09Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2550,6 +2550,41 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "8166b76c2c83",
+      "title": "Mortal Kombat III Announced with Jeremy Slater Returning",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mortal-kombat-3-announced-details/",
+      "published_at": "Sun, 12 Oct 2025 11:00:22 GMT",
+      "bullets": [
+        "• New Line has announced Mortal Kombat III",
+        "• Jeremy Slater will return as screenwriter",
+        "• The film will be a follow-up to 2021's first film",
+        "• The first red-band trailer for the film performed exceptionally well, pulling in over 107 million global views "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New Line has announced Mortal Kombat III",
+          "• Jeremy Slater will return as screenwriter"
+        ],
+        "hopeful_bullets": [
+          "• New Line has announced Mortal Kombat III",
+          "• Jeremy Slater will return as screenwriter"
+        ],
+        "stakes_bullets": [
+          "• Jeremy Slater will return as screenwriter",
+          "• The film will be a follow-up to 2021's first film",
+          "• The first red-band trailer for the film performed exceptionally well, pulling in over 107 million global views "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4f345ecb746e"
+    },
+    {
       "id": "0bb2f7e06e46",
       "title": "Mortal Kombat II Confirms Positive Fan Reaction After Testing",
       "outlet": "CBR",
@@ -2580,6 +2615,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "ffa8d2d54d24"
+    },
+    {
+      "id": "f71f82773da0",
+      "title": "China accuses US of 'double standards' over tariff threat",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 12 Oct 2025 10:25:31 GMT",
+      "bullets": [
+        "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+        "• Commerce Ministry says it could introduce its own unspecified \"countermeasures\" if the US President carries out his threat",
+        "• Trump hit back at Beijing's move to tighten its rules for exports of rare earths "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+          "• Commerce Ministry says it could introduce its own unspecified \"countermeasures\" if the US President carries out his threat"
+        ],
+        "hopeful_bullets": [
+          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+          "• Commerce Ministry says it could introduce its own unspecified \"countermeasures\" if the US President carries out his threat"
+        ],
+        "stakes_bullets": [
+          "• Commerce Ministry says it could introduce its own unspecified \"countermeasures\" if the US President carries out his threat"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7d438d7faa33"
     },
     {
       "id": "7f4db1f32539",
@@ -3412,40 +3479,6 @@
       "cluster_id": "dba6d2c9fd48"
     },
     {
-      "id": "f428b2348bf8",
-      "title": "This is Wonder Woman's True Nemesis, And It's Not Even Close",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/wonder-woman-true-nemesis-circe/",
-      "published_at": "Sun, 12 Oct 2025 03:30:12 GMT",
-      "bullets": [
-        "• The rogues' gallery is an assortment of recurring foes for a protagonist to face",
-        "• This is not quite the case when looking at the antagonists of the ever-iconic heroine, Wonder Woman",
-        "• Some of her lesser-known foes are phenomenal, like Doctor Poison and Silver Swan "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The rogues' gallery is an assortment of recurring foes for a protagonist to face",
-          "• This is not quite the case when looking at the antagonists of the ever-iconic heroine, Wonder Woman"
-        ],
-        "hopeful_bullets": [
-          "• The rogues' gallery is an assortment of recurring foes for a protagonist to face",
-          "• This is not quite the case when looking at the antagonists of the ever-iconic heroine, Wonder Woman"
-        ],
-        "stakes_bullets": [
-          "• The rogues' gallery is an assortment of recurring foes for a protagonist to face",
-          "• This is not quite the case when looking at the antagonists of the ever-iconic heroine, Wonder Woman",
-          "• Some of her lesser-known foes are phenomenal, like Doctor Poison and Silver Swan "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "862d5d1f227e"
-    },
-    {
       "id": "0375189b92b6",
       "title": "Hollywood's quirky leading lady, Diane Keaton, dies aged 79",
       "outlet": "NPR Topics: News",
@@ -4012,6 +4045,41 @@
       "cluster_id": "f023071e09e9"
     },
     {
+      "id": "97ee629e333a",
+      "title": "Indian student captured by Ukraine joined Russian army to avoid drug charges, says mother",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy870p96yjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 11 Oct 2025 22:40:29 GMT",
+      "bullets": [
+        "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
+        "• His mother claims he was falsely accused in a drug case last April",
+        "• He joined the Russian army to avoid imprisonment over drug charges, she says",
+        "• The Indian foreign ministry says it is investigating the case "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
+          "• His mother claims he was falsely accused in a drug case last April"
+        ],
+        "hopeful_bullets": [
+          "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
+          "• His mother claims he was falsely accused in a drug case last April"
+        ],
+        "stakes_bullets": [
+          "• Sahil Majothi, 22, went to Russia to study computer engineering two years ago",
+          "• His mother claims he was falsely accused in a drug case last April",
+          "• He joined the Russian army to avoid imprisonment over drug charges, she says"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5c24f35bc9c0"
+    },
+    {
       "id": "6c99f2eb0fa5",
       "title": "National guard troops in Illinois can remain but cannot be deployed yet, judge rules",
       "outlet": "US news | The Guardian",
@@ -4041,74 +4109,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "7c20df73da98"
-    },
-    {
-      "id": "cbece7d66207",
-      "title": "Biden receiving radiation therapy for prostate cancer",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1ede670jnyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 11 Oct 2025 21:23:28 GMT",
-      "bullets": [
-        "• Biden receiving radiation therapy for prostate cancer, his spokesman says",
-        "• The former US President is undergoing hormone treatment, the spokesman said",
-        "• Biden's office announced in May that he had been diagnosed with a more aggressive form of the disease, which had spread to his bones",
-        "• The 82-year-old Democrat left office as the oldest serving US president in history "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Biden receiving radiation therapy for prostate cancer, his spokesman says",
-          "• The former US President is undergoing hormone treatment, the spokesman said"
-        ],
-        "hopeful_bullets": [
-          "• Biden receiving radiation therapy for prostate cancer, his spokesman says",
-          "• The former US President is undergoing hormone treatment, the spokesman said"
-        ],
-        "stakes_bullets": [
-          "• Biden receiving radiation therapy for prostate cancer, his spokesman says",
-          "• The former US President is undergoing hormone treatment, the spokesman said",
-          "• Biden's office announced in May that he had been diagnosed with a more aggressive form of the disease, which had spread to his bones"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e712c1fb555c"
-    },
-    {
-      "id": "1ba585014bc3",
-      "title": "Drone strike in besieged Sudan city kills dozens",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 11 Oct 2025 20:25:59 GMT",
-      "bullets": [
-        "• Drone strike in besieged Sudanese city kills dozens of people, activists say",
-        "• Eyewitnesses describe scenes of panic as rescuers pull bodies from rubble",
-        "• El-Fasher is the last stronghold of the Sudanese army's last stronghold in Darfur region "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Drone strike in besieged Sudanese city kills dozens of people, activists say",
-          "• Eyewitnesses describe scenes of panic as rescuers pull bodies from rubble"
-        ],
-        "hopeful_bullets": [
-          "• El-Fasher is the last stronghold of the Sudanese army's last stronghold in Darfur region "
-        ],
-        "stakes_bullets": [
-          "• Drone strike in besieged Sudanese city kills dozens of people, activists say",
-          "• Eyewitnesses describe scenes of panic as rescuers pull bodies from rubble",
-          "• El-Fasher is the last stronghold of the Sudanese army's last stronghold in Darfur region "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9d74bf93d9f9"
     },
     {
       "id": "3255399c7a5a",
@@ -9159,6 +9159,24 @@
       ]
     },
     {
+      "id": "7d438d7faa33",
+      "topic": "accuse china double standard",
+      "keywords": [
+        "accuse",
+        "china",
+        "double",
+        "standard",
+        "tariff",
+        "threat"
+      ],
+      "item_ids": [
+        "f71f82773da0"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "60530fcb40e9",
       "topic": "academy actres award diane",
       "keywords": [
@@ -9171,6 +9189,24 @@
       ],
       "item_ids": [
         "1540376aba20"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "7b10b663b667",
+      "topic": "attempt madagascar power presidency",
+      "keywords": [
+        "attempt",
+        "madagascar",
+        "power",
+        "presidency",
+        "seize",
+        "under"
+      ],
+      "item_ids": [
+        "ab0a3798a866"
       ],
       "outlets": [
         "BBC News"
@@ -9195,24 +9231,6 @@
       "outlets": [
         "BBC News",
         "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "7b10b663b667",
-      "topic": "attempt madagascar power presidency",
-      "keywords": [
-        "attempt",
-        "madagascar",
-        "power",
-        "presidency",
-        "seize",
-        "under"
-      ],
-      "item_ids": [
-        "ab0a3798a866"
-      ],
-      "outlets": [
-        "BBC News"
       ]
     },
     {
@@ -9252,36 +9270,18 @@
       ]
     },
     {
-      "id": "9d74bf93d9f9",
-      "topic": "besieged city drone kill",
+      "id": "5c24f35bc9c0",
+      "topic": "captured indian joined russian",
       "keywords": [
-        "besieged",
-        "city",
-        "drone",
-        "kill",
-        "strike",
-        "sudan"
+        "captured",
+        "indian",
+        "joined",
+        "russian",
+        "student",
+        "ukraine"
       ],
       "item_ids": [
-        "1ba585014bc3"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "e712c1fb555c",
-      "topic": "biden cancer prostate radiation",
-      "keywords": [
-        "biden",
-        "cancer",
-        "prostate",
-        "radiation",
-        "receiving",
-        "therapy"
-      ],
-      "item_ids": [
-        "cbece7d66207"
+        "97ee629e333a"
       ],
       "outlets": [
         "BBC News"
@@ -13070,6 +13070,24 @@
       ]
     },
     {
+      "id": "4f345ecb746e",
+      "topic": "announced iii jeremy kombat",
+      "keywords": [
+        "announced",
+        "iii",
+        "jeremy",
+        "kombat",
+        "mortal",
+        "slater"
+      ],
+      "item_ids": [
+        "8166b76c2c83"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "ffa8d2d54d24",
       "topic": "confirm fan kombat mortal",
       "keywords": [
@@ -13225,24 +13243,6 @@
       ],
       "item_ids": [
         "5c928ba15746"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "862d5d1f227e",
-      "topic": "close even nemesi true",
-      "keywords": [
-        "close",
-        "even",
-        "nemesi",
-        "true",
-        "woman",
-        "wonder"
-      ],
-      "item_ids": [
-        "f428b2348bf8"
       ],
       "outlets": [
         "CBR"
