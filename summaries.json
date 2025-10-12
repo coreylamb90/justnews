@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-12T08:11:34Z",
+  "generated_at": "2025-10-12T09:01:30Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1926,41 +1926,6 @@
       "cluster_id": "5204c40ab0d6"
     },
     {
-      "id": "3bebea2cd6e0",
-      "title": "What’s Ahead for the US Electric Vehicle Industry After Hitting a Massive Speed Bump?",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/09102025/inside-clean-energy-us-ev-industry-future/",
-      "published_at": "Thu, 09 Oct 2025 13:00:00 +0000",
-      "bullets": [
-        "• The end of U.S",
-        "• tax credits for buying electric vehicles has changed the market in ways that are still unfolding",
-        "• Until Oct",
-        "• 1, the federal government offered a tax credit of up to $7,500 for the purchase of a qualifying new EV, and $3,000 for a qualifying used EV "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.949
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The end of U.S",
-          "• tax credits for buying electric vehicles has changed the market in ways that are still unfolding"
-        ],
-        "hopeful_bullets": [
-          "• The end of U.S",
-          "• tax credits for buying electric vehicles has changed the market in ways that are still unfolding"
-        ],
-        "stakes_bullets": [
-          "• The end of U.S",
-          "• tax credits for buying electric vehicles has changed the market in ways that are still unfolding",
-          "• Until Oct"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "fb25e1d58982"
-    },
-    {
       "id": "4efeaac57102",
       "title": "US west coast faults could trigger catastrophic back-to-back earthquakes, study finds",
       "outlet": "Environment | The Guardian",
@@ -2651,6 +2616,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "f5cbbc6c3bcb"
+    },
+    {
+      "id": "fdbe1d4eb9a7",
+      "title": "Climate Change Comes for the House of the Seven Gables",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/12102025/climate-change-comes-for-the-house-of-the-seven-gables/",
+      "published_at": "Sun, 12 Oct 2025 08:00:00 +0000",
+      "bullets": [
+        "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
+        "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house",
+        "• The encroachment of a warming sea and global warming-fueled storms are no longer distant threats, they are already reshaping Salem's waterfront "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
+          "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house"
+        ],
+        "hopeful_bullets": [
+          "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
+          "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house"
+        ],
+        "stakes_bullets": [
+          "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
+          "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house",
+          "• The encroachment of a warming sea and global warming-fueled storms are no longer distant threats, they are already reshaping Salem's waterfront "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "2c34dae764af"
     },
     {
       "id": "277ce2a47d5a",
@@ -11289,6 +11288,24 @@
       ]
     },
     {
+      "id": "2c34dae764af",
+      "topic": "change climate come gable",
+      "keywords": [
+        "change",
+        "climate",
+        "come",
+        "gable",
+        "house",
+        "seven"
+      ],
+      "item_ids": [
+        "fdbe1d4eb9a7"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "4f83d941d3d3",
       "topic": "authoritarian comeback epa fueled",
       "keywords": [
@@ -11445,24 +11462,6 @@
       ],
       "item_ids": [
         "a0c99c0c467e"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "fb25e1d58982",
-      "topic": "ahead electric hitting industry",
-      "keywords": [
-        "ahead",
-        "electric",
-        "hitting",
-        "industry",
-        "massive",
-        "vehicle"
-      ],
-      "item_ids": [
-        "3bebea2cd6e0"
       ],
       "outlets": [
         "Inside Climate News"
