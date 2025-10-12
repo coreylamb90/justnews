@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-12T09:54:39Z",
+  "generated_at": "2025-10-12T10:15:03Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1055,39 +1055,36 @@
       "cluster_id": "e0ac021e3e02"
     },
     {
-      "id": "8ed599fe270c",
-      "title": "The government has long researched high school experiences. Then DOGE cut the effort",
+      "id": "9fb2d8e40a3c",
+      "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
       "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5521282/trump-research-education-survey-high-school-students-doge",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
       "published_at": "Tue, 07 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• The U.S",
-        "• Department of Government Efficiency has been collecting high school data for 50 years",
-        "• The surveys started in 1972, and have gathered data on more than 100,000 high school students",
-        "• They were worth tens of thousands of dollars of research "
+        "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+        "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes",
+        "• The rest of the reservation is connected to the grid, but the power is unreliable "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.963
+        "label": "negative",
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
         ],
         "hopeful_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity",
+          "• The Hopi were approved for a $25 million grant to install solar panels and battery storage for around 600 homes"
         ],
         "stakes_bullets": [
-          "• The U.S",
-          "• Department of Government Efficiency has been collecting high school data for 50 years",
-          "• The surveys started in 1972, and have gathered data on more than 100,000 high school students"
+          "• A Hopi tribe in Arizona planned to connect 600 homes to electricity"
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "4256f8991aff"
+      "read_minutes": 6,
+      "cluster_id": "6760911b272d"
     },
     {
       "id": "50bf31ec34aa",
@@ -2550,6 +2547,40 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "cd49c0f97b3f",
+      "title": "Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 12 Oct 2025 09:31:53 GMT",
+      "bullets": [
+        "• Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
+        "• Taliban government confirms it attacked Pakistani troops in multiple mountainous locations",
+        "• Pakistan's interior minister said the attacks were \"unprovoked\" and civilians were fired at",
+        "• Pakistan has accused Kabul of harbouring terrorists who target Pakistan on its soil "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
+          "• Taliban government confirms it attacked Pakistani troops in multiple mountainous locations"
+        ],
+        "hopeful_bullets": [
+          "• Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
+          "• Taliban government confirms it attacked Pakistani troops in multiple mountainous locations"
+        ],
+        "stakes_bullets": [
+          "• Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
+          "• Taliban government confirms it attacked Pakistani troops in multiple mountainous locations"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "34ce9f96233f"
+    },
+    {
       "id": "97b7ebd4de5b",
       "title": "A Short-Lived Win in a Never-Ending Fight Over Forever Chemicals",
       "outlet": "Inside Climate News",
@@ -3443,39 +3474,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "48a51a2af10a"
-    },
-    {
-      "id": "cd49c0f97b3f",
-      "title": "Afghan Taliban confirm 'retaliatory' border attacks on Pakistan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 12 Oct 2025 01:23:02 GMT",
-      "bullets": [
-        "• Afghan Taliban confirm 'retaliatory' border attacks on Pakistan",
-        "• Taliban government claims Pakistan violated Afghan airspace and bombed a market",
-        "• Pakistan's Interior Minister Mohsin Naqvi said the attacks were \"unprovoked\" Pakistan has accused Kabul of harbouring terrorists on its soil "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Afghan Taliban confirm 'retaliatory' border attacks on Pakistan",
-          "• Taliban government claims Pakistan violated Afghan airspace and bombed a market"
-        ],
-        "hopeful_bullets": [
-          "• Afghan Taliban confirm 'retaliatory' border attacks on Pakistan",
-          "• Taliban government claims Pakistan violated Afghan airspace and bombed a market"
-        ],
-        "stakes_bullets": [
-          "• Afghan Taliban confirm 'retaliatory' border attacks on Pakistan",
-          "• Taliban government claims Pakistan violated Afghan airspace and bombed a market"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "67b5ea9c9eb5"
     },
     {
       "id": "bf1d6fe92862",
@@ -9141,15 +9139,15 @@
       ]
     },
     {
-      "id": "67b5ea9c9eb5",
-      "topic": "afghan attack border confirm",
+      "id": "34ce9f96233f",
+      "topic": "afghan killed pakistani retaliatory",
       "keywords": [
         "afghan",
-        "attack",
-        "border",
-        "confirm",
+        "killed",
+        "pakistani",
         "retaliatory",
-        "taliban"
+        "taliban",
+        "troop"
       ],
       "item_ids": [
         "cd49c0f97b3f"
@@ -10830,18 +10828,18 @@
       ]
     },
     {
-      "id": "4256f8991aff",
-      "topic": "experience government high long",
+      "id": "6760911b272d",
+      "topic": "600 arizona connect home",
       "keywords": [
-        "experience",
-        "government",
-        "high",
-        "long",
-        "researched",
-        "school"
+        "600",
+        "arizona",
+        "connect",
+        "home",
+        "planned",
+        "tribe"
       ],
       "item_ids": [
-        "8ed599fe270c"
+        "9fb2d8e40a3c"
       ],
       "outlets": [
         "NPR Topics: Science"
