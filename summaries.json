@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T22:55:27Z",
+  "generated_at": "2025-10-13T23:06:55Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -3197,6 +3197,40 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "03933b0cea2d",
+      "title": "Before Aliens 3, James Cameron's Masterpiece Got a Sequel Story Centered on Adult Newt",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/james-cameron-aliens-sequel-dark-horse-comic/",
+      "published_at": "Mon, 13 Oct 2025 23:00:12 GMT",
+      "bullets": [
+        "• Dark Horse Comics launched its six-issue Aliens comic series in 1988",
+        "• The comic continued the story of Corporal Dwayne Hicks and Rebecca Jordan, aka Newt",
+        "• The story follows Hicks, Newt, and a squadron of Colonial Marines journeying to the Xenomorph home world "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dark Horse Comics launched its six-issue Aliens comic series in 1988",
+          "• The comic continued the story of Corporal Dwayne Hicks and Rebecca Jordan, aka Newt"
+        ],
+        "hopeful_bullets": [
+          "• Dark Horse Comics launched its six-issue Aliens comic series in 1988",
+          "• The comic continued the story of Corporal Dwayne Hicks and Rebecca Jordan, aka Newt"
+        ],
+        "stakes_bullets": [
+          "• Dark Horse Comics launched its six-issue Aliens comic series in 1988",
+          "• The comic continued the story of Corporal Dwayne Hicks and Rebecca Jordan, aka Newt",
+          "• The story follows Hicks, Newt, and a squadron of Colonial Marines journeying to the Xenomorph home world "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "4dadf08864ea"
+    },
+    {
       "id": "49212534efea",
       "title": "Michael J. Fox Reflects on His Grueling Double Life Filming Family Ties and Back to the Future",
       "outlet": "CBR",
@@ -3452,6 +3486,39 @@
       "cluster_id": "c879922be58c"
     },
     {
+      "id": "dcfe323b2a2e",
+      "title": "Hackers can steal 2FA codes and private messages from Android phones",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+      "published_at": "Mon, 13 Oct 2025 21:36:35 +0000",
+      "bullets": [
+        "• New attack can covertly steal 2FA codes, location timelines, private data in less than 30 seconds",
+        "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet",
+        "• The malicious app, which requires no system permissions, can then effectively read data that any other installed app displays on the screen "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New attack can covertly steal 2FA codes, location timelines, private data in less than 30 seconds",
+          "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet"
+        ],
+        "hopeful_bullets": [
+          "• New attack can covertly steal 2FA codes, location timelines, private data in less than 30 seconds",
+          "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet"
+        ],
+        "stakes_bullets": [
+          "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet",
+          "• The malicious app, which requires no system permissions, can then effectively read data that any other installed app displays on the screen "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8cc69f67921d"
+    },
+    {
       "id": "57ea3495e506",
       "title": "Frank Grillo Blasts DCU Fans Over Peacemaker Finale Hate",
       "outlet": "CBR",
@@ -3650,40 +3717,6 @@
       "cluster_id": "2b7226db9120"
     },
     {
-      "id": "9b5b772e2a90",
-      "title": "The Most Anticipated Anime Comeback of the Decade Isn't Pulling Punches",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gintama-spin-off-mr-ginpachis-zany-class-episode-2-review/",
-      "published_at": "Mon, 13 Oct 2025 20:59:28 GMT",
-      "bullets": [
-        "• Gintama: Mr",
-        "• Ginpachi's Zany Class Episode 2 features three sketches that are titled after weird platitudes",
-        "• Episode 2's first short — \"Changing Your Looks Won’t Change Who You Really Are\" — proves this the moment it starts "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gintama: Mr",
-          "• Ginpachi's Zany Class Episode 2 features three sketches that are titled after weird platitudes"
-        ],
-        "hopeful_bullets": [
-          "• Gintama: Mr",
-          "• Ginpachi's Zany Class Episode 2 features three sketches that are titled after weird platitudes"
-        ],
-        "stakes_bullets": [
-          "• Gintama: Mr",
-          "• Ginpachi's Zany Class Episode 2 features three sketches that are titled after weird platitudes",
-          "• Episode 2's first short — \"Changing Your Looks Won’t Change Who You Really Are\" — proves this the moment it starts "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "d13370277eea"
-    },
-    {
       "id": "f64bef8a7f07",
       "title": "Israeli hostages and Palestinian detainees freed as Trump hails 'historic dawn' in Middle East",
       "outlet": "BBC News",
@@ -3691,8 +3724,8 @@
       "published_at": "Mon, 13 Oct 2025 20:57:45 GMT",
       "bullets": [
         "• US President Donald Trump hails 'historic dawn' in Middle East",
-        "• Israeli hostages and Palestinian detainees freed as first phase of peace deal to end two years of war in Gaza",
-        "• Families of the Israeli hostages cried with happiness as they embraced their freed loved ones "
+        "• Israeli hostages and Palestinian detainees freed as part of US-brokered plan to end Gaza war",
+        "• Families of the Israeli hostages screamed and cried with happiness as they embraced their freed loved ones "
       ],
       "category": "World",
       "sentiment": {
@@ -3702,16 +3735,14 @@
       "moods": {
         "brief_bullets": [
           "• US President Donald Trump hails 'historic dawn' in Middle East",
-          "• Israeli hostages and Palestinian detainees freed as first phase of peace deal to end two years of war in Gaza"
+          "• Israeli hostages and Palestinian detainees freed as part of US-brokered plan to end Gaza war"
         ],
         "hopeful_bullets": [
           "• US President Donald Trump hails 'historic dawn' in Middle East",
-          "• Israeli hostages and Palestinian detainees freed as first phase of peace deal to end two years of war in Gaza"
+          "• Israeli hostages and Palestinian detainees freed as part of US-brokered plan to end Gaza war"
         ],
         "stakes_bullets": [
-          "• US President Donald Trump hails 'historic dawn' in Middle East",
-          "• Israeli hostages and Palestinian detainees freed as first phase of peace deal to end two years of war in Gaza",
-          "• Families of the Israeli hostages cried with happiness as they embraced their freed loved ones "
+          "• Israeli hostages and Palestinian detainees freed as part of US-brokered plan to end Gaza war"
         ]
       },
       "read_minutes": 4,
@@ -5652,39 +5683,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3138b10dc687"
-    },
-    {
-      "id": "7f4e9af42eac",
-      "title": "Keep losing your key fob? Ford’s new “Truckle” is the answer.",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/10/keep-losing-your-key-fob-fords-new-truckle-is-the-answer/",
-      "published_at": "Mon, 13 Oct 2025 14:57:01 +0000",
-      "bullets": [
-        "• Ford and A Cut Above Buckles debuted the \"Truckle\" belt buckle at the Texas State Fair",
-        "• It's a silver and bronze buckle with a hand-engraved F-150 on the bump in the front",
-        "• The limited edition truck key fob costs $200 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ford and A Cut Above Buckles debuted the \"Truckle\" belt buckle at the Texas State Fair",
-          "• It's a silver and bronze buckle with a hand-engraved F-150 on the bump in the front"
-        ],
-        "hopeful_bullets": [
-          "• Ford and A Cut Above Buckles debuted the \"Truckle\" belt buckle at the Texas State Fair",
-          "• It's a silver and bronze buckle with a hand-engraved F-150 on the bump in the front"
-        ],
-        "stakes_bullets": [
-          "• Ford and A Cut Above Buckles debuted the \"Truckle\" belt buckle at the Texas State Fair",
-          "• The limited edition truck key fob costs $200 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "73ccd6ab2161"
     },
     {
       "id": "dd40c581cf61",
@@ -10352,6 +10350,24 @@
       ]
     },
     {
+      "id": "8cc69f67921d",
+      "topic": "2fa code hacker message",
+      "keywords": [
+        "2fa",
+        "code",
+        "hacker",
+        "message",
+        "private",
+        "steal"
+      ],
+      "item_ids": [
+        "dcfe323b2a2e"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "6f1cbf37202a",
       "topic": "150 kids measle outbreak",
       "keywords": [
@@ -10508,24 +10524,6 @@
       ],
       "item_ids": [
         "a9d205fdbe83"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "73ccd6ab2161",
-      "topic": "fob ford keep key",
-      "keywords": [
-        "fob",
-        "ford",
-        "keep",
-        "key",
-        "losing",
-        "truckle"
-      ],
-      "item_ids": [
-        "7f4e9af42eac"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -13082,6 +13080,24 @@
       ]
     },
     {
+      "id": "4dadf08864ea",
+      "topic": "alien before cameron got",
+      "keywords": [
+        "alien",
+        "before",
+        "cameron",
+        "got",
+        "jame",
+        "masterpiece"
+      ],
+      "item_ids": [
+        "03933b0cea2d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "8325d643679b",
       "topic": "double fox grueling life",
       "keywords": [
@@ -13238,24 +13254,6 @@
       ],
       "item_ids": [
         "68fe2a7a921a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d13370277eea",
-      "topic": "anime anticipated comeback decade",
-      "keywords": [
-        "anime",
-        "anticipated",
-        "comeback",
-        "decade",
-        "isn",
-        "most"
-      ],
-      "item_ids": [
-        "9b5b772e2a90"
       ],
       "outlets": [
         "CBR"
