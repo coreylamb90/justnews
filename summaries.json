@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T11:01:50Z",
+  "generated_at": "2025-10-13T11:20:00Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -3502,7 +3502,7 @@
     {
       "id": "ddea8ca79a52",
       "title": "\"It feels terrible.\" Federal worker's family tightens their belts as shutdown drags on",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/11/nx-s1-5565232/government-shutdown-federal-workers-furlough-finances-bills",
       "published_at": "Sun, 12 Oct 2025 09:07:14 -0400",
       "bullets": [
@@ -3510,7 +3510,7 @@
         "• Stephanie Rogers and her two daughters moved in with her mother about half an hour south of Denver",
         "• \"When you added up the numbers between both of our family households, it was going to be something that we could not keep going long term,\" she says "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.998
@@ -5155,6 +5155,40 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "208884cb9173",
+      "title": "JPMorgan Chase says it will invest $10 billion into industries critical for national security",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html",
+      "published_at": "Mon, 13 Oct 2025 10:36:18 GMT",
+      "bullets": [
+        "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
+        "• interests",
+        "• The bank said it would invest up to $10 billion into companies in four areas: defense, aerospace, \"frontier\" technologies",
+        "• JPMorgan CEO Jamie Dimon says the move is aimed at national interests at a time of heightened tensions with China "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.951
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
+          "• interests"
+        ],
+        "hopeful_bullets": [
+          "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
+          "• interests"
+        ],
+        "stakes_bullets": [
+          "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
+          "• The bank said it would invest up to $10 billion into companies in four areas: defense, aerospace, \"frontier\" technologies"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a19e106b8f9b"
+    },
+    {
       "id": "e51105a4df89",
       "title": "How to Make STEM Funny—and Go Viral Doing It",
       "outlet": "WIRED",
@@ -5186,40 +5220,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "e1cccd4490dc"
-    },
-    {
-      "id": "208884cb9173",
-      "title": "JPMorgan Chase says it will invest $10 billion into industries critical for national security",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html",
-      "published_at": "Mon, 13 Oct 2025 10:21:08 GMT",
-      "bullets": [
-        "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
-        "• interests",
-        "• The bank said it would invest up to $10 billion into companies in four areas: defense, aerospace, \"frontier\" technologies",
-        "• JPMorgan CEO Jamie Dimon says the move is aimed at national interests at a time of heightened tensions with China "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
-          "• interests"
-        ],
-        "hopeful_bullets": [
-          "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
-          "• interests"
-        ],
-        "stakes_bullets": [
-          "• JPMorgan Chase says it will finance or facilitate $1.5 trillion in funding for companies it considers crucial to U.S",
-          "• The bank said it would invest up to $10 billion into companies in four areas: defense, aerospace, \"frontier\" technologies"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a19e106b8f9b"
     },
     {
       "id": "b83f564118f3",
@@ -5843,6 +5843,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "4a66fd011a1f"
+    },
+    {
+      "id": "f2570079112c",
+      "title": "Highlighting Indigenous stories from across NPR's network",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/13/g-s1-93035/up-first-newsletter-indigenous-peoples-day",
+      "published_at": "Mon, 13 Oct 2025 06:30:00 -0400",
+      "bullets": [
+        "• For Indigenous Peoples' Day, the Up First newsletter is recognizing the work NPR's member stations do to uplift Indigenous voices",
+        "• NPR network member stations are independent and locally operated",
+        "• They determine their own schedules and base their reporting on the needs and interests of their communities "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• For Indigenous Peoples' Day, the Up First newsletter is recognizing the work NPR's member stations do to uplift Indigenous voices",
+          "• NPR network member stations are independent and locally operated"
+        ],
+        "hopeful_bullets": [
+          "• For Indigenous Peoples' Day, the Up First newsletter is recognizing the work NPR's member stations do to uplift Indigenous voices",
+          "• NPR network member stations are independent and locally operated"
+        ],
+        "stakes_bullets": [
+          "• For Indigenous Peoples' Day, the Up First newsletter is recognizing the work NPR's member stations do to uplift Indigenous voices",
+          "• NPR network member stations are independent and locally operated",
+          "• They determine their own schedules and base their reporting on the needs and interests of their communities "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "ea64ba453bda"
     },
     {
       "id": "1ac109622a7f",
@@ -8066,28 +8100,28 @@
       "url": "https://www.theguardian.com/world/2025/oct/10/peru-congress-vote-oust-president-dina-boluarte-gang-violence",
       "published_at": "Fri, 10 Oct 2025 06:51:03 GMT",
       "bullets": [
-        "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing after a majority of lawmakers voted to initiate impeachment proceedings",
-        "• She had already faced down several attempts to remove her from office",
-        "• The latest effort cited her ‘permanent moral incapacity’ to carry out her duties "
+        "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing",
+        "• The president's impeachment has been approved by 118 lawmakers, including some who were once loyal to her",
+        "• Her term has been marked by protests and accusations of failing to stem crime "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.98
       },
       "moods": {
         "brief_bullets": [
-          "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing after a majority of lawmakers voted to initiate impeachment proceedings",
-          "• She had already faced down several attempts to remove her from office"
+          "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing",
+          "• The president's impeachment has been approved by 118 lawmakers, including some who were once loyal to her"
         ],
         "hopeful_bullets": [
-          "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing after a majority of lawmakers voted to initiate impeachment proceedings",
-          "• She had already faced down several attempts to remove her from office"
+          "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing",
+          "• The president's impeachment has been approved by 118 lawmakers, including some who were once loyal to her"
         ],
         "stakes_bullets": [
-          "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing after a majority of lawmakers voted to initiate impeachment proceedings",
-          "• She had already faced down several attempts to remove her from office",
-          "• The latest effort cited her ‘permanent moral incapacity’ to carry out her duties "
+          "• Dina Boluarte refused to appear before Congress on Friday for an overnight hearing",
+          "• The president's impeachment has been approved by 118 lawmakers, including some who were once loyal to her",
+          "• Her term has been marked by protests and accusations of failing to stem crime "
         ]
       },
       "read_minutes": 1,
@@ -9649,6 +9683,24 @@
       ]
     },
     {
+      "id": "ea64ba453bda",
+      "topic": "acros highlighting indigenou network",
+      "keywords": [
+        "acros",
+        "highlighting",
+        "indigenou",
+        "network",
+        "npr",
+        "storie"
+      ],
+      "item_ids": [
+        "f2570079112c"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "36e57c461e39",
       "topic": "companie irrelevant late media",
       "keywords": [
@@ -9811,24 +9863,6 @@
       ]
     },
     {
-      "id": "e0d201b3b023",
-      "topic": "family federal feel terrible",
-      "keywords": [
-        "family",
-        "federal",
-        "feel",
-        "terrible",
-        "tighten",
-        "worker"
-      ],
-      "item_ids": [
-        "ddea8ca79a52"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "a19e106b8f9b",
       "topic": "billion chase critical industrie",
       "keywords": [
@@ -9919,24 +9953,6 @@
       ]
     },
     {
-      "id": "c073b1cc824f",
-      "topic": "first hama hostage israeli",
-      "keywords": [
-        "first",
-        "hama",
-        "hostage",
-        "israeli",
-        "release",
-        "under"
-      ],
-      "item_ids": [
-        "9ed87ace5470"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "e554bcbf6e1d",
       "topic": "anxiety lego mri reducing",
       "keywords": [
@@ -9967,6 +9983,24 @@
       ],
       "item_ids": [
         "e75db49f2bcb"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c073b1cc824f",
+      "topic": "first hama hostage israeli",
+      "keywords": [
+        "first",
+        "hama",
+        "hostage",
+        "israeli",
+        "release",
+        "under"
+      ],
+      "item_ids": [
+        "9ed87ace5470"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10880,6 +10914,24 @@
       ],
       "outlets": [
         "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "e0d201b3b023",
+      "topic": "family federal feel terrible",
+      "keywords": [
+        "family",
+        "federal",
+        "feel",
+        "terrible",
+        "tighten",
+        "worker"
+      ],
+      "item_ids": [
+        "ddea8ca79a52"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
