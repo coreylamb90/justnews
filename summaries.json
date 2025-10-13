@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T05:57:18Z",
+  "generated_at": "2025-10-13T06:16:32Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -4493,39 +4493,6 @@
       "cluster_id": "ac84cce4bd3b"
     },
     {
-      "id": "ed67d5a203ea",
-      "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
-      "published_at": "Sat, 11 Oct 2025 22:55:57 GMT",
-      "bullets": [
-        "• AI startup OpenAI is privately held",
-        "• Its ability and willingness to spend other people's money is unrivaled",
-        "• Its flagship ChatGPT chatbot has reached 800 million weekly users",
-        "• The AI lab is investing up and down the stack from data center development to consumer applications "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AI startup OpenAI is privately held",
-          "• Its ability and willingness to spend other people's money is unrivaled"
-        ],
-        "hopeful_bullets": [
-          "• AI startup OpenAI is privately held",
-          "• Its ability and willingness to spend other people's money is unrivaled"
-        ],
-        "stakes_bullets": [
-          "• Its ability and willingness to spend other people's money is unrivaled"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "27679d593238"
-    },
-    {
       "id": "4724d9cafe58",
       "title": "‘Mortal Kombat III’ – Warner Bros. Already Developing Third Installment in Movie Franchise",
       "outlet": "Bloody Disgusting!",
@@ -5812,6 +5779,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "9c2a1e3cb2fd"
+    },
+    {
+      "id": "b64afd77001f",
+      "title": "European markets head for mostly higher open, brushing off new U.S.-China trade spat",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/european-markets-on-mon-oct-13-stoxx-600-dax-cac-ftse.html",
+      "published_at": "Mon, 13 Oct 2025 05:20:29 GMT",
+      "bullets": [
+        "• FTSE, Germany's DAX, France's CAC 40 up 0.26% ahead of the new trading week",
+        "• European markets expected to open mostly higher as U.S",
+        "• trade tensions rise",
+        "• Asia-Pacific markets fell overnight as investors kept an eye out for any fallout from renewed trade tensions",
+        "• China says \"we are not afraid of\" a trade war with the United States "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• FTSE, Germany's DAX, France's CAC 40 up 0.26% ahead of the new trading week",
+          "• European markets expected to open mostly higher as U.S"
+        ],
+        "hopeful_bullets": [
+          "• FTSE, Germany's DAX, France's CAC 40 up 0.26% ahead of the new trading week",
+          "• European markets expected to open mostly higher as U.S"
+        ],
+        "stakes_bullets": [
+          "• European markets expected to open mostly higher as U.S"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4541939015c6"
     },
     {
       "id": "0dcf3b50a92a",
@@ -9884,24 +9885,6 @@
       ]
     },
     {
-      "id": "cbef3f5f7a1d",
-      "topic": "china face market rally",
-      "keywords": [
-        "china",
-        "face",
-        "market",
-        "rally",
-        "test",
-        "trade"
-      ],
-      "item_ids": [
-        "0dcf3b50a92a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "b73b894660c5",
       "topic": "career criticism julia learned",
       "keywords": [
@@ -9914,6 +9897,42 @@
       ],
       "item_ids": [
         "d3e351b7ae41"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4541939015c6",
+      "topic": "european head higher market",
+      "keywords": [
+        "european",
+        "head",
+        "higher",
+        "market",
+        "mostly",
+        "open"
+      ],
+      "item_ids": [
+        "b64afd77001f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "cbef3f5f7a1d",
+      "topic": "china face market rally",
+      "keywords": [
+        "china",
+        "face",
+        "market",
+        "rally",
+        "test",
+        "trade"
+      ],
+      "item_ids": [
+        "0dcf3b50a92a"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9968,24 +9987,6 @@
       ],
       "item_ids": [
         "f66909ac84ef"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "27679d593238",
-      "topic": "anything dominance openai silicon",
-      "keywords": [
-        "anything",
-        "dominance",
-        "openai",
-        "silicon",
-        "unlike",
-        "valley"
-      ],
-      "item_ids": [
-        "ed67d5a203ea"
       ],
       "outlets": [
         "US Top News and Analysis"
