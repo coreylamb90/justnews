@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T19:52:27Z",
+  "generated_at": "2025-10-13T20:12:33Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -3498,6 +3498,38 @@
       "cluster_id": "3267803c30de"
     },
     {
+      "id": "37af49701868",
+      "title": "NASA unit JPL to lay off about 550 workers, citing restructure",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/nasa-jpl-layoffs.html",
+      "published_at": "Mon, 13 Oct 2025 19:28:35 GMT",
+      "bullets": [
+        "• The job cuts \"are not related to the current government shutdown,\" JPL director says",
+        "• JPL is a research and development lab funded by NASA and managed by the California Institute of Technology",
+        "• The restructuring \"is essential to securing JPL's future,\" he says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The job cuts \"are not related to the current government shutdown,\" JPL director says",
+          "• JPL is a research and development lab funded by NASA and managed by the California Institute of Technology"
+        ],
+        "hopeful_bullets": [
+          "• The job cuts \"are not related to the current government shutdown,\" JPL director says",
+          "• JPL is a research and development lab funded by NASA and managed by the California Institute of Technology"
+        ],
+        "stakes_bullets": [
+          "• The job cuts \"are not related to the current government shutdown,\" JPL director says"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fe252c79b52b"
+    },
+    {
       "id": "e061dded045d",
       "title": "Apple TV+ Drops 'Plus' From Its Name in New Brand Identity Shift",
       "outlet": "CBR",
@@ -3528,41 +3560,42 @@
           "• The news of the rebranding comes not long after Apple announced a price hike in August "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "e8fb38eea6d6"
     },
     {
-      "id": "37af49701868",
-      "title": "NASA unit JPL to lay off about 550 workers, citing restructure",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/nasa-jpl-layoffs.html",
-      "published_at": "Mon, 13 Oct 2025 19:20:50 GMT",
+      "id": "7dd008abfb5d",
+      "title": "'Your appointment's rescheduled': Shutdown cancels US citizenship ceremonies",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgywnjkrlqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 13 Oct 2025 19:18:51 GMT",
       "bullets": [
-        "• JPL will lay off more than 10% of its workforce",
-        "• The move is not related to the current government shutdown, JPL says",
-        "• JPL is a federal agency funded by the federal government",
-        "• The agency says the move is necessary to ensure the agency's future "
+        "• US Citizenship and Immigration Services (USCIS) website was temporarily down",
+        "• When it came back online, I saw my appointment had been cancelled days earlier",
+        "• \"We regret any inconvenience this may cause,\" the notice said",
+        "• One woman in a hijab quietly asked if I had been turned away too, worried it might be because of my clothing "
       ],
-      "category": "Business",
+      "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• JPL will lay off more than 10% of its workforce",
-          "• The move is not related to the current government shutdown, JPL says"
+          "• US Citizenship and Immigration Services (USCIS) website was temporarily down",
+          "• When it came back online, I saw my appointment had been cancelled days earlier"
         ],
         "hopeful_bullets": [
-          "• JPL will lay off more than 10% of its workforce",
-          "• The move is not related to the current government shutdown, JPL says"
+          "• US Citizenship and Immigration Services (USCIS) website was temporarily down",
+          "• When it came back online, I saw my appointment had been cancelled days earlier"
         ],
         "stakes_bullets": [
-          "• JPL will lay off more than 10% of its workforce"
+          "• \"We regret any inconvenience this may cause,\" the notice said",
+          "• One woman in a hijab quietly asked if I had been turned away too, worried it might be because of my clothing "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "fe252c79b52b"
+      "read_minutes": 2,
+      "cluster_id": "3bc3c8fcd68f"
     },
     {
       "id": "0b6a5cdaabd4",
@@ -5975,39 +6008,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "0011d6857008"
-    },
-    {
-      "id": "c276e31d211e",
-      "title": "Cameroon awaits presidential election result",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj97lvp2xjgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 13 Oct 2025 12:26:49 GMT",
-      "bullets": [
-        "• At 92, Paul Biya is the world's oldest head of state",
-        "• At 92 he is seeking to extend his 43 years in power",
-        "• If he wins, it will be his eighth consecutive term in office",
-        "• The final result should be known within 15 days of the vote "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.943
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At 92, Paul Biya is the world's oldest head of state",
-          "• At 92 he is seeking to extend his 43 years in power"
-        ],
-        "hopeful_bullets": [
-          "• If he wins, it will be his eighth consecutive term in office"
-        ],
-        "stakes_bullets": [
-          "• If he wins, it will be his eighth consecutive term in office",
-          "• The final result should be known within 15 days of the vote "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4bcaf3eb0d05"
     },
     {
       "id": "5b4fb1023d29",
@@ -9220,18 +9220,18 @@
       ]
     },
     {
-      "id": "9496400682dc",
-      "topic": "flooded mexico missing rescuer",
+      "id": "3bc3c8fcd68f",
+      "topic": "appointment cancel ceremonie citizenship",
       "keywords": [
-        "flooded",
-        "mexico",
-        "missing",
-        "rescuer",
-        "search",
-        "town"
+        "appointment",
+        "cancel",
+        "ceremonie",
+        "citizenship",
+        "rescheduled",
+        "shutdown"
       ],
       "item_ids": [
-        "bf12294833f7"
+        "7dd008abfb5d"
       ],
       "outlets": [
         "BBC News"
@@ -9250,6 +9250,24 @@
       ],
       "item_ids": [
         "a6f71c18acf7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "9496400682dc",
+      "topic": "flooded mexico missing rescuer",
+      "keywords": [
+        "flooded",
+        "mexico",
+        "missing",
+        "rescuer",
+        "search",
+        "town"
+      ],
+      "item_ids": [
+        "bf12294833f7"
       ],
       "outlets": [
         "BBC News"
@@ -9303,23 +9321,6 @@
       ],
       "item_ids": [
         "d33bb8b87862"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "4bcaf3eb0d05",
-      "topic": "await cameroon election presidential",
-      "keywords": [
-        "await",
-        "cameroon",
-        "election",
-        "presidential",
-        "result"
-      ],
-      "item_ids": [
-        "c276e31d211e"
       ],
       "outlets": [
         "BBC News"
