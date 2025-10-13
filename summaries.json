@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T07:59:24Z",
+  "generated_at": "2025-10-13T08:15:08Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -3398,6 +3398,37 @@
       "cluster_id": "8e9f3f9d5f7c"
     },
     {
+      "id": "10f969918d70",
+      "title": "Maga figures back Bukele’s call for Trump to crack down on US judges",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/12/trump-bukele-judges",
+      "published_at": "Sun, 12 Oct 2025 12:00:53 GMT",
+      "bullets": [
+        "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
+        "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US",
+        "• His call for Trump to take action against the US judiciary also received support from Maga figures "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.927
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
+          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
+        ],
+        "hopeful_bullets": [
+          "• His call for Trump to take action against the US judiciary also received support from Maga figures "
+        ],
+        "stakes_bullets": [
+          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "19d228db5c3d"
+    },
+    {
       "id": "ea7b0690c96a",
       "title": "Doge-ish comes to Florida: a DeSantis loyalist is going after ‘waste’ in Democratic cities",
       "outlet": "US news | The Guardian",
@@ -3428,37 +3459,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "061ca4efaa13"
-    },
-    {
-      "id": "10f969918d70",
-      "title": "Maga figures back Bukele’s call for Trump to crack down on US judges",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/12/trump-bukele-judges",
-      "published_at": "Sun, 12 Oct 2025 12:00:53 GMT",
-      "bullets": [
-        "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
-        "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US",
-        "• His call for Trump to take action against the US judiciary also received support from Maga figures "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.927
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
-          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
-        ],
-        "hopeful_bullets": [
-          "• His call for Trump to take action against the US judiciary also received support from Maga figures "
-        ],
-        "stakes_bullets": [
-          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "19d228db5c3d"
     },
     {
       "id": "0e1b611d6ee8",
@@ -5713,6 +5713,39 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "78f6c5608185",
+      "title": "Big Oil forced to confront some tough choices as 'monster profits' fade into memory",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/big-oil-to-confront-tough-choices-as-mega-profits-fade-into-memory.html",
+      "published_at": "Mon, 13 Oct 2025 07:47:40 GMT",
+      "bullets": [
+        "• U.S",
+        "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
+        "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn"
+        ],
+        "hopeful_bullets": [
+          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
+          "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
+        ],
+        "stakes_bullets": [
+          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
+          "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d1467f48ee18"
+    },
+    {
       "id": "c6ea3f65ef76",
       "title": "Watch Dua Lipa Duet With Green Day’s Billie Joe Armstrong at San Francisco Show",
       "outlet": "Music News",
@@ -5742,6 +5775,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "4cdbac799dbf"
+    },
+    {
+      "id": "0c1f74c246fa",
+      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia in 'highly exceptional' move",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+      "published_at": "Mon, 13 Oct 2025 07:40:52 GMT",
+      "bullets": [
+        "• The Chinese government says it is prepared to meet the needs of the world's largest chip manufacturer",
+        "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day",
+        "• The company says the Chinese government is ready to make sure that the country is prepared for the best possible possible "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Chinese government says it is prepared to meet the needs of the world's largest chip manufacturer",
+          "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day"
+        ],
+        "hopeful_bullets": [
+          "• The Chinese government says it is prepared to meet the needs of the world's largest chip manufacturer",
+          "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day"
+        ],
+        "stakes_bullets": [
+          "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c4e60b6d371e"
     },
     {
       "id": "9ed87ace5470",
@@ -5844,38 +5909,6 @@
       "cluster_id": "fb49a4c81a6d"
     },
     {
-      "id": "0c1f74c246fa",
-      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia in 'highly exceptional' move",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-      "published_at": "Mon, 13 Oct 2025 06:14:22 GMT",
-      "bullets": [
-        "• The Chinese government says it is prepared to meet the needs of the world's largest chip manufacturer",
-        "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day",
-        "• The company says the Chinese government is ready to make sure that the country is prepared for the best possible possible "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Chinese government says it is prepared to meet the needs of the world's largest chip manufacturer",
-          "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day"
-        ],
-        "hopeful_bullets": [
-          "• The Chinese government says it is prepared to meet the needs of the world's largest chip manufacturer",
-          "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day"
-        ],
-        "stakes_bullets": [
-          "• The Chinese company says it will be prepared to make the necessary preparations for the public release of its products in advance of Christmas Day"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c4e60b6d371e"
-    },
-    {
       "id": "0dcf3b50a92a",
       "title": "China's market rally faces test as U.S. trade rift flare: 'much more difficult couple of weeks now'",
       "outlet": "US Top News and Analysis",
@@ -5905,39 +5938,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "cbef3f5f7a1d"
-    },
-    {
-      "id": "78f6c5608185",
-      "title": "Big Oil forced to confront some tough choices as 'monster profits' fade into memory",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/big-oil-to-confront-tough-choices-as-mega-profits-fade-into-memory.html",
-      "published_at": "Mon, 13 Oct 2025 05:12:02 GMT",
-      "bullets": [
-        "• U.S",
-        "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
-        "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn"
-        ],
-        "hopeful_bullets": [
-          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
-          "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
-        ],
-        "stakes_bullets": [
-          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
-          "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "d1467f48ee18"
     },
     {
       "id": "f71f82773da0",
@@ -6263,7 +6263,7 @@
           "• Tomahawks have a range of 2,500 km (1,500 miles) which would put Moscow within reach for Ukraine"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "28b400f08174"
     },
     {
@@ -9574,24 +9574,6 @@
       ]
     },
     {
-      "id": "061ca4efaa13",
-      "topic": "come desanti doge florida",
-      "keywords": [
-        "come",
-        "desanti",
-        "doge",
-        "florida",
-        "ish",
-        "loyalist"
-      ],
-      "item_ids": [
-        "ea7b0690c96a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "19d228db5c3d",
       "topic": "back bukele call figure",
       "keywords": [
@@ -9604,6 +9586,24 @@
       ],
       "item_ids": [
         "10f969918d70"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "061ca4efaa13",
+      "topic": "come desanti doge florida",
+      "keywords": [
+        "come",
+        "desanti",
+        "doge",
+        "florida",
+        "ish",
+        "loyalist"
+      ],
+      "item_ids": [
+        "ea7b0690c96a"
       ],
       "outlets": [
         "US news | The Guardian"
