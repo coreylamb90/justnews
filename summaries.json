@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T11:53:52Z",
+  "generated_at": "2025-10-13T12:13:18Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -3265,40 +3265,6 @@
       "cluster_id": "7ded9b85c9f2"
     },
     {
-      "id": "e75db49f2bcb",
-      "title": "Baby boomers still love their department stores. Here’s what they know that Gen Zers don’t",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/12/department-store-perks-rival-some-online-retailers.html",
-      "published_at": "Sun, 12 Oct 2025 11:30:01 GMT",
-      "bullets": [
-        "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-        "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says",
-        "• Social media plays a big role in how younger consumers make purchases, he says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-          "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says"
-        ],
-        "hopeful_bullets": [
-          "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-          "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says"
-        ],
-        "stakes_bullets": [
-          "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-          "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says",
-          "• Social media plays a big role in how younger consumers make purchases, he says "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5eea15d539ca"
-    },
-    {
       "id": "86a7ed92eb51",
       "title": "A New Algorithm Makes It Faster to Find the Shortest Paths",
       "outlet": "WIRED",
@@ -5053,6 +5019,73 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "d9380c1b705b",
+      "title": "Even Before Season 2, X-Men '97 Receives a Huge Blast of Exciting News",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/x-men-97-season-3-confirmed/",
+      "published_at": "Mon, 13 Oct 2025 12:00:12 GMT",
+      "bullets": [
+        "• The animated series has just been renewed up through Season 3",
+        "• The news was announced during New York Comic Con",
+        "• X-Men '97 premiered in 2024 and quickly won over longtime fans and newcomers alike",
+        "• The series brought back classic voice actors, including Alison Sealy-Smith "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The animated series has just been renewed up through Season 3",
+          "• The news was announced during New York Comic Con"
+        ],
+        "hopeful_bullets": [
+          "• The animated series has just been renewed up through Season 3",
+          "• The news was announced during New York Comic Con"
+        ],
+        "stakes_bullets": [
+          "• The animated series has just been renewed up through Season 3",
+          "• The news was announced during New York Comic Con",
+          "• X-Men '97 premiered in 2024 and quickly won over longtime fans and newcomers alike"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7563c6d66dff"
+    },
+    {
+      "id": "f71f82773da0",
+      "title": "China accuses US of 'double standards' over tariff threat",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 13 Oct 2025 11:39:40 GMT",
+      "bullets": [
+        "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+        "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat",
+        "• Trump hit back at Beijing's move to tighten its rules for rare earths exports, accusing it of \"becoming very hostile\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
+        ],
+        "hopeful_bullets": [
+          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
+        ],
+        "stakes_bullets": [
+          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7d438d7faa33"
+    },
+    {
       "id": "5c7453b090f8",
       "title": "Experience the Unique Survival Horror Game ‘SHOCK’ with Its Steam Next Fest Demo [Trailer]",
       "outlet": "Bloody Disgusting!",
@@ -5083,6 +5116,74 @@
       },
       "read_minutes": 1,
       "cluster_id": "15ca06aba9d2"
+    },
+    {
+      "id": "3f1674a05e9f",
+      "title": "Despite government shutdown, Oct. 15 is still the tax extension deadline",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/irs-tax-extension-deadline-government-shutdown.html",
+      "published_at": "Mon, 13 Oct 2025 11:30:02 GMT",
+      "bullets": [
+        "• Despite the government shutdown, the Oct",
+        "• 15 federal tax extension deadline is fast approaching for many taxpayers",
+        "• The original tax deadline was April 15",
+        "• The process could be harder for some taxpayers after the IRS furloughed nearly half of its workforce "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Despite the government shutdown, the Oct",
+          "• 15 federal tax extension deadline is fast approaching for many taxpayers"
+        ],
+        "hopeful_bullets": [
+          "• Despite the government shutdown, the Oct",
+          "• 15 federal tax extension deadline is fast approaching for many taxpayers"
+        ],
+        "stakes_bullets": [
+          "• 15 federal tax extension deadline is fast approaching for many taxpayers",
+          "• The original tax deadline was April 15",
+          "• The process could be harder for some taxpayers after the IRS furloughed nearly half of its workforce "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "88c5afe5eace"
+    },
+    {
+      "id": "adfefa2dfb9c",
+      "title": "Trump might give Tomahawk missiles to Ukraine — could they be a game-changer in the war?",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/trump-might-give-ukraine-tomahawk-missiles-could-they-be-a-game-changer.html",
+      "published_at": "Mon, 13 Oct 2025 11:28:38 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump said Monday that he's considering sending Tomahawk missiles to Ukraine",
+        "• Trump said the missiles would provide \"a new step of aggression\" in its war with Russia",
+        "• He said he could use the supply of Tomahawks to pressure Russia to end the war "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump said Monday that he's considering sending Tomahawk missiles to Ukraine"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump said Monday that he's considering sending Tomahawk missiles to Ukraine"
+        ],
+        "stakes_bullets": [
+          "• He said he could use the supply of Tomahawks to pressure Russia to end the war "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f55d71158071"
     },
     {
       "id": "0cba880c97a8",
@@ -6144,38 +6245,6 @@
       "cluster_id": "13c4090bce20"
     },
     {
-      "id": "f71f82773da0",
-      "title": "China accuses US of 'double standards' over tariff threat",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 13 Oct 2025 04:57:37 GMT",
-      "bullets": [
-        "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
-        "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat",
-        "• Trump hit back at Beijing's move to tighten its rules for rare earths exports, accusing it of \"becoming very hostile\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
-          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
-        ],
-        "hopeful_bullets": [
-          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
-          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
-        ],
-        "stakes_bullets": [
-          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7d438d7faa33"
-    },
-    {
       "id": "7185e14b67c6",
       "title": "Sikh man with tumour held by US immigration denied medical care - family",
       "outlet": "BBC News",
@@ -6635,40 +6704,6 @@
       "cluster_id": "bb83c2900b16"
     },
     {
-      "id": "b037343df917",
-      "title": "This $3.3B Vampire Saga Is Quietly Dominating Streaming—& It Deserves a Big-Screen Comeback",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/twilight-streaming-resurgence-big-screen-comeback/",
-      "published_at": "Mon, 13 Oct 2025 02:50:12 GMT",
-      "bullets": [
-        "• Vampire movies have been around for more than a century",
-        "• The biggest vampire franchise of all time needs the opportunity to come back with a new installment",
-        "• The earliest vampire movies delved into the demonic and terrifying shape of these transformed beasts in stories including Nosferatu and Dracula "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Vampire movies have been around for more than a century",
-          "• The biggest vampire franchise of all time needs the opportunity to come back with a new installment"
-        ],
-        "hopeful_bullets": [
-          "• Vampire movies have been around for more than a century",
-          "• The biggest vampire franchise of all time needs the opportunity to come back with a new installment"
-        ],
-        "stakes_bullets": [
-          "• Vampire movies have been around for more than a century",
-          "• The biggest vampire franchise of all time needs the opportunity to come back with a new installment",
-          "• The earliest vampire movies delved into the demonic and terrifying shape of these transformed beasts in stories including Nosferatu and Dracula "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "59ceeef28b5a"
-    },
-    {
       "id": "d583aa7df4df",
       "title": "In a major milestone, Hamas releases final group of living Israeli hostages",
       "outlet": "NPR Topics: News",
@@ -6700,42 +6735,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "afcd232e25e9"
-    },
-    {
-      "id": "d57993750298",
-      "title": "Pam Bondi and DHS embrace SNL spoof of her and Kristi Noem: 'Loving Amy Poehler!'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/12/trump-bondi-snl-poehler-noem-fey.html",
-      "published_at": "Mon, 13 Oct 2025 02:14:40 GMT",
-      "bullets": [
-        "• \"Saturday Night Live\" spoofed Pam Bondi and DHS Secretary Kristi Noem",
-        "• \"Loving Amy Poehler!\" Bondi tweeted",
-        "• \"Thanks for the free advertisement @NBCSNL,\" DHS's X account said",
-        "• \"Get Criminals Out",
-        "• Make History"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• \"Saturday Night Live\" spoofed Pam Bondi and DHS Secretary Kristi Noem",
-          "• \"Loving Amy Poehler!\" Bondi tweeted"
-        ],
-        "hopeful_bullets": [
-          "• \"Saturday Night Live\" spoofed Pam Bondi and DHS Secretary Kristi Noem",
-          "• \"Loving Amy Poehler!\" Bondi tweeted"
-        ],
-        "stakes_bullets": [
-          "• \"Saturday Night Live\" spoofed Pam Bondi and DHS Secretary Kristi Noem",
-          "• \"Loving Amy Poehler!\" Bondi tweeted",
-          "• \"Thanks for the free advertisement @NBCSNL,\" DHS's X account said"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "16abd9e87ee0"
     },
     {
       "id": "68cce5a71a16",
@@ -9929,6 +9928,24 @@
       ]
     },
     {
+      "id": "f55d71158071",
+      "topic": "give might missile tomahawk",
+      "keywords": [
+        "give",
+        "might",
+        "missile",
+        "tomahawk",
+        "trump",
+        "ukraine"
+      ],
+      "item_ids": [
+        "adfefa2dfb9c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "d1467f48ee18",
       "topic": "big confront forced oil",
       "keywords": [
@@ -9983,18 +10000,18 @@
       ]
     },
     {
-      "id": "5eea15d539ca",
-      "topic": "baby boomer department love",
+      "id": "88c5afe5eace",
+      "topic": "despite government oct shutdown",
       "keywords": [
-        "baby",
-        "boomer",
-        "department",
-        "love",
+        "despite",
+        "government",
+        "oct",
+        "shutdown",
         "still",
-        "store"
+        "tax"
       ],
       "item_ids": [
-        "e75db49f2bcb"
+        "3f1674a05e9f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10013,24 +10030,6 @@
       ],
       "item_ids": [
         "9ed87ace5470"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "16abd9e87ee0",
-      "topic": "bondi dhs embrace pam",
-      "keywords": [
-        "bondi",
-        "dhs",
-        "embrace",
-        "pam",
-        "snl",
-        "spoof"
-      ],
-      "item_ids": [
-        "d57993750298"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13155,6 +13154,24 @@
       ]
     },
     {
+      "id": "7563c6d66dff",
+      "topic": "before even huge men",
+      "keywords": [
+        "before",
+        "even",
+        "huge",
+        "men",
+        "receive",
+        "season"
+      ],
+      "item_ids": [
+        "d9380c1b705b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5a69358c915d",
       "topic": "animation everything marvel revealed",
       "keywords": [
@@ -13310,24 +13327,6 @@
       ],
       "item_ids": [
         "13af447e50f9"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "59ceeef28b5a",
-      "topic": "deserve dominating quietly saga",
-      "keywords": [
-        "deserve",
-        "dominating",
-        "quietly",
-        "saga",
-        "streaming",
-        "vampire"
-      ],
-      "item_ids": [
-        "b037343df917"
       ],
       "outlets": [
         "CBR"
