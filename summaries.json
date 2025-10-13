@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T11:20:00Z",
+  "generated_at": "2025-10-13T11:53:52Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2441,7 +2441,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "6ca0b7007b52"
+      "cluster_id": "f56f733b816d"
     },
     {
       "id": "e6ee37be5162",
@@ -2972,38 +2972,6 @@
       "cluster_id": "1b7424daf490"
     },
     {
-      "id": "9f7a441fba26",
-      "title": "Vance says administration will keep fighting to send National Guard to Chicago",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/12/nx-s1-5572463/vance-administration-keep-fighting-send-national-guard-chicago",
-      "published_at": "Sun, 12 Oct 2025 14:14:28 -0400",
-      "bullets": [
-        "• Vice President JD Vance: \"We think that we have the authority to provide proper safety to our citizens all over the United States\" A federal appeals court in Illinois ruled Saturday that the government can keep National Guard members in Illinois but cannot deploy them for now",
-        "• The ruling is the latest in the administration's ongoing push to deploy National Guard troops to Democratic cities "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.54
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Vice President JD Vance: \"We think that we have the authority to provide proper safety to our citizens all over the United States\" A federal appeals court in Illinois ruled Saturday that the government can keep National Guard members in Illinois but cannot deploy them for now",
-          "• The ruling is the latest in the administration's ongoing push to deploy National Guard troops to Democratic cities "
-        ],
-        "hopeful_bullets": [
-          "• Vice President JD Vance: \"We think that we have the authority to provide proper safety to our citizens all over the United States\" A federal appeals court in Illinois ruled Saturday that the government can keep National Guard members in Illinois but cannot deploy them for now",
-          "• The ruling is the latest in the administration's ongoing push to deploy National Guard troops to Democratic cities "
-        ],
-        "stakes_bullets": [
-          "• Vice President JD Vance: \"We think that we have the authority to provide proper safety to our citizens all over the United States\" A federal appeals court in Illinois ruled Saturday that the government can keep National Guard members in Illinois but cannot deploy them for now",
-          "• The ruling is the latest in the administration's ongoing push to deploy National Guard troops to Democratic cities "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "aa5bf68f9990"
-    },
-    {
       "id": "42fee4f1f7f6",
       "title": "‘Cavalier and aggressive’: why are border agents flooding into US cities?",
       "outlet": "US news | The Guardian",
@@ -3331,42 +3299,6 @@
       "cluster_id": "5eea15d539ca"
     },
     {
-      "id": "43a0f8f71971",
-      "title": "Shooting at packed South Carolina bar kills 4 and injures at least 20 others",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/12/nx-s1-5572441/4-killed-20-injured-shooting-bar-south-carolina",
-      "published_at": "Sun, 12 Oct 2025 11:07:48 -0400",
-      "bullets": [
-        "• Shooting at packed South Carolina bar kills 4 and injures at least 20 others",
-        "• The victims' identities have not been released",
-        "• An estimated 5,000 or more people on St",
-        "• Helena Island trace their ancestry back to West Africans",
-        "• The bar was hosting a high school alumni event "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shooting at packed South Carolina bar kills 4 and injures at least 20 others",
-          "• The victims' identities have not been released"
-        ],
-        "hopeful_bullets": [
-          "• Shooting at packed South Carolina bar kills 4 and injures at least 20 others",
-          "• The victims' identities have not been released"
-        ],
-        "stakes_bullets": [
-          "• Shooting at packed South Carolina bar kills 4 and injures at least 20 others",
-          "• The victims' identities have not been released",
-          "• An estimated 5,000 or more people on St"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5e25f215450b"
-    },
-    {
       "id": "86a7ed92eb51",
       "title": "A New Algorithm Makes It Faster to Find the Shortest Paths",
       "outlet": "WIRED",
@@ -3464,40 +3396,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "ec2a44a73e14"
-    },
-    {
-      "id": "7f7dce460782",
-      "title": "Should You Cancel Xbox Game Pass? Everything to Know on the Price Hikes and New Features",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/should-you-cancel-xbox-game-pass-everything-to-know-on-the-price-hikes-and-new-features/",
-      "published_at": "Sun, 12 Oct 2025 10:00:00 +0000",
-      "bullets": [
-        "• Xbox Game Pass is a subscription service for Xbox gaming",
-        "• It was available on Xbox consoles, PC, or via cloud gaming",
-        "• Microsoft long claimed it was “the best deal in gaming” Recent changes to the service have upset users in a big way "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Xbox Game Pass is a subscription service for Xbox gaming",
-          "• It was available on Xbox consoles, PC, or via cloud gaming"
-        ],
-        "hopeful_bullets": [
-          "• Xbox Game Pass is a subscription service for Xbox gaming",
-          "• It was available on Xbox consoles, PC, or via cloud gaming"
-        ],
-        "stakes_bullets": [
-          "• Xbox Game Pass is a subscription service for Xbox gaming",
-          "• It was available on Xbox consoles, PC, or via cloud gaming",
-          "• Microsoft long claimed it was “the best deal in gaming” Recent changes to the service have upset users in a big way "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "ec5ce116ce12"
     },
     {
       "id": "ddea8ca79a52",
@@ -5155,6 +5053,72 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "5c7453b090f8",
+      "title": "Experience the Unique Survival Horror Game ‘SHOCK’ with Its Steam Next Fest Demo [Trailer]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3908685/experience-the-unique-survival-horror-game-shock-with-its-steam-next-fest-demo-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-unique-survival-horror-game-shock-with-its-steam-next-fest-demo-trailer",
+      "published_at": "Mon, 13 Oct 2025 11:30:28 +0000",
+      "bullets": [
+        "• SHOCK is a psychological horror game that sees a disabled war veteran trapped in an abandoned parking lot with no memory of how he got there",
+        "• Players will be able to get a taste of the game later this week when the game receives its demo during this week’s Steam Next Fest "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SHOCK is a psychological horror game that sees a disabled war veteran trapped in an abandoned parking lot with no memory of how he got there",
+          "• Players will be able to get a taste of the game later this week when the game receives its demo during this week’s Steam Next Fest "
+        ],
+        "hopeful_bullets": [
+          "• SHOCK is a psychological horror game that sees a disabled war veteran trapped in an abandoned parking lot with no memory of how he got there",
+          "• Players will be able to get a taste of the game later this week when the game receives its demo during this week’s Steam Next Fest "
+        ],
+        "stakes_bullets": [
+          "• SHOCK is a psychological horror game that sees a disabled war veteran trapped in an abandoned parking lot with no memory of how he got there",
+          "• Players will be able to get a taste of the game later this week when the game receives its demo during this week’s Steam Next Fest "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "15ca06aba9d2"
+    },
+    {
+      "id": "0cba880c97a8",
+      "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/programming-assembly-artificial-intelligence/",
+      "published_at": "Mon, 13 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• Rollercoaster Tycoon was written in assembly, a low-level programming language",
+        "• To build a complex computer game from assembly is like weaving a tapestry from shedded cat fur",
+        "• In the 1990s, the tools for programming weren’t all there "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.666
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rollercoaster Tycoon was written in assembly, a low-level programming language",
+          "• To build a complex computer game from assembly is like weaving a tapestry from shedded cat fur"
+        ],
+        "hopeful_bullets": [
+          "• Rollercoaster Tycoon was written in assembly, a low-level programming language",
+          "• To build a complex computer game from assembly is like weaving a tapestry from shedded cat fur"
+        ],
+        "stakes_bullets": [
+          "• Rollercoaster Tycoon was written in assembly, a low-level programming language",
+          "• To build a complex computer game from assembly is like weaving a tapestry from shedded cat fur",
+          "• In the 1990s, the tools for programming weren’t all there "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "1eb3069c4685"
+    },
+    {
       "id": "208884cb9173",
       "title": "JPMorgan Chase says it will invest $10 billion into industries critical for national security",
       "outlet": "US Top News and Analysis",
@@ -5417,6 +5381,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "e6337cf34a0d"
+    },
+    {
+      "id": "9cbf3f2f167e",
+      "title": "Who are the released hostages?",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 13 Oct 2025 09:44:36 GMT",
+      "bullets": [
+        "• Until Monday, 48 hostages were still being held in Gaza, although some are believed to be dead",
+        "• All but one of the hostages were among 251 people abducted during the Palestinian group's attack on southern Israel on 7 October 2023",
+        "• About 1,200 other people were killed in the attack, during which more than 67,000 people have been killed "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Until Monday, 48 hostages were still being held in Gaza, although some are believed to be dead",
+          "• All but one of the hostages were among 251 people abducted during the Palestinian group's attack on southern Israel on 7 October 2023"
+        ],
+        "hopeful_bullets": [
+          "• Until Monday, 48 hostages were still being held in Gaza, although some are believed to be dead",
+          "• All but one of the hostages were among 251 people abducted during the Palestinian group's attack on southern Israel on 7 October 2023"
+        ],
+        "stakes_bullets": [
+          "• Until Monday, 48 hostages were still being held in Gaza, although some are believed to be dead",
+          "• All but one of the hostages were among 251 people abducted during the Palestinian group's attack on southern Israel on 7 October 2023",
+          "• About 1,200 other people were killed in the attack, during which more than 67,000 people have been killed "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "8d786f51697c"
     },
     {
       "id": "5c974098586d",
@@ -5845,6 +5843,40 @@
       "cluster_id": "4a66fd011a1f"
     },
     {
+      "id": "cbbfe8f2cb8b",
+      "title": "Natural gas prices are low, but your monthly gas bill is up. Here's why",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/13/nx-s1-5558384/gas-utility-prices-home-climate",
+      "published_at": "Mon, 13 Oct 2025 07:00:00 -0400",
+      "bullets": [
+        "• Natural gas prices are low, but your monthly gas bill is up",
+        "• That's because customers are paying more for infrastructure, construction, utility costs and taxes than they are for the actual fuel",
+        "• PECO says it is spending about $1.8 billion over five years to upgrade its gas pipelines and other infrastructure "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Natural gas prices are low, but your monthly gas bill is up",
+          "• That's because customers are paying more for infrastructure, construction, utility costs and taxes than they are for the actual fuel"
+        ],
+        "hopeful_bullets": [
+          "• Natural gas prices are low, but your monthly gas bill is up",
+          "• That's because customers are paying more for infrastructure, construction, utility costs and taxes than they are for the actual fuel"
+        ],
+        "stakes_bullets": [
+          "• Natural gas prices are low, but your monthly gas bill is up",
+          "• That's because customers are paying more for infrastructure, construction, utility costs and taxes than they are for the actual fuel",
+          "• PECO says it is spending about $1.8 billion over five years to upgrade its gas pipelines and other infrastructure "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0dfffd0af475"
+    },
+    {
       "id": "f2570079112c",
       "title": "Highlighting Indigenous stories from across NPR's network",
       "outlet": "NPR Topics: News",
@@ -6076,6 +6108,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "bac879e532f6"
+    },
+    {
+      "id": "809348a3ca23",
+      "title": "3 share Nobel Prize in Economics for work on technology, growth and creative destruction",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/10/nx-s1-5570762/xxx-wins-nobel-prize-in-economics-for-xxx",
+      "published_at": "Mon, 13 Oct 2025 04:59:34 -0400",
+      "bullets": [
+        "• The prize money is about $1.2 million",
+        "• The three men were born outside the United States, but each received a doctorate from a university in the U.S",
+        "• Howitt, Howitt and Aghion won the prize for their work "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The prize money is about $1.2 million",
+          "• The three men were born outside the United States, but each received a doctorate from a university in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• The prize money is about $1.2 million",
+          "• The three men were born outside the United States, but each received a doctorate from a university in the U.S"
+        ],
+        "stakes_bullets": [
+          "• The prize money is about $1.2 million",
+          "• The three men were born outside the United States, but each received a doctorate from a university in the U.S",
+          "• Howitt, Howitt and Aghion won the prize for their work "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "13c4090bce20"
     },
     {
       "id": "f71f82773da0",
@@ -6705,37 +6771,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "59d6a6be44d4"
-    },
-    {
-      "id": "4ffcdc0bd905",
-      "title": "Trump says 'war is over' in Gaza as he flies to Israel for release of hostages",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn409y125v3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 13 Oct 2025 00:41:23 GMT",
-      "bullets": [
-        "• Trump says 'war is over' in Gaza as he flies to Israel for release of hostages",
-        "• He said a 'Board of Peace' would be set up for Gaza, which he said looked like a 'demolition site' Deadline for Hamas to release hostages is midday local time (10:00 BST) Trump will travel to Egypt for international summit aiming to end the war "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says 'war is over' in Gaza as he flies to Israel for release of hostages",
-          "• He said a 'Board of Peace' would be set up for Gaza, which he said looked like a 'demolition site' Deadline for Hamas to release hostages is midday local time (10:00 BST) Trump will travel to Egypt for international summit aiming to end the war "
-        ],
-        "hopeful_bullets": [
-          "• Trump says 'war is over' in Gaza as he flies to Israel for release of hostages",
-          "• He said a 'Board of Peace' would be set up for Gaza, which he said looked like a 'demolition site' Deadline for Hamas to release hostages is midday local time (10:00 BST) Trump will travel to Egypt for international summit aiming to end the war "
-        ],
-        "stakes_bullets": [
-          "• He said a 'Board of Peace' would be set up for Gaza, which he said looked like a 'demolition site' Deadline for Hamas to release hostages is midday local time (10:00 BST) Trump will travel to Egypt for international summit aiming to end the war "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6ca0b7007b52"
     },
     {
       "id": "11607afa6306",
@@ -7498,40 +7533,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "9e86aa625689"
-    },
-    {
-      "id": "8503bcd3a0e1",
-      "title": "Where Has Ellen Ripley Gone? Sigourney Weaver Has Met With Disney About a Potential ‘Alien’ Return",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3908575/where-has-ellen-ripley-gone-sigourney-weaver-has-met-with-disney-about-a-potential-alien-return/?utm_source=rss&utm_medium=rss&utm_campaign=where-has-ellen-ripley-gone-sigourney-weaver-has-met-with-disney-about-a-potential-alien-return",
-      "published_at": "Fri, 10 Oct 2025 20:59:22 +0000",
-      "bullets": [
-        "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
-        "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
-        "• Weaver said in August 2024 that she would “consider” a return "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.851
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
-          "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley"
-        ],
-        "hopeful_bullets": [
-          "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
-          "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley"
-        ],
-        "stakes_bullets": [
-          "• Sigourney Weaver has met with Disney about a return to the Alien franchise",
-          "• Weaver has been open in recent years about her belief that there may not be anything left to tell with Ellen Ripley",
-          "• Weaver said in August 2024 that she would “consider” a return "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "96a2d7222519"
     },
     {
       "id": "a7626010c9ae",
@@ -9156,24 +9157,17 @@
   ],
   "clusters": [
     {
-      "id": "6ca0b7007b52",
-      "topic": "await flie gaza israel",
+      "id": "8d786f51697c",
+      "topic": "hostage released",
       "keywords": [
-        "await",
-        "flie",
-        "gaza",
-        "israel",
-        "release",
-        "trump",
-        "war"
+        "hostage",
+        "released"
       ],
       "item_ids": [
-        "4ffcdc0bd905",
-        "9914725ef92c"
+        "9cbf3f2f167e"
       ],
       "outlets": [
-        "BBC News",
-        "US news | The Guardian"
+        "BBC News"
       ]
     },
     {
@@ -9557,6 +9551,24 @@
       ]
     },
     {
+      "id": "f56f733b816d",
+      "topic": "await gaza israel release",
+      "keywords": [
+        "await",
+        "gaza",
+        "israel",
+        "release",
+        "trump",
+        "war"
+      ],
+      "item_ids": [
+        "9914725ef92c"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "ae4a15603bcc",
       "topic": "all invoke looking option",
       "keywords": [
@@ -9683,6 +9695,24 @@
       ]
     },
     {
+      "id": "0dfffd0af475",
+      "topic": "bill gas low monthly",
+      "keywords": [
+        "bill",
+        "gas",
+        "low",
+        "monthly",
+        "natural",
+        "price"
+      ],
+      "item_ids": [
+        "cbbfe8f2cb8b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "ea64ba453bda",
       "topic": "acros highlighting indigenou network",
       "keywords": [
@@ -9755,6 +9785,24 @@
       ]
     },
     {
+      "id": "13c4090bce20",
+      "topic": "economic nobel prize share",
+      "keywords": [
+        "economic",
+        "nobel",
+        "prize",
+        "share",
+        "technology",
+        "work"
+      ],
+      "item_ids": [
+        "809348a3ca23"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "afcd232e25e9",
       "topic": "final group hama major",
       "keywords": [
@@ -9821,42 +9869,6 @@
       ],
       "item_ids": [
         "82eac1da4a71"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "aa5bf68f9990",
-      "topic": "administration fighting keep national",
-      "keywords": [
-        "administration",
-        "fighting",
-        "keep",
-        "national",
-        "send",
-        "vance"
-      ],
-      "item_ids": [
-        "9f7a441fba26"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "5e25f215450b",
-      "topic": "bar carolina kill packed",
-      "keywords": [
-        "bar",
-        "carolina",
-        "kill",
-        "packed",
-        "shooting",
-        "south"
-      ],
-      "item_ids": [
-        "43a0f8f71971"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10025,6 +10037,24 @@
       ]
     },
     {
+      "id": "1eb3069c4685",
+      "topic": "assembly beautiful brutal even",
+      "keywords": [
+        "assembly",
+        "beautiful",
+        "brutal",
+        "even",
+        "maybe",
+        "programming"
+      ],
+      "item_ids": [
+        "0cba880c97a8"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "e1cccd4490dc",
       "topic": "doing funny make stem",
       "keywords": [
@@ -10179,24 +10209,6 @@
       ],
       "item_ids": [
         "86a7ed92eb51"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "ec5ce116ce12",
-      "topic": "cancel everything game know",
-      "keywords": [
-        "cancel",
-        "everything",
-        "game",
-        "know",
-        "pass",
-        "xbox"
-      ],
-      "item_ids": [
-        "7f7dce460782"
       ],
       "outlets": [
         "WIRED"
@@ -11695,6 +11707,24 @@
       ]
     },
     {
+      "id": "15ca06aba9d2",
+      "topic": "experience game horror shock",
+      "keywords": [
+        "experience",
+        "game",
+        "horror",
+        "shock",
+        "survival",
+        "unique"
+      ],
+      "item_ids": [
+        "5c7453b090f8"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "029e06109990",
       "topic": "display first painting putting",
       "keywords": [
@@ -11850,24 +11880,6 @@
       ],
       "item_ids": [
         "70cdad8ca386"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "96a2d7222519",
-      "topic": "ellen gone met ripley",
-      "keywords": [
-        "ellen",
-        "gone",
-        "met",
-        "ripley",
-        "sigourney",
-        "weaver"
-      ],
-      "item_ids": [
-        "8503bcd3a0e1"
       ],
       "outlets": [
         "Bloody Disgusting!"
