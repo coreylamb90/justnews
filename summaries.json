@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T10:11:01Z",
+  "generated_at": "2025-10-13T10:20:14Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1850,73 +1850,6 @@
       "cluster_id": "2a78106339af"
     },
     {
-      "id": "cd40517a5e67",
-      "title": "A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182151/texas-hood-county-crypto-noise-incorporate-city",
-      "published_at": "Thu, 09 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-        "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers",
-        "• Some residents say they don't spend much time outside anymore because of what many call “that roar”"
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-          "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers"
-        ],
-        "hopeful_bullets": [
-          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-          "• The facility, built in 2022, is a sprawling compound of computers stored in containers roughly the size of containers"
-        ],
-        "stakes_bullets": [
-          "• A North Texas community will vote to form a city in an effort to quiet down a crypto mine",
-          "• Some residents say they don't spend much time outside anymore because of what many call “that roar”"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "dfd3eebe7c1a"
-    },
-    {
-      "id": "bf633ec3a78d",
-      "title": "Some Texas community colleges remove course materials amid broader push to limit gender identity discussions",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182153/texas-community-colleges-dual-credit-course-reviews",
-      "published_at": "Thu, 09 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Texas community colleges have ordered thorough course reviews and restrictions on what faculty can teach",
-        "• The reviews are part of a political firestorm rippling through higher education institutions across the state",
-        "• University systems began ordering their own reviews after a viral video of a gender identity discussion in a Texas A&M children's literature class led to a professor’s firing "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas community colleges have ordered thorough course reviews and restrictions on what faculty can teach",
-          "• The reviews are part of a political firestorm rippling through higher education institutions across the state"
-        ],
-        "hopeful_bullets": [
-          "• Texas community colleges have ordered thorough course reviews and restrictions on what faculty can teach",
-          "• The reviews are part of a political firestorm rippling through higher education institutions across the state"
-        ],
-        "stakes_bullets": [
-          "• Texas community colleges have ordered thorough course reviews and restrictions on what faculty can teach",
-          "• The reviews are part of a political firestorm rippling through higher education institutions across the state",
-          "• University systems began ordering their own reviews after a viral video of a gender identity discussion in a Texas A&M children's literature class led to a professor’s firing "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "be01b2bd2298"
-    },
-    {
       "id": "e5124fdd70d5",
       "title": "This 4-year-old's heart is failing. A federal grant that might help him was canceled",
       "outlet": "NPR Topics: Science",
@@ -2623,13 +2556,13 @@
       "bullets": [
         "• 251 people were abducted and taken across the border into Gaza during Hamas attacks on Israel on Oct",
         "• 7",
-        "• Israeli officials say that of the 48 remaining Israeli and foreign hostages, 20 are still believed to be alive",
-        "• Following their release, Israel will free around 2,000 Palestinian prisoners "
+        "• Under the first phase of the ceasefire deal between Israel and Hamas, the remaining hostages were released on Monday",
+        "• Israeli officials say that of the 48 remaining Israeli and foreign hostages, 20 are still believed to be alive "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.934
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
@@ -2637,10 +2570,13 @@
           "• 7"
         ],
         "hopeful_bullets": [
-          "• Following their release, Israel will free around 2,000 Palestinian prisoners "
+          "• 251 people were abducted and taken across the border into Gaza during Hamas attacks on Israel on Oct",
+          "• 7"
         ],
         "stakes_bullets": [
-          "• Following their release, Israel will free around 2,000 Palestinian prisoners "
+          "• 251 people were abducted and taken across the border into Gaza during Hamas attacks on Israel on Oct",
+          "• 7",
+          "• Under the first phase of the ceasefire deal between Israel and Hamas, the remaining hostages were released on Monday"
         ]
       },
       "read_minutes": 6,
@@ -3334,6 +3270,37 @@
       "cluster_id": "8e9f3f9d5f7c"
     },
     {
+      "id": "10f969918d70",
+      "title": "Maga figures back Bukele’s call for Trump to crack down on US judges",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/12/trump-bukele-judges",
+      "published_at": "Sun, 12 Oct 2025 12:00:53 GMT",
+      "bullets": [
+        "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
+        "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US",
+        "• His call for Trump to take action against the US judiciary also received support from Maga figures "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.927
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
+          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
+        ],
+        "hopeful_bullets": [
+          "• His call for Trump to take action against the US judiciary also received support from Maga figures "
+        ],
+        "stakes_bullets": [
+          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "19d228db5c3d"
+    },
+    {
       "id": "ea7b0690c96a",
       "title": "Doge-ish comes to Florida: a DeSantis loyalist is going after ‘waste’ in Democratic cities",
       "outlet": "US news | The Guardian",
@@ -3364,37 +3331,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "061ca4efaa13"
-    },
-    {
-      "id": "10f969918d70",
-      "title": "Maga figures back Bukele’s call for Trump to crack down on US judges",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/12/trump-bukele-judges",
-      "published_at": "Sun, 12 Oct 2025 12:00:53 GMT",
-      "bullets": [
-        "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
-        "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US",
-        "• His call for Trump to take action against the US judiciary also received support from Maga figures "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.927
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nayib Bukele has called on the Trump administration to impeach 'corrupt' judges",
-          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
-        ],
-        "hopeful_bullets": [
-          "• His call for Trump to take action against the US judiciary also received support from Maga figures "
-        ],
-        "stakes_bullets": [
-          "• The authoritarian leader's latest intervention comes at a time of unprecedented threats to judicial independence in the US"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "19d228db5c3d"
     },
     {
       "id": "0e1b611d6ee8",
@@ -4657,6 +4593,42 @@
       "cluster_id": "7109f14d42d7"
     },
     {
+      "id": "c21574902787",
+      "title": "BlackRock sees shift in artificial intelligence trade. Where investors are putting their money now.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html",
+      "published_at": "Sat, 11 Oct 2025 15:00:01 GMT",
+      "bullets": [
+        "• BlackRock's iShares A.I",
+        "• Innovation and Tech Active ETF is up 36% since its inception last Oct",
+        "• 21",
+        "• The fund gives investors exposure from semiconductor manufacturers to large language models in the AI ecosystem",
+        "• It's up almost 42% over the past 12 weeks based on Friday's close "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.753
+      },
+      "moods": {
+        "brief_bullets": [
+          "• BlackRock's iShares A.I",
+          "• Innovation and Tech Active ETF is up 36% since its inception last Oct"
+        ],
+        "hopeful_bullets": [
+          "• BlackRock's iShares A.I",
+          "• Innovation and Tech Active ETF is up 36% since its inception last Oct"
+        ],
+        "stakes_bullets": [
+          "• BlackRock's iShares A.I",
+          "• Innovation and Tech Active ETF is up 36% since its inception last Oct",
+          "• 21"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "81aa8c7db43a"
+    },
+    {
       "id": "eea06fff1acc",
       "title": "Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn't Work",
       "outlet": "WIRED",
@@ -5481,6 +5453,39 @@
       "cluster_id": "5a69358c915d"
     },
     {
+      "id": "5c974098586d",
+      "title": "How Lego MRI scanner sets are reducing anxiety in children undergoing medical treatment",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/lego-mri-scanner-anxiety-sedation-children.html",
+      "published_at": "Mon, 13 Oct 2025 09:42:30 GMT",
+      "bullets": [
+        "• Sam Lane, 14, was diagnosed with rare brain and spine cancer in September 2023",
+        "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients",
+        "• Lego's MRI scanner sets feature a scanner, patient bed, waiting room and staff figures "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.887
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sam Lane, 14, was diagnosed with rare brain and spine cancer in September 2023",
+          "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients"
+        ],
+        "hopeful_bullets": [
+          "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients"
+        ],
+        "stakes_bullets": [
+          "• Sam Lane, 14, was diagnosed with rare brain and spine cancer in September 2023",
+          "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients",
+          "• Lego's MRI scanner sets feature a scanner, patient bed, waiting room and staff figures "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e554bcbf6e1d"
+    },
+    {
       "id": "603cd9e00c4b",
       "title": "The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape",
       "outlet": "WIRED",
@@ -5519,26 +5524,26 @@
       "url": "https://www.theguardian.com/business/2025/oct/13/markets-rebound-us-china-tariff-taco-trade",
       "published_at": "Mon, 13 Oct 2025 09:16:20 GMT",
       "bullets": [
-        "• European stock markets open up on Monday with FTSE up 0.2% in early trading",
-        "• Bitcoin edged up by 0.3% to more than $115,000, after falling below $105,000 on Friday",
+        "• European stock markets open up on Monday with FTSE 100 up 0.2% in early trading",
+        "• Bitcoin up by 0.3% to more than $115,000 after falling below $105,000 on Friday",
         "• Most big cryptocurrencies rebounded after a deep sell-off over the weekend "
       ],
       "category": "US",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.502
+        "label": "positive",
+        "score": 0.859
       },
       "moods": {
         "brief_bullets": [
-          "• European stock markets open up on Monday with FTSE up 0.2% in early trading",
-          "• Bitcoin edged up by 0.3% to more than $115,000, after falling below $105,000 on Friday"
+          "• European stock markets open up on Monday with FTSE 100 up 0.2% in early trading",
+          "• Bitcoin up by 0.3% to more than $115,000 after falling below $105,000 on Friday"
         ],
         "hopeful_bullets": [
           "• Most big cryptocurrencies rebounded after a deep sell-off over the weekend "
         ],
         "stakes_bullets": [
-          "• European stock markets open up on Monday with FTSE up 0.2% in early trading",
-          "• Bitcoin edged up by 0.3% to more than $115,000, after falling below $105,000 on Friday",
+          "• European stock markets open up on Monday with FTSE 100 up 0.2% in early trading",
+          "• Bitcoin up by 0.3% to more than $115,000 after falling below $105,000 on Friday",
           "• Most big cryptocurrencies rebounded after a deep sell-off over the weekend "
         ]
       },
@@ -5712,39 +5717,6 @@
       "cluster_id": "7b10b663b667"
     },
     {
-      "id": "2ef8e78049da",
-      "title": "Xiaomi shares see biggest drop since April after fatal EV crash sparks safety concerns",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/xiaomi-shares-sink-most-since-april-after-fatal-ev-crash-raises-door-safety-concerns.html",
-      "published_at": "Mon, 13 Oct 2025 08:15:29 GMT",
-      "bullets": [
-        "• Chinese tech giant Xiaomi saw its shares fall over 5% on Monday following reports that the doors of one of its electric vehicles failed to open after a fiery crash in China",
-        "• The stock slid as much as 8.7% in Hong Kong, marking its steepest drop since April",
-        "• Images and video of a burning Xiaomi SU7 sedan circulated on Chinese social media "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese tech giant Xiaomi saw its shares fall over 5% on Monday following reports that the doors of one of its electric vehicles failed to open after a fiery crash in China",
-          "• The stock slid as much as 8.7% in Hong Kong, marking its steepest drop since April"
-        ],
-        "hopeful_bullets": [
-          "• Chinese tech giant Xiaomi saw its shares fall over 5% on Monday following reports that the doors of one of its electric vehicles failed to open after a fiery crash in China"
-        ],
-        "stakes_bullets": [
-          "• Chinese tech giant Xiaomi saw its shares fall over 5% on Monday following reports that the doors of one of its electric vehicles failed to open after a fiery crash in China",
-          "• The stock slid as much as 8.7% in Hong Kong, marking its steepest drop since April",
-          "• Images and video of a burning Xiaomi SU7 sedan circulated on Chinese social media "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "62f64c4695a2"
-    },
-    {
       "id": "9ed87ace5470",
       "title": "Hamas releases first Israeli hostages under Trump-brokered ceasefire",
       "outlet": "US Top News and Analysis",
@@ -5874,6 +5846,71 @@
       },
       "read_minutes": 2,
       "cluster_id": "c4e60b6d371e"
+    },
+    {
+      "id": "8d05f9a18370",
+      "title": "More Texas kindergarteners are coming to school without measles vaccination proof or exemptions",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17184497/texas-schools-vaccines-measles-delinquencies",
+      "published_at": "Mon, 13 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
+        "• The state’s highest rate of non-vaccine compliance is now at least 23%",
+        "• More than a third of Texas children are at risk of falling ill-prepared for school "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
+          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
+        ],
+        "hopeful_bullets": [
+          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
+          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
+        ],
+        "stakes_bullets": [
+          "• More than a third of Texas children are at risk of falling ill-prepared for school "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "6c34c4e046e8"
+    },
+    {
+      "id": "623bde7d9f80",
+      "title": "In South Texas, Allred and Talarico compete for Latino voters by vowing to fight for working class",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17184498/texas-democratic-senate-primary-allred-talarico-rgv-latino-voters",
+      "published_at": "Mon, 13 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• In Texas, candidates for U.S",
+        "• Senate run for seats in Texas' Rio Grande Valley",
+        "• Both candidates want to win over voters who are worried about rising costs of living in the state",
+        "• The candidates are seeking to be the first female candidates for the U.N",
+        "• Senate seat "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.818
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In Texas, candidates for U.S",
+          "• Senate run for seats in Texas' Rio Grande Valley"
+        ],
+        "hopeful_bullets": [
+          "• Both candidates want to win over voters who are worried about rising costs of living in the state"
+        ],
+        "stakes_bullets": [
+          "• Both candidates want to win over voters who are worried about rising costs of living in the state"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "1bb46a5adc8c"
     },
     {
       "id": "f0a96c42d6d6",
@@ -6039,39 +6076,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "9a47d1cffff5"
-    },
-    {
-      "id": "5c974098586d",
-      "title": "How Lego MRI scanner sets are reducing anxiety in children undergoing medical treatment",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/lego-mri-scanner-anxiety-sedation-children.html",
-      "published_at": "Mon, 13 Oct 2025 04:01:01 GMT",
-      "bullets": [
-        "• Sam Lane, 14, was diagnosed with rare brain and spine cancer in September 2023",
-        "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients",
-        "• Lego's MRI scanner sets feature a scanner, patient bed, waiting room and staff figures "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.887
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sam Lane, 14, was diagnosed with rare brain and spine cancer in September 2023",
-          "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients"
-        ],
-        "hopeful_bullets": [
-          "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients"
-        ],
-        "stakes_bullets": [
-          "• Sam Lane, 14, was diagnosed with rare brain and spine cancer in September 2023",
-          "• A nurse at Boston Children's Hospital asked him to help build a Lego MRI scanner set for other patients",
-          "• Lego's MRI scanner sets feature a scanner, patient bed, waiting room and staff figures "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e554bcbf6e1d"
     },
     {
       "id": "4cb48c273796",
@@ -8127,38 +8131,39 @@
       "cluster_id": "0e4127ec8972"
     },
     {
-      "id": "30885e8252e5",
-      "title": "How the Texas GOP’s bid to block lawmakers from the ballot defies a century of court precedent",
+      "id": "94762c340a64",
+      "title": "As energy finds Texas young conservatives, U.S. Senate hopefuls make their pitch",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182885/texas-republican-party-censures-primary-ballot-court-precedent",
+      "url": "https://feeds.texastribune.org/link/16799/17182886/texas-senate-primary-young-conservatives",
       "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• Texas Democrats want to keep state Sen",
-        "• Thomas B",
-        "• Love off the ballot",
-        "• The state's high court has repeatedly upheld this ruling",
-        "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
+        "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
+        "• He's hoping to unseat U.S",
+        "• Sen",
+        "• John Cornyn of Texas",
+        "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.592
+        "label": "positive",
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Texas Democrats want to keep state Sen",
-          "• Thomas B"
+          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
+          "• He's hoping to unseat U.S"
         ],
         "hopeful_bullets": [
-          "• Texas Democrats want to keep state Sen",
-          "• Thomas B"
+          "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
         ],
         "stakes_bullets": [
-          "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
+          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
+          "• He's hoping to unseat U.S",
+          "• Sen"
         ]
       },
-      "read_minutes": 8,
-      "cluster_id": "31c201d3b2ad"
+      "read_minutes": 4,
+      "cluster_id": "0fb6075febad"
     },
     {
       "id": "513217038302",
@@ -8195,39 +8200,38 @@
       "cluster_id": "f3c780f1966f"
     },
     {
-      "id": "94762c340a64",
-      "title": "As energy finds Texas young conservatives, U.S. Senate hopefuls make their pitch",
+      "id": "30885e8252e5",
+      "title": "How the Texas GOP’s bid to block lawmakers from the ballot defies a century of court precedent",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182886/texas-senate-primary-young-conservatives",
+      "url": "https://feeds.texastribune.org/link/16799/17182885/texas-republican-party-censures-primary-ballot-court-precedent",
       "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
-        "• He's hoping to unseat U.S",
-        "• Sen",
-        "• John Cornyn of Texas",
-        "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
+        "• Texas Democrats want to keep state Sen",
+        "• Thomas B",
+        "• Love off the ballot",
+        "• The state's high court has repeatedly upheld this ruling",
+        "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "neutral",
+        "score": 0.592
       },
       "moods": {
         "brief_bullets": [
-          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
-          "• He's hoping to unseat U.S"
+          "• Texas Democrats want to keep state Sen",
+          "• Thomas B"
         ],
         "hopeful_bullets": [
-          "• Young Republicans are riding a surge in political momentum in the wake of Charlie Kirk's killing "
+          "• Texas Democrats want to keep state Sen",
+          "• Thomas B"
         ],
         "stakes_bullets": [
-          "• Texas attorney general Ken Paxton speaks at Texas Youth Summit",
-          "• He's hoping to unseat U.S",
-          "• Sen"
+          "• The State Republican Executive Committee is meeting Saturday to decide whether to vote to keep Love on the ballot again"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "0fb6075febad"
+      "read_minutes": 8,
+      "cluster_id": "31c201d3b2ad"
     },
     {
       "id": "2dfaa5b54777",
@@ -9575,24 +9579,6 @@
       ]
     },
     {
-      "id": "061ca4efaa13",
-      "topic": "come desanti doge florida",
-      "keywords": [
-        "come",
-        "desanti",
-        "doge",
-        "florida",
-        "ish",
-        "loyalist"
-      ],
-      "item_ids": [
-        "ea7b0690c96a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "19d228db5c3d",
       "topic": "back bukele call figure",
       "keywords": [
@@ -9605,6 +9591,24 @@
       ],
       "item_ids": [
         "10f969918d70"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "061ca4efaa13",
+      "topic": "come desanti doge florida",
+      "keywords": [
+        "come",
+        "desanti",
+        "doge",
+        "florida",
+        "ish",
+        "loyalist"
+      ],
+      "item_ids": [
+        "ea7b0690c96a"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9917,18 +9921,18 @@
       ]
     },
     {
-      "id": "62f64c4695a2",
-      "topic": "biggest drop see share",
+      "id": "81aa8c7db43a",
+      "topic": "artificial blackrock intelligence sees",
       "keywords": [
-        "biggest",
-        "drop",
-        "see",
-        "share",
-        "since",
-        "xiaomi"
+        "artificial",
+        "blackrock",
+        "intelligence",
+        "sees",
+        "shift",
+        "trade"
       ],
       "item_ids": [
-        "2ef8e78049da"
+        "c21574902787"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13822,6 +13826,42 @@
       ]
     },
     {
+      "id": "6c34c4e046e8",
+      "topic": "coming kindergartener measle school",
+      "keywords": [
+        "coming",
+        "kindergartener",
+        "measle",
+        "school",
+        "texa",
+        "without"
+      ],
+      "item_ids": [
+        "8d05f9a18370"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "1bb46a5adc8c",
+      "topic": "allred compete latino south",
+      "keywords": [
+        "allred",
+        "compete",
+        "latino",
+        "south",
+        "talarico",
+        "texa"
+      ],
+      "item_ids": [
+        "623bde7d9f80"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "403d8dd63309",
       "topic": "censure five gop lawmaker",
       "keywords": [
@@ -13858,18 +13898,18 @@
       ]
     },
     {
-      "id": "31c201d3b2ad",
-      "topic": "ballot bid block gop",
+      "id": "0fb6075febad",
+      "topic": "conservative energy find senate",
       "keywords": [
-        "ballot",
-        "bid",
-        "block",
-        "gop",
-        "lawmaker",
-        "texa"
+        "conservative",
+        "energy",
+        "find",
+        "senate",
+        "texa",
+        "young"
       ],
       "item_ids": [
-        "30885e8252e5"
+        "94762c340a64"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13894,18 +13934,18 @@
       ]
     },
     {
-      "id": "0fb6075febad",
-      "topic": "conservative energy find senate",
+      "id": "31c201d3b2ad",
+      "topic": "ballot bid block gop",
       "keywords": [
-        "conservative",
-        "energy",
-        "find",
-        "senate",
-        "texa",
-        "young"
+        "ballot",
+        "bid",
+        "block",
+        "gop",
+        "lawmaker",
+        "texa"
       ],
       "item_ids": [
-        "94762c340a64"
+        "30885e8252e5"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13960,42 +14000,6 @@
       ],
       "item_ids": [
         "e3b51a659c2a"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "dfd3eebe7c1a",
-      "topic": "city community form north",
-      "keywords": [
-        "city",
-        "community",
-        "form",
-        "north",
-        "texa",
-        "vote"
-      ],
-      "item_ids": [
-        "cd40517a5e67"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "be01b2bd2298",
-      "topic": "college community course remove",
-      "keywords": [
-        "college",
-        "community",
-        "course",
-        "remove",
-        "some",
-        "texa"
-      ],
-      "item_ids": [
-        "bf633ec3a78d"
       ],
       "outlets": [
         "The Texas Tribune"
