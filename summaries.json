@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T05:19:29Z",
+  "generated_at": "2025-10-13T05:57:18Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2879,38 +2879,6 @@
       "cluster_id": "ebd97fa3d0bd"
     },
     {
-      "id": "f71f82773da0",
-      "title": "China accuses US of 'double standards' over tariff threat",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 12 Oct 2025 17:43:27 GMT",
-      "bullets": [
-        "• China accuses US of 'double standards' over tariff threat to impose additional 100% tariff on Chinese goods",
-        "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat",
-        "• Trump hit back at Beijing's move to tighten its rules for rare earths exports, accusing it of \"becoming very hostile\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China accuses US of 'double standards' over tariff threat to impose additional 100% tariff on Chinese goods",
-          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
-        ],
-        "hopeful_bullets": [
-          "• China accuses US of 'double standards' over tariff threat to impose additional 100% tariff on Chinese goods",
-          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
-        ],
-        "stakes_bullets": [
-          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7d438d7faa33"
-    },
-    {
       "id": "08ecad3d97d5",
       "title": "Chappell Roan Gets Emotional Talking About Uplifting Queer Joy During L.A. Show",
       "outlet": "Music News",
@@ -3590,40 +3558,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "7ded9b85c9f2"
-    },
-    {
-      "id": "e75db49f2bcb",
-      "title": "Baby boomers still love their department stores. Here’s what they know that Gen Zers don’t",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/12/department-store-perks-rival-some-online-retailers.html",
-      "published_at": "Sun, 12 Oct 2025 11:30:01 GMT",
-      "bullets": [
-        "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-        "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says",
-        "• Social media plays a big role in how younger consumers make purchases, he says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-          "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says"
-        ],
-        "hopeful_bullets": [
-          "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-          "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says"
-        ],
-        "stakes_bullets": [
-          "• Department stores may be falling out of favor with younger consumers, but there's a reason older shoppers keep coming back",
-          "• For younger shoppers, the mentality is \"I don't want to shop where my mother shops,\" analyst Marshal Cohen says",
-          "• Social media plays a big role in how younger consumers make purchases, he says "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5eea15d539ca"
     },
     {
       "id": "43a0f8f71971",
@@ -5884,7 +5818,7 @@
       "title": "China's market rally faces test as U.S. trade rift flare: 'much more difficult couple of weeks now'",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/13/china-market-shares-csi-300-shanghai-composite-rally-faces-test-us-trade-rift-flares-xi-trump.html",
-      "published_at": "Mon, 13 Oct 2025 04:52:39 GMT",
+      "published_at": "Mon, 13 Oct 2025 05:13:17 GMT",
       "bullets": [
         "• China's stock market rebound may be showing signs of strain as renewed U.S.-China trade tensions threaten to derail investor optimism",
         "• Chinese shares had recently rallied to a multi-year high on expectations of government stimulus and a recent inflow of foreign capital into Chinese equities "
@@ -5909,6 +5843,71 @@
       },
       "read_minutes": 2,
       "cluster_id": "cbef3f5f7a1d"
+    },
+    {
+      "id": "78f6c5608185",
+      "title": "Big Oil forced to confront some tough choices as 'monster profits' fade into memory",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/big-oil-to-confront-tough-choices-as-mega-profits-fade-into-memory.html",
+      "published_at": "Mon, 13 Oct 2025 05:12:02 GMT",
+      "bullets": [
+        "• U.S",
+        "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
+        "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn"
+        ],
+        "hopeful_bullets": [
+          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
+          "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
+        ],
+        "stakes_bullets": [
+          "• and European oil majors have moved to cut jobs and reduce costs of late as they look to tighten their belts amid an industry downturn",
+          "• In 2022, the West's five biggest oil companies raked in combined profits of nearly $200 billion when fossil fuel prices soared following Russia's full-scale invasion of Ukraine "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d1467f48ee18"
+    },
+    {
+      "id": "f71f82773da0",
+      "title": "China accuses US of 'double standards' over tariff threat",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 13 Oct 2025 04:57:37 GMT",
+      "bullets": [
+        "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+        "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat",
+        "• Trump hit back at Beijing's move to tighten its rules for rare earths exports, accusing it of \"becoming very hostile\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
+        ],
+        "hopeful_bullets": [
+          "• China accuses US of 'double standards' over tariff threat to impose 100% tariff on Chinese goods",
+          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
+        ],
+        "stakes_bullets": [
+          "• Commerce ministry says China could introduce its own unspecified \"countermeasures\" if the US president carries out his threat"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7d438d7faa33"
     },
     {
       "id": "7185e14b67c6",
@@ -9867,6 +9866,24 @@
       ]
     },
     {
+      "id": "d1467f48ee18",
+      "topic": "big confront forced oil",
+      "keywords": [
+        "big",
+        "confront",
+        "forced",
+        "oil",
+        "some",
+        "tough"
+      ],
+      "item_ids": [
+        "78f6c5608185"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "cbef3f5f7a1d",
       "topic": "china face market rally",
       "keywords": [
@@ -9885,24 +9902,6 @@
       ]
     },
     {
-      "id": "16abd9e87ee0",
-      "topic": "bondi dhs embrace pam",
-      "keywords": [
-        "bondi",
-        "dhs",
-        "embrace",
-        "pam",
-        "snl",
-        "spoof"
-      ],
-      "item_ids": [
-        "d57993750298"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "b73b894660c5",
       "topic": "career criticism julia learned",
       "keywords": [
@@ -9915,6 +9914,24 @@
       ],
       "item_ids": [
         "d3e351b7ae41"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "16abd9e87ee0",
+      "topic": "bondi dhs embrace pam",
+      "keywords": [
+        "bondi",
+        "dhs",
+        "embrace",
+        "pam",
+        "snl",
+        "spoof"
+      ],
+      "item_ids": [
+        "d57993750298"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9969,24 +9986,6 @@
       ],
       "item_ids": [
         "ed67d5a203ea"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "5eea15d539ca",
-      "topic": "baby boomer department love",
-      "keywords": [
-        "baby",
-        "boomer",
-        "department",
-        "love",
-        "still",
-        "store"
-      ],
-      "item_ids": [
-        "e75db49f2bcb"
       ],
       "outlets": [
         "US Top News and Analysis"
