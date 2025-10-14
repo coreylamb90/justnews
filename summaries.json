@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T21:53:26Z",
+  "generated_at": "2025-10-14T22:13:24Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -460,6 +460,106 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "81c3be16f17e",
+      "title": "A$AP Relli Hires New Lawyers, Judge Says January Civil Trial Against A$AP Rocky Is ‘Firm’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/asap-relli-asap-rocky-civil-assault-trial-1235447260/",
+      "published_at": "Tue, 14 Oct 2025 22:09:16 +0000",
+      "bullets": [
+        "• A$AP Relli has a new team of civil lawyers and is pressing ahead with his assault and battery lawsuit",
+        "• A bench trial in the case remains set for Jan",
+        "• 12, a Los Angeles judge says",
+        "• Relli’s new lawyers appeared by video at a Tuesday morning hearing after Relli struggled to represent himself at a different hearing last month "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A$AP Relli has a new team of civil lawyers and is pressing ahead with his assault and battery lawsuit",
+          "• A bench trial in the case remains set for Jan"
+        ],
+        "hopeful_bullets": [
+          "• A$AP Relli has a new team of civil lawyers and is pressing ahead with his assault and battery lawsuit",
+          "• A bench trial in the case remains set for Jan"
+        ],
+        "stakes_bullets": [
+          "• A$AP Relli has a new team of civil lawyers and is pressing ahead with his assault and battery lawsuit",
+          "• A bench trial in the case remains set for Jan",
+          "• 12, a Los Angeles judge says"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2ce803ba24fd"
+    },
+    {
+      "id": "a144cbd9e627",
+      "title": "We Thought These 10 Dragon Ball Villains Would Actually Defeat Goku",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-villains-weaker-than-fans-thought-goku-defeated/",
+      "published_at": "Tue, 14 Oct 2025 22:06:36 GMT",
+      "bullets": [
+        "• Akira Toriyama’s Dragon Ball has remained relevant for over four decades because of its adept understanding of genre expectations",
+        "• Dragon Ball is certainly guilty of falling into certain formulaic patterns, but it also finds the right opportunities to undercut ideas in order to do something even bigger "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Akira Toriyama’s Dragon Ball has remained relevant for over four decades because of its adept understanding of genre expectations",
+          "• Dragon Ball is certainly guilty of falling into certain formulaic patterns, but it also finds the right opportunities to undercut ideas in order to do something even bigger "
+        ],
+        "hopeful_bullets": [
+          "• Akira Toriyama’s Dragon Ball has remained relevant for over four decades because of its adept understanding of genre expectations",
+          "• Dragon Ball is certainly guilty of falling into certain formulaic patterns, but it also finds the right opportunities to undercut ideas in order to do something even bigger "
+        ],
+        "stakes_bullets": [
+          "• Akira Toriyama’s Dragon Ball has remained relevant for over four decades because of its adept understanding of genre expectations",
+          "• Dragon Ball is certainly guilty of falling into certain formulaic patterns, but it also finds the right opportunities to undercut ideas in order to do something even bigger "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "0451667e7b1a"
+    },
+    {
+      "id": "18d7b5d69d40",
+      "title": "Kevin Federline Worries ‘Situation’ With Britney Spears Is ‘Racing Toward Something Irreversible’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/kevin-federline-britney-spears-concern-memoir-1235447334/",
+      "published_at": "Tue, 14 Oct 2025 21:56:14 +0000",
+      "bullets": [
+        "• Kevin Federline had sole custody of Sean and Jayden for most of the duration of the conservatorship",
+        "• In his memoir, he expresses intense worry in his passages about Spears",
+        "• He suggests that the pop star is in need of professional help that he believes won’t be provided "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kevin Federline had sole custody of Sean and Jayden for most of the duration of the conservatorship",
+          "• In his memoir, he expresses intense worry in his passages about Spears"
+        ],
+        "hopeful_bullets": [
+          "• He suggests that the pop star is in need of professional help that he believes won’t be provided "
+        ],
+        "stakes_bullets": [
+          "• Kevin Federline had sole custody of Sean and Jayden for most of the duration of the conservatorship",
+          "• In his memoir, he expresses intense worry in his passages about Spears",
+          "• He suggests that the pop star is in need of professional help that he believes won’t be provided "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5c1e1434a17e"
+    },
+    {
       "id": "25a011e3eb16",
       "title": "Star Trek: The Last Starship Creators Talk Kirk's Return, The Federation's Massive Changes, And Some 'Big, Crazy, Holy Cow Moments' Coming Up (Exclusive)",
       "outlet": "CBR",
@@ -527,6 +627,73 @@
       },
       "read_minutes": 6,
       "cluster_id": "9970a5fe2cc2"
+    },
+    {
+      "id": "c95147bb0fc8",
+      "title": "A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/",
+      "published_at": "Tue, 14 Oct 2025 21:40:00 +0000",
+      "bullets": [
+        "• The new attack requires a victim to install a malicious app on an Android phone or tablet",
+        "• It can covertly steal two-factor authentication codes, location timelines, and other private data",
+        "• Google released mitigations last month, but the researchers say a modified version of the attack works even when the update is installed "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The new attack requires a victim to install a malicious app on an Android phone or tablet",
+          "• It can covertly steal two-factor authentication codes, location timelines, and other private data"
+        ],
+        "hopeful_bullets": [
+          "• The new attack requires a victim to install a malicious app on an Android phone or tablet",
+          "• It can covertly steal two-factor authentication codes, location timelines, and other private data"
+        ],
+        "stakes_bullets": [
+          "• The new attack requires a victim to install a malicious app on an Android phone or tablet"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "bf70c76b51b8"
+    },
+    {
+      "id": "2cee4db6772c",
+      "title": "Jeep parent Stellantis announces $13 billion U.S. investment plan",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/stellantis-investment-turnaround.html",
+      "published_at": "Tue, 14 Oct 2025 21:35:07 GMT",
+      "bullets": [
+        "• Stellantis plans to invest $13 billion in U.S",
+        "• manufacturing operations over next four years",
+        "• The investments will add more than 5,000 jobs to its domestic workforce",
+        "• New products include a midsize truck for a plant in Toledo, Ohio; two new Jeep vehicles for a shuttered facility in Belvidere, Illinois "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.933
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stellantis plans to invest $13 billion in U.S",
+          "• manufacturing operations over next four years"
+        ],
+        "hopeful_bullets": [
+          "• Stellantis plans to invest $13 billion in U.S",
+          "• manufacturing operations over next four years"
+        ],
+        "stakes_bullets": [
+          "• Stellantis plans to invest $13 billion in U.S",
+          "• The investments will add more than 5,000 jobs to its domestic workforce",
+          "• New products include a midsize truck for a plant in Toledo, Ohio; two new Jeep vehicles for a shuttered facility in Belvidere, Illinois "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "378c1154292d"
     },
     {
       "id": "d747965695f2",
@@ -630,6 +797,70 @@
       "cluster_id": "18293c807ab3"
     },
     {
+      "id": "fcd62407f8b9",
+      "title": "Trump calls Charlie Kirk a martyr and boasts about 2024 election at posthumous medal ceremony – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/14/donald-trump-government-shutdown-national-guard-javier-milei-charlie-kirk-us-politics-live-news-updates",
+      "published_at": "Tue, 14 Oct 2025 21:22:32 GMT",
+      "bullets": [
+        "• Erika Kirk praises late husband's Christian faith, says he would probably have run for president one day",
+        "• Charlie Kirk was killed before his 32nd birthday",
+        "• Trump railed against ‘radical left extremism, violence and terror’ in tributes to Charlie Kirk "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Erika Kirk praises late husband's Christian faith, says he would probably have run for president one day",
+          "• Charlie Kirk was killed before his 32nd birthday"
+        ],
+        "hopeful_bullets": [
+          "• Trump railed against ‘radical left extremism, violence and terror’ in tributes to Charlie Kirk "
+        ],
+        "stakes_bullets": [
+          "• Erika Kirk praises late husband's Christian faith, says he would probably have run for president one day"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "5d564e28515d"
+    },
+    {
+      "id": "2b386ac9c9c6",
+      "title": "Trump posthumously awards Charlie Kirk the Presidential Medal of Freedom",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/14/charlie-kirk-presidential-medal-of-freedom-trump",
+      "published_at": "Tue, 14 Oct 2025 21:20:05 GMT",
+      "bullets": [
+        "• Donald Trump awards the Presidential Medal of Freedom to Charlie Kirk",
+        "• Kirk was shot at an event at Utah Valley University in September",
+        "• The far-right commentator became a key ally to the president in recent years",
+        "• Kirk's widow, Erika, accepted the award on her husband's behalf "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump awards the Presidential Medal of Freedom to Charlie Kirk",
+          "• Kirk was shot at an event at Utah Valley University in September"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump awards the Presidential Medal of Freedom to Charlie Kirk",
+          "• Kirk's widow, Erika, accepted the award on her husband's behalf "
+        ],
+        "stakes_bullets": [
+          "• Kirk's widow, Erika, accepted the award on her husband's behalf "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c9254370e36d"
+    },
+    {
       "id": "dd0ee0f06002",
       "title": "Airports refuse to show DHS Sec. Kristi Noem video blaming Democrats for government shutdown",
       "outlet": "US Top News and Analysis",
@@ -666,6 +897,40 @@
       "cluster_id": "9f284128a0d7"
     },
     {
+      "id": "95d1903e976a",
+      "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/",
+      "published_at": "Tue, 14 Oct 2025 21:17:49 +0000",
+      "bullets": [
+        "• Russia's Novorossiysk surfaced off the coast of France a few days ago",
+        "• It was shadowed by a French warship, an English ship and a Dutch ship",
+        "• But social media accounts linked to Russian security forces suggested a far more serious problem "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russia's Novorossiysk surfaced off the coast of France a few days ago",
+          "• It was shadowed by a French warship, an English ship and a Dutch ship"
+        ],
+        "hopeful_bullets": [
+          "• Russia's Novorossiysk surfaced off the coast of France a few days ago",
+          "• It was shadowed by a French warship, an English ship and a Dutch ship"
+        ],
+        "stakes_bullets": [
+          "• Russia's Novorossiysk surfaced off the coast of France a few days ago",
+          "• It was shadowed by a French warship, an English ship and a Dutch ship",
+          "• But social media accounts linked to Russian security forces suggested a far more serious problem "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "adb93ad68b1f"
+    },
+    {
       "id": "3a51a36fd5dd",
       "title": "Government Shutdown Could Disrupt Timing of Crucial Conservation and Wildfire Efforts",
       "outlet": "Inside Climate News",
@@ -697,73 +962,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "48b988b920a3"
-    },
-    {
-      "id": "2cee4db6772c",
-      "title": "Jeep parent Stellantis announces $13 billion U.S. investment plan",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/stellantis-investment-turnaround.html",
-      "published_at": "Tue, 14 Oct 2025 21:08:23 GMT",
-      "bullets": [
-        "• Chrysler and Jeep parent Stellantis plans to invest $13 billion in U.S",
-        "• manufacturing operations over the next four years",
-        "• The investments will add more than 5,000 jobs to its workforce and involve new products at plants in Michigan, Illinois, Indiana and Ohio "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chrysler and Jeep parent Stellantis plans to invest $13 billion in U.S",
-          "• manufacturing operations over the next four years"
-        ],
-        "hopeful_bullets": [
-          "• Chrysler and Jeep parent Stellantis plans to invest $13 billion in U.S",
-          "• manufacturing operations over the next four years"
-        ],
-        "stakes_bullets": [
-          "• Chrysler and Jeep parent Stellantis plans to invest $13 billion in U.S",
-          "• The investments will add more than 5,000 jobs to its workforce and involve new products at plants in Michigan, Illinois, Indiana and Ohio "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "378c1154292d"
-    },
-    {
-      "id": "fcd62407f8b9",
-      "title": "Trump says list of ‘Democrat programs’ to be released on Friday as shutdown drags into third week – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/14/donald-trump-government-shutdown-national-guard-javier-milei-charlie-kirk-us-politics-live-news-updates",
-      "published_at": "Tue, 14 Oct 2025 21:06:40 GMT",
-      "bullets": [
-        "• Trump paid tribute to Charlie Kirk, comparing him to Socrates and MLK Jr",
-        "• The president went on to tout his law and order crackdown on US cities",
-        "• He claimed the city is now safe, but then police car sirens wailed near the White House "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump paid tribute to Charlie Kirk, comparing him to Socrates and MLK Jr",
-          "• The president went on to tout his law and order crackdown on US cities"
-        ],
-        "hopeful_bullets": [
-          "• Trump paid tribute to Charlie Kirk, comparing him to Socrates and MLK Jr",
-          "• The president went on to tout his law and order crackdown on US cities"
-        ],
-        "stakes_bullets": [
-          "• Trump paid tribute to Charlie Kirk, comparing him to Socrates and MLK Jr",
-          "• The president went on to tout his law and order crackdown on US cities",
-          "• He claimed the city is now safe, but then police car sirens wailed near the White House "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "3f9516b89965"
     },
     {
       "id": "d718e2090628",
@@ -838,32 +1036,63 @@
       "url": "https://www.bbc.com/news/articles/cg51625lmmgo?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 14 Oct 2025 21:03:33 GMT",
       "bullets": [
-        "• US strikes another vessel off Venezuela coast, killing six people, President Donald Trump says",
-        "• Trump says the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September",
-        "• In total, 27 people have been reported killed, but the US has not provided evidence or details about identities of the vessels "
+        "• US strikes another vessel off Venezuela coast, killing six people",
+        "• President Donald Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• US strikes another vessel off Venezuela coast, killing six people, President Donald Trump says",
-          "• Trump says the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September"
+          "• US strikes another vessel off Venezuela coast, killing six people",
+          "• President Donald Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September "
         ],
         "hopeful_bullets": [
-          "• US strikes another vessel off Venezuela coast, killing six people, President Donald Trump says",
-          "• Trump says the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September"
+          "• US strikes another vessel off Venezuela coast, killing six people",
+          "• President Donald Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September "
         ],
         "stakes_bullets": [
-          "• US strikes another vessel off Venezuela coast, killing six people, President Donald Trump says",
-          "• Trump says the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September",
-          "• In total, 27 people have been reported killed, but the US has not provided evidence or details about identities of the vessels "
+          "• US strikes another vessel off Venezuela coast, killing six people",
+          "• President Donald Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics\" This is the fifth strike of its kind by the Trump administration on a boat accused of trafficking drugs on international waters since September "
         ]
       },
       "read_minutes": 2,
       "cluster_id": "2eae1e932bea"
+    },
+    {
+      "id": "4f6fe734a3c3",
+      "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/",
+      "published_at": "Tue, 14 Oct 2025 21:01:50 +0000",
+      "bullets": [
+        "• Federal court documents reveal $15 billion worth of 'pig butchering' scam",
+        "• Scamsters trick people into sending them money to pay for their labor",
+        "• The scamsters are often held against their will in a private home in Cambodia",
+        "• The victims are often tricked into paying for the money "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal court documents reveal $15 billion worth of 'pig butchering' scam",
+          "• Scamsters trick people into sending them money to pay for their labor"
+        ],
+        "hopeful_bullets": [
+          "• The scamsters are often held against their will in a private home in Cambodia"
+        ],
+        "stakes_bullets": [
+          "• Federal court documents reveal $15 billion worth of 'pig butchering' scam",
+          "• The scamsters are often held against their will in a private home in Cambodia"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d35e2fe8a533"
     },
     {
       "id": "151f4ec33f10",
@@ -900,38 +1129,38 @@
       "cluster_id": "907b35b46c8d"
     },
     {
-      "id": "83e44db754e6",
+      "id": "f79ccec69435",
       "title": "Making Horror Personal – Zach Cregger on the Underlying Grief of ‘Weapons’",
       "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3909164/making-horror-personal-zach-cregger-on-the-underlying-grief-of-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=making-horror-personal-zach-cregger-on-the-underlying-grief-of-weapons",
+      "url": "https://bloody-disgusting.com/home-video/3909164/making-horror-personal-zach-cregger-on-the-underlying-grief-of-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=making-horror-personal-zach-cregger-on-the-underlying-grief-of-weapons",
       "published_at": "Tue, 14 Oct 2025 20:51:25 +0000",
       "bullets": [
-        "• Zach Cregger used the film as a conduit to process his own grief",
-        "• Weapons explores the death of a longtime collaborator who passed away suddenly in 2021",
-        "• Cregger: Making Horror Personal is a featurette that accompanies Weapons on home video "
+        "• Zach Cregger: Making Horror Personal, a featurette that accompanies Weapons on home video",
+        "• The writer-director used the film as a conduit to process his own grief",
+        "• In addition to processing the death of a friend, the film explores a childhood trauma "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 0.984
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Zach Cregger used the film as a conduit to process his own grief",
-          "• Weapons explores the death of a longtime collaborator who passed away suddenly in 2021"
+          "• Zach Cregger: Making Horror Personal, a featurette that accompanies Weapons on home video",
+          "• The writer-director used the film as a conduit to process his own grief"
         ],
         "hopeful_bullets": [
-          "• Zach Cregger used the film as a conduit to process his own grief",
-          "• Weapons explores the death of a longtime collaborator who passed away suddenly in 2021"
+          "• Zach Cregger: Making Horror Personal, a featurette that accompanies Weapons on home video",
+          "• The writer-director used the film as a conduit to process his own grief"
         ],
         "stakes_bullets": [
-          "• Zach Cregger used the film as a conduit to process his own grief",
-          "• Weapons explores the death of a longtime collaborator who passed away suddenly in 2021",
-          "• Cregger: Making Horror Personal is a featurette that accompanies Weapons on home video "
+          "• Zach Cregger: Making Horror Personal, a featurette that accompanies Weapons on home video",
+          "• The writer-director used the film as a conduit to process his own grief",
+          "• In addition to processing the death of a friend, the film explores a childhood trauma "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "babdd2ea7502"
+      "cluster_id": "61d010942885"
     },
     {
       "id": "4cc073df5d07",
@@ -999,6 +1228,37 @@
       },
       "read_minutes": 7,
       "cluster_id": "0781df9dfc08"
+    },
+    {
+      "id": "eb8bd997b279",
+      "title": "Trump admin pressured Facebook into removing ICE-tracking group",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group/",
+      "published_at": "Tue, 14 Oct 2025 20:44:02 +0000",
+      "bullets": [
+        "• Facebook removed an ICE-related group after \"outreach\" from the U.S",
+        "• Department of Justice",
+        "• The group violated a policy against \"coordinating harm and promoting crime\" The White House says there has been \"a more than 1,000 percent increase in attacks\" since January 21, 2025 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Facebook removed an ICE-related group after \"outreach\" from the U.S",
+          "• Department of Justice"
+        ],
+        "hopeful_bullets": [
+          "• The group violated a policy against \"coordinating harm and promoting crime\" The White House says there has been \"a more than 1,000 percent increase in attacks\" since January 21, 2025 "
+        ],
+        "stakes_bullets": [
+          "• The group violated a policy against \"coordinating harm and promoting crime\" The White House says there has been \"a more than 1,000 percent increase in attacks\" since January 21, 2025 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0f7261d0d229"
     },
     {
       "id": "a0f8b67fb801",
@@ -1817,41 +2077,6 @@
       "cluster_id": "255fc2bcb854"
     },
     {
-      "id": "eb3ffa50e358",
-      "title": "Georgie & Mandy Season 2 Takes Mary in a New Direction After George Sr.'s Death",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/georgie-mandy-season-2-mary-cooper-new-direction/",
-      "published_at": "Tue, 14 Oct 2025 18:51:53 GMT",
-      "bullets": [
-        "• Georgie & Mandy returns for its second season on CBS",
-        "• Episode 3 will see Mary Cooper go out on a date with her children",
-        "• The episode will be the first appearance of the Cooper dining room in the sequel series",
-        "• Georgie and Mandy Season 2 will also feature Young Sheldon alums Missy and Mary "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Georgie & Mandy returns for its second season on CBS",
-          "• Episode 3 will see Mary Cooper go out on a date with her children"
-        ],
-        "hopeful_bullets": [
-          "• Georgie & Mandy returns for its second season on CBS",
-          "• Episode 3 will see Mary Cooper go out on a date with her children"
-        ],
-        "stakes_bullets": [
-          "• Episode 3 will see Mary Cooper go out on a date with her children",
-          "• The episode will be the first appearance of the Cooper dining room in the sequel series",
-          "• Georgie and Mandy Season 2 will also feature Young Sheldon alums Missy and Mary "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3261e88b5e0f"
-    },
-    {
       "id": "b59aa0171202",
       "title": "OpenAI's latest deals show an aggressive pivot to control every part of its business",
       "outlet": "US Top News and Analysis",
@@ -1994,31 +2219,29 @@
       "url": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 14 Oct 2025 18:26:57 GMT",
       "bullets": [
-        "• R&B singer D'Angelo has died aged 51",
-        "• He was known for his hits including 'How Does It Feel' and 'Lady'",
-        "• He has been awarded four Grammy Awards for his work",
-        "• He is best known for the song 'How Do You Like It? Please Share your memories "
+        "• R&B and soul singer D'Angelo dies aged 51 after cancer diagnosis",
+        "• Singer's family say he left behind a \"legacy of extraordinarily moving music\" Doja Cat and Missy Elliot among stars to pay tribute to \"true voice of soul\""
       ],
       "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.998
+        "label": "negative",
+        "score": 0.951
       },
       "moods": {
         "brief_bullets": [
-          "• R&B singer D'Angelo has died aged 51",
-          "• He was known for his hits including 'How Does It Feel' and 'Lady'"
+          "• R&B and soul singer D'Angelo dies aged 51 after cancer diagnosis",
+          "• Singer's family say he left behind a \"legacy of extraordinarily moving music\" Doja Cat and Missy Elliot among stars to pay tribute to \"true voice of soul\""
         ],
         "hopeful_bullets": [
-          "• He has been awarded four Grammy Awards for his work"
+          "• R&B and soul singer D'Angelo dies aged 51 after cancer diagnosis",
+          "• Singer's family say he left behind a \"legacy of extraordinarily moving music\" Doja Cat and Missy Elliot among stars to pay tribute to \"true voice of soul\""
         ],
         "stakes_bullets": [
-          "• R&B singer D'Angelo has died aged 51",
-          "• He was known for his hits including 'How Does It Feel' and 'Lady'",
-          "• He has been awarded four Grammy Awards for his work"
+          "• R&B and soul singer D'Angelo dies aged 51 after cancer diagnosis",
+          "• Singer's family say he left behind a \"legacy of extraordinarily moving music\" Doja Cat and Missy Elliot among stars to pay tribute to \"true voice of soul\""
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "df6a9f93662c"
     },
     {
@@ -2490,30 +2713,30 @@
       "published_at": "Tue, 14 Oct 2025 17:12:21 GMT",
       "bullets": [
         "• US Supreme Court rejects Alex Jones appeal in Sandy Hook shooting case",
-        "• Right-wing conspiracy theorist was ordered to pay $1.5bn (£1.1bn) in damages for claiming the 2012 mass shooting at Sandy Hook Elementary School was a hoax",
-        "• Jones was being forced to sell Infowars media company to satirical news site The Onion "
+        "• Right-wing conspiracy theorist was ordered to pay $1.5bn in damages for claiming the 2012 shooting was a hoax",
+        "• Jones was being forced to sell his Infowars media company to satirical news site The Onion "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
           "• US Supreme Court rejects Alex Jones appeal in Sandy Hook shooting case",
-          "• Right-wing conspiracy theorist was ordered to pay $1.5bn (£1.1bn) in damages for claiming the 2012 mass shooting at Sandy Hook Elementary School was a hoax"
+          "• Right-wing conspiracy theorist was ordered to pay $1.5bn in damages for claiming the 2012 shooting was a hoax"
         ],
         "hopeful_bullets": [
-          "• Right-wing conspiracy theorist was ordered to pay $1.5bn (£1.1bn) in damages for claiming the 2012 mass shooting at Sandy Hook Elementary School was a hoax"
+          "• Right-wing conspiracy theorist was ordered to pay $1.5bn in damages for claiming the 2012 shooting was a hoax"
         ],
         "stakes_bullets": [
           "• US Supreme Court rejects Alex Jones appeal in Sandy Hook shooting case",
-          "• Right-wing conspiracy theorist was ordered to pay $1.5bn (£1.1bn) in damages for claiming the 2012 mass shooting at Sandy Hook Elementary School was a hoax",
-          "• Jones was being forced to sell Infowars media company to satirical news site The Onion "
+          "• Right-wing conspiracy theorist was ordered to pay $1.5bn in damages for claiming the 2012 shooting was a hoax",
+          "• Jones was being forced to sell his Infowars media company to satirical news site The Onion "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "3b27e4c4b751"
+      "cluster_id": "ee478442e7f4"
     },
     {
       "id": "5590d8f475eb",
@@ -2547,31 +2770,66 @@
       "cluster_id": "fff236b4995f"
     },
     {
+      "id": "18be11c5f0b1",
+      "title": "Multiple Texas airports are refusing to play video from DHS’ Noem blaming Democrats for government shutdown",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17185786/texas-airports-kristi-noem-tsa-video-government-shutdown",
+      "published_at": "Tue, 14 Oct 2025 17:00:20 -0500",
+      "bullets": [
+        "• Multiple Texas airports are refusing to play video from DHS’ Noem blaming Democrats for government shutdown",
+        "• Homeland Security Secretary Kristi Noem blames Democrats for shutdown",
+        "• Noem: “Democrats in Congress refuse to fund the federal government.”"
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Multiple Texas airports are refusing to play video from DHS’ Noem blaming Democrats for government shutdown",
+          "• Homeland Security Secretary Kristi Noem blames Democrats for shutdown"
+        ],
+        "hopeful_bullets": [
+          "• Multiple Texas airports are refusing to play video from DHS’ Noem blaming Democrats for government shutdown",
+          "• Homeland Security Secretary Kristi Noem blames Democrats for shutdown"
+        ],
+        "stakes_bullets": [
+          "• Multiple Texas airports are refusing to play video from DHS’ Noem blaming Democrats for government shutdown",
+          "• Homeland Security Secretary Kristi Noem blames Democrats for shutdown",
+          "• Noem: “Democrats in Congress refuse to fund the federal government.”"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "91403caa06dc"
+    },
+    {
       "id": "aa82483a74f4",
       "title": "Man who set fire to Pennsylvania governor’s mansion jailed",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdegnne8r3go?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 14 Oct 2025 16:58:35 GMT",
       "bullets": [
-        "• Man who set fire to Pennsylvania governor’s home sentenced to 25 to 50 years in prison",
-        "• The attack is part of a wave of political violence in the US, including attempted murder attempts against President Donald Trump and the assassination of two Minnesota state officials "
+        "• Cody Balmer, 38, pleaded guilty to attempted murder, aggravated arson, 22 counts of arson, burglary and other offenses at a court hearing on Tuesday",
+        "• He was accused of setting fire to Pennsylvania Governor Josh Shapiro’s residence on the second day of Passover",
+        "• Shapiro, his wife, his four children, and guests and staff members were able to escape unscathed "
       ],
       "category": "World",
       "sentiment": {
-        "label": "negative",
-        "score": 0.99
+        "label": "positive",
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
-          "• Man who set fire to Pennsylvania governor’s home sentenced to 25 to 50 years in prison",
-          "• The attack is part of a wave of political violence in the US, including attempted murder attempts against President Donald Trump and the assassination of two Minnesota state officials "
+          "• Cody Balmer, 38, pleaded guilty to attempted murder, aggravated arson, 22 counts of arson, burglary and other offenses at a court hearing on Tuesday",
+          "• He was accused of setting fire to Pennsylvania Governor Josh Shapiro’s residence on the second day of Passover"
         ],
         "hopeful_bullets": [
-          "• The attack is part of a wave of political violence in the US, including attempted murder attempts against President Donald Trump and the assassination of two Minnesota state officials "
+          "• Cody Balmer, 38, pleaded guilty to attempted murder, aggravated arson, 22 counts of arson, burglary and other offenses at a court hearing on Tuesday",
+          "• He was accused of setting fire to Pennsylvania Governor Josh Shapiro’s residence on the second day of Passover"
         ],
         "stakes_bullets": [
-          "• Man who set fire to Pennsylvania governor’s home sentenced to 25 to 50 years in prison",
-          "• The attack is part of a wave of political violence in the US, including attempted murder attempts against President Donald Trump and the assassination of two Minnesota state officials "
+          "• Cody Balmer, 38, pleaded guilty to attempted murder, aggravated arson, 22 counts of arson, burglary and other offenses at a court hearing on Tuesday"
         ]
       },
       "read_minutes": 2,
@@ -2749,40 +3007,6 @@
       "cluster_id": "c898de039b5b"
     },
     {
-      "id": "9b89c08c45ff",
-      "title": "California engineer wins contest with pumpkin that weighs over 2,000lb",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/14/california-engineer-wins-pumpkin-contest",
-      "published_at": "Tue, 14 Oct 2025 16:19:52 GMT",
-      "bullets": [
-        "• Brandon Dawson, of Santa Rosa, California, clinched the victory Monday at the 52nd World Championship Pumpkin Weigh-Off in Half Moon Bay",
-        "• Dawson pumped his arms in the air and sat his two children on top of the giant pumpkin after being crowned this year’s winner",
-        "• Precision skills acquired at his job helped him with the right watering and sunlight to help his gourd grow "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Brandon Dawson, of Santa Rosa, California, clinched the victory Monday at the 52nd World Championship Pumpkin Weigh-Off in Half Moon Bay",
-          "• Dawson pumped his arms in the air and sat his two children on top of the giant pumpkin after being crowned this year’s winner"
-        ],
-        "hopeful_bullets": [
-          "• Dawson pumped his arms in the air and sat his two children on top of the giant pumpkin after being crowned this year’s winner",
-          "• Precision skills acquired at his job helped him with the right watering and sunlight to help his gourd grow "
-        ],
-        "stakes_bullets": [
-          "• Brandon Dawson, of Santa Rosa, California, clinched the victory Monday at the 52nd World Championship Pumpkin Weigh-Off in Half Moon Bay",
-          "• Dawson pumped his arms in the air and sat his two children on top of the giant pumpkin after being crowned this year’s winner",
-          "• Precision skills acquired at his job helped him with the right watering and sunlight to help his gourd grow "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3949775c4e9b"
-    },
-    {
       "id": "300114669f73",
       "title": "French PM backs freezing Macron's pension reform to save government",
       "outlet": "BBC News",
@@ -2817,36 +3041,37 @@
       "cluster_id": "7ab001eed831"
     },
     {
-      "id": "90c8765b631a",
-      "title": "US supreme court rejects Alex Jones appeal over $1.4bn defamation penalty",
+      "id": "906f49313f49",
+      "title": "Josh Shapiro home arsonist gets up to 50 years in prison after guilty plea",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/14/alex-jones-supreme-court-appeal-rejected",
-      "published_at": "Tue, 14 Oct 2025 16:03:13 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/oct/14/josh-shapiro-home-arson-suspect-pleads-guilty",
+      "published_at": "Tue, 14 Oct 2025 16:09:58 GMT",
       "bullets": [
-        "• Infowars founder Alex Jones had sought to overturn the $1.4bn defamation penalty",
-        "• He had claimed the massacre in Newtown, Connecticut, was a hoax staged by crisis actors",
-        "• Sandy Hook victims' survivors reported that Jones’s lies spurred threats and harassment from his followers "
+        "• Cody Balmer, 38, entered pleas to terrorism, 22 counts of arson, burglary, aggravated assault of Shapiro, 21 counts of reckless endangerment and loitering",
+        "• The fire resulted in millions of dollars in damage to the state-owned brick building",
+        "• Balmer told police he planned to beat Shapiro with a small sledgehammer if he had encountered him "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Infowars founder Alex Jones had sought to overturn the $1.4bn defamation penalty",
-          "• He had claimed the massacre in Newtown, Connecticut, was a hoax staged by crisis actors"
+          "• Cody Balmer, 38, entered pleas to terrorism, 22 counts of arson, burglary, aggravated assault of Shapiro, 21 counts of reckless endangerment and loitering",
+          "• The fire resulted in millions of dollars in damage to the state-owned brick building"
         ],
         "hopeful_bullets": [
-          "• Infowars founder Alex Jones had sought to overturn the $1.4bn defamation penalty",
-          "• He had claimed the massacre in Newtown, Connecticut, was a hoax staged by crisis actors"
+          "• Cody Balmer, 38, entered pleas to terrorism, 22 counts of arson, burglary, aggravated assault of Shapiro, 21 counts of reckless endangerment and loitering",
+          "• The fire resulted in millions of dollars in damage to the state-owned brick building"
         ],
         "stakes_bullets": [
-          "• He had claimed the massacre in Newtown, Connecticut, was a hoax staged by crisis actors"
+          "• The fire resulted in millions of dollars in damage to the state-owned brick building",
+          "• Balmer told police he planned to beat Shapiro with a small sledgehammer if he had encountered him "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "3b27e4c4b751"
+      "cluster_id": "a9c9de08a794"
     },
     {
       "id": "4824f162f128",
@@ -3440,38 +3665,6 @@
       "cluster_id": "760822b62224"
     },
     {
-      "id": "4464f85a8404",
-      "title": "Charli XCX’s ‘The Moment’ Is Fiction, But Also ‘The Realest Depiction of the Music Industry’ She’s Seen",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/charli-xcx-the-moment-2024-period-piece-1235446763/",
-      "published_at": "Tue, 14 Oct 2025 13:58:39 +0000",
-      "bullets": [
-        "• Charli XCX discussed her upcoming movie project, The Moment, in a new Vanity Fair cover story",
-        "• She called the film a “2024 period piece” and “the realest depiction of the music industry that I’ve ever seen” Details about the mysterious project have trickled out over the past year "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Charli XCX discussed her upcoming movie project, The Moment, in a new Vanity Fair cover story",
-          "• She called the film a “2024 period piece” and “the realest depiction of the music industry that I’ve ever seen” Details about the mysterious project have trickled out over the past year "
-        ],
-        "hopeful_bullets": [
-          "• Charli XCX discussed her upcoming movie project, The Moment, in a new Vanity Fair cover story",
-          "• She called the film a “2024 period piece” and “the realest depiction of the music industry that I’ve ever seen” Details about the mysterious project have trickled out over the past year "
-        ],
-        "stakes_bullets": [
-          "• Charli XCX discussed her upcoming movie project, The Moment, in a new Vanity Fair cover story",
-          "• She called the film a “2024 period piece” and “the realest depiction of the music industry that I’ve ever seen” Details about the mysterious project have trickled out over the past year "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e6c8af90404c"
-    },
-    {
       "id": "e0ada7040ade",
       "title": "TribCast: Is Robert Roberson innocent?",
       "outlet": "The Texas Tribune",
@@ -3641,41 +3834,6 @@
       "cluster_id": "c7efc88d449d"
     },
     {
-      "id": "666963297488",
-      "title": "Faith No More’s Roddy Bottum Eats Goldfish and Searches for Timothy Leary in Memoir Excerpt",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/faith-no-more-roddy-bottum-the-royal-we-memoir-excerpt-1235444597/",
-      "published_at": "Tue, 14 Oct 2025 13:30:40 +0000",
-      "bullets": [
-        "• Roddy Bottum's memoir, The Royal We, is out Nov",
-        "• 4",
-        "• The book is centered around Bottum’s fateful journey from Los Angeles to San Francisco",
-        "• It also delves into his struggles with heroin addiction, and living through the AIDS crisis "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.963
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Roddy Bottum's memoir, The Royal We, is out Nov",
-          "• 4"
-        ],
-        "hopeful_bullets": [
-          "• Roddy Bottum's memoir, The Royal We, is out Nov",
-          "• 4"
-        ],
-        "stakes_bullets": [
-          "• Roddy Bottum's memoir, The Royal We, is out Nov",
-          "• 4",
-          "• The book is centered around Bottum’s fateful journey from Los Angeles to San Francisco"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "017732da4ad8"
-    },
-    {
       "id": "ea7a1bc90efe",
       "title": "Best Wireless Headphones (2025): Tested Over Many Hours",
       "outlet": "WIRED",
@@ -3805,38 +3963,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "fe8028a95e6b"
-    },
-    {
-      "id": "3447fdc88930",
-      "title": "Best Wireless Earbuds (2025): Apple, Sony, Bose, and More",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-wirefree-earbuds/",
-      "published_at": "Tue, 14 Oct 2025 13:00:00 +0000",
-      "bullets": [
-        "• After testing hundreds of pairs of wireless earbuds over several years, these are our favorites in a wide range of styles and prices",
-        "• Beyerdynamic Amiron 300 for $180 looks nondescript and sound fantastic, but lack any of the superlative qualities of the buds on the list above "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      },
-      "moods": {
-        "brief_bullets": [
-          "• After testing hundreds of pairs of wireless earbuds over several years, these are our favorites in a wide range of styles and prices",
-          "• Beyerdynamic Amiron 300 for $180 looks nondescript and sound fantastic, but lack any of the superlative qualities of the buds on the list above "
-        ],
-        "hopeful_bullets": [
-          "• After testing hundreds of pairs of wireless earbuds over several years, these are our favorites in a wide range of styles and prices",
-          "• Beyerdynamic Amiron 300 for $180 looks nondescript and sound fantastic, but lack any of the superlative qualities of the buds on the list above "
-        ],
-        "stakes_bullets": [
-          "• After testing hundreds of pairs of wireless earbuds over several years, these are our favorites in a wide range of styles and prices",
-          "• Beyerdynamic Amiron 300 for $180 looks nondescript and sound fantastic, but lack any of the superlative qualities of the buds on the list above "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "030ab2cb5130"
     },
     {
       "id": "793e6170ab3a",
@@ -4397,39 +4523,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "7bb0af73f8a8"
-    },
-    {
-      "id": "97d5e8e71237",
-      "title": "SpaceX finally got exactly what it needed from Starship V2",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/10/after-year-of-hardships-spacexs-starship-finally-flirts-with-perfection/",
-      "published_at": "Tue, 14 Oct 2025 07:05:16 +0000",
-      "bullets": [
-        "• The rocket's 33 methane-fueled Raptor engines roared to life at 6:23 pm CDT (7:23 p.m",
-        "• ET) The rocket carried the spacecraft halfway around the world from South Texas to the Indian Ocean",
-        "• The only flight with a similar claim occurred one year ago when the rocket's Super Heavy booster was recovered "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.959
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The rocket's 33 methane-fueled Raptor engines roared to life at 6:23 pm CDT (7:23 p.m",
-          "• ET) The rocket carried the spacecraft halfway around the world from South Texas to the Indian Ocean"
-        ],
-        "hopeful_bullets": [
-          "• The only flight with a similar claim occurred one year ago when the rocket's Super Heavy booster was recovered "
-        ],
-        "stakes_bullets": [
-          "• The rocket's 33 methane-fueled Raptor engines roared to life at 6:23 pm CDT (7:23 p.m",
-          "• ET) The rocket carried the spacecraft halfway around the world from South Texas to the Indian Ocean",
-          "• The only flight with a similar claim occurred one year ago when the rocket's Super Heavy booster was recovered "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "dfae60c27d46"
     },
     {
       "id": "a94199a70253",
@@ -6610,71 +6703,6 @@
       "cluster_id": "7f95c3bda4d6"
     },
     {
-      "id": "dcfe323b2a2e",
-      "title": "Hackers can steal 2FA codes and private messages from Android phones",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
-      "published_at": "Mon, 13 Oct 2025 21:36:35 +0000",
-      "bullets": [
-        "• New attack can covertly steal two-factor authentication codes, location timelines, and other private data",
-        "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet",
-        "• The malicious app requires no system permissions and can effectively read data that any other installed app displays on the screen "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New attack can covertly steal two-factor authentication codes, location timelines, and other private data",
-          "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet"
-        ],
-        "hopeful_bullets": [
-          "• New attack can covertly steal two-factor authentication codes, location timelines, and other private data",
-          "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet"
-        ],
-        "stakes_bullets": [
-          "• The new attack, named Pixnapping, requires a victim to install a malicious app on an Android phone or tablet",
-          "• The malicious app requires no system permissions and can effectively read data that any other installed app displays on the screen "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8cc69f67921d"
-    },
-    {
-      "id": "0cf27d861ce0",
-      "title": "Measles outbreak in SC sends 150 unvaccinated kids into 21-day quarantine",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/health/2025/10/over-150-unvaccinated-kids-quarantined-for-21-days-in-sc-measles-outbreak/",
-      "published_at": "Mon, 13 Oct 2025 20:48:21 +0000",
-      "bullets": [
-        "• Seven cases have been confirmed since September 25 in Spartanburg, South Carolina",
-        "• At least 153 unvaccinated children have been put in a 21-day quarantine",
-        "• The two recommended doses of the measles, mumps, and rubella (MMR) vaccine are about 97 percent effective "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.528
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Seven cases have been confirmed since September 25 in Spartanburg, South Carolina",
-          "• At least 153 unvaccinated children have been put in a 21-day quarantine"
-        ],
-        "hopeful_bullets": [
-          "• Seven cases have been confirmed since September 25 in Spartanburg, South Carolina",
-          "• At least 153 unvaccinated children have been put in a 21-day quarantine"
-        ],
-        "stakes_bullets": [
-          "• The two recommended doses of the measles, mumps, and rubella (MMR) vaccine are about 97 percent effective "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "6f1cbf37202a"
-    },
-    {
       "id": "07da85a860cc",
       "title": "EXCLUSIVE ‘We Put The World To Sleep’: Spiritual Sequel to Found Footage Nightmare ‘Be My Cat’ Starts Festival Run This October",
       "outlet": "Dread Central",
@@ -7984,40 +8012,6 @@
       "cluster_id": "09c739d96aa2"
     },
     {
-      "id": "513217038302",
-      "title": "Dallas County GOP’s push to hand-count 2026 ballots could upend voting for Democrats",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182887/dallas-county-republicans-hand-counting-ballots-march-2026-primary",
-      "published_at": "Fri, 10 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Dallas County GOP’s push to hand-count 2026 ballots could upend voting for Democrats",
-        "• Decision could force Dallas Democrats, as well as Republicans, to return to casting ballots at local precincts",
-        "• It could also vastly increase the cost of holding both primaries "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.964
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dallas County GOP’s push to hand-count 2026 ballots could upend voting for Democrats",
-          "• Decision could force Dallas Democrats, as well as Republicans, to return to casting ballots at local precincts"
-        ],
-        "hopeful_bullets": [
-          "• Dallas County GOP’s push to hand-count 2026 ballots could upend voting for Democrats",
-          "• Decision could force Dallas Democrats, as well as Republicans, to return to casting ballots at local precincts"
-        ],
-        "stakes_bullets": [
-          "• Dallas County GOP’s push to hand-count 2026 ballots could upend voting for Democrats",
-          "• Decision could force Dallas Democrats, as well as Republicans, to return to casting ballots at local precincts",
-          "• It could also vastly increase the cost of holding both primaries "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "f3c780f1966f"
-    },
-    {
       "id": "2dfaa5b54777",
       "title": "Remembering primate expert and conservationist Jane Goodall",
       "outlet": "NPR Topics: Science",
@@ -9065,7 +9059,7 @@
       ]
     },
     {
-      "id": "3b27e4c4b751",
+      "id": "ee478442e7f4",
       "topic": "alex appeal court jone",
       "keywords": [
         "alex",
@@ -9076,12 +9070,10 @@
         "supreme"
       ],
       "item_ids": [
-        "a5c4c6aefff9",
-        "90c8765b631a"
+        "a5c4c6aefff9"
       ],
       "outlets": [
-        "BBC News",
-        "US news | The Guardian"
+        "BBC News"
       ]
     },
     {
@@ -9265,18 +9257,36 @@
       ]
     },
     {
-      "id": "3f9516b89965",
-      "topic": "democrat friday list program",
+      "id": "5d564e28515d",
+      "topic": "boast call charlie kirk",
       "keywords": [
-        "democrat",
-        "friday",
-        "list",
-        "program",
-        "released",
+        "boast",
+        "call",
+        "charlie",
+        "kirk",
+        "martyr",
         "trump"
       ],
       "item_ids": [
         "fcd62407f8b9"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "c9254370e36d",
+      "topic": "award charlie kirk posthumously",
+      "keywords": [
+        "award",
+        "charlie",
+        "kirk",
+        "posthumously",
+        "presidential",
+        "trump"
+      ],
+      "item_ids": [
+        "2b386ac9c9c6"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9371,18 +9381,18 @@
       ]
     },
     {
-      "id": "3949775c4e9b",
-      "topic": "california contest engineer pumpkin",
+      "id": "a9c9de08a794",
+      "topic": "arsonist gets home josh",
       "keywords": [
-        "california",
-        "contest",
-        "engineer",
-        "pumpkin",
-        "weigh",
-        "wins"
+        "arsonist",
+        "gets",
+        "home",
+        "josh",
+        "shapiro",
+        "year"
       ],
       "item_ids": [
-        "9b89c08c45ff"
+        "906f49313f49"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9748,6 +9758,24 @@
       ]
     },
     {
+      "id": "bf70c76b51b8",
+      "topic": "attack authentication factor hacker",
+      "keywords": [
+        "attack",
+        "authentication",
+        "factor",
+        "hacker",
+        "lets",
+        "steal"
+      ],
+      "item_ids": [
+        "c95147bb0fc8"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "690e802becf0",
       "topic": "companie gaza list nearly",
       "keywords": [
@@ -9900,24 +9928,6 @@
       ],
       "item_ids": [
         "ea7a1bc90efe"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "030ab2cb5130",
-      "topic": "2025 apple best earbud",
-      "keywords": [
-        "2025",
-        "apple",
-        "best",
-        "earbud",
-        "sony",
-        "wireles"
-      ],
-      "item_ids": [
-        "3447fdc88930"
       ],
       "outlets": [
         "WIRED"
@@ -10094,6 +10104,60 @@
       ]
     },
     {
+      "id": "adb93ad68b1f",
+      "topic": "boss mock nato navy",
+      "keywords": [
+        "boss",
+        "mock",
+        "nato",
+        "navy",
+        "russian",
+        "which"
+      ],
+      "item_ids": [
+        "95d1903e976a"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "d35e2fe8a533",
+      "topic": "alleged billion feds forced",
+      "keywords": [
+        "alleged",
+        "billion",
+        "feds",
+        "forced",
+        "labor",
+        "seize"
+      ],
+      "item_ids": [
+        "4f6fe734a3c3"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "0f7261d0d229",
+      "topic": "admin facebook ice pressured",
+      "keywords": [
+        "admin",
+        "facebook",
+        "ice",
+        "pressured",
+        "removing",
+        "trump"
+      ],
+      "item_ids": [
+        "eb8bd997b279"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "cc8a4401be9b",
       "topic": "ads directv face generated",
       "keywords": [
@@ -10214,60 +10278,6 @@
       ],
       "item_ids": [
         "db07582af0d3"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "dfae60c27d46",
-      "topic": "exactly finally got needed",
-      "keywords": [
-        "exactly",
-        "finally",
-        "got",
-        "needed",
-        "spacex",
-        "starship"
-      ],
-      "item_ids": [
-        "97d5e8e71237"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "8cc69f67921d",
-      "topic": "2fa code hacker message",
-      "keywords": [
-        "2fa",
-        "code",
-        "hacker",
-        "message",
-        "private",
-        "steal"
-      ],
-      "item_ids": [
-        "dcfe323b2a2e"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "6f1cbf37202a",
-      "topic": "150 kids measle outbreak",
-      "keywords": [
-        "150",
-        "kids",
-        "measle",
-        "outbreak",
-        "send",
-        "unvaccinated"
-      ],
-      "item_ids": [
-        "0cf27d861ce0"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -11376,7 +11386,7 @@
       ]
     },
     {
-      "id": "babdd2ea7502",
+      "id": "61d010942885",
       "topic": "cregger horror making personal",
       "keywords": [
         "cregger",
@@ -11387,7 +11397,7 @@
         "zach"
       ],
       "item_ids": [
-        "83e44db754e6"
+        "f79ccec69435"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12789,6 +12799,24 @@
       ]
     },
     {
+      "id": "0451667e7b1a",
+      "topic": "actually ball dragon these",
+      "keywords": [
+        "actually",
+        "ball",
+        "dragon",
+        "these",
+        "thought",
+        "villain"
+      ],
+      "item_ids": [
+        "a144cbd9e627"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "7560299a2cc1",
       "topic": "creator last star starship",
       "keywords": [
@@ -12945,24 +12973,6 @@
       ],
       "item_ids": [
         "9a56dbb4d7e7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3261e88b5e0f",
-      "topic": "direction georgie mandy mary",
-      "keywords": [
-        "direction",
-        "georgie",
-        "mandy",
-        "mary",
-        "season",
-        "take"
-      ],
-      "item_ids": [
-        "eb3ffa50e358"
       ],
       "outlets": [
         "CBR"
@@ -13147,6 +13157,42 @@
       ]
     },
     {
+      "id": "2ce803ba24fd",
+      "topic": "civil hire january judge",
+      "keywords": [
+        "civil",
+        "hire",
+        "january",
+        "judge",
+        "lawyer",
+        "relli"
+      ],
+      "item_ids": [
+        "81c3be16f17e"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "5c1e1434a17e",
+      "topic": "britney federline kevin situation",
+      "keywords": [
+        "britney",
+        "federline",
+        "kevin",
+        "situation",
+        "spear",
+        "worrie"
+      ],
+      "item_ids": [
+        "18d7b5d69d40"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "f617f9d1f7d0",
       "topic": "angelo coming second",
       "keywords": [
@@ -13278,42 +13324,6 @@
       ],
       "item_ids": [
         "df5f47bb72d9"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "e6c8af90404c",
-      "topic": "charli depiction fiction moment",
-      "keywords": [
-        "charli",
-        "depiction",
-        "fiction",
-        "moment",
-        "realest",
-        "xcx"
-      ],
-      "item_ids": [
-        "4464f85a8404"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "017732da4ad8",
-      "topic": "bottum eats faith goldfish",
-      "keywords": [
-        "bottum",
-        "eats",
-        "faith",
-        "goldfish",
-        "roddy",
-        "searche"
-      ],
-      "item_ids": [
-        "666963297488"
       ],
       "outlets": [
         "Music News"
@@ -13498,6 +13508,24 @@
       ]
     },
     {
+      "id": "91403caa06dc",
+      "topic": "airport multiple play refusing",
+      "keywords": [
+        "airport",
+        "multiple",
+        "play",
+        "refusing",
+        "texa",
+        "video"
+      ],
+      "item_ids": [
+        "18be11c5f0b1"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "c005335f52b8",
       "topic": "innocent roberson robert tribcast",
       "keywords": [
@@ -13652,24 +13680,6 @@
       ],
       "item_ids": [
         "94762c340a64"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "f3c780f1966f",
-      "topic": "count county dalla gop",
-      "keywords": [
-        "count",
-        "county",
-        "dalla",
-        "gop",
-        "hand",
-        "push"
-      ],
-      "item_ids": [
-        "513217038302"
       ],
       "outlets": [
         "The Texas Tribune"
