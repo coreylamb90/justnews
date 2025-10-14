@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T05:16:58Z",
+  "generated_at": "2025-10-14T05:57:04Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -589,20 +589,122 @@
       "cluster_id": "6cc9daf95221"
     },
     {
-      "id": "3a4384039b1e",
-      "title": "China chipmaker WingTech plunges 10% after Dutch government takes control of subsidiary Nexperia",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/asia-pacific-markets-set-to-open-lower-as-new-china-port-fees-on-us-ships-kick-in-.html",
-      "published_at": "Tue, 14 Oct 2025 04:50:23 GMT",
+      "id": "3a960f16a4e0",
+      "title": "Millie Bobby Brown and Rachel Brosnahan Team Up For Prism",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/millie-bobby-brown-rachel-brosnahan-prism-netflix/",
+      "published_at": "Tue, 14 Oct 2025 05:33:37 GMT",
       "bullets": [
-        "• Shanghai-listed shares of Chinese chipmaker Wingtech plunged 10% at the open on Tuesday",
-        "• Dutch government took control of its Netherlands-based subsidiary Nexperia",
-        "• South Korean Kospi index added 1.01% to hit an all-time high of 3,646.67 "
+        "• Stranger Things' Millie Bobby Brown and Superman's Rachel Brosnahan are set to both star and executive produce Prism, which is currently in development at Netflix",
+        "• Etan Frankel (Shameless, Joe vs",
+        "• Carole) is being tapped to be the showrunner",
+        "• Character details tease that Brown will play Cassie, a woman with the unique ability to communicate with ghosts as she tries to uncover the cause of a newly discovered phenomenon that causes 'visitors' to appear all over the world "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stranger Things' Millie Bobby Brown and Superman's Rachel Brosnahan are set to both star and executive produce Prism, which is currently in development at Netflix",
+          "• Etan Frankel (Shameless, Joe vs"
+        ],
+        "hopeful_bullets": [
+          "• Stranger Things' Millie Bobby Brown and Superman's Rachel Brosnahan are set to both star and executive produce Prism, which is currently in development at Netflix",
+          "• Etan Frankel (Shameless, Joe vs"
+        ],
+        "stakes_bullets": [
+          "• Stranger Things' Millie Bobby Brown and Superman's Rachel Brosnahan are set to both star and executive produce Prism, which is currently in development at Netflix",
+          "• Character details tease that Brown will play Cassie, a woman with the unique ability to communicate with ghosts as she tries to uncover the cause of a newly discovered phenomenon that causes 'visitors' to appear all over the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "90e7fd7767ab"
+    },
+    {
+      "id": "e22ec71e6020",
+      "title": "European markets set to open lower as positive sentiment vanishes",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/european-markets-on-weds-oct-stoxx-600-ftse-dax-cac.html",
+      "published_at": "Tue, 14 Oct 2025 05:12:50 GMT",
+      "bullets": [
+        "• European stocks are expected to open lower on Tuesday, reversing largely positive sentiment at start of week",
+        "• Markets have been on tenterhooks after U.S",
+        "• President Donald Trump threatened China with a fresh wave of tariff increases",
+        "• China controls about 70% of the global supply of rare earths minerals, critical for high-tech industries "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• European stocks are expected to open lower on Tuesday, reversing largely positive sentiment at start of week",
+          "• Markets have been on tenterhooks after U.S"
+        ],
+        "hopeful_bullets": [
+          "• European stocks are expected to open lower on Tuesday, reversing largely positive sentiment at start of week",
+          "• Markets have been on tenterhooks after U.S"
+        ],
+        "stakes_bullets": [
+          "• European stocks are expected to open lower on Tuesday, reversing largely positive sentiment at start of week",
+          "• President Donald Trump threatened China with a fresh wave of tariff increases"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c9308b1f2dd8"
+    },
+    {
+      "id": "070a71f57bef",
+      "title": "China targets five U.S. subsidiaries of South Korea's Hanwha Ocean, sending shares down 8%",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/china-sanctions-five-us-subsidiaries-of-south-koreas-hanwha-ocean-over-their-ties-with-washington.html",
+      "published_at": "Tue, 14 Oct 2025 05:02:43 GMT",
+      "bullets": [
+        "• China added five U.S",
+        "• subsidiaries of South Korean shipbuilder Hanwha Ocean to its sanction list",
+        "• The move follows the United States' decision to impose steep fees on Chinese ships docking at American ports",
+        "• Beijing has also unveiled a new framework for restricting rare earths exports and expanded its blacklist of U .S",
+        "• companies "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.555
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China added five U.S",
+          "• subsidiaries of South Korean shipbuilder Hanwha Ocean to its sanction list"
+        ],
+        "hopeful_bullets": [
+          "• China added five U.S",
+          "• subsidiaries of South Korean shipbuilder Hanwha Ocean to its sanction list"
+        ],
+        "stakes_bullets": [
+          "• Beijing has also unveiled a new framework for restricting rare earths exports and expanded its blacklist of U .S"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6aefb8d6212d"
+    },
+    {
+      "id": "3a4384039b1e",
+      "title": "China chipmaker WingTech plunges 10% after Dutch government takes control of subsidiary Nexperia",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/asia-pacific-markets-set-to-open-lower-as-new-china-port-fees-on-us-ships-kick-in-.html",
+      "published_at": "Tue, 14 Oct 2025 04:57:26 GMT",
+      "bullets": [
+        "• Shanghai-listed shares of Chinese chipmaker Wingtech plunged 10% at the open on Tuesday",
+        "• Dutch government took control of its Netherlands-based subsidiary Nexperia",
+        "• South Korea's Kospi index added 1.01% to hit an all-time high of 3,646.67 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
@@ -615,11 +717,43 @@
         "stakes_bullets": [
           "• Shanghai-listed shares of Chinese chipmaker Wingtech plunged 10% at the open on Tuesday",
           "• Dutch government took control of its Netherlands-based subsidiary Nexperia",
-          "• South Korean Kospi index added 1.01% to hit an all-time high of 3,646.67 "
+          "• South Korea's Kospi index added 1.01% to hit an all-time high of 3,646.67 "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "aad2a69091a7"
+    },
+    {
+      "id": "470356b2315a",
+      "title": "US Congress committee investigating Musk-owned Starlink over Myanmar scam centres",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/14/us-congress-committee-investigating-musk-owned-starlink-over-myanmar-scam-centres",
+      "published_at": "Tue, 14 Oct 2025 04:42:29 GMT",
+      "bullets": [
+        "• US Congress joint economic committee said it began an investigation in July into Starlink’s involvement with scam centres in Myanmar",
+        "• The move comes as it was revealed that large numbers of Starlink dishes began appearing on scam-centre roofs in Myanmar around the time of a crackdown in February "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US Congress joint economic committee said it began an investigation in July into Starlink’s involvement with scam centres in Myanmar",
+          "• The move comes as it was revealed that large numbers of Starlink dishes began appearing on scam-centre roofs in Myanmar around the time of a crackdown in February "
+        ],
+        "hopeful_bullets": [
+          "• US Congress joint economic committee said it began an investigation in July into Starlink’s involvement with scam centres in Myanmar",
+          "• The move comes as it was revealed that large numbers of Starlink dishes began appearing on scam-centre roofs in Myanmar around the time of a crackdown in February "
+        ],
+        "stakes_bullets": [
+          "• US Congress joint economic committee said it began an investigation in July into Starlink’s involvement with scam centres in Myanmar",
+          "• The move comes as it was revealed that large numbers of Starlink dishes began appearing on scam-centre roofs in Myanmar around the time of a crackdown in February "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e3f655b11529"
     },
     {
       "id": "566fd5ce98a6",
@@ -651,38 +785,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a199c7ff14fc"
-    },
-    {
-      "id": "070a71f57bef",
-      "title": "China targets five U.S. subsidiaries of South Korea's Hanwha Ocean over Washington shipping probe",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/china-sanctions-five-us-subsidiaries-of-south-koreas-hanwha-ocean-over-their-ties-with-washington.html",
-      "published_at": "Tue, 14 Oct 2025 04:38:10 GMT",
-      "bullets": [
-        "• China has added five U.S",
-        "• subsidiaries of South Korean shipbuilder Hanwha Ocean to its sanction list over their alleged involvement in Washington's probe into the Chinese shipping industry",
-        "• The order will prohibit organizations and individuals in China from doing business with the sanctioned companies "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China has added five U.S",
-          "• subsidiaries of South Korean shipbuilder Hanwha Ocean to its sanction list over their alleged involvement in Washington's probe into the Chinese shipping industry"
-        ],
-        "hopeful_bullets": [
-          "• China has added five U.S",
-          "• subsidiaries of South Korean shipbuilder Hanwha Ocean to its sanction list over their alleged involvement in Washington's probe into the Chinese shipping industry"
-        ],
-        "stakes_bullets": [
-          "• The order will prohibit organizations and individuals in China from doing business with the sanctioned companies "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "6aefb8d6212d"
     },
     {
       "id": "389e8f776120",
@@ -1084,38 +1186,6 @@
       "cluster_id": "886e71d4cb9c"
     },
     {
-      "id": "888c3c8b3557",
-      "title": "10 Times Thor Proved He is the Most Powerful Avenger",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/thor-strongest-avenger-comic-proof/",
-      "published_at": "Tue, 14 Oct 2025 02:25:12 GMT",
-      "bullets": [
-        "• Thor has had a slew of moments where he could be considered the most powerful Avenger",
-        "• The god of thunder has demonstrated raw, brute strength and otherworldly power countless times",
-        "• It is nearly impossible to deny his power, especially in comparison to some of his teammates "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thor has had a slew of moments where he could be considered the most powerful Avenger",
-          "• The god of thunder has demonstrated raw, brute strength and otherworldly power countless times"
-        ],
-        "hopeful_bullets": [
-          "• Thor has had a slew of moments where he could be considered the most powerful Avenger",
-          "• The god of thunder has demonstrated raw, brute strength and otherworldly power countless times"
-        ],
-        "stakes_bullets": [
-          "• Thor has had a slew of moments where he could be considered the most powerful Avenger"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "811a19aca2ca"
-    },
-    {
       "id": "46ad369fa1fa",
       "title": "Busta Rhymes Countersues Former Assistant Over ‘False’ Assault Allegations",
       "outlet": "Music News",
@@ -1148,6 +1218,71 @@
       },
       "read_minutes": 2,
       "cluster_id": "097e8a04c966"
+    },
+    {
+      "id": "3bd4ec993b2d",
+      "title": "Scientists build artificial neurons that work like real ones",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+      "published_at": "Tue, 14 Oct 2025 01:31:23 EDT",
+      "bullets": [
+        "• Scientists build artificial neurons that work like real ones",
+        "• Researchers have created low-voltage artificial neurons using bacteria-grown protein nanowires",
+        "• This allows for seamless communication with biological cells and drastically improved energy efficiency",
+        "• Discovery could lead to bio-inspired computers and wearable electronics that no longer need power-hungry amplifiers "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists build artificial neurons that work like real ones",
+          "• Researchers have created low-voltage artificial neurons using bacteria-grown protein nanowires"
+        ],
+        "hopeful_bullets": [
+          "• This allows for seamless communication with biological cells and drastically improved energy efficiency"
+        ],
+        "stakes_bullets": [
+          "• Discovery could lead to bio-inspired computers and wearable electronics that no longer need power-hungry amplifiers "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9227c85de668"
+    },
+    {
+      "id": "0206ecfdee89",
+      "title": "Death toll from torrential rains in Mexico rises to 64 as search expands",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/14/g-s1-93322/death-toll-torrential-rains-mexico",
+      "published_at": "Tue, 14 Oct 2025 01:03:38 -0400",
+      "bullets": [
+        "• Death toll from torrential rains in Mexico rises to 64 as search expands",
+        "• Authorities say some 100,000 homes across the region have been damaged by the rains and flooding",
+        "• Mexico has deployed some 10,000 troops in addition to civilian rescue teams",
+        "• The cleanup of mud and debris was complicated by thick oil deposits on trees, roofs and roofs "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Death toll from torrential rains in Mexico rises to 64 as search expands",
+          "• Authorities say some 100,000 homes across the region have been damaged by the rains and flooding"
+        ],
+        "hopeful_bullets": [
+          "• Death toll from torrential rains in Mexico rises to 64 as search expands",
+          "• Authorities say some 100,000 homes across the region have been damaged by the rains and flooding"
+        ],
+        "stakes_bullets": [
+          "• Death toll from torrential rains in Mexico rises to 64 as search expands"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "007791382193"
     },
     {
       "id": "dc99ec6f9114",
@@ -2628,38 +2763,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "7ded9b85c9f2"
-    },
-    {
-      "id": "bfdccd35f03f",
-      "title": "The Moon’s south pole hides a 4-billion-year-old secret",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251012054611.htm",
-      "published_at": "Sun, 12 Oct 2025 10:23:19 EDT",
-      "bullets": [
-        "• Researchers found that the South Pole-Aitken Basin formed from a glancing northern strike, revealing deep materials from the Moon’s interior",
-        "• This discovery sheds light on how KREEP elements gathered on the near side, driving volcanic activity "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers found that the South Pole-Aitken Basin formed from a glancing northern strike, revealing deep materials from the Moon’s interior",
-          "• This discovery sheds light on how KREEP elements gathered on the near side, driving volcanic activity "
-        ],
-        "hopeful_bullets": [
-          "• Researchers found that the South Pole-Aitken Basin formed from a glancing northern strike, revealing deep materials from the Moon’s interior",
-          "• This discovery sheds light on how KREEP elements gathered on the near side, driving volcanic activity "
-        ],
-        "stakes_bullets": [
-          "• Researchers found that the South Pole-Aitken Basin formed from a glancing northern strike, revealing deep materials from the Moon’s interior",
-          "• This discovery sheds light on how KREEP elements gathered on the near side, driving volcanic activity "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "75bb4fe07ff6"
     },
     {
       "id": "257547d1babc",
@@ -4179,39 +4282,6 @@
       "cluster_id": "f3c450f3ceed"
     },
     {
-      "id": "431abd116043",
-      "title": "Quantum stocks surge after JPMorgan investing push into strategic tech",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/quantum-stocks-jpmorgan-investing-push.html",
-      "published_at": "Mon, 13 Oct 2025 20:35:02 GMT",
-      "bullets": [
-        "• The plan is part of a larger $1.5 billion initiative to improve security in the U.S",
-        "• The initiative will focus on four areas, including advanced manufacturing and quantum computing",
-        "• D-QC has seen a spike in sales since the announcement of the plan "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The plan is part of a larger $1.5 billion initiative to improve security in the U.S",
-          "• The initiative will focus on four areas, including advanced manufacturing and quantum computing"
-        ],
-        "hopeful_bullets": [
-          "• The plan is part of a larger $1.5 billion initiative to improve security in the U.S"
-        ],
-        "stakes_bullets": [
-          "• The plan is part of a larger $1.5 billion initiative to improve security in the U.S",
-          "• The initiative will focus on four areas, including advanced manufacturing and quantum computing",
-          "• D-QC has seen a spike in sales since the announcement of the plan "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8b1609f6c6d1"
-    },
-    {
       "id": "1540c175c714",
       "title": "Belinda Carlisle Helps Sammy Hagar Celebrate His Birthday With the Go-Go’s ‘We Got the Beat’",
       "outlet": "Music News",
@@ -4247,6 +4317,39 @@
       "cluster_id": "bc64c4c2317f"
     },
     {
+      "id": "7096b500e7a0",
+      "title": "Chip stocks bounce on Broadcom, OpenAI deal and easing China tensions",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/chip-stocks-broadcom-open-ai-china-trump.html",
+      "published_at": "Mon, 13 Oct 2025 20:12:06 GMT",
+      "bullets": [
+        "• Chip stocks bounce on Monday, clawing back losses from Friday's market rout",
+        "• OpenAI and Broadcom announced a deal to develop custom artificial intelligence chips",
+        "• The VanEck Semiconductor ETF jumped 4%, while Nvidia rallied nearly 3% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chip stocks bounce on Monday, clawing back losses from Friday's market rout",
+          "• OpenAI and Broadcom announced a deal to develop custom artificial intelligence chips"
+        ],
+        "hopeful_bullets": [
+          "• Chip stocks bounce on Monday, clawing back losses from Friday's market rout"
+        ],
+        "stakes_bullets": [
+          "• Chip stocks bounce on Monday, clawing back losses from Friday's market rout",
+          "• OpenAI and Broadcom announced a deal to develop custom artificial intelligence chips",
+          "• The VanEck Semiconductor ETF jumped 4%, while Nvidia rallied nearly 3% "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ec54bb064a17"
+    },
+    {
       "id": "c545da41cff7",
       "title": "‘Prism’ – Millie Bobby Brown Starring in Supernatural Series for Netflix",
       "outlet": "Bloody Disgusting!",
@@ -4277,39 +4380,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "4a38c78d4e93"
-    },
-    {
-      "id": "c9aac6da4801",
-      "title": "Oracle CEO Magouyrk: 'Of course' OpenAI can pay $60 billion per year for cloud infrastructure",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/oracle-ceo-magouyrk-of-course-openai-can-pay-60-billion-per-year.html",
-      "published_at": "Mon, 13 Oct 2025 20:00:52 GMT",
-      "bullets": [
-        "• Oracle CEO Clay Magouyrk says OpenAI can pay $60 billion for a year's worth of cloud resources",
-        "• In July, OpenAI agreed to a five-year deal with Oracle that's worth more than $300 billion",
-        "• OpenAI said last week that its ChatGPT chatbot now has 800 million weekly active users "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.834
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Oracle CEO Clay Magouyrk says OpenAI can pay $60 billion for a year's worth of cloud resources",
-          "• In July, OpenAI agreed to a five-year deal with Oracle that's worth more than $300 billion"
-        ],
-        "hopeful_bullets": [
-          "• Oracle CEO Clay Magouyrk says OpenAI can pay $60 billion for a year's worth of cloud resources",
-          "• In July, OpenAI agreed to a five-year deal with Oracle that's worth more than $300 billion"
-        ],
-        "stakes_bullets": [
-          "• Oracle CEO Clay Magouyrk says OpenAI can pay $60 billion for a year's worth of cloud resources",
-          "• In July, OpenAI agreed to a five-year deal with Oracle that's worth more than $300 billion"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a0d53ed9c1d3"
     },
     {
       "id": "375f2bf2f675",
@@ -5631,38 +5701,35 @@
       "cluster_id": "f755bf7c23da"
     },
     {
-      "id": "e8b20a3f34f5",
-      "title": "Firings of hundreds of CDC employees reportedly reversed",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/13/firings-cdc-employees-reversed",
-      "published_at": "Mon, 13 Oct 2025 15:48:51 GMT",
+      "id": "0d601d2f64f7",
+      "title": "Ecuador: La reinvención andina de la cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia",
+      "published_at": "Mon, 13 Oct 2025 15:45:00 -0400",
       "bullets": [
-        "• The firings of hundreds of employees at the Centers for Disease Control (CDC) have been reversed, according to several reports citing officials familiar with the matter",
-        "• The administration rescinded more than half of the 1,300 termination notices sent to public health officials at the CDC",
-        "• Around 600 people at the agency remain fired "
+        "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
+        "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "positive",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The firings of hundreds of employees at the Centers for Disease Control (CDC) have been reversed, according to several reports citing officials familiar with the matter",
-          "• The administration rescinded more than half of the 1,300 termination notices sent to public health officials at the CDC"
+          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
+          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
         ],
         "hopeful_bullets": [
-          "• The firings of hundreds of employees at the Centers for Disease Control (CDC) have been reversed, according to several reports citing officials familiar with the matter",
-          "• The administration rescinded more than half of the 1,300 termination notices sent to public health officials at the CDC"
+          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
+          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
         ],
         "stakes_bullets": [
-          "• The firings of hundreds of employees at the Centers for Disease Control (CDC) have been reversed, according to several reports citing officials familiar with the matter",
-          "• The administration rescinded more than half of the 1,300 termination notices sent to public health officials at the CDC",
-          "• Around 600 people at the agency remain fired "
+          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "60aaa5bc2ff7"
+      "read_minutes": 5,
+      "cluster_id": "9ebee5783e96"
     },
     {
       "id": "48a2d278dd9e",
@@ -5696,37 +5763,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "9085df1f8cdb"
-    },
-    {
-      "id": "0d601d2f64f7",
-      "title": "Ecuador: La reinvención andina de la cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia",
-      "published_at": "Mon, 13 Oct 2025 15:45:00 -0400",
-      "bullets": [
-        "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
-        "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
-          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-        ],
-        "hopeful_bullets": [
-          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
-          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-        ],
-        "stakes_bullets": [
-          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "9ebee5783e96"
     },
     {
       "id": "a0d160422937",
@@ -6688,41 +6724,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "ce6528eae80e"
-    },
-    {
-      "id": "b1a41f0fae45",
-      "title": "This wedding photographer now removes landmines for a group that's won a top prize",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/13/g-s1-92391/landmines-hilton-humanitarian",
-      "published_at": "Mon, 13 Oct 2025 09:29:44 -0400",
-      "bullets": [
-        "• Last year, landmines killed or wounded more than 5,700 people, most of whom were civilians",
-        "• Each mine has the potential to explode long after it was placed during a conflict, posing a hidden threat",
-        "• The Mines Advisory Group, or MAG, has been in that business for more than 35 years",
-        "• MAG received the Conrad N",
-        "• Hilton Humanitarian Prize, one of the most prestigious humanitarian awards "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Last year, landmines killed or wounded more than 5,700 people, most of whom were civilians",
-          "• Each mine has the potential to explode long after it was placed during a conflict, posing a hidden threat"
-        ],
-        "hopeful_bullets": [
-          "• Hilton Humanitarian Prize, one of the most prestigious humanitarian awards "
-        ],
-        "stakes_bullets": [
-          "• Last year, landmines killed or wounded more than 5,700 people, most of whom were civilians",
-          "• Each mine has the potential to explode long after it was placed during a conflict, posing a hidden threat",
-          "• The Mines Advisory Group, or MAG, has been in that business for more than 35 years"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "650fb04e3616"
     },
     {
       "id": "eef35c6067e7",
@@ -9664,21 +9665,39 @@
       ]
     },
     {
-      "id": "60aaa5bc2ff7",
-      "topic": "cdc employee firing hundred",
+      "id": "e3f655b11529",
+      "topic": "committee congres investigating musk",
       "keywords": [
-        "cdc",
-        "employee",
-        "firing",
-        "hundred",
-        "reportedly",
-        "reversed"
+        "committee",
+        "congres",
+        "investigating",
+        "musk",
+        "owned",
+        "starlink"
       ],
       "item_ids": [
-        "e8b20a3f34f5"
+        "470356b2315a"
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "007791382193",
+      "topic": "death mexico rain rise",
+      "keywords": [
+        "death",
+        "mexico",
+        "rain",
+        "rise",
+        "toll",
+        "torrential"
+      ],
+      "item_ids": [
+        "0206ecfdee89"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9736,22 +9755,6 @@
       ]
     },
     {
-      "id": "9085df1f8cdb",
-      "topic": "andean cumbia ecuador reinvention",
-      "keywords": [
-        "andean",
-        "cumbia",
-        "ecuador",
-        "reinvention"
-      ],
-      "item_ids": [
-        "48a2d278dd9e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "9ebee5783e96",
       "topic": "andina cumbia ecuador reinvenci",
       "keywords": [
@@ -9762,6 +9765,22 @@
       ],
       "item_ids": [
         "0d601d2f64f7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "9085df1f8cdb",
+      "topic": "andean cumbia ecuador reinvention",
+      "keywords": [
+        "andean",
+        "cumbia",
+        "ecuador",
+        "reinvention"
+      ],
+      "item_ids": [
+        "48a2d278dd9e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9840,24 +9859,6 @@
       ]
     },
     {
-      "id": "650fb04e3616",
-      "topic": "group landmine now photographer",
-      "keywords": [
-        "group",
-        "landmine",
-        "now",
-        "photographer",
-        "remove",
-        "wedding"
-      ],
-      "item_ids": [
-        "b1a41f0fae45"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6aefb8d6212d",
       "topic": "china five korea south",
       "keywords": [
@@ -9894,6 +9895,24 @@
       ]
     },
     {
+      "id": "ec54bb064a17",
+      "topic": "bounce broadcom chip deal",
+      "keywords": [
+        "bounce",
+        "broadcom",
+        "chip",
+        "deal",
+        "openai",
+        "stock"
+      ],
+      "item_ids": [
+        "7096b500e7a0"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "aad2a69091a7",
       "topic": "china chipmaker dutch government",
       "keywords": [
@@ -9912,6 +9931,24 @@
       ]
     },
     {
+      "id": "c9308b1f2dd8",
+      "topic": "european lower market open",
+      "keywords": [
+        "european",
+        "lower",
+        "market",
+        "open",
+        "positive",
+        "set"
+      ],
+      "item_ids": [
+        "e22ec71e6020"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "d8a557f49efe",
       "topic": "acquire agree billion firm",
       "keywords": [
@@ -9924,42 +9961,6 @@
       ],
       "item_ids": [
         "ea7dbd95bd4c"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "513f54ac2fd4",
-      "topic": "argentina bailout extraordinary here",
-      "keywords": [
-        "argentina",
-        "bailout",
-        "extraordinary",
-        "here",
-        "mean",
-        "stepped"
-      ],
-      "item_ids": [
-        "f7eea51d3aa0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "4243d3d34d14",
-      "topic": "between china escalation fading",
-      "keywords": [
-        "between",
-        "china",
-        "escalation",
-        "fading",
-        "retaliation",
-        "trust"
-      ],
-      "item_ids": [
-        "65248d7f5c22"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10002,36 +10003,36 @@
       ]
     },
     {
-      "id": "a0d53ed9c1d3",
-      "topic": "ceo course magouyrk openai",
+      "id": "513f54ac2fd4",
+      "topic": "argentina bailout extraordinary here",
       "keywords": [
-        "ceo",
-        "course",
-        "magouyrk",
-        "openai",
-        "oracle",
-        "pay"
+        "argentina",
+        "bailout",
+        "extraordinary",
+        "here",
+        "mean",
+        "stepped"
       ],
       "item_ids": [
-        "c9aac6da4801"
+        "f7eea51d3aa0"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "8b1609f6c6d1",
-      "topic": "investing jpmorgan push quantum",
+      "id": "4243d3d34d14",
+      "topic": "between china escalation fading",
       "keywords": [
-        "investing",
-        "jpmorgan",
-        "push",
-        "quantum",
-        "stock",
-        "surge"
+        "between",
+        "china",
+        "escalation",
+        "fading",
+        "retaliation",
+        "trust"
       ],
       "item_ids": [
-        "431abd116043"
+        "65248d7f5c22"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10586,6 +10587,24 @@
       ]
     },
     {
+      "id": "9227c85de668",
+      "topic": "artificial build like neuron",
+      "keywords": [
+        "artificial",
+        "build",
+        "like",
+        "neuron",
+        "scientist",
+        "work"
+      ],
+      "item_ids": [
+        "3bd4ec993b2d"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "1a372416cbb8",
       "topic": "250 equation got just",
       "keywords": [
@@ -10722,24 +10741,6 @@
       ],
       "item_ids": [
         "b4566f55f23b"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "75bb4fe07ff6",
-      "topic": "billion hide moon pole",
-      "keywords": [
-        "billion",
-        "hide",
-        "moon",
-        "pole",
-        "south",
-        "year"
-      ],
-      "item_ids": [
-        "bfdccd35f03f"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -13150,6 +13151,24 @@
       ]
     },
     {
+      "id": "90e7fd7767ab",
+      "topic": "bobby brosnahan brown millie",
+      "keywords": [
+        "bobby",
+        "brosnahan",
+        "brown",
+        "millie",
+        "rachel",
+        "team"
+      ],
+      "item_ids": [
+        "3a960f16a4e0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "bfd0b5f3cf79",
       "topic": "american fans get gundam",
       "keywords": [
@@ -13302,24 +13321,6 @@
       ],
       "item_ids": [
         "e86fdfc5322a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "811a19aca2ca",
-      "topic": "avenger most powerful proved",
-      "keywords": [
-        "avenger",
-        "most",
-        "powerful",
-        "proved",
-        "thor",
-        "time"
-      ],
-      "item_ids": [
-        "888c3c8b3557"
       ],
       "outlets": [
         "CBR"
