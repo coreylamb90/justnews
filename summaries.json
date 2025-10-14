@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T10:17:24Z",
+  "generated_at": "2025-10-14T11:01:04Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -263,38 +263,6 @@
       "cluster_id": "18eefc38eff6"
     },
     {
-      "id": "53b68c40089a",
-      "title": "Thinkers, dreamers, doers: Here's who made the 2025 MacArthur Fellow list",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/08/nx-s1-5553390/macarthur-fellow-genius-grant-2025",
-      "published_at": "Wed, 08 Oct 2025 12:01:00 -0400",
-      "bullets": [
-        "• A cartographer, a composer, an archaeologist, a neurobiologist and an astrophysicist are among this year's MacArthur Fellows",
-        "• Each Fellow will receive a no-strings attached award of $800,000",
-        "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\""
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A cartographer, a composer, an archaeologist, a neurobiologist and an astrophysicist are among this year's MacArthur Fellows",
-          "• Each Fellow will receive a no-strings attached award of $800,000"
-        ],
-        "hopeful_bullets": [
-          "• Each Fellow will receive a no-strings attached award of $800,000",
-          "• It's one of the most prestigious cash awards given to \"extraordinarily talented and creative individuals\""
-        ],
-        "stakes_bullets": [
-          "• Each Fellow will receive a no-strings attached award of $800,000"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "58632c25973b"
-    },
-    {
       "id": "15125dc04ae3",
       "title": "Amplifying the power of music. What to expect in the new issue of Positive News magazine",
       "outlet": "Positive News",
@@ -526,29 +494,129 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "dce922f92dd8",
+      "title": "GM to take $1.6 billion charge related to EV pullback",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/gm-to-take-1point6-billion-charge-related-to-ev-pullback.html",
+      "published_at": "Tue, 14 Oct 2025 10:31:42 GMT",
+      "bullets": [
+        "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
+        "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
+          "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+        ],
+        "hopeful_bullets": [
+          "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
+          "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+        ],
+        "stakes_bullets": [
+          "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
+          "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9cbfd1118224"
+    },
+    {
+      "id": "ec4b5beacbbf",
+      "title": "Mark Cuban Would Still Have Dinner With Donald Trump",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-mark-cuban-cost-plus-drug-company/",
+      "published_at": "Tue, 14 Oct 2025 10:30:00 +0000",
+      "bullets": [
+        "• Mark Cuban appeared in his last episode of ABC’s Shark Tank in May",
+        "• Cuban is now launching a drug company with his startup, Cost Plus Drug Company",
+        "• He says he doesn't shy away from talking politics: Does he like President Trump? But would he join the president for dinner?"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mark Cuban appeared in his last episode of ABC’s Shark Tank in May",
+          "• Cuban is now launching a drug company with his startup, Cost Plus Drug Company"
+        ],
+        "hopeful_bullets": [
+          "• Mark Cuban appeared in his last episode of ABC’s Shark Tank in May",
+          "• Cuban is now launching a drug company with his startup, Cost Plus Drug Company"
+        ],
+        "stakes_bullets": [
+          "• Mark Cuban appeared in his last episode of ABC’s Shark Tank in May",
+          "• Cuban is now launching a drug company with his startup, Cost Plus Drug Company"
+        ]
+      },
+      "read_minutes": 22,
+      "cluster_id": "f85895df2241"
+    },
+    {
+      "id": "cbe76588db8b",
+      "title": "Trump says the war is over, but the path to peace in the Middle East is fragile",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/trump-says-israel-hamas-war-is-over-but-the-road-to-peace-is-fragile.html",
+      "published_at": "Tue, 14 Oct 2025 10:21:47 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump was in bullish mood as he signed the Gaza ceasefire agreement on Monday",
+        "• The deal is seen as a precursor to a possible peace deal between Hamas and Israel",
+        "• Analysts say a long-lasting peace is still a long way away "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump was in bullish mood as he signed the Gaza ceasefire agreement on Monday"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump was in bullish mood as he signed the Gaza ceasefire agreement on Monday"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• President Donald Trump was in bullish mood as he signed the Gaza ceasefire agreement on Monday",
+          "• The deal is seen as a precursor to a possible peace deal between Hamas and Israel"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8ce23e0b03f6"
+    },
+    {
       "id": "eebd5d193c66",
       "title": "Rare earth stocks rally in premarket, extending gains amid renewed U.S.-China trade spat",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/14/rare-earth-stocks-rally-amid-renewed-us-china-trade-dispute-.html",
-      "published_at": "Tue, 14 Oct 2025 09:21:11 GMT",
+      "published_at": "Tue, 14 Oct 2025 10:20:01 GMT",
       "bullets": [
-        "• Critical Metals jumped more than 36% in premarket, USA Rare Earth rallied 12% and MP Materials rose 9%",
-        "• Shares of Energy Fuels were last seen up 12.6%, while NioCorp Developments stood nearly 10% higher",
+        "• Critical Metals jumped more than 27% in premarket, USA Rare Earth rallied 10% and MP Materials rose 7%",
+        "• Shares of Energy Fuels were last seen up 11%, while NioCorp Developments stood nearly 9% higher",
         "• China is the undisputed leader of the critical minerals supply chain, producing 70% of the world's supply "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.912
+        "score": 0.926
       },
       "moods": {
         "brief_bullets": [
-          "• Critical Metals jumped more than 36% in premarket, USA Rare Earth rallied 12% and MP Materials rose 9%",
-          "• Shares of Energy Fuels were last seen up 12.6%, while NioCorp Developments stood nearly 10% higher"
+          "• Critical Metals jumped more than 27% in premarket, USA Rare Earth rallied 10% and MP Materials rose 7%",
+          "• Shares of Energy Fuels were last seen up 11%, while NioCorp Developments stood nearly 9% higher"
         ],
         "hopeful_bullets": [
-          "• Critical Metals jumped more than 36% in premarket, USA Rare Earth rallied 12% and MP Materials rose 9%",
-          "• Shares of Energy Fuels were last seen up 12.6%, while NioCorp Developments stood nearly 10% higher"
+          "• Critical Metals jumped more than 27% in premarket, USA Rare Earth rallied 10% and MP Materials rose 7%",
+          "• Shares of Energy Fuels were last seen up 11%, while NioCorp Developments stood nearly 9% higher"
         ],
         "stakes_bullets": [
           "• China is the undisputed leader of the critical minerals supply chain, producing 70% of the world's supply "
@@ -556,6 +624,105 @@
       },
       "read_minutes": 1,
       "cluster_id": "0d0422a17a46"
+    },
+    {
+      "id": "fcd62407f8b9",
+      "title": "Letitia James warns of ‘powerful voices trying to silence the truth’ – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/14/donald-trump-government-shutdown-national-guard-javier-milei-charlie-kirk-us-politics-live-news-updates",
+      "published_at": "Tue, 14 Oct 2025 10:16:05 GMT",
+      "bullets": [
+        "• The Washington Post, the New York Times, CNN, the Atlantic, the Guardian, Reuters, the Associated Press, NPR, HuffPost and Breaking Defense have refused to sign on to the agreement",
+        "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Washington Post, the New York Times, CNN, the Atlantic, the Guardian, Reuters, the Associated Press, NPR, HuffPost and Breaking Defense have refused to sign on to the agreement",
+          "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
+        ],
+        "hopeful_bullets": [
+          "• The Washington Post, the New York Times, CNN, the Atlantic, the Guardian, Reuters, the Associated Press, NPR, HuffPost and Breaking Defense have refused to sign on to the agreement",
+          "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
+        ],
+        "stakes_bullets": [
+          "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "d692e9d5199a"
+    },
+    {
+      "id": "b59aa0171202",
+      "title": "OpenAI's hyperscaler ambitions are being put to the test with its latest megadeals",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/open-ai-hyperscaler-broadcom-chips.html",
+      "published_at": "Tue, 14 Oct 2025 10:13:24 GMT",
+      "bullets": [
+        "• OpenAI is partnering with Broadcom to co-develop racks of custom AI accelerators",
+        "• It's a big shift for a company that once believed intelligence would come from bigger machines",
+        "• The deal gives OpenAI deeper control over its stack, from training frontier models to owning the infrastructure "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI is partnering with Broadcom to co-develop racks of custom AI accelerators",
+          "• It's a big shift for a company that once believed intelligence would come from bigger machines"
+        ],
+        "hopeful_bullets": [
+          "• OpenAI is partnering with Broadcom to co-develop racks of custom AI accelerators",
+          "• It's a big shift for a company that once believed intelligence would come from bigger machines"
+        ],
+        "stakes_bullets": [
+          "• OpenAI is partnering with Broadcom to co-develop racks of custom AI accelerators",
+          "• It's a big shift for a company that once believed intelligence would come from bigger machines",
+          "• The deal gives OpenAI deeper control over its stack, from training frontier models to owning the infrastructure "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "c93c28ce7f78"
+    },
+    {
+      "id": "caa7fe593a44",
+      "title": "Disney has considered a co-CEO structure to replace Bob Iger. Its history may make that a bad idea",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/disney-ceo-succession-why-co-ceos-may-be-a-bad-idea.html",
+      "published_at": "Tue, 14 Oct 2025 10:00:01 GMT",
+      "bullets": [
+        "• Disney Entertainment co-chairman Dana Walden and Disney Experiences chairman Josh D'Amaro are the most likely candidates to replace Bob Iger as CEO",
+        "• Netflix has similarly used co-CEOs in recent years",
+        "• Netflix's success has contributed to a recent trend in the entertainment industry "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Disney Entertainment co-chairman Dana Walden and Disney Experiences chairman Josh D'Amaro are the most likely candidates to replace Bob Iger as CEO",
+          "• Netflix has similarly used co-CEOs in recent years"
+        ],
+        "hopeful_bullets": [
+          "• Disney Entertainment co-chairman Dana Walden and Disney Experiences chairman Josh D'Amaro are the most likely candidates to replace Bob Iger as CEO",
+          "• Netflix has similarly used co-CEOs in recent years"
+        ],
+        "stakes_bullets": [
+          "• Disney Entertainment co-chairman Dana Walden and Disney Experiences chairman Josh D'Amaro are the most likely candidates to replace Bob Iger as CEO",
+          "• Netflix has similarly used co-CEOs in recent years",
+          "• Netflix's success has contributed to a recent trend in the entertainment industry "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "484e8a8219af"
     },
     {
       "id": "cf902c9a34fb",
@@ -1047,8 +1214,45 @@
           "• Large swathes of housing and commercial property in densely populated areas will be at greater risk"
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "581e9262a461"
+    },
+    {
+      "id": "2870bd61c7ce",
+      "title": "Data centers are booming. But there are big energy and environmental risks",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/14/nx-s1-5565147/google-ai-data-centers-growth-environment-electricity",
+      "published_at": "Tue, 14 Oct 2025 06:00:00 -0400",
+      "bullets": [
+        "• Data centers are booming, but there are big energy and environmental risks",
+        "• Google recently pulled out of plans to build a data center in Franklin, Indiana",
+        "• Similar fights are happening around the U.S",
+        "• as companies pour billions of dollars into data centers",
+        "• How tech companies and government officials handle those concerns will shape industry's future "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Data centers are booming, but there are big energy and environmental risks",
+          "• Google recently pulled out of plans to build a data center in Franklin, Indiana"
+        ],
+        "hopeful_bullets": [
+          "• Data centers are booming, but there are big energy and environmental risks",
+          "• Google recently pulled out of plans to build a data center in Franklin, Indiana"
+        ],
+        "stakes_bullets": [
+          "• Data centers are booming, but there are big energy and environmental risks",
+          "• Google recently pulled out of plans to build a data center in Franklin, Indiana",
+          "• as companies pour billions of dollars into data centers",
+          "• How tech companies and government officials handle those concerns will shape industry's future "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "ba6a856d851f"
     },
     {
       "id": "cee669f724e3",
@@ -1116,6 +1320,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "90e7fd7767ab"
+    },
+    {
+      "id": "19976b06363f",
+      "title": "Harrison vs. higher ed: How one lawmaker is weaponizing social media to eradicate LGBTQ+ curriculum",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17185333/brian-harrison-texas-a-m-gender-social-media-higher-education",
+      "published_at": "Tue, 14 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• A video was posted on social media of a student mocking the actions of the Texas State University student",
+        "• The student posted the video to his Twitter account, saying it was ‘despicable’ and ‘disgusting’ The student appeared on the show later that day "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A video was posted on social media of a student mocking the actions of the Texas State University student",
+          "• The student posted the video to his Twitter account, saying it was ‘despicable’ and ‘disgusting’ The student appeared on the show later that day "
+        ],
+        "hopeful_bullets": [
+          "• A video was posted on social media of a student mocking the actions of the Texas State University student",
+          "• The student posted the video to his Twitter account, saying it was ‘despicable’ and ‘disgusting’ The student appeared on the show later that day "
+        ],
+        "stakes_bullets": [
+          "• A video was posted on social media of a student mocking the actions of the Texas State University student",
+          "• The student posted the video to his Twitter account, saying it was ‘despicable’ and ‘disgusting’ The student appeared on the show later that day "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "ac7c52e4598c"
     },
     {
       "id": "e758b860306f",
@@ -1315,39 +1551,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "c24c11a5a2db"
-    },
-    {
-      "id": "9959fe268249",
-      "title": "Goldman Sachs reports third-quarter earnings before the bell",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html",
-      "published_at": "Tue, 14 Oct 2025 04:01:02 GMT",
-      "bullets": [
-        "• Goldman Sachs is scheduled to report third-quarter earnings before the opening bell Tuesday",
-        "• The bank is set up to be a beneficiary of several trends in the third quarter",
-        "• Trading and investment banking revenue is expected to be $14.1 billion, according to the LSEG "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Goldman Sachs is scheduled to report third-quarter earnings before the opening bell Tuesday",
-          "• The bank is set up to be a beneficiary of several trends in the third quarter"
-        ],
-        "hopeful_bullets": [
-          "• Goldman Sachs is scheduled to report third-quarter earnings before the opening bell Tuesday",
-          "• The bank is set up to be a beneficiary of several trends in the third quarter"
-        ],
-        "stakes_bullets": [
-          "• The bank is set up to be a beneficiary of several trends in the third quarter",
-          "• Trading and investment banking revenue is expected to be $14.1 billion, according to the LSEG "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "6d0280f93d6e"
     },
     {
       "id": "82f770def188",
@@ -1881,38 +2084,6 @@
       "cluster_id": "57b98b121a7a"
     },
     {
-      "id": "4b37f7adbbba",
-      "title": "Amazon fires employee who was suspended for protesting company's work with Israel",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/amazon-fires-ahmed-shahrour-for-protesting-companys-work-with-israel.html",
-      "published_at": "Tue, 14 Oct 2025 00:48:47 GMT",
-      "bullets": [
-        "• Ahmed Shahrour was a software engineer in Amazon's Whole Foods business in Seattle",
-        "• He was suspended last month after he posted messages on Slack criticizing the company's ties to Israel",
-        "• An employee group associated with him says he was fired for protesting Amazon's $1.2 billion contract "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ahmed Shahrour was a software engineer in Amazon's Whole Foods business in Seattle",
-          "• He was suspended last month after he posted messages on Slack criticizing the company's ties to Israel"
-        ],
-        "hopeful_bullets": [
-          "• Ahmed Shahrour was a software engineer in Amazon's Whole Foods business in Seattle",
-          "• He was suspended last month after he posted messages on Slack criticizing the company's ties to Israel"
-        ],
-        "stakes_bullets": [
-          "• An employee group associated with him says he was fired for protesting Amazon's $1.2 billion contract "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b119f150c575"
-    },
-    {
       "id": "7d9c3854e1f3",
       "title": "Everything you need to know about Biden's student loan forgiveness program",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -2371,37 +2542,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "fe5e873152df"
-    },
-    {
-      "id": "499d59dbb6d7",
-      "title": "Paxton sides with Texas GOP, against secretary of state in lawsuit seeking to close primaries",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17182616/texas-republican-lawsuit-ken-paxton-close-primaries",
-      "published_at": "Thu, 09 Oct 2025 18:40:22 -0500",
-      "bullets": [
-        "• Attorney General Ken Paxton sides with Texas GOP, against secretary of state in lawsuit seeking to close primaries",
-        "• Paxton: \"The unconstitutional law stopping the [Republican Party of Texas] from closing its primaries is completely indefensible and a slap in the face to the Republican Party and voters\" Earlier this summer, the Department of Justice sued Texas over a law providing in-state tuition for undocumented college students "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Attorney General Ken Paxton sides with Texas GOP, against secretary of state in lawsuit seeking to close primaries",
-          "• Paxton: \"The unconstitutional law stopping the [Republican Party of Texas] from closing its primaries is completely indefensible and a slap in the face to the Republican Party and voters\" Earlier this summer, the Department of Justice sued Texas over a law providing in-state tuition for undocumented college students "
-        ],
-        "hopeful_bullets": [
-          "• Attorney General Ken Paxton sides with Texas GOP, against secretary of state in lawsuit seeking to close primaries"
-        ],
-        "stakes_bullets": [
-          "• Attorney General Ken Paxton sides with Texas GOP, against secretary of state in lawsuit seeking to close primaries",
-          "• Paxton: \"The unconstitutional law stopping the [Republican Party of Texas] from closing its primaries is completely indefensible and a slap in the face to the Republican Party and voters\" Earlier this summer, the Department of Justice sued Texas over a law providing in-state tuition for undocumented college students "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2333f83e2884"
     },
     {
       "id": "b3ae5e82c927",
@@ -3815,7 +3955,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "bdb6ba39db49"
+      "cluster_id": "74759b60e519"
     },
     {
       "id": "a42d3e80498b",
@@ -4217,37 +4357,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "efe4d3b6f22a"
-    },
-    {
-      "id": "655746319eb8",
-      "title": "Broadcom CEO says generative AI will become a much larger part of global GDP",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/broadcom-ceo-says-generative-ai-will-become-a-much-larger-part-of-global-gdp.html",
-      "published_at": "Mon, 13 Oct 2025 23:22:31 GMT",
-      "bullets": [
-        "• Broadcom CEO Hock Tan said artificial intelligence could become a larger part of global GDP",
-        "• Tan said the current global GDP sits around $110 trillion, with 30% of that figure \"valued from industries related to knowledge-based, technology-intensive\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Broadcom CEO Hock Tan said artificial intelligence could become a larger part of global GDP",
-          "• Tan said the current global GDP sits around $110 trillion, with 30% of that figure \"valued from industries related to knowledge-based, technology-intensive\""
-        ],
-        "hopeful_bullets": [
-          "• Broadcom CEO Hock Tan said artificial intelligence could become a larger part of global GDP",
-          "• Tan said the current global GDP sits around $110 trillion, with 30% of that figure \"valued from industries related to knowledge-based, technology-intensive\""
-        ],
-        "stakes_bullets": [
-          "• Broadcom CEO Hock Tan said artificial intelligence could become a larger part of global GDP"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a43d0a218e24"
     },
     {
       "id": "075ff581a370",
@@ -5434,39 +5543,6 @@
       "cluster_id": "df6913574b5b"
     },
     {
-      "id": "f7eea51d3aa0",
-      "title": "The U.S. has stepped in with an extraordinary bailout of Argentina. Here's what it means",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/the-us-has-stepped-in-with-an-extraordinary-bailout-of-argentina-heres-what-it-means.html",
-      "published_at": "Mon, 13 Oct 2025 17:27:16 GMT",
-      "bullets": [
-        "• The U.S",
-        "• is providing a $20 billion currency swap line with Argentina's central bank",
-        "• The move comes amid liquidity concerns in Argentina that threatened stability for the country as it faces key midterm elections",
-        "• JPMorgan Chase: The move \"marks a pivotal moment for Argentina's financial stability\" It's the first intervention of this nature since rescuing Mexico in 1995 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• is providing a $20 billion currency swap line with Argentina's central bank"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• is providing a $20 billion currency swap line with Argentina's central bank"
-        ],
-        "stakes_bullets": [
-          "• is providing a $20 billion currency swap line with Argentina's central bank"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "513f54ac2fd4"
-    },
-    {
       "id": "28604897bdf4",
       "title": "Moonless Media & Entertainment are building an Indie Film Empire – Join Their Mission!",
       "outlet": "HorrorFix",
@@ -5790,40 +5866,6 @@
       "cluster_id": "cd18fb088530"
     },
     {
-      "id": "a76327d08082",
-      "title": "US Smithsonian museums and National Zoo close due to government shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/13/smithsonian-museums-national-zoo-government-shutdown",
-      "published_at": "Mon, 13 Oct 2025 16:27:52 GMT",
-      "bullets": [
-        "• Smithsonian museums and the National Zoo closed their doors on Sunday in response to the ongoing government shutdown",
-        "• Smithsonian museums, research centers and zoo temporarily closed due to the shutdown which has now entered the third week",
-        "• Smithsonian digital resources continue to be available at si.edu, the Smithsonian Institution said "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Smithsonian museums and the National Zoo closed their doors on Sunday in response to the ongoing government shutdown",
-          "• Smithsonian museums, research centers and zoo temporarily closed due to the shutdown which has now entered the third week"
-        ],
-        "hopeful_bullets": [
-          "• Smithsonian museums and the National Zoo closed their doors on Sunday in response to the ongoing government shutdown",
-          "• Smithsonian museums, research centers and zoo temporarily closed due to the shutdown which has now entered the third week"
-        ],
-        "stakes_bullets": [
-          "• Smithsonian museums and the National Zoo closed their doors on Sunday in response to the ongoing government shutdown",
-          "• Smithsonian museums, research centers and zoo temporarily closed due to the shutdown which has now entered the third week",
-          "• Smithsonian digital resources continue to be available at si.edu, the Smithsonian Institution said "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bdb6ba39db49"
-    },
-    {
       "id": "806bb71a664b",
       "title": "No, Carlos Santana Did Not Petition to Replace Bad Bunny at the Super Bowl",
       "outlet": "Music News",
@@ -5956,6 +5998,37 @@
       "cluster_id": "f755bf7c23da"
     },
     {
+      "id": "0d601d2f64f7",
+      "title": "Ecuador: La reinvención andina de la cumbia",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia",
+      "published_at": "Mon, 13 Oct 2025 15:45:00 -0400",
+      "bullets": [
+        "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
+        "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
+          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
+        ],
+        "hopeful_bullets": [
+          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
+          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
+        ],
+        "stakes_bullets": [
+          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "9ebee5783e96"
+    },
+    {
       "id": "48a2d278dd9e",
       "title": "Ecuador: The Andean reinvention of cumbia",
       "outlet": "NPR Topics: News",
@@ -5987,37 +6060,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "9085df1f8cdb"
-    },
-    {
-      "id": "0d601d2f64f7",
-      "title": "Ecuador: La reinvención andina de la cumbia",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia",
-      "published_at": "Mon, 13 Oct 2025 15:45:00 -0400",
-      "bullets": [
-        "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
-        "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
-          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-        ],
-        "hopeful_bullets": [
-          "• Fotógrafos Karla Gachet e Iván Kashinsky documentan la cumbia en Colombia, México, Ecuador, Perú, Argentina, Argentina and Estados Unidos",
-          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-        ],
-        "stakes_bullets": [
-          "• The Picture Show: La reinvención de San Juanes en Cotacachi, provincia de Imbabura, Ecuador will celebrate 1 de julio de 2024 "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "9ebee5783e96"
     },
     {
       "id": "a0d160422937",
@@ -6421,40 +6463,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "1a372416cbb8"
-    },
-    {
-      "id": "4340ccb6fe39",
-      "title": "As the ceasefire begins, a look at the Gaza war by the numbers",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/13/g-s1-92205/ceasefire-gaza-war-key-figures",
-      "published_at": "Mon, 13 Oct 2025 12:12:07 -0400",
-      "bullets": [
-        "• As the ceasefire begins, a look at the Gaza war by the numbers",
-        "• Since the announcement of an agreement last week, Israel and Hamas to end fighting in Gaza",
-        "• Israel's military has pulled back its forces, Hamas has released all remaining living hostages "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• As the ceasefire begins, a look at the Gaza war by the numbers",
-          "• Since the announcement of an agreement last week, Israel and Hamas to end fighting in Gaza"
-        ],
-        "hopeful_bullets": [
-          "• As the ceasefire begins, a look at the Gaza war by the numbers",
-          "• Since the announcement of an agreement last week, Israel and Hamas to end fighting in Gaza"
-        ],
-        "stakes_bullets": [
-          "• As the ceasefire begins, a look at the Gaza war by the numbers",
-          "• Since the announcement of an agreement last week, Israel and Hamas to end fighting in Gaza",
-          "• Israel's military has pulled back its forces, Hamas has released all remaining living hostages "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "08300b2befab"
     },
     {
       "id": "1fa05850ae0a",
@@ -6881,6 +6889,38 @@
       "cluster_id": "36e57c461e39"
     },
     {
+      "id": "8d05f9a18370",
+      "title": "More Texas kindergarteners are coming to school without measles vaccination proof or exemptions",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17184497/texas-schools-vaccines-measles-delinquencies",
+      "published_at": "Mon, 13 Oct 2025 05:00:00 -0500",
+      "bullets": [
+        "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
+        "• The state’s highest rate of non-vaccine compliance is now at least 23%",
+        "• More than a third of Texas children are at risk of falling ill-prepared for school "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
+          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
+        ],
+        "hopeful_bullets": [
+          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
+          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
+        ],
+        "stakes_bullets": [
+          "• More than a third of Texas children are at risk of falling ill-prepared for school "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "6c34c4e046e8"
+    },
+    {
       "id": "623bde7d9f80",
       "title": "In South Texas, Allred and Talarico compete for Latino voters by vowing to fight for working class",
       "outlet": "The Texas Tribune",
@@ -6912,38 +6952,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "1bb46a5adc8c"
-    },
-    {
-      "id": "8d05f9a18370",
-      "title": "More Texas kindergarteners are coming to school without measles vaccination proof or exemptions",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17184497/texas-schools-vaccines-measles-delinquencies",
-      "published_at": "Mon, 13 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
-        "• The state’s highest rate of non-vaccine compliance is now at least 23%",
-        "• More than a third of Texas children are at risk of falling ill-prepared for school "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
-          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
-        ],
-        "hopeful_bullets": [
-          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
-          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
-        ],
-        "stakes_bullets": [
-          "• More than a third of Texas children are at risk of falling ill-prepared for school "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "6c34c4e046e8"
     },
     {
       "id": "f76799c22510",
@@ -7010,40 +7018,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "5eed14a8628a"
-    },
-    {
-      "id": "8fb26d61b0d2",
-      "title": "More Evidence Emerges That One of Saturn’s Moons Could Harbor Life",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/more-evidence-emerges-that-one-of-saturns-moons-could-harbor-life/",
-      "published_at": "Mon, 13 Oct 2025 04:00:00 +0000",
-      "bullets": [
-        "• Enceladus is one of 274 bodies so far discovered in Saturn’s gravitational pull",
-        "• It is notable for its cryovolcanoes, which spew out water vapor and ice fragments",
-        "• It's possible that chemical reactions are taking place down there, under high pressure and heat "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Enceladus is one of 274 bodies so far discovered in Saturn’s gravitational pull",
-          "• It is notable for its cryovolcanoes, which spew out water vapor and ice fragments"
-        ],
-        "hopeful_bullets": [
-          "• Enceladus is one of 274 bodies so far discovered in Saturn’s gravitational pull",
-          "• It is notable for its cryovolcanoes, which spew out water vapor and ice fragments"
-        ],
-        "stakes_bullets": [
-          "• Enceladus is one of 274 bodies so far discovered in Saturn’s gravitational pull",
-          "• It is notable for its cryovolcanoes, which spew out water vapor and ice fragments",
-          "• It's possible that chemical reactions are taking place down there, under high pressure and heat "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f4d9e86096d8"
     },
     {
       "id": "ba11161cd8c0",
@@ -8004,39 +7978,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "321126ebdff9"
-    },
-    {
-      "id": "4774d1afa80b",
-      "title": "I.U.C.N. Updates Its Red List on the Global Status of Wildlife",
-      "outlet": "NYT > Climate and Environment",
-      "url": "https://www.nytimes.com/2025/10/10/climate/iucn-red-list-endangered-species.html",
-      "published_at": "Fri, 10 Oct 2025 08:15:04 +0000",
-      "bullets": [
-        "• Global bird populations are declining faster than previously found, largely driven by forest loss",
-        "• Green sea turtles are recovering so well that they have moved from a classification of endangered to least concern",
-        "• Three species of Arctic seals, which rely on dwindling sea ice, fell to more imperiled categories "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Global bird populations are declining faster than previously found, largely driven by forest loss",
-          "• Green sea turtles are recovering so well that they have moved from a classification of endangered to least concern"
-        ],
-        "hopeful_bullets": [
-          "• Three species of Arctic seals, which rely on dwindling sea ice, fell to more imperiled categories "
-        ],
-        "stakes_bullets": [
-          "• Global bird populations are declining faster than previously found, largely driven by forest loss",
-          "• Green sea turtles are recovering so well that they have moved from a classification of endangered to least concern",
-          "• Three species of Arctic seals, which rely on dwindling sea ice, fell to more imperiled categories "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ae93fa18b39d"
     },
     {
       "id": "52b86cd2803b",
@@ -9462,6 +9403,24 @@
       ]
     },
     {
+      "id": "d692e9d5199a",
+      "topic": "jame letitia powerful trying",
+      "keywords": [
+        "jame",
+        "letitia",
+        "powerful",
+        "trying",
+        "voice",
+        "warn"
+      ],
+      "item_ids": [
+        "fcd62407f8b9"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "0111eef562ef",
       "topic": "candidate disappeared local month",
       "keywords": [
@@ -9606,27 +9565,6 @@
       ]
     },
     {
-      "id": "bdb6ba39db49",
-      "topic": "close due museum national",
-      "keywords": [
-        "close",
-        "due",
-        "museum",
-        "national",
-        "set",
-        "smithsonian",
-        "zoo"
-      ],
-      "item_ids": [
-        "a76327d08082",
-        "0cc6776d4605"
-      ],
-      "outlets": [
-        "NPR Topics: Science",
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "e3f655b11529",
       "topic": "committee congres investigating musk",
       "keywords": [
@@ -9642,6 +9580,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "ba6a856d851f",
+      "topic": "big booming center data",
+      "keywords": [
+        "big",
+        "booming",
+        "center",
+        "data",
+        "energy",
+        "there"
+      ],
+      "item_ids": [
+        "2870bd61c7ce"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9734,22 +9690,6 @@
       ]
     },
     {
-      "id": "9085df1f8cdb",
-      "topic": "andean cumbia ecuador reinvention",
-      "keywords": [
-        "andean",
-        "cumbia",
-        "ecuador",
-        "reinvention"
-      ],
-      "item_ids": [
-        "48a2d278dd9e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "9ebee5783e96",
       "topic": "andina cumbia ecuador reinvenci",
       "keywords": [
@@ -9760,6 +9700,22 @@
       ],
       "item_ids": [
         "0d601d2f64f7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "9085df1f8cdb",
+      "topic": "andean cumbia ecuador reinvention",
+      "keywords": [
+        "andean",
+        "cumbia",
+        "ecuador",
+        "reinvention"
+      ],
+      "item_ids": [
+        "48a2d278dd9e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9784,24 +9740,6 @@
       ]
     },
     {
-      "id": "08300b2befab",
-      "topic": "begin ceasefire gaza look",
-      "keywords": [
-        "begin",
-        "ceasefire",
-        "gaza",
-        "look",
-        "number",
-        "war"
-      ],
-      "item_ids": [
-        "4340ccb6fe39"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "0d0422a17a46",
       "topic": "earth extending premarket rally",
       "keywords": [
@@ -9820,6 +9758,59 @@
       ]
     },
     {
+      "id": "9cbfd1118224",
+      "topic": "billion charge pullback related",
+      "keywords": [
+        "billion",
+        "charge",
+        "pullback",
+        "related",
+        "take"
+      ],
+      "item_ids": [
+        "dce922f92dd8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "484e8a8219af",
+      "topic": "bob ceo considered disney",
+      "keywords": [
+        "bob",
+        "ceo",
+        "considered",
+        "disney",
+        "replace",
+        "structure"
+      ],
+      "item_ids": [
+        "caa7fe593a44"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8ce23e0b03f6",
+      "topic": "east middle path peace",
+      "keywords": [
+        "east",
+        "middle",
+        "path",
+        "peace",
+        "trump",
+        "war"
+      ],
+      "item_ids": [
+        "cbe76588db8b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "6aefb8d6212d",
       "topic": "china five korea south",
       "keywords": [
@@ -9832,6 +9823,24 @@
       ],
       "item_ids": [
         "070a71f57bef"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c93c28ce7f78",
+      "topic": "ambition being hyperscaler openai",
+      "keywords": [
+        "ambition",
+        "being",
+        "hyperscaler",
+        "openai",
+        "put",
+        "test"
+      ],
+      "item_ids": [
+        "b59aa0171202"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9892,78 +9901,6 @@
       ]
     },
     {
-      "id": "513f54ac2fd4",
-      "topic": "argentina bailout extraordinary here",
-      "keywords": [
-        "argentina",
-        "bailout",
-        "extraordinary",
-        "here",
-        "mean",
-        "stepped"
-      ],
-      "item_ids": [
-        "f7eea51d3aa0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6d0280f93d6e",
-      "topic": "earning goldman quarter report",
-      "keywords": [
-        "earning",
-        "goldman",
-        "quarter",
-        "report",
-        "sach",
-        "third"
-      ],
-      "item_ids": [
-        "9959fe268249"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a43d0a218e24",
-      "topic": "become broadcom ceo generative",
-      "keywords": [
-        "become",
-        "broadcom",
-        "ceo",
-        "generative",
-        "larger",
-        "much"
-      ],
-      "item_ids": [
-        "655746319eb8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b119f150c575",
-      "topic": "amazon company employee fire",
-      "keywords": [
-        "amazon",
-        "company",
-        "employee",
-        "fire",
-        "protesting",
-        "suspended"
-      ],
-      "item_ids": [
-        "4b37f7adbbba"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "efa17daed35b",
       "topic": "000 cars price shaped",
       "keywords": [
@@ -9979,6 +9916,24 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "f85895df2241",
+      "topic": "cuban dinner donald mark",
+      "keywords": [
+        "cuban",
+        "dinner",
+        "donald",
+        "mark",
+        "still",
+        "trump"
+      ],
+      "item_ids": [
+        "ec4b5beacbbf"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10135,24 +10090,6 @@
       ],
       "item_ids": [
         "603cd9e00c4b"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "f4d9e86096d8",
-      "topic": "emerge evidence harbor life",
-      "keywords": [
-        "emerge",
-        "evidence",
-        "harbor",
-        "life",
-        "moon",
-        "saturn"
-      ],
-      "item_ids": [
-        "8fb26d61b0d2"
       ],
       "outlets": [
         "WIRED"
@@ -10724,6 +10661,24 @@
       ]
     },
     {
+      "id": "74759b60e519",
+      "topic": "close museum national set",
+      "keywords": [
+        "close",
+        "museum",
+        "national",
+        "set",
+        "smithsonian",
+        "zoo"
+      ],
+      "item_ids": [
+        "0cc6776d4605"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "f23532dd0d8f",
       "topic": "conservationist expert goodall jane",
       "keywords": [
@@ -10790,24 +10745,6 @@
       ],
       "item_ids": [
         "a36d472fcf82"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "58632c25973b",
-      "topic": "2025 doer dreamer here",
-      "keywords": [
-        "2025",
-        "doer",
-        "dreamer",
-        "here",
-        "made",
-        "thinker"
-      ],
-      "item_ids": [
-        "53b68c40089a"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11287,23 +11224,6 @@
       ],
       "outlets": [
         "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "ae93fa18b39d",
-      "topic": "global list red statu",
-      "keywords": [
-        "global",
-        "list",
-        "red",
-        "statu",
-        "wildlife"
-      ],
-      "item_ids": [
-        "4774d1afa80b"
-      ],
-      "outlets": [
-        "NYT > Climate and Environment"
       ]
     },
     {
@@ -13786,6 +13706,24 @@
       ]
     },
     {
+      "id": "ac7c52e4598c",
+      "topic": "harrison higher lawmaker media",
+      "keywords": [
+        "harrison",
+        "higher",
+        "lawmaker",
+        "media",
+        "social",
+        "weaponizing"
+      ],
+      "item_ids": [
+        "19976b06363f"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "ae66e01fb49f",
       "topic": "before boosted dalla number",
       "keywords": [
@@ -13822,24 +13760,6 @@
       ]
     },
     {
-      "id": "1bb46a5adc8c",
-      "topic": "allred compete latino south",
-      "keywords": [
-        "allred",
-        "compete",
-        "latino",
-        "south",
-        "talarico",
-        "texa"
-      ],
-      "item_ids": [
-        "623bde7d9f80"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "6c34c4e046e8",
       "topic": "coming kindergartener measle school",
       "keywords": [
@@ -13852,6 +13772,24 @@
       ],
       "item_ids": [
         "8d05f9a18370"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "1bb46a5adc8c",
+      "topic": "allred compete latino south",
+      "keywords": [
+        "allred",
+        "compete",
+        "latino",
+        "south",
+        "talarico",
+        "texa"
+      ],
+      "item_ids": [
+        "623bde7d9f80"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13942,24 +13880,6 @@
       ],
       "item_ids": [
         "513217038302"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "2333f83e2884",
-      "topic": "against gop paxton secretary",
-      "keywords": [
-        "against",
-        "gop",
-        "paxton",
-        "secretary",
-        "side",
-        "texa"
-      ],
-      "item_ids": [
-        "499d59dbb6d7"
       ],
       "outlets": [
         "The Texas Tribune"
