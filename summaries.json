@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T05:57:04Z",
+  "generated_at": "2025-10-14T06:16:21Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -589,6 +589,38 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "566fd5ce98a6",
+      "title": "LG Electronics India's market cap overtakes parent company's as shares surge 45% on debut",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/lg-electronics-india-market-debut-ipo.html",
+      "published_at": "Tue, 14 Oct 2025 05:47:43 GMT",
+      "bullets": [
+        "• LG Electronics India's market cap surpassed that of its parent company after its shares surged over 45% on market debut Tuesday",
+        "• The company's shares surged as much as 50% on open, after its initial public offering saw the strongest demand for an Indian IPO since 2008",
+        "• The IPO was priced at the top end of the 1,080 rupee to 1,140 rupee apiece band, fetching 116 billion rupees ($1.3 billion)"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.627
+      },
+      "moods": {
+        "brief_bullets": [
+          "• LG Electronics India's market cap surpassed that of its parent company after its shares surged over 45% on market debut Tuesday",
+          "• The company's shares surged as much as 50% on open, after its initial public offering saw the strongest demand for an Indian IPO since 2008"
+        ],
+        "hopeful_bullets": [
+          "• LG Electronics India's market cap surpassed that of its parent company after its shares surged over 45% on market debut Tuesday",
+          "• The company's shares surged as much as 50% on open, after its initial public offering saw the strongest demand for an Indian IPO since 2008"
+        ],
+        "stakes_bullets": [
+          "• The IPO was priced at the top end of the 1,080 rupee to 1,140 rupee apiece band, fetching 116 billion rupees ($1.3 billion)"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "19fc2ef0e710"
+    },
+    {
       "id": "3a960f16a4e0",
       "title": "Millie Bobby Brown and Rachel Brosnahan Team Up For Prism",
       "outlet": "CBR",
@@ -754,37 +786,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e3f655b11529"
-    },
-    {
-      "id": "566fd5ce98a6",
-      "title": "LG Electronics India shares surge 50% on market debut after bumper initial public offering",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/lg-electronics-india-market-debut-ipo.html",
-      "published_at": "Tue, 14 Oct 2025 04:38:53 GMT",
-      "bullets": [
-        "• LG Electronics India's IPO saw the strongest demand for an Indian IPO since 2008",
-        "• The IPO was oversubscribed 54 times, attracting bids worth nearly $50 billion",
-        "• It was the most heavily subscribed major IPO since Reliance Power's listing in 2008, PRIME Database's Pranav Haldea said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.89
-      },
-      "moods": {
-        "brief_bullets": [
-          "• LG Electronics India's IPO saw the strongest demand for an Indian IPO since 2008",
-          "• The IPO was oversubscribed 54 times, attracting bids worth nearly $50 billion"
-        ],
-        "hopeful_bullets": [
-          "• LG Electronics India's IPO saw the strongest demand for an Indian IPO since 2008"
-        ],
-        "stakes_bullets": [
-          "• The IPO was oversubscribed 54 times, attracting bids worth nearly $50 billion"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a199c7ff14fc"
     },
     {
       "id": "389e8f776120",
@@ -9877,15 +9878,15 @@
       ]
     },
     {
-      "id": "a199c7ff14fc",
-      "topic": "debut electronic india market",
+      "id": "19fc2ef0e710",
+      "topic": "cap electronic india market",
       "keywords": [
-        "debut",
+        "cap",
         "electronic",
         "india",
         "market",
-        "share",
-        "surge"
+        "overtake",
+        "parent"
       ],
       "item_ids": [
         "566fd5ce98a6"
