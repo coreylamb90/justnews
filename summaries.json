@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T11:01:04Z",
+  "generated_at": "2025-10-14T11:18:22Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -494,36 +494,135 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "04a96c655e5f",
+      "title": "JPMorgan Chase tops estimates on better-than-expected trading, investment banking results",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html",
+      "published_at": "Tue, 14 Oct 2025 10:51:49 GMT",
+      "bullets": [
+        "• JPMorgan Chase topped analysts' estimates for third quarter results",
+        "• The bank said profit jumped 12% to $14.39 billion, or $5.07 per share, from a year earlier",
+        "• Goldman Sachs, Citigroup and Wells Fargo also report results Tuesday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.854
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JPMorgan Chase topped analysts' estimates for third quarter results",
+          "• The bank said profit jumped 12% to $14.39 billion, or $5.07 per share, from a year earlier"
+        ],
+        "hopeful_bullets": [
+          "• JPMorgan Chase topped analysts' estimates for third quarter results",
+          "• The bank said profit jumped 12% to $14.39 billion, or $5.07 per share, from a year earlier"
+        ],
+        "stakes_bullets": [
+          "• JPMorgan Chase topped analysts' estimates for third quarter results",
+          "• The bank said profit jumped 12% to $14.39 billion, or $5.07 per share, from a year earlier",
+          "• Goldman Sachs, Citigroup and Wells Fargo also report results Tuesday "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "18bd3844b26f"
+    },
+    {
       "id": "dce922f92dd8",
       "title": "GM to take $1.6 billion charge related to EV pullback",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/14/gm-to-take-1point6-billion-charge-related-to-ev-pullback.html",
-      "published_at": "Tue, 14 Oct 2025 10:31:42 GMT",
+      "published_at": "Tue, 14 Oct 2025 10:44:46 GMT",
       "bullets": [
-        "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
-        "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+        "• GM was among the earliest to invest billions of dollars in an EV market that didn't culminate",
+        "• At one point, the company was planning to invest $30 billion by this year in EVs, including dozens of new models",
+        "• GM's EV writedown comes more than a year after Ford Motor announced a $1.9 billion impact from its EV plans "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
-          "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+          "• GM was among the earliest to invest billions of dollars in an EV market that didn't culminate",
+          "• At one point, the company was planning to invest $30 billion by this year in EVs, including dozens of new models"
         ],
         "hopeful_bullets": [
-          "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
-          "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+          "• GM was among the earliest to invest billions of dollars in an EV market that didn't culminate",
+          "• At one point, the company was planning to invest $30 billion by this year in EVs, including dozens of new models"
         ],
         "stakes_bullets": [
-          "• General Motors' third-quarter results next week will include a $1.6 billion impact from its all-electric vehicle plans not playing out as planned",
-          "• Detroit automaker Tuesday morning in a public filing said the impact will be non-cash charges related to adjustments to its EV capacity "
+          "• GM was among the earliest to invest billions of dollars in an EV market that didn't culminate",
+          "• At one point, the company was planning to invest $30 billion by this year in EVs, including dozens of new models",
+          "• GM's EV writedown comes more than a year after Ford Motor announced a $1.9 billion impact from its EV plans "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "9cbfd1118224"
+    },
+    {
+      "id": "0a3c116fa927",
+      "title": "14 Best Greens Powders (2025) Researched, Taste-Tested & Reviewed",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-greens-powders/",
+      "published_at": "Tue, 14 Oct 2025 10:37:00 +0000",
+      "bullets": [
+        "• Greens powders aren’t harmful, ultimately, but the dietitians I spoke to agreed that they're not a replacement for a healthy, varied diet",
+        "• Your doctor can help you determine which nutrients you're missing and assess whether a greens powder can help supplement any gaps "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Greens powders aren’t harmful, ultimately, but the dietitians I spoke to agreed that they're not a replacement for a healthy, varied diet",
+          "• Your doctor can help you determine which nutrients you're missing and assess whether a greens powder can help supplement any gaps "
+        ],
+        "hopeful_bullets": [
+          "• Your doctor can help you determine which nutrients you're missing and assess whether a greens powder can help supplement any gaps "
+        ],
+        "stakes_bullets": [
+          "• Greens powders aren’t harmful, ultimately, but the dietitians I spoke to agreed that they're not a replacement for a healthy, varied diet",
+          "• Your doctor can help you determine which nutrients you're missing and assess whether a greens powder can help supplement any gaps "
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "e1eac957704a"
+    },
+    {
+      "id": "fcd62407f8b9",
+      "title": "Letitia James warns of ‘powerful voices trying to silence the truth’ – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/14/donald-trump-government-shutdown-national-guard-javier-milei-charlie-kirk-us-politics-live-news-updates",
+      "published_at": "Tue, 14 Oct 2025 10:33:49 GMT",
+      "bullets": [
+        "• Letitia James warns of “powerful voices trying to silence truth and punish dissent’s",
+        "• The New York attorney general was indicted last week for bank fraud and making false statements",
+        "• “You come for me, you got to come though all of us!” she roared "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.916
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Letitia James warns of “powerful voices trying to silence truth and punish dissent’s",
+          "• The New York attorney general was indicted last week for bank fraud and making false statements"
+        ],
+        "hopeful_bullets": [
+          "• Letitia James warns of “powerful voices trying to silence truth and punish dissent’s",
+          "• The New York attorney general was indicted last week for bank fraud and making false statements"
+        ],
+        "stakes_bullets": [
+          "• The New York attorney general was indicted last week for bank fraud and making false statements"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "d692e9d5199a"
     },
     {
       "id": "ec4b5beacbbf",
@@ -624,37 +723,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0d0422a17a46"
-    },
-    {
-      "id": "fcd62407f8b9",
-      "title": "Letitia James warns of ‘powerful voices trying to silence the truth’ – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/14/donald-trump-government-shutdown-national-guard-javier-milei-charlie-kirk-us-politics-live-news-updates",
-      "published_at": "Tue, 14 Oct 2025 10:16:05 GMT",
-      "bullets": [
-        "• The Washington Post, the New York Times, CNN, the Atlantic, the Guardian, Reuters, the Associated Press, NPR, HuffPost and Breaking Defense have refused to sign on to the agreement",
-        "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Washington Post, the New York Times, CNN, the Atlantic, the Guardian, Reuters, the Associated Press, NPR, HuffPost and Breaking Defense have refused to sign on to the agreement",
-          "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
-        ],
-        "hopeful_bullets": [
-          "• The Washington Post, the New York Times, CNN, the Atlantic, the Guardian, Reuters, the Associated Press, NPR, HuffPost and Breaking Defense have refused to sign on to the agreement",
-          "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
-        ],
-        "stakes_bullets": [
-          "• The move follows a shake-up in February in which long-credentialed media outlets were required to vacate assigned workspaces which was cast as an ‘annual media rotation program”"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "d692e9d5199a"
     },
     {
       "id": "b59aa0171202",
@@ -925,38 +993,38 @@
       "cluster_id": "740ab293bfa6"
     },
     {
-      "id": "53bb061e9a30",
-      "title": "Madagascar president hiding in 'safe place' as he warns of coup attempt",
+      "id": "32227cb8d372",
+      "title": "Kenyan officer killed in bow-and-arrow attack at gate of president's residence",
       "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgkzyek0jxro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 14 Oct 2025 07:47:44 GMT",
+      "url": "https://www.bbc.com/news/articles/cq50dx1jdnwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 14 Oct 2025 07:31:52 GMT",
       "bullets": [
-        "• President of Madagascar says he is in a 'safe place' after being threatened with a coup attempt",
-        "• He has not been seen since last week after a series of attempts to oust him from power",
-        "• The government has been trying to get him out of the country since September "
+        "• Kenyan officer killed in bow-and-arrow attack at gate of president's residence in Nairobi",
+        "• PC Ramadhan Matanka shot in the ribs and later died in hospital",
+        "• Police say 56-year-old man, armed with a bow and arrows, approached officers at the gate of State House "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.965
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• President of Madagascar says he is in a 'safe place' after being threatened with a coup attempt",
-          "• He has not been seen since last week after a series of attempts to oust him from power"
+          "• Kenyan officer killed in bow-and-arrow attack at gate of president's residence in Nairobi",
+          "• PC Ramadhan Matanka shot in the ribs and later died in hospital"
         ],
         "hopeful_bullets": [
-          "• President of Madagascar says he is in a 'safe place' after being threatened with a coup attempt",
-          "• He has not been seen since last week after a series of attempts to oust him from power"
+          "• Kenyan officer killed in bow-and-arrow attack at gate of president's residence in Nairobi",
+          "• PC Ramadhan Matanka shot in the ribs and later died in hospital"
         ],
         "stakes_bullets": [
-          "• President of Madagascar says he is in a 'safe place' after being threatened with a coup attempt",
-          "• He has not been seen since last week after a series of attempts to oust him from power",
-          "• The government has been trying to get him out of the country since September "
+          "• Kenyan officer killed in bow-and-arrow attack at gate of president's residence in Nairobi",
+          "• PC Ramadhan Matanka shot in the ribs and later died in hospital",
+          "• Police say 56-year-old man, armed with a bow and arrows, approached officers at the gate of State House "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "ca2f402fbd8a"
+      "read_minutes": 2,
+      "cluster_id": "66160c1fab33"
     },
     {
       "id": "dd10fc3fad96",
@@ -1120,39 +1188,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "3055f53f99dc"
-    },
-    {
-      "id": "9cc70d8b6801",
-      "title": "Google to invest $15 billion to build data center hub in India; largest outside of the U.S.",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/google-to-invest-10-billion-in-ai-data-center-project-in-india.html",
-      "published_at": "Tue, 14 Oct 2025 06:59:59 GMT",
-      "bullets": [
-        "• Google Cloud CEO Thomas Kurian announced plans to invest $15 billion in India",
-        "• The investment will roll out over the next five years, and will be Google's largest AI hub in the world outside of the U.S., Kurian added",
-        "• The deal comes after \"a year of intense discussions and relentless effort,\" a state official said Monday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.86
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Google Cloud CEO Thomas Kurian announced plans to invest $15 billion in India",
-          "• The investment will roll out over the next five years, and will be Google's largest AI hub in the world outside of the U.S., Kurian added"
-        ],
-        "hopeful_bullets": [
-          "• Google Cloud CEO Thomas Kurian announced plans to invest $15 billion in India",
-          "• The investment will roll out over the next five years, and will be Google's largest AI hub in the world outside of the U.S., Kurian added"
-        ],
-        "stakes_bullets": [
-          "• Google Cloud CEO Thomas Kurian announced plans to invest $15 billion in India",
-          "• The investment will roll out over the next five years, and will be Google's largest AI hub in the world outside of the U.S., Kurian added"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0eb690631062"
     },
     {
       "id": "4e776a488281",
@@ -1518,39 +1553,37 @@
       "cluster_id": "a788b5f67c67"
     },
     {
-      "id": "04a96c655e5f",
-      "title": "JPMorgan Chase is set to report third-quarter earnings – here’s what the Street expects",
+      "id": "9959fe268249",
+      "title": "Goldman Sachs reports third-quarter earnings before the bell",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html",
+      "url": "https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html",
       "published_at": "Tue, 14 Oct 2025 04:01:02 GMT",
       "bullets": [
-        "• JPMorgan Chase is scheduled to report third-quarter earnings before the opening bell Tuesday",
-        "• The company is expected to report $4.84 billion in earnings, $2.97 billion in fixed income",
-        "• The biggest banks in the U.S",
-        "• are set to report results in the fall "
+        "• Goldman Sachs is scheduled to report third-quarter earnings before the opening bell Tuesday",
+        "• The bank is set up to be a beneficiary of several trends in the third quarter",
+        "• Trading and investment banking revenue is expected to be $14.1 billion, according to the LSEG "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
-          "• JPMorgan Chase is scheduled to report third-quarter earnings before the opening bell Tuesday",
-          "• The company is expected to report $4.84 billion in earnings, $2.97 billion in fixed income"
+          "• Goldman Sachs is scheduled to report third-quarter earnings before the opening bell Tuesday",
+          "• The bank is set up to be a beneficiary of several trends in the third quarter"
         ],
         "hopeful_bullets": [
-          "• JPMorgan Chase is scheduled to report third-quarter earnings before the opening bell Tuesday",
-          "• The company is expected to report $4.84 billion in earnings, $2.97 billion in fixed income"
+          "• Goldman Sachs is scheduled to report third-quarter earnings before the opening bell Tuesday",
+          "• The bank is set up to be a beneficiary of several trends in the third quarter"
         ],
         "stakes_bullets": [
-          "• The company is expected to report $4.84 billion in earnings, $2.97 billion in fixed income",
-          "• The biggest banks in the U.S",
-          "• are set to report results in the fall "
+          "• The bank is set up to be a beneficiary of several trends in the third quarter",
+          "• Trading and investment banking revenue is expected to be $14.1 billion, according to the LSEG "
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "c24c11a5a2db"
+      "cluster_id": "6d0280f93d6e"
     },
     {
       "id": "82f770def188",
@@ -4024,40 +4057,6 @@
       "cluster_id": "305810a549a1"
     },
     {
-      "id": "c9d5a2073e9b",
-      "title": "Analyzing Dominion Voting Systems sale to firm run by ex-Republican elections official",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/11/nx-s1-5570868/analyzing-dominion-voting-systems-sale-to-firm-run-by-ex-republican-elections-official",
-      "published_at": "Sat, 11 Oct 2025 07:46:15 -0400",
-      "bullets": [
-        "• Analyzing Dominion Voting Systems sale to firm run by ex-Republican elections official",
-        "• The company's buyer seems to be leaning into some of President Trump's language about voting",
-        "• NPR's voting correspondent, Miles Parks, joins us in our studios "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.623
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Analyzing Dominion Voting Systems sale to firm run by ex-Republican elections official",
-          "• The company's buyer seems to be leaning into some of President Trump's language about voting"
-        ],
-        "hopeful_bullets": [
-          "• Analyzing Dominion Voting Systems sale to firm run by ex-Republican elections official",
-          "• The company's buyer seems to be leaning into some of President Trump's language about voting"
-        ],
-        "stakes_bullets": [
-          "• Analyzing Dominion Voting Systems sale to firm run by ex-Republican elections official",
-          "• The company's buyer seems to be leaning into some of President Trump's language about voting",
-          "• NPR's voting correspondent, Miles Parks, joins us in our studios "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "aa2459285aca"
-    },
-    {
       "id": "28d65d9f6170",
       "title": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -4359,38 +4358,6 @@
       "cluster_id": "efe4d3b6f22a"
     },
     {
-      "id": "075ff581a370",
-      "title": "Musk calls for federal troops in San Francisco even as Benioff softens stance",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/13/musk-calls-for-federal-troops-in-san-francisco-benioff-softens-stance.html",
-      "published_at": "Mon, 13 Oct 2025 23:15:24 GMT",
-      "bullets": [
-        "• Salesforce CEO Marc Benioff calls for federal intervention in San Francisco",
-        "• Tesla CEO Elon Musk says federal intervention is needed to deal with crime in the city",
-        "• He calls federal intervention \"the only solution at this point,\" and that \"nothing else has or will work\" Elon Musk calls San Francisco a \"drug zombie apocalypse\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Salesforce CEO Marc Benioff calls for federal intervention in San Francisco",
-          "• Tesla CEO Elon Musk says federal intervention is needed to deal with crime in the city"
-        ],
-        "hopeful_bullets": [
-          "• Salesforce CEO Marc Benioff calls for federal intervention in San Francisco",
-          "• Tesla CEO Elon Musk says federal intervention is needed to deal with crime in the city"
-        ],
-        "stakes_bullets": [
-          "• He calls federal intervention \"the only solution at this point,\" and that \"nothing else has or will work\" Elon Musk calls San Francisco a \"drug zombie apocalypse\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6b95852b3e2c"
-    },
-    {
       "id": "dcfe323b2a2e",
       "title": "Hackers can steal 2FA codes and private messages from Android phones",
       "outlet": "Ars Technica - All content",
@@ -4552,39 +4519,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "2b7226db9120"
-    },
-    {
-      "id": "f64bef8a7f07",
-      "title": "Israeli hostages and Palestinian detainees freed as Trump hails 'historic dawn' in Middle East",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 13 Oct 2025 20:57:45 GMT",
-      "bullets": [
-        "• US President Donald Trump hails 'historic dawn' in Middle East",
-        "• Israeli hostages and Palestinian detainees freed as part of US-brokered peace plan",
-        "• Families of the Israeli hostages screamed and cried with happiness as they embraced their freed loved ones",
-        "• At the summit Egypt, Qatar, Turkey and the US signed a declaration "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump hails 'historic dawn' in Middle East",
-          "• Israeli hostages and Palestinian detainees freed as part of US-brokered peace plan"
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump hails 'historic dawn' in Middle East",
-          "• Israeli hostages and Palestinian detainees freed as part of US-brokered peace plan"
-        ],
-        "stakes_bullets": [
-          "• Israeli hostages and Palestinian detainees freed as part of US-brokered peace plan"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3d4c5c65c960"
     },
     {
       "id": "7244855a579b",
@@ -5964,6 +5898,38 @@
       "cluster_id": "531f35d3bc8f"
     },
     {
+      "id": "d152bc13f36a",
+      "title": "401(k) plans saw 'flight' to cash, bonds in September, analysis finds",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/13/401k-investors-move-to-cash-bonds-in-september.html",
+      "published_at": "Mon, 13 Oct 2025 15:57:11 GMT",
+      "bullets": [
+        "• Investors shifted 401(k) plan allocations away from stocks to bonds and cash in September",
+        "• Nearly every day of the month, net trading favored bonds, stable value funds or money market funds",
+        "• These are more conservative asset classes relative to stocks",
+        "• Investors showed \"a clear preference for safer options,\" even as stock market posted record highs "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Investors shifted 401(k) plan allocations away from stocks to bonds and cash in September",
+          "• Nearly every day of the month, net trading favored bonds, stable value funds or money market funds"
+        ],
+        "hopeful_bullets": [
+          "• Investors showed \"a clear preference for safer options,\" even as stock market posted record highs "
+        ],
+        "stakes_bullets": [
+          "• Investors shifted 401(k) plan allocations away from stocks to bonds and cash in September"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2aea5de7fb79"
+    },
+    {
       "id": "52fdfa199573",
       "title": "4chan fined $26K for refusing to assess risks under UK Online Safety Act",
       "outlet": "Ars Technica - All content",
@@ -6531,6 +6497,37 @@
       "cluster_id": "a30be878a3e5"
     },
     {
+      "id": "bf12294833f7",
+      "title": "Rescuers search for missing in Mexico's flooded towns",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e3pjl5492o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 13 Oct 2025 11:47:06 GMT",
+      "bullets": [
+        "• At least 65 people are missing after torrential rains triggered flooding in 150 locations across five states",
+        "• President Claudia Sheinbaum has promised help for the affected areas",
+        "• María Salas, 49, lost five members of her family when their home collapsed in Huauchinango "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 65 people are missing after torrential rains triggered flooding in 150 locations across five states",
+          "• President Claudia Sheinbaum has promised help for the affected areas"
+        ],
+        "hopeful_bullets": [
+          "• President Claudia Sheinbaum has promised help for the affected areas"
+        ],
+        "stakes_bullets": [
+          "• President Claudia Sheinbaum has promised help for the affected areas"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9496400682dc"
+    },
+    {
       "id": "2bc4537ce27a",
       "title": "Hot Toys Revenge of the Sith Darth Vader (Mustafar) (Artisan Edition) (DX49AE) 1/6 Scale Figure",
       "outlet": "Jedi Temple Archives",
@@ -6692,38 +6689,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "d3cb0a878272"
-    },
-    {
-      "id": "603cd9e00c4b",
-      "title": "The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/the-womanosphere-is-reshaping-the-conservative-dating-landscape/",
-      "published_at": "Mon, 13 Oct 2025 09:30:00 +0000",
-      "bullets": [
-        "• OnlyFans creator Anya Lacey created dateanya.com to find a husband",
-        "• The 19-year-old Florida-based creator says conservative men are \"immediately turned off by what I do\" Lacey is part of an expanding network of women who represent different factions of the conservative movement "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OnlyFans creator Anya Lacey created dateanya.com to find a husband",
-          "• The 19-year-old Florida-based creator says conservative men are \"immediately turned off by what I do\" Lacey is part of an expanding network of women who represent different factions of the conservative movement "
-        ],
-        "hopeful_bullets": [
-          "• OnlyFans creator Anya Lacey created dateanya.com to find a husband",
-          "• The 19-year-old Florida-based creator says conservative men are \"immediately turned off by what I do\" Lacey is part of an expanding network of women who represent different factions of the conservative movement "
-        ],
-        "stakes_bullets": [
-          "• OnlyFans creator Anya Lacey created dateanya.com to find a husband",
-          "• The 19-year-old Florida-based creator says conservative men are \"immediately turned off by what I do\" Lacey is part of an expanding network of women who represent different factions of the conservative movement "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "ce6528eae80e"
     },
     {
       "id": "eef35c6067e7",
@@ -8543,7 +8508,7 @@
           "• It's billed as “first-in-the-nation AI chatbot safeguards” by state senator Steve Padilla "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "49b29e83146d"
     },
     {
@@ -9040,24 +9005,6 @@
   ],
   "clusters": [
     {
-      "id": "3d4c5c65c960",
-      "topic": "detainee freed hostage israeli",
-      "keywords": [
-        "detainee",
-        "freed",
-        "hostage",
-        "israeli",
-        "palestinian",
-        "trump"
-      ],
-      "item_ids": [
-        "f64bef8a7f07"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "d3f1d8657008",
       "topic": "familie hero hostage life",
       "keywords": [
@@ -9106,24 +9053,6 @@
       ],
       "item_ids": [
         "0ead27ee8e0b"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "ca2f402fbd8a",
-      "topic": "hiding madagascar place president",
-      "keywords": [
-        "hiding",
-        "madagascar",
-        "place",
-        "president",
-        "safe",
-        "warn"
-      ],
-      "item_ids": [
-        "53bb061e9a30"
       ],
       "outlets": [
         "BBC News"
@@ -9214,6 +9143,42 @@
       ],
       "item_ids": [
         "a6f71c18acf7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "66160c1fab33",
+      "topic": "arrow attack bow kenyan",
+      "keywords": [
+        "arrow",
+        "attack",
+        "bow",
+        "kenyan",
+        "killed",
+        "officer"
+      ],
+      "item_ids": [
+        "32227cb8d372"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "9496400682dc",
+      "topic": "flooded mexico missing rescuer",
+      "keywords": [
+        "flooded",
+        "mexico",
+        "missing",
+        "rescuer",
+        "search",
+        "town"
+      ],
+      "item_ids": [
+        "bf12294833f7"
       ],
       "outlets": [
         "BBC News"
@@ -9740,6 +9705,41 @@
       ]
     },
     {
+      "id": "18bd3844b26f",
+      "topic": "better chase estimate expected",
+      "keywords": [
+        "better",
+        "chase",
+        "estimate",
+        "expected",
+        "jpmorgan",
+        "tops"
+      ],
+      "item_ids": [
+        "04a96c655e5f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9cbfd1118224",
+      "topic": "billion charge pullback related",
+      "keywords": [
+        "billion",
+        "charge",
+        "pullback",
+        "related",
+        "take"
+      ],
+      "item_ids": [
+        "dce922f92dd8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "0d0422a17a46",
       "topic": "earth extending premarket rally",
       "keywords": [
@@ -9758,17 +9758,18 @@
       ]
     },
     {
-      "id": "9cbfd1118224",
-      "topic": "billion charge pullback related",
+      "id": "6d0280f93d6e",
+      "topic": "earning goldman quarter report",
       "keywords": [
-        "billion",
-        "charge",
-        "pullback",
-        "related",
-        "take"
+        "earning",
+        "goldman",
+        "quarter",
+        "report",
+        "sach",
+        "third"
       ],
       "item_ids": [
-        "dce922f92dd8"
+        "9959fe268249"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9829,6 +9830,42 @@
       ]
     },
     {
+      "id": "efa17daed35b",
+      "topic": "000 cars price shaped",
+      "keywords": [
+        "000",
+        "cars",
+        "price",
+        "shaped",
+        "top",
+        "vehicle"
+      ],
+      "item_ids": [
+        "d212d39b4e67"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "2aea5de7fb79",
+      "topic": "401 bond cash flight",
+      "keywords": [
+        "401",
+        "bond",
+        "cash",
+        "flight",
+        "plan",
+        "saw"
+      ],
+      "item_ids": [
+        "d152bc13f36a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "c93c28ce7f78",
       "topic": "ambition being hyperscaler openai",
       "keywords": [
@@ -9847,75 +9884,21 @@
       ]
     },
     {
-      "id": "0eb690631062",
-      "topic": "billion build center data",
+      "id": "e1eac957704a",
+      "topic": "2025 best green powder",
       "keywords": [
-        "billion",
-        "build",
-        "center",
-        "data",
-        "google",
-        "invest"
+        "2025",
+        "best",
+        "green",
+        "powder",
+        "researched",
+        "taste"
       ],
       "item_ids": [
-        "9cc70d8b6801"
+        "0a3c116fa927"
       ],
       "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "c24c11a5a2db",
-      "topic": "chase jpmorgan quarter report",
-      "keywords": [
-        "chase",
-        "jpmorgan",
-        "quarter",
-        "report",
-        "set",
-        "third"
-      ],
-      "item_ids": [
-        "04a96c655e5f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6b95852b3e2c",
-      "topic": "call federal francisco musk",
-      "keywords": [
-        "call",
-        "federal",
-        "francisco",
-        "musk",
-        "san",
-        "troop"
-      ],
-      "item_ids": [
-        "075ff581a370"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "efa17daed35b",
-      "topic": "000 cars price shaped",
-      "keywords": [
-        "000",
-        "cars",
-        "price",
-        "shaped",
-        "top",
-        "vehicle"
-      ],
-      "item_ids": [
-        "d212d39b4e67"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10073,23 +10056,6 @@
       ],
       "item_ids": [
         "094726c92561"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "ce6528eae80e",
-      "topic": "conservative dating landscape reshaping",
-      "keywords": [
-        "conservative",
-        "dating",
-        "landscape",
-        "reshaping",
-        "womanosphere"
-      ],
-      "item_ids": [
-        "603cd9e00c4b"
       ],
       "outlets": [
         "WIRED"
@@ -10871,24 +10837,6 @@
       ],
       "item_ids": [
         "5ad9f6733fa7"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "aa2459285aca",
-      "topic": "analyzing dominion firm sale",
-      "keywords": [
-        "analyzing",
-        "dominion",
-        "firm",
-        "sale",
-        "system",
-        "voting"
-      ],
-      "item_ids": [
-        "c9d5a2073e9b"
       ],
       "outlets": [
         "NPR Topics: Politics"
