@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T09:09:20Z",
+  "generated_at": "2025-10-15T10:00:48Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -36,36 +36,304 @@
       "cluster_id": "2310b1aa0d50"
     },
     {
-      "id": "2778ba29d931",
-      "title": "'He transformed R&B forever' - Stars pay tribute to D’Angelo, after his death at 51",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 08:37:34 GMT",
+      "id": "07bccf121eb9",
+      "title": "When Face Recognition Doesn’t Know Your Face Is a Face",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/",
+      "published_at": "Wed, 15 Oct 2025 09:30:00 +0000",
       "bullets": [
-        "• R&B and soul singer D'Angelo has died aged 51",
-        "• He left behind a \"gift of song that he has left for the world\" His three albums won four Grammy Awards",
-        "• His death was announced in a statement by the BBC "
+        "• Autumn Gardiner is one of a small number of people globally who live with Freeman-Sheldon syndrome",
+        "• The genetic condition impacts muscles around the face and skull, which can result in an undersized mouth",
+        "• Gardiner: \"It was humiliating and weird",
+        "• Here’s this machine telling me that I don’t have a human face\""
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Autumn Gardiner is one of a small number of people globally who live with Freeman-Sheldon syndrome",
+          "• The genetic condition impacts muscles around the face and skull, which can result in an undersized mouth"
+        ],
+        "hopeful_bullets": [
+          "• Autumn Gardiner is one of a small number of people globally who live with Freeman-Sheldon syndrome",
+          "• The genetic condition impacts muscles around the face and skull, which can result in an undersized mouth"
+        ],
+        "stakes_bullets": [
+          "• The genetic condition impacts muscles around the face and skull, which can result in an undersized mouth"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "b3e6158f58a9"
+    },
+    {
+      "id": "6610142f6f29",
+      "title": "Auto industry raises the alarm as China tightens export rules for rare earths",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/auto-industry-raises-the-alarm-as-china-tightens-rare-earth-curbs.html",
+      "published_at": "Wed, 15 Oct 2025 09:14:00 GMT",
+      "bullets": [
+        "• China has imposed restrictions on the export of rare earths and related technologies",
+        "• Automotive industry groups say the measures could lead to supply chain chaos",
+        "• The restrictions will hit the battery and semiconductor industries \"particularly hard,\" the VDA says",
+        "• The EU has called on the Chinese government to find a solution "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China has imposed restrictions on the export of rare earths and related technologies",
+          "• Automotive industry groups say the measures could lead to supply chain chaos"
+        ],
+        "hopeful_bullets": [
+          "• China has imposed restrictions on the export of rare earths and related technologies",
+          "• Automotive industry groups say the measures could lead to supply chain chaos"
+        ],
+        "stakes_bullets": [
+          "• Automotive industry groups say the measures could lead to supply chain chaos",
+          "• The restrictions will hit the battery and semiconductor industries \"particularly hard,\" the VDA says"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a3e8d7390782"
+    },
+    {
+      "id": "fde8c4073661",
+      "title": "Hostage families confirm identities of three of four bodies handed over by Hamas",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 09:12:11 GMT",
+      "bullets": [
+        "• Hostage families confirm identities of three of four bodies handed over by Hamas in Gaza",
+        "• The bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
+        "• The fourth body does not match any of the known hostages, Israel said",
+        "• Hamas has yet to return the other bodies as agreed under a ceasefire deal "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hostage families confirm identities of three of four bodies handed over by Hamas in Gaza",
+          "• The bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return"
+        ],
+        "hopeful_bullets": [
+          "• Hostage families confirm identities of three of four bodies handed over by Hamas in Gaza",
+          "• The bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return"
+        ],
+        "stakes_bullets": [
+          "• Hostage families confirm identities of three of four bodies handed over by Hamas in Gaza",
+          "• The bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
+          "• The fourth body does not match any of the known hostages, Israel said"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e71e91cf637e"
+    },
+    {
+      "id": "64b75e3bab29",
+      "title": "Oklahoma girls’ basketball team returns championship after realizing they lost",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/15/oklahoma-girls-basketball-team-championship-return",
+      "published_at": "Wed, 15 Oct 2025 09:00:33 GMT",
+      "bullets": [
+        "• The game ended with a final score of 44-42, but the result was not settled",
+        "• The team had won the game on a last-minute basis",
+        "• The mistake was made by mistake, and the result is not fixed",
+        "• The game was played in the middle of the night and ended in a tie "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The game ended with a final score of 44-42, but the result was not settled",
+          "• The team had won the game on a last-minute basis"
+        ],
+        "hopeful_bullets": [
+          "• The game ended with a final score of 44-42, but the result was not settled",
+          "• The team had won the game on a last-minute basis"
+        ],
+        "stakes_bullets": [
+          "• The game ended with a final score of 44-42, but the result was not settled",
+          "• The mistake was made by mistake, and the result is not fixed"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2012154c8def"
+    },
+    {
+      "id": "fa80401906f0",
+      "title": "‘Catholicism is reinventing itself’: Brazilians waking at 4am to stream prayers",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/15/brazil-prayer-livestreams-catholic-church",
+      "published_at": "Wed, 15 Oct 2025 09:00:32 GMT",
+      "bullets": [
+        "• Frei Gilson da Silva Pupo Azevedo, 38, has averaged an impressive 2m daily views for each video",
+        "• Brazil is home to the world’s largest Catholic population",
+        "• Experts say the trend suggests that Brazil may be a testing ground for religious influencers "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.983
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• R&B and soul singer D'Angelo has died aged 51",
-          "• He left behind a \"gift of song that he has left for the world\" His three albums won four Grammy Awards"
+          "• Frei Gilson da Silva Pupo Azevedo, 38, has averaged an impressive 2m daily views for each video",
+          "• Brazil is home to the world’s largest Catholic population"
         ],
         "hopeful_bullets": [
-          "• He left behind a \"gift of song that he has left for the world\" His three albums won four Grammy Awards"
+          "• Frei Gilson da Silva Pupo Azevedo, 38, has averaged an impressive 2m daily views for each video",
+          "• Brazil is home to the world’s largest Catholic population"
         ],
         "stakes_bullets": [
-          "• R&B and soul singer D'Angelo has died aged 51",
-          "• He left behind a \"gift of song that he has left for the world\" His three albums won four Grammy Awards",
-          "• His death was announced in a statement by the BBC "
+          "• Frei Gilson da Silva Pupo Azevedo, 38, has averaged an impressive 2m daily views for each video",
+          "• Brazil is home to the world’s largest Catholic population",
+          "• Experts say the trend suggests that Brazil may be a testing ground for religious influencers "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
+      "cluster_id": "f527db40b0d1"
+    },
+    {
+      "id": "d01659bc10cb",
+      "title": "Waymo plans robotaxi launch in London, marking its European debut",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/waymo-p.html",
+      "published_at": "Wed, 15 Oct 2025 09:00:01 GMT",
+      "bullets": [
+        "• Alphabet's Waymo is bringing its driverless ride-hailing services to London, the first European market for its robotaxi",
+        "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel",
+        "• London will mark the company's second international city after Tokyo, where testing began in early 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alphabet's Waymo is bringing its driverless ride-hailing services to London, the first European market for its robotaxi",
+          "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel"
+        ],
+        "hopeful_bullets": [
+          "• Alphabet's Waymo is bringing its driverless ride-hailing services to London, the first European market for its robotaxi",
+          "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel"
+        ],
+        "stakes_bullets": [
+          "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel",
+          "• London will mark the company's second international city after Tokyo, where testing began in early 2025 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "dce152786a3e"
+    },
+    {
+      "id": "58e6c6732b1e",
+      "title": "Waymo's Robotaxis Are Coming to London",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/waymos-robotaxis-are-coming-to-london/",
+      "published_at": "Wed, 15 Oct 2025 09:00:00 +0000",
+      "bullets": [
+        "• Waymo is planning to launch autonomous taxi service in London next year",
+        "• The self-driving company has been testing robotaxis in Tokyo since April",
+        "• Waymo operates in five U.S",
+        "• cities: Phoenix, San Francisco, Los Angeles, Austin, and Atlanta "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.722
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Waymo is planning to launch autonomous taxi service in London next year",
+          "• The self-driving company has been testing robotaxis in Tokyo since April"
+        ],
+        "hopeful_bullets": [
+          "• Waymo is planning to launch autonomous taxi service in London next year",
+          "• The self-driving company has been testing robotaxis in Tokyo since April"
+        ],
+        "stakes_bullets": [
+          "• Waymo is planning to launch autonomous taxi service in London next year"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a715ed3d1e85"
+    },
+    {
+      "id": "5d9ff32297c4",
+      "title": "Federal Actions Make New York’s Energy Future More Uncertain",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/15102025/new-york-energy-federal-cuts/",
+      "published_at": "Wed, 15 Oct 2025 09:00:00 +0000",
+      "bullets": [
+        "• Department of Energy Secretary Chris Wright criticized Biden-era policies that supported renewable energy sources",
+        "• The next day, the Trump Administration announced the termination of 321 awards, claiming $7.5 billion in cuts for clean energy projects",
+        "• Inside Climate News recently reported that many of these awards were already past their end date "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Department of Energy Secretary Chris Wright criticized Biden-era policies that supported renewable energy sources",
+          "• The next day, the Trump Administration announced the termination of 321 awards, claiming $7.5 billion in cuts for clean energy projects"
+        ],
+        "hopeful_bullets": [
+          "• The next day, the Trump Administration announced the termination of 321 awards, claiming $7.5 billion in cuts for clean energy projects",
+          "• Inside Climate News recently reported that many of these awards were already past their end date "
+        ],
+        "stakes_bullets": [
+          "• The next day, the Trump Administration announced the termination of 321 awards, claiming $7.5 billion in cuts for clean energy projects"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "04a954d7eecf"
+    },
+    {
+      "id": "2778ba29d931",
+      "title": "'He transformed R&B forever' - Stars pay tribute to D’Angelo, after his death at 51",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 08:42:29 GMT",
+      "bullets": [
+        "• Beyoncé, Nile Rogers and Lauryn Hill among those paying tribute to D'Angelo",
+        "• Singer's family say he left behind a 'legacy of extraordinarily moving music' His three albums won four Grammy Awards",
+        "• His music video for Untitled (How Does It Feel) became notorious for its smouldering, naked performance "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.933
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Beyoncé, Nile Rogers and Lauryn Hill among those paying tribute to D'Angelo",
+          "• Singer's family say he left behind a 'legacy of extraordinarily moving music' His three albums won four Grammy Awards"
+        ],
+        "hopeful_bullets": [
+          "• Singer's family say he left behind a 'legacy of extraordinarily moving music' His three albums won four Grammy Awards"
+        ],
+        "stakes_bullets": [
+          "• Beyoncé, Nile Rogers and Lauryn Hill among those paying tribute to D'Angelo",
+          "• Singer's family say he left behind a 'legacy of extraordinarily moving music' His three albums won four Grammy Awards",
+          "• His music video for Untitled (How Does It Feel) became notorious for its smouldering, naked performance "
+        ]
+      },
+      "read_minutes": 4,
       "cluster_id": "608e217a5b3e"
     },
     {
@@ -136,40 +404,6 @@
       "cluster_id": "b6afa58fa6ee"
     },
     {
-      "id": "606cdfdb4572",
-      "title": "Asia markets rise, breaking ranks with Wall Street's declines on renewed U.S.-China trade feud",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-nifty-50.html",
-      "published_at": "Wed, 15 Oct 2025 07:29:57 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
-        "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72",
-        "• China's consumer price index fell 0.3% in September from a year earlier "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.855
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
-          "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72"
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
-          "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72"
-        ],
-        "stakes_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
-          "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72",
-          "• China's consumer price index fell 0.3% in September from a year earlier "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bda591b0fcd9"
-    },
-    {
       "id": "f1a3c0a3e719",
       "title": "Watchdog rules Red Tractor exaggerated its environmental standards",
       "outlet": "Environment | The Guardian",
@@ -199,40 +433,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "55a2503b659b"
-    },
-    {
-      "id": "fde8c4073661",
-      "title": "Hostage families confirm identities of three of four bodies handed over by Hamas",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 07:03:31 GMT",
-      "bullets": [
-        "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
-        "• Scientists are still working to identify the fourth body",
-        "• Hamas has yet to return the other bodies as agreed under a ceasefire deal brokered by the US "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
-          "• Scientists are still working to identify the fourth body"
-        ],
-        "hopeful_bullets": [
-          "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
-          "• Scientists are still working to identify the fourth body"
-        ],
-        "stakes_bullets": [
-          "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
-          "• Scientists are still working to identify the fourth body",
-          "• Hamas has yet to return the other bodies as agreed under a ceasefire deal brokered by the US "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "e71e91cf637e"
     },
     {
       "id": "ef49fb62f975",
@@ -565,6 +765,72 @@
       "cluster_id": "7b82d53bf4e6"
     },
     {
+      "id": "c17b2777fbe6",
+      "title": "U.S. charges Cambodian tycoon in massive alleged cryptocurrency scam",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5574948/us-indictment-cambodia-tycoon-alleged-crypto-scam",
+      "published_at": "Wed, 15 Oct 2025 05:17:26 -0400",
+      "bullets": [
+        "• U.S",
+        "• government seizes bitcoin worth nearly $15 billion and charges a joint U.K.-Cambodian businessman",
+        "• Chen Zhu is accused of bilking would-be investors out of billions of dollars",
+        "• Chen remains at large and faces up to 40 years in prison "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• government seizes bitcoin worth nearly $15 billion and charges a joint U.K.-Cambodian businessman"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• government seizes bitcoin worth nearly $15 billion and charges a joint U.K.-Cambodian businessman"
+        ],
+        "stakes_bullets": [
+          "• government seizes bitcoin worth nearly $15 billion and charges a joint U.K.-Cambodian businessman",
+          "• Chen Zhu is accused of bilking would-be investors out of billions of dollars"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "20e77d31a349"
+    },
+    {
+      "id": "61d4a5e497e7",
+      "title": "Thousands of federal employees are getting laid off. Will a judge intervene?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5574111/government-shutdown-federal-employees-congress-rif",
+      "published_at": "Wed, 15 Oct 2025 05:01:00 -0400",
+      "bullets": [
+        "• A federal judge will hear arguments on Wednesday in a case brought by unions representing 800,000 federal workers",
+        "• The Trump administration has commenced a new round of layoffs, known as reductions-in-force, or RIFs",
+        "• On Friday, at least seven different agencies sent RIF notices to more than 4,000 employees "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A federal judge will hear arguments on Wednesday in a case brought by unions representing 800,000 federal workers",
+          "• The Trump administration has commenced a new round of layoffs, known as reductions-in-force, or RIFs"
+        ],
+        "hopeful_bullets": [
+          "• A federal judge will hear arguments on Wednesday in a case brought by unions representing 800,000 federal workers",
+          "• The Trump administration has commenced a new round of layoffs, known as reductions-in-force, or RIFs"
+        ],
+        "stakes_bullets": [
+          "• A federal judge will hear arguments on Wednesday in a case brought by unions representing 800,000 federal workers"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e042f9734677"
+    },
+    {
       "id": "974a4fb92339",
       "title": "Plantwatch: An extraordinary orchid that lives and flowers underground",
       "outlet": "Environment | The Guardian",
@@ -597,6 +863,170 @@
       },
       "read_minutes": 1,
       "cluster_id": "1ec028a1e4ac"
+    },
+    {
+      "id": "efce24ac2ea8",
+      "title": "Many rural schools rely on international teachers. Trump's visa changes threaten that",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5552240/trump-visa-cuts-schools-interational-teachers",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Many rural schools rely on international teachers to fill out their staff",
+        "• President Trump's visa changes threaten that",
+        "• More than 20,000 educators are in the U.S",
+        "• on H-1B visas, the third most common",
+        "• Trump's plan would require employers to pay a $100,000 fee for new visas "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Many rural schools rely on international teachers to fill out their staff",
+          "• President Trump's visa changes threaten that"
+        ],
+        "hopeful_bullets": [
+          "• Many rural schools rely on international teachers to fill out their staff",
+          "• President Trump's visa changes threaten that"
+        ],
+        "stakes_bullets": [
+          "• Trump's plan would require employers to pay a $100,000 fee for new visas "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e38c5137935f"
+    },
+    {
+      "id": "0bf0b8db4921",
+      "title": "Scientists are modifying wildlife DNA. Should these species be released into nature?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5574416/wildlife-conservation-gene-editing-iucn-extinction-synthetic-biology",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Scientists are modifying wildlife DNA to help preserve the planet's fast-eroding natural ecosystems",
+        "• A proposed moratorium would temporarily ban scientists from releasing genetically modified species into the wild",
+        "• Conservation groups will weigh in on how gene-editing tools should be used to aid threatened species "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists are modifying wildlife DNA to help preserve the planet's fast-eroding natural ecosystems",
+          "• A proposed moratorium would temporarily ban scientists from releasing genetically modified species into the wild"
+        ],
+        "hopeful_bullets": [
+          "• Scientists are modifying wildlife DNA to help preserve the planet's fast-eroding natural ecosystems"
+        ],
+        "stakes_bullets": [
+          "• Scientists are modifying wildlife DNA to help preserve the planet's fast-eroding natural ecosystems",
+          "• A proposed moratorium would temporarily ban scientists from releasing genetically modified species into the wild",
+          "• Conservation groups will weigh in on how gene-editing tools should be used to aid threatened species "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d8fed154d795"
+    },
+    {
+      "id": "fee3fcb90d22",
+      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+        "• The pay package was laid out back in 2018",
+        "• It didn't give Musk a salary, but instead, promised him more and more Tesla shares the better the company did "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+          "• The pay package was laid out back in 2018"
+        ],
+        "hopeful_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+          "• The pay package was laid out back in 2018"
+        ],
+        "stakes_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2633b4f88214"
+    },
+    {
+      "id": "ae0bcea59ee7",
+      "title": "'Broadcasting' has its roots in agriculture. Here's how it made its way into media",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5573073/broadcasting-word-origins-history",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• 'Broadcasting' has its roots in agriculture",
+        "• It originally described a method of planting seeds, particularly for small grains like wheat, oats and barley",
+        "• \"Broadcasting\" has been around for more than a century",
+        "• It's only fitting that NPR's Word of the Week series is tackling it "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 'Broadcasting' has its roots in agriculture",
+          "• It originally described a method of planting seeds, particularly for small grains like wheat, oats and barley"
+        ],
+        "hopeful_bullets": [
+          "• 'Broadcasting' has its roots in agriculture",
+          "• It originally described a method of planting seeds, particularly for small grains like wheat, oats and barley"
+        ],
+        "stakes_bullets": [
+          "• It originally described a method of planting seeds, particularly for small grains like wheat, oats and barley"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2e14091503ea"
+    },
+    {
+      "id": "000c1f48af0a",
+      "title": "Supreme Court hears case that questions major plank of voting rights",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5573329/supreme-court-voting-rights-act-louisiana",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Supreme Court hears case that questions major plank of voting rights",
+        "• Section 2 of the Voting Rights Act aims to ensure that minority voters are not shut out of drawing new congressional districts",
+        "• Recent studies indicate that Democrats could lose as many as 19 congressional seats in the process "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Supreme Court hears case that questions major plank of voting rights",
+          "• Section 2 of the Voting Rights Act aims to ensure that minority voters are not shut out of drawing new congressional districts"
+        ],
+        "hopeful_bullets": [
+          "• Section 2 of the Voting Rights Act aims to ensure that minority voters are not shut out of drawing new congressional districts"
+        ],
+        "stakes_bullets": [
+          "• Supreme Court hears case that questions major plank of voting rights",
+          "• Recent studies indicate that Democrats could lose as many as 19 congressional seats in the process "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "0bd0d4d374cd"
     },
     {
       "id": "b204494f3f71",
@@ -729,40 +1159,6 @@
       "cluster_id": "f4f4900afad6"
     },
     {
-      "id": "06d37fb35435",
-      "title": "China consumer prices drop more than expected in September, staying in deflationary territory",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/china-cpi-ppi-deflation-september-trade-worries.html",
-      "published_at": "Wed, 15 Oct 2025 04:13:54 GMT",
-      "bullets": [
-        "• Consumer price index fell 0.3% in September from a year earlier, National Bureau of Statistics data showed",
-        "• Core CPI, which strips out volatile food and energy prices, rose 1.0% from year earlier",
-        "• Producer price downturn has persisted for almost three years, hurting profitability of manufacturers who have weathered tepid consumer confidence "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Consumer price index fell 0.3% in September from a year earlier, National Bureau of Statistics data showed",
-          "• Core CPI, which strips out volatile food and energy prices, rose 1.0% from year earlier"
-        ],
-        "hopeful_bullets": [
-          "• Consumer price index fell 0.3% in September from a year earlier, National Bureau of Statistics data showed",
-          "• Core CPI, which strips out volatile food and energy prices, rose 1.0% from year earlier"
-        ],
-        "stakes_bullets": [
-          "• Consumer price index fell 0.3% in September from a year earlier, National Bureau of Statistics data showed",
-          "• Core CPI, which strips out volatile food and energy prices, rose 1.0% from year earlier",
-          "• Producer price downturn has persisted for almost three years, hurting profitability of manufacturers who have weathered tepid consumer confidence "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b72db3eab124"
-    },
-    {
       "id": "0468cb83c81d",
       "title": "A 151-million-year-old fly just changed what we know about evolution",
       "outlet": "All Top News -- ScienceDaily",
@@ -827,6 +1223,41 @@
       },
       "read_minutes": 1,
       "cluster_id": "38af89eaef33"
+    },
+    {
+      "id": "ea9f85841fe3",
+      "title": "Most U.S. consumers expect higher holiday prices and a weaker economy, survey finds",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/us-consumers-expect-high-prices-weak-economy-deloitte-survey-says.html",
+      "published_at": "Wed, 15 Oct 2025 04:01:01 GMT",
+      "bullets": [
+        "• 57% of U.S",
+        "• consumers surveyed said they expect the economy to weaken in the year ahead",
+        "• That's the most negative outlook since Deloitte began tracking that in 1997",
+        "• It's the first holiday season since President Trump's latest wave of tariff hikes "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 57% of U.S",
+          "• consumers surveyed said they expect the economy to weaken in the year ahead"
+        ],
+        "hopeful_bullets": [
+          "• 57% of U.S",
+          "• consumers surveyed said they expect the economy to weaken in the year ahead"
+        ],
+        "stakes_bullets": [
+          "• 57% of U.S",
+          "• consumers surveyed said they expect the economy to weaken in the year ahead",
+          "• That's the most negative outlook since Deloitte began tracking that in 1997"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "97fb5ef3f64c"
     },
     {
       "id": "af3d30802490",
@@ -1356,40 +1787,6 @@
       "cluster_id": "8e7892db4473"
     },
     {
-      "id": "64dbae739d7f",
-      "title": "As Japan's opposition circles around a unity bid, Takaichi’s route to power narrows",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/ldp-sanae-takaichi-pm-japan-komeito-cdp-dpp-yuichiro-tamaki-tokyo-lower-house.html",
-      "published_at": "Wed, 15 Oct 2025 01:15:33 GMT",
-      "bullets": [
-        "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
-        "• The decision to pull out of the LDP has left the party with an even smaller majority in the country's parliament",
-        "• The next election will be held on Oct",
-        "• 21 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
-          "• The decision to pull out of the LDP has left the party with an even smaller majority in the country's parliament"
-        ],
-        "hopeful_bullets": [
-          "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
-          "• The decision to pull out of the LDP has left the party with an even smaller majority in the country's parliament"
-        ],
-        "stakes_bullets": [
-          "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
-          "• The next election will be held on Oct"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "1f67ec9ebfb7"
-    },
-    {
       "id": "046fb588c486",
       "title": "Scientists unlock a 100-year-old quantum secret to supercharge solar power",
       "outlet": "All Top News -- ScienceDaily",
@@ -1484,40 +1881,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f4a953417c11"
-    },
-    {
-      "id": "312fd14fe195",
-      "title": "TVC15: Rebel Fleet Trooper (VC52)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-14-tvc15-rebel-fleet-trooper-vc52/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-rebel-fleet-trooper-vc52",
-      "published_at": "Wed, 15 Oct 2025 00:15:06 +0000",
-      "bullets": [
-        "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
-        "• The Rebel Fleet Trooper was a gift from Hasbro",
-        "• The extra gear allowed us to recreate some other background characters from the Yavin ceremony "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
-          "• The Rebel Fleet Trooper was a gift from Hasbro"
-        ],
-        "hopeful_bullets": [
-          "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
-          "• The Rebel Fleet Trooper was a gift from Hasbro"
-        ],
-        "stakes_bullets": [
-          "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
-          "• The Rebel Fleet Trooper was a gift from Hasbro",
-          "• The extra gear allowed us to recreate some other background characters from the Yavin ceremony "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "c332abd93e9a"
     },
     {
       "id": "01f62cb17630",
@@ -2140,42 +2503,6 @@
       "cluster_id": "7f467a5cf43a"
     },
     {
-      "id": "dd0ee0f06002",
-      "title": "Airports refuse to show DHS Sec. Kristi Noem video blaming Democrats for government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/airports-kristi-noem-government-shutdown-democrats.html",
-      "published_at": "Tue, 14 Oct 2025 22:52:02 GMT",
-      "bullets": [
-        "• Major U.S",
-        "• airports refuse to show video of Homeland Security Secretary Kristi Noem",
-        "• Noem blames Democrats in Congress for government shutdown",
-        "• Some airports say the video violates their policies",
-        "• The video is consistent with comments by President Donald Trump and other top officials "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Major U.S",
-          "• airports refuse to show video of Homeland Security Secretary Kristi Noem"
-        ],
-        "hopeful_bullets": [
-          "• Major U.S",
-          "• airports refuse to show video of Homeland Security Secretary Kristi Noem"
-        ],
-        "stakes_bullets": [
-          "• Major U.S",
-          "• airports refuse to show video of Homeland Security Secretary Kristi Noem",
-          "• Noem blames Democrats in Congress for government shutdown"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9f284128a0d7"
-    },
-    {
       "id": "3ff72597861c",
       "title": "US Senate again rejects Republican plan to end government shutdown",
       "outlet": "US news | The Guardian",
@@ -2271,6 +2598,41 @@
       },
       "read_minutes": 5,
       "cluster_id": "cde10a607e19"
+    },
+    {
+      "id": "2cee4db6772c",
+      "title": "Jeep parent Stellantis announces $13 billion U.S. investment plan",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/stellantis-investment-turnaround.html",
+      "published_at": "Tue, 14 Oct 2025 22:20:17 GMT",
+      "bullets": [
+        "• Stellantis plans to invest $13 billion in U.S",
+        "• manufacturing operations over next four years",
+        "• The investments will add more than 5,000 jobs to its domestic workforce and increase domestic production by 50%",
+        "• The announcement comes amid President Donald Trump's efforts to create more manufacturing jobs in the United States",
+        "• The company's stock is off 24% this year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stellantis plans to invest $13 billion in U.S",
+          "• manufacturing operations over next four years"
+        ],
+        "hopeful_bullets": [
+          "• Stellantis plans to invest $13 billion in U.S",
+          "• manufacturing operations over next four years"
+        ],
+        "stakes_bullets": [
+          "• Stellantis plans to invest $13 billion in U.S",
+          "• The investments will add more than 5,000 jobs to its domestic workforce and increase domestic production by 50%"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "378c1154292d"
     },
     {
       "id": "dd1d88375452",
@@ -2470,41 +2832,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "f24cbb0c5bf2"
-    },
-    {
-      "id": "324530d174a5",
-      "title": "Trump threatens China with cooking oil embargo over soybean snub",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/trump-china-soybean-cooking-oil.html",
-      "published_at": "Tue, 14 Oct 2025 21:24:15 GMT",
-      "bullets": [
-        "• China has not bought a single U.S",
-        "• soybean since May amid a trade war with the Trump administration",
-        "• China has been sourcing the crop from producers in South America",
-        "• President Donald Trump says he's considering \"terminating business with China having to do with Cooking Oil\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China has not bought a single U.S",
-          "• soybean since May amid a trade war with the Trump administration"
-        ],
-        "hopeful_bullets": [
-          "• China has not bought a single U.S",
-          "• soybean since May amid a trade war with the Trump administration"
-        ],
-        "stakes_bullets": [
-          "• China has not bought a single U.S",
-          "• soybean since May amid a trade war with the Trump administration",
-          "• China has been sourcing the crop from producers in South America"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "18293c807ab3"
     },
     {
       "id": "95d1903e976a",
@@ -3290,7 +3617,7 @@
     {
       "id": "416e117af50c",
       "title": "Trump awards the Medal of Freedom posthumously to Charlie Kirk",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/14/nx-s1-5574210/trump-charlie-kirk-medal-of-freedom",
       "published_at": "Tue, 14 Oct 2025 19:08:09 -0400",
       "bullets": [
@@ -3298,7 +3625,7 @@
         "• Kirk was shot and killed during an event in Orem, Utah, just over a month ago",
         "• The White House held a ceremony in the Rose Garden at the White House on Tuesday afternoon "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.992
@@ -3521,6 +3848,39 @@
       "cluster_id": "f8e9dc087344"
     },
     {
+      "id": "f85a968c6114",
+      "title": "Trump shutdown firings touch bipartisan priorities: Not just 'Democrat Agencies'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/trump-government-shutdown-firings-democrats.html",
+      "published_at": "Tue, 14 Oct 2025 18:32:43 GMT",
+      "bullets": [
+        "• Around 4,200 federal employees from at least eight departments and agencies were affected",
+        "• The White House issued thousands of reduction-in-force notices, known as RIFs, on Friday",
+        "• The Treasury Department's cuts included cutting the entire staff of the Community Development Financial Institutions Fund",
+        "• The CDFI has enjoyed strong bipartisan support in Congress "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Around 4,200 federal employees from at least eight departments and agencies were affected",
+          "• The White House issued thousands of reduction-in-force notices, known as RIFs, on Friday"
+        ],
+        "hopeful_bullets": [
+          "• The CDFI has enjoyed strong bipartisan support in Congress "
+        ],
+        "stakes_bullets": [
+          "• Around 4,200 federal employees from at least eight departments and agencies were affected",
+          "• The Treasury Department's cuts included cutting the entire staff of the Community Development Financial Institutions Fund"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8828d6079ee3"
+    },
+    {
       "id": "836c8d3bd5c9",
       "title": "Nile Rogers, Beyoncé, Jill Scott, Missy Elliott, and More Remember D’Angelo",
       "outlet": "RSS: News",
@@ -3583,40 +3943,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "95475cbb768a"
-    },
-    {
-      "id": "2247189a67da",
-      "title": "4 Apple Airtags Are $65 Right Now",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/apple-airtag-deal-1025/",
-      "published_at": "Tue, 14 Oct 2025 18:24:31 +0000",
-      "bullets": [
-        "• Amazon has Apple AirTags in a four pack marked down to just $65",
-        "• They leverage Apple's entire network of devices for tracking, rather than just your phone",
-        "• They're compact enough that they can squeeze into basically anywhere, including on a keychain or tucked into a small purse "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon has Apple AirTags in a four pack marked down to just $65",
-          "• They leverage Apple's entire network of devices for tracking, rather than just your phone"
-        ],
-        "hopeful_bullets": [
-          "• Amazon has Apple AirTags in a four pack marked down to just $65",
-          "• They leverage Apple's entire network of devices for tracking, rather than just your phone"
-        ],
-        "stakes_bullets": [
-          "• Amazon has Apple AirTags in a four pack marked down to just $65",
-          "• They leverage Apple's entire network of devices for tracking, rather than just your phone",
-          "• They're compact enough that they can squeeze into basically anywhere, including on a keychain or tucked into a small purse "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6cac3f8b2a90"
     },
     {
       "id": "ee916f7a0c42",
@@ -3820,69 +4146,6 @@
       "cluster_id": "7931db1a8893"
     },
     {
-      "id": "f0c927905b05",
-      "title": "Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/",
-      "published_at": "Tue, 14 Oct 2025 17:34:58 +0000",
-      "bullets": [
-        "• US Treasury Department issues financial sanctions against 146 'targets' linked to alleged Cambodian organized crime group",
-        "• US Department of Justice also seized almost 130,000 bitcoin worth around $15 billion in the largest US cryptocurrency seizure to date",
-        "• This action includes targeting individuals and shell companies linked to the alleged criminal enterprise "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US Treasury Department issues financial sanctions against 146 'targets' linked to alleged Cambodian organized crime group",
-          "• US Department of Justice also seized almost 130,000 bitcoin worth around $15 billion in the largest US cryptocurrency seizure to date"
-        ],
-        "hopeful_bullets": [
-          "• US Treasury Department issues financial sanctions against 146 'targets' linked to alleged Cambodian organized crime group"
-        ],
-        "stakes_bullets": [
-          "• US Department of Justice also seized almost 130,000 bitcoin worth around $15 billion in the largest US cryptocurrency seizure to date"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "911eedde63eb"
-    },
-    {
-      "id": "d8d06aa8dd79",
-      "title": "Marjorie Taylor Greene slams party and calls Republican men in Congress ‘weak’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/14/marjorie-taylor-greene-republican-men-weak",
-      "published_at": "Tue, 14 Oct 2025 17:29:52 GMT",
-      "bullets": [
-        "• Republicans are not being aggressive enough to push forward their agenda, she says",
-        "• She calls for the end of the government shutdown in order to push along their spending bill",
-        "• She also sided with Democrats in their push to provide subsidies to the US government "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Republicans are not being aggressive enough to push forward their agenda, she says",
-          "• She calls for the end of the government shutdown in order to push along their spending bill"
-        ],
-        "hopeful_bullets": [
-          "• Republicans are not being aggressive enough to push forward their agenda, she says",
-          "• She calls for the end of the government shutdown in order to push along their spending bill"
-        ],
-        "stakes_bullets": [
-          "• She calls for the end of the government shutdown in order to push along their spending bill"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2d575c785e5b"
-    },
-    {
       "id": "5590d8f475eb",
       "title": "OpenAI unveils “wellness” council; suicide prevention expert not included",
       "outlet": "Ars Technica - All content",
@@ -3978,42 +4241,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c3f0dde402c8"
-    },
-    {
-      "id": "1cd73a5de298",
-      "title": "In new memoir, John T. Edge explores Southern identity and a troubled family history",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/14/nx-s1-5535817/john-t-edge-memoir-mississippi",
-      "published_at": "Tue, 14 Oct 2025 16:48:12 -0400",
-      "bullets": [
-        "• In new memoir, John T",
-        "• Edge explores Southern identity and a troubled family history",
-        "• Edge has spent much of his career telling stories about a changing American South filtered through the lens of food and culture",
-        "• Edge shied away from telling his own story ",
-        "• until now "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In new memoir, John T",
-          "• Edge explores Southern identity and a troubled family history"
-        ],
-        "hopeful_bullets": [
-          "• In new memoir, John T",
-          "• Edge explores Southern identity and a troubled family history"
-        ],
-        "stakes_bullets": [
-          "• In new memoir, John T",
-          "• Edge explores Southern identity and a troubled family history",
-          "• Edge has spent much of his career telling stories about a changing American South filtered through the lens of food and culture"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "92b46dbd131c"
     },
     {
       "id": "da98475a39db",
@@ -4182,41 +4409,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "4bf05b43ed55"
-    },
-    {
-      "id": "7ef7c6920926",
-      "title": "Afghan earthquake triggers contradictory Taliban tactics on rescuing women",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/14/g-s1-92863/afghanistan-taliban-earthquake-women-girls-rescue",
-      "published_at": "Tue, 14 Oct 2025 15:18:18 -0400",
-      "bullets": [
-        "• Afghan earthquake triggers contradictory Taliban tactics on rescuing women",
-        "• Taliban officials asked aid agencies to send more female health workers to help survivors",
-        "• They also briefly barred female U.N",
-        "• staffers from reaching earthquake-devastated areas",
-        "• The incidents highlight the contortions of the Taliban four years after seizing power "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Afghan earthquake triggers contradictory Taliban tactics on rescuing women",
-          "• Taliban officials asked aid agencies to send more female health workers to help survivors"
-        ],
-        "hopeful_bullets": [
-          "• Taliban officials asked aid agencies to send more female health workers to help survivors"
-        ],
-        "stakes_bullets": [
-          "• Afghan earthquake triggers contradictory Taliban tactics on rescuing women",
-          "• Taliban officials asked aid agencies to send more female health workers to help survivors",
-          "• The incidents highlight the contortions of the Taliban four years after seizing power "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "d186e9eb3e9e"
     },
     {
       "id": "8767e3dfb0c0",
@@ -4550,37 +4742,6 @@
       "cluster_id": "f8525de3fea1"
     },
     {
-      "id": "6750d0a3857d",
-      "title": "Military seizes power in Madagascar following anti-government protests",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/14/nx-s1-5574215/military-madagascar-gen-z",
-      "published_at": "Tue, 14 Oct 2025 13:47:51 -0400",
-      "bullets": [
-        "• Military seizes power in Madagascar following anti-government protests",
-        "• President Andry Rajoelina went into hiding saying he feared for his life after several weeks of protests",
-        "• Parliament voted to impeach Rajoalina for abandoning his post after he was believed to have fled the country over the weekend "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Military seizes power in Madagascar following anti-government protests",
-          "• President Andry Rajoelina went into hiding saying he feared for his life after several weeks of protests"
-        ],
-        "hopeful_bullets": [
-          "• Military seizes power in Madagascar following anti-government protests"
-        ],
-        "stakes_bullets": [
-          "• Parliament voted to impeach Rajoalina for abandoning his post after he was believed to have fled the country over the weekend "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c909310b5d9c"
-    },
-    {
       "id": "9f9e23b621c4",
       "title": "This Brutal, Gritty Comic Book Adaptation Should Have Kick-Started a Franchise",
       "outlet": "Dread Central",
@@ -4911,38 +5072,6 @@
       "cluster_id": "865c27ea3d5c"
     },
     {
-      "id": "5f08d99cba1d",
-      "title": "A fragile Gaza ceasefire is tested after Israel and Hamas swap detainees and hostages",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza",
-      "published_at": "Tue, 14 Oct 2025 08:51:09 -0400",
-      "bullets": [
-        "• At least six Palestinians killed by Israeli forces in Gaza, Palestinian rescue services say",
-        "• U.N",
-        "• humanitarian office in Gaza says it will reduce aid allowed into Gaza because Hamas hasn't handed over the bodies of 24 deceased hostages",
-        "• Israel and Hamas exchanged hostages and detainees on Monday "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least six Palestinians killed by Israeli forces in Gaza, Palestinian rescue services say",
-          "• U.N"
-        ],
-        "hopeful_bullets": [
-          "• humanitarian office in Gaza says it will reduce aid allowed into Gaza because Hamas hasn't handed over the bodies of 24 deceased hostages"
-        ],
-        "stakes_bullets": [
-          "• humanitarian office in Gaza says it will reduce aid allowed into Gaza because Hamas hasn't handed over the bodies of 24 deceased hostages"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "1bdbba6422ae"
-    },
-    {
       "id": "6ffa4817babe",
       "title": "Former EPA Region 2 Administrator Lisa Garcia Considers Environmental Justice With Trump in Power",
       "outlet": "Inside Climate News",
@@ -5078,39 +5207,6 @@
       "cluster_id": "6afbdb4acaf1"
     },
     {
-      "id": "b67a3f3ac0ba",
-      "title": "What's next for Gaza. And, ICE tactics are reportedly becoming more violent",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/14/g-s1-93331/up-first-newsletter-gaza-israel-trump-middle-east-ice",
-      "published_at": "Tue, 14 Oct 2025 07:37:24 -0400",
-      "bullets": [
-        "• What's next for Gaza? What's Next for the West Bank? ICE tactics are reportedly becoming more violent",
-        "• President Trump has returned from a trip to the Middle East and is receiving a lot of attention from reporters and first responders",
-        "• NPR's Aya Batrawy says it is still uncertain whether Hamas will agree to storing or handing over offensive weapons "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• What's next for Gaza? What's Next for the West Bank? ICE tactics are reportedly becoming more violent",
-          "• President Trump has returned from a trip to the Middle East and is receiving a lot of attention from reporters and first responders"
-        ],
-        "hopeful_bullets": [
-          "• What's next for Gaza? What's Next for the West Bank? ICE tactics are reportedly becoming more violent",
-          "• President Trump has returned from a trip to the Middle East and is receiving a lot of attention from reporters and first responders"
-        ],
-        "stakes_bullets": [
-          "• What's next for Gaza? What's Next for the West Bank? ICE tactics are reportedly becoming more violent",
-          "• NPR's Aya Batrawy says it is still uncertain whether Hamas will agree to storing or handing over offensive weapons "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4a3d59d483fa"
-    },
-    {
       "id": "dd10fc3fad96",
       "title": "Prosecution of South Sudan’s vice-president raises fears of return to full-scale civil war",
       "outlet": "World news | The Guardian",
@@ -5144,7 +5240,7 @@
     {
       "id": "cfa96fce3a92",
       "title": "Maine Gov. Janet Mills enters crowded Democratic race to unseat Susan Collins",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/14/nx-s1-5570893/janet-mills-susan-collins-maine-senate",
       "published_at": "Tue, 14 Oct 2025 07:05:48 -0400",
       "bullets": [
@@ -5154,7 +5250,7 @@
         "• Susan Collins",
         "• Mills was recruited by Democratic Senate leaders after her high-profile confrontation with President Trump in February"
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.854
@@ -5967,40 +6063,6 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
-      "id": "9789e9f7cb4c",
-      "title": "TVC15: Ben Quadinaros & Otoga-222 (VC81)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-09-tvc15-ben-quadinaros-otoga-222-vc81/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-ben-quadinaros-otoga-222-vc81",
-      "published_at": "Thu, 09 Oct 2025 22:38:26 +0000",
-      "bullets": [
-        "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
-        "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character",
-        "• The bonus here was a repainted droid as a deluxe accessory "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
-          "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character"
-        ],
-        "hopeful_bullets": [
-          "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
-          "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character"
-        ],
-        "stakes_bullets": [
-          "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
-          "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character",
-          "• The bonus here was a repainted droid as a deluxe accessory "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fe5e873152df"
-    },
-    {
       "id": "b3ae5e82c927",
       "title": "Fantastic Fest 2025 Interview with VICIOUS Writer / Director Bryan Bertino",
       "outlet": "Daily Dead",
@@ -6135,38 +6197,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d422d9fff1c9"
-    },
-    {
-      "id": "ef83dc0771ee",
-      "title": "Renewable energy outpaces coal for electricity generation in historic first, report says",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/09/nx-s1-5564746/renewable-energy-coal-electricity-first",
-      "published_at": "Thu, 09 Oct 2025 05:01:00 -0400",
-      "bullets": [
-        "• Renewable energy outpaces coal for electricity generation in historic first, report says",
-        "• Renewable energies include sources like solar, wind and hydro, as opposed to fossil fuels like coal and natural gas",
-        "• Developed countries like China and India led the charge in adding more renewable energies",
-        "• Western societies including the European Union and the United States met some of their increased electricity demand through fossil fuels "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Renewable energy outpaces coal for electricity generation in historic first, report says",
-          "• Renewable energies include sources like solar, wind and hydro, as opposed to fossil fuels like coal and natural gas"
-        ],
-        "hopeful_bullets": [
-          "• Renewable energies include sources like solar, wind and hydro, as opposed to fossil fuels like coal and natural gas"
-        ],
-        "stakes_bullets": [
-          "• Western societies including the European Union and the United States met some of their increased electricity demand through fossil fuels "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2a78106339af"
     },
     {
       "id": "ef1a08daabf5",
@@ -6432,40 +6462,6 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
-      "id": "c6073b3eb690",
-      "title": "TVC15: Battle Droid (VC78)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-12-tvc15-battle-droid-vc78/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-battle-droid-vc78",
-      "published_at": "Sun, 12 Oct 2025 23:01:19 +0000",
-      "bullets": [
-        "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
-        "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version",
-        "• While this figure isn’t without merit, it’s not perfect "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
-          "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version"
-        ],
-        "hopeful_bullets": [
-          "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
-          "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version"
-        ],
-        "stakes_bullets": [
-          "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
-          "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version",
-          "• While this figure isn’t without merit, it’s not perfect "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "670bdb799984"
-    },
-    {
       "id": "8208e6545e57",
       "title": "A camping trip in the Rockies came with an unexpected message: you've won a Nobel Prize",
       "outlet": "NPR Topics: Science",
@@ -6527,38 +6523,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "9fffa0d89e63"
-    },
-    {
-      "id": "ddea8ca79a52",
-      "title": "\"It feels terrible.\" Federal worker's family tightens their belts as shutdown drags on",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/11/nx-s1-5565232/government-shutdown-federal-workers-furlough-finances-bills",
-      "published_at": "Sun, 12 Oct 2025 09:07:14 -0400",
-      "bullets": [
-        "• Federal worker's family tightens their belts as shutdown drags on",
-        "• Stephanie Rogers and her two daughters moved in with her mother about half an hour south of Denver",
-        "• \"When you added up the numbers between both of our family households, it was going to be something that we could not keep going long term,\" she says "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal worker's family tightens their belts as shutdown drags on",
-          "• Stephanie Rogers and her two daughters moved in with her mother about half an hour south of Denver"
-        ],
-        "hopeful_bullets": [
-          "• Federal worker's family tightens their belts as shutdown drags on",
-          "• Stephanie Rogers and her two daughters moved in with her mother about half an hour south of Denver"
-        ],
-        "stakes_bullets": [
-          "• \"When you added up the numbers between both of our family households, it was going to be something that we could not keep going long term,\" she says "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e0d201b3b023"
     },
     {
       "id": "97b7ebd4de5b",
@@ -6626,40 +6590,6 @@
       "cluster_id": "e7f90ea91468"
     },
     {
-      "id": "fdbe1d4eb9a7",
-      "title": "Climate Change Comes for the House of the Seven Gables",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/12102025/climate-change-comes-for-the-house-of-the-seven-gables/",
-      "published_at": "Sun, 12 Oct 2025 08:00:00 +0000",
-      "bullets": [
-        "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
-        "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house",
-        "• The encroachment of a warming sea and global warming-fueled storms are no longer distant threats, they are already reshaping Salem's waterfront "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
-          "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house"
-        ],
-        "hopeful_bullets": [
-          "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
-          "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house"
-        ],
-        "stakes_bullets": [
-          "• Nathaniel Hawthorne's \"The House of the Seven Gables\" is best known as the setting for Nathaniel Hawthorn's novel",
-          "• Caroline Emmerton restored it in the early 1900s as both a museum and immigrant settlement house",
-          "• The encroachment of a warming sea and global warming-fueled storms are no longer distant threats, they are already reshaping Salem's waterfront "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "2c34dae764af"
-    },
-    {
       "id": "f28ee40fbb74",
       "title": "‘The recovery process can be bleak, but we wanted to make sure it was joyous’",
       "outlet": "Positive News",
@@ -6690,40 +6620,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "cf6753f07556"
-    },
-    {
-      "id": "45cb088663ff",
-      "title": "TVC15: Han Solo (Echo Base Outfit) (VC03)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-11-tvc15-han-solo-echo-base-outfit-vc03/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-han-solo-echo-base-outfit-vc03",
-      "published_at": "Sun, 12 Oct 2025 00:39:00 +0000",
-      "bullets": [
-        "• We’re celebrating the 15th Anniversary of The Vintage Collection",
-        "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon",
-        "• Please leave your thoughts and memories in the RDR comments "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• We’re celebrating the 15th Anniversary of The Vintage Collection",
-          "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon"
-        ],
-        "hopeful_bullets": [
-          "• We’re celebrating the 15th Anniversary of The Vintage Collection",
-          "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon"
-        ],
-        "stakes_bullets": [
-          "• We’re celebrating the 15th Anniversary of The Vintage Collection",
-          "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon",
-          "• Please leave your thoughts and memories in the RDR comments "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "d76d5179ea19"
     },
     {
       "id": "eb57e9ca09a9",
@@ -7026,40 +6922,6 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
-      "id": "9752eb18482c",
-      "title": "TVC15: Anakin Skywalker (VC92)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-13-tvc15-anakin-skywalker-vc92/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-anakin-skywalker-vc92",
-      "published_at": "Mon, 13 Oct 2025 23:28:25 +0000",
-      "bullets": [
-        "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
-        "• It paved the way for a few months later, but collectors enjoy it regardless",
-        "• Please leave your thoughts and memories in the RDR comments "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
-          "• It paved the way for a few months later, but collectors enjoy it regardless"
-        ],
-        "hopeful_bullets": [
-          "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
-          "• It paved the way for a few months later, but collectors enjoy it regardless"
-        ],
-        "stakes_bullets": [
-          "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
-          "• It paved the way for a few months later, but collectors enjoy it regardless",
-          "• Please leave your thoughts and memories in the RDR comments "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7f95c3bda4d6"
-    },
-    {
       "id": "aaa0531b38cf",
       "title": "SpaceX launches 11th test flight of its mega Starship rocket with another win",
       "outlet": "NPR Topics: Science",
@@ -7185,38 +7047,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "5d75ff9e1df4"
-    },
-    {
-      "id": "719b5880d789",
-      "title": "Cuban dissident José Daniel Ferrer freed to live in exile in the US",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/13/cuban-dissident-jose-daniel-ferrer-freed-to-live-in-exile-in-us",
-      "published_at": "Mon, 13 Oct 2025 17:00:41 GMT",
-      "bullets": [
-        "• The long-time Cuban dissident has been released from prison in Cuba",
-        "• He said he had faced ‘torture’ and ‘humiliation’ in prison",
-        "• The 55-year-old said he took the decision to leave given threats that his wife would also be imprisoned "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The long-time Cuban dissident has been released from prison in Cuba",
-          "• He said he had faced ‘torture’ and ‘humiliation’ in prison"
-        ],
-        "hopeful_bullets": [
-          "• The long-time Cuban dissident has been released from prison in Cuba",
-          "• He said he had faced ‘torture’ and ‘humiliation’ in prison"
-        ],
-        "stakes_bullets": [
-          "• The long-time Cuban dissident has been released from prison in Cuba"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "71e07d6ec78c"
     },
     {
       "id": "0107afd0490d",
@@ -7386,34 +7216,6 @@
       "cluster_id": "acc97f5f3369"
     },
     {
-      "id": "2bc4537ce27a",
-      "title": "Hot Toys Revenge of the Sith Darth Vader (Mustafar) (Artisan Edition) (DX49AE) 1/6 Scale Figure",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-13-hot-toys-revenge-of-the-sith-darth-vader-mustafar-artisan-edition-dx49ae-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-darth-vader-mustafar-artisan-edition-dx49ae-1-6-scale-figure",
-      "published_at": "Mon, 13 Oct 2025 11:22:39 +0000",
-      "bullets": [
-        "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.86
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
-        ],
-        "hopeful_bullets": [
-          "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
-        ],
-        "stakes_bullets": [
-          "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "105b7313c18a"
-    },
-    {
       "id": "eef35c6067e7",
       "title": "The US-Mexico Border Wall May Pose Perils to Pollinators",
       "outlet": "Inside Climate News",
@@ -7576,37 +7378,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "6c34c4e046e8"
-    },
-    {
-      "id": "f76799c22510",
-      "title": "Amid shutdown, Trump administration guts department overseeing special education",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/13/nx-s1-5572489/trump-special-education-department-funding-layoffs-disabilities",
-      "published_at": "Mon, 13 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• The reduction-in-force, or RIF, affects the dozens of staff members responsible for roughly $15 billion in special education funding and for making sure states provide special education services to the nation's 7.5 million children with disabilities",
-        "• \"This is decimating the office responsible for safeguarding the rights of infants, toddlers, children and youth with disabilities,\" said one department employee "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The reduction-in-force, or RIF, affects the dozens of staff members responsible for roughly $15 billion in special education funding and for making sure states provide special education services to the nation's 7.5 million children with disabilities",
-          "• \"This is decimating the office responsible for safeguarding the rights of infants, toddlers, children and youth with disabilities,\" said one department employee "
-        ],
-        "hopeful_bullets": [
-          "• The reduction-in-force, or RIF, affects the dozens of staff members responsible for roughly $15 billion in special education funding and for making sure states provide special education services to the nation's 7.5 million children with disabilities",
-          "• \"This is decimating the office responsible for safeguarding the rights of infants, toddlers, children and youth with disabilities,\" said one department employee "
-        ],
-        "stakes_bullets": [
-          "• The reduction-in-force, or RIF, affects the dozens of staff members responsible for roughly $15 billion in special education funding and for making sure states provide special education services to the nation's 7.5 million children with disabilities"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "bac879e532f6"
     },
     {
       "id": "460800ce2975",
@@ -7982,38 +7753,6 @@
       "cluster_id": "3a37da55faa2"
     },
     {
-      "id": "7ad2f7e820ca",
-      "title": "TVC15: Kithaba (Skiff Guard) (VC56)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-10-10-tvc15-kithaba-skiff-guard-vc56/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-kithaba-skiff-guard-vc56",
-      "published_at": "Fri, 10 Oct 2025 22:31:23 +0000",
-      "bullets": [
-        "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
-        "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana",
-        "• It was also re-released for the 40th Anniversary of Return Of The Jedi "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.839
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
-          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
-        ],
-        "hopeful_bullets": [
-          "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
-          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
-        ],
-        "stakes_bullets": [
-          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3bcabf443022"
-    },
-    {
       "id": "07ea88428611",
       "title": "Judge Throws Out Drake’s “Not Like Us” Defamation Lawsuit Against Universal Music Group",
       "outlet": "RSS: News",
@@ -8376,6 +8115,73 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "5ae3482a7ecf",
+      "title": "Apple exec on Apple TV rebranding: ‘let’s just do it’",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue",
+      "published_at": "2025-10-15T05:03:09-04:00",
+      "bullets": [
+        "• Apple exec Eddy Cue says it was a collective decision to drop the 'Plus' from Apple TV Plus",
+        "• Cue says everyone was already calling it Apple TV",
+        "• Cue also brushed off concerns that the rebrand might create confusion between Apple TV hardware and the Apple TV app "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple exec Eddy Cue says it was a collective decision to drop the 'Plus' from Apple TV Plus",
+          "• Cue says everyone was already calling it Apple TV"
+        ],
+        "hopeful_bullets": [
+          "• Apple exec Eddy Cue says it was a collective decision to drop the 'Plus' from Apple TV Plus",
+          "• Cue says everyone was already calling it Apple TV"
+        ],
+        "stakes_bullets": [
+          "• Apple exec Eddy Cue says it was a collective decision to drop the 'Plus' from Apple TV Plus",
+          "• Cue says everyone was already calling it Apple TV",
+          "• Cue also brushed off concerns that the rebrand might create confusion between Apple TV hardware and the Apple TV app "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a4065614b567"
+    },
+    {
+      "id": "b0169f6d7d1f",
+      "title": "Waymo’s robotaxis are coming to London",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/799259/waymo-london-robotaxi-launch-2026",
+      "published_at": "2025-10-15T05:00:00-04:00",
+      "bullets": [
+        "• Waymo plans to launch a fully driverless robotaxi service in London starting in 2026",
+        "• The Alphabet-owned company says it will start deploying supervised robotaxis for data collection in London in the next few weeks",
+        "• The UK currently doesn’t have any fully-driverless vehicles on the road "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Waymo plans to launch a fully driverless robotaxi service in London starting in 2026",
+          "• The Alphabet-owned company says it will start deploying supervised robotaxis for data collection in London in the next few weeks"
+        ],
+        "hopeful_bullets": [
+          "• Waymo plans to launch a fully driverless robotaxi service in London starting in 2026",
+          "• The Alphabet-owned company says it will start deploying supervised robotaxis for data collection in London in the next few weeks"
+        ],
+        "stakes_bullets": [
+          "• Waymo plans to launch a fully driverless robotaxi service in London starting in 2026",
+          "• The Alphabet-owned company says it will start deploying supervised robotaxis for data collection in London in the next few weeks"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a715ed3d1e85"
+    },
+    {
       "id": "83209f588cfe",
       "title": "Samsung officially teases Moohan headset launch for next week",
       "outlet": "The Verge",
@@ -8632,72 +8438,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "85afcb3895ce"
-    },
-    {
-      "id": "b57496c1abc7",
-      "title": "The best ereader to buy right now",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/23769068/best-ebook-readers",
-      "published_at": "2025-10-14T13:38:35-04:00",
-      "bullets": [
-        "• An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain",
-        "• Others are waterproof or offer physical page-turning buttons, while a few even let you take notes",
-        "• Whether you want something your kid can throw against the wall or a waterproof, warm-glow Kindle, these are the best ebook readers for everyone "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain",
-          "• Others are waterproof or offer physical page-turning buttons, while a few even let you take notes"
-        ],
-        "hopeful_bullets": [
-          "• Whether you want something your kid can throw against the wall or a waterproof, warm-glow Kindle, these are the best ebook readers for everyone "
-        ],
-        "stakes_bullets": [
-          "• An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain",
-          "• Others are waterproof or offer physical page-turning buttons, while a few even let you take notes",
-          "• Whether you want something your kid can throw against the wall or a waterproof, warm-glow Kindle, these are the best ebook readers for everyone "
-        ]
-      },
-      "read_minutes": 16,
-      "cluster_id": "19bfcb09b095"
-    },
-    {
-      "id": "36c42db9eb40",
-      "title": "California cracks down on ‘predatory’ early cancellation fees",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees",
-      "published_at": "2025-10-14T12:29:06-04:00",
-      "bullets": [
-        "• California has enacted new legislation that aims to limit companies from charging consumers ‘exorbitant’ fees to cancel fixed-term contracts",
-        "• Assembly Bill 483 was signed into law by California Gov",
-        "• Gavin Newsom on Friday",
-        "• The goal is to make it easier for Californians to take these fees into account when comparing between services "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• California has enacted new legislation that aims to limit companies from charging consumers ‘exorbitant’ fees to cancel fixed-term contracts",
-          "• Assembly Bill 483 was signed into law by California Gov"
-        ],
-        "hopeful_bullets": [
-          "• California has enacted new legislation that aims to limit companies from charging consumers ‘exorbitant’ fees to cancel fixed-term contracts",
-          "• Assembly Bill 483 was signed into law by California Gov"
-        ],
-        "stakes_bullets": [
-          "• Assembly Bill 483 was signed into law by California Gov"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a6752ac2a3b5"
     },
     {
       "id": "c41ff758b36a",
@@ -9019,76 +8759,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "2ede1ddb1e1a"
-    },
-    {
-      "id": "aed784fb3371",
-      "title": "The Numbers Business Report: 2026 Q2 Box Office Prediction",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260050830-Numbers-Business-Report-2026-Q2-Box-Office-Prediction-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-        "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
-        "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
-        ],
-        "stakes_bullets": [
-          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
-          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
-          "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7d4e7d428cef"
-    },
-    {
-      "id": "0e12ee20974d",
-      "title": "Weekend projections: One Battle After Another and Gabby’s Dollhouse hoping for good word-of-mouth after middling debuts",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260020830-Weekend-projections-One-Battle-After-Another-and-Gabbys-Dollhouse-hoping-for-good-word-of-mouth-after-middling-debuts",
-      "published_at": null,
-      "bullets": [
-        "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-        "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
-        "• $25 million for There Will be Blood), and marketing costs",
-        "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.509
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
-        ],
-        "hopeful_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
-        ],
-        "stakes_bullets": [
-          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
-          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
-          "• $25 million for There Will be Blood), and marketing costs",
-          "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2634fa7adbf2"
     }
   ],
   "clusters": [
@@ -9366,6 +9036,24 @@
       ]
     },
     {
+      "id": "f527db40b0d1",
+      "topic": "4am brazilian catholicism itself",
+      "keywords": [
+        "4am",
+        "brazilian",
+        "catholicism",
+        "itself",
+        "reinventing",
+        "waking"
+      ],
+      "item_ids": [
+        "fa80401906f0"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "26239ddf66e3",
       "topic": "aid argentina cut milei",
       "keywords": [
@@ -9438,21 +9126,21 @@
       ]
     },
     {
-      "id": "71e07d6ec78c",
-      "topic": "cuban daniel dissident ferrer",
+      "id": "2012154c8def",
+      "topic": "basketball championship girl oklahoma",
       "keywords": [
-        "cuban",
-        "daniel",
-        "dissident",
-        "ferrer",
-        "freed",
-        "jos"
+        "basketball",
+        "championship",
+        "girl",
+        "oklahoma",
+        "return",
+        "team"
       ],
       "item_ids": [
-        "719b5880d789"
+        "64b75e3bab29"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
       ]
     },
     {
@@ -9598,21 +9286,129 @@
       ]
     },
     {
-      "id": "2d575c785e5b",
-      "topic": "call greene marjorie party",
+      "id": "20e77d31a349",
+      "topic": "alleged cambodian charge cryptocurrency",
       "keywords": [
-        "call",
-        "greene",
-        "marjorie",
-        "party",
-        "slam",
-        "taylor"
+        "alleged",
+        "cambodian",
+        "charge",
+        "cryptocurrency",
+        "massive",
+        "tycoon"
       ],
       "item_ids": [
-        "d8d06aa8dd79"
+        "c17b2777fbe6"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e042f9734677",
+      "topic": "employee federal getting laid",
+      "keywords": [
+        "employee",
+        "federal",
+        "getting",
+        "laid",
+        "off",
+        "thousand"
+      ],
+      "item_ids": [
+        "61d4a5e497e7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e38c5137935f",
+      "topic": "international many rely rural",
+      "keywords": [
+        "international",
+        "many",
+        "rely",
+        "rural",
+        "school",
+        "teacher"
+      ],
+      "item_ids": [
+        "efce24ac2ea8"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "d8fed154d795",
+      "topic": "dna modifying scientist specie",
+      "keywords": [
+        "dna",
+        "modifying",
+        "scientist",
+        "specie",
+        "these",
+        "wildlife"
+      ],
+      "item_ids": [
+        "0bf0b8db4921"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "2633b4f88214",
+      "topic": "delaware elon much musk",
+      "keywords": [
+        "delaware",
+        "elon",
+        "much",
+        "musk",
+        "pay",
+        "tesla"
+      ],
+      "item_ids": [
+        "fee3fcb90d22"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "2e14091503ea",
+      "topic": "agriculture broadcasting here made",
+      "keywords": [
+        "agriculture",
+        "broadcasting",
+        "here",
+        "made",
+        "root",
+        "way"
+      ],
+      "item_ids": [
+        "ae0bcea59ee7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "0bd0d4d374cd",
+      "topic": "case court hear major",
+      "keywords": [
+        "case",
+        "court",
+        "hear",
+        "major",
+        "question",
+        "supreme"
+      ],
+      "item_ids": [
+        "000c1f48af0a"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9670,144 +9466,54 @@
       ]
     },
     {
-      "id": "c5c874c404a9",
-      "topic": "award charlie freedom medal",
+      "id": "a3e8d7390782",
+      "topic": "alarm auto china industry",
       "keywords": [
-        "award",
-        "charlie",
-        "freedom",
-        "medal",
-        "posthumously",
-        "trump"
-      ],
-      "item_ids": [
-        "416e117af50c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "92b46dbd131c",
-      "topic": "edge explore identity john",
-      "keywords": [
-        "edge",
-        "explore",
-        "identity",
-        "john",
-        "memoir",
-        "southern"
-      ],
-      "item_ids": [
-        "1cd73a5de298"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "d186e9eb3e9e",
-      "topic": "afghan contradictory earthquake tactic",
-      "keywords": [
-        "afghan",
-        "contradictory",
-        "earthquake",
-        "tactic",
-        "taliban",
-        "trigger"
-      ],
-      "item_ids": [
-        "7ef7c6920926"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "c909310b5d9c",
-      "topic": "anti following madagascar military",
-      "keywords": [
-        "anti",
-        "following",
-        "madagascar",
-        "military",
-        "power",
-        "seize"
-      ],
-      "item_ids": [
-        "6750d0a3857d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "1bdbba6422ae",
-      "topic": "ceasefire fragile gaza hama",
-      "keywords": [
-        "ceasefire",
-        "fragile",
-        "gaza",
-        "hama",
-        "israel",
-        "tested"
-      ],
-      "item_ids": [
-        "5f08d99cba1d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "4a3d59d483fa",
-      "topic": "becoming gaza ice next",
-      "keywords": [
-        "becoming",
-        "gaza",
-        "ice",
-        "next",
-        "reportedly",
-        "tactic"
-      ],
-      "item_ids": [
-        "b67a3f3ac0ba"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "7bb0af73f8a8",
-      "topic": "crowded enter gov janet",
-      "keywords": [
-        "crowded",
-        "enter",
-        "gov",
-        "janet",
-        "maine",
-        "mill"
-      ],
-      "item_ids": [
-        "cfa96fce3a92"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "18293c807ab3",
-      "topic": "china cooking embargo oil",
-      "keywords": [
+        "alarm",
+        "auto",
         "china",
-        "cooking",
-        "embargo",
-        "oil",
-        "threaten",
-        "trump"
+        "industry",
+        "raise",
+        "tighten"
       ],
       "item_ids": [
-        "324530d174a5"
+        "6610142f6f29"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "97fb5ef3f64c",
+      "topic": "consumer expect higher holiday",
+      "keywords": [
+        "consumer",
+        "expect",
+        "higher",
+        "holiday",
+        "most",
+        "price"
+      ],
+      "item_ids": [
+        "ea9f85841fe3"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "378c1154292d",
+      "topic": "announce billion investment jeep",
+      "keywords": [
+        "announce",
+        "billion",
+        "investment",
+        "jeep",
+        "parent",
+        "stellanti"
+      ],
+      "item_ids": [
+        "2cee4db6772c"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9868,18 +9574,36 @@
       ]
     },
     {
-      "id": "bda591b0fcd9",
-      "topic": "asia market rank rise",
+      "id": "8828d6079ee3",
+      "topic": "bipartisan firing prioritie shutdown",
       "keywords": [
-        "asia",
-        "market",
-        "rank",
-        "rise",
-        "street",
-        "wall"
+        "bipartisan",
+        "firing",
+        "prioritie",
+        "shutdown",
+        "touch",
+        "trump"
       ],
       "item_ids": [
-        "606cdfdb4572"
+        "f85a968c6114"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "dce152786a3e",
+      "topic": "launch london marking plan",
+      "keywords": [
+        "launch",
+        "london",
+        "marking",
+        "plan",
+        "robotaxi",
+        "waymo"
+      ],
+      "item_ids": [
+        "d01659bc10cb"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9904,57 +9628,37 @@
       ]
     },
     {
-      "id": "9f284128a0d7",
-      "topic": "airport dhs kristi refuse",
+      "id": "b3e6158f58a9",
+      "topic": "doesn face know recognition",
       "keywords": [
-        "airport",
-        "dhs",
-        "kristi",
-        "refuse",
-        "sec",
-        "show"
+        "doesn",
+        "face",
+        "know",
+        "recognition"
       ],
       "item_ids": [
-        "dd0ee0f06002"
+        "07bccf121eb9"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
-      "id": "b72db3eab124",
-      "topic": "china consumer drop expected",
+      "id": "a715ed3d1e85",
+      "topic": "coming london robotaxi waymo",
       "keywords": [
-        "china",
-        "consumer",
-        "drop",
-        "expected",
-        "price",
-        "september"
+        "coming",
+        "london",
+        "robotaxi",
+        "waymo"
       ],
       "item_ids": [
-        "06d37fb35435"
+        "58e6c6732b1e",
+        "b0169f6d7d1f"
       ],
       "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "1f67ec9ebfb7",
-      "topic": "around bid circle japan",
-      "keywords": [
-        "around",
-        "bid",
-        "circle",
-        "japan",
-        "opposition",
-        "unity"
-      ],
-      "item_ids": [
-        "64dbae739d7f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
+        "The Verge",
+        "WIRED"
       ]
     },
     {
@@ -10097,37 +9801,20 @@
       ]
     },
     {
-      "id": "6cac3f8b2a90",
-      "topic": "airtag apple now right",
+      "id": "a4065614b567",
+      "topic": "apple exec just let",
       "keywords": [
-        "airtag",
         "apple",
-        "now",
-        "right"
+        "exec",
+        "just",
+        "let",
+        "rebranding"
       ],
       "item_ids": [
-        "2247189a67da"
+        "5ae3482a7ecf"
       ],
       "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "911eedde63eb",
-      "topic": "alleged billion bitcoin feds",
-      "keywords": [
-        "alleged",
-        "billion",
-        "bitcoin",
-        "feds",
-        "record",
-        "seize"
-      ],
-      "item_ids": [
-        "f0c927905b05"
-      ],
-      "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10260,41 +9947,6 @@
       ],
       "item_ids": [
         "abe8208d278c"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "19bfcb09b095",
-      "topic": "best buy ereader now",
-      "keywords": [
-        "best",
-        "buy",
-        "ereader",
-        "now",
-        "right"
-      ],
-      "item_ids": [
-        "b57496c1abc7"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "a6752ac2a3b5",
-      "topic": "california cancellation crack down",
-      "keywords": [
-        "california",
-        "cancellation",
-        "crack",
-        "down",
-        "early",
-        "predatory"
-      ],
-      "item_ids": [
-        "36c42db9eb40"
       ],
       "outlets": [
         "The Verge"
@@ -10823,21 +10475,39 @@
       ]
     },
     {
-      "id": "2a78106339af",
-      "topic": "coal electricity energy generation",
+      "id": "c5c874c404a9",
+      "topic": "award charlie freedom medal",
       "keywords": [
-        "coal",
-        "electricity",
-        "energy",
-        "generation",
-        "outpace",
-        "renewable"
+        "award",
+        "charlie",
+        "freedom",
+        "medal",
+        "posthumously",
+        "trump"
       ],
       "item_ids": [
-        "ef83dc0771ee"
+        "416e117af50c"
       ],
       "outlets": [
-        "NPR Topics: Science"
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "7bb0af73f8a8",
+      "topic": "crowded enter gov janet",
+      "keywords": [
+        "crowded",
+        "enter",
+        "gov",
+        "janet",
+        "maine",
+        "mill"
+      ],
+      "item_ids": [
+        "cfa96fce3a92"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -10924,42 +10594,6 @@
       ],
       "item_ids": [
         "890211f37fab"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "bac879e532f6",
-      "topic": "administration department guts overseeing",
-      "keywords": [
-        "administration",
-        "department",
-        "guts",
-        "overseeing",
-        "shutdown",
-        "trump"
-      ],
-      "item_ids": [
-        "f76799c22510"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "e0d201b3b023",
-      "topic": "family federal feel terrible",
-      "keywords": [
-        "family",
-        "federal",
-        "feel",
-        "terrible",
-        "tighten",
-        "worker"
-      ],
-      "item_ids": [
-        "ddea8ca79a52"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11298,6 +10932,24 @@
       ]
     },
     {
+      "id": "04a954d7eecf",
+      "topic": "action energy federal future",
+      "keywords": [
+        "action",
+        "energy",
+        "federal",
+        "future",
+        "make",
+        "york"
+      ],
+      "item_ids": [
+        "5d9ff32297c4"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "11b5a0867ed5",
       "topic": "advocate coal enforce miner",
       "keywords": [
@@ -11456,24 +11108,6 @@
       ]
     },
     {
-      "id": "2c34dae764af",
-      "topic": "change climate come gable",
-      "keywords": [
-        "change",
-        "climate",
-        "come",
-        "gable",
-        "house",
-        "seven"
-      ],
-      "item_ids": [
-        "fdbe1d4eb9a7"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
       "id": "87d514bdf0eb",
       "topic": "ares debut disappointing projection",
       "keywords": [
@@ -11576,42 +11210,6 @@
       ],
       "item_ids": [
         "45c23c8d0be7"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "7d4e7d428cef",
-      "topic": "2026 box busines number",
-      "keywords": [
-        "2026",
-        "box",
-        "busines",
-        "number",
-        "office",
-        "report"
-      ],
-      "item_ids": [
-        "aed784fb3371"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "2634fa7adbf2",
-      "topic": "another battle dollhouse gabby",
-      "keywords": [
-        "another",
-        "battle",
-        "dollhouse",
-        "gabby",
-        "projection",
-        "weekend"
-      ],
-      "item_ids": [
-        "0e12ee20974d"
       ],
       "outlets": [
         "The Numbers"
@@ -12473,126 +12071,6 @@
       ],
       "outlets": [
         "HorrorFix"
-      ]
-    },
-    {
-      "id": "c332abd93e9a",
-      "topic": "fleet rebel trooper tvc15",
-      "keywords": [
-        "fleet",
-        "rebel",
-        "trooper",
-        "tvc15",
-        "vc52"
-      ],
-      "item_ids": [
-        "312fd14fe195"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "7f95c3bda4d6",
-      "topic": "anakin skywalker tvc15 vc92",
-      "keywords": [
-        "anakin",
-        "skywalker",
-        "tvc15",
-        "vc92"
-      ],
-      "item_ids": [
-        "9752eb18482c"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "105b7313c18a",
-      "topic": "darth hot revenge sith",
-      "keywords": [
-        "darth",
-        "hot",
-        "revenge",
-        "sith",
-        "toys",
-        "vader"
-      ],
-      "item_ids": [
-        "2bc4537ce27a"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "670bdb799984",
-      "topic": "battle droid tvc15 vc78",
-      "keywords": [
-        "battle",
-        "droid",
-        "tvc15",
-        "vc78"
-      ],
-      "item_ids": [
-        "c6073b3eb690"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "d76d5179ea19",
-      "topic": "base echo han outfit",
-      "keywords": [
-        "base",
-        "echo",
-        "han",
-        "outfit",
-        "solo",
-        "tvc15"
-      ],
-      "item_ids": [
-        "45cb088663ff"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "3bcabf443022",
-      "topic": "guard kithaba skiff tvc15",
-      "keywords": [
-        "guard",
-        "kithaba",
-        "skiff",
-        "tvc15",
-        "vc56"
-      ],
-      "item_ids": [
-        "7ad2f7e820ca"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "fe5e873152df",
-      "topic": "222 ben otoga quadinaro",
-      "keywords": [
-        "222",
-        "ben",
-        "otoga",
-        "quadinaro",
-        "tvc15",
-        "vc81"
-      ],
-      "item_ids": [
-        "9789e9f7cb4c"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
       ]
     },
     {
