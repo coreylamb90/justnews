@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T07:08:51Z",
+  "generated_at": "2025-10-15T07:58:49Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -40,46 +40,108 @@
       "title": "ASML looks to calm fears over 2026 growth as it warns of China sales decline",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/15/asml-q3-earnings-report.html",
-      "published_at": "Wed, 15 Oct 2025 06:08:20 GMT",
+      "published_at": "Wed, 15 Oct 2025 07:30:01 GMT",
       "bullets": [
-        "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
-        "• Firm said it does not expect 2026 total net sales to be below 2025",
-        "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025 "
+        "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+        "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025",
+        "• The firm also maintained its forecast for annual sales to increase around 15% this year in comparison to 2024, with a gross margin of around 52%"
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
-          "• Firm said it does not expect 2026 total net sales to be below 2025"
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025"
         ],
         "hopeful_bullets": [
-          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
-          "• Firm said it does not expect 2026 total net sales to be below 2025"
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025"
         ],
         "stakes_bullets": [
-          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
-          "• Firm said it does not expect 2026 total net sales to be below 2025",
-          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025 "
+          "• The firm also maintained its forecast for annual sales to increase around 15% this year in comparison to 2024, with a gross margin of around 52%"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b6afa58fa6ee"
+    },
+    {
+      "id": "606cdfdb4572",
+      "title": "Asia markets rise, breaking ranks with Wall Street's declines on renewed U.S.-China trade feud",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-nifty-50.html",
+      "published_at": "Wed, 15 Oct 2025 07:29:57 GMT",
+      "bullets": [
+        "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
+        "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72",
+        "• China's consumer price index fell 0.3% in September from a year earlier "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.855
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
+          "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72"
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
+          "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72"
+        ],
+        "stakes_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 1.76% to 47,672.67",
+          "• South Korea's Kospi jumped 2.68% to 3,657.28, while the small-cap Kosdaq added 1.98% to 864.72",
+          "• China's consumer price index fell 0.3% in September from a year earlier "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "b6afa58fa6ee"
+      "cluster_id": "bda591b0fcd9"
+    },
+    {
+      "id": "f1a3c0a3e719",
+      "title": "Watchdog rules Red Tractor exaggerated its environmental standards",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/15/watchdog-rules-red-tractor-exaggerated-environmental-standards",
+      "published_at": "Wed, 15 Oct 2025 07:10:45 GMT",
+      "bullets": [
+        "• The Red Tractor scheme is used by leading supermarkets including Tesco, Asda and Morrisons to assure customers their food meets high standards for welfare, environment, traceability and safety",
+        "• About 45,000 of the UK’s farms are members of the scheme, and the advert promised that food carrying the logo had been ‘farmed with care’"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Red Tractor scheme is used by leading supermarkets including Tesco, Asda and Morrisons to assure customers their food meets high standards for welfare, environment, traceability and safety",
+          "• About 45,000 of the UK’s farms are members of the scheme, and the advert promised that food carrying the logo had been ‘farmed with care’"
+        ],
+        "hopeful_bullets": [
+          "• The Red Tractor scheme is used by leading supermarkets including Tesco, Asda and Morrisons to assure customers their food meets high standards for welfare, environment, traceability and safety",
+          "• About 45,000 of the UK’s farms are members of the scheme, and the advert promised that food carrying the logo had been ‘farmed with care’"
+        ],
+        "stakes_bullets": [
+          "• The Red Tractor scheme is used by leading supermarkets including Tesco, Asda and Morrisons to assure customers their food meets high standards for welfare, environment, traceability and safety"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "55a2503b659b"
     },
     {
       "id": "fde8c4073661",
       "title": "Hostage families confirm identities of three of four bodies handed over by Hamas",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 06:07:46 GMT",
+      "published_at": "Wed, 15 Oct 2025 07:03:31 GMT",
       "bullets": [
         "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
         "• Scientists are still working to identify the fourth body",
-        "• Hamas has yet to return the other bodies as agreed under a ceasefire deal",
-        "• Israel has threatened to further restrict humanitarian aid until the remains of all 28 hostages are returned "
+        "• Hamas has yet to return the other bodies as agreed under a ceasefire deal brokered by the US "
       ],
       "category": "World",
       "sentiment": {
@@ -98,11 +160,175 @@
         "stakes_bullets": [
           "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
           "• Scientists are still working to identify the fourth body",
-          "• Hamas has yet to return the other bodies as agreed under a ceasefire deal"
+          "• Hamas has yet to return the other bodies as agreed under a ceasefire deal brokered by the US "
         ]
       },
       "read_minutes": 5,
       "cluster_id": "e71e91cf637e"
+    },
+    {
+      "id": "ef49fb62f975",
+      "title": "Wildlife Photographer of the Year 2025, the winning images",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/society/wildlife-photographer-of-the-year-2025-the-winning-images/",
+      "published_at": "Wed, 15 Oct 2025 07:00:49 +0000",
+      "bullets": [
+        "• The annual competition, run by London’s Natural History Museum, received a record-breaking 60,636 entries from 113 countries and territories this year",
+        "• Winners were announced this week, with South African photographer Wim van den Heever claiming the top prize "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The annual competition, run by London’s Natural History Museum, received a record-breaking 60,636 entries from 113 countries and territories this year",
+          "• Winners were announced this week, with South African photographer Wim van den Heever claiming the top prize "
+        ],
+        "hopeful_bullets": [
+          "• The annual competition, run by London’s Natural History Museum, received a record-breaking 60,636 entries from 113 countries and territories this year",
+          "• Winners were announced this week, with South African photographer Wim van den Heever claiming the top prize "
+        ],
+        "stakes_bullets": [
+          "• The annual competition, run by London’s Natural History Museum, received a record-breaking 60,636 entries from 113 countries and territories this year",
+          "• Winners were announced this week, with South African photographer Wim van den Heever claiming the top prize "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5b36c2c9f4a7"
+    },
+    {
+      "id": "425dadf15803",
+      "title": "Thousands trapped in El Fasher siege on ‘edge of survival’, says report",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/global-development/2025/oct/15/thousands-trapped-in-el-fasher-sudan-siege-on-edge-of-survival-says-report-rsf",
+      "published_at": "Wed, 15 Oct 2025 07:00:17 GMT",
+      "bullets": [
+        "• El Fasher has been surrounded by fighters from the paramilitary Rapid Support Forces (RSF) for 549 days",
+        "• They have prevented all humanitarian access entering the city as it attempts to seize the army’s last stronghold in west Sudan",
+        "• A quarter of households had experienced a death within the previous three months "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• El Fasher has been surrounded by fighters from the paramilitary Rapid Support Forces (RSF) for 549 days",
+          "• They have prevented all humanitarian access entering the city as it attempts to seize the army’s last stronghold in west Sudan"
+        ],
+        "hopeful_bullets": [
+          "• They have prevented all humanitarian access entering the city as it attempts to seize the army’s last stronghold in west Sudan"
+        ],
+        "stakes_bullets": [
+          "• El Fasher has been surrounded by fighters from the paramilitary Rapid Support Forces (RSF) for 549 days",
+          "• They have prevented all humanitarian access entering the city as it attempts to seize the army’s last stronghold in west Sudan",
+          "• A quarter of households had experienced a death within the previous three months "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3b5a107a062e"
+    },
+    {
+      "id": "41ddd0ba34ca",
+      "title": "SpaceX’s Second-Gen Starship Signs Off With a Near-Perfect Test Flight",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/spacexs-second-gen-starship-signs-off-with-a-near-perfect-test-flight/",
+      "published_at": "Wed, 15 Oct 2025 07:00:00 +0000",
+      "bullets": [
+        "• The rocket’s 33 methane-fueled Raptor engines roared to life at 6.23 pm CDT (7:23 pm EDT; 23:23 UTC) They generated 16.7 million pounds of thrust, by a large measure more powerful than any rocket before",
+        "• The 404-foot-tall (123-meter) rocket began a vertical climb away from the launch pad in South Texas "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The rocket’s 33 methane-fueled Raptor engines roared to life at 6.23 pm CDT (7:23 pm EDT; 23:23 UTC) They generated 16.7 million pounds of thrust, by a large measure more powerful than any rocket before",
+          "• The 404-foot-tall (123-meter) rocket began a vertical climb away from the launch pad in South Texas "
+        ],
+        "hopeful_bullets": [
+          "• The rocket’s 33 methane-fueled Raptor engines roared to life at 6.23 pm CDT (7:23 pm EDT; 23:23 UTC) They generated 16.7 million pounds of thrust, by a large measure more powerful than any rocket before",
+          "• The 404-foot-tall (123-meter) rocket began a vertical climb away from the launch pad in South Texas "
+        ],
+        "stakes_bullets": [
+          "• The rocket’s 33 methane-fueled Raptor engines roared to life at 6.23 pm CDT (7:23 pm EDT; 23:23 UTC) They generated 16.7 million pounds of thrust, by a large measure more powerful than any rocket before",
+          "• The 404-foot-tall (123-meter) rocket began a vertical climb away from the launch pad in South Texas "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "606db3208f18"
+    },
+    {
+      "id": "7d944ebe306d",
+      "title": "Bangladesh garment factory fire kills at least 16",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 06:56:42 GMT",
+      "bullets": [
+        "• Fire broke out at four-storey garment factory in Dhaka's Mirpur area on Tuesday",
+        "• The blaze was extinguished after three hours, but an adjacent chemical warehouse continued to burn",
+        "• Sixteen bodies have been recovered and will be handed to families after DNA testing "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire broke out at four-storey garment factory in Dhaka's Mirpur area on Tuesday",
+          "• The blaze was extinguished after three hours, but an adjacent chemical warehouse continued to burn"
+        ],
+        "hopeful_bullets": [
+          "• Fire broke out at four-storey garment factory in Dhaka's Mirpur area on Tuesday",
+          "• The blaze was extinguished after three hours, but an adjacent chemical warehouse continued to burn"
+        ],
+        "stakes_bullets": [
+          "• Sixteen bodies have been recovered and will be handed to families after DNA testing "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "251c43f4c163"
+    },
+    {
+      "id": "aa9d57f2f449",
+      "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 06:52:37 GMT",
+      "bullets": [
+        "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
+        "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal",
+        "• Qatar, Turkey and Egypt used their leverage with Hamas to force it to accept",
+        "• Without his push to demand Israeli Prime Minister Benjamin Netanyahu's agreement, the deal would not have been signed "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
+          "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal"
+        ],
+        "hopeful_bullets": [
+          "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
+          "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal"
+        ],
+        "stakes_bullets": [
+          "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
+          "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal",
+          "• Qatar, Turkey and Egypt used their leverage with Hamas to force it to accept"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e47c12e096e8"
     },
     {
       "id": "3102e71621fc",
@@ -303,40 +529,6 @@
       "cluster_id": "60123af59c6d"
     },
     {
-      "id": "606cdfdb4572",
-      "title": "Asia markets rise, breaking ranks with Wall Street's declines on renewed U.S.-China trade feud",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-nifty-50.html",
-      "published_at": "Wed, 15 Oct 2025 04:53:11 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index rose 1.53% and the Topix added 1.42%",
-        "• South Korea's Kospi jumped 2.15% and Australia's ASX/S&P 200 was up 0.85%",
-        "• China's consumer price index fell 0.3% in September from a year earlier "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.83
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.53% and the Topix added 1.42%",
-          "• South Korea's Kospi jumped 2.15% and Australia's ASX/S&P 200 was up 0.85%"
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.53% and the Topix added 1.42%",
-          "• South Korea's Kospi jumped 2.15% and Australia's ASX/S&P 200 was up 0.85%"
-        ],
-        "stakes_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.53% and the Topix added 1.42%",
-          "• South Korea's Kospi jumped 2.15% and Australia's ASX/S&P 200 was up 0.85%",
-          "• China's consumer price index fell 0.3% in September from a year earlier "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bda591b0fcd9"
-    },
-    {
       "id": "40fe653a77f0",
       "title": "Wale Gets Reflective on ‘Mirroronnabenz’ with BNYX",
       "outlet": "Music News",
@@ -498,40 +690,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "38af89eaef33"
-    },
-    {
-      "id": "2586207e7fd9",
-      "title": "UK must prepare buildings for 2C rise in global temperature, government told",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/15/uk-prepare-buildings-2c-rise-temperature",
-      "published_at": "Wed, 15 Oct 2025 04:00:13 GMT",
-      "bullets": [
-        "• Heatwaves will occur in at least four of every five years in England by 2050",
-        "• Number of days of peak wildfire conditions in July will nearly treble for the UK",
-        "• Floods will increase in frequency throughout the year, with some peak river flows increasing by 40% "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Heatwaves will occur in at least four of every five years in England by 2050",
-          "• Number of days of peak wildfire conditions in July will nearly treble for the UK"
-        ],
-        "hopeful_bullets": [
-          "• Heatwaves will occur in at least four of every five years in England by 2050",
-          "• Number of days of peak wildfire conditions in July will nearly treble for the UK"
-        ],
-        "stakes_bullets": [
-          "• Heatwaves will occur in at least four of every five years in England by 2050",
-          "• Number of days of peak wildfire conditions in July will nearly treble for the UK",
-          "• Floods will increase in frequency throughout the year, with some peak river flows increasing by 40% "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1fd08ecac36f"
     },
     {
       "id": "af3d30802490",
@@ -1093,40 +1251,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1f67ec9ebfb7"
-    },
-    {
-      "id": "7d944ebe306d",
-      "title": "Bangladesh garment factory fire kills at least 16",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 01:06:09 GMT",
-      "bullets": [
-        "• Fire broke out at four-storey factory in Dhaka's Mirpur area on Tuesday afternoon",
-        "• Fire was extinguished after three hours but chemical warehouse continued to burn",
-        "• Eyewitnesses say the warehouse stored bleaching powder, plastic and hydrogen peroxide "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fire broke out at four-storey factory in Dhaka's Mirpur area on Tuesday afternoon",
-          "• Fire was extinguished after three hours but chemical warehouse continued to burn"
-        ],
-        "hopeful_bullets": [
-          "• Fire broke out at four-storey factory in Dhaka's Mirpur area on Tuesday afternoon",
-          "• Fire was extinguished after three hours but chemical warehouse continued to burn"
-        ],
-        "stakes_bullets": [
-          "• Fire broke out at four-storey factory in Dhaka's Mirpur area on Tuesday afternoon",
-          "• Fire was extinguished after three hours but chemical warehouse continued to burn",
-          "• Eyewitnesses say the warehouse stored bleaching powder, plastic and hydrogen peroxide "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "251c43f4c163"
     },
     {
       "id": "0ec38feb9e25",
@@ -3560,41 +3684,6 @@
       "cluster_id": "911eedde63eb"
     },
     {
-      "id": "aa9d57f2f449",
-      "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 14 Oct 2025 17:31:59 GMT",
-      "bullets": [
-        "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
-        "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal",
-        "• Qatar, Turkey and Egypt used their leverage with Hamas to force it to accept",
-        "• Without his push to demand Israeli Prime Minister Benjamin Netanyahu's agreement, the deal would not have been signed "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
-          "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal"
-        ],
-        "hopeful_bullets": [
-          "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
-          "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal"
-        ],
-        "stakes_bullets": [
-          "• Trump's quick trip to Israel and Egypt was the victory lap he wanted",
-          "• Without question, Trump can claim credit for the ceasefire and hostage exchange deal",
-          "• Qatar, Turkey and Egypt used their leverage with Hamas to force it to accept"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "e47c12e096e8"
-    },
-    {
       "id": "d8d06aa8dd79",
       "title": "Marjorie Taylor Greene slams party and calls Republican men in Congress ‘weak’",
       "outlet": "US news | The Guardian",
@@ -3926,38 +4015,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8e286da06623"
-    },
-    {
-      "id": "88b03b74dd50",
-      "title": "This Watch Brand Has Made a Completely New Kind of Strap Using Lasers",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/this-watch-brand-has-made-a-completely-new-kind-of-strap-using-lasers/",
-      "published_at": "Tue, 14 Oct 2025 16:02:07 +0000",
-      "bullets": [
-        "• The Polymesh is 3D-printed from grade 5 titanium and comprises 1,693 interconnected pieces (including the buckle) held together without pins or screws",
-        "• The only additional parts requiring assembly are the quick-release spring bars at each end that attach it to the watch "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Polymesh is 3D-printed from grade 5 titanium and comprises 1,693 interconnected pieces (including the buckle) held together without pins or screws",
-          "• The only additional parts requiring assembly are the quick-release spring bars at each end that attach it to the watch "
-        ],
-        "hopeful_bullets": [
-          "• The Polymesh is 3D-printed from grade 5 titanium and comprises 1,693 interconnected pieces (including the buckle) held together without pins or screws",
-          "• The only additional parts requiring assembly are the quick-release spring bars at each end that attach it to the watch "
-        ],
-        "stakes_bullets": [
-          "• The Polymesh is 3D-printed from grade 5 titanium and comprises 1,693 interconnected pieces (including the buckle) held together without pins or screws",
-          "• The only additional parts requiring assembly are the quick-release spring bars at each end that attach it to the watch "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c777fd23e57c"
     },
     {
       "id": "e1df4c220e40",
@@ -5051,36 +5108,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "02f8483db239"
-    },
-    {
-      "id": "e86c465f9b26",
-      "title": "African football’s general secretary accused of creating toxic culture of fear",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/football/2025/oct/14/african-football-general-secretary-accused-of-creating-toxic-culture-of-fear",
-      "published_at": "Tue, 14 Oct 2025 07:00:14 GMT",
-      "bullets": [
-        "• Véron Mosengo-Omba has been accused of running the organisation as his ‘proprietorship’ and creating a toxic culture of fear where employees are fired for speaking out against him",
-        "• Those sacked include Hannan Nur, the former head of governance, risk and compliance (GRC) who accused him of ‘impeding’ members of her department "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Véron Mosengo-Omba has been accused of running the organisation as his ‘proprietorship’ and creating a toxic culture of fear where employees are fired for speaking out against him",
-          "• Those sacked include Hannan Nur, the former head of governance, risk and compliance (GRC) who accused him of ‘impeding’ members of her department "
-        ],
-        "hopeful_bullets": [
-          "• Véron Mosengo-Omba has been accused of running the organisation as his ‘proprietorship’ and creating a toxic culture of fear where employees are fired for speaking out against him"
-        ],
-        "stakes_bullets": [
-          "• Those sacked include Hannan Nur, the former head of governance, risk and compliance (GRC) who accused him of ‘impeding’ members of her department "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3055f53f99dc"
     },
     {
       "id": "b0e5700a19a9",
@@ -6267,41 +6294,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "e0a902ec23a4"
-    },
-    {
-      "id": "354aa9e01458",
-      "title": "Life after: being on death row",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/life-after-being-on-death-row/",
-      "published_at": "Thu, 02 Oct 2025 07:00:48 +0000",
-      "bullets": [
-        "• Anthony Ray Hinton spent nearly 30 years on Alabama's death row",
-        "• He was wrongly convicted of two murders and sentenced to death in 1985",
-        "• Hinton was saddled with an incompetent public defender",
-        "• He now dedicates his time to preventing others experiencing the same fate "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.806
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anthony Ray Hinton spent nearly 30 years on Alabama's death row",
-          "• He was wrongly convicted of two murders and sentenced to death in 1985"
-        ],
-        "hopeful_bullets": [
-          "• Anthony Ray Hinton spent nearly 30 years on Alabama's death row",
-          "• He was wrongly convicted of two murders and sentenced to death in 1985"
-        ],
-        "stakes_bullets": [
-          "• Anthony Ray Hinton spent nearly 30 years on Alabama's death row",
-          "• He was wrongly convicted of two murders and sentenced to death in 1985",
-          "• Hinton was saddled with an incompetent public defender"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "bc1a404bbc38"
     },
     {
       "id": "443cab740aae",
@@ -9280,6 +9272,24 @@
       ]
     },
     {
+      "id": "3b5a107a062e",
+      "topic": "edge fasher siege survival",
+      "keywords": [
+        "edge",
+        "fasher",
+        "siege",
+        "survival",
+        "thousand",
+        "trapped"
+      ],
+      "item_ids": [
+        "425dadf15803"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "7931db1a8893",
       "topic": "elite madagascar military power",
       "keywords": [
@@ -9346,24 +9356,6 @@
       ],
       "item_ids": [
         "dd10fc3fad96"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "3055f53f99dc",
-      "topic": "accused african creating football",
-      "keywords": [
-        "accused",
-        "african",
-        "creating",
-        "football",
-        "general",
-        "secretary"
-      ],
-      "item_ids": [
-        "e86c465f9b26"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9962,6 +9954,24 @@
       ]
     },
     {
+      "id": "606db3208f18",
+      "topic": "gen off second sign",
+      "keywords": [
+        "gen",
+        "off",
+        "second",
+        "sign",
+        "spacex",
+        "starship"
+      ],
+      "item_ids": [
+        "41ddd0ba34ca"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "804762d50fc7",
       "topic": "2025 code coupon dell",
       "keywords": [
@@ -10111,24 +10121,6 @@
       ],
       "item_ids": [
         "f0c927905b05"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "c777fd23e57c",
-      "topic": "brand completely kind made",
-      "keywords": [
-        "brand",
-        "completely",
-        "kind",
-        "made",
-        "strap",
-        "watch"
-      ],
-      "item_ids": [
-        "88b03b74dd50"
       ],
       "outlets": [
         "WIRED"
@@ -11248,6 +11240,24 @@
       ]
     },
     {
+      "id": "55a2503b659b",
+      "topic": "environmental exaggerated red rule",
+      "keywords": [
+        "environmental",
+        "exaggerated",
+        "red",
+        "rule",
+        "tractor",
+        "watchdog"
+      ],
+      "item_ids": [
+        "f1a3c0a3e719"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "7b82d53bf4e6",
       "topic": "briefing devastating facing flood",
       "keywords": [
@@ -11278,24 +11288,6 @@
       ],
       "item_ids": [
         "974a4fb92339"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "1fd08ecac36f",
-      "topic": "building global must prepare",
-      "keywords": [
-        "building",
-        "global",
-        "must",
-        "prepare",
-        "rise",
-        "temperature"
-      ],
-      "item_ids": [
-        "2586207e7fd9"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -12912,6 +12904,24 @@
       ]
     },
     {
+      "id": "5b36c2c9f4a7",
+      "topic": "2025 image photographer wildlife",
+      "keywords": [
+        "2025",
+        "image",
+        "photographer",
+        "wildlife",
+        "winning",
+        "year"
+      ],
+      "item_ids": [
+        "ef49fb62f975"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "02f8483db239",
       "topic": "barbershop club footy health",
       "keywords": [
@@ -13066,22 +13076,6 @@
       ],
       "item_ids": [
         "492a87a5748d"
-      ],
-      "outlets": [
-        "Positive News"
-      ]
-    },
-    {
-      "id": "bc1a404bbc38",
-      "topic": "being death life row",
-      "keywords": [
-        "being",
-        "death",
-        "life",
-        "row"
-      ],
-      "item_ids": [
-        "354aa9e01458"
       ],
       "outlets": [
         "Positive News"
