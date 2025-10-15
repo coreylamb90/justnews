@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T10:00:48Z",
+  "generated_at": "2025-10-15T10:19:28Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -34,6 +34,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "5b039eade443",
+      "title": "ASML looks to calm fears over 2026 growth as it warns of China sales decline",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/asml-q3-earnings-report.html",
+      "published_at": "Wed, 15 Oct 2025 09:38:11 GMT",
+      "bullets": [
+        "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+        "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025",
+        "• Shares were last trading 3.5% higher and the stock is up 24% year to date "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025"
+        ],
+        "hopeful_bullets": [
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025"
+        ],
+        "stakes_bullets": [
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
+          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025",
+          "• Shares were last trading 3.5% higher and the stock is up 24% year to date "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b6afa58fa6ee"
     },
     {
       "id": "07bccf121eb9",
@@ -206,37 +240,36 @@
       "cluster_id": "f527db40b0d1"
     },
     {
-      "id": "d01659bc10cb",
-      "title": "Waymo plans robotaxi launch in London, marking its European debut",
+      "id": "baaaafdfe32e",
+      "title": "LVMH pops 13% after posting growth for the first time this year",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/waymo-p.html",
-      "published_at": "Wed, 15 Oct 2025 09:00:01 GMT",
+      "url": "https://www.cnbc.com/2025/10/15/lvmh-3q-results.html",
+      "published_at": "Wed, 15 Oct 2025 09:00:12 GMT",
       "bullets": [
-        "• Alphabet's Waymo is bringing its driverless ride-hailing services to London, the first European market for its robotaxi",
-        "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel",
-        "• London will mark the company's second international city after Tokyo, where testing began in early 2025 "
+        "• Shares of LVMH popped nearly 14% Wednesday, putting them on course for their best daily performance in more than two decades",
+        "• French luxury conglomerate posted growth for the first time this year",
+        "• Revenues for the three months to September came in at $21.3 billion euros, beating expectations",
+        "• The Paris-listed firm is seen as a bellwether for the global luxury goods market "
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Alphabet's Waymo is bringing its driverless ride-hailing services to London, the first European market for its robotaxi",
-          "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel"
+          "• Shares of LVMH popped nearly 14% Wednesday, putting them on course for their best daily performance in more than two decades",
+          "• French luxury conglomerate posted growth for the first time this year"
         ],
         "hopeful_bullets": [
-          "• Alphabet's Waymo is bringing its driverless ride-hailing services to London, the first European market for its robotaxi",
-          "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel"
+          "• French luxury conglomerate posted growth for the first time this year"
         ],
         "stakes_bullets": [
-          "• The company plans to start test drives on London's roads in coming months, with human safety specialists at the wheel",
-          "• London will mark the company's second international city after Tokyo, where testing began in early 2025 "
+          "• Revenues for the three months to September came in at $21.3 billion euros, beating expectations"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "dce152786a3e"
+      "read_minutes": 3,
+      "cluster_id": "ddfe0c29fbdd"
     },
     {
       "id": "58e6c6732b1e",
@@ -370,38 +403,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "804a04448d6d"
-    },
-    {
-      "id": "5b039eade443",
-      "title": "ASML looks to calm fears over 2026 growth as it warns of China sales decline",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/asml-q3-earnings-report.html",
-      "published_at": "Wed, 15 Oct 2025 07:30:01 GMT",
-      "bullets": [
-        "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
-        "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025",
-        "• The firm also maintained its forecast for annual sales to increase around 15% this year in comparison to 2024, with a gross margin of around 52%"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
-          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025"
-        ],
-        "hopeful_bullets": [
-          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China",
-          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025"
-        ],
-        "stakes_bullets": [
-          "• The firm also maintained its forecast for annual sales to increase around 15% this year in comparison to 2024, with a gross margin of around 52%"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b6afa58fa6ee"
     },
     {
       "id": "f1a3c0a3e719",
@@ -865,38 +866,37 @@
       "cluster_id": "1ec028a1e4ac"
     },
     {
-      "id": "efce24ac2ea8",
-      "title": "Many rural schools rely on international teachers. Trump's visa changes threaten that",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/15/nx-s1-5552240/trump-visa-cuts-schools-interational-teachers",
-      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "id": "d9d228b685d0",
+      "title": "The feds are cutting off public money for all Planned Parenthoods, following a playbook that began in Texas",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17186083/texas-planned-parenthood-open-funding-cuts",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0500",
       "bullets": [
-        "• Many rural schools rely on international teachers to fill out their staff",
-        "• President Trump's visa changes threaten that",
-        "• More than 20,000 educators are in the U.S",
-        "• on H-1B visas, the third most common",
-        "• Trump's plan would require employers to pay a $100,000 fee for new visas "
+        "• Planned Parenthood’s Gulf Coast branch in Houston, Texas, shuttered to merge with another affiliate",
+        "• Anti-abortion groups celebrated this shutdown, saying it was one step closer to pushing the health care provider from the state and the nation",
+        "• Planned Parenthood Gulf Coast reported a $6 million net loss last year "
       ],
-      "category": "General",
+      "category": "Texas",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• Many rural schools rely on international teachers to fill out their staff",
-          "• President Trump's visa changes threaten that"
+          "• Planned Parenthood’s Gulf Coast branch in Houston, Texas, shuttered to merge with another affiliate",
+          "• Anti-abortion groups celebrated this shutdown, saying it was one step closer to pushing the health care provider from the state and the nation"
         ],
         "hopeful_bullets": [
-          "• Many rural schools rely on international teachers to fill out their staff",
-          "• President Trump's visa changes threaten that"
+          "• Planned Parenthood’s Gulf Coast branch in Houston, Texas, shuttered to merge with another affiliate",
+          "• Anti-abortion groups celebrated this shutdown, saying it was one step closer to pushing the health care provider from the state and the nation"
         ],
         "stakes_bullets": [
-          "• Trump's plan would require employers to pay a $100,000 fee for new visas "
+          "• Planned Parenthood’s Gulf Coast branch in Houston, Texas, shuttered to merge with another affiliate",
+          "• Planned Parenthood Gulf Coast reported a $6 million net loss last year "
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "e38c5137935f"
+      "read_minutes": 9,
+      "cluster_id": "71e0968253d7"
     },
     {
       "id": "0bf0b8db4921",
@@ -932,38 +932,6 @@
       "cluster_id": "d8fed154d795"
     },
     {
-      "id": "fee3fcb90d22",
-      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
-      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
-        "• The pay package was laid out back in 2018",
-        "• It didn't give Musk a salary, but instead, promised him more and more Tesla shares the better the company did "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
-          "• The pay package was laid out back in 2018"
-        ],
-        "hopeful_bullets": [
-          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
-          "• The pay package was laid out back in 2018"
-        ],
-        "stakes_bullets": [
-          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "2633b4f88214"
-    },
-    {
       "id": "ae0bcea59ee7",
       "title": "'Broadcasting' has its roots in agriculture. Here's how it made its way into media",
       "outlet": "NPR Topics: News",
@@ -997,36 +965,101 @@
       "cluster_id": "2e14091503ea"
     },
     {
+      "id": "fee3fcb90d22",
+      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+        "• The pay package was laid out back in 2018",
+        "• It didn't give Musk a salary, but instead, promised him more and more Tesla shares the better the company did "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+          "• The pay package was laid out back in 2018"
+        ],
+        "hopeful_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+          "• The pay package was laid out back in 2018"
+        ],
+        "stakes_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2633b4f88214"
+    },
+    {
       "id": "000c1f48af0a",
       "title": "Supreme Court hears case that questions major plank of voting rights",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/15/nx-s1-5573329/supreme-court-voting-rights-act-louisiana",
       "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• Supreme Court hears case that questions major plank of voting rights",
+        "• Supreme Court hears case that questions major plank of voting rights Act",
         "• Section 2 of the Voting Rights Act aims to ensure that minority voters are not shut out of drawing new congressional districts",
-        "• Recent studies indicate that Democrats could lose as many as 19 congressional seats in the process "
+        "• When the law was passed in 1965 there were just six African-American, four Hispanic and two Asian or Pacific Islander members of the House of Representatives "
       ],
       "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.946
+        "label": "positive",
+        "score": 0.877
       },
       "moods": {
         "brief_bullets": [
-          "• Supreme Court hears case that questions major plank of voting rights",
+          "• Supreme Court hears case that questions major plank of voting rights Act",
           "• Section 2 of the Voting Rights Act aims to ensure that minority voters are not shut out of drawing new congressional districts"
         ],
         "hopeful_bullets": [
           "• Section 2 of the Voting Rights Act aims to ensure that minority voters are not shut out of drawing new congressional districts"
         ],
         "stakes_bullets": [
-          "• Supreme Court hears case that questions major plank of voting rights",
-          "• Recent studies indicate that Democrats could lose as many as 19 congressional seats in the process "
+          "• Supreme Court hears case that questions major plank of voting rights Act"
         ]
       },
       "read_minutes": 5,
       "cluster_id": "0bd0d4d374cd"
+    },
+    {
+      "id": "efce24ac2ea8",
+      "title": "Many rural schools rely on international teachers. Trump's visa changes threaten that",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5552240/trump-visa-cuts-schools-interational-teachers",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Many rural schools rely on international teachers to fill out their staff",
+        "• President Trump's visa changes threaten that",
+        "• More than 20,000 educators are in the U.S",
+        "• on H-1B visas, the third most common",
+        "• Trump's plan would require employers to pay a $100,000 fee for new visas "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Many rural schools rely on international teachers to fill out their staff",
+          "• President Trump's visa changes threaten that"
+        ],
+        "hopeful_bullets": [
+          "• Many rural schools rely on international teachers to fill out their staff",
+          "• President Trump's visa changes threaten that"
+        ],
+        "stakes_bullets": [
+          "• Trump's plan would require employers to pay a $100,000 fee for new visas "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e38c5137935f"
     },
     {
       "id": "b204494f3f71",
@@ -1881,6 +1914,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "f4a953417c11"
+    },
+    {
+      "id": "312fd14fe195",
+      "title": "TVC15: Rebel Fleet Trooper (VC52)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-14-tvc15-rebel-fleet-trooper-vc52/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-rebel-fleet-trooper-vc52",
+      "published_at": "Wed, 15 Oct 2025 00:15:06 +0000",
+      "bullets": [
+        "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
+        "• The Rebel Fleet Trooper was a gift from Hasbro",
+        "• The extra gear allowed us to recreate some other background characters from the Yavin ceremony "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
+          "• The Rebel Fleet Trooper was a gift from Hasbro"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
+          "• The Rebel Fleet Trooper was a gift from Hasbro"
+        ],
+        "stakes_bullets": [
+          "• Hasbro reissued this exact figure, but with a different VC number, which confuses the philosophy behind their nomenclature or numbering system",
+          "• The Rebel Fleet Trooper was a gift from Hasbro",
+          "• The extra gear allowed us to recreate some other background characters from the Yavin ceremony "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c332abd93e9a"
     },
     {
       "id": "01f62cb17630",
@@ -6063,6 +6130,40 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "9789e9f7cb4c",
+      "title": "TVC15: Ben Quadinaros & Otoga-222 (VC81)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-09-tvc15-ben-quadinaros-otoga-222-vc81/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-ben-quadinaros-otoga-222-vc81",
+      "published_at": "Thu, 09 Oct 2025 22:38:26 +0000",
+      "bullets": [
+        "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
+        "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character",
+        "• The bonus here was a repainted droid as a deluxe accessory "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
+          "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character"
+        ],
+        "hopeful_bullets": [
+          "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
+          "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character"
+        ],
+        "stakes_bullets": [
+          "• Ben Quadinaros is one of the most anticipated podracer pilots from Episode I",
+          "• Hasbro waited for the most outstanding action figure collection to release a premium version of this character",
+          "• The bonus here was a repainted droid as a deluxe accessory "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fe5e873152df"
+    },
+    {
       "id": "b3ae5e82c927",
       "title": "Fantastic Fest 2025 Interview with VICIOUS Writer / Director Bryan Bertino",
       "outlet": "Daily Dead",
@@ -6462,6 +6563,40 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "c6073b3eb690",
+      "title": "TVC15: Battle Droid (VC78)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-12-tvc15-battle-droid-vc78/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-battle-droid-vc78",
+      "published_at": "Sun, 12 Oct 2025 23:01:19 +0000",
+      "bullets": [
+        "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
+        "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version",
+        "• While this figure isn’t without merit, it’s not perfect "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
+          "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
+          "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version"
+        ],
+        "stakes_bullets": [
+          "• Hasbro took a step back with the new Battle Droid tooling for The Vintage Collection",
+          "• Hasbro developed a stellar B12 Battle Droid figure that, in many ways, still supersedes the Vintage Collection version",
+          "• While this figure isn’t without merit, it’s not perfect "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "670bdb799984"
+    },
+    {
       "id": "8208e6545e57",
       "title": "A camping trip in the Rockies came with an unexpected message: you've won a Nobel Prize",
       "outlet": "NPR Topics: Science",
@@ -6620,6 +6755,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "cf6753f07556"
+    },
+    {
+      "id": "45cb088663ff",
+      "title": "TVC15: Han Solo (Echo Base Outfit) (VC03)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-11-tvc15-han-solo-echo-base-outfit-vc03/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-han-solo-echo-base-outfit-vc03",
+      "published_at": "Sun, 12 Oct 2025 00:39:00 +0000",
+      "bullets": [
+        "• We’re celebrating the 15th Anniversary of The Vintage Collection",
+        "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon",
+        "• Please leave your thoughts and memories in the RDR comments "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We’re celebrating the 15th Anniversary of The Vintage Collection",
+          "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon"
+        ],
+        "hopeful_bullets": [
+          "• We’re celebrating the 15th Anniversary of The Vintage Collection",
+          "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon"
+        ],
+        "stakes_bullets": [
+          "• We’re celebrating the 15th Anniversary of The Vintage Collection",
+          "• Han Solo (Echo Base Outfit) featured the action figure with an open parka and welding tools for ongoing repairs to the Millennium Falcon",
+          "• Please leave your thoughts and memories in the RDR comments "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d76d5179ea19"
     },
     {
       "id": "eb57e9ca09a9",
@@ -6922,6 +7091,40 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "9752eb18482c",
+      "title": "TVC15: Anakin Skywalker (VC92)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-13-tvc15-anakin-skywalker-vc92/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-anakin-skywalker-vc92",
+      "published_at": "Mon, 13 Oct 2025 23:28:25 +0000",
+      "bullets": [
+        "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
+        "• It paved the way for a few months later, but collectors enjoy it regardless",
+        "• Please leave your thoughts and memories in the RDR comments "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
+          "• It paved the way for a few months later, but collectors enjoy it regardless"
+        ],
+        "hopeful_bullets": [
+          "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
+          "• It paved the way for a few months later, but collectors enjoy it regardless"
+        ],
+        "stakes_bullets": [
+          "• Anakin Skywalker was the test subject for Hasbro's 2012 release of The Clone Wars action figures",
+          "• It paved the way for a few months later, but collectors enjoy it regardless",
+          "• Please leave your thoughts and memories in the RDR comments "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7f95c3bda4d6"
+    },
+    {
       "id": "aaa0531b38cf",
       "title": "SpaceX launches 11th test flight of its mega Starship rocket with another win",
       "outlet": "NPR Topics: Science",
@@ -7216,6 +7419,34 @@
       "cluster_id": "acc97f5f3369"
     },
     {
+      "id": "2bc4537ce27a",
+      "title": "Hot Toys Revenge of the Sith Darth Vader (Mustafar) (Artisan Edition) (DX49AE) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-13-hot-toys-revenge-of-the-sith-darth-vader-mustafar-artisan-edition-dx49ae-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-darth-vader-mustafar-artisan-edition-dx49ae-1-6-scale-figure",
+      "published_at": "Mon, 13 Oct 2025 11:22:39 +0000",
+      "bullets": [
+        "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.86
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
+        ],
+        "stakes_bullets": [
+          "• Hot Toys is following up their general release Anakin Skywalker (MMS839) with a Sideshow Exclusive Darth Vader (Mustafar) (Artisan Edition) (DX49AE) Head over to Sideshow Collectibles to get on the RSVP list "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "105b7313c18a"
+    },
+    {
       "id": "eef35c6067e7",
       "title": "The US-Mexico Border Wall May Pose Perils to Pollinators",
       "outlet": "Inside Climate News",
@@ -7346,38 +7577,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "1bb46a5adc8c"
-    },
-    {
-      "id": "8d05f9a18370",
-      "title": "More Texas kindergarteners are coming to school without measles vaccination proof or exemptions",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17184497/texas-schools-vaccines-measles-delinquencies",
-      "published_at": "Mon, 13 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
-        "• The state’s highest rate of non-vaccine compliance is now at least 23%",
-        "• More than a third of Texas children are at risk of falling ill-prepared for school "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
-          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
-        ],
-        "hopeful_bullets": [
-          "• Less than 1% of Texas schoolchildren are fully vaccinated for the first time in five years",
-          "• The state’s highest rate of non-vaccine compliance is now at least 23%"
-        ],
-        "stakes_bullets": [
-          "• More than a third of Texas children are at risk of falling ill-prepared for school "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "6c34c4e046e8"
     },
     {
       "id": "460800ce2975",
@@ -7751,6 +7950,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "3a37da55faa2"
+    },
+    {
+      "id": "7ad2f7e820ca",
+      "title": "TVC15: Kithaba (Skiff Guard) (VC56)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-10-tvc15-kithaba-skiff-guard-vc56/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-kithaba-skiff-guard-vc56",
+      "published_at": "Fri, 10 Oct 2025 22:31:23 +0000",
+      "bullets": [
+        "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
+        "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana",
+        "• It was also re-released for the 40th Anniversary of Return Of The Jedi "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.839
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
+          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro often ignores many of the characters released in the 1985 The Power Of The Force line from Kenner",
+          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
+        ],
+        "stakes_bullets": [
+          "• The figure is nearly perfect, and comes in multiple iterations thanks to the running change made on its bandana"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3bcabf443022"
     },
     {
       "id": "07ea88428611",
@@ -8759,6 +8990,76 @@
       },
       "read_minutes": 4,
       "cluster_id": "2ede1ddb1e1a"
+    },
+    {
+      "id": "aed784fb3371",
+      "title": "The Numbers Business Report: 2026 Q2 Box Office Prediction",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260050830-Numbers-Business-Report-2026-Q2-Box-Office-Prediction-The",
+      "published_at": null,
+      "bullets": [
+        "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+        "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
+        "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
+        ],
+        "hopeful_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period"
+        ],
+        "stakes_bullets": [
+          "• The Numbers Business Report: 2026 Q2 Box Office Prediction",
+          "• New feature article provides our first full prediction, as well as movie-by-movie forecasts for the major releases scheduled for that period",
+          "• Several titles should feature titles earning over $100 million, primarily from established and successful franchises "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7d4e7d428cef"
+    },
+    {
+      "id": "0e12ee20974d",
+      "title": "Weekend projections: One Battle After Another and Gabby’s Dollhouse hoping for good word-of-mouth after middling debuts",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260020830-Weekend-projections-One-Battle-After-Another-and-Gabbys-Dollhouse-hoping-for-good-word-of-mouth-after-middling-debuts",
+      "published_at": null,
+      "bullets": [
+        "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+        "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
+        "• $25 million for There Will be Blood), and marketing costs",
+        "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.509
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
+        ],
+        "hopeful_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs"
+        ],
+        "stakes_bullets": [
+          "• One Battle After Another will have the distinction of giving Paul Thomas Anderson his best weekend ever, besting the $4.9 million earned by There Will Be Blood during its run back in January 2008",
+          "• The new film will need exceptional legs to justify its higher production budget ($140 million vs",
+          "• $25 million for There Will be Blood), and marketing costs",
+          "• Gabby’s Dollhouse: The Movie will likewise need great word-of-mouth to become a hit "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2634fa7adbf2"
     }
   ],
   "clusters": [
@@ -9322,24 +9623,6 @@
       ]
     },
     {
-      "id": "e38c5137935f",
-      "topic": "international many rely rural",
-      "keywords": [
-        "international",
-        "many",
-        "rely",
-        "rural",
-        "school",
-        "teacher"
-      ],
-      "item_ids": [
-        "efce24ac2ea8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "d8fed154d795",
       "topic": "dna modifying scientist specie",
       "keywords": [
@@ -9352,24 +9635,6 @@
       ],
       "item_ids": [
         "0bf0b8db4921"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "2633b4f88214",
-      "topic": "delaware elon much musk",
-      "keywords": [
-        "delaware",
-        "elon",
-        "much",
-        "musk",
-        "pay",
-        "tesla"
-      ],
-      "item_ids": [
-        "fee3fcb90d22"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9394,6 +9659,24 @@
       ]
     },
     {
+      "id": "2633b4f88214",
+      "topic": "delaware elon much musk",
+      "keywords": [
+        "delaware",
+        "elon",
+        "much",
+        "musk",
+        "pay",
+        "tesla"
+      ],
+      "item_ids": [
+        "fee3fcb90d22"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "0bd0d4d374cd",
       "topic": "case court hear major",
       "keywords": [
@@ -9406,6 +9689,24 @@
       ],
       "item_ids": [
         "000c1f48af0a"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e38c5137935f",
+      "topic": "international many rely rural",
+      "keywords": [
+        "international",
+        "many",
+        "rely",
+        "rural",
+        "school",
+        "teacher"
+      ],
+      "item_ids": [
+        "efce24ac2ea8"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9538,18 +9839,18 @@
       ]
     },
     {
-      "id": "19dcb5fedcc1",
-      "topic": "between disparity high income",
+      "id": "8828d6079ee3",
+      "topic": "bipartisan firing prioritie shutdown",
       "keywords": [
-        "between",
-        "disparity",
-        "high",
-        "income",
-        "shocking",
-        "there"
+        "bipartisan",
+        "firing",
+        "prioritie",
+        "shutdown",
+        "touch",
+        "trump"
       ],
       "item_ids": [
-        "d718e2090628"
+        "f85a968c6114"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9574,42 +9875,6 @@
       ]
     },
     {
-      "id": "8828d6079ee3",
-      "topic": "bipartisan firing prioritie shutdown",
-      "keywords": [
-        "bipartisan",
-        "firing",
-        "prioritie",
-        "shutdown",
-        "touch",
-        "trump"
-      ],
-      "item_ids": [
-        "f85a968c6114"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "dce152786a3e",
-      "topic": "launch london marking plan",
-      "keywords": [
-        "launch",
-        "london",
-        "marking",
-        "plan",
-        "robotaxi",
-        "waymo"
-      ],
-      "item_ids": [
-        "d01659bc10cb"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "b418a79c88bd",
       "topic": "2026 capital make much",
       "keywords": [
@@ -9622,6 +9887,42 @@
       ],
       "item_ids": [
         "8c283abb47cf"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "19dcb5fedcc1",
+      "topic": "between disparity high income",
+      "keywords": [
+        "between",
+        "disparity",
+        "high",
+        "income",
+        "shocking",
+        "there"
+      ],
+      "item_ids": [
+        "d718e2090628"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ddfe0c29fbdd",
+      "topic": "first growth lvmh pops",
+      "keywords": [
+        "first",
+        "growth",
+        "lvmh",
+        "pops",
+        "posting",
+        "time"
+      ],
+      "item_ids": [
+        "baaaafdfe32e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11216,6 +11517,42 @@
       ]
     },
     {
+      "id": "7d4e7d428cef",
+      "topic": "2026 box busines number",
+      "keywords": [
+        "2026",
+        "box",
+        "busines",
+        "number",
+        "office",
+        "report"
+      ],
+      "item_ids": [
+        "aed784fb3371"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "2634fa7adbf2",
+      "topic": "another battle dollhouse gabby",
+      "keywords": [
+        "another",
+        "battle",
+        "dollhouse",
+        "gabby",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "0e12ee20974d"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
       "id": "f24cbb0c5bf2",
       "topic": "bela biopic lugosi penned",
       "keywords": [
@@ -12071,6 +12408,126 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "c332abd93e9a",
+      "topic": "fleet rebel trooper tvc15",
+      "keywords": [
+        "fleet",
+        "rebel",
+        "trooper",
+        "tvc15",
+        "vc52"
+      ],
+      "item_ids": [
+        "312fd14fe195"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7f95c3bda4d6",
+      "topic": "anakin skywalker tvc15 vc92",
+      "keywords": [
+        "anakin",
+        "skywalker",
+        "tvc15",
+        "vc92"
+      ],
+      "item_ids": [
+        "9752eb18482c"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "105b7313c18a",
+      "topic": "darth hot revenge sith",
+      "keywords": [
+        "darth",
+        "hot",
+        "revenge",
+        "sith",
+        "toys",
+        "vader"
+      ],
+      "item_ids": [
+        "2bc4537ce27a"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "670bdb799984",
+      "topic": "battle droid tvc15 vc78",
+      "keywords": [
+        "battle",
+        "droid",
+        "tvc15",
+        "vc78"
+      ],
+      "item_ids": [
+        "c6073b3eb690"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "d76d5179ea19",
+      "topic": "base echo han outfit",
+      "keywords": [
+        "base",
+        "echo",
+        "han",
+        "outfit",
+        "solo",
+        "tvc15"
+      ],
+      "item_ids": [
+        "45cb088663ff"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "3bcabf443022",
+      "topic": "guard kithaba skiff tvc15",
+      "keywords": [
+        "guard",
+        "kithaba",
+        "skiff",
+        "tvc15",
+        "vc56"
+      ],
+      "item_ids": [
+        "7ad2f7e820ca"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "fe5e873152df",
+      "topic": "222 ben otoga quadinaro",
+      "keywords": [
+        "222",
+        "ben",
+        "otoga",
+        "quadinaro",
+        "tvc15",
+        "vc81"
+      ],
+      "item_ids": [
+        "9789e9f7cb4c"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
@@ -13271,6 +13728,24 @@
       ]
     },
     {
+      "id": "71e0968253d7",
+      "topic": "all cutting feds money",
+      "keywords": [
+        "all",
+        "cutting",
+        "feds",
+        "money",
+        "off",
+        "public"
+      ],
+      "item_ids": [
+        "d9d228b685d0"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "8ac9a3eeff18",
       "topic": "applying begin february school",
       "keywords": [
@@ -13425,24 +13900,6 @@
       ],
       "item_ids": [
         "623bde7d9f80"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "6c34c4e046e8",
-      "topic": "coming kindergartener measle school",
-      "keywords": [
-        "coming",
-        "kindergartener",
-        "measle",
-        "school",
-        "texa",
-        "without"
-      ],
-      "item_ids": [
-        "8d05f9a18370"
       ],
       "outlets": [
         "The Texas Tribune"
