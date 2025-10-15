@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T21:54:18Z",
+  "generated_at": "2025-10-15T22:11:59Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -34,6 +34,41 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "26228af7da3c",
+      "title": "Trump says he might attend Supreme Court tariff case arguments",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/trump-supreme-court-tariffs-trade.html",
+      "published_at": "Wed, 15 Oct 2025 21:43:09 GMT",
+      "bullets": [
+        "• Trump would apparently be the first sitting U.S",
+        "• president to attend oral arguments at the Supreme Court",
+        "• The case centers on whether the law that Trump used to impose his biggest country-specific tariff policies actually authorizes those trade actions",
+        "• The White House did not immediately respond to CNBC's request for additional comment "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump would apparently be the first sitting U.S",
+          "• president to attend oral arguments at the Supreme Court"
+        ],
+        "hopeful_bullets": [
+          "• Trump would apparently be the first sitting U.S",
+          "• president to attend oral arguments at the Supreme Court"
+        ],
+        "stakes_bullets": [
+          "• Trump would apparently be the first sitting U.S",
+          "• president to attend oral arguments at the Supreme Court",
+          "• The case centers on whether the law that Trump used to impose his biggest country-specific tariff policies actually authorizes those trade actions"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1bfdf6bca7c9"
     },
     {
       "id": "7d809df92677",
@@ -104,6 +139,73 @@
       "cluster_id": "c6db5f49b64b"
     },
     {
+      "id": "7084455c3bb5",
+      "title": "Trump confirms he authorised CIA action inside Venezuela",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 21:30:22 GMT",
+      "bullets": [
+        "• Trump confirms he authorised the CIA to conduct covert operations inside Venezuela",
+        "• The president said he was considering strikes targeting drug cartels",
+        "• US forces have already conducted at least five strikes on suspected drug-carrying boats in the Caribbean in recent weeks",
+        "• UN-appointed human rights experts have described the raids as \"extrajudicial executions\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump confirms he authorised the CIA to conduct covert operations inside Venezuela",
+          "• The president said he was considering strikes targeting drug cartels"
+        ],
+        "hopeful_bullets": [
+          "• Trump confirms he authorised the CIA to conduct covert operations inside Venezuela",
+          "• The president said he was considering strikes targeting drug cartels"
+        ],
+        "stakes_bullets": [
+          "• UN-appointed human rights experts have described the raids as \"extrajudicial executions\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4d7c7e058f73"
+    },
+    {
+      "id": "4b2c7a5aa67e",
+      "title": "Trump says US looking at land attacks in Venezuela after lethal strikes on boats – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/15/donald-trump-federal-government-shutdown-redistricting-voting-rights-act-kash-patel-us-politics-live-news-updates",
+      "published_at": "Wed, 15 Oct 2025 21:26:49 GMT",
+      "bullets": [
+        "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
+        "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US",
+        "• “Every boat that we knock out, we save 25,000 lives,” Trump said "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
+          "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US"
+        ],
+        "hopeful_bullets": [
+          "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
+          "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US"
+        ],
+        "stakes_bullets": [
+          "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
+          "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US",
+          "• “Every boat that we knock out, we save 25,000 lives,” Trump said "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "6771b3277e07"
+    },
+    {
       "id": "86b45423eadc",
       "title": "Sam Altman says OpenAI isn't 'moral police of the world' after erotica ChatGPT post blows up",
       "outlet": "US Top News and Analysis",
@@ -137,18 +239,18 @@
     },
     {
       "id": "31e2b8726fbf",
-      "title": "Judge dismisses suit by young climate activists against Trump’s pro-fossil fuel executive orders",
-      "outlet": "Environment | The Guardian",
+      "title": "Judge dismisses suit by young climate activists against Trump’s pro-fossil fuel policies",
+      "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/law/2025/oct/15/youth-climate-activist-lawsuit-dismissed-trump-executive-orders",
       "published_at": "Wed, 15 Oct 2025 21:22:30 GMT",
       "bullets": [
         "• 22 plaintiffs, ages seven to 25 and from five states, sought to block three of the president’s executive orders",
         "• Among the plaintiffs were several young individuals who had previously been part of the landmark 2023 Held v Montana case – the first constitutional climate trial in the United States – in which a judge ruled in favor of the youth plaintiffs "
       ],
-      "category": "Environment",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.956
+        "score": 0.954
       },
       "moods": {
         "brief_bullets": [
@@ -201,6 +303,72 @@
       "cluster_id": "8867d547dd79"
     },
     {
+      "id": "8fa74003d332",
+      "title": "Voting Rights Act on the line: key takeaways from supreme court hearing",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/15/voting-rights-act-supreme-court-case",
+      "published_at": "Wed, 15 Oct 2025 21:20:33 GMT",
+      "bullets": [
+        "• A majority of justices appeared poised to weaken section 2",
+        "• The conservative justices, who make up most of the bench, appear sympathetic to the case",
+        "• Justice Brett Kavanaugh pressed Janai Nelson, a lawyer with the NAACP Legal Defense and Education Fund, as to why section 2 was still needed",
+        "• Chief Justice John Roberts, a conservative but swing vote on the court, pressed Nelson on what the proper role of race in redistricting was "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.902
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A majority of justices appeared poised to weaken section 2",
+          "• The conservative justices, who make up most of the bench, appear sympathetic to the case"
+        ],
+        "hopeful_bullets": [
+          "• Chief Justice John Roberts, a conservative but swing vote on the court, pressed Nelson on what the proper role of race in redistricting was "
+        ],
+        "stakes_bullets": [
+          "• A majority of justices appeared poised to weaken section 2",
+          "• The conservative justices, who make up most of the bench, appear sympathetic to the case",
+          "• Justice Brett Kavanaugh pressed Janai Nelson, a lawyer with the NAACP Legal Defense and Education Fund, as to why section 2 was still needed"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "d3925f7a0add"
+    },
+    {
+      "id": "fc167c41d49a",
+      "title": "US Capitol police investigating flag with swastika in Republican representative’s office – report",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/15/capitol-us-flag-swastika-republican-dave-taylor",
+      "published_at": "Wed, 15 Oct 2025 21:16:51 GMT",
+      "bullets": [
+        "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
+        "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
+          "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
+        ],
+        "hopeful_bullets": [
+          "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
+          "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
+        ],
+        "stakes_bullets": [
+          "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
+          "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3e6b3d5ae313"
+    },
+    {
       "id": "4182ef609558",
       "title": "10 Anime Crashouts We Can’t Help But Relate To",
       "outlet": "CBR",
@@ -235,104 +403,35 @@
       "cluster_id": "d4aa8272bd4d"
     },
     {
-      "id": "4b2c7a5aa67e",
-      "title": "Trump says US looking at land attacks in Venezuela after lethal strikes on boats – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/15/donald-trump-federal-government-shutdown-redistricting-voting-rights-act-kash-patel-us-politics-live-news-updates",
-      "published_at": "Wed, 15 Oct 2025 21:14:35 GMT",
-      "bullets": [
-        "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
-        "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US",
-        "• “Every boat that we knock out, we save 25,000 lives,” Trump said "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
-          "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US"
-        ],
-        "hopeful_bullets": [
-          "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
-          "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US"
-        ],
-        "stakes_bullets": [
-          "• Trump says US is 'looking at land' strikes in Venezuela after lethal strikes on boats",
-          "• The president also claimed, without citing evidence, that every strike on a suspected drug smuggling speedboat saves thousands of lives in the US",
-          "• “Every boat that we knock out, we save 25,000 lives,” Trump said "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "6771b3277e07"
-    },
-    {
       "id": "32cb7771a9d3",
       "title": "‘He may be watching’: Mamdani on Fox News speaks directly to Trump",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/15/zohran-mamdani-fox-news-trump",
       "published_at": "Wed, 15 Oct 2025 21:12:45 GMT",
       "bullets": [
-        "• Zohran Mamdani, the leading candidate to be the next mayor of New York, sat for an interview with Fox News on Wednesday",
-        "• The rightwing news organization has spent weeks demonizing him and his democratic socialist goals",
-        "• He was asked about funding for his proposals, which include freezing increases on rent-stabilized apartments, providing free buses, and offering free childcare "
+        "• Zohran Mamdani is the leading candidate to be the next mayor of New York",
+        "• He has been demonized by right-wing media outlets for his democratic socialist goals",
+        "• He said he has spoken about raising taxes on the wealthiest "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.957
+        "label": "neutral",
+        "score": 0.611
       },
       "moods": {
         "brief_bullets": [
-          "• Zohran Mamdani, the leading candidate to be the next mayor of New York, sat for an interview with Fox News on Wednesday",
-          "• The rightwing news organization has spent weeks demonizing him and his democratic socialist goals"
+          "• Zohran Mamdani is the leading candidate to be the next mayor of New York",
+          "• He has been demonized by right-wing media outlets for his democratic socialist goals"
         ],
         "hopeful_bullets": [
-          "• The rightwing news organization has spent weeks demonizing him and his democratic socialist goals"
+          "• He has been demonized by right-wing media outlets for his democratic socialist goals"
         ],
         "stakes_bullets": [
-          "• Zohran Mamdani, the leading candidate to be the next mayor of New York, sat for an interview with Fox News on Wednesday",
-          "• He was asked about funding for his proposals, which include freezing increases on rent-stabilized apartments, providing free buses, and offering free childcare "
+          "• Zohran Mamdani is the leading candidate to be the next mayor of New York"
         ]
       },
       "read_minutes": 3,
       "cluster_id": "6e06cc2db379"
-    },
-    {
-      "id": "26228af7da3c",
-      "title": "Trump says he might attend Supreme Court tariff case arguments",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/trump-supreme-court-tariffs-trade.html",
-      "published_at": "Wed, 15 Oct 2025 21:10:53 GMT",
-      "bullets": [
-        "• President Donald Trump says he may go to the Supreme Court to hear arguments in the major tariffs case",
-        "• The case centers on whether the law that Trump used to impose his biggest country-specific tariff policies actually authorizes those trade actions",
-        "• The White House did not immediately respond to CNBC's request for additional comment on Trump's remarks "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump says he may go to the Supreme Court to hear arguments in the major tariffs case",
-          "• The case centers on whether the law that Trump used to impose his biggest country-specific tariff policies actually authorizes those trade actions"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says he may go to the Supreme Court to hear arguments in the major tariffs case",
-          "• The case centers on whether the law that Trump used to impose his biggest country-specific tariff policies actually authorizes those trade actions"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says he may go to the Supreme Court to hear arguments in the major tariffs case",
-          "• The case centers on whether the law that Trump used to impose his biggest country-specific tariff policies actually authorizes those trade actions",
-          "• The White House did not immediately respond to CNBC's request for additional comment on Trump's remarks "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1bfdf6bca7c9"
     },
     {
       "id": "b6951a11f3b9",
@@ -1880,39 +1979,6 @@
       "cluster_id": "5a9dff59d1db"
     },
     {
-      "id": "dd823c0eebf0",
-      "title": "Judge temporarily blocks firings by Trump administration during shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/15/federal-worker-firings-blocked-judge-government-shutdown",
-      "published_at": "Wed, 15 Oct 2025 18:43:39 GMT",
-      "bullets": [
-        "• A federal court has granted a temporary injunction blocking the firings of federal employees during the government shutdown",
-        "• The ruling comes as Russ Vought, the White House OMB director, said more cuts were coming",
-        "• On Friday, the administration announced “reductions in force” across seven federal agencies, with at least 4,100 workers affected "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A federal court has granted a temporary injunction blocking the firings of federal employees during the government shutdown",
-          "• The ruling comes as Russ Vought, the White House OMB director, said more cuts were coming"
-        ],
-        "hopeful_bullets": [
-          "• A federal court has granted a temporary injunction blocking the firings of federal employees during the government shutdown",
-          "• The ruling comes as Russ Vought, the White House OMB director, said more cuts were coming"
-        ],
-        "stakes_bullets": [
-          "• The ruling comes as Russ Vought, the White House OMB director, said more cuts were coming",
-          "• On Friday, the administration announced “reductions in force” across seven federal agencies, with at least 4,100 workers affected "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7832f0f3ef73"
-    },
-    {
       "id": "b24a232c7b0c",
       "title": "‘Keeper’ Official Trailer Teases Strange, Uncanny Creatures",
       "outlet": "Dread Central",
@@ -2076,40 +2142,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "6a382a6e9f7b"
-    },
-    {
-      "id": "9d17a35fcbc2",
-      "title": "‘Prince Andrew believed having sex with me was his birthright’: Virginia Giuffre on her abuse at the hands of Epstein, Maxwell and the king’s brother",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/15/prince-andrew-virginia-giuffre-abuse-epstein-maxwell",
-      "published_at": "Wed, 15 Oct 2025 18:31:08 GMT",
-      "bullets": [
-        "• My dad was responsible for maintaining the resort’s in-room air-conditioning units",
-        "• After a few days, my dad said he wanted to introduce me to Mr Trump himself",
-        "• Soon I was making extra money a few nights a week minding the children of the elite "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.8
-      },
-      "moods": {
-        "brief_bullets": [
-          "• My dad was responsible for maintaining the resort’s in-room air-conditioning units",
-          "• After a few days, my dad said he wanted to introduce me to Mr Trump himself"
-        ],
-        "hopeful_bullets": [
-          "• My dad was responsible for maintaining the resort’s in-room air-conditioning units",
-          "• After a few days, my dad said he wanted to introduce me to Mr Trump himself"
-        ],
-        "stakes_bullets": [
-          "• My dad was responsible for maintaining the resort’s in-room air-conditioning units",
-          "• After a few days, my dad said he wanted to introduce me to Mr Trump himself",
-          "• Soon I was making extra money a few nights a week minding the children of the elite "
-        ]
-      },
-      "read_minutes": 20,
-      "cluster_id": "7bdab79dd050"
     },
     {
       "id": "949672afd479",
@@ -2376,13 +2408,14 @@
     },
     {
       "id": "33d32a893b7f",
-      "title": "'Worse than starting from scratch': how big is the task of rebuilding Gaza?",
+      "title": "'Worse than starting from scratch': How big is the task of rebuilding Gaza?",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cr5e4ee9r13o?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 15 Oct 2025 17:27:28 GMT",
       "bullets": [
-        "• 'Worse than starting from scratch': how big is the task of rebuilding Gaza? The UN estimates that the damage amounts to $70bn",
-        "• The level of destruction on the strip is \"now in the region of 84%\", says Jaco Cilliers, UN Development Programme "
+        "• The UN estimates that the damage to Gaza Strip amounts to $70bn",
+        "• The level of destruction on the strip is \"now in the region of 84%",
+        "• In certain parts of Gaza City, it's even up to 92%\", says Jaco Cilliers, UN Development Programme special representative for Palestinians "
       ],
       "category": "World",
       "sentiment": {
@@ -2391,52 +2424,21 @@
       },
       "moods": {
         "brief_bullets": [
-          "• 'Worse than starting from scratch': how big is the task of rebuilding Gaza? The UN estimates that the damage amounts to $70bn",
-          "• The level of destruction on the strip is \"now in the region of 84%\", says Jaco Cilliers, UN Development Programme "
+          "• The UN estimates that the damage to Gaza Strip amounts to $70bn",
+          "• The level of destruction on the strip is \"now in the region of 84%"
         ],
         "hopeful_bullets": [
-          "• 'Worse than starting from scratch': how big is the task of rebuilding Gaza? The UN estimates that the damage amounts to $70bn",
-          "• The level of destruction on the strip is \"now in the region of 84%\", says Jaco Cilliers, UN Development Programme "
+          "• The UN estimates that the damage to Gaza Strip amounts to $70bn",
+          "• The level of destruction on the strip is \"now in the region of 84%"
         ],
         "stakes_bullets": [
-          "• 'Worse than starting from scratch': how big is the task of rebuilding Gaza? The UN estimates that the damage amounts to $70bn",
-          "• The level of destruction on the strip is \"now in the region of 84%\", says Jaco Cilliers, UN Development Programme "
+          "• The UN estimates that the damage to Gaza Strip amounts to $70bn",
+          "• The level of destruction on the strip is \"now in the region of 84%",
+          "• In certain parts of Gaza City, it's even up to 92%\", says Jaco Cilliers, UN Development Programme special representative for Palestinians "
         ]
       },
       "read_minutes": 7,
       "cluster_id": "c9e77552c830"
-    },
-    {
-      "id": "8ac713614a81",
-      "title": "Outcry after US strips visas from six foreigners over Charlie Kirk remarks",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/15/us-visas-charlie-kirk-reaction",
-      "published_at": "Wed, 15 Oct 2025 17:03:59 GMT",
-      "bullets": [
-        "• At least six foreign nationals have been stripped of visas over social media posts about Charlie Kirk's killing",
-        "• The state department announced it was systematically identifying visa holders who “celebrated the heinous assassination of Charlie Kirk” State Department: ‘The United States has no obligation to host foreigners who wish death on Americans’"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least six foreign nationals have been stripped of visas over social media posts about Charlie Kirk's killing",
-          "• The state department announced it was systematically identifying visa holders who “celebrated the heinous assassination of Charlie Kirk” State Department: ‘The United States has no obligation to host foreigners who wish death on Americans’"
-        ],
-        "hopeful_bullets": [
-          "• At least six foreign nationals have been stripped of visas over social media posts about Charlie Kirk's killing",
-          "• The state department announced it was systematically identifying visa holders who “celebrated the heinous assassination of Charlie Kirk” State Department: ‘The United States has no obligation to host foreigners who wish death on Americans’"
-        ],
-        "stakes_bullets": [
-          "• At least six foreign nationals have been stripped of visas over social media posts about Charlie Kirk's killing",
-          "• The state department announced it was systematically identifying visa holders who “celebrated the heinous assassination of Charlie Kirk” State Department: ‘The United States has no obligation to host foreigners who wish death on Americans’"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0319a3f762ba"
     },
     {
       "id": "0e148d44d4b7",
@@ -3455,7 +3457,7 @@
     },
     {
       "id": "1c6734f6e3c3",
-      "title": "Winner of the Australian bird of the year 2025 to be announced on Guardian live stream",
+      "title": "Winner of the Australian bird of the year 2025 to be announced on Guardian live stream today",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/environment/2025/oct/16/winner-guardian-australia-bird-of-the-year-2025-announced-live-stream",
       "published_at": "Wed, 15 Oct 2025 14:00:38 GMT",
@@ -3468,7 +3470,7 @@
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
@@ -3803,38 +3805,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "4ea2fc7a08ec"
-    },
-    {
-      "id": "e9e8a7ed0981",
-      "title": "ChatGPT will soon allow erotica for verified adults, says OpenAI boss",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd2qv58yl5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 11:22:42 GMT",
-      "bullets": [
-        "• ChatGPT will soon allow erotica for verified adults, says OpenAI boss Sam Altman",
-        "• The move is part of a push to \"treat adult users like adults\", he says",
-        "• Mr Altman said the move could help OpenAI attract more paying subscribers "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ChatGPT will soon allow erotica for verified adults, says OpenAI boss Sam Altman",
-          "• The move is part of a push to \"treat adult users like adults\", he says"
-        ],
-        "hopeful_bullets": [
-          "• Mr Altman said the move could help OpenAI attract more paying subscribers "
-        ],
-        "stakes_bullets": [
-          "• ChatGPT will soon allow erotica for verified adults, says OpenAI boss Sam Altman",
-          "• Mr Altman said the move could help OpenAI attract more paying subscribers "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b5125ccddc4f"
     },
     {
       "id": "4ffc11de38db",
@@ -4324,7 +4294,7 @@
           "• Banu Symington is among many doctors who say political attacks on science and medicine are affecting their relationships with patients"
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "fcc3944df856"
     },
     {
@@ -4469,25 +4439,27 @@
       "published_at": "Wed, 15 Oct 2025 05:01:00 -0400",
       "bullets": [
         "• Judge pauses shutdown layoffs at more than 30 federal agencies",
-        "• Judge: Layoffs are \"both illegal and in excess of authority\" and \"arbitrary and capricious\" Unions accuse the Trump administration of \"using federal employees as pawns to impose political pressure\""
+        "• The lawsuit was brought by the American Federation of Government Employees (AFGE) and AFSCME, which together represent more than 800,000 federal workers",
+        "• The unions accuse the Trump administration of \"using federal employees as pawns\""
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
           "• Judge pauses shutdown layoffs at more than 30 federal agencies",
-          "• Judge: Layoffs are \"both illegal and in excess of authority\" and \"arbitrary and capricious\" Unions accuse the Trump administration of \"using federal employees as pawns to impose political pressure\""
+          "• The lawsuit was brought by the American Federation of Government Employees (AFGE) and AFSCME, which together represent more than 800,000 federal workers"
         ],
         "hopeful_bullets": [
           "• Judge pauses shutdown layoffs at more than 30 federal agencies",
-          "• Judge: Layoffs are \"both illegal and in excess of authority\" and \"arbitrary and capricious\" Unions accuse the Trump administration of \"using federal employees as pawns to impose political pressure\""
+          "• The lawsuit was brought by the American Federation of Government Employees (AFGE) and AFSCME, which together represent more than 800,000 federal workers"
         ],
         "stakes_bullets": [
           "• Judge pauses shutdown layoffs at more than 30 federal agencies",
-          "• Judge: Layoffs are \"both illegal and in excess of authority\" and \"arbitrary and capricious\" Unions accuse the Trump administration of \"using federal employees as pawns to impose political pressure\""
+          "• The lawsuit was brought by the American Federation of Government Employees (AFGE) and AFSCME, which together represent more than 800,000 federal workers",
+          "• The unions accuse the Trump administration of \"using federal employees as pawns\""
         ]
       },
       "read_minutes": 7,
@@ -4949,38 +4921,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "5498413bc8a0"
-    },
-    {
-      "id": "becca1c2ee52",
-      "title": "Found Footage Horror ‘Project Butterfly: Flatwoods’ Coming Halloween Night 2025!",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/found-footage-horror-project-butterfly-flatwoods-coming-halloween-night-2025/",
-      "published_at": "Wed, 01 Oct 2025 15:00:00 +0000",
-      "bullets": [
-        "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
-        "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation",
-        "• The further the students dig, the more they uncover the terrifying truths of this bunker "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
-          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
-        ],
-        "hopeful_bullets": [
-          "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
-          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
-        ],
-        "stakes_bullets": [
-          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "28b2f4a1bab7"
     },
     {
       "id": "261e3da66dc2",
@@ -6846,40 +6786,6 @@
       "cluster_id": "e0a902ec23a4"
     },
     {
-      "id": "443cab740aae",
-      "title": "Coming to Wicked Horror TV in October",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/coming-to-wicked-horror-tv-in-october/",
-      "published_at": "Sun, 28 Sep 2025 04:18:00 +0000",
-      "bullets": [
-        "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-        "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve",
-        "• You’ll get the best of classic horror, recent indy masterpieces, trashing cult flicks and even more "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve"
-        ],
-        "hopeful_bullets": [
-          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve"
-        ],
-        "stakes_bullets": [
-          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve",
-          "• You’ll get the best of classic horror, recent indy masterpieces, trashing cult flicks and even more "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "d9be7f29a118"
-    },
-    {
       "id": "b72963244510",
       "title": "Agatha All Along: Unpacking the Pop Culture References",
       "outlet": "Comic Quarters",
@@ -7146,37 +7052,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
-    },
-    {
-      "id": "0cc6776d4605",
-      "title": "Smithsonian museums and National Zoo set to close as shutdown takes its toll",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/10/11/g-s1-93157/smithsonian-national-zoo-federal-shutdown",
-      "published_at": "Sat, 11 Oct 2025 13:35:53 -0400",
-      "bullets": [
-        "• Smithsonian museums and National Zoo set to close as shutdown takes its toll",
-        "• Smithsonian: \"A shutdown will not affect our commitment to the safety of our staff and standard of excellence in animal care\" Zoo's beloved animal cams, however, are considered nonessential and will be turned off for the remainder of shutdown "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Smithsonian museums and National Zoo set to close as shutdown takes its toll",
-          "• Smithsonian: \"A shutdown will not affect our commitment to the safety of our staff and standard of excellence in animal care\" Zoo's beloved animal cams, however, are considered nonessential and will be turned off for the remainder of shutdown "
-        ],
-        "hopeful_bullets": [
-          "• Smithsonian museums and National Zoo set to close as shutdown takes its toll",
-          "• Smithsonian: \"A shutdown will not affect our commitment to the safety of our staff and standard of excellence in animal care\" Zoo's beloved animal cams, however, are considered nonessential and will be turned off for the remainder of shutdown "
-        ],
-        "stakes_bullets": [
-          "• Smithsonian: \"A shutdown will not affect our commitment to the safety of our staff and standard of excellence in animal care\" Zoo's beloved animal cams, however, are considered nonessential and will be turned off for the remainder of shutdown "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "74759b60e519"
     },
     {
       "id": "28d65d9f6170",
@@ -7937,40 +7812,6 @@
       "cluster_id": "d65d9331f02a"
     },
     {
-      "id": "7ce1c96754d9",
-      "title": "Artist Rachele Aragno talks Yuletide horror",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/artist-rachele-aragno-talks-yuletide-horror/",
-      "published_at": "Fri, 19 Sep 2025 07:21:00 +0000",
-      "bullets": [
-        "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
-        "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide",
-        "• The series focuses ancient creatures unleashed in the small town of Christmas, Pennsylvania "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
-          "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide"
-        ],
-        "hopeful_bullets": [
-          "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
-          "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide"
-        ],
-        "stakes_bullets": [
-          "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
-          "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide",
-          "• The series focuses ancient creatures unleashed in the small town of Christmas, Pennsylvania "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f12739ccd738"
-    },
-    {
       "id": "cd39cebe7492",
       "title": "Kraven the Hunter: Action Thrills, Story Spills",
       "outlet": "Comic Quarters",
@@ -8400,6 +8241,74 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "bd4e33a5bd54",
+      "title": "Google’s AI video generator is getting better editing and more audio",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/800371/google-veo-3-1-flow-audio",
+      "published_at": "2025-10-15T17:46:38-04:00",
+      "bullets": [
+        "• Google's AI-generated video tool Flow is getting better editing features",
+        "• Users will be able to fix lighting and add shadows to the video",
+        "• Users can also add audio to the videos created with the tool",
+        "• The feature is part of the new version of the tool, called Veo 3.1 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google's AI-generated video tool Flow is getting better editing features",
+          "• Users will be able to fix lighting and add shadows to the video"
+        ],
+        "hopeful_bullets": [
+          "• Google's AI-generated video tool Flow is getting better editing features",
+          "• Users will be able to fix lighting and add shadows to the video"
+        ],
+        "stakes_bullets": [
+          "• Users will be able to fix lighting and add shadows to the video"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "63d084449b83"
+    },
+    {
+      "id": "4d8f1fadb9ef",
+      "title": "The best iPad deals you can get right now",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "published_at": "2025-10-15T17:39:29-04:00",
+      "bullets": [
+        "• The best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day",
+        "• Many great iPad deals are available outside of those times",
+        "• The base iPad and iPad Air offer the best discounts, but you can also save on the iPad Mini and last-gen iPad Pro",
+        "• If you don’t need the latest tech, however, now may be a good time to save on M4 Pro "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day",
+          "• Many great iPad deals are available outside of those times"
+        ],
+        "hopeful_bullets": [
+          "• The best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day",
+          "• Many great iPad deals are available outside of those times"
+        ],
+        "stakes_bullets": [
+          "• The best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day",
+          "• Many great iPad deals are available outside of those times",
+          "• The base iPad and iPad Air offer the best discounts, but you can also save on the iPad Mini and last-gen iPad Pro"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "83fccb0e9cf1"
+    },
+    {
       "id": "d69421055c30",
       "title": "The MLB app’s best feature is a 30-second delay",
       "outlet": "The Verge",
@@ -8657,73 +8566,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "764bb2993f76"
-    },
-    {
-      "id": "d9aa1a73fd5d",
-      "title": "Logitech made an Apple Pencil-like stylus for the Vision Pro",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability",
-      "published_at": "2025-10-15T12:50:45-04:00",
-      "bullets": [
-        "• Logitech is launching a digital stylus for Apple Vision Pro that makes it easier to write, draw, and manipulate 3D designs",
-        "• The $130 Logitech Muse is essentially a pen-shaped Vision Pro controller that can be used like a paintbrush or pencil",
-        "• It's available to preorder for $129.95, with shipments starting from October 22nd "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Logitech is launching a digital stylus for Apple Vision Pro that makes it easier to write, draw, and manipulate 3D designs",
-          "• The $130 Logitech Muse is essentially a pen-shaped Vision Pro controller that can be used like a paintbrush or pencil"
-        ],
-        "hopeful_bullets": [
-          "• Logitech is launching a digital stylus for Apple Vision Pro that makes it easier to write, draw, and manipulate 3D designs",
-          "• The $130 Logitech Muse is essentially a pen-shaped Vision Pro controller that can be used like a paintbrush or pencil"
-        ],
-        "stakes_bullets": [
-          "• Logitech is launching a digital stylus for Apple Vision Pro that makes it easier to write, draw, and manipulate 3D designs",
-          "• The $130 Logitech Muse is essentially a pen-shaped Vision Pro controller that can be used like a paintbrush or pencil",
-          "• It's available to preorder for $129.95, with shipments starting from October 22nd "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8cbea271be9e"
-    },
-    {
-      "id": "e18006f0447c",
-      "title": "Mint Mobile&#8217;s prepaid home internet plan is really cheap under very specific circumstances",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/800055/mint-mobiles-prepaid-home-internet-plan-is-really-cheap-under-very-specific-circumstances",
-      "published_at": "2025-10-15T12:27:55-04:00",
-      "bullets": [
-        "• Mint Mobile’s prepaid 5G home internet plan is really cheap under very specific circumstances",
-        "• To get that price, you will need to also have a Mint phone plan and pay for at least three months up front",
-        "• 5G Home Minternet delivers the same speeds and unlimited data as T-Mobile's 5G "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mint Mobile’s prepaid 5G home internet plan is really cheap under very specific circumstances",
-          "• To get that price, you will need to also have a Mint phone plan and pay for at least three months up front"
-        ],
-        "hopeful_bullets": [
-          "• Mint Mobile’s prepaid 5G home internet plan is really cheap under very specific circumstances",
-          "• To get that price, you will need to also have a Mint phone plan and pay for at least three months up front"
-        ],
-        "stakes_bullets": [
-          "• Mint Mobile’s prepaid 5G home internet plan is really cheap under very specific circumstances",
-          "• To get that price, you will need to also have a Mint phone plan and pay for at least three months up front"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c63902b1794d"
     },
     {
       "id": "c41ff758b36a",
@@ -9191,6 +9033,24 @@
       ]
     },
     {
+      "id": "4d7c7e058f73",
+      "topic": "action authorised cia confirm",
+      "keywords": [
+        "action",
+        "authorised",
+        "cia",
+        "confirm",
+        "inside",
+        "trump"
+      ],
+      "item_ids": [
+        "7084455c3bb5"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "ab834725c164",
       "topic": "democracy dies father kenya",
       "keywords": [
@@ -9203,24 +9063,6 @@
       ],
       "item_ids": [
         "eff05d709ffe"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "eefc1869ca42",
-      "topic": "000 china maps mislabelled",
-      "keywords": [
-        "000",
-        "china",
-        "maps",
-        "mislabelled",
-        "seize",
-        "taiwan"
-      ],
-      "item_ids": [
-        "6bf44b8c08e5"
       ],
       "outlets": [
         "BBC News"
@@ -9263,6 +9105,24 @@
       ]
     },
     {
+      "id": "eefc1869ca42",
+      "topic": "000 china maps mislabelled",
+      "keywords": [
+        "000",
+        "china",
+        "maps",
+        "mislabelled",
+        "seize",
+        "taiwan"
+      ],
+      "item_ids": [
+        "6bf44b8c08e5"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "608e217a5b3e",
       "topic": "angelo forever pay star",
       "keywords": [
@@ -9275,24 +9135,6 @@
       ],
       "item_ids": [
         "2778ba29d931"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "b5125ccddc4f",
-      "topic": "adult allow chatgpt erotica",
-      "keywords": [
-        "adult",
-        "allow",
-        "chatgpt",
-        "erotica",
-        "soon",
-        "verified"
-      ],
-      "item_ids": [
-        "e9e8a7ed0981"
       ],
       "outlets": [
         "BBC News"
@@ -9497,6 +9339,42 @@
       ]
     },
     {
+      "id": "d3925f7a0add",
+      "topic": "act key line right",
+      "keywords": [
+        "act",
+        "key",
+        "line",
+        "right",
+        "takeaway",
+        "voting"
+      ],
+      "item_ids": [
+        "8fa74003d332"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "3e6b3d5ae313",
+      "topic": "capitol flag investigating police",
+      "keywords": [
+        "capitol",
+        "flag",
+        "investigating",
+        "police",
+        "republican",
+        "swastika"
+      ],
+      "item_ids": [
+        "fc167c41d49a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "6e06cc2db379",
       "topic": "directly fox mamdani speak",
       "keywords": [
@@ -9605,54 +9483,18 @@
       ]
     },
     {
-      "id": "7832f0f3ef73",
-      "topic": "administration block firing judge",
+      "id": "c69e04a05262",
+      "topic": "activist climate dismisse judge",
       "keywords": [
-        "administration",
-        "block",
-        "firing",
+        "activist",
+        "climate",
+        "dismisse",
         "judge",
-        "temporarily",
-        "trump"
+        "suit",
+        "young"
       ],
       "item_ids": [
-        "dd823c0eebf0"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "7bdab79dd050",
-      "topic": "andrew believed birthright having",
-      "keywords": [
-        "andrew",
-        "believed",
-        "birthright",
-        "having",
-        "prince",
-        "sex"
-      ],
-      "item_ids": [
-        "9d17a35fcbc2"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "0319a3f762ba",
-      "topic": "charlie foreigner outcry six",
-      "keywords": [
-        "charlie",
-        "foreigner",
-        "outcry",
-        "six",
-        "strip",
-        "visa"
-      ],
-      "item_ids": [
-        "8ac713614a81"
+        "31e2b8726fbf"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9868,24 +9710,6 @@
       ]
     },
     {
-      "id": "34ed3eb7c509",
-      "topic": "airline earning outlook profit",
-      "keywords": [
-        "airline",
-        "earning",
-        "outlook",
-        "profit",
-        "summer",
-        "united"
-      ],
-      "item_ids": [
-        "495a9a500537"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "1bfdf6bca7c9",
       "topic": "attend court might supreme",
       "keywords": [
@@ -9898,6 +9722,24 @@
       ],
       "item_ids": [
         "26228af7da3c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "34ed3eb7c509",
+      "topic": "airline earning outlook profit",
+      "keywords": [
+        "airline",
+        "earning",
+        "outlook",
+        "profit",
+        "summer",
+        "united"
+      ],
+      "item_ids": [
+        "495a9a500537"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10190,6 +10032,42 @@
       ]
     },
     {
+      "id": "63d084449b83",
+      "topic": "better editing generator getting",
+      "keywords": [
+        "better",
+        "editing",
+        "generator",
+        "getting",
+        "google",
+        "video"
+      ],
+      "item_ids": [
+        "bd4e33a5bd54"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "83fccb0e9cf1",
+      "topic": "best deal get ipad",
+      "keywords": [
+        "best",
+        "deal",
+        "get",
+        "ipad",
+        "now",
+        "right"
+      ],
+      "item_ids": [
+        "4d8f1fadb9ef"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "c50d46d2a58f",
       "topic": "app best delay feature",
       "keywords": [
@@ -10325,42 +10203,6 @@
       ],
       "item_ids": [
         "32abdb720083"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "8cbea271be9e",
-      "topic": "apple like logitech made",
-      "keywords": [
-        "apple",
-        "like",
-        "logitech",
-        "made",
-        "pencil",
-        "stylu"
-      ],
-      "item_ids": [
-        "d9aa1a73fd5d"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "c63902b1794d",
-      "topic": "8217 home internet mint",
-      "keywords": [
-        "8217",
-        "home",
-        "internet",
-        "mint",
-        "mobile",
-        "prepaid"
-      ],
-      "item_ids": [
-        "e18006f0447c"
       ],
       "outlets": [
         "The Verge"
@@ -10887,24 +10729,6 @@
       ]
     },
     {
-      "id": "74759b60e519",
-      "topic": "close museum national set",
-      "keywords": [
-        "close",
-        "museum",
-        "national",
-        "set",
-        "smithsonian",
-        "zoo"
-      ],
-      "item_ids": [
-        "0cc6776d4605"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "f1ec1fee915f",
       "topic": "lisa mcclain ongoing rep",
       "keywords": [
@@ -11180,24 +11004,6 @@
       ],
       "outlets": [
         "CNN.com - RSS Channel - Politics"
-      ]
-    },
-    {
-      "id": "c69e04a05262",
-      "topic": "activist climate dismisse judge",
-      "keywords": [
-        "activist",
-        "climate",
-        "dismisse",
-        "judge",
-        "suit",
-        "young"
-      ],
-      "item_ids": [
-        "31e2b8726fbf"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
       ]
     },
     {
@@ -12290,58 +12096,6 @@
       ],
       "item_ids": [
         "7d9fedc75080"
-      ],
-      "outlets": [
-        "Wicked Horror"
-      ]
-    },
-    {
-      "id": "28b2f4a1bab7",
-      "topic": "butterfly flatwood footage found",
-      "keywords": [
-        "butterfly",
-        "flatwood",
-        "footage",
-        "found",
-        "horror",
-        "project"
-      ],
-      "item_ids": [
-        "becca1c2ee52"
-      ],
-      "outlets": [
-        "Wicked Horror"
-      ]
-    },
-    {
-      "id": "d9be7f29a118",
-      "topic": "coming horror october wicked",
-      "keywords": [
-        "coming",
-        "horror",
-        "october",
-        "wicked"
-      ],
-      "item_ids": [
-        "443cab740aae"
-      ],
-      "outlets": [
-        "Wicked Horror"
-      ]
-    },
-    {
-      "id": "f12739ccd738",
-      "topic": "aragno artist horror rachele",
-      "keywords": [
-        "aragno",
-        "artist",
-        "horror",
-        "rachele",
-        "talk",
-        "yuletide"
-      ],
-      "item_ids": [
-        "7ce1c96754d9"
       ],
       "outlets": [
         "Wicked Horror"
