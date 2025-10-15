@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T06:15:03Z",
+  "generated_at": "2025-10-15T07:08:51Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -34,6 +34,75 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "5b039eade443",
+      "title": "ASML looks to calm fears over 2026 growth as it warns of China sales decline",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/asml-q3-earnings-report.html",
+      "published_at": "Wed, 15 Oct 2025 06:08:20 GMT",
+      "bullets": [
+        "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
+        "• Firm said it does not expect 2026 total net sales to be below 2025",
+        "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
+          "• Firm said it does not expect 2026 total net sales to be below 2025"
+        ],
+        "hopeful_bullets": [
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
+          "• Firm said it does not expect 2026 total net sales to be below 2025"
+        ],
+        "stakes_bullets": [
+          "• Dutch semiconductor equipment giant ASML warns that it expects a \"significant\" sales decline in China in 2026",
+          "• Firm said it does not expect 2026 total net sales to be below 2025",
+          "• CEO Christophe Fouquet warned that the firm expects customer demand and sales in China to decline significantly next year compared to 2024 and 2025 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b6afa58fa6ee"
+    },
+    {
+      "id": "fde8c4073661",
+      "title": "Hostage families confirm identities of three of four bodies handed over by Hamas",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 06:07:46 GMT",
+      "bullets": [
+        "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
+        "• Scientists are still working to identify the fourth body",
+        "• Hamas has yet to return the other bodies as agreed under a ceasefire deal",
+        "• Israel has threatened to further restrict humanitarian aid until the remains of all 28 hostages are returned "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
+          "• Scientists are still working to identify the fourth body"
+        ],
+        "hopeful_bullets": [
+          "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
+          "• Scientists are still working to identify the fourth body"
+        ],
+        "stakes_bullets": [
+          "• Bodies of Tamir Nimrodi, 20, Eitan Levy, 53, and Uriel Baruch, 35, were part of latest return",
+          "• Scientists are still working to identify the fourth body",
+          "• Hamas has yet to return the other bodies as agreed under a ceasefire deal"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e71e91cf637e"
     },
     {
       "id": "3102e71621fc",
@@ -71,38 +140,6 @@
       "cluster_id": "bcfb0f8a6208"
     },
     {
-      "id": "8ee9012333f5",
-      "title": "European markets head for higher open as traders assess U.S.-China dispute",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/european-markets-o-weds-oct-15-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Wed, 15 Oct 2025 05:40:09 GMT",
-      "bullets": [
-        "• European stocks are expected to open higher on Wednesday, rebounding after touching a two-week low in the previous trading session",
-        "• The U.K.'s FTSE index is seen opening 0.37% higher, Germany's DAX up 0.4%, France's CAC 40 1.72% higher",
-        "• The positive change in sentiment comes amid the threat of a new trade dispute between the U.S",
-        "• and China "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• European stocks are expected to open higher on Wednesday, rebounding after touching a two-week low in the previous trading session",
-          "• The U.K.'s FTSE index is seen opening 0.37% higher, Germany's DAX up 0.4%, France's CAC 40 1.72% higher"
-        ],
-        "hopeful_bullets": [
-          "• European stocks are expected to open higher on Wednesday, rebounding after touching a two-week low in the previous trading session"
-        ],
-        "stakes_bullets": [
-          "• European stocks are expected to open higher on Wednesday, rebounding after touching a two-week low in the previous trading session"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "771a180ec0cb"
-    },
-    {
       "id": "fe4e625528ab",
       "title": "10% Off Dell Coupon Codes | October 2025",
       "outlet": "WIRED",
@@ -134,40 +171,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "804762d50fc7"
-    },
-    {
-      "id": "5b039eade443",
-      "title": "ASML looks to calm fears over 2026 growth as it warns of China sales decline",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/asml-q3-earnings-report.html",
-      "published_at": "Wed, 15 Oct 2025 05:27:20 GMT",
-      "bullets": [
-        "• Semiconductor equipment giant ASML warns of 'significant' sales decline in China in 2026",
-        "• Firm does not expect 2026 net sales to be below 2025",
-        "• Morgan Stanley, UBS and Jefferies have recently been bullish on the chip giant "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.94
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Semiconductor equipment giant ASML warns of 'significant' sales decline in China in 2026",
-          "• Firm does not expect 2026 net sales to be below 2025"
-        ],
-        "hopeful_bullets": [
-          "• Semiconductor equipment giant ASML warns of 'significant' sales decline in China in 2026",
-          "• Firm does not expect 2026 net sales to be below 2025"
-        ],
-        "stakes_bullets": [
-          "• Semiconductor equipment giant ASML warns of 'significant' sales decline in China in 2026",
-          "• Firm does not expect 2026 net sales to be below 2025",
-          "• Morgan Stanley, UBS and Jefferies have recently been bullish on the chip giant "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b6afa58fa6ee"
     },
     {
       "id": "67c6dddeb0d2",
@@ -636,28 +639,27 @@
       "url": "https://www.bbc.com/news/articles/c70jw436n0yo?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 15 Oct 2025 03:51:04 GMT",
       "bullets": [
-        "• Bitcoin worth $14bn seized in US-UK crackdown on alleged scammers",
-        "• US government has seized 127,271 bitcoin and charged the founder of a Cambodian business empire",
-        "• Chen Zhi was charged on Tuesday in New York for allegedly engaging in a wire-fraud conspiracy "
+        "• U.S",
+        "• and UK governments have agreed to release $14.5 billion worth of bitcoin",
+        "• The money is being used to fund a network of people who want to use it as a payment processor",
+        "• It is believed to be the biggest money laundering scam in the world, with more than 100,000 worth of bitcoins "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• Bitcoin worth $14bn seized in US-UK crackdown on alleged scammers",
-          "• US government has seized 127,271 bitcoin and charged the founder of a Cambodian business empire"
+          "• U.S",
+          "• and UK governments have agreed to release $14.5 billion worth of bitcoin"
         ],
         "hopeful_bullets": [
-          "• Bitcoin worth $14bn seized in US-UK crackdown on alleged scammers",
-          "• US government has seized 127,271 bitcoin and charged the founder of a Cambodian business empire"
+          "• U.S",
+          "• and UK governments have agreed to release $14.5 billion worth of bitcoin"
         ],
         "stakes_bullets": [
-          "• Bitcoin worth $14bn seized in US-UK crackdown on alleged scammers",
-          "• US government has seized 127,271 bitcoin and charged the founder of a Cambodian business empire",
-          "• Chen Zhi was charged on Tuesday in New York for allegedly engaging in a wire-fraud conspiracy "
+          "• and UK governments have agreed to release $14.5 billion worth of bitcoin"
         ]
       },
       "read_minutes": 3,
@@ -965,40 +967,6 @@
       "cluster_id": "5358ebf835ed"
     },
     {
-      "id": "fde8c4073661",
-      "title": "Hamas returns four more bodies of hostages, Israeli military says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 02:15:38 GMT",
-      "bullets": [
-        "• Hamas returns four more bodies of hostages, Israeli military says",
-        "• The Red Cross retrieved the remains in coffins and handed them over to the Israeli military late on Tuesday night",
-        "• Israel warned it would restrict aid into Gaza until Hamas returned the bodies of all 28 deceased hostages "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hamas returns four more bodies of hostages, Israeli military says",
-          "• The Red Cross retrieved the remains in coffins and handed them over to the Israeli military late on Tuesday night"
-        ],
-        "hopeful_bullets": [
-          "• Hamas returns four more bodies of hostages, Israeli military says",
-          "• The Red Cross retrieved the remains in coffins and handed them over to the Israeli military late on Tuesday night"
-        ],
-        "stakes_bullets": [
-          "• Hamas returns four more bodies of hostages, Israeli military says",
-          "• The Red Cross retrieved the remains in coffins and handed them over to the Israeli military late on Tuesday night",
-          "• Israel warned it would restrict aid into Gaza until Hamas returned the bodies of all 28 deceased hostages "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4bc2caf84d21"
-    },
-    {
       "id": "aa5a49edfd99",
       "title": "‘Amanda the Adventurer 2’: Viral DreadXP Horror Game Expands to New Consoles Soon",
       "outlet": "Dread Central",
@@ -1091,6 +1059,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "8e7892db4473"
+    },
+    {
+      "id": "64dbae739d7f",
+      "title": "As Japan's opposition circles around a unity bid, Takaichi’s route to power narrows",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/ldp-sanae-takaichi-pm-japan-komeito-cdp-dpp-yuichiro-tamaki-tokyo-lower-house.html",
+      "published_at": "Wed, 15 Oct 2025 01:15:33 GMT",
+      "bullets": [
+        "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
+        "• The decision to pull out of the LDP has left the party with an even smaller majority in the country's parliament",
+        "• The next election will be held on Oct",
+        "• 21 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
+          "• The decision to pull out of the LDP has left the party with an even smaller majority in the country's parliament"
+        ],
+        "hopeful_bullets": [
+          "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
+          "• The decision to pull out of the LDP has left the party with an even smaller majority in the country's parliament"
+        ],
+        "stakes_bullets": [
+          "• Leader of Japan's ruling party pulls out of coalition to find a new leader",
+          "• The next election will be held on Oct"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1f67ec9ebfb7"
     },
     {
       "id": "7d944ebe306d",
@@ -9095,15 +9097,15 @@
   ],
   "clusters": [
     {
-      "id": "4bc2caf84d21",
-      "topic": "bodie four hama hostage",
+      "id": "e71e91cf637e",
+      "topic": "bodie confirm familie four",
       "keywords": [
         "bodie",
+        "confirm",
+        "familie",
         "four",
-        "hama",
         "hostage",
-        "israeli",
-        "return"
+        "identitie"
       ],
       "item_ids": [
         "fde8c4073661"
@@ -9816,6 +9818,24 @@
       ]
     },
     {
+      "id": "b6afa58fa6ee",
+      "topic": "2026 asml calm fear",
+      "keywords": [
+        "2026",
+        "asml",
+        "calm",
+        "fear",
+        "growth",
+        "look"
+      ],
+      "item_ids": [
+        "5b039eade443"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "19dcb5fedcc1",
       "topic": "between disparity high income",
       "keywords": [
@@ -9846,42 +9866,6 @@
       ],
       "item_ids": [
         "28d736eb9b35"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b6afa58fa6ee",
-      "topic": "2026 asml calm fear",
-      "keywords": [
-        "2026",
-        "asml",
-        "calm",
-        "fear",
-        "growth",
-        "look"
-      ],
-      "item_ids": [
-        "5b039eade443"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "771a180ec0cb",
-      "topic": "european head higher market",
-      "keywords": [
-        "european",
-        "head",
-        "higher",
-        "market",
-        "open",
-        "trader"
-      ],
-      "item_ids": [
-        "8ee9012333f5"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9954,6 +9938,24 @@
       ],
       "item_ids": [
         "06d37fb35435"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "1f67ec9ebfb7",
+      "topic": "around bid circle japan",
+      "keywords": [
+        "around",
+        "bid",
+        "circle",
+        "japan",
+        "opposition",
+        "unity"
+      ],
+      "item_ids": [
+        "64dbae739d7f"
       ],
       "outlets": [
         "US Top News and Analysis"
