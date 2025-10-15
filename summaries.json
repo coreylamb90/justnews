@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T11:02:47Z",
+  "generated_at": "2025-10-15T11:20:34Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -36,6 +36,74 @@
       "cluster_id": "2310b1aa0d50"
     },
     {
+      "id": "5e602aae8a47",
+      "title": "Bank of America tops estimates on stronger-than-expected investment banking revenue",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html",
+      "published_at": "Wed, 15 Oct 2025 10:52:07 GMT",
+      "bullets": [
+        "• Bank of America posted third-quarter results that exceeded analysts' expectations",
+        "• Shares of the bank have climbed roughly 14% this year",
+        "• JPMorgan Chase, Goldman Sachs, Citigroup and Wells Fargo each posted earnings that topped expectations for earnings and revenue "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bank of America posted third-quarter results that exceeded analysts' expectations",
+          "• Shares of the bank have climbed roughly 14% this year"
+        ],
+        "hopeful_bullets": [
+          "• Bank of America posted third-quarter results that exceeded analysts' expectations",
+          "• Shares of the bank have climbed roughly 14% this year"
+        ],
+        "stakes_bullets": [
+          "• Bank of America posted third-quarter results that exceeded analysts' expectations",
+          "• Shares of the bank have climbed roughly 14% this year"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "98add9b0429b"
+    },
+    {
+      "id": "4b2c7a5aa67e",
+      "title": "Supreme court to hear Voting Rights Act challenge that could affect control of Congress – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/15/donald-trump-federal-government-shutdown-redistricting-voting-rights-act-kash-patel-us-politics-live-news-updates",
+      "published_at": "Wed, 15 Oct 2025 10:38:52 GMT",
+      "bullets": [
+        "• Supreme Court to hear Voting Rights Act challenge that could affect control of Congress",
+        "• Case involves a dispute over Louisiana’s sixth congressional district",
+        "• Ruling could open the door for legislatures to redraw congressional maps across the South",
+        "• Case could also affect the balance of power in Congress "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.851
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Supreme Court to hear Voting Rights Act challenge that could affect control of Congress",
+          "• Case involves a dispute over Louisiana’s sixth congressional district"
+        ],
+        "hopeful_bullets": [
+          "• Supreme Court to hear Voting Rights Act challenge that could affect control of Congress",
+          "• Case involves a dispute over Louisiana’s sixth congressional district"
+        ],
+        "stakes_bullets": [
+          "• Supreme Court to hear Voting Rights Act challenge that could affect control of Congress",
+          "• Ruling could open the door for legislatures to redraw congressional maps across the South",
+          "• Case could also affect the balance of power in Congress "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "8a7e5381ac24"
+    },
+    {
       "id": "5bcb4f3dbd84",
       "title": "Nature groups rebuke Reeves for ‘cynical’ 11th-hour planning bill changes",
       "outlet": "Environment | The Guardian",
@@ -70,6 +138,40 @@
       "cluster_id": "13a96f2ee963"
     },
     {
+      "id": "eff05d709ffe",
+      "title": "Former Kenyan Prime Minister Raila Odinga dies in India aged 80",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 15 Oct 2025 10:30:39 GMT",
+      "bullets": [
+        "• Former Kenyan Prime Minister Raila Odinga dies at the age of 80, family sources say",
+        "• He collapsed during a morning walk and was taken to a hospital in India",
+        "• Indian Prime Minister Narendra Modi has described him as a \"towering statesman\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.884
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Former Kenyan Prime Minister Raila Odinga dies at the age of 80, family sources say",
+          "• He collapsed during a morning walk and was taken to a hospital in India"
+        ],
+        "hopeful_bullets": [
+          "• Former Kenyan Prime Minister Raila Odinga dies at the age of 80, family sources say",
+          "• He collapsed during a morning walk and was taken to a hospital in India"
+        ],
+        "stakes_bullets": [
+          "• Former Kenyan Prime Minister Raila Odinga dies at the age of 80, family sources say",
+          "• He collapsed during a morning walk and was taken to a hospital in India",
+          "• Indian Prime Minister Narendra Modi has described him as a \"towering statesman\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "804a04448d6d"
+    },
+    {
       "id": "70b87f4cabe2",
       "title": "What Is Google One? A Breakdown of Plans, Pricing, and Included Services",
       "outlet": "WIRED",
@@ -101,72 +203,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "9378e79bae64"
-    },
-    {
-      "id": "4b2c7a5aa67e",
-      "title": "Supreme court to hear Voting Rights Act challenge that could affect control of Congress – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/15/donald-trump-federal-government-shutdown-redistricting-voting-rights-act-kash-patel-us-politics-live-news-updates",
-      "published_at": "Wed, 15 Oct 2025 10:26:21 GMT",
-      "bullets": [
-        "• 4,200 federal employees across seven agencies were laid off on Friday, the administration has said",
-        "• 700 firings at the US Centers for Disease Control and Prevention (CDC) were swiftly reversed over the weekend",
-        "• The federal workforce has already shed hundreds of thousands of staff on his watch this year "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 4,200 federal employees across seven agencies were laid off on Friday, the administration has said",
-          "• 700 firings at the US Centers for Disease Control and Prevention (CDC) were swiftly reversed over the weekend"
-        ],
-        "hopeful_bullets": [
-          "• 4,200 federal employees across seven agencies were laid off on Friday, the administration has said",
-          "• 700 firings at the US Centers for Disease Control and Prevention (CDC) were swiftly reversed over the weekend"
-        ],
-        "stakes_bullets": [
-          "• 4,200 federal employees across seven agencies were laid off on Friday, the administration has said",
-          "• 700 firings at the US Centers for Disease Control and Prevention (CDC) were swiftly reversed over the weekend",
-          "• The federal workforce has already shed hundreds of thousands of staff on his watch this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8a7e5381ac24"
-    },
-    {
-      "id": "5e602aae8a47",
-      "title": "Bank of America is about to report earnings – here’s what Wall Street expects",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html",
-      "published_at": "Wed, 15 Oct 2025 10:15:01 GMT",
-      "bullets": [
-        "• Bank of America is scheduled to report third-quarter earnings before the opening bell Wednesday",
-        "• Big banks have reaped strong gains in trading and investment revenue",
-        "• JPMorgan Chase, Goldman Sachs, Citigroup and Wells Fargo each posted earnings that topped expectations "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bank of America is scheduled to report third-quarter earnings before the opening bell Wednesday",
-          "• Big banks have reaped strong gains in trading and investment revenue"
-        ],
-        "hopeful_bullets": [
-          "• Big banks have reaped strong gains in trading and investment revenue"
-        ],
-        "stakes_bullets": [
-          "• Bank of America is scheduled to report third-quarter earnings before the opening bell Wednesday",
-          "• Big banks have reaped strong gains in trading and investment revenue"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "60e528695848"
     },
     {
       "id": "86001bdd62b6",
@@ -235,40 +271,6 @@
       "cluster_id": "ba20ba717c50"
     },
     {
-      "id": "661f514e41ce",
-      "title": "The not-so secret language of fascist fashion",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/15/fascist-fashion-language",
-      "published_at": "Wed, 15 Oct 2025 10:00:34 GMT",
-      "bullets": [
-        "• The far right’s use of fashion to advance ideas is not new",
-        "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces",
-        "• In the US, the white robes of the KKK and burning crosses have long been trademarks of white supremacy "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The far right’s use of fashion to advance ideas is not new",
-          "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces"
-        ],
-        "hopeful_bullets": [
-          "• The far right’s use of fashion to advance ideas is not new",
-          "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces"
-        ],
-        "stakes_bullets": [
-          "• The far right’s use of fashion to advance ideas is not new",
-          "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces",
-          "• In the US, the white robes of the KKK and burning crosses have long been trademarks of white supremacy "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "4d585ede9c6c"
-    },
-    {
       "id": "d9b5f5927b49",
       "title": "Robert De Niro urges Americans to ‘stand up and be counted’ in anti-Trump protests",
       "outlet": "US news | The Guardian",
@@ -303,38 +305,38 @@
       "cluster_id": "52ccec0e34b7"
     },
     {
-      "id": "eff05d709ffe",
-      "title": "Former Kenyan Prime Minister Raila Odinga dies in India aged 80",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 15 Oct 2025 09:57:03 GMT",
+      "id": "661f514e41ce",
+      "title": "The not-so secret language of fascist fashion",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/15/fascist-fashion-language",
+      "published_at": "Wed, 15 Oct 2025 10:00:34 GMT",
       "bullets": [
-        "• Former Kenyan Prime Minister Raila Odinga has died at the age of 80, family sources say",
-        "• He collapsed during a morning walk and was taken to a hospital in India",
-        "• The hospital said he had suffered a cardiac arrest and did not respond to resuscitation "
+        "• The far right’s use of fashion to advance ideas is not new",
+        "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces",
+        "• In the US, the white robes of the KKK and burning crosses have long been trademarks of white supremacy "
       ],
-      "category": "World",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.96
       },
       "moods": {
         "brief_bullets": [
-          "• Former Kenyan Prime Minister Raila Odinga has died at the age of 80, family sources say",
-          "• He collapsed during a morning walk and was taken to a hospital in India"
+          "• The far right’s use of fashion to advance ideas is not new",
+          "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces"
         ],
         "hopeful_bullets": [
-          "• Former Kenyan Prime Minister Raila Odinga has died at the age of 80, family sources say",
-          "• He collapsed during a morning walk and was taken to a hospital in India"
+          "• The far right’s use of fashion to advance ideas is not new",
+          "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces"
         ],
         "stakes_bullets": [
-          "• Former Kenyan Prime Minister Raila Odinga has died at the age of 80, family sources say",
-          "• He collapsed during a morning walk and was taken to a hospital in India",
-          "• The hospital said he had suffered a cardiac arrest and did not respond to resuscitation "
+          "• The far right’s use of fashion to advance ideas is not new",
+          "• In 1920s Italy, Mussolini harnessed black shirts and the ancient Roman symbol of the fasces",
+          "• In the US, the white robes of the KKK and burning crosses have long been trademarks of white supremacy "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "804a04448d6d"
+      "read_minutes": 6,
+      "cluster_id": "4d585ede9c6c"
     },
     {
       "id": "5b039eade443",
@@ -898,6 +900,42 @@
       "cluster_id": "0acafc46fe8d"
     },
     {
+      "id": "d2ec429a65da",
+      "title": "Texas Rep. Gina Hinojosa joins Democratic race to challenge Gov. Greg Abbott",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17186117/gina-hinojosa-texas-governor-campaign-launch-2026-greg-abbott",
+      "published_at": "Wed, 15 Oct 2025 06:00:00 -0500",
+      "bullets": [
+        "• Texas Rep",
+        "• Hinojosa announced she is running for governor in 2026",
+        "• She is one of the state's most vocal critics of its school voucher program",
+        "• She joins other candidates in the race to challenge Gov",
+        "• Greg Abbott"
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.937
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas Rep",
+          "• Hinojosa announced she is running for governor in 2026"
+        ],
+        "hopeful_bullets": [
+          "• Texas Rep",
+          "• Hinojosa announced she is running for governor in 2026"
+        ],
+        "stakes_bullets": [
+          "• Texas Rep",
+          "• Hinojosa announced she is running for governor in 2026",
+          "• She is one of the state's most vocal critics of its school voucher program"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0266ead19a74"
+    },
+    {
       "id": "3102e71621fc",
       "title": "Justin Timberlake Credits D’Angelo for Helping Him Define His Voice: ‘You Changed Me’",
       "outlet": "Music News",
@@ -1196,6 +1234,38 @@
       "cluster_id": "d8fed154d795"
     },
     {
+      "id": "fee3fcb90d22",
+      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
+      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+        "• The pay package was laid out back in 2018",
+        "• It didn't give Musk a salary, but instead, promised him more and more Tesla shares the better the company did "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+          "• The pay package was laid out back in 2018"
+        ],
+        "hopeful_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
+          "• The pay package was laid out back in 2018"
+        ],
+        "stakes_bullets": [
+          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2633b4f88214"
+    },
+    {
       "id": "ae0bcea59ee7",
       "title": "'Broadcasting' has its roots in agriculture. Here's how it made its way into media",
       "outlet": "NPR Topics: News",
@@ -1227,38 +1297,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "2e14091503ea"
-    },
-    {
-      "id": "fee3fcb90d22",
-      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
-      "published_at": "Wed, 15 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
-        "• The pay package was laid out back in 2018",
-        "• It didn't give Musk a salary, but instead, promised him more and more Tesla shares the better the company did "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
-          "• The pay package was laid out back in 2018"
-        ],
-        "hopeful_bullets": [
-          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package",
-          "• The pay package was laid out back in 2018"
-        ],
-        "stakes_bullets": [
-          "• Delaware's Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's compensation package"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "2633b4f88214"
     },
     {
       "id": "000c1f48af0a",
@@ -3067,6 +3105,41 @@
       "cluster_id": "f24cbb0c5bf2"
     },
     {
+      "id": "324530d174a5",
+      "title": "Trump threatens China with cooking oil embargo over soybean snub",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/14/trump-china-soybean-cooking-oil.html",
+      "published_at": "Tue, 14 Oct 2025 21:24:15 GMT",
+      "bullets": [
+        "• China has not bought a single U.S",
+        "• soybean since May amid a trade war with the Trump administration",
+        "• China has been sourcing the crop from producers in South America",
+        "• President Donald Trump says he's considering \"terminating business with China having to do with Cooking Oil\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China has not bought a single U.S",
+          "• soybean since May amid a trade war with the Trump administration"
+        ],
+        "hopeful_bullets": [
+          "• China has not bought a single U.S",
+          "• soybean since May amid a trade war with the Trump administration"
+        ],
+        "stakes_bullets": [
+          "• China has not bought a single U.S",
+          "• soybean since May amid a trade war with the Trump administration",
+          "• China has been sourcing the crop from producers in South America"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "18293c807ab3"
+    },
+    {
       "id": "95d1903e976a",
       "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
       "outlet": "Ars Technica - All content",
@@ -3132,40 +3205,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "48b988b920a3"
-    },
-    {
-      "id": "d718e2090628",
-      "title": "There's a shocking disparity between how high-income and low-income earners feel about the economy",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/14/theres-a-shocking-disparity-between-how-high-income-and-low-income-earners-feel-about-the-economy.html",
-      "published_at": "Tue, 14 Oct 2025 21:06:13 GMT",
-      "bullets": [
-        "• Higher-income consumers were more likely to report stronger economic confidence readings",
-        "• JPMorgan's Cost of Living Survey shows the U.S",
-        "• economy is in a \"K-shape,\" a term used by economists to describe the deviation in economic experiences by income",
-        "• This can explain why well-off Americans are continuing to spend while lower earners buckle "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Higher-income consumers were more likely to report stronger economic confidence readings",
-          "• JPMorgan's Cost of Living Survey shows the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Higher-income consumers were more likely to report stronger economic confidence readings"
-        ],
-        "stakes_bullets": [
-          "• Higher-income consumers were more likely to report stronger economic confidence readings",
-          "• JPMorgan's Cost of Living Survey shows the U.S",
-          "• economy is in a \"K-shape,\" a term used by economists to describe the deviation in economic experiences by income"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "19dcb5fedcc1"
     },
     {
       "id": "bdbee0d72612",
@@ -5712,38 +5751,6 @@
       "cluster_id": "a58ae0411e89"
     },
     {
-      "id": "cb0a71f713ba",
-      "title": "Move over James Bond: A new service lets anyone share secrets with Britain",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/14/nx-s1-5564056/security-mi-6-uk-secrets-foreign-intelligence-silent-courier",
-      "published_at": "Tue, 14 Oct 2025 04:45:38 -0400",
-      "bullets": [
-        "• New dark web 'dead drop' lets anyone pass secrets to Britain's MI6",
-        "• Service allows potential spies to share classified information with the U.K.'s Secret Intelligence Service",
-        "• Former MI6 intelligence officer Matthew Dunn says it could be useful for foreign officials who otherwise couldn't meet with MI6 handler "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New dark web 'dead drop' lets anyone pass secrets to Britain's MI6",
-          "• Service allows potential spies to share classified information with the U.K.'s Secret Intelligence Service"
-        ],
-        "hopeful_bullets": [
-          "• New dark web 'dead drop' lets anyone pass secrets to Britain's MI6",
-          "• Service allows potential spies to share classified information with the U.K.'s Secret Intelligence Service"
-        ],
-        "stakes_bullets": [
-          "• Former MI6 intelligence officer Matthew Dunn says it could be useful for foreign officials who otherwise couldn't meet with MI6 handler "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b944d0e327d6"
-    },
-    {
       "id": "12c8d5c5c3e0",
       "title": "JWST may have found the Universe’s first stars powered by dark matter",
       "outlet": "All Top News -- ScienceDaily",
@@ -7578,73 +7585,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "47ade5741859"
-    },
-    {
-      "id": "890211f37fab",
-      "title": "Media companies thought late night TV was irrelevant. Kimmel proved them wrong",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/13/nx-s1-5558154/jimmy-kimmel-late-night-history-colbert-trump",
-      "published_at": "Mon, 13 Oct 2025 06:00:00 -0400",
-      "bullets": [
-        "• Jimmy Kimmel returned to his late-night show on ABC after a near-weeklong suspension",
-        "• Kimmel, Stephen Colbert and Seth Meyers troll President Trump with a photo at Jimmy Kimmel Live! Kimmel, Colbert and Meyers joined forces to remind fans why the genre is so special",
-        "• Kimmel was suspended for comments he made about supporters of the MAGA movement "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jimmy Kimmel returned to his late-night show on ABC after a near-weeklong suspension",
-          "• Kimmel, Stephen Colbert and Seth Meyers troll President Trump with a photo at Jimmy Kimmel Live! Kimmel, Colbert and Meyers joined forces to remind fans why the genre is so special"
-        ],
-        "hopeful_bullets": [
-          "• Jimmy Kimmel returned to his late-night show on ABC after a near-weeklong suspension",
-          "• Kimmel, Stephen Colbert and Seth Meyers troll President Trump with a photo at Jimmy Kimmel Live! Kimmel, Colbert and Meyers joined forces to remind fans why the genre is so special"
-        ],
-        "stakes_bullets": [
-          "• Jimmy Kimmel returned to his late-night show on ABC after a near-weeklong suspension",
-          "• Kimmel, Stephen Colbert and Seth Meyers troll President Trump with a photo at Jimmy Kimmel Live! Kimmel, Colbert and Meyers joined forces to remind fans why the genre is so special",
-          "• Kimmel was suspended for comments he made about supporters of the MAGA movement "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "36e57c461e39"
-    },
-    {
-      "id": "623bde7d9f80",
-      "title": "In South Texas, Allred and Talarico compete for Latino voters by vowing to fight for working class",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17184498/texas-democratic-senate-primary-allred-talarico-rgv-latino-voters",
-      "published_at": "Mon, 13 Oct 2025 05:00:00 -0500",
-      "bullets": [
-        "• In Texas, candidates for U.S",
-        "• Senate run for seats in Texas' Rio Grande Valley",
-        "• Both candidates want to win over voters who are worried about rising costs of living in the state",
-        "• The candidates are seeking to be the first female candidates for the U.N",
-        "• Senate seat "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.818
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In Texas, candidates for U.S",
-          "• Senate run for seats in Texas' Rio Grande Valley"
-        ],
-        "hopeful_bullets": [
-          "• Both candidates want to win over voters who are worried about rising costs of living in the state"
-        ],
-        "stakes_bullets": [
-          "• Both candidates want to win over voters who are worried about rising costs of living in the state"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "1bb46a5adc8c"
     },
     {
       "id": "460800ce2975",
@@ -9515,22 +9455,6 @@
       ]
     },
     {
-      "id": "4d585ede9c6c",
-      "topic": "fascist fashion language secret",
-      "keywords": [
-        "fascist",
-        "fashion",
-        "language",
-        "secret"
-      ],
-      "item_ids": [
-        "661f514e41ce"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "52ccec0e34b7",
       "topic": "american counted niro robert",
       "keywords": [
@@ -9543,6 +9467,22 @@
       ],
       "item_ids": [
         "d9b5f5927b49"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "4d585ede9c6c",
+      "topic": "fascist fashion language secret",
+      "keywords": [
+        "fascist",
+        "fashion",
+        "language",
+        "secret"
+      ],
+      "item_ids": [
+        "661f514e41ce"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9745,24 +9685,6 @@
       ]
     },
     {
-      "id": "2e14091503ea",
-      "topic": "agriculture broadcasting here made",
-      "keywords": [
-        "agriculture",
-        "broadcasting",
-        "here",
-        "made",
-        "root",
-        "way"
-      ],
-      "item_ids": [
-        "ae0bcea59ee7"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "2633b4f88214",
       "topic": "delaware elon much musk",
       "keywords": [
@@ -9775,6 +9697,24 @@
       ],
       "item_ids": [
         "fee3fcb90d22"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "2e14091503ea",
+      "topic": "agriculture broadcasting here made",
+      "keywords": [
+        "agriculture",
+        "broadcasting",
+        "here",
+        "made",
+        "root",
+        "way"
+      ],
+      "item_ids": [
+        "ae0bcea59ee7"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9853,18 +9793,18 @@
       ]
     },
     {
-      "id": "a3e8d7390782",
-      "topic": "alarm auto china industry",
+      "id": "98add9b0429b",
+      "topic": "america bank estimate expected",
       "keywords": [
-        "alarm",
-        "auto",
-        "china",
-        "industry",
-        "raise",
-        "tighten"
+        "america",
+        "bank",
+        "estimate",
+        "expected",
+        "stronger",
+        "tops"
       ],
       "item_ids": [
-        "6610142f6f29"
+        "5e602aae8a47"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9889,18 +9829,36 @@
       ]
     },
     {
-      "id": "60e528695848",
-      "topic": "america bank earning here",
+      "id": "18293c807ab3",
+      "topic": "china cooking embargo oil",
       "keywords": [
-        "america",
-        "bank",
-        "earning",
-        "here",
-        "report",
-        "wall"
+        "china",
+        "cooking",
+        "embargo",
+        "oil",
+        "threaten",
+        "trump"
       ],
       "item_ids": [
-        "5e602aae8a47"
+        "324530d174a5"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a3e8d7390782",
+      "topic": "alarm auto china industry",
+      "keywords": [
+        "alarm",
+        "auto",
+        "china",
+        "industry",
+        "raise",
+        "tighten"
+      ],
+      "item_ids": [
+        "6610142f6f29"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9943,18 +9901,18 @@
       ]
     },
     {
-      "id": "b6afa58fa6ee",
-      "topic": "2026 asml calm fear",
+      "id": "ddfe0c29fbdd",
+      "topic": "first growth lvmh pops",
       "keywords": [
-        "2026",
-        "asml",
-        "calm",
-        "fear",
+        "first",
         "growth",
-        "look"
+        "lvmh",
+        "pops",
+        "posting",
+        "time"
       ],
       "item_ids": [
-        "5b039eade443"
+        "baaaafdfe32e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9979,36 +9937,18 @@
       ]
     },
     {
-      "id": "19dcb5fedcc1",
-      "topic": "between disparity high income",
+      "id": "b6afa58fa6ee",
+      "topic": "2026 asml calm fear",
       "keywords": [
-        "between",
-        "disparity",
-        "high",
-        "income",
-        "shocking",
-        "there"
-      ],
-      "item_ids": [
-        "d718e2090628"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ddfe0c29fbdd",
-      "topic": "first growth lvmh pops",
-      "keywords": [
-        "first",
+        "2026",
+        "asml",
+        "calm",
+        "fear",
         "growth",
-        "lvmh",
-        "pops",
-        "posting",
-        "time"
+        "look"
       ],
       "item_ids": [
-        "baaaafdfe32e"
+        "5b039eade443"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10964,42 +10904,6 @@
       ],
       "item_ids": [
         "e758b860306f"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "b944d0e327d6",
-      "topic": "anyone bond jame lets",
-      "keywords": [
-        "anyone",
-        "bond",
-        "jame",
-        "lets",
-        "move",
-        "service"
-      ],
-      "item_ids": [
-        "cb0a71f713ba"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "36e57c461e39",
-      "topic": "companie irrelevant late media",
-      "keywords": [
-        "companie",
-        "irrelevant",
-        "late",
-        "media",
-        "night",
-        "thought"
-      ],
-      "item_ids": [
-        "890211f37fab"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13833,6 +13737,24 @@
       ]
     },
     {
+      "id": "0266ead19a74",
+      "topic": "democratic gina hinojosa join",
+      "keywords": [
+        "democratic",
+        "gina",
+        "hinojosa",
+        "join",
+        "rep",
+        "texa"
+      ],
+      "item_ids": [
+        "d2ec429a65da"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "71e0968253d7",
       "topic": "all cutting feds money",
       "keywords": [
@@ -13987,24 +13909,6 @@
       ],
       "item_ids": [
         "0107afd0490d"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "1bb46a5adc8c",
-      "topic": "allred compete latino south",
-      "keywords": [
-        "allred",
-        "compete",
-        "latino",
-        "south",
-        "talarico",
-        "texa"
-      ],
-      "item_ids": [
-        "623bde7d9f80"
       ],
       "outlets": [
         "The Texas Tribune"
