@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T23:54:17Z",
+  "generated_at": "2025-10-15T00:10:52Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -34,6 +34,39 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "fdfdc576951b",
+      "title": "10 Most Lethal X-Men, Ranked by Kill Count",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/xmen-most-lethal-kill-count/",
+      "published_at": "Wed, 15 Oct 2025 00:00:12 GMT",
+      "bullets": [
+        "• The X-Men include some of Marvel Comics' most lethal characters, as demonstrated by the total number of people they have killed",
+        "• Despite ostensibly being a team of superheroes, their kills aren't always confined to villainous victims",
+        "• Cyclops used Biological Warfare against the Skrulls in Secret Invasion "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The X-Men include some of Marvel Comics' most lethal characters, as demonstrated by the total number of people they have killed",
+          "• Despite ostensibly being a team of superheroes, their kills aren't always confined to villainous victims"
+        ],
+        "hopeful_bullets": [
+          "• Cyclops used Biological Warfare against the Skrulls in Secret Invasion "
+        ],
+        "stakes_bullets": [
+          "• The X-Men include some of Marvel Comics' most lethal characters, as demonstrated by the total number of people they have killed",
+          "• Despite ostensibly being a team of superheroes, their kills aren't always confined to villainous victims",
+          "• Cyclops used Biological Warfare against the Skrulls in Secret Invasion "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "1bb14779a533"
     },
     {
       "id": "01f62cb17630",
@@ -1056,40 +1089,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "11b5a0867ed5"
-    },
-    {
-      "id": "72082cb6104c",
-      "title": "House of the Dragon Season 3 Wraps Filming",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/house-of-the-dragon-season-3-wraps-filming/",
-      "published_at": "Tue, 14 Oct 2025 22:16:14 GMT",
-      "bullets": [
-        "• Game of Thrones prequel series House of the Dragon Season 3 has wrapped filming",
-        "• The update comes six months after production began at Leavesden Studios, Watford, in March",
-        "• The fantasy drama series is based on parts of George R.R",
-        "• Martin's 2018 novel, Fire & Blood",
-        "• Season 3 will see the debut of several cast members, including Annie Shapero "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.866
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Game of Thrones prequel series House of the Dragon Season 3 has wrapped filming",
-          "• The update comes six months after production began at Leavesden Studios, Watford, in March"
-        ],
-        "hopeful_bullets": [
-          "• Game of Thrones prequel series House of the Dragon Season 3 has wrapped filming",
-          "• The update comes six months after production began at Leavesden Studios, Watford, in March"
-        ],
-        "stakes_bullets": [
-          "• Season 3 will see the debut of several cast members, including Annie Shapero "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8d8d4911123b"
     },
     {
       "id": "81c3be16f17e",
@@ -2271,6 +2270,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "255fc2bcb854"
+    },
+    {
+      "id": "5c3c106dae8a",
+      "title": "Texans could begin applying for school vouchers in February",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17185851/texas-school-voucher-applications",
+      "published_at": "Tue, 14 Oct 2025 18:49:38 -0500",
+      "bullets": [
+        "• New York-based school program to help students pay for school vouchers",
+        "• The state has set a deadline for the program to begin in February",
+        "• The program could cost $26 million to run for the first two years of the program",
+        "• The deadline is set to be February 4, 2026 "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York-based school program to help students pay for school vouchers",
+          "• The state has set a deadline for the program to begin in February"
+        ],
+        "hopeful_bullets": [
+          "• New York-based school program to help students pay for school vouchers"
+        ],
+        "stakes_bullets": [
+          "• The state has set a deadline for the program to begin in February",
+          "• The program could cost $26 million to run for the first two years of the program",
+          "• The deadline is set to be February 4, 2026 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8ac9a3eeff18"
     },
     {
       "id": "80e7790a8bb2",
@@ -6439,39 +6472,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
-    },
-    {
-      "id": "83f64f6b819f",
-      "title": "Texas GOP censures five lawmakers, but rejects banning anyone from the primary ballot",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17183732/texas-gop-srec-censure",
-      "published_at": "Sat, 11 Oct 2025 16:49:33 -0500",
-      "bullets": [
-        "• Texas GOP censures five lawmakers, but rejects banning anyone from the primary ballot",
-        "• Texas House Speaker Dustin Burrows escaped censure, as did Reps",
-        "• Angie Chen Button, Cody Harris, Jeff Leach and Morgan Meyer",
-        "• Some House members say the censure would have violated their constitutional right to appear on the ballot "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas GOP censures five lawmakers, but rejects banning anyone from the primary ballot",
-          "• Texas House Speaker Dustin Burrows escaped censure, as did Reps"
-        ],
-        "hopeful_bullets": [
-          "• Texas GOP censures five lawmakers, but rejects banning anyone from the primary ballot",
-          "• Texas House Speaker Dustin Burrows escaped censure, as did Reps"
-        ],
-        "stakes_bullets": [
-          "• Texas GOP censures five lawmakers, but rejects banning anyone from the primary ballot"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "403d8dd63309"
     },
     {
       "id": "0cc6776d4605",
@@ -12748,6 +12748,24 @@
       ]
     },
     {
+      "id": "1bb14779a533",
+      "topic": "count kill lethal men",
+      "keywords": [
+        "count",
+        "kill",
+        "lethal",
+        "men",
+        "most",
+        "ranked"
+      ],
+      "item_ids": [
+        "fdfdc576951b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3158a7bb141f",
       "topic": "end era king officially",
       "keywords": [
@@ -12903,23 +12921,6 @@
       ],
       "item_ids": [
         "69b8e17477a4"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8d8d4911123b",
-      "topic": "dragon filming house season",
-      "keywords": [
-        "dragon",
-        "filming",
-        "house",
-        "season",
-        "wrap"
-      ],
-      "item_ids": [
-        "72082cb6104c"
       ],
       "outlets": [
         "CBR"
@@ -13455,6 +13456,24 @@
       ]
     },
     {
+      "id": "8ac9a3eeff18",
+      "topic": "applying begin february school",
+      "keywords": [
+        "applying",
+        "begin",
+        "february",
+        "school",
+        "texan",
+        "voucher"
+      ],
+      "item_ids": [
+        "5c3c106dae8a"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "b98491390905",
       "topic": "agriculture commissioner down slap",
       "keywords": [
@@ -13609,24 +13628,6 @@
       ],
       "item_ids": [
         "8d05f9a18370"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "403d8dd63309",
-      "topic": "censure five gop lawmaker",
-      "keywords": [
-        "censure",
-        "five",
-        "gop",
-        "lawmaker",
-        "reject",
-        "texa"
-      ],
-      "item_ids": [
-        "83f64f6b819f"
       ],
       "outlets": [
         "The Texas Tribune"
