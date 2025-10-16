@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T07:07:58Z",
+  "generated_at": "2025-10-16T07:55:18Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -205,24 +205,25 @@
       "published_at": "Wed, 15 Oct 2025 23:01:50 GMT",
       "bullets": [
         "• Carbon emissions from extreme wildfires increased by 9% last year to reach the sixth highest level on record",
-        "• Fires devastated huge swathes of South America’s rainforests, dry forests and wetlands",
-        "• Canada's northern forests decimated by wildfires "
+        "• Fires devastated huge swathes of South America’s rainforests, dry forests and wetlands and decimated Canada's northern forests",
+        "• Climate breakdown caused by human emissions means fires are more frequent and more intense "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "positive",
-        "score": 0.668
+        "score": 0.705
       },
       "moods": {
         "brief_bullets": [
           "• Carbon emissions from extreme wildfires increased by 9% last year to reach the sixth highest level on record",
-          "• Fires devastated huge swathes of South America’s rainforests, dry forests and wetlands"
+          "• Fires devastated huge swathes of South America’s rainforests, dry forests and wetlands and decimated Canada's northern forests"
         ],
         "hopeful_bullets": [
           "• Carbon emissions from extreme wildfires increased by 9% last year to reach the sixth highest level on record"
         ],
         "stakes_bullets": [
-          "• Carbon emissions from extreme wildfires increased by 9% last year to reach the sixth highest level on record"
+          "• Carbon emissions from extreme wildfires increased by 9% last year to reach the sixth highest level on record",
+          "• Climate breakdown caused by human emissions means fires are more frequent and more intense "
         ]
       },
       "read_minutes": 3,
@@ -1197,9 +1198,9 @@
       "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 15 Oct 2025 19:29:34 GMT",
       "bullets": [
-        "• US Secretary of Defence Pete Hegseth's plane lands in the UK after a crack in the windscreen",
-        "• The plane was returning from a Nato meeting in Belgium when it was forced to turn back",
-        "• The Pentagon says everyone aboard the plane is safe "
+        "• US Secretary of Defence Pete Hegseth's plane makes unscheduled landing in UK",
+        "• Pentagon says he was on his way back from Nato's Defence Minister meeting in Belgium",
+        "• The plane had a \"crack in the aircraft windshield\" and landed at RAF Mildenhall "
       ],
       "category": "World",
       "sentiment": {
@@ -1208,16 +1209,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• US Secretary of Defence Pete Hegseth's plane lands in the UK after a crack in the windscreen",
-          "• The plane was returning from a Nato meeting in Belgium when it was forced to turn back"
+          "• US Secretary of Defence Pete Hegseth's plane makes unscheduled landing in UK",
+          "• Pentagon says he was on his way back from Nato's Defence Minister meeting in Belgium"
         ],
         "hopeful_bullets": [
-          "• US Secretary of Defence Pete Hegseth's plane lands in the UK after a crack in the windscreen"
+          "• The plane had a \"crack in the aircraft windshield\" and landed at RAF Mildenhall "
         ],
         "stakes_bullets": [
-          "• US Secretary of Defence Pete Hegseth's plane lands in the UK after a crack in the windscreen",
-          "• The plane was returning from a Nato meeting in Belgium when it was forced to turn back",
-          "• The Pentagon says everyone aboard the plane is safe "
+          "• US Secretary of Defence Pete Hegseth's plane makes unscheduled landing in UK",
+          "• The plane had a \"crack in the aircraft windshield\" and landed at RAF Mildenhall "
         ]
       },
       "read_minutes": 1,
@@ -3291,37 +3291,6 @@
       "cluster_id": "5cd42624d8a4"
     },
     {
-      "id": "bfdea6f92e14",
-      "title": "Astronomers detect a cosmic “heartbeat” in pulsar signals",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251015032302.htm",
-      "published_at": "Wed, 15 Oct 2025 08:23:50 EDT",
-      "bullets": [
-        "• Astronomers may soon detect a cosmic “heartbeat” in pulsar signals",
-        "• Researchers from Hirosaki University suggest these signals might carry “beats” — patterns formed by overlapping waves from supermassive black holes",
-        "• This subtle modulation could help scientists tell whether the waves stem from ancient cosmic inflation or nearby black hole binaries "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Astronomers may soon detect a cosmic “heartbeat” in pulsar signals",
-          "• Researchers from Hirosaki University suggest these signals might carry “beats” — patterns formed by overlapping waves from supermassive black holes"
-        ],
-        "hopeful_bullets": [
-          "• This subtle modulation could help scientists tell whether the waves stem from ancient cosmic inflation or nearby black hole binaries "
-        ],
-        "stakes_bullets": [
-          "• This subtle modulation could help scientists tell whether the waves stem from ancient cosmic inflation or nearby black hole binaries "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8db51735121c"
-    },
-    {
       "id": "71e3712c1443",
       "title": "A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts",
       "outlet": "NPR Topics: Politics",
@@ -3651,40 +3620,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "d8fed154d795"
-    },
-    {
-      "id": "0468cb83c81d",
-      "title": "A 151-million-year-old fly just changed what we know about evolution",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251015032253.htm",
-      "published_at": "Wed, 15 Oct 2025 04:06:53 EDT",
-      "bullets": [
-        "• Scientists have uncovered a 151-million-year-old midge fossil in Australia that challenges long-held views about insect evolution",
-        "• The fossil shows freshwater adaptations previously thought to exist only in marine species",
-        "• Discovery suggests that Chironomidae may have originated in Gondwana, offering new insight into ancient biogeographical patterns "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists have uncovered a 151-million-year-old midge fossil in Australia that challenges long-held views about insect evolution",
-          "• The fossil shows freshwater adaptations previously thought to exist only in marine species"
-        ],
-        "hopeful_bullets": [
-          "• Scientists have uncovered a 151-million-year-old midge fossil in Australia that challenges long-held views about insect evolution",
-          "• The fossil shows freshwater adaptations previously thought to exist only in marine species"
-        ],
-        "stakes_bullets": [
-          "• Scientists have uncovered a 151-million-year-old midge fossil in Australia that challenges long-held views about insect evolution",
-          "• The fossil shows freshwater adaptations previously thought to exist only in marine species",
-          "• Discovery suggests that Chironomidae may have originated in Gondwana, offering new insight into ancient biogeographical patterns "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "025dfd705663"
     },
     {
       "id": "312fd14fe195",
@@ -4079,38 +4014,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "0c06403ea92a"
-    },
-    {
-      "id": "e3bc635f5585",
-      "title": "Annihilus makes his MCU Debut in the Nova Series",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/marvel/annihilus-makes-his-mcu-debut-in-the-nova-series/",
-      "published_at": "Tue, 28 Jan 2025 19:56:06 +0000",
-      "bullets": [
-        "• A Nova Series for Disney Plus has been rumored to be in the works for years at this point",
-        "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut",
-        "• In the comics he is usually a villain for the Fantastic Four, however he is also behind the destruction of Xandar which makes Richard Rider, Nova Prime "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Nova Series for Disney Plus has been rumored to be in the works for years at this point",
-          "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut"
-        ],
-        "hopeful_bullets": [
-          "• A Nova Series for Disney Plus has been rumored to be in the works for years at this point",
-          "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut"
-        ],
-        "stakes_bullets": [
-          "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6cc9daf95221"
     },
     {
       "id": "2561519d17f4",
@@ -5284,73 +5187,6 @@
       "cluster_id": "8af4054e818a"
     },
     {
-      "id": "bb9f43091b0d",
-      "title": "Full Avengers: Doomsday Cast Announcement Breakdown",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/marvel/full-avengers-doomsday-cast-announcement-breakdown/",
-      "published_at": "Thu, 27 Mar 2025 22:21:08 +0000",
-      "bullets": [
-        "• Marvel fans were treated to a live stream on the Marvel Entertainment YouTube Account, though the video ended up being over 5 hours long, it revealed the full cast for the upcoming Avengers: Doomsday cast",
-        "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member",
-        "• This is the first Marvel project since Avenge "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.642
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel fans were treated to a live stream on the Marvel Entertainment YouTube Account, though the video ended up being over 5 hours long, it revealed the full cast for the upcoming Avengers: Doomsday cast",
-          "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member"
-        ],
-        "hopeful_bullets": [
-          "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member"
-        ],
-        "stakes_bullets": [
-          "• Marvel fans were treated to a live stream on the Marvel Entertainment YouTube Account, though the video ended up being over 5 hours long, it revealed the full cast for the upcoming Avengers: Doomsday cast",
-          "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member",
-          "• This is the first Marvel project since Avenge "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "de631f7845cb"
-    },
-    {
-      "id": "c690784022a8",
-      "title": "Your Friendly Neighborhood Spider-Man: A Fresh and Engaging Take",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/your-friendly-neighborhood-spider-man-review/",
-      "published_at": "Thu, 20 Feb 2025 06:44:35 +0000",
-      "bullets": [
-        "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-        "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world",
-        "• The animation style may not be for everyone, but I personally enjoyed it "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-          "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world"
-        ],
-        "hopeful_bullets": [
-          "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-          "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world"
-        ],
-        "stakes_bullets": [
-          "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-          "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world",
-          "• The animation style may not be for everyone, but I personally enjoyed it "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fae2f8de0cfb"
-    },
-    {
       "id": "e1a7eed23501",
       "title": "8 Questions with Yuletide writer George Northy",
       "outlet": "Wicked Horror",
@@ -5380,6 +5216,135 @@
       },
       "read_minutes": 4,
       "cluster_id": "f2f4f0a3b6b2"
+    },
+    {
+      "id": "919bfbfb862c",
+      "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
+      "published_at": "Thu, 16 Oct 2025 07:30:27 GMT",
+      "bullets": [
+        "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+        "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates",
+        "• As Asia's largest technology company by market capitalization, TSMC has benefited from the artificial-intelligence boom "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
+        ],
+        "hopeful_bullets": [
+          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
+        ],
+        "stakes_bullets": [
+          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9ae9ea0b4ca7"
+    },
+    {
+      "id": "98af2c27824c",
+      "title": "Nestle gains 6% after consumer goods giant announces plans to slash 16,000 jobs",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/nestle-3q-earnings-announces-16000-job-cuts.html",
+      "published_at": "Thu, 16 Oct 2025 07:24:53 GMT",
+      "bullets": [
+        "• Nestle posts better-than-expected organic growth rate of 4.3% in third quarter",
+        "• New CEO Philipp Navratil looks to accelerate a turnaround at the consumer goods giant",
+        "• Shares opened 6.4% higher on Thursday after the firm announced cost-savings programme worth $3.14 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nestle posts better-than-expected organic growth rate of 4.3% in third quarter",
+          "• New CEO Philipp Navratil looks to accelerate a turnaround at the consumer goods giant"
+        ],
+        "hopeful_bullets": [
+          "• Nestle posts better-than-expected organic growth rate of 4.3% in third quarter"
+        ],
+        "stakes_bullets": [
+          "• Nestle posts better-than-expected organic growth rate of 4.3% in third quarter",
+          "• Shares opened 6.4% higher on Thursday after the firm announced cost-savings programme worth $3.14 billion "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6f23d014c4b7"
+    },
+    {
+      "id": "9e5f8f69dcc4",
+      "title": "Animation Legend Genndy Tartakovsky | Primal Season 3, Squash & Stretch, and More",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/video/animation-legend-genndy-tartakovsky-primal-season-3-squash-stretch-and-more/",
+      "published_at": "Thu, 16 Oct 2025 07:12:16 GMT",
+      "bullets": [
+        "• Animation legend Genndy Tartakovsky sits down with Nic Guastella to discuss his groundbreaking series Primal, the art of squash & stretch, and the current state of animation",
+        "• From storytelling to movement the interview offers a rare look into the mind behind animation’s most influential projects "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Animation legend Genndy Tartakovsky sits down with Nic Guastella to discuss his groundbreaking series Primal, the art of squash & stretch, and the current state of animation",
+          "• From storytelling to movement the interview offers a rare look into the mind behind animation’s most influential projects "
+        ],
+        "hopeful_bullets": [
+          "• Animation legend Genndy Tartakovsky sits down with Nic Guastella to discuss his groundbreaking series Primal, the art of squash & stretch, and the current state of animation",
+          "• From storytelling to movement the interview offers a rare look into the mind behind animation’s most influential projects "
+        ],
+        "stakes_bullets": [
+          "• Animation legend Genndy Tartakovsky sits down with Nic Guastella to discuss his groundbreaking series Primal, the art of squash & stretch, and the current state of animation",
+          "• From storytelling to movement the interview offers a rare look into the mind behind animation’s most influential projects "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d5e5618f06ca"
+    },
+    {
+      "id": "3b81101b2c67",
+      "title": "Chance of AI market correction is 'pretty high,' says ex-Meta exec Nick Clegg as he pushes back on superintelligence",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/ex-meta-exec-nick-clegg-chance-of-ai-correction-is-pretty-high.html",
+      "published_at": "Thu, 16 Oct 2025 07:09:20 GMT",
+      "bullets": [
+        "• Nick Clegg says the chance of a market correction in the artificial intelligence sector is \"pretty high\" He pushed back on the concept of artificial superintelligence",
+        "• The former deputy prime minister of the U.K",
+        "• said the AI boom has resulted in \"unbelievable, crazy valuations\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nick Clegg says the chance of a market correction in the artificial intelligence sector is \"pretty high\" He pushed back on the concept of artificial superintelligence",
+          "• The former deputy prime minister of the U.K"
+        ],
+        "hopeful_bullets": [
+          "• Nick Clegg says the chance of a market correction in the artificial intelligence sector is \"pretty high\" He pushed back on the concept of artificial superintelligence",
+          "• The former deputy prime minister of the U.K"
+        ],
+        "stakes_bullets": [
+          "• said the AI boom has resulted in \"unbelievable, crazy valuations\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c0bd8ae47b75"
     },
     {
       "id": "cbadb06f08ea",
@@ -5414,71 +5379,68 @@
       "cluster_id": "b3ee3f82ca0c"
     },
     {
-      "id": "919bfbfb862c",
-      "title": "TSMC hits yet another record as profit surges 39%, beating estimates on AI chip demand surge",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
-      "published_at": "Thu, 16 Oct 2025 06:34:48 GMT",
+      "id": "ea59ffffdc58",
+      "title": "Children’s Laureate Alex Wharton on the power of language, rhythm and reading",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/lifestyle/arts/childrens-laureate-alex-wharton-on-the-power-of-language-rhythm-and-reading/",
+      "published_at": "Thu, 16 Oct 2025 07:00:47 +0000",
       "bullets": [
-        "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-        "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion",
-        "• Quarter over quarter, net income increased 13.6%, marking its second consecutive quarter of profit growth "
+        "• Alex Wharton is the Children’s Laureate for Wales and takes his poetry to libraries, school classrooms and events all over the UK",
+        "• As a teen, he became a rap afcionado, studying the lyrics of Outkast, Lauryn Hill and Talib Kweli "
       ],
-      "category": "Business",
+      "category": "Good News",
       "sentiment": {
         "label": "positive",
-        "score": 0.994
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion"
+          "• Alex Wharton is the Children’s Laureate for Wales and takes his poetry to libraries, school classrooms and events all over the UK",
+          "• As a teen, he became a rap afcionado, studying the lyrics of Outkast, Lauryn Hill and Talib Kweli "
         ],
         "hopeful_bullets": [
-          "• Quarter over quarter, net income increased 13.6%, marking its second consecutive quarter of profit growth "
+          "• Alex Wharton is the Children’s Laureate for Wales and takes his poetry to libraries, school classrooms and events all over the UK",
+          "• As a teen, he became a rap afcionado, studying the lyrics of Outkast, Lauryn Hill and Talib Kweli "
         ],
         "stakes_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion",
-          "• Quarter over quarter, net income increased 13.6%, marking its second consecutive quarter of profit growth "
+          "• Alex Wharton is the Children’s Laureate for Wales and takes his poetry to libraries, school classrooms and events all over the UK",
+          "• As a teen, he became a rap afcionado, studying the lyrics of Outkast, Lauryn Hill and Talib Kweli "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "84629ec80ccc"
+      "read_minutes": 3,
+      "cluster_id": "74ecdd3d1c5f"
     },
     {
-      "id": "51cf3423be40",
-      "title": "India's exports to US plunge as Trump's 50% tariffs kick in",
+      "id": "d68912df3d71",
+      "title": "Titan imploded due to poor engineering, say US officials",
       "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70jw0nylrgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 16 Oct 2025 06:10:02 GMT",
+      "url": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 16 Oct 2025 06:49:21 GMT",
       "bullets": [
-        "• September was the first full month of 50% tariffs on Indian goods",
-        "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia",
-        "• Textiles, gems and jewellery, and engineering goods, have suffered the heaviest losses "
+        "• US National Transportation Safety Board (NTSB) found the engineering process behind the vehicle was \"inadequate\" The firm failed to adequately test the submersible, says the NTSB",
+        "• It was also unaware it was damaged and should have been removed from service before its last voyage "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• September was the first full month of 50% tariffs on Indian goods",
-          "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia"
+          "• US National Transportation Safety Board (NTSB) found the engineering process behind the vehicle was \"inadequate\" The firm failed to adequately test the submersible, says the NTSB",
+          "• It was also unaware it was damaged and should have been removed from service before its last voyage "
         ],
         "hopeful_bullets": [
-          "• September was the first full month of 50% tariffs on Indian goods",
-          "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia"
+          "• US National Transportation Safety Board (NTSB) found the engineering process behind the vehicle was \"inadequate\" The firm failed to adequately test the submersible, says the NTSB",
+          "• It was also unaware it was damaged and should have been removed from service before its last voyage "
         ],
         "stakes_bullets": [
-          "• September was the first full month of 50% tariffs on Indian goods",
-          "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia",
-          "• Textiles, gems and jewellery, and engineering goods, have suffered the heaviest losses "
+          "• US National Transportation Safety Board (NTSB) found the engineering process behind the vehicle was \"inadequate\" The firm failed to adequately test the submersible, says the NTSB",
+          "• It was also unaware it was damaged and should have been removed from service before its last voyage "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "61cfeafbd2f8"
+      "read_minutes": 1,
+      "cluster_id": "7ead3681f4ad"
     },
     {
       "id": "65b902bd962f",
@@ -5511,71 +5473,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "d5baf9c3f3f9"
-    },
-    {
-      "id": "c1dd21a923d1",
-      "title": "Trump says Modi assured him India will stop Russian oil purchases, but timeline unclear",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/trump-says-india-will-stop-buying-russian-oil-ukraine-war-crude-china-putin-modi.html",
-      "published_at": "Thu, 16 Oct 2025 05:55:15 GMT",
-      "bullets": [
-        "• U.S",
-        "• President Donald Trump said Wednesday that Indian Prime Minister Narendra Modi told him New Delhi will stop buying oil from Russia",
-        "• India's external affairs ministry said Friday that the country's oil import decisions are driven by efforts to protect consumers by ensuring stable energy prices and securing supplies "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump said Wednesday that Indian Prime Minister Narendra Modi told him New Delhi will stop buying oil from Russia"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump said Wednesday that Indian Prime Minister Narendra Modi told him New Delhi will stop buying oil from Russia"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump said Wednesday that Indian Prime Minister Narendra Modi told him New Delhi will stop buying oil from Russia"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ac1c39805e56"
-    },
-    {
-      "id": "e83e12c8f819",
-      "title": "European markets head for negative open as choppy week for stocks continues",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/european-markets-on-thurs-oct-16-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Thu, 16 Oct 2025 05:42:13 GMT",
-      "bullets": [
-        "• European stocks are expected to open in negative territory on Thursday",
-        "• European markets continue to see-saw this week",
-        "• FTSE, Germany's DAX and France's CAC 40 expected to be down 0.41%",
-        "• South Korea's Kospi index hit a record high after IMF raised the country's 2025 growth forecast "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• European stocks are expected to open in negative territory on Thursday",
-          "• European markets continue to see-saw this week"
-        ],
-        "hopeful_bullets": [
-          "• South Korea's Kospi index hit a record high after IMF raised the country's 2025 growth forecast "
-        ],
-        "stakes_bullets": [
-          "• European stocks are expected to open in negative territory on Thursday",
-          "• FTSE, Germany's DAX and France's CAC 40 expected to be down 0.41%"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8e53af8c8dc2"
     },
     {
       "id": "483ccfde5f54",
@@ -5881,32 +5778,37 @@
       "cluster_id": "7c1e3feac0bb"
     },
     {
-      "id": "3ce7961eb9f0",
-      "title": "18 Years Ago, Wilmer Valderrama Starred In This Latino Superhero Movie That Deserves a Watch",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/el-muerto-the-dead-one-wilmer-valderrama-latino-superhero-movie/",
-      "published_at": "Thu, 16 Oct 2025 03:35:12 GMT",
+      "id": "c6ca11e77711",
+      "title": "Forged in fire: The 900°C heat that built Earth’s stable continents",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251015230947.htm",
+      "published_at": "Thu, 16 Oct 2025 03:05:54 EDT",
       "bullets": [
-        "• Wilmer Valderrama starred in That '70s Show as a goofy foreign exchange student only referred to as \"Fez\" Not long after that show ended, he played the lead of a dramatic film that also marked his superhero movie debut called El Muerto "
+        "• New research reveals that Earth's continents owe their stability to searing heat deep in the planet’s crust",
+        "• At more than 900°C, radioactive elements shifted upward, cooling and strengthening landmasses that support life",
+        "• This ancient heat engine also distributed valuable minerals, giving scientists new clues for exploration and for spotting potentially habitable planets "
       ],
-      "category": "Comics",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Wilmer Valderrama starred in That '70s Show as a goofy foreign exchange student only referred to as \"Fez\" Not long after that show ended, he played the lead of a dramatic film that also marked his superhero movie debut called El Muerto "
+          "• New research reveals that Earth's continents owe their stability to searing heat deep in the planet’s crust",
+          "• At more than 900°C, radioactive elements shifted upward, cooling and strengthening landmasses that support life"
         ],
         "hopeful_bullets": [
-          "• Wilmer Valderrama starred in That '70s Show as a goofy foreign exchange student only referred to as \"Fez\" Not long after that show ended, he played the lead of a dramatic film that also marked his superhero movie debut called El Muerto "
+          "• New research reveals that Earth's continents owe their stability to searing heat deep in the planet’s crust",
+          "• At more than 900°C, radioactive elements shifted upward, cooling and strengthening landmasses that support life"
         ],
         "stakes_bullets": [
-          "• Wilmer Valderrama starred in That '70s Show as a goofy foreign exchange student only referred to as \"Fez\" Not long after that show ended, he played the lead of a dramatic film that also marked his superhero movie debut called El Muerto "
+          "• New research reveals that Earth's continents owe their stability to searing heat deep in the planet’s crust",
+          "• This ancient heat engine also distributed valuable minerals, giving scientists new clues for exploration and for spotting potentially habitable planets "
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "dfc7f33f90d6"
+      "read_minutes": 4,
+      "cluster_id": "52b3ddeb59a6"
     },
     {
       "id": "aab4e2062d48",
@@ -6111,6 +6013,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "957ba9cf4030"
+    },
+    {
+      "id": "8168d53ad31a",
+      "title": "Quantum crystals could spark the next tech revolution",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251015230945.htm",
+      "published_at": "Thu, 16 Oct 2025 02:09:02 EDT",
+      "bullets": [
+        "• Auburn scientists have designed new materials that manipulate free electrons to unlock groundbreaking applications",
+        "• These ‘Surface Immobilized Electrides’ could power future quantum computers or transform chemical manufacturing",
+        "• Stable, tunable, and scalable, they represent a leap beyond traditional electrides "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Auburn scientists have designed new materials that manipulate free electrons to unlock groundbreaking applications",
+          "• These ‘Surface Immobilized Electrides’ could power future quantum computers or transform chemical manufacturing"
+        ],
+        "hopeful_bullets": [
+          "• Auburn scientists have designed new materials that manipulate free electrons to unlock groundbreaking applications",
+          "• These ‘Surface Immobilized Electrides’ could power future quantum computers or transform chemical manufacturing"
+        ],
+        "stakes_bullets": [
+          "• These ‘Surface Immobilized Electrides’ could power future quantum computers or transform chemical manufacturing"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a933ce91b612"
     },
     {
       "id": "4b2c7a5aa67e",
@@ -6470,71 +6404,6 @@
       "cluster_id": "fec2b72cae08"
     },
     {
-      "id": "f9bd93cbbe4f",
-      "title": "Skeleton Crew: A Decent Ride That Never Reaches Hyperspace",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/skeleton-crew-review/",
-      "published_at": "Thu, 16 Jan 2025 06:47:40 +0000",
-      "bullets": [
-        "• A lot of people have compared Skeleton Crew to The Goonies, but I don't think that comparison holds up",
-        "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment",
-        "• The themes of independence are there, and there are good ideas throughout "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.574
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A lot of people have compared Skeleton Crew to The Goonies, but I don't think that comparison holds up",
-          "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment"
-        ],
-        "hopeful_bullets": [
-          "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment"
-        ],
-        "stakes_bullets": [
-          "• A lot of people have compared Skeleton Crew to The Goonies, but I don't think that comparison holds up",
-          "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment",
-          "• The themes of independence are there, and there are good ideas throughout "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "888b1e315600"
-    },
-    {
-      "id": "fe447758d910",
-      "title": "Captain America: Brave New World – A Rushed but Decent Entry",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/captain-america-brave-new-world-review/",
-      "published_at": "Thu, 13 Feb 2025 19:44:40 +0000",
-      "bullets": [
-        "• Captain America: Brave New World has strong performances and moments of greatness, but it struggles with a rushed narrative, sloppy CGI, and an underwhelming finale",
-        "• Marvel Studios continues to push out projects too fast, and the results show",
-        "• The strongest part of the film is the dynamic between Sam Wilson and Joaquin Torres "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Captain America: Brave New World has strong performances and moments of greatness, but it struggles with a rushed narrative, sloppy CGI, and an underwhelming finale",
-          "• Marvel Studios continues to push out projects too fast, and the results show"
-        ],
-        "hopeful_bullets": [
-          "• Captain America: Brave New World has strong performances and moments of greatness, but it struggles with a rushed narrative, sloppy CGI, and an underwhelming finale",
-          "• The strongest part of the film is the dynamic between Sam Wilson and Joaquin Torres "
-        ],
-        "stakes_bullets": [
-          "• Marvel Studios continues to push out projects too fast, and the results show"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b5ebb78247cb"
-    },
-    {
       "id": "b3ae5e82c927",
       "title": "Fantastic Fest 2025 Interview with VICIOUS Writer / Director Bryan Bertino",
       "outlet": "Daily Dead",
@@ -6866,40 +6735,6 @@
       "cluster_id": "d9be7f29a118"
     },
     {
-      "id": "b72963244510",
-      "title": "Agatha All Along: Unpacking the Pop Culture References",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/marvel/agatha-all-along-pop-culture-magic/",
-      "published_at": "Sun, 27 Oct 2024 05:15:10 +0000",
-      "bullets": [
-        "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-        "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story",
-        "• These subtle nods serve as easter eggs for eagle-eyed viewers, while also enhancing the show's atmosphere and themes "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-          "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story"
-        ],
-        "hopeful_bullets": [
-          "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-          "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story"
-        ],
-        "stakes_bullets": [
-          "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-          "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story",
-          "• These subtle nods serve as easter eggs for eagle-eyed viewers, while also enhancing the show's atmosphere and themes "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f5cbbc6c3bcb"
-    },
-    {
       "id": "c6073b3eb690",
       "title": "TVC15: Battle Droid (VC78)",
       "outlet": "Jedi Temple Archives",
@@ -7197,40 +7032,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ce288799fa10"
-    },
-    {
-      "id": "40236a8d776a",
-      "title": "What If…? Season 3: Uneven Stories, Satisfying Arcs",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/what-if-season-3-review/",
-      "published_at": "Mon, 30 Dec 2024 00:08:41 +0000",
-      "bullets": [
-        "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-        "• The biggest letdown in What If…? Season 3 is the missed potential",
-        "• A few episodes manage to capture the intrigue and fun that made the first season such a standout "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-          "• The biggest letdown in What If…? Season 3 is the missed potential"
-        ],
-        "hopeful_bullets": [
-          "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-          "• The biggest letdown in What If…? Season 3 is the missed potential"
-        ],
-        "stakes_bullets": [
-          "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-          "• The biggest letdown in What If…? Season 3 is the missed potential",
-          "• A few episodes manage to capture the intrigue and fun that made the first season such a standout "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ce5a5a3ce234"
     },
     {
       "id": "409a6e83e68a",
@@ -7620,39 +7421,6 @@
       "cluster_id": "5f702ead2a2b"
     },
     {
-      "id": "11607afa6306",
-      "title": "The Penguin: A Gritty, Edge-of-Your-Seat Masterpiece",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/the-penguin-review/",
-      "published_at": "Mon, 11 Nov 2024 07:26:10 +0000",
-      "bullets": [
-        "• The Penguin delivers thrilling intensity, movie-quality visuals, and powerful performances",
-        "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for",
-        "• Cristin Milioti is a standout as well, playing with commanding intensity "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Penguin delivers thrilling intensity, movie-quality visuals, and powerful performances",
-          "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for"
-        ],
-        "hopeful_bullets": [
-          "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for"
-        ],
-        "stakes_bullets": [
-          "• The Penguin delivers thrilling intensity, movie-quality visuals, and powerful performances",
-          "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for",
-          "• Cristin Milioti is a standout as well, playing with commanding intensity "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b235c16fb40e"
-    },
-    {
       "id": "a9990799f006",
       "title": "Step forward the ‘fully biodegradable’ shoe that leaves no footprint",
       "outlet": "Positive News",
@@ -7856,40 +7624,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f12739ccd738"
-    },
-    {
-      "id": "cd39cebe7492",
-      "title": "Kraven the Hunter: Action Thrills, Story Spills",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/kraven-the-hunter-review/",
-      "published_at": "Fri, 13 Dec 2024 07:49:20 +0000",
-      "bullets": [
-        "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-        "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story",
-        "• Russell Crowe’s performance, in particular, is a highlight "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-          "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story"
-        ],
-        "hopeful_bullets": [
-          "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-          "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story"
-        ],
-        "stakes_bullets": [
-          "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-          "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story",
-          "• Russell Crowe’s performance, in particular, is a highlight "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "cf059bc2fec2"
     },
     {
       "id": "2bd6b95ce75d",
@@ -8154,39 +7888,6 @@
       "cluster_id": "0e4127ec8972"
     },
     {
-      "id": "c8177dc31327",
-      "title": "Creature Commandos: A Bold and Brilliant Start to the New DCU",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/creature-commandos-review/",
-      "published_at": "Fri, 10 Jan 2025 16:33:22 +0000",
-      "bullets": [
-        "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor",
-        "• Behind all the chaos and carnage, there’s a surprising amount of heart, with some truly moving moments that add weight to the narrative",
-        "• James Gunn has proven time and time again that he knows how to craft a comic book project "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor",
-          "• Behind all the chaos and carnage, there’s a surprising amount of heart, with some truly moving moments that add weight to the narrative"
-        ],
-        "hopeful_bullets": [
-          "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor"
-        ],
-        "stakes_bullets": [
-          "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor",
-          "• Behind all the chaos and carnage, there’s a surprising amount of heart, with some truly moving moments that add weight to the narrative",
-          "• James Gunn has proven time and time again that he knows how to craft a comic book project "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2daa60016122"
-    },
-    {
       "id": "142cf1b6c83a",
       "title": "John Carpenter’s The Thing is About … Diabetes?",
       "outlet": "Wicked Horror",
@@ -8219,38 +7920,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "65f8b15f2aa1"
-    },
-    {
-      "id": "492a87a5748d",
-      "title": "What went right this week: rewilding successes, plus more",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-40-of-2025/",
-      "published_at": "Fri, 03 Oct 2025 05:27:20 +0000",
-      "bullets": [
-        "• A striking underwater shot of an Atlantic sturgeon swimming free from its cage in Sweden has won an award celebrating rewilding successes in Europe",
-        "• The juvenile fish was reintroduced to the Göta River as part of a nature recovery project that Positive News reported on last year "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A striking underwater shot of an Atlantic sturgeon swimming free from its cage in Sweden has won an award celebrating rewilding successes in Europe",
-          "• The juvenile fish was reintroduced to the Göta River as part of a nature recovery project that Positive News reported on last year "
-        ],
-        "hopeful_bullets": [
-          "• A striking underwater shot of an Atlantic sturgeon swimming free from its cage in Sweden has won an award celebrating rewilding successes in Europe",
-          "• The juvenile fish was reintroduced to the Göta River as part of a nature recovery project that Positive News reported on last year "
-        ],
-        "stakes_bullets": [
-          "• A striking underwater shot of an Atlantic sturgeon swimming free from its cage in Sweden has won an award celebrating rewilding successes in Europe",
-          "• The juvenile fish was reintroduced to the Göta River as part of a nature recovery project that Positive News reported on last year "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "564fa7a26415"
     },
     {
       "id": "a14f093f556a",
@@ -9058,18 +8727,18 @@
       ]
     },
     {
-      "id": "957ba9cf4030",
-      "topic": "arc china official sack",
+      "id": "7ead3681f4ad",
+      "topic": "due engineering imploded poor",
       "keywords": [
-        "arc",
-        "china",
-        "official",
-        "sack",
-        "teryx",
-        "viral"
+        "due",
+        "engineering",
+        "imploded",
+        "poor",
+        "say",
+        "titan"
       ],
       "item_ids": [
-        "e5520829c196"
+        "d68912df3d71"
       ],
       "outlets": [
         "BBC News"
@@ -9106,6 +8775,24 @@
       ],
       "item_ids": [
         "3e005dad3454"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "957ba9cf4030",
+      "topic": "arc china official sack",
+      "keywords": [
+        "arc",
+        "china",
+        "official",
+        "sack",
+        "teryx",
+        "viral"
+      ],
+      "item_ids": [
+        "e5520829c196"
       ],
       "outlets": [
         "BBC News"
@@ -9160,24 +8847,6 @@
       ],
       "item_ids": [
         "e9e8a7ed0981"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "61cfeafbd2f8",
-      "topic": "export india kick plunge",
-      "keywords": [
-        "export",
-        "india",
-        "kick",
-        "plunge",
-        "tariff",
-        "trump"
-      ],
-      "item_ids": [
-        "51cf3423be40"
       ],
       "outlets": [
         "BBC News"
@@ -9753,6 +9422,60 @@
       ]
     },
     {
+      "id": "c0bd8ae47b75",
+      "topic": "chance correction high market",
+      "keywords": [
+        "chance",
+        "correction",
+        "high",
+        "market",
+        "meta",
+        "pretty"
+      ],
+      "item_ids": [
+        "3b81101b2c67"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9ae9ea0b4ca7",
+      "topic": "beat estimate hit profit",
+      "keywords": [
+        "beat",
+        "estimate",
+        "hit",
+        "profit",
+        "surge",
+        "tsmc"
+      ],
+      "item_ids": [
+        "919bfbfb862c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "6f23d014c4b7",
+      "topic": "announce consumer gain giant",
+      "keywords": [
+        "announce",
+        "consumer",
+        "gain",
+        "giant",
+        "good",
+        "nestle"
+      ],
+      "item_ids": [
+        "98af2c27824c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "1bfdf6bca7c9",
       "topic": "attend court might supreme",
       "keywords": [
@@ -9771,24 +9494,6 @@
       ]
     },
     {
-      "id": "84629ec80ccc",
-      "topic": "another hits profit record",
-      "keywords": [
-        "another",
-        "hits",
-        "profit",
-        "record",
-        "tsmc",
-        "yet"
-      ],
-      "item_ids": [
-        "919bfbfb862c"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d2f6bfbdca0d",
       "topic": "expel fcc hong kong",
       "keywords": [
@@ -9801,42 +9506,6 @@
       ],
       "item_ids": [
         "46e134ecff9a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ac1c39805e56",
-      "topic": "assured him india modi",
-      "keywords": [
-        "assured",
-        "him",
-        "india",
-        "modi",
-        "stop",
-        "trump"
-      ],
-      "item_ids": [
-        "c1dd21a923d1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "8e53af8c8dc2",
-      "topic": "choppy european head market",
-      "keywords": [
-        "choppy",
-        "european",
-        "head",
-        "market",
-        "negative",
-        "open"
-      ],
-      "item_ids": [
-        "e83e12c8f819"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10432,6 +10101,42 @@
       ]
     },
     {
+      "id": "52b3ddeb59a6",
+      "topic": "900 built earth fire",
+      "keywords": [
+        "900",
+        "built",
+        "earth",
+        "fire",
+        "forged",
+        "heat"
+      ],
+      "item_ids": [
+        "c6ca11e77711"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "a933ce91b612",
+      "topic": "crystal next quantum revolution",
+      "keywords": [
+        "crystal",
+        "next",
+        "quantum",
+        "revolution",
+        "spark",
+        "tech"
+      ],
+      "item_ids": [
+        "8168d53ad31a"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "be1223b7f1bb",
       "topic": "brain found hopkin john",
       "keywords": [
@@ -10551,42 +10256,6 @@
       ],
       "item_ids": [
         "335405a20adb"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "8db51735121c",
-      "topic": "astronomer cosmic detect heartbeat",
-      "keywords": [
-        "astronomer",
-        "cosmic",
-        "detect",
-        "heartbeat",
-        "pulsar",
-        "signal"
-      ],
-      "item_ids": [
-        "bfdea6f92e14"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "025dfd705663",
-      "topic": "151 fly just million",
-      "keywords": [
-        "151",
-        "fly",
-        "just",
-        "million",
-        "old",
-        "year"
-      ],
-      "item_ids": [
-        "0468cb83c81d"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -12840,6 +12509,24 @@
       ]
     },
     {
+      "id": "74ecdd3d1c5f",
+      "topic": "alex children language laureate",
+      "keywords": [
+        "alex",
+        "children",
+        "language",
+        "laureate",
+        "power",
+        "wharton"
+      ],
+      "item_ids": [
+        "ea59ffffdc58"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "5b36c2c9f4a7",
       "topic": "2025 image photographer wildlife",
       "keywords": [
@@ -13000,21 +12687,21 @@
       ]
     },
     {
-      "id": "564fa7a26415",
-      "topic": "plus rewilding right successe",
+      "id": "d5e5618f06ca",
+      "topic": "animation genndy legend primal",
       "keywords": [
-        "plus",
-        "rewilding",
-        "right",
-        "successe",
-        "week",
-        "went"
+        "animation",
+        "genndy",
+        "legend",
+        "primal",
+        "season",
+        "tartakovsky"
       ],
       "item_ids": [
-        "492a87a5748d"
+        "9e5f8f69dcc4"
       ],
       "outlets": [
-        "Positive News"
+        "CBR"
       ]
     },
     {
@@ -13140,202 +12827,6 @@
       ],
       "outlets": [
         "CBR"
-      ]
-    },
-    {
-      "id": "dfc7f33f90d6",
-      "topic": "ago latino starred valderrama",
-      "keywords": [
-        "ago",
-        "latino",
-        "starred",
-        "valderrama",
-        "wilmer",
-        "year"
-      ],
-      "item_ids": [
-        "3ce7961eb9f0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "de631f7845cb",
-      "topic": "announcement avenger breakdown cast",
-      "keywords": [
-        "announcement",
-        "avenger",
-        "breakdown",
-        "cast",
-        "doomsday",
-        "full"
-      ],
-      "item_ids": [
-        "bb9f43091b0d"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "fae2f8de0cfb",
-      "topic": "engaging fresh friendly man",
-      "keywords": [
-        "engaging",
-        "fresh",
-        "friendly",
-        "man",
-        "neighborhood",
-        "spider"
-      ],
-      "item_ids": [
-        "c690784022a8"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "b5ebb78247cb",
-      "topic": "america brave captain decent",
-      "keywords": [
-        "america",
-        "brave",
-        "captain",
-        "decent",
-        "rushed",
-        "world"
-      ],
-      "item_ids": [
-        "fe447758d910"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "6cc9daf95221",
-      "topic": "annihilu debut make mcu",
-      "keywords": [
-        "annihilu",
-        "debut",
-        "make",
-        "mcu",
-        "nova",
-        "serie"
-      ],
-      "item_ids": [
-        "e3bc635f5585"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "888b1e315600",
-      "topic": "crew decent never reache",
-      "keywords": [
-        "crew",
-        "decent",
-        "never",
-        "reache",
-        "ride",
-        "skeleton"
-      ],
-      "item_ids": [
-        "f9bd93cbbe4f"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "2daa60016122",
-      "topic": "bold brilliant commando creature",
-      "keywords": [
-        "bold",
-        "brilliant",
-        "commando",
-        "creature",
-        "dcu",
-        "start"
-      ],
-      "item_ids": [
-        "c8177dc31327"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "ce5a5a3ce234",
-      "topic": "arcs satisfying season storie",
-      "keywords": [
-        "arcs",
-        "satisfying",
-        "season",
-        "storie",
-        "uneven"
-      ],
-      "item_ids": [
-        "40236a8d776a"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "cf059bc2fec2",
-      "topic": "action hunter kraven spill",
-      "keywords": [
-        "action",
-        "hunter",
-        "kraven",
-        "spill",
-        "story",
-        "thrill"
-      ],
-      "item_ids": [
-        "cd39cebe7492"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "b235c16fb40e",
-      "topic": "edge gritty masterpiece penguin",
-      "keywords": [
-        "edge",
-        "gritty",
-        "masterpiece",
-        "penguin",
-        "seat"
-      ],
-      "item_ids": [
-        "11607afa6306"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "f5cbbc6c3bcb",
-      "topic": "agatha all along culture",
-      "keywords": [
-        "agatha",
-        "all",
-        "along",
-        "culture",
-        "pop",
-        "unpacking"
-      ],
-      "item_ids": [
-        "b72963244510"
-      ],
-      "outlets": [
-        "Comic Quarters"
       ]
     },
     {
