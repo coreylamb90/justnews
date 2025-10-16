@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T10:17:35Z",
+  "generated_at": "2025-10-16T11:01:20Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -163,6 +163,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "556792856851"
+    },
+    {
+      "id": "2b380b944339",
+      "title": "Salesforce stock jumps after company offers rosy forecast for 2030",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/salesforce-stock-jumps-after-company-offers-rosy-forecast-for-2030.html",
+      "published_at": "Wed, 15 Oct 2025 23:03:28 GMT",
+      "bullets": [
+        "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
+        "• The software giant issued new financial targets for the next few years",
+        "• It now expects revenue of over $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
+          "• The software giant issued new financial targets for the next few years"
+        ],
+        "hopeful_bullets": [
+          "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
+          "• The software giant issued new financial targets for the next few years"
+        ],
+        "stakes_bullets": [
+          "• It now expects revenue of over $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "97750bf1675f"
     },
     {
       "id": "be4ec59c4fd0",
@@ -428,6 +460,38 @@
       "cluster_id": "24d7e0cfe53c"
     },
     {
+      "id": "86b45423eadc",
+      "title": "Sam Altman says OpenAI isn't 'moral police of the world' after erotica ChatGPT post blows up",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/altman-open-ai-moral-police-erotica-chatgpt.html",
+      "published_at": "Wed, 15 Oct 2025 21:26:19 GMT",
+      "bullets": [
+        "• OpenAI CEO Sam Altman says company is \"not the elected moral police of the world\" The artificial intelligence startup has expanded its safety controls in recent months",
+        "• In December, Altman said it will allow more content, including erotica, on ChatGPT for \"verified adults\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI CEO Sam Altman says company is \"not the elected moral police of the world\" The artificial intelligence startup has expanded its safety controls in recent months",
+          "• In December, Altman said it will allow more content, including erotica, on ChatGPT for \"verified adults\""
+        ],
+        "hopeful_bullets": [
+          "• OpenAI CEO Sam Altman says company is \"not the elected moral police of the world\" The artificial intelligence startup has expanded its safety controls in recent months",
+          "• In December, Altman said it will allow more content, including erotica, on ChatGPT for \"verified adults\""
+        ],
+        "stakes_bullets": [
+          "• OpenAI CEO Sam Altman says company is \"not the elected moral police of the world\" The artificial intelligence startup has expanded its safety controls in recent months",
+          "• In December, Altman said it will allow more content, including erotica, on ChatGPT for \"verified adults\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0c5e23be4dea"
+    },
+    {
       "id": "31e2b8726fbf",
       "title": "Judge dismisses suit by young climate activists against Trump’s pro-fossil fuel policies",
       "outlet": "Environment | The Guardian",
@@ -491,38 +555,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "d3925f7a0add"
-    },
-    {
-      "id": "fc167c41d49a",
-      "title": "US Capitol police investigating flag with swastika in Republican representative’s office – report",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/15/capitol-us-flag-swastika-republican-dave-taylor",
-      "published_at": "Wed, 15 Oct 2025 21:16:51 GMT",
-      "bullets": [
-        "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
-        "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
-          "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
-        ],
-        "hopeful_bullets": [
-          "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
-          "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
-        ],
-        "stakes_bullets": [
-          "• US Capitol police are reportedly investigating after a US flag bearing a swastika was discovered inside the office of Republican House member Dave Taylor of Ohio",
-          "• The flag was displayed on what appears to be a cubicle wall behind one of Taylor’s staff members during a virtual meeting "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3e6b3d5ae313"
     },
     {
       "id": "b6951a11f3b9",
@@ -899,39 +931,6 @@
       "cluster_id": "3afc25d18277"
     },
     {
-      "id": "495a9a500537",
-      "title": "United Airlines' summer earnings and profit outlook top estimates, but revenue falls short",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/united-airlines-ual-3q-2025-earnings.html",
-      "published_at": "Wed, 15 Oct 2025 20:14:52 GMT",
-      "bullets": [
-        "• United Airlines expects to earn between $3 and $3.50 a share for the fourth quarter",
-        "• The airline increased capacity 7% in the third quarter over last year",
-        "• Unit passenger revenue for the three months ended Sept",
-        "• 30 fell 3.3% for domestic travel and 7.1% for international "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• United Airlines expects to earn between $3 and $3.50 a share for the fourth quarter",
-          "• The airline increased capacity 7% in the third quarter over last year"
-        ],
-        "hopeful_bullets": [
-          "• United Airlines expects to earn between $3 and $3.50 a share for the fourth quarter",
-          "• The airline increased capacity 7% in the third quarter over last year"
-        ],
-        "stakes_bullets": [
-          "• The airline increased capacity 7% in the third quarter over last year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "34ed3eb7c509"
-    },
-    {
       "id": "92a94245934d",
       "title": "‘Trick ‘r Treat’ Creator Mike Dougherty Recommends This ‘All-Time’ Haunted House Classic for Its Comedy",
       "outlet": "Dread Central",
@@ -1061,6 +1060,41 @@
       },
       "read_minutes": 1,
       "cluster_id": "2a457af46393"
+    },
+    {
+      "id": "1af6dd3af64d",
+      "title": "Senate rejects funding bill with no end in sight of government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/government-shutdown-funding-bill-vote-aca.html",
+      "published_at": "Wed, 15 Oct 2025 19:59:58 GMT",
+      "bullets": [
+        "• The Senate votes 51-44 to reject a GOP-led continuing resolution",
+        "• Democrats want to extend enhanced Affordable Care Act subsidies that are set to run out at the end of this year",
+        "• Republicans want a \"clean\" continuing resolution that would reopen the government until at least Nov",
+        "• 21 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.891
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Senate votes 51-44 to reject a GOP-led continuing resolution",
+          "• Democrats want to extend enhanced Affordable Care Act subsidies that are set to run out at the end of this year"
+        ],
+        "hopeful_bullets": [
+          "• The Senate votes 51-44 to reject a GOP-led continuing resolution",
+          "• Democrats want to extend enhanced Affordable Care Act subsidies that are set to run out at the end of this year"
+        ],
+        "stakes_bullets": [
+          "• The Senate votes 51-44 to reject a GOP-led continuing resolution",
+          "• Democrats want to extend enhanced Affordable Care Act subsidies that are set to run out at the end of this year",
+          "• Republicans want a \"clean\" continuing resolution that would reopen the government until at least Nov"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2fb6bee827ea"
     },
     {
       "id": "ab803a525d63",
@@ -1325,40 +1359,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "5e88679bfbfe"
-    },
-    {
-      "id": "46bb2e851b76",
-      "title": "Big banks like JPMorgan Chase and Goldman Sachs are already using AI to hire fewer people",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/jpmorgan-chase-goldman-sachs-ai-hiring.html",
-      "published_at": "Wed, 15 Oct 2025 18:57:25 GMT",
-      "bullets": [
-        "• JPMorgan Chase and Goldman Sachs are unveiling plans to reimagine their businesses around AI",
-        "• The bank's managers have been told to avoid hiring people as JPMorgan deploys AI across its businesses, CFO Jeremy Barnum told analysts",
-        "• JPMorgan said Tuesday in its third-quarter earnings report that while profit jumped 12% from a year earlier to $14.4 billion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• JPMorgan Chase and Goldman Sachs are unveiling plans to reimagine their businesses around AI",
-          "• The bank's managers have been told to avoid hiring people as JPMorgan deploys AI across its businesses, CFO Jeremy Barnum told analysts"
-        ],
-        "hopeful_bullets": [
-          "• JPMorgan Chase and Goldman Sachs are unveiling plans to reimagine their businesses around AI",
-          "• The bank's managers have been told to avoid hiring people as JPMorgan deploys AI across its businesses, CFO Jeremy Barnum told analysts"
-        ],
-        "stakes_bullets": [
-          "• JPMorgan Chase and Goldman Sachs are unveiling plans to reimagine their businesses around AI",
-          "• The bank's managers have been told to avoid hiring people as JPMorgan deploys AI across its businesses, CFO Jeremy Barnum told analysts",
-          "• JPMorgan said Tuesday in its third-quarter earnings report that while profit jumped 12% from a year earlier to $14.4 billion "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "68b6a2dcef40"
     },
     {
       "id": "b39bced2ab3e",
@@ -3105,26 +3105,28 @@
       "published_at": "Wed, 15 Oct 2025 08:00:00 -0400",
       "bullets": [
         "• A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts",
-        "• A major redistricting case is returning to the U.S",
-        "• Supreme Court on Wednesday",
-        "• If the ruling overturns the federal Voting Rights Act, Republicans could pick up at least 19 more congressional seats "
+        "• If the high court rules in Louisiana v",
+        "• Callais, some number of the seats could be redrawn prior to next year's midterm election",
+        "• The ruling could help Republicans pick up at least 19 more seats in the House of Representatives "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
           "• A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts",
-          "• A major redistricting case is returning to the U.S"
+          "• If the high court rules in Louisiana v"
         ],
         "hopeful_bullets": [
-          "• A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts"
+          "• A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts",
+          "• The ruling could help Republicans pick up at least 19 more seats in the House of Representatives "
         ],
         "stakes_bullets": [
           "• A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts",
-          "• If the ruling overturns the federal Voting Rights Act, Republicans could pick up at least 19 more congressional seats "
+          "• Callais, some number of the seats could be redrawn prior to next year's midterm election",
+          "• The ruling could help Republicans pick up at least 19 more seats in the House of Representatives "
         ]
       },
       "read_minutes": 5,
@@ -3850,39 +3852,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "48b988b920a3"
-    },
-    {
-      "id": "a0f8b67fb801",
-      "title": "Trump threatens to cut US aid to Argentina if Milei loses election",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/14/trump-threatens-to-cut-us-aid-to-argentina-if-milei-loses-election",
-      "published_at": "Tue, 14 Oct 2025 20:41:58 GMT",
-      "bullets": [
-        "• Donald Trump warns he could cut financial aid to Argentina if Javier Milei loses crucial legislative elections",
-        "• The US president has already promised $20bn to prop up Argentina’s struggling economy",
-        "• The results of the elections will dictate whether Milei can pass tough reforms or will face a legislative brick wall "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump warns he could cut financial aid to Argentina if Javier Milei loses crucial legislative elections",
-          "• The US president has already promised $20bn to prop up Argentina’s struggling economy"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump warns he could cut financial aid to Argentina if Javier Milei loses crucial legislative elections",
-          "• The US president has already promised $20bn to prop up Argentina’s struggling economy"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump warns he could cut financial aid to Argentina if Javier Milei loses crucial legislative elections",
-          "• The results of the elections will dictate whether Milei can pass tough reforms or will face a legislative brick wall "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "26239ddf66e3"
     },
     {
       "id": "5c3c106dae8a",
@@ -4955,36 +4924,133 @@
       "cluster_id": "f2f4f0a3b6b2"
     },
     {
+      "id": "8dfd5d128974",
+      "title": "Giving William Fichtner & Anne Rice Their Flowers | Talamasca Cast and Creators Interview",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/video/giving-william-fichtner-anne-rice-their-flowers-talamasca-cast-and-creators-interview/",
+      "published_at": "Thu, 16 Oct 2025 10:20:12 GMT",
+      "bullets": [
+        "• Grae Drake and Mark Johnson talk about their new show Talamasca",
+        "• Nicolas Denton says he will definitely find out why his character spends the season mad",
+        "• Mark Johnson shares why they were excited to use this particular world for its own show "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Grae Drake and Mark Johnson talk about their new show Talamasca",
+          "• Nicolas Denton says he will definitely find out why his character spends the season mad"
+        ],
+        "hopeful_bullets": [
+          "• Grae Drake and Mark Johnson talk about their new show Talamasca",
+          "• Nicolas Denton says he will definitely find out why his character spends the season mad"
+        ],
+        "stakes_bullets": [
+          "• Nicolas Denton says he will definitely find out why his character spends the season mad"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4d7581bb570d"
+    },
+    {
       "id": "49bafda61e48",
-      "title": "PayPal's crypto partner mints a whopping $300 trillion stablecoins in 'technical error'",
+      "title": "PayPal's crypto partner mints a whopping $300 trillion worth of stablecoins in 'technical error'",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/16/paypals-crypto-partner-mints-300-trillion-stablecoins-in-technical-error.html",
-      "published_at": "Thu, 16 Oct 2025 09:47:11 GMT",
+      "published_at": "Thu, 16 Oct 2025 10:10:21 GMT",
       "bullets": [
-        "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+        "• Paxos minted $300 trillion worth of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection on Etherscan, a block explorer and analytics platform for the Ethereum blockchain",
         "• The mistake was fixed after about 20 minutes, the company said "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+          "• Paxos minted $300 trillion worth of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection on Etherscan, a block explorer and analytics platform for the Ethereum blockchain",
           "• The mistake was fixed after about 20 minutes, the company said "
         ],
         "hopeful_bullets": [
-          "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+          "• Paxos minted $300 trillion worth of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection on Etherscan, a block explorer and analytics platform for the Ethereum blockchain",
           "• The mistake was fixed after about 20 minutes, the company said "
         ],
         "stakes_bullets": [
-          "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+          "• Paxos minted $300 trillion worth of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection on Etherscan, a block explorer and analytics platform for the Ethereum blockchain",
           "• The mistake was fixed after about 20 minutes, the company said "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "b726de630d66"
+    },
+    {
+      "id": "f4ce5fe083a3",
+      "title": "‘Inherently cruel’: Canadian parents say citizenship bill erodes rights of children adopted abroad",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/16/canada-citizenship-bill-children-adopted-abroad",
+      "published_at": "Thu, 16 Oct 2025 10:00:04 GMT",
+      "bullets": [
+        "• Canadian parents of children adopted abroad say a proposed citizenship bill represents a ‘shocking and unconscionable’ erosion of their children’s rights",
+        "• The government is in the midst of overhauling the Citizenship Act so Canadians born abroad can pass citizenship to further generations born abroad "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Canadian parents of children adopted abroad say a proposed citizenship bill represents a ‘shocking and unconscionable’ erosion of their children’s rights",
+          "• The government is in the midst of overhauling the Citizenship Act so Canadians born abroad can pass citizenship to further generations born abroad "
+        ],
+        "hopeful_bullets": [
+          "• Canadian parents of children adopted abroad say a proposed citizenship bill represents a ‘shocking and unconscionable’ erosion of their children’s rights",
+          "• The government is in the midst of overhauling the Citizenship Act so Canadians born abroad can pass citizenship to further generations born abroad "
+        ],
+        "stakes_bullets": [
+          "• Canadian parents of children adopted abroad say a proposed citizenship bill represents a ‘shocking and unconscionable’ erosion of their children’s rights"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "db7986678c4d"
+    },
+    {
+      "id": "927f087209fd",
+      "title": "Ex-Catholic priest exploited family deaths to abuse disabled boy, police allege",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/16/new-orleans-priest-police-sexual-abuse-arrest",
+      "published_at": "Thu, 16 Oct 2025 10:00:04 GMT",
+      "bullets": [
+        "• New Orleans priest arrested in connection with child sex abuse allegations",
+        "• He is the latest man to be held without bail in the city's long-running scandal",
+        "• The city has agreed to pay at least $230m to the victims of the alleged abuse "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.926
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New Orleans priest arrested in connection with child sex abuse allegations",
+          "• He is the latest man to be held without bail in the city's long-running scandal"
+        ],
+        "hopeful_bullets": [
+          "• New Orleans priest arrested in connection with child sex abuse allegations",
+          "• He is the latest man to be held without bail in the city's long-running scandal"
+        ],
+        "stakes_bullets": [
+          "• New Orleans priest arrested in connection with child sex abuse allegations",
+          "• He is the latest man to be held without bail in the city's long-running scandal",
+          "• The city has agreed to pay at least $230m to the victims of the alleged abuse "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "cd15d503f4c0"
     },
     {
       "id": "919bfbfb862c",
@@ -5906,40 +5972,6 @@
       "cluster_id": "23eb5ca98a1f"
     },
     {
-      "id": "6db6d80f148e",
-      "title": "Ranma 1/2 Returns as a Top 10 Netflix Series Despite Controversial History",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/netflix-top-10-october-12-ranma/",
-      "published_at": "Thu, 16 Oct 2025 03:53:33 GMT",
-      "bullets": [
-        "• 2024 saw the return of one of author Rumiko Takahashi's works, the popular martial arts comedy Ranma 1/2",
-        "• Now fans are getting even more in the Fall 2025 anime season",
-        "• The series is an indirect exploration of genderqueer identities in new-gen anime "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 2024 saw the return of one of author Rumiko Takahashi's works, the popular martial arts comedy Ranma 1/2",
-          "• Now fans are getting even more in the Fall 2025 anime season"
-        ],
-        "hopeful_bullets": [
-          "• 2024 saw the return of one of author Rumiko Takahashi's works, the popular martial arts comedy Ranma 1/2",
-          "• Now fans are getting even more in the Fall 2025 anime season"
-        ],
-        "stakes_bullets": [
-          "• 2024 saw the return of one of author Rumiko Takahashi's works, the popular martial arts comedy Ranma 1/2",
-          "• Now fans are getting even more in the Fall 2025 anime season",
-          "• The series is an indirect exploration of genderqueer identities in new-gen anime "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "a3ff3c66beee"
-    },
-    {
       "id": "c6ca11e77711",
       "title": "Forged in fire: The 900°C heat that built Earth’s stable continents",
       "outlet": "All Top News -- ScienceDaily",
@@ -6072,42 +6104,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a07c4044fed0"
-    },
-    {
-      "id": "4e47479ca5b7",
-      "title": "Judge blocks Trump from firing federal workers during government shutdown for now",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/judge-trump-jobs-government-shutdown.html",
-      "published_at": "Thu, 16 Oct 2025 02:26:47 GMT",
-      "bullets": [
-        "• U.S",
-        "• District Court issues temporary order to stop federal workers from firing",
-        "• The order comes five days after more than 4,000 federal workers were fired",
-        "• Judge: \"You can't do this in a nation of laws",
-        "• And we have laws here\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• District Court issues temporary order to stop federal workers from firing"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• District Court issues temporary order to stop federal workers from firing"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• District Court issues temporary order to stop federal workers from firing",
-          "• The order comes five days after more than 4,000 federal workers were fired"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ef25c33ab5c5"
     },
     {
       "id": "334bc08cfbd8",
@@ -8289,6 +8285,38 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "382dbcef343e",
+      "title": "Steve Jobs will appear on commemorative $1 coin",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/800548/steve-jobs-commemorative-dollar-coin-us-mint",
+      "published_at": "2025-10-16T06:06:18-04:00",
+      "bullets": [
+        "• The US Mint has revealed the design for a commemorative $1 coin honoring Steve Jobs",
+        "• It will cost $13.25 from the Mint website but you'll have to wait until 2026 to get one",
+        "• The coin is part of a yearslong project paying tribute to American innovation that started in 2018 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The US Mint has revealed the design for a commemorative $1 coin honoring Steve Jobs",
+          "• It will cost $13.25 from the Mint website but you'll have to wait until 2026 to get one"
+        ],
+        "hopeful_bullets": [
+          "• The US Mint has revealed the design for a commemorative $1 coin honoring Steve Jobs",
+          "• It will cost $13.25 from the Mint website but you'll have to wait until 2026 to get one"
+        ],
+        "stakes_bullets": [
+          "• It will cost $13.25 from the Mint website but you'll have to wait until 2026 to get one"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6bad1a182bd5"
+    },
+    {
       "id": "821dd215c66b",
       "title": "Microsoft is reportedly moving its Surface manufacturing out of China",
       "outlet": "The Verge",
@@ -8585,37 +8613,6 @@
       },
       "read_minutes": 13,
       "cluster_id": "7d1aa299f0cf"
-    },
-    {
-      "id": "a19c19a696c5",
-      "title": "I just reviewed the Xbox Ally, ask me anything",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything",
-      "published_at": "2025-10-15T14:22:44-04:00",
-      "bullets": [
-        "• The Verge will host a live Q&A show on Thursday October 16th at 9am PT / 12pm ET to answer questions about the Xbox Ally and Xbox Ally X",
-        "• You can start asking your questions in the comments right now in this post, and if you have a question, please send it in "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Verge will host a live Q&A show on Thursday October 16th at 9am PT / 12pm ET to answer questions about the Xbox Ally and Xbox Ally X",
-          "• You can start asking your questions in the comments right now in this post, and if you have a question, please send it in "
-        ],
-        "hopeful_bullets": [
-          "• The Verge will host a live Q&A show on Thursday October 16th at 9am PT / 12pm ET to answer questions about the Xbox Ally and Xbox Ally X",
-          "• You can start asking your questions in the comments right now in this post, and if you have a question, please send it in "
-        ],
-        "stakes_bullets": [
-          "• The Verge will host a live Q&A show on Thursday October 16th at 9am PT / 12pm ET to answer questions about the Xbox Ally and Xbox Ally X"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "23fd71421a5b"
     },
     {
       "id": "c41ff758b36a",
@@ -9281,6 +9278,24 @@
       ]
     },
     {
+      "id": "db7986678c4d",
+      "topic": "canadian citizenship cruel inherently",
+      "keywords": [
+        "canadian",
+        "citizenship",
+        "cruel",
+        "inherently",
+        "parent",
+        "say"
+      ],
+      "item_ids": [
+        "f4ce5fe083a3"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "64e6e6f9ea05",
       "topic": "authorized cia covert operation",
       "keywords": [
@@ -9353,21 +9368,21 @@
       ]
     },
     {
-      "id": "26239ddf66e3",
-      "topic": "aid argentina cut milei",
+      "id": "cd15d503f4c0",
+      "topic": "abuse catholic death exploited",
       "keywords": [
-        "aid",
-        "argentina",
-        "cut",
-        "milei",
-        "threaten",
-        "trump"
+        "abuse",
+        "catholic",
+        "death",
+        "exploited",
+        "family",
+        "priest"
       ],
       "item_ids": [
-        "a0f8b67fb801"
+        "927f087209fd"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
       ]
     },
     {
@@ -9509,24 +9524,6 @@
       ],
       "item_ids": [
         "8fa74003d332"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "3e6b3d5ae313",
-      "topic": "capitol flag investigating police",
-      "keywords": [
-        "capitol",
-        "flag",
-        "investigating",
-        "police",
-        "republican",
-        "swastika"
-      ],
-      "item_ids": [
-        "fc167c41d49a"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9820,18 +9817,18 @@
       ]
     },
     {
-      "id": "34ed3eb7c509",
-      "topic": "airline earning outlook profit",
+      "id": "2fb6bee827ea",
+      "topic": "bill end funding reject",
       "keywords": [
-        "airline",
-        "earning",
-        "outlook",
-        "profit",
-        "summer",
-        "united"
+        "bill",
+        "end",
+        "funding",
+        "reject",
+        "senate",
+        "sight"
       ],
       "item_ids": [
-        "495a9a500537"
+        "1af6dd3af64d"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9856,36 +9853,36 @@
       ]
     },
     {
-      "id": "68b6a2dcef40",
-      "topic": "bank big chase goldman",
+      "id": "97750bf1675f",
+      "topic": "company jump offer rosy",
       "keywords": [
-        "bank",
-        "big",
-        "chase",
-        "goldman",
-        "jpmorgan",
-        "like"
+        "company",
+        "jump",
+        "offer",
+        "rosy",
+        "salesforce",
+        "stock"
       ],
       "item_ids": [
-        "46bb2e851b76"
+        "2b380b944339"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "ef25c33ab5c5",
-      "topic": "block federal firing judge",
+      "id": "0c5e23be4dea",
+      "topic": "altman isn moral openai",
       "keywords": [
-        "block",
-        "federal",
-        "firing",
-        "judge",
-        "trump",
-        "worker"
+        "altman",
+        "isn",
+        "moral",
+        "openai",
+        "police",
+        "sam"
       ],
       "item_ids": [
-        "4e47479ca5b7"
+        "86b45423eadc"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10088,6 +10085,23 @@
       ]
     },
     {
+      "id": "6bad1a182bd5",
+      "topic": "appear coin commemorative jobs",
+      "keywords": [
+        "appear",
+        "coin",
+        "commemorative",
+        "jobs",
+        "steve"
+      ],
+      "item_ids": [
+        "382dbcef343e"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "a14b07a671c6",
       "topic": "manufacturing microsoft moving out",
       "keywords": [
@@ -10241,24 +10255,6 @@
       ],
       "item_ids": [
         "878795b4df78"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "23fd71421a5b",
-      "topic": "ally anything ask just",
-      "keywords": [
-        "ally",
-        "anything",
-        "ask",
-        "just",
-        "reviewed",
-        "xbox"
-      ],
-      "item_ids": [
-        "a19c19a696c5"
       ],
       "outlets": [
         "The Verge"
@@ -13029,6 +13025,24 @@
       ]
     },
     {
+      "id": "4d7581bb570d",
+      "topic": "anne fichtner flower giving",
+      "keywords": [
+        "anne",
+        "fichtner",
+        "flower",
+        "giving",
+        "rice",
+        "william"
+      ],
+      "item_ids": [
+        "8dfd5d128974"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3f12c8c8adae",
       "topic": "star strange talk trek",
       "keywords": [
@@ -13149,24 +13163,6 @@
       ],
       "item_ids": [
         "6cf42a29fe9e"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "a3ff3c66beee",
-      "topic": "despite netflix ranma return",
-      "keywords": [
-        "despite",
-        "netflix",
-        "ranma",
-        "return",
-        "serie",
-        "top"
-      ],
-      "item_ids": [
-        "6db6d80f148e"
       ],
       "outlets": [
         "CBR"
