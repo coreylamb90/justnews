@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T04:25:58Z",
+  "generated_at": "2025-10-16T05:01:40Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2773,38 +2773,6 @@
       "cluster_id": "398284c7af74"
     },
     {
-      "id": "4f5319424eb2",
-      "title": "Argentina: La reina de la bailanta",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/the-picture-show/2025/10/15/g-s1-93275/argentina-la-reina-de-la-bailanta",
-      "published_at": "Wed, 15 Oct 2025 15:00:00 -0400",
-      "bullets": [
-        "• Reportaje visual en seis países documentado durante varios años",
-        "• La Universidad de Buenos Aires recibía a migrantes extranjeros that podían estudiar gratuitamentamentamente",
-        "• Así se fue poblando el conurbano bonaerense, una especie de zona intermedia entre Ciudad de Aires y the rest of Argentina "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.86
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Reportaje visual en seis países documentado durante varios años",
-          "• La Universidad de Buenos Aires recibía a migrantes extranjeros that podían estudiar gratuitamentamentamente"
-        ],
-        "hopeful_bullets": [
-          "• Reportaje visual en seis países documentado durante varios años",
-          "• La Universidad de Buenos Aires recibía a migrantes extranjeros that podían estudiar gratuitamentamentamente"
-        ],
-        "stakes_bullets": [
-          "• Así se fue poblando el conurbano bonaerense, una especie de zona intermedia entre Ciudad de Aires y the rest of Argentina "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d91a732a2438"
-    },
-    {
       "id": "0e467045f24a",
       "title": "Argentina: The queen of bailanta",
       "outlet": "NPR Topics: News",
@@ -2837,6 +2805,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "897c1f708fcd"
+    },
+    {
+      "id": "4f5319424eb2",
+      "title": "Argentina: La reina de la bailanta",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2025/10/15/g-s1-93275/argentina-la-reina-de-la-bailanta",
+      "published_at": "Wed, 15 Oct 2025 15:00:00 -0400",
+      "bullets": [
+        "• Reportaje visual en seis países documentado durante varios años",
+        "• La Universidad de Buenos Aires recibía a migrantes extranjeros that podían estudiar gratuitamentamentamente",
+        "• Así se fue poblando el conurbano bonaerense, una especie de zona intermedia entre Ciudad de Aires y the rest of Argentina "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.86
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Reportaje visual en seis países documentado durante varios años",
+          "• La Universidad de Buenos Aires recibía a migrantes extranjeros that podían estudiar gratuitamentamentamente"
+        ],
+        "hopeful_bullets": [
+          "• Reportaje visual en seis países documentado durante varios años",
+          "• La Universidad de Buenos Aires recibía a migrantes extranjeros that podían estudiar gratuitamentamentamente"
+        ],
+        "stakes_bullets": [
+          "• Así se fue poblando el conurbano bonaerense, una especie de zona intermedia entre Ciudad de Aires y the rest of Argentina "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d91a732a2438"
     },
     {
       "id": "1f094582f694",
@@ -5705,6 +5705,41 @@
       "cluster_id": "f2f4f0a3b6b2"
     },
     {
+      "id": "d252519c5d37",
+      "title": "South Korea's Kospi hits record high on trade deal optimism, IMF growth forecast upgrade",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/asia-pacific-markets-thursday-nikkei-225-asx-hang-seng-index-tsmc.html",
+      "published_at": "Thu, 16 Oct 2025 04:04:34 GMT",
+      "bullets": [
+        "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
+        "• Shares of Samsung Electronics rose 2.32% to an all-time high, while Hyundai Motor added around 8%",
+        "• South Korean stocks also received a boost after U.S",
+        "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
+          "• Shares of Samsung Electronics rose 2.32% to an all-time high, while Hyundai Motor added around 8%"
+        ],
+        "hopeful_bullets": [
+          "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
+          "• South Korean stocks also received a boost after U.S"
+        ],
+        "stakes_bullets": [
+          "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
+          "• Shares of Samsung Electronics rose 2.32% to an all-time high, while Hyundai Motor added around 8%",
+          "• South Korean stocks also received a boost after U.S"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d7d4a0c16066"
+    },
+    {
       "id": "21e8310a1cb9",
       "title": "Star Trek Writer Explains What's Different About Their Replacement Captain Kirk, And It's Genius/Insane",
       "outlet": "CBR",
@@ -5803,41 +5838,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "a3ff3c66beee"
-    },
-    {
-      "id": "d252519c5d37",
-      "title": "South Korea's Kospi hits record high on trade deal optimism, IMF growth forecast upgrade",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/asia-pacific-markets-thursday-nikkei-225-asx-hang-seng-index-tsmc.html",
-      "published_at": "Thu, 16 Oct 2025 03:47:26 GMT",
-      "bullets": [
-        "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
-        "• Shares of Samsung Electronics rose 2.32% to an all-time high, while Hyundai Motor added around 8%",
-        "• South Korean stocks also received a boost after U.S",
-        "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
-          "• Shares of Samsung Electronics rose 2.32% to an all-time high, while Hyundai Motor added around 8%"
-        ],
-        "hopeful_bullets": [
-          "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
-          "• South Korean stocks also received a boost after U.S"
-        ],
-        "stakes_bullets": [
-          "• South Korea's Kospi index hit a record high Thursday, after the IMF raised the country's 2025 growth forecast",
-          "• Shares of Samsung Electronics rose 2.32% to an all-time high, while Hyundai Motor added around 8%",
-          "• South Korean stocks also received a boost after U.S"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d7d4a0c16066"
     },
     {
       "id": "35068ddf1651",
@@ -6070,37 +6070,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ac1c39805e56"
-    },
-    {
-      "id": "bcfa18b15339",
-      "title": "Absolute Catwoman's Debut Wasn't the Most Shocking Debut in Absolute Batman #13",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/absolute-batman-13-review-catwoman-harley-quinn-debut/",
-      "published_at": "Thu, 16 Oct 2025 02:52:55 GMT",
-      "bullets": [
-        "• Absolute Batman #13 is from writer Scott Snyder, artist Nick Dragotta, colorist Frank Martin, and letterer Clayton Cowles",
-        "• It prepares for the final confrontation between Batman and Bane, with the introduction of Catwoman thrown into the mix "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Absolute Batman #13 is from writer Scott Snyder, artist Nick Dragotta, colorist Frank Martin, and letterer Clayton Cowles",
-          "• It prepares for the final confrontation between Batman and Bane, with the introduction of Catwoman thrown into the mix "
-        ],
-        "hopeful_bullets": [
-          "• Absolute Batman #13 is from writer Scott Snyder, artist Nick Dragotta, colorist Frank Martin, and letterer Clayton Cowles",
-          "• It prepares for the final confrontation between Batman and Bane, with the introduction of Catwoman thrown into the mix "
-        ],
-        "stakes_bullets": [
-          "• It prepares for the final confrontation between Batman and Bane, with the introduction of Catwoman thrown into the mix "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "86e470556280"
     },
     {
       "id": "da4e19a2cba6",
@@ -9657,21 +9626,6 @@
       ]
     },
     {
-      "id": "d91a732a2438",
-      "topic": "argentina bailanta reina",
-      "keywords": [
-        "argentina",
-        "bailanta",
-        "reina"
-      ],
-      "item_ids": [
-        "4f5319424eb2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "897c1f708fcd",
       "topic": "argentina bailanta queen",
       "keywords": [
@@ -9681,6 +9635,21 @@
       ],
       "item_ids": [
         "0e467045f24a"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "d91a732a2438",
+      "topic": "argentina bailanta reina",
+      "keywords": [
+        "argentina",
+        "bailanta",
+        "reina"
+      ],
+      "item_ids": [
+        "4f5319424eb2"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9831,24 +9800,6 @@
       ]
     },
     {
-      "id": "d7d4a0c16066",
-      "topic": "high hits korea kospi",
-      "keywords": [
-        "high",
-        "hits",
-        "korea",
-        "kospi",
-        "record",
-        "south"
-      ],
-      "item_ids": [
-        "d252519c5d37"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "ac1c39805e56",
       "topic": "assured him india modi",
       "keywords": [
@@ -9861,6 +9812,24 @@
       ],
       "item_ids": [
         "c1dd21a923d1"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "d7d4a0c16066",
+      "topic": "high hits korea kospi",
+      "keywords": [
+        "high",
+        "hits",
+        "korea",
+        "kospi",
+        "record",
+        "south"
+      ],
+      "item_ids": [
+        "d252519c5d37"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13233,24 +13202,6 @@
       ],
       "item_ids": [
         "930941ca803b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "86e470556280",
-      "topic": "absolute catwoman debut most",
-      "keywords": [
-        "absolute",
-        "catwoman",
-        "debut",
-        "most",
-        "shocking",
-        "wasn"
-      ],
-      "item_ids": [
-        "bcfa18b15339"
       ],
       "outlets": [
         "CBR"
