@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T10:00:55Z",
+  "generated_at": "2025-10-16T10:17:35Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -163,38 +163,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "556792856851"
-    },
-    {
-      "id": "2b380b944339",
-      "title": "Salesforce stock jumps after company offers rosy forecast for 2030",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/salesforce-stock-jumps-after-company-offers-rosy-forecast-for-2030.html",
-      "published_at": "Wed, 15 Oct 2025 23:03:28 GMT",
-      "bullets": [
-        "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
-        "• The software giant issued new financial targets for the next few years",
-        "• It now expects revenue of over $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
-          "• The software giant issued new financial targets for the next few years"
-        ],
-        "hopeful_bullets": [
-          "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
-          "• The software giant issued new financial targets for the next few years"
-        ],
-        "stakes_bullets": [
-          "• It now expects revenue of over $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "97750bf1675f"
     },
     {
       "id": "be4ec59c4fd0",
@@ -929,6 +897,39 @@
       },
       "read_minutes": 6,
       "cluster_id": "3afc25d18277"
+    },
+    {
+      "id": "495a9a500537",
+      "title": "United Airlines' summer earnings and profit outlook top estimates, but revenue falls short",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/united-airlines-ual-3q-2025-earnings.html",
+      "published_at": "Wed, 15 Oct 2025 20:14:52 GMT",
+      "bullets": [
+        "• United Airlines expects to earn between $3 and $3.50 a share for the fourth quarter",
+        "• The airline increased capacity 7% in the third quarter over last year",
+        "• Unit passenger revenue for the three months ended Sept",
+        "• 30 fell 3.3% for domestic travel and 7.1% for international "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• United Airlines expects to earn between $3 and $3.50 a share for the fourth quarter",
+          "• The airline increased capacity 7% in the third quarter over last year"
+        ],
+        "hopeful_bullets": [
+          "• United Airlines expects to earn between $3 and $3.50 a share for the fourth quarter",
+          "• The airline increased capacity 7% in the third quarter over last year"
+        ],
+        "stakes_bullets": [
+          "• The airline increased capacity 7% in the third quarter over last year"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "34ed3eb7c509"
     },
     {
       "id": "92a94245934d",
@@ -1691,6 +1692,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "a32711225eeb"
+    },
+    {
+      "id": "d5251840c3c4",
+      "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
+      "published_at": "Wed, 15 Oct 2025 17:50:54 GMT",
+      "bullets": [
+        "• The U.S",
+        "• Department of Education has stopped the relief under several programs",
+        "• The only plan that currently qualifies for debt cancellation after a certain period is the Income-Based Repayment plan",
+        "• The Education Department did not respond to a request for comment "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• Department of Education has stopped the relief under several programs"
+        ],
+        "hopeful_bullets": [
+          "• Department of Education has stopped the relief under several programs"
+        ],
+        "stakes_bullets": [
+          "• The only plan that currently qualifies for debt cancellation after a certain period is the Income-Based Repayment plan"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9c97047967ae"
     },
     {
       "id": "f9e5c0c11a4f",
@@ -4922,11 +4955,77 @@
       "cluster_id": "f2f4f0a3b6b2"
     },
     {
+      "id": "49bafda61e48",
+      "title": "PayPal's crypto partner mints a whopping $300 trillion stablecoins in 'technical error'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/paypals-crypto-partner-mints-300-trillion-stablecoins-in-technical-error.html",
+      "published_at": "Thu, 16 Oct 2025 09:47:11 GMT",
+      "bullets": [
+        "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+        "• The mistake was fixed after about 20 minutes, the company said "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+          "• The mistake was fixed after about 20 minutes, the company said "
+        ],
+        "hopeful_bullets": [
+          "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+          "• The mistake was fixed after about 20 minutes, the company said "
+        ],
+        "stakes_bullets": [
+          "• Paxos mistakenly minted $300 trillion of PayPal's PYUSD stablecoin in a \"technical error\" Market watchers spotted the enormous injection of the stablecoin on Etherscan",
+          "• The mistake was fixed after about 20 minutes, the company said "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b726de630d66"
+    },
+    {
+      "id": "919bfbfb862c",
+      "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
+      "published_at": "Thu, 16 Oct 2025 09:44:37 GMT",
+      "bullets": [
+        "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+        "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates",
+        "• CEO C.C",
+        "• Wei: \"Recent developments in AI market continue to be very positive\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
+        ],
+        "hopeful_bullets": [
+          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
+        ],
+        "stakes_bullets": [
+          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
+          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9ae9ea0b4ca7"
+    },
+    {
       "id": "d68912df3d71",
       "title": "Titan submersible imploded due to poor engineering, say US officials",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 16 Oct 2025 09:28:05 GMT",
+      "published_at": "Thu, 16 Oct 2025 09:43:48 GMT",
       "bullets": [
         "• US National Transportation Safety Board (NTSB) found the engineering process behind the vehicle was \"inadequate\" The NTSB said because the firm did not adequately test the vessel it did not know its strength",
         "• It was also unaware it was damaged and should have been removed from service before its last voyage "
@@ -4951,6 +5050,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "7ead3681f4ad"
+    },
+    {
+      "id": "d390029134d8",
+      "title": "Flights halted at Kenyan airport as thousands turn out to receive Odinga's body",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 16 Oct 2025 09:37:58 GMT",
+      "bullets": [
+        "• Thousands of mourners turn out to receive the body of former Prime Minister Raila Odinga",
+        "• Security at Jomo Kenyatta International Airport in Nairobi, Kenya, has been stepped down",
+        "• The 80-year-old died after suffering a cardiac arrest in India on Wednesday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Thousands of mourners turn out to receive the body of former Prime Minister Raila Odinga",
+          "• Security at Jomo Kenyatta International Airport in Nairobi, Kenya, has been stepped down"
+        ],
+        "hopeful_bullets": [
+          "• Thousands of mourners turn out to receive the body of former Prime Minister Raila Odinga",
+          "• Security at Jomo Kenyatta International Airport in Nairobi, Kenya, has been stepped down"
+        ],
+        "stakes_bullets": [
+          "• Thousands of mourners turn out to receive the body of former Prime Minister Raila Odinga",
+          "• Security at Jomo Kenyatta International Airport in Nairobi, Kenya, has been stepped down",
+          "• The 80-year-old died after suffering a cardiac arrest in India on Wednesday "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b2b18d5bd21f"
     },
     {
       "id": "98af2c27824c",
@@ -5152,40 +5285,6 @@
       "cluster_id": "83db72993889"
     },
     {
-      "id": "919bfbfb862c",
-      "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
-      "published_at": "Thu, 16 Oct 2025 07:38:02 GMT",
-      "bullets": [
-        "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-        "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates",
-        "• CEO C.C",
-        "• Wei: \"Recent developments in AI market continue to be very positive\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
-        ],
-        "hopeful_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
-        ],
-        "stakes_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit from last year",
-          "• Revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9ae9ea0b4ca7"
-    },
-    {
       "id": "798cbee2ea4f",
       "title": "Proposed UK cuts to global aid fund could lead to 300,000 preventable deaths, say charities",
       "outlet": "US news | The Guardian",
@@ -5313,40 +5412,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "74ecdd3d1c5f"
-    },
-    {
-      "id": "51cf3423be40",
-      "title": "India's exports to US plunge as Trump's 50% tariffs bite",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70jw0nylrgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 16 Oct 2025 06:10:02 GMT",
-      "bullets": [
-        "• September was the first full month of Washington's 50% tariffs on Indian goods",
-        "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia",
-        "• Textiles, gems and jewellery, and engineering goods, have suffered the heaviest losses "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• September was the first full month of Washington's 50% tariffs on Indian goods",
-          "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia"
-        ],
-        "hopeful_bullets": [
-          "• September was the first full month of Washington's 50% tariffs on Indian goods",
-          "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia"
-        ],
-        "stakes_bullets": [
-          "• September was the first full month of Washington's 50% tariffs on Indian goods",
-          "• This includes a 25% penalty for Delhi's refusal to stop buying oil from Russia",
-          "• Textiles, gems and jewellery, and engineering goods, have suffered the heaviest losses "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "095d7f31d97e"
     },
     {
       "id": "65b902bd962f",
@@ -5479,74 +5544,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f6aaa8a99b01"
-    },
-    {
-      "id": "2b26eb3624a7",
-      "title": "Flyers once viewed airport biometrics with fear and skepticism. Now they prefer it",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/biometric-processing-at-airports-is-preferred-despite-concerns.html",
-      "published_at": "Thu, 16 Oct 2025 05:27:23 GMT",
-      "bullets": [
-        "• The number of people who haven't used biometric technology at airports dropped to 31% this year from 41% in 2024, report says",
-        "• Adoption rates are highest in airports in Asia-Pacific and the Middle East/Africa",
-        "• The report surveyed 7,500 passengers in 25 countries "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The number of people who haven't used biometric technology at airports dropped to 31% this year from 41% in 2024, report says",
-          "• Adoption rates are highest in airports in Asia-Pacific and the Middle East/Africa"
-        ],
-        "hopeful_bullets": [
-          "• The number of people who haven't used biometric technology at airports dropped to 31% this year from 41% in 2024, report says",
-          "• Adoption rates are highest in airports in Asia-Pacific and the Middle East/Africa"
-        ],
-        "stakes_bullets": [
-          "• The number of people who haven't used biometric technology at airports dropped to 31% this year from 41% in 2024, report says",
-          "• Adoption rates are highest in airports in Asia-Pacific and the Middle East/Africa",
-          "• The report surveyed 7,500 passengers in 25 countries "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8ef73e27a750"
-    },
-    {
-      "id": "46e134ecff9a",
-      "title": "FCC moves to expel one of Hong Kong’s largest telco companies from U.S. networks",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/us-block-hong-kong-hkt-from-networks-china-risk-tech-telco-pccw-china-unicom-richard-li-ka-shing.html",
-      "published_at": "Thu, 16 Oct 2025 05:18:09 GMT",
-      "bullets": [
-        "• Hong Kong-listed shares of HKT fell more than 5% in Thursday trading",
-        "• HKT's current hold permits allowing direct exchange of calls and data with U.S",
-        "• carriers",
-        "• China Unicom, which owns about 18.4% of PCCW, lost its own network access in 2022 due to similar concerns "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hong Kong-listed shares of HKT fell more than 5% in Thursday trading",
-          "• HKT's current hold permits allowing direct exchange of calls and data with U.S"
-        ],
-        "hopeful_bullets": [
-          "• HKT's current hold permits allowing direct exchange of calls and data with U.S"
-        ],
-        "stakes_bullets": [
-          "• Hong Kong-listed shares of HKT fell more than 5% in Thursday trading",
-          "• HKT's current hold permits allowing direct exchange of calls and data with U.S",
-          "• carriers"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d2f6bfbdca0d"
     },
     {
       "id": "200d2ee4355a",
@@ -6316,25 +6313,25 @@
       "url": "https://www.rollingstone.com/music/music-news/britney-spears-kevin-federline-memoir-response-1235448283/",
       "published_at": "Thu, 16 Oct 2025 01:32:54 +0000",
       "bullets": [
-        "• Britney Spears fires back at Kevin Federline’s memoir, You Thought You Know",
-        "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” Spears said that she “will always let them know when I am available”"
+        "• Britney Spears fires back at ex-husband Kevin Federline's tell-all memoir",
+        "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” The singer also addressed Federline’s allegations in his memoir "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• Britney Spears fires back at Kevin Federline’s memoir, You Thought You Know",
-          "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” Spears said that she “will always let them know when I am available”"
+          "• Britney Spears fires back at ex-husband Kevin Federline's tell-all memoir",
+          "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” The singer also addressed Federline’s allegations in his memoir "
         ],
         "hopeful_bullets": [
-          "• Britney Spears fires back at Kevin Federline’s memoir, You Thought You Know",
-          "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” Spears said that she “will always let them know when I am available”"
+          "• Britney Spears fires back at ex-husband Kevin Federline's tell-all memoir",
+          "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” The singer also addressed Federline’s allegations in his memoir "
         ],
         "stakes_bullets": [
-          "• Spears accused Federline of “constant gaslighting” that has become “extremely hurtful and exhausting” Spears said that she “will always let them know when I am available”"
+          "• Britney Spears fires back at ex-husband Kevin Federline's tell-all memoir"
         ]
       },
       "read_minutes": 2,
@@ -9104,6 +9101,24 @@
       ]
     },
     {
+      "id": "b2b18d5bd21f",
+      "topic": "airport flight halted kenyan",
+      "keywords": [
+        "airport",
+        "flight",
+        "halted",
+        "kenyan",
+        "thousand",
+        "turn"
+      ],
+      "item_ids": [
+        "d390029134d8"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "957ba9cf4030",
       "topic": "arc china official sack",
       "keywords": [
@@ -9170,24 +9185,6 @@
       ],
       "item_ids": [
         "e9e8a7ed0981"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "095d7f31d97e",
-      "topic": "bite export india plunge",
-      "keywords": [
-        "bite",
-        "export",
-        "india",
-        "plunge",
-        "tariff",
-        "trump"
-      ],
-      "item_ids": [
-        "51cf3423be40"
       ],
       "outlets": [
         "BBC News"
@@ -9751,24 +9748,6 @@
       ]
     },
     {
-      "id": "f03eb42cf8bb",
-      "topic": "consumer feeling higher price",
-      "keywords": [
-        "consumer",
-        "feeling",
-        "higher",
-        "price",
-        "pushing",
-        "tariff"
-      ],
-      "item_ids": [
-        "bfdac49720f5"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "4a9aa9fe3765",
       "topic": "announce consumer giant good",
       "keywords": [
@@ -9787,36 +9766,36 @@
       ]
     },
     {
-      "id": "ef25c33ab5c5",
-      "topic": "block federal firing judge",
+      "id": "b726de630d66",
+      "topic": "300 crypto mint partner",
       "keywords": [
-        "block",
-        "federal",
-        "firing",
-        "judge",
-        "trump",
-        "worker"
+        "300",
+        "crypto",
+        "mint",
+        "partner",
+        "paypal",
+        "whopping"
       ],
       "item_ids": [
-        "4e47479ca5b7"
+        "49bafda61e48"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "97750bf1675f",
-      "topic": "company jump offer rosy",
+      "id": "f03eb42cf8bb",
+      "topic": "consumer feeling higher price",
       "keywords": [
-        "company",
-        "jump",
-        "offer",
-        "rosy",
-        "salesforce",
-        "stock"
+        "consumer",
+        "feeling",
+        "higher",
+        "price",
+        "pushing",
+        "tariff"
       ],
       "item_ids": [
-        "2b380b944339"
+        "bfdac49720f5"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9841,54 +9820,18 @@
       ]
     },
     {
-      "id": "68b6a2dcef40",
-      "topic": "bank big chase goldman",
+      "id": "34ed3eb7c509",
+      "topic": "airline earning outlook profit",
       "keywords": [
-        "bank",
-        "big",
-        "chase",
-        "goldman",
-        "jpmorgan",
-        "like"
+        "airline",
+        "earning",
+        "outlook",
+        "profit",
+        "summer",
+        "united"
       ],
       "item_ids": [
-        "46bb2e851b76"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "d2f6bfbdca0d",
-      "topic": "expel fcc hong kong",
-      "keywords": [
-        "expel",
-        "fcc",
-        "hong",
-        "kong",
-        "largest",
-        "move"
-      ],
-      "item_ids": [
-        "46e134ecff9a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "8ef73e27a750",
-      "topic": "airport biometric fear flyer",
-      "keywords": [
-        "airport",
-        "biometric",
-        "fear",
-        "flyer",
-        "once",
-        "viewed"
-      ],
-      "item_ids": [
-        "2b26eb3624a7"
+        "495a9a500537"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9907,6 +9850,60 @@
       ],
       "item_ids": [
         "fb41c72173f6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "68b6a2dcef40",
+      "topic": "bank big chase goldman",
+      "keywords": [
+        "bank",
+        "big",
+        "chase",
+        "goldman",
+        "jpmorgan",
+        "like"
+      ],
+      "item_ids": [
+        "46bb2e851b76"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ef25c33ab5c5",
+      "topic": "block federal firing judge",
+      "keywords": [
+        "block",
+        "federal",
+        "firing",
+        "judge",
+        "trump",
+        "worker"
+      ],
+      "item_ids": [
+        "4e47479ca5b7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9c97047967ae",
+      "topic": "administration here qualifie round",
+      "keywords": [
+        "administration",
+        "here",
+        "qualifie",
+        "round",
+        "student",
+        "trump"
+      ],
+      "item_ids": [
+        "d5251840c3c4"
       ],
       "outlets": [
         "US Top News and Analysis"
