@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T05:57:28Z",
+  "generated_at": "2025-10-16T06:14:14Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -196,38 +196,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "556792856851"
-    },
-    {
-      "id": "2b380b944339",
-      "title": "Salesforce stock jumps after company offers rosy forecast for 2030",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/15/salesforce-stock-jumps-after-company-offers-rosy-forecast-for-2030.html",
-      "published_at": "Wed, 15 Oct 2025 23:03:28 GMT",
-      "bullets": [
-        "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
-        "• The software giant issued new financial targets for the next few years",
-        "• It now expects revenue of over $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
-          "• The software giant issued new financial targets for the next few years"
-        ],
-        "hopeful_bullets": [
-          "• Salesforce shares rose as much as 5% in extended trading on Wednesday",
-          "• The software giant issued new financial targets for the next few years"
-        ],
-        "stakes_bullets": [
-          "• It now expects revenue of over $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "97750bf1675f"
     },
     {
       "id": "be4ec59c4fd0",
@@ -5447,6 +5415,39 @@
       "cluster_id": "f2f4f0a3b6b2"
     },
     {
+      "id": "e83e12c8f819",
+      "title": "European markets head for negative open as choppy week for stocks continues",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/european-markets-on-thurs-oct-16-stoxx-600-ftse-dax-cac.html",
+      "published_at": "Thu, 16 Oct 2025 05:42:13 GMT",
+      "bullets": [
+        "• European stocks are expected to open in negative territory on Thursday",
+        "• European markets continue to see-saw this week",
+        "• FTSE, Germany's DAX and France's CAC 40 expected to be down 0.41%",
+        "• South Korea's Kospi index hit a record high after IMF raised the country's 2025 growth forecast "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• European stocks are expected to open in negative territory on Thursday",
+          "• European markets continue to see-saw this week"
+        ],
+        "hopeful_bullets": [
+          "• South Korea's Kospi index hit a record high after IMF raised the country's 2025 growth forecast "
+        ],
+        "stakes_bullets": [
+          "• European stocks are expected to open in negative territory on Thursday",
+          "• FTSE, Germany's DAX and France's CAC 40 expected to be down 0.41%"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8e53af8c8dc2"
+    },
+    {
       "id": "483ccfde5f54",
       "title": "An Endgame-Level Reaction: Mortal Kombat 2 Cast & Creators Interview",
       "outlet": "CBR",
@@ -5481,37 +5482,72 @@
       "cluster_id": "84c2d94e2203"
     },
     {
-      "id": "bc30957623c5",
-      "title": "Thirsty AI mega projects raise alarm in some of Europe’s driest regions",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/16/water-ai-mega-projects-raise-alarm-in-some-of-europes-driest-regions.html",
-      "published_at": "Thu, 16 Oct 2025 05:08:26 GMT",
+      "id": "bcdbb2210a9a",
+      "title": "Trump says Modi has agreed to stop buying Russian oil",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8gdl54n1go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 16 Oct 2025 05:37:51 GMT",
       "bullets": [
-        "• Europe's ambitious AI strategy is at risk of colliding with water scarcity",
-        "• Data centers power all aspects of the digital economy, from social media and online banking to AI tools like ChatGPT",
-        "• The European Union announced in April that it intends to at least triple its capacity over the next five to seven years "
+        "• Trump says Modi has agreed to stop buying Russian oil from India",
+        "• The US president has sought to leverage India's purchases of Russian oil in his trade war with Moscow",
+        "• India has so far resisted the move, but the US is also pushing Japan to stop importing Russian oil "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says Modi has agreed to stop buying Russian oil from India",
+          "• The US president has sought to leverage India's purchases of Russian oil in his trade war with Moscow"
+        ],
+        "hopeful_bullets": [
+          "• Trump says Modi has agreed to stop buying Russian oil from India",
+          "• The US president has sought to leverage India's purchases of Russian oil in his trade war with Moscow"
+        ],
+        "stakes_bullets": [
+          "• Trump says Modi has agreed to stop buying Russian oil from India",
+          "• The US president has sought to leverage India's purchases of Russian oil in his trade war with Moscow",
+          "• India has so far resisted the move, but the US is also pushing Japan to stop importing Russian oil "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f6aaa8a99b01"
+    },
+    {
+      "id": "46e134ecff9a",
+      "title": "FCC moves to expel one of Hong Kong’s largest telco companies from U.S. networks",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/16/us-block-hong-kong-hkt-from-networks-china-risk-tech-telco-pccw-china-unicom-richard-li-ka-shing.html",
+      "published_at": "Thu, 16 Oct 2025 05:18:09 GMT",
+      "bullets": [
+        "• Hong Kong-listed shares of HKT fell more than 5% in Thursday trading",
+        "• HKT's current hold permits allowing direct exchange of calls and data with U.S",
+        "• carriers",
+        "• China Unicom, which owns about 18.4% of PCCW, lost its own network access in 2022 due to similar concerns "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• Europe's ambitious AI strategy is at risk of colliding with water scarcity",
-          "• Data centers power all aspects of the digital economy, from social media and online banking to AI tools like ChatGPT"
+          "• Hong Kong-listed shares of HKT fell more than 5% in Thursday trading",
+          "• HKT's current hold permits allowing direct exchange of calls and data with U.S"
         ],
         "hopeful_bullets": [
-          "• Europe's ambitious AI strategy is at risk of colliding with water scarcity",
-          "• Data centers power all aspects of the digital economy, from social media and online banking to AI tools like ChatGPT"
+          "• HKT's current hold permits allowing direct exchange of calls and data with U.S"
         ],
         "stakes_bullets": [
-          "• Europe's ambitious AI strategy is at risk of colliding with water scarcity",
-          "• Data centers power all aspects of the digital economy, from social media and online banking to AI tools like ChatGPT"
+          "• Hong Kong-listed shares of HKT fell more than 5% in Thursday trading",
+          "• HKT's current hold permits allowing direct exchange of calls and data with U.S",
+          "• carriers"
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "a8b991a90965"
+      "read_minutes": 2,
+      "cluster_id": "d2f6bfbdca0d"
     },
     {
       "id": "7121447973fc",
@@ -5544,40 +5580,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4a95e6c98218"
-    },
-    {
-      "id": "bcdbb2210a9a",
-      "title": "Trump says Modi has agreed to stop buying Russian oil",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8gdl54n1go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 16 Oct 2025 04:23:14 GMT",
-      "bullets": [
-        "• Trump says Modi has agreed to stop buying Russian oil, calling it a 'big stop' The US president has sought to leverage India's purchases of Russian oil in his trade war with Delhi",
-        "• Delhi has resisted, creating a diplomatic rift between the US and India",
-        "• Trump administration is also pushing Japan to stop importing oil and gas from Russia "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says Modi has agreed to stop buying Russian oil, calling it a 'big stop' The US president has sought to leverage India's purchases of Russian oil in his trade war with Delhi",
-          "• Delhi has resisted, creating a diplomatic rift between the US and India"
-        ],
-        "hopeful_bullets": [
-          "• Trump says Modi has agreed to stop buying Russian oil, calling it a 'big stop' The US president has sought to leverage India's purchases of Russian oil in his trade war with Delhi",
-          "• Delhi has resisted, creating a diplomatic rift between the US and India"
-        ],
-        "stakes_bullets": [
-          "• Trump says Modi has agreed to stop buying Russian oil, calling it a 'big stop' The US president has sought to leverage India's purchases of Russian oil in his trade war with Delhi",
-          "• Delhi has resisted, creating a diplomatic rift between the US and India",
-          "• Trump administration is also pushing Japan to stop importing oil and gas from Russia "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f6aaa8a99b01"
     },
     {
       "id": "d252519c5d37",
@@ -6345,7 +6347,7 @@
     },
     {
       "id": "03e8932f6555",
-      "title": "Hamas returns remains of two more hostages but says more time needed to reach others",
+      "title": "US plays downs claims Hamas is violating ceasefire deal over hostage remains",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 16 Oct 2025 00:21:34 GMT",
@@ -6373,7 +6375,7 @@
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "36e773e5877f"
+      "cluster_id": "b0ab9863a96f"
     },
     {
       "id": "e5297186795a",
@@ -9040,15 +9042,15 @@
   ],
   "clusters": [
     {
-      "id": "36e773e5877f",
-      "topic": "hama hostage needed remain",
+      "id": "b0ab9863a96f",
+      "topic": "ceasefire claim down hama",
       "keywords": [
+        "ceasefire",
+        "claim",
+        "down",
         "hama",
-        "hostage",
-        "needed",
-        "remain",
-        "return",
-        "time"
+        "play",
+        "violating"
       ],
       "item_ids": [
         "03e8932f6555"
@@ -9807,6 +9809,24 @@
       ]
     },
     {
+      "id": "d2f6bfbdca0d",
+      "topic": "expel fcc hong kong",
+      "keywords": [
+        "expel",
+        "fcc",
+        "hong",
+        "kong",
+        "largest",
+        "move"
+      ],
+      "item_ids": [
+        "46e134ecff9a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "ac1c39805e56",
       "topic": "assured him india modi",
       "keywords": [
@@ -9825,6 +9845,24 @@
       ]
     },
     {
+      "id": "8e53af8c8dc2",
+      "topic": "choppy european head market",
+      "keywords": [
+        "choppy",
+        "european",
+        "head",
+        "market",
+        "negative",
+        "open"
+      ],
+      "item_ids": [
+        "e83e12c8f819"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "d7d4a0c16066",
       "topic": "high hits korea kospi",
       "keywords": [
@@ -9837,42 +9875,6 @@
       ],
       "item_ids": [
         "d252519c5d37"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a8b991a90965",
-      "topic": "alarm mega project raise",
-      "keywords": [
-        "alarm",
-        "mega",
-        "project",
-        "raise",
-        "some",
-        "thirsty"
-      ],
-      "item_ids": [
-        "bc30957623c5"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "97750bf1675f",
-      "topic": "company jump offer rosy",
-      "keywords": [
-        "company",
-        "jump",
-        "offer",
-        "rosy",
-        "salesforce",
-        "stock"
-      ],
-      "item_ids": [
-        "2b380b944339"
       ],
       "outlets": [
         "US Top News and Analysis"
