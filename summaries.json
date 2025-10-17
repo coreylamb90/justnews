@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T07:08:48Z",
+  "generated_at": "2025-10-17T07:55:46Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -4844,39 +4844,6 @@
       "cluster_id": "fd56ab982206"
     },
     {
-      "id": "83d1b235a1a6",
-      "title": "French PM survives major test but breathing space will not last long",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clykve1xnn6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 16 Oct 2025 13:46:21 GMT",
-      "bullets": [
-        "• French PM survives major test but breathing space will not last long",
-        "• Sébastien Lecornu only survives thanks to major concessions made to the left",
-        "• Socialists threw a lifeline in the no-confidence motions but will not be so indulgent next time round "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.785
-      },
-      "moods": {
-        "brief_bullets": [
-          "• French PM survives major test but breathing space will not last long",
-          "• Sébastien Lecornu only survives thanks to major concessions made to the left"
-        ],
-        "hopeful_bullets": [
-          "• French PM survives major test but breathing space will not last long",
-          "• Sébastien Lecornu only survives thanks to major concessions made to the left"
-        ],
-        "stakes_bullets": [
-          "• French PM survives major test but breathing space will not last long",
-          "• Socialists threw a lifeline in the no-confidence motions but will not be so indulgent next time round "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "05ab57ec4366"
-    },
-    {
       "id": "2dd677a21859",
       "title": "24 Best Wireless Chargers (2025), Tested and Reviewed",
       "outlet": "WIRED",
@@ -6827,33 +6794,66 @@
       "title": "South Korea's Kospi hits fresh record high for third straight day on optimism over trade talks",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
-      "published_at": "Fri, 17 Oct 2025 06:20:46 GMT",
+      "published_at": "Fri, 17 Oct 2025 06:48:07 GMT",
       "bullets": [
-        "• South Korea's Kospi hit a record high for the third straight day Friday, bucking wider losses in Asia",
-        "• Shares of Taiwan Semiconductor Manufacturing Co",
-        "• fell 2.36% Friday, ending at 1,450 New Taiwan dollars a share ($47.28) Hong Kong's Hang Seng Index fell 1.89% Friday "
+        "• South Korea's Kospi touched an intraday high of 3,794.87 before giving up its gains to trade around the flatline",
+        "• The index closed marginally up, at 3,748.89; the small-cap Kosdaq fell 0.68% to end at 859.54",
+        "• Hong Kong's Hang Seng Index fell 2.23%, leading losses in Asia "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• South Korea's Kospi hit a record high for the third straight day Friday, bucking wider losses in Asia",
-          "• Shares of Taiwan Semiconductor Manufacturing Co"
+          "• South Korea's Kospi touched an intraday high of 3,794.87 before giving up its gains to trade around the flatline",
+          "• The index closed marginally up, at 3,748.89; the small-cap Kosdaq fell 0.68% to end at 859.54"
         ],
         "hopeful_bullets": [
-          "• South Korea's Kospi hit a record high for the third straight day Friday, bucking wider losses in Asia"
+          "• South Korea's Kospi touched an intraday high of 3,794.87 before giving up its gains to trade around the flatline"
         ],
         "stakes_bullets": [
-          "• South Korea's Kospi hit a record high for the third straight day Friday, bucking wider losses in Asia",
-          "• Shares of Taiwan Semiconductor Manufacturing Co",
-          "• fell 2.36% Friday, ending at 1,450 New Taiwan dollars a share ($47.28) Hong Kong's Hang Seng Index fell 1.89% Friday "
+          "• Hong Kong's Hang Seng Index fell 2.23%, leading losses in Asia "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "b6691b9b4519"
+    },
+    {
+      "id": "a9cef79ce702",
+      "title": "Family of missing British girl give ultimatum to key person of interest",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e374lgn0wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 17 Oct 2025 06:41:03 GMT",
+      "bullets": [
+        "• Family of missing British girl give ultimatum to key person of interest",
+        "• Authorities believe three-year-old Cheryl Grimmer was abducted from Fairy Meadow beach in Wollongong in January 1970",
+        "• A suspect was charged with her abduction and murder, but his 2019 trial collapsed after a confession was ruled inadmissible",
+        "• A politician has offered to name the man under parliamentary privilege "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Family of missing British girl give ultimatum to key person of interest",
+          "• Authorities believe three-year-old Cheryl Grimmer was abducted from Fairy Meadow beach in Wollongong in January 1970"
+        ],
+        "hopeful_bullets": [
+          "• Family of missing British girl give ultimatum to key person of interest",
+          "• Authorities believe three-year-old Cheryl Grimmer was abducted from Fairy Meadow beach in Wollongong in January 1970"
+        ],
+        "stakes_bullets": [
+          "• Family of missing British girl give ultimatum to key person of interest",
+          "• Authorities believe three-year-old Cheryl Grimmer was abducted from Fairy Meadow beach in Wollongong in January 1970",
+          "• A suspect was charged with her abduction and murder, but his 2019 trial collapsed after a confession was ruled inadmissible"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e5e6e110fc0d"
     },
     {
       "id": "4d8acbf7a664",
@@ -7482,39 +7482,37 @@
     },
     {
       "id": "5d1756933272",
-      "title": "Five takeaways from the Mamdani-Cuomo NYC mayoral debate",
+      "title": "Five takeaways from NYC mayoral debate as Mamdani and Cuomo clash",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn8xlx53jn6o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 17 Oct 2025 02:43:13 GMT",
       "bullets": [
         "• Zohran Mamdani has widened his lead to 46%, while Andrew Cuomo stands at 33%",
-        "• The outcome of the race could have political implications beyond the Empire State",
+        "• The outcome of the race could have political implications beyond the Empire State as President Donald Trump looms large",
         "• Whoever wins will likely face pressure from Washington in some form",
-        "• The winner could help determine the kind of candidate Democrats choose in the future following their staggering 2024 loss to Trump "
+        "• Early voting in the race is set to begin next week "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.86
+        "score": 0.699
       },
       "moods": {
         "brief_bullets": [
           "• Zohran Mamdani has widened his lead to 46%, while Andrew Cuomo stands at 33%",
-          "• The outcome of the race could have political implications beyond the Empire State"
+          "• The outcome of the race could have political implications beyond the Empire State as President Donald Trump looms large"
         ],
         "hopeful_bullets": [
-          "• Whoever wins will likely face pressure from Washington in some form",
-          "• The winner could help determine the kind of candidate Democrats choose in the future following their staggering 2024 loss to Trump "
+          "• Whoever wins will likely face pressure from Washington in some form"
         ],
         "stakes_bullets": [
           "• Zohran Mamdani has widened his lead to 46%, while Andrew Cuomo stands at 33%",
-          "• The outcome of the race could have political implications beyond the Empire State",
-          "• Whoever wins will likely face pressure from Washington in some form",
-          "• The winner could help determine the kind of candidate Democrats choose in the future following their staggering 2024 loss to Trump "
+          "• The outcome of the race could have political implications beyond the Empire State as President Donald Trump looms large",
+          "• Whoever wins will likely face pressure from Washington in some form"
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "7ea0d3ae6277"
+      "cluster_id": "bcfdc94ade04"
     },
     {
       "id": "be3e40a01e23",
@@ -9081,10 +9079,10 @@
       ]
     },
     {
-      "id": "7ea0d3ae6277",
-      "topic": "cuomo five mamdani mayoral",
+      "id": "bcfdc94ade04",
+      "topic": "debate five mamdani mayoral",
       "keywords": [
-        "cuomo",
+        "debate",
         "five",
         "mamdani",
         "mayoral",
@@ -9093,6 +9091,24 @@
       ],
       "item_ids": [
         "5d1756933272"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "152495d2d96c",
+      "topic": "adviser bolton criminally former",
+      "keywords": [
+        "adviser",
+        "bolton",
+        "criminally",
+        "former",
+        "john",
+        "trump"
+      ],
+      "item_ids": [
+        "a87f63cdefb5"
       ],
       "outlets": [
         "BBC News"
@@ -9129,24 +9145,6 @@
       ],
       "item_ids": [
         "f154bd5f2891"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "152495d2d96c",
-      "topic": "adviser bolton criminally former",
-      "keywords": [
-        "adviser",
-        "bolton",
-        "criminally",
-        "former",
-        "john",
-        "trump"
-      ],
-      "item_ids": [
-        "a87f63cdefb5"
       ],
       "outlets": [
         "BBC News"
@@ -9225,18 +9223,18 @@
       ]
     },
     {
-      "id": "05ab57ec4366",
-      "topic": "breathing french major space",
+      "id": "e5e6e110fc0d",
+      "topic": "british family girl give",
       "keywords": [
-        "breathing",
-        "french",
-        "major",
-        "space",
-        "survive",
-        "test"
+        "british",
+        "family",
+        "girl",
+        "give",
+        "missing",
+        "ultimatum"
       ],
       "item_ids": [
-        "83d1b235a1a6"
+        "a9cef79ce702"
       ],
       "outlets": [
         "BBC News"
