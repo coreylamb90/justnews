@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T07:55:46Z",
+  "generated_at": "2025-10-17T08:13:25Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -6790,6 +6790,39 @@
       "cluster_id": "f12739ccd738"
     },
     {
+      "id": "7945ed407748",
+      "title": "Zelensky to make case for missiles at White House, after Trump and Putin agree meeting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 17 Oct 2025 07:40:01 GMT",
+      "bullets": [
+        "• US President Donald Trump will meet with Ukraine's president in Washington on Friday",
+        "• The meeting comes after a phone call with Russian President Vladimir Putin",
+        "• Zelensky has called on the U.S",
+        "• to arm Ukraine with Tomahawks capable of striking into Russia "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US President Donald Trump will meet with Ukraine's president in Washington on Friday",
+          "• The meeting comes after a phone call with Russian President Vladimir Putin"
+        ],
+        "hopeful_bullets": [
+          "• US President Donald Trump will meet with Ukraine's president in Washington on Friday",
+          "• The meeting comes after a phone call with Russian President Vladimir Putin"
+        ],
+        "stakes_bullets": [
+          "• US President Donald Trump will meet with Ukraine's president in Washington on Friday"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f8ca7024b82d"
+    },
+    {
       "id": "91c70e23ce13",
       "title": "South Korea's Kospi hits fresh record high for third straight day on optimism over trade talks",
       "outlet": "US Top News and Analysis",
@@ -7050,39 +7083,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e2ec0f9e834c"
-    },
-    {
-      "id": "7945ed407748",
-      "title": "Zelensky to make missile case in US after Trump-Putin phone call",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 17 Oct 2025 04:05:23 GMT",
-      "bullets": [
-        "• US President Donald Trump will meet with Ukraine's president in Washington on Friday",
-        "• The meeting comes after a phone call with Russian President Vladimir Putin",
-        "• Zelensky has called on the U.S",
-        "• to arm Ukraine with Tomahawks capable of striking into Russia "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.961
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump will meet with Ukraine's president in Washington on Friday",
-          "• The meeting comes after a phone call with Russian President Vladimir Putin"
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump will meet with Ukraine's president in Washington on Friday",
-          "• The meeting comes after a phone call with Russian President Vladimir Putin"
-        ],
-        "stakes_bullets": [
-          "• US President Donald Trump will meet with Ukraine's president in Washington on Friday"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1278ac957e3b"
     },
     {
       "id": "f8f593005099",
@@ -9061,14 +9061,14 @@
   ],
   "clusters": [
     {
-      "id": "1278ac957e3b",
-      "topic": "case make missile putin",
+      "id": "f8ca7024b82d",
+      "topic": "case house make missile",
       "keywords": [
         "case",
+        "house",
         "make",
         "missile",
-        "putin",
-        "trump",
+        "white",
         "zelensky"
       ],
       "item_ids": [
