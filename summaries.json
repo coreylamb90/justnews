@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T11:50:26Z",
+  "generated_at": "2025-10-18T12:11:35Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2710,35 +2710,137 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "5c878af53bda",
+      "title": "Daredevil: Born Again Season 2's Release Date May Have Been Revealed",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/daredevil-born-again-season-2-release-date/",
+      "published_at": "Sat, 18 Oct 2025 12:00:12 GMT",
+      "bullets": [
+        "• Daredevil: Born Again Season 2 is set to be released on Disney+ on March 4, 2026",
+        "• New episodes will see Charlie Cox reprising his role as Matt Murdock",
+        "• The series is part of Phase Six of the MCU, and the events of the new season could have a big impact on Spider-Man and the new Avengers movies "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.882
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Daredevil: Born Again Season 2 is set to be released on Disney+ on March 4, 2026",
+          "• New episodes will see Charlie Cox reprising his role as Matt Murdock"
+        ],
+        "hopeful_bullets": [
+          "• Daredevil: Born Again Season 2 is set to be released on Disney+ on March 4, 2026",
+          "• New episodes will see Charlie Cox reprising his role as Matt Murdock"
+        ],
+        "stakes_bullets": [
+          "• New episodes will see Charlie Cox reprising his role as Matt Murdock",
+          "• The series is part of Phase Six of the MCU, and the events of the new season could have a big impact on Spider-Man and the new Avengers movies "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "394956abe502"
+    },
+    {
+      "id": "38f719ac6614",
+      "title": "Warren Buffett Watch: Buffett's master class on the problem with gold",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/17/buffetts-master-class-on-the-problem-with-gold.html",
+      "published_at": "Sat, 18 Oct 2025 11:41:05 GMT",
+      "bullets": [
+        "• The price of gold slipped on Friday after hitting a record high above $4,300 an ounce earlier this week",
+        "• It's still up more than 50% this year and has almost doubled since early last year",
+        "• Some analysts say that for many investors, the precious metal should play a role in a standard diversified portfolio "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.921
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The price of gold slipped on Friday after hitting a record high above $4,300 an ounce earlier this week",
+          "• It's still up more than 50% this year and has almost doubled since early last year"
+        ],
+        "hopeful_bullets": [
+          "• The price of gold slipped on Friday after hitting a record high above $4,300 an ounce earlier this week"
+        ],
+        "stakes_bullets": [
+          "• The price of gold slipped on Friday after hitting a record high above $4,300 an ounce earlier this week",
+          "• It's still up more than 50% this year and has almost doubled since early last year",
+          "• Some analysts say that for many investors, the precious metal should play a role in a standard diversified portfolio "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "d4f6be38f9ad"
+    },
+    {
       "id": "1aa4210df341",
       "title": "‘No Kings’ protest live updates: millions expected to gather across the US for anti-Trump protests",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
-      "published_at": "Sat, 18 Oct 2025 11:02:28 GMT",
+      "published_at": "Sat, 18 Oct 2025 11:40:22 GMT",
       "bullets": [
-        "• More than 2,500 people expected to take to the streets to speak out against Donald Trump",
-        "• Organisers say they expect to see one of the largest day of protest in US history",
-        "• The protests are called No Kings to underscore that America does not have the right to be a king "
+        "• Organisers say there are more than 2,500 protests planned across the country",
+        "• Organisers expect to see one of the largest, if not largest, single day of protest in US history",
+        "• Several US cities now have a militarised presence on the ground, most against the will of local leaders "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.928
+        "label": "neutral",
+        "score": 0.614
       },
       "moods": {
         "brief_bullets": [
-          "• More than 2,500 people expected to take to the streets to speak out against Donald Trump",
-          "• Organisers say they expect to see one of the largest day of protest in US history"
+          "• Organisers say there are more than 2,500 protests planned across the country",
+          "• Organisers expect to see one of the largest, if not largest, single day of protest in US history"
         ],
         "hopeful_bullets": [
-          "• More than 2,500 people expected to take to the streets to speak out against Donald Trump"
+          "• Several US cities now have a militarised presence on the ground, most against the will of local leaders "
         ],
         "stakes_bullets": [
-          "• More than 2,500 people expected to take to the streets to speak out against Donald Trump"
+          "• Organisers say there are more than 2,500 protests planned across the country",
+          "• Several US cities now have a militarised presence on the ground, most against the will of local leaders "
         ]
       },
       "read_minutes": 4,
       "cluster_id": "181eabd0d59a"
+    },
+    {
+      "id": "6d75600a0bf1",
+      "title": "Israel confirms latest body returned from Gaza is dead hostage",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 18 Oct 2025 11:35:47 GMT",
+      "bullets": [
+        "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
+        "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz",
+        "• He is the 10th dead hostage to be returned to Israel",
+        "• The bodies of 15 Palestinians were handed over to officials in Gaza on Saturday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
+          "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz"
+        ],
+        "hopeful_bullets": [
+          "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
+          "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz"
+        ],
+        "stakes_bullets": [
+          "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
+          "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz",
+          "• He is the 10th dead hostage to be returned to Israel"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "41c3203bfec2"
     },
     {
       "id": "19f3d5057196",
@@ -2937,41 +3039,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "b3f19b4fc32d"
-    },
-    {
-      "id": "6d75600a0bf1",
-      "title": "Israel confirms latest body returned from Gaza is dead hostage",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 18 Oct 2025 09:41:11 GMT",
-      "bullets": [
-        "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
-        "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz",
-        "• His death was announced by Israel in December 2023, a month after his daughter Nili was released",
-        "• He is the 10th dead hostage to be returned to Israel "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
-          "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz"
-        ],
-        "hopeful_bullets": [
-          "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
-          "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz"
-        ],
-        "stakes_bullets": [
-          "• Israel confirms latest body returned from Gaza is dead hostage Eliyahu Margalit",
-          "• The 75-year-old was killed on 7 October and his body taken into Gaza from Nir Oz kibbutz",
-          "• His death was announced by Israel in December 2023, a month after his daughter Nili was released"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "41c3203bfec2"
     },
     {
       "id": "b65b2d4f6f16",
@@ -4163,39 +4230,6 @@
       "cluster_id": "4247c5fcb50f"
     },
     {
-      "id": "15dfaa2c9723",
-      "title": "If You're a Romance Fan, Watch This 10/10 Masterpiece on Netflix",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/netflix-fragrant-flower-blooms-with-dignity-best-romance-series/",
-      "published_at": "Sat, 18 Oct 2025 02:45:12 GMT",
-      "bullets": [
-        "• The Fragrant Flower Blooms with Dignity is an emotionally resonant and grounded love story",
-        "• Adapted from the manga of the same name by Mikami Saka",
-        "• The couple, Rintaro and Kaoruko, do not fall in love instantly and go through a natural progression "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Fragrant Flower Blooms with Dignity is an emotionally resonant and grounded love story",
-          "• Adapted from the manga of the same name by Mikami Saka"
-        ],
-        "hopeful_bullets": [
-          "• The couple, Rintaro and Kaoruko, do not fall in love instantly and go through a natural progression "
-        ],
-        "stakes_bullets": [
-          "• The Fragrant Flower Blooms with Dignity is an emotionally resonant and grounded love story",
-          "• Adapted from the manga of the same name by Mikami Saka",
-          "• The couple, Rintaro and Kaoruko, do not fall in love instantly and go through a natural progression "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "afb6389c2a88"
-    },
-    {
       "id": "48043efeabef",
       "title": "Scientists just debunked the calcium and dementia myth",
       "outlet": "All Top News -- ScienceDaily",
@@ -5122,6 +5156,40 @@
       "cluster_id": "dc193a5f79cd"
     },
     {
+      "id": "f36e0862a359",
+      "title": "Jim Cramer expects companies to post 'better-than-expected' earnings reports despite skepticism",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/17/jim-cramer-expects-companies-to-post-better-than-expected-earnings.html",
+      "published_at": "Fri, 17 Oct 2025 23:00:20 GMT",
+      "bullets": [
+        "• CNBC's Jim Cramer said on Friday that he expects companies to post \"better than expected\" earnings to continue the market's rally",
+        "• Cramer shared his \"gameplan\" looking ahead to next week's earnings",
+        "• The week will start out by seeing what steel producer Cleveland Cliffs has to say about the \"real\" economy "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.815
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CNBC's Jim Cramer said on Friday that he expects companies to post \"better than expected\" earnings to continue the market's rally",
+          "• Cramer shared his \"gameplan\" looking ahead to next week's earnings"
+        ],
+        "hopeful_bullets": [
+          "• CNBC's Jim Cramer said on Friday that he expects companies to post \"better than expected\" earnings to continue the market's rally",
+          "• Cramer shared his \"gameplan\" looking ahead to next week's earnings"
+        ],
+        "stakes_bullets": [
+          "• CNBC's Jim Cramer said on Friday that he expects companies to post \"better than expected\" earnings to continue the market's rally",
+          "• Cramer shared his \"gameplan\" looking ahead to next week's earnings",
+          "• The week will start out by seeing what steel producer Cleveland Cliffs has to say about the \"real\" economy "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e7e41abd92c2"
+    },
+    {
       "id": "da914254df8e",
       "title": "The Biggest Fall Deals at Home Depot (2025)",
       "outlet": "WIRED",
@@ -5965,39 +6033,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "62e4f1794136"
-    },
-    {
-      "id": "0acb3cc2cc3c",
-      "title": "Army Corps of Engineers pausing $11 billion in projects over shutdown, Trump budget chief says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/17/vought-budget-government-shutdown.html",
-      "published_at": "Fri, 17 Oct 2025 19:32:05 GMT",
-      "bullets": [
-        "• The U.S",
-        "• Army Corps of Engineers will immediately pause, and consider canceling, over $11 billion in projects",
-        "• The paused funds pertain to \"lower-priority projects\" in cities including New York, San Francisco, Boston and Baltimore",
-        "• President Donald Trump has described the shutdown as an \"opportunity\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.643
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• Army Corps of Engineers will immediately pause, and consider canceling, over $11 billion in projects"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• Army Corps of Engineers will immediately pause, and consider canceling, over $11 billion in projects"
-        ],
-        "stakes_bullets": [
-          "• Army Corps of Engineers will immediately pause, and consider canceling, over $11 billion in projects"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1d07f27a527f"
     },
     {
       "id": "673015924239",
@@ -7417,40 +7452,6 @@
       "cluster_id": "a2c4d6d069c1"
     },
     {
-      "id": "e11cc791d58c",
-      "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
-      "published_at": "Fri, 17 Oct 2025 12:45:30 GMT",
-      "bullets": [
-        "• Moody's Ratings head of global private credit says there's little evidence of a systemic problem",
-        "• Marc Pinto says there are concerns over loose lending standards and some slack in the conditions that institutions attach to loans",
-        "• Pinto: \"We're seeing very little deterioration at all\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Moody's Ratings head of global private credit says there's little evidence of a systemic problem",
-          "• Marc Pinto says there are concerns over loose lending standards and some slack in the conditions that institutions attach to loans"
-        ],
-        "hopeful_bullets": [
-          "• Moody's Ratings head of global private credit says there's little evidence of a systemic problem",
-          "• Marc Pinto says there are concerns over loose lending standards and some slack in the conditions that institutions attach to loans"
-        ],
-        "stakes_bullets": [
-          "• Moody's Ratings head of global private credit says there's little evidence of a systemic problem",
-          "• Marc Pinto says there are concerns over loose lending standards and some slack in the conditions that institutions attach to loans",
-          "• Pinto: \"We're seeing very little deterioration at all\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0ee6e219523c"
-    },
-    {
       "id": "b03fd384f390",
       "title": "Reward scheme for using less power at peak times could help lower US bills",
       "outlet": "Environment | The Guardian",
@@ -7616,39 +7617,6 @@
       "cluster_id": "339e6645bf8c"
     },
     {
-      "id": "8e0c5c3239f5",
-      "title": "Trump administration says most federal layoffs aren't blocked by court order",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/17/nx-s1-5577691/layoffs-rifs-government-shutdown-trump",
-      "published_at": "Fri, 17 Oct 2025 09:35:45 -0400",
-      "bullets": [
-        "• The Trump administration says it has paused work on only a small share of the roughly 4,000 mass layoffs announced since Oct",
-        "• 1",
-        "• That includes more than 400 Department of Housing and Urban Development employees",
-        "• Two federal employee unions sued to block what they call \"politically driven\" RIFs "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.502
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Trump administration says it has paused work on only a small share of the roughly 4,000 mass layoffs announced since Oct",
-          "• 1"
-        ],
-        "hopeful_bullets": [
-          "• The Trump administration says it has paused work on only a small share of the roughly 4,000 mass layoffs announced since Oct",
-          "• 1"
-        ],
-        "stakes_bullets": [
-          "• That includes more than 400 Department of Housing and Urban Development employees"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5b5b5f441e39"
-    },
-    {
       "id": "05197548f7e7",
       "title": "How a Declaration of Ancestral Wisdom Is Changing Law, Science and Our Understanding of the World",
       "outlet": "Inside Climate News",
@@ -7812,39 +7780,6 @@
       "cluster_id": "0018009f978d"
     },
     {
-      "id": "7ef12c3250cf",
-      "title": "No Kings organizers project a massive turnout for this weekend's protests",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/17/nx-s1-5576461/no-kings-protests-trump",
-      "published_at": "Fri, 17 Oct 2025 05:01:00 -0400",
-      "bullets": [
-        "• No Kings organizers project a massive turnout for this weekend's protests",
-        "• Some Republicans have decried the protests as anti-American",
-        "• Organizers say they are speaking out against what they say are injustices perpetrated against suspected undocumented immigrants, as well as health care "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.885
-      },
-      "moods": {
-        "brief_bullets": [
-          "• No Kings organizers project a massive turnout for this weekend's protests",
-          "• Some Republicans have decried the protests as anti-American"
-        ],
-        "hopeful_bullets": [
-          "• Organizers say they are speaking out against what they say are injustices perpetrated against suspected undocumented immigrants, as well as health care "
-        ],
-        "stakes_bullets": [
-          "• No Kings organizers project a massive turnout for this weekend's protests",
-          "• Some Republicans have decried the protests as anti-American",
-          "• Organizers say they are speaking out against what they say are injustices perpetrated against suspected undocumented immigrants, as well as health care "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "34192b203b75"
-    },
-    {
       "id": "98133b264836",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -7881,66 +7816,32 @@
       "url": "https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal",
       "published_at": "Fri, 17 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• Satellites associated with the Starshield satellite network appear to be transmitting to the Earth's surface on frequencies normally used for doing the opposite: sending commands from Earth to satellites in space",
+        "• A network of SpaceX satellites is emitting a mysterious signal that may violate international standards",
+        "• Satellites associated with the Starshield satellite network appear to be transmitting to Earth's surface on frequencies normally used for sending commands from Earth to satellites in space",
         "• The use of those frequencies to \"downlink\" data runs counter to standards set by the International Telecommunication Union "
       ],
       "category": "Science",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Satellites associated with the Starshield satellite network appear to be transmitting to the Earth's surface on frequencies normally used for doing the opposite: sending commands from Earth to satellites in space",
-          "• The use of those frequencies to \"downlink\" data runs counter to standards set by the International Telecommunication Union "
+          "• A network of SpaceX satellites is emitting a mysterious signal that may violate international standards",
+          "• Satellites associated with the Starshield satellite network appear to be transmitting to Earth's surface on frequencies normally used for sending commands from Earth to satellites in space"
         ],
         "hopeful_bullets": [
-          "• Satellites associated with the Starshield satellite network appear to be transmitting to the Earth's surface on frequencies normally used for doing the opposite: sending commands from Earth to satellites in space",
-          "• The use of those frequencies to \"downlink\" data runs counter to standards set by the International Telecommunication Union "
+          "• A network of SpaceX satellites is emitting a mysterious signal that may violate international standards",
+          "• Satellites associated with the Starshield satellite network appear to be transmitting to Earth's surface on frequencies normally used for sending commands from Earth to satellites in space"
         ],
         "stakes_bullets": [
-          "• Satellites associated with the Starshield satellite network appear to be transmitting to the Earth's surface on frequencies normally used for doing the opposite: sending commands from Earth to satellites in space",
+          "• A network of SpaceX satellites is emitting a mysterious signal that may violate international standards",
+          "• Satellites associated with the Starshield satellite network appear to be transmitting to Earth's surface on frequencies normally used for sending commands from Earth to satellites in space",
           "• The use of those frequencies to \"downlink\" data runs counter to standards set by the International Telecommunication Union "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "239623be276f"
-    },
-    {
-      "id": "907ed696be59",
-      "title": "Senators will force a vote to prevent war on Venezuela without approval from Congress",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/17/nx-s1-5577079/congress-venezuela-war-powers-trump",
-      "published_at": "Fri, 17 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Senators will force a vote to prevent war on Venezuela without approval from Congress",
-        "• Sens",
-        "• Tim Kaine, D-Va., and Rand Paul, R-Ky., co-sponsored the plan",
-        "• Kaine: \"The pace of the announcements, the authorization of covert activities ",
-        "• makes me think there's some chance this could be imminent\""
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senators will force a vote to prevent war on Venezuela without approval from Congress",
-          "• Sens"
-        ],
-        "hopeful_bullets": [
-          "• Senators will force a vote to prevent war on Venezuela without approval from Congress",
-          "• Sens"
-        ],
-        "stakes_bullets": [
-          "• Senators will force a vote to prevent war on Venezuela without approval from Congress",
-          "• Tim Kaine, D-Va., and Rand Paul, R-Ky., co-sponsored the plan",
-          "• makes me think there's some chance this could be imminent\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f2dee490d965"
     },
     {
       "id": "e9c4ffccf8bb",
@@ -9843,6 +9744,24 @@
       ]
     },
     {
+      "id": "d4f6be38f9ad",
+      "topic": "buffett clas master problem",
+      "keywords": [
+        "buffett",
+        "clas",
+        "master",
+        "problem",
+        "warren",
+        "watch"
+      ],
+      "item_ids": [
+        "38f719ac6614"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "b27ac2521032",
       "topic": "advisor iss proxy recommend",
       "keywords": [
@@ -9933,42 +9852,6 @@
       ]
     },
     {
-      "id": "1d07f27a527f",
-      "topic": "army billion corp engineer",
-      "keywords": [
-        "army",
-        "billion",
-        "corp",
-        "engineer",
-        "pausing",
-        "project"
-      ],
-      "item_ids": [
-        "0acb3cc2cc3c"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "0ee6e219523c",
-      "topic": "banking credit market moody",
-      "keywords": [
-        "banking",
-        "credit",
-        "market",
-        "moody",
-        "private",
-        "system"
-      ],
-      "item_ids": [
-        "e11cc791d58c"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "59f32afb6b16",
       "topic": "aca early enhanced hit",
       "keywords": [
@@ -9981,6 +9864,24 @@
       ],
       "item_ids": [
         "ae597f7944ed"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e7e41abd92c2",
+      "topic": "better companie cramer expect",
+      "keywords": [
+        "better",
+        "companie",
+        "cramer",
+        "expect",
+        "jim",
+        "post"
+      ],
+      "item_ids": [
+        "f36e0862a359"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10875,60 +10776,6 @@
       ],
       "outlets": [
         "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "5b5b5f441e39",
-      "topic": "administration aren federal layoff",
-      "keywords": [
-        "administration",
-        "aren",
-        "federal",
-        "layoff",
-        "most",
-        "trump"
-      ],
-      "item_ids": [
-        "8e0c5c3239f5"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "34192b203b75",
-      "topic": "king massive organizer project",
-      "keywords": [
-        "king",
-        "massive",
-        "organizer",
-        "project",
-        "turnout",
-        "weekend"
-      ],
-      "item_ids": [
-        "7ef12c3250cf"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "f2dee490d965",
-      "topic": "force prevent senator venezuela",
-      "keywords": [
-        "force",
-        "prevent",
-        "senator",
-        "venezuela",
-        "vote",
-        "war"
-      ],
-      "item_ids": [
-        "907ed696be59"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
       ]
     },
     {
@@ -13113,6 +12960,24 @@
       ]
     },
     {
+      "id": "394956abe502",
+      "topic": "again born daredevil date",
+      "keywords": [
+        "again",
+        "born",
+        "daredevil",
+        "date",
+        "release",
+        "season"
+      ],
+      "item_ids": [
+        "5c878af53bda"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "f6fb6024191c",
       "topic": "anime ball dragon finally",
       "keywords": [
@@ -13268,23 +13133,6 @@
       ],
       "item_ids": [
         "d297d7a62a6d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "afb6389c2a88",
-      "topic": "fan masterpiece netflix romance",
-      "keywords": [
-        "fan",
-        "masterpiece",
-        "netflix",
-        "romance",
-        "watch"
-      ],
-      "item_ids": [
-        "15dfaa2c9723"
       ],
       "outlets": [
         "CBR"
