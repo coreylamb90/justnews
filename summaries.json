@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T15:55:03Z",
+  "generated_at": "2025-10-18T16:03:43Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2618,6 +2618,73 @@
       "cluster_id": "dc001303ff51"
     },
     {
+      "id": "b291dec85fe5",
+      "title": "The New Power of Far-Right Influencers",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-the-new-power-of-far-right-influencers/",
+      "published_at": "Sat, 18 Oct 2025 15:30:00 +0000",
+      "bullets": [
+        "• This week's podcast is a weekly feature on CNN iReport.com",
+        "• Follow us on Twitter @dailymail and Facebook",
+        "• In the U.S",
+        "• visit CNN.com/thenext week for a new series of stories you can listen to "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week's podcast is a weekly feature on CNN iReport.com",
+          "• Follow us on Twitter @dailymail and Facebook"
+        ],
+        "hopeful_bullets": [
+          "• This week's podcast is a weekly feature on CNN iReport.com",
+          "• Follow us on Twitter @dailymail and Facebook"
+        ],
+        "stakes_bullets": [
+          "• This week's podcast is a weekly feature on CNN iReport.com",
+          "• Follow us on Twitter @dailymail and Facebook",
+          "• In the U.S"
+        ]
+      },
+      "read_minutes": 25,
+      "cluster_id": "28d2e6900115"
+    },
+    {
+      "id": "1aa4210df341",
+      "title": "No Kings protest live updates: Bernie Sanders to headline rally in Washington DC",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
+      "published_at": "Sat, 18 Oct 2025 15:24:25 GMT",
+      "bullets": [
+        "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism",
+        "• Organisers say they expect to see one of the largest, if not the largest day of protest in US history",
+        "• The protests are called No Kings to underscore that America does not have absolute rulers, a ding against Trump’s increasing authoritarianism"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.947
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism",
+          "• Organisers say they expect to see one of the largest, if not the largest day of protest in US history"
+        ],
+        "hopeful_bullets": [
+          "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism",
+          "• The protests are called No Kings to underscore that America does not have absolute rulers, a ding against Trump’s increasing authoritarianism"
+        ],
+        "stakes_bullets": [
+          "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "63a5dcd8a25b"
+    },
+    {
       "id": "a8e99ccc665f",
       "title": "NYC No Kings protest kicks off as millions expected at anti-Trump rallies nationwide",
       "outlet": "BBC News",
@@ -2718,38 +2785,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "4f4255813c80"
-    },
-    {
-      "id": "1aa4210df341",
-      "title": "‘No Kings’ protest live updates: Bernie Sanders to headline No Kings protest in Washington DC",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
-      "published_at": "Sat, 18 Oct 2025 15:09:03 GMT",
-      "bullets": [
-        "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism",
-        "• Organisers say they expect to see one of the largest, if not the largest day of protest in US history",
-        "• The protests are called No Kings to underscore that America does not have absolute rulers, a ding against Trump’s increasing authoritarianism"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism",
-          "• Organisers say they expect to see one of the largest, if not the largest day of protest in US history"
-        ],
-        "hopeful_bullets": [
-          "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism",
-          "• The protests are called No Kings to underscore that America does not have absolute rulers, a ding against Trump’s increasing authoritarianism"
-        ],
-        "stakes_bullets": [
-          "• Thousands expected to take to the streets on Saturday to speak out against Donald Trump's authoritarianism"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "63a5dcd8a25b"
     },
     {
       "id": "4e3aa8bb3c4d",
@@ -4103,41 +4138,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "9257ec08cebf"
-    },
-    {
-      "id": "2441878f6495",
-      "title": "Need Something Repaired? Now There’s an App for That",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/the-repair-app/",
-      "published_at": "Sat, 18 Oct 2025 09:00:00 +0000",
-      "bullets": [
-        "• The Repair App is available in the U.S",
-        "• and France",
-        "• It aims to make it easier for people to fix their stuff",
-        "• The app is available to users in both countries",
-        "• It's the latest in a growing trend of right to repair technology "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Repair App is available in the U.S",
-          "• and France"
-        ],
-        "hopeful_bullets": [
-          "• It's the latest in a growing trend of right to repair technology "
-        ],
-        "stakes_bullets": [
-          "• The Repair App is available in the U.S",
-          "• and France",
-          "• It aims to make it easier for people to fix their stuff"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b30924465d53"
     },
     {
       "id": "803fb4b4c932",
@@ -7957,6 +7957,34 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "ec7e3d4034f5",
+      "title": "Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale",
+      "published_at": "2025-10-18T11:44:48-04:00",
+      "bullets": [
+        "• Motorola Razr Ultra is currently on sale at Amazon and Best Buy with 16GB of RAM and 512GB starting at $999.99 ($300 off) It’s not just about looks, it also features two displays, specifically a 7-inch 1224p inner display that unfolds and a 4-inch 1080p outer screen "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Motorola Razr Ultra is currently on sale at Amazon and Best Buy with 16GB of RAM and 512GB starting at $999.99 ($300 off) It’s not just about looks, it also features two displays, specifically a 7-inch 1224p inner display that unfolds and a 4-inch 1080p outer screen "
+        ],
+        "hopeful_bullets": [
+          "• Motorola Razr Ultra is currently on sale at Amazon and Best Buy with 16GB of RAM and 512GB starting at $999.99 ($300 off) It’s not just about looks, it also features two displays, specifically a 7-inch 1224p inner display that unfolds and a 4-inch 1080p outer screen "
+        ],
+        "stakes_bullets": [
+          "• Motorola Razr Ultra is currently on sale at Amazon and Best Buy with 16GB of RAM and 512GB starting at $999.99 ($300 off) It’s not just about looks, it also features two displays, specifically a 7-inch 1224p inner display that unfolds and a 4-inch 1080p outer screen "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ecc863171d0b"
+    },
+    {
       "id": "962cb9d4b389",
       "title": "8BitDo’s new collection celebrates the NES’s 40th anniversary",
       "outlet": "The Verge",
@@ -8250,39 +8278,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "de6754ffa118"
-    },
-    {
-      "id": "6ce472dac9b8",
-      "title": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
-      "published_at": "2025-10-17T14:52:06-04:00",
-      "bullets": [
-        "• The third-gen Rotom Phone’s handy zoom and beefed-up safety features make for a solid upgrade",
-        "• The new phone lacks in aesthetic flair, but it makes up for improved hardware and a couple of fresh tricks",
-        "• Pokémon Legends: Z-A is a reminder of how the game's gadgets have lost some of their personality "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The third-gen Rotom Phone’s handy zoom and beefed-up safety features make for a solid upgrade",
-          "• The new phone lacks in aesthetic flair, but it makes up for improved hardware and a couple of fresh tricks"
-        ],
-        "hopeful_bullets": [
-          "• The new phone lacks in aesthetic flair, but it makes up for improved hardware and a couple of fresh tricks"
-        ],
-        "stakes_bullets": [
-          "• The third-gen Rotom Phone’s handy zoom and beefed-up safety features make for a solid upgrade",
-          "• The new phone lacks in aesthetic flair, but it makes up for improved hardware and a couple of fresh tricks",
-          "• Pokémon Legends: Z-A is a reminder of how the game's gadgets have lost some of their personality "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "cfd08fab297f"
     },
     {
       "id": "c41ff758b36a",
@@ -9607,6 +9602,22 @@
       ]
     },
     {
+      "id": "28d2e6900115",
+      "topic": "far influencer power right",
+      "keywords": [
+        "far",
+        "influencer",
+        "power",
+        "right"
+      ],
+      "item_ids": [
+        "b291dec85fe5"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "96c486269dfd",
       "topic": "2025 cold gift people",
       "keywords": [
@@ -9767,21 +9778,21 @@
       ]
     },
     {
-      "id": "b30924465d53",
-      "topic": "app need now repaired",
+      "id": "ecc863171d0b",
+      "topic": "emberton marshall motorola razr",
       "keywords": [
-        "app",
-        "need",
-        "now",
-        "repaired",
-        "something",
-        "there"
+        "emberton",
+        "marshall",
+        "motorola",
+        "razr",
+        "top",
+        "ultra"
       ],
       "item_ids": [
-        "2441878f6495"
+        "ec7e3d4034f5"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -9937,24 +9948,6 @@
       ],
       "item_ids": [
         "5aa46b0f4c8f"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "cfd08fab297f",
-      "topic": "legend mon phone pok",
-      "keywords": [
-        "legend",
-        "mon",
-        "phone",
-        "pok",
-        "review",
-        "rotom"
-      ],
-      "item_ids": [
-        "6ce472dac9b8"
       ],
       "outlets": [
         "The Verge"
