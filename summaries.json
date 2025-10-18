@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T10:56:01Z",
+  "generated_at": "2025-10-18T11:13:02Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2708,6 +2708,72 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
+    },
+    {
+      "id": "ea5d20b39fc1",
+      "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
+      "published_at": "Sat, 18 Oct 2025 10:30:00 +0000",
+      "bullets": [
+        "• Researchers at UC San Diego and the University of Maryland revealed this week that satellites are leaking a wealth of sensitive data completely unencrypted",
+        "• Authorities seized 130,000 bitcoins from an alleged Cambodian scam empire worth $15 billion",
+        "• Control over a significant portion of US election infrastructure is now in the hands of a single former Republican operative "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers at UC San Diego and the University of Maryland revealed this week that satellites are leaking a wealth of sensitive data completely unencrypted",
+          "• Authorities seized 130,000 bitcoins from an alleged Cambodian scam empire worth $15 billion"
+        ],
+        "hopeful_bullets": [
+          "• Researchers at UC San Diego and the University of Maryland revealed this week that satellites are leaking a wealth of sensitive data completely unencrypted",
+          "• Authorities seized 130,000 bitcoins from an alleged Cambodian scam empire worth $15 billion"
+        ],
+        "stakes_bullets": [
+          "• Authorities seized 130,000 bitcoins from an alleged Cambodian scam empire worth $15 billion"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "009be6a3a8b8"
+    },
+    {
+      "id": "faa29b7a161e",
+      "title": "Swedish Death Cleaning, but for Your Digital Life",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/swedish-death-cleaning-for-your-digital-life/",
+      "published_at": "Sat, 18 Oct 2025 10:30:00 +0000",
+      "bullets": [
+        "• When we die, someone becomes responsible for the things we leave behind",
+        "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed",
+        "• It's in everyone's interest to organize our data at least a little bit before we reach the end of our lives "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• When we die, someone becomes responsible for the things we leave behind",
+          "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed"
+        ],
+        "hopeful_bullets": [
+          "• When we die, someone becomes responsible for the things we leave behind",
+          "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed"
+        ],
+        "stakes_bullets": [
+          "• When we die, someone becomes responsible for the things we leave behind",
+          "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed",
+          "• It's in everyone's interest to organize our data at least a little bit before we reach the end of our lives "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "d3d311ab1d96"
     },
     {
       "id": "4c09191a6d84",
@@ -6068,6 +6134,39 @@
       "cluster_id": "2d59c4409cfc"
     },
     {
+      "id": "bb18d3a7e6c8",
+      "title": "Utilities grapple with a multibillion question: How much AI data center power demand is real",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/17/ai-data-center-openai-gas-nuclear-renewable-utility.html",
+      "published_at": "Fri, 17 Oct 2025 18:13:45 GMT",
+      "bullets": [
+        "• AI companies are rolling out ambitious plans to build server farms that in some cases would consume as much electricity as entire cities",
+        "• The tech industry is shopping the same big projects around to multiple utilities as they look for the quickest access to power",
+        "• Electricity prices, meanwhile, are rising for consumers because power supply is already struggling to keep pace with demand "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AI companies are rolling out ambitious plans to build server farms that in some cases would consume as much electricity as entire cities",
+          "• The tech industry is shopping the same big projects around to multiple utilities as they look for the quickest access to power"
+        ],
+        "hopeful_bullets": [
+          "• AI companies are rolling out ambitious plans to build server farms that in some cases would consume as much electricity as entire cities",
+          "• The tech industry is shopping the same big projects around to multiple utilities as they look for the quickest access to power"
+        ],
+        "stakes_bullets": [
+          "• AI companies are rolling out ambitious plans to build server farms that in some cases would consume as much electricity as entire cities",
+          "• Electricity prices, meanwhile, are rising for consumers because power supply is already struggling to keep pace with demand "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "789d043b3014"
+    },
+    {
       "id": "11b036a6e9ef",
       "title": "Cameron Winter Seemingly Covers Bruce Springsteen’s “Dancing in the Dark” for Xbox Ad: Watch",
       "outlet": "RSS: News",
@@ -7118,40 +7217,6 @@
       "cluster_id": "be646b6098bd"
     },
     {
-      "id": "21b4ba0150f6",
-      "title": "Elon Musk Has Turned His Eye to the UK",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/",
-      "published_at": "Fri, 17 Oct 2025 14:51:55 +0000",
-      "bullets": [
-        "• Elon Musk sent a heart emoji to Tommy Robinson, the far-right Islamophobic activist from the UK",
-        "• Robinson claimed this week that Musk had agreed to fund his defense",
-        "• Robinson was charged under the Terrorism Act after he refused to give police access to his cell phone in July 2024 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.515
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Elon Musk sent a heart emoji to Tommy Robinson, the far-right Islamophobic activist from the UK",
-          "• Robinson claimed this week that Musk had agreed to fund his defense"
-        ],
-        "hopeful_bullets": [
-          "• Elon Musk sent a heart emoji to Tommy Robinson, the far-right Islamophobic activist from the UK",
-          "• Robinson claimed this week that Musk had agreed to fund his defense"
-        ],
-        "stakes_bullets": [
-          "• Elon Musk sent a heart emoji to Tommy Robinson, the far-right Islamophobic activist from the UK",
-          "• Robinson claimed this week that Musk had agreed to fund his defense",
-          "• Robinson was charged under the Terrorism Act after he refused to give police access to his cell phone in July 2024 "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "56c767715c6d"
-    },
-    {
       "id": "16b0321daa07",
       "title": "Haim Drop ‘I Quit’ Deluxe Edition With 3 New Songs",
       "outlet": "Music News",
@@ -7282,39 +7347,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "b5c8099748be"
-    },
-    {
-      "id": "a227c3b1c7ca",
-      "title": "The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-tvs/",
-      "published_at": "Fri, 17 Oct 2025 14:00:00 +0000",
-      "bullets": [
-        "• The 12 Best TVs (and Helpful Buying Tips) are bigger, brighter, and cheaper than ever",
-        "• Every TV on our list comes with a wonderful display, but most are bad at sound and many have lackluster interfaces",
-        "• If you're unfamiliar with TV lingo, check out our tips below "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 12 Best TVs (and Helpful Buying Tips) are bigger, brighter, and cheaper than ever",
-          "• Every TV on our list comes with a wonderful display, but most are bad at sound and many have lackluster interfaces"
-        ],
-        "hopeful_bullets": [
-          "• The 12 Best TVs (and Helpful Buying Tips) are bigger, brighter, and cheaper than ever"
-        ],
-        "stakes_bullets": [
-          "• The 12 Best TVs (and Helpful Buying Tips) are bigger, brighter, and cheaper than ever",
-          "• Every TV on our list comes with a wonderful display, but most are bad at sound and many have lackluster interfaces",
-          "• If you're unfamiliar with TV lingo, check out our tips below "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "cf0ab34b34cb"
     },
     {
       "id": "97fb9a641914",
@@ -7449,38 +7481,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a433926cfaf4"
-    },
-    {
-      "id": "ae597f7944ed",
-      "title": "ACA enhanced subsidy lapse could hit early retirees hardest amid shutdown fight",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/17/aca-enhanced-subsidy-lapse-government-shutdown.html",
-      "published_at": "Fri, 17 Oct 2025 11:47:54 GMT",
-      "bullets": [
-        "• The Galls are among roughly 92% of all enrollees in the Affordable Care Act",
-        "• They expect to pay almost $1,700 in premiums in 2026 if the tax credits are extended",
-        "• The tax credits expire at the end of this year, but could be extended to 2026 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Galls are among roughly 92% of all enrollees in the Affordable Care Act",
-          "• They expect to pay almost $1,700 in premiums in 2026 if the tax credits are extended"
-        ],
-        "hopeful_bullets": [
-          "• The Galls are among roughly 92% of all enrollees in the Affordable Care Act",
-          "• They expect to pay almost $1,700 in premiums in 2026 if the tax credits are extended"
-        ],
-        "stakes_bullets": [
-          "• The tax credits expire at the end of this year, but could be extended to 2026 "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "59f32afb6b16"
     },
     {
       "id": "d8f0e5609837",
@@ -9060,24 +9060,6 @@
   ],
   "clusters": [
     {
-      "id": "db8051433303",
-      "topic": "blood cancer diagnosi speed",
-      "keywords": [
-        "blood",
-        "cancer",
-        "diagnosi",
-        "speed",
-        "test",
-        "type"
-      ],
-      "item_ids": [
-        "412ebfed3884"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "7748f2998e98",
       "topic": "fail missile secure talk",
       "keywords": [
@@ -9108,6 +9090,24 @@
       ],
       "item_ids": [
         "6d75600a0bf1"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "db8051433303",
+      "topic": "blood cancer diagnosi speed",
+      "keywords": [
+        "blood",
+        "cancer",
+        "diagnosi",
+        "speed",
+        "test",
+        "type"
+      ],
+      "item_ids": [
+        "412ebfed3884"
       ],
       "outlets": [
         "BBC News"
@@ -9778,6 +9778,24 @@
       ]
     },
     {
+      "id": "3b3b4eb26403",
+      "topic": "bad loan out string",
+      "keywords": [
+        "bad",
+        "loan",
+        "out",
+        "string",
+        "tide",
+        "went"
+      ],
+      "item_ids": [
+        "b0b2f96198f0"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "94a223c43852",
       "topic": "commute gop prison rep",
       "keywords": [
@@ -9790,6 +9808,42 @@
       ],
       "item_ids": [
         "f4b66a52f866"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b27ac2521032",
+      "topic": "advisor iss proxy recommend",
+      "keywords": [
+        "advisor",
+        "iss",
+        "proxy",
+        "recommend",
+        "shareholder",
+        "tesla"
+      ],
+      "item_ids": [
+        "e78b7e527392"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "789d043b3014",
+      "topic": "data grapple much multibillion",
+      "keywords": [
+        "data",
+        "grapple",
+        "much",
+        "multibillion",
+        "question",
+        "utilitie"
+      ],
+      "item_ids": [
+        "bb18d3a7e6c8"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9850,24 +9904,6 @@
       ]
     },
     {
-      "id": "3b3b4eb26403",
-      "topic": "bad loan out string",
-      "keywords": [
-        "bad",
-        "loan",
-        "out",
-        "string",
-        "tide",
-        "went"
-      ],
-      "item_ids": [
-        "b0b2f96198f0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "0ee6e219523c",
       "topic": "banking credit market moody",
       "keywords": [
@@ -9880,24 +9916,6 @@
       ],
       "item_ids": [
         "e11cc791d58c"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b27ac2521032",
-      "topic": "advisor iss proxy recommend",
-      "keywords": [
-        "advisor",
-        "iss",
-        "proxy",
-        "recommend",
-        "shareholder",
-        "tesla"
-      ],
-      "item_ids": [
-        "e78b7e527392"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9940,21 +9958,38 @@
       ]
     },
     {
-      "id": "59f32afb6b16",
-      "topic": "aca early enhanced hit",
+      "id": "009be6a3a8b8",
+      "topic": "dhs doj dox fbi",
       "keywords": [
-        "aca",
-        "early",
-        "enhanced",
-        "hit",
-        "lapse",
-        "subsidy"
+        "dhs",
+        "doj",
+        "dox",
+        "fbi",
+        "hacker",
+        "ice"
       ],
       "item_ids": [
-        "ae597f7944ed"
+        "ea5d20b39fc1"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
+      ]
+    },
+    {
+      "id": "d3d311ab1d96",
+      "topic": "cleaning death digital life",
+      "keywords": [
+        "cleaning",
+        "death",
+        "digital",
+        "life",
+        "swedish"
+      ],
+      "item_ids": [
+        "faa29b7a161e"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10093,40 +10128,6 @@
       ],
       "item_ids": [
         "331410ada9e2"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "56c767715c6d",
-      "topic": "elon eye musk turned",
-      "keywords": [
-        "elon",
-        "eye",
-        "musk",
-        "turned"
-      ],
-      "item_ids": [
-        "21b4ba0150f6"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "cf0ab34b34cb",
-      "topic": "2025 best reviewed samsung",
-      "keywords": [
-        "2025",
-        "best",
-        "reviewed",
-        "samsung",
-        "sony",
-        "tvs"
-      ],
-      "item_ids": [
-        "a227c3b1c7ca"
       ],
       "outlets": [
         "WIRED"
