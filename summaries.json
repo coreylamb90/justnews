@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T08:12:36Z",
+  "generated_at": "2025-10-18T09:03:47Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1753,39 +1753,6 @@
       "cluster_id": "41692e1f9574"
     },
     {
-      "id": "078ad179c073",
-      "title": "Ex-national security adviser John Bolton indicted in classified documents case",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/16/nx-s1-5554306/john-bolton-indicted",
-      "published_at": "Thu, 16 Oct 2025 17:05:39 -0400",
-      "bullets": [
-        "• Grand jury indicts John Bolton on 18 charges related to mishandling classified documents",
-        "• Each count faces a maximum of 10 years in prison",
-        "• Bolton served as national security adviser during President Trump's first term",
-        "• The charges come about two months after FBI executed a search warrant at Bolton's home "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Grand jury indicts John Bolton on 18 charges related to mishandling classified documents",
-          "• Each count faces a maximum of 10 years in prison"
-        ],
-        "hopeful_bullets": [
-          "• Grand jury indicts John Bolton on 18 charges related to mishandling classified documents",
-          "• Each count faces a maximum of 10 years in prison"
-        ],
-        "stakes_bullets": [
-          "• The charges come about two months after FBI executed a search warrant at Bolton's home "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e83b22bc2a6d"
-    },
-    {
       "id": "e119c29b1878",
       "title": "Paz Lenchantin Song Scrubbed From the Internet Following Plagiarism Allegations",
       "outlet": "RSS: News",
@@ -2746,6 +2713,108 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "1af50fc966e0",
+      "title": "US podcaster who helped convict ‘Queen of the Con’ disappointed at short sentence",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/18/us-podcaster-queen-of-the-con-sentence",
+      "published_at": "Sat, 18 Oct 2025 08:00:40 GMT",
+      "bullets": [
+        "• Marianne \"Mair\" Smyth was convicted of defrauding a group of Northern Irish mortgage advice customers",
+        "• Johnathan Walton chronicled his own victimization at the hands of Smyth in the podcast Queen of the Con: The Irish Heiress",
+        "• Walton: \"This is a woman who deserves to live the rest of her days in confinement\""
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.665
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marianne \"Mair\" Smyth was convicted of defrauding a group of Northern Irish mortgage advice customers",
+          "• Johnathan Walton chronicled his own victimization at the hands of Smyth in the podcast Queen of the Con: The Irish Heiress"
+        ],
+        "hopeful_bullets": [
+          "• Marianne \"Mair\" Smyth was convicted of defrauding a group of Northern Irish mortgage advice customers",
+          "• Johnathan Walton chronicled his own victimization at the hands of Smyth in the podcast Queen of the Con: The Irish Heiress"
+        ],
+        "stakes_bullets": [
+          "• Marianne \"Mair\" Smyth was convicted of defrauding a group of Northern Irish mortgage advice customers",
+          "• Johnathan Walton chronicled his own victimization at the hands of Smyth in the podcast Queen of the Con: The Irish Heiress",
+          "• Walton: \"This is a woman who deserves to live the rest of her days in confinement\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c2348122cebe"
+    },
+    {
+      "id": "6542714d15ee",
+      "title": "Lovense Lush Mini Review: A Dual-Stimulation Vibrator",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/review/lovense-lush-mini/",
+      "published_at": "Sat, 18 Oct 2025 08:00:00 +0000",
+      "bullets": [
+        "• The Lovense Lush Mini has an internal egg (for G-spot stimulation) that’s 1.46 inches deep",
+        "• The external arm is extremely flexible, but I was pleasantly surprised by how well the device settled into place",
+        "• While not as outrageously comfortable as the Lovenese Ferri Panty Vibrator I recently reviewed "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Lovense Lush Mini has an internal egg (for G-spot stimulation) that’s 1.46 inches deep",
+          "• The external arm is extremely flexible, but I was pleasantly surprised by how well the device settled into place"
+        ],
+        "hopeful_bullets": [
+          "• The Lovense Lush Mini has an internal egg (for G-spot stimulation) that’s 1.46 inches deep",
+          "• The external arm is extremely flexible, but I was pleasantly surprised by how well the device settled into place"
+        ],
+        "stakes_bullets": [
+          "• The Lovense Lush Mini has an internal egg (for G-spot stimulation) that’s 1.46 inches deep",
+          "• The external arm is extremely flexible, but I was pleasantly surprised by how well the device settled into place",
+          "• While not as outrageously comfortable as the Lovenese Ferri Panty Vibrator I recently reviewed "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d70aebf28cf7"
+    },
+    {
+      "id": "6c46934ed147",
+      "title": "Zelensky fails to secure Tomahawk missiles at talks with Trump",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 18 Oct 2025 07:42:19 GMT",
+      "bullets": [
+        "• President Donald Trump met with Ukraine's president to discuss long-range missiles",
+        "• He said the US does not want to use Tomahawk missiles to attack Russian oil and energy facilities",
+        "• The meeting came a day after Trump spoke with Russian President Vladimir Putin and agreed to meet him "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump met with Ukraine's president to discuss long-range missiles",
+          "• He said the US does not want to use Tomahawk missiles to attack Russian oil and energy facilities"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump met with Ukraine's president to discuss long-range missiles",
+          "• He said the US does not want to use Tomahawk missiles to attack Russian oil and energy facilities"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump met with Ukraine's president to discuss long-range missiles",
+          "• He said the US does not want to use Tomahawk missiles to attack Russian oil and energy facilities",
+          "• The meeting came a day after Trump spoke with Russian President Vladimir Putin and agreed to meet him "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7748f2998e98"
+    },
+    {
       "id": "412ebfed3884",
       "title": "Exciting results from blood test for 50 cancers",
       "outlet": "BBC News",
@@ -3111,6 +3180,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "0ffa1ff65533"
+    },
+    {
+      "id": "21e853439eb5",
+      "title": "After Zelenskyy meeting, Trump calls on Ukraine and Russia to 'stop where they are' and end the war",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/18/nx-s1-5578871/zelenskyy-meeting-trump-ukraine-russia-war",
+      "published_at": "Sat, 18 Oct 2025 04:02:38 -0400",
+      "bullets": [
+        "• After meeting with Zelenskyy, Trump calls on Ukraine and Russia to 'stop where they are' and end the war",
+        "• \"Enough blood has been shed, with property lines being defined by War and Guts,\" Trump says",
+        "• Trump's frustration with the conflict has surfaced repeatedly in the nine months since he returned "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.9
+      },
+      "moods": {
+        "brief_bullets": [
+          "• After meeting with Zelenskyy, Trump calls on Ukraine and Russia to 'stop where they are' and end the war",
+          "• \"Enough blood has been shed, with property lines being defined by War and Guts,\" Trump says"
+        ],
+        "hopeful_bullets": [
+          "• After meeting with Zelenskyy, Trump calls on Ukraine and Russia to 'stop where they are' and end the war",
+          "• \"Enough blood has been shed, with property lines being defined by War and Guts,\" Trump says"
+        ],
+        "stakes_bullets": [
+          "• After meeting with Zelenskyy, Trump calls on Ukraine and Russia to 'stop where they are' and end the war",
+          "• \"Enough blood has been shed, with property lines being defined by War and Guts,\" Trump says",
+          "• Trump's frustration with the conflict has surfaced repeatedly in the nine months since he returned "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "fded5bf77cde"
     },
     {
       "id": "b5eb3b4c7893",
@@ -4436,39 +4539,6 @@
       "cluster_id": "e7e41abd92c2"
     },
     {
-      "id": "6c46934ed147",
-      "title": "Zelensky fails to secure Tomahawk missiles at talks with Trump",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 17 Oct 2025 22:57:44 GMT",
-      "bullets": [
-        "• U.S",
-        "• President Donald Trump met with Ukraine's President Volodymyr Zelensky on Friday",
-        "• The meeting came a day after Trump spoke with Russian President Vladimir Putin by phone",
-        "• Trump said sending the missiles would be \"an escalation, but we'll be talking about it\" The Russian leader suggested his country could offer drones in exchange for the missiles "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump met with Ukraine's President Volodymyr Zelensky on Friday"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump met with Ukraine's President Volodymyr Zelensky on Friday"
-        ],
-        "stakes_bullets": [
-          "• Trump said sending the missiles would be \"an escalation, but we'll be talking about it\" The Russian leader suggested his country could offer drones in exchange for the missiles "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7748f2998e98"
-    },
-    {
       "id": "da914254df8e",
       "title": "The Biggest Fall Deals at Home Depot (2025)",
       "outlet": "WIRED",
@@ -4621,37 +4691,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "4b75b2dbaba5"
-    },
-    {
-      "id": "e50514e1ce8d",
-      "title": "Epstein trial would have been ‘crapshoot’, plea-deal prosecutor tells Congress",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/17/alexander-acosta-epstein-trial",
-      "published_at": "Fri, 17 Oct 2025 22:23:12 GMT",
-      "bullets": [
-        "• The president of the United States' House of Representatives has been in talks with the White House over the issue of sexual assault in the U.S",
-        "• Congress",
-        "• The White House says it will not accept the possibility of a lawsuit against the president's administration "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The president of the United States' House of Representatives has been in talks with the White House over the issue of sexual assault in the U.S",
-          "• Congress"
-        ],
-        "hopeful_bullets": [
-          "• The White House says it will not accept the possibility of a lawsuit against the president's administration "
-        ],
-        "stakes_bullets": [
-          "• The White House says it will not accept the possibility of a lawsuit against the president's administration "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d17cace810ef"
     },
     {
       "id": "c9140a9dd960",
@@ -4956,6 +4995,38 @@
       "cluster_id": "b87270c74d32"
     },
     {
+      "id": "6a84299516c7",
+      "title": "Key US nuclear agency to send 80% of workforce home as shutdown drags on",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/17/government-shutdown-nuclear-agency-nnsa",
+      "published_at": "Fri, 17 Oct 2025 21:58:11 GMT",
+      "bullets": [
+        "• Around 1,400 NNSA employees will be furloughed without pay starting on Monday",
+        "• House armed services committee chair Mike Rogers said the agency has exhausted its carryover reserves",
+        "• NNSA does not directly control operational nuclear weapons, but plays a strategic role in keeping warheads secure and functional "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Around 1,400 NNSA employees will be furloughed without pay starting on Monday",
+          "• House armed services committee chair Mike Rogers said the agency has exhausted its carryover reserves"
+        ],
+        "hopeful_bullets": [
+          "• Around 1,400 NNSA employees will be furloughed without pay starting on Monday",
+          "• House armed services committee chair Mike Rogers said the agency has exhausted its carryover reserves"
+        ],
+        "stakes_bullets": [
+          "• Around 1,400 NNSA employees will be furloughed without pay starting on Monday"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e92d66f1fbed"
+    },
+    {
       "id": "211ac54f5026",
       "title": "Guillermo del Toro Hails This Quirky Exploitation Classic as “Strangely elegant, kinky and provoking”",
       "outlet": "Dread Central",
@@ -5051,40 +5122,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "f582c68ebc4c"
-    },
-    {
-      "id": "c8ac67c549c0",
-      "title": "Alaska governor asks Trump for federal aid after typhoon displaces 1,500 people",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/17/alaska-typhoon-halong-trump-aid",
-      "published_at": "Fri, 17 Oct 2025 21:08:27 GMT",
-      "bullets": [
-        "• Typhoon Halong hit remote Alaska Native communities in the Yukon-Kuskokwim Delta over the weekend",
-        "• At least one person was killed and two others remain missing",
-        "• The state established makeshift shelters that soon swelled to hold about 1,500 people "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Typhoon Halong hit remote Alaska Native communities in the Yukon-Kuskokwim Delta over the weekend",
-          "• At least one person was killed and two others remain missing"
-        ],
-        "hopeful_bullets": [
-          "• Typhoon Halong hit remote Alaska Native communities in the Yukon-Kuskokwim Delta over the weekend",
-          "• At least one person was killed and two others remain missing"
-        ],
-        "stakes_bullets": [
-          "• Typhoon Halong hit remote Alaska Native communities in the Yukon-Kuskokwim Delta over the weekend",
-          "• At least one person was killed and two others remain missing",
-          "• The state established makeshift shelters that soon swelled to hold about 1,500 people "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "aae6d5144b65"
     },
     {
       "id": "78992e5a7f4b",
@@ -7059,40 +7096,6 @@
       "cluster_id": "c6547f911ac2"
     },
     {
-      "id": "063163ce75ea",
-      "title": "I Used Squarespace’s Blueprint AI to Design a Website",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/squarespace-blueprint-ai-website-builder/",
-      "published_at": "Fri, 17 Oct 2025 13:00:00 +0000",
-      "bullets": [
-        "• Squarespace's Blueprint AI feature began life as a guided website design system in 2023",
-        "• It took me just a few minutes to create a website with Blueprint that was totally functional",
-        "• It feels less like an AI website builder and more like a tailoring tool "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.838
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Squarespace's Blueprint AI feature began life as a guided website design system in 2023",
-          "• It took me just a few minutes to create a website with Blueprint that was totally functional"
-        ],
-        "hopeful_bullets": [
-          "• Squarespace's Blueprint AI feature began life as a guided website design system in 2023",
-          "• It took me just a few minutes to create a website with Blueprint that was totally functional"
-        ],
-        "stakes_bullets": [
-          "• Squarespace's Blueprint AI feature began life as a guided website design system in 2023",
-          "• It took me just a few minutes to create a website with Blueprint that was totally functional",
-          "• It feels less like an AI website builder and more like a tailoring tool "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "1a3da5fbef52"
-    },
-    {
       "id": "e11cc791d58c",
       "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
       "outlet": "US Top News and Analysis",
@@ -7326,40 +7329,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "339e6645bf8c"
-    },
-    {
-      "id": "2b0424d3e991",
-      "title": "ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/17/nx-s1-5508232/rog-xbox-ally-x-review-handheld-gaming",
-      "published_at": "Fri, 17 Oct 2025 10:00:00 -0400",
-      "bullets": [
-        "• ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy",
-        "• Asus is struggling to keep up with demand for its new ROGXbox Ally X, released on Thursday",
-        "• Microsoft's recent \"This is an Xbox\" ad campaign presents phones and laptops as capable of high-end gaming "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.965
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy",
-          "• Asus is struggling to keep up with demand for its new ROGXbox Ally X, released on Thursday"
-        ],
-        "hopeful_bullets": [
-          "• ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy",
-          "• Asus is struggling to keep up with demand for its new ROGXbox Ally X, released on Thursday"
-        ],
-        "stakes_bullets": [
-          "• ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy",
-          "• Asus is struggling to keep up with demand for its new ROGXbox Ally X, released on Thursday",
-          "• Microsoft's recent \"This is an Xbox\" ad campaign presents phones and laptops as capable of high-end gaming "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "31cf6b292a26"
     },
     {
       "id": "8e0c5c3239f5",
@@ -9264,6 +9233,24 @@
       ]
     },
     {
+      "id": "c2348122cebe",
+      "topic": "con convict disappointed helped",
+      "keywords": [
+        "con",
+        "convict",
+        "disappointed",
+        "helped",
+        "podcaster",
+        "queen"
+      ],
+      "item_ids": [
+        "1af50fc966e0"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "98bb073834c0",
       "topic": "commuted federal george santo",
       "keywords": [
@@ -9408,39 +9395,39 @@
       ]
     },
     {
-      "id": "d17cace810ef",
-      "topic": "crapshoot deal epstein plea",
+      "id": "e92d66f1fbed",
+      "topic": "agency home key nuclear",
       "keywords": [
-        "crapshoot",
-        "deal",
-        "epstein",
-        "plea",
-        "prosecutor",
-        "trial"
+        "agency",
+        "home",
+        "key",
+        "nuclear",
+        "send",
+        "workforce"
       ],
       "item_ids": [
-        "e50514e1ce8d"
+        "6a84299516c7"
       ],
       "outlets": [
         "US news | The Guardian"
       ]
     },
     {
-      "id": "aae6d5144b65",
-      "topic": "aid alaska asks federal",
+      "id": "fded5bf77cde",
+      "topic": "call meeting russia trump",
       "keywords": [
-        "aid",
-        "alaska",
-        "asks",
-        "federal",
-        "governor",
-        "trump"
+        "call",
+        "meeting",
+        "russia",
+        "trump",
+        "ukraine",
+        "zelenskyy"
       ],
       "item_ids": [
-        "c8ac67c549c0"
+        "21e853439eb5"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9598,24 +9585,6 @@
       ],
       "item_ids": [
         "781148bdf0ec"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "31cf6b292a26",
-      "topic": "ally despite out rog",
-      "keywords": [
-        "ally",
-        "despite",
-        "out",
-        "rog",
-        "sell",
-        "xbox"
-      ],
-      "item_ids": [
-        "2b0424d3e991"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9802,6 +9771,24 @@
       ]
     },
     {
+      "id": "d70aebf28cf7",
+      "topic": "dual lovense lush mini",
+      "keywords": [
+        "dual",
+        "lovense",
+        "lush",
+        "mini",
+        "review",
+        "stimulation"
+      ],
+      "item_ids": [
+        "6542714d15ee"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "464ec05c0455",
       "topic": "code coupon discount october",
       "keywords": [
@@ -9953,23 +9940,6 @@
       ],
       "item_ids": [
         "26f15fa6b5f0"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "1a3da5fbef52",
-      "topic": "blueprint design squarespace used",
-      "keywords": [
-        "blueprint",
-        "design",
-        "squarespace",
-        "used",
-        "website"
-      ],
-      "item_ids": [
-        "063163ce75ea"
       ],
       "outlets": [
         "WIRED"
@@ -10774,24 +10744,6 @@
       ],
       "item_ids": [
         "eda145eb0fa5"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "e83b22bc2a6d",
-      "topic": "adviser bolton indicted john",
-      "keywords": [
-        "adviser",
-        "bolton",
-        "indicted",
-        "john",
-        "national",
-        "security"
-      ],
-      "item_ids": [
-        "078ad179c073"
       ],
       "outlets": [
         "NPR Topics: Politics"
