@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T11:13:02Z",
+  "generated_at": "2025-10-18T11:50:26Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2710,6 +2710,137 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "1aa4210df341",
+      "title": "‘No Kings’ protest live updates: millions expected to gather across the US for anti-Trump protests",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
+      "published_at": "Sat, 18 Oct 2025 11:02:28 GMT",
+      "bullets": [
+        "• More than 2,500 people expected to take to the streets to speak out against Donald Trump",
+        "• Organisers say they expect to see one of the largest day of protest in US history",
+        "• The protests are called No Kings to underscore that America does not have the right to be a king "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.928
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 2,500 people expected to take to the streets to speak out against Donald Trump",
+          "• Organisers say they expect to see one of the largest day of protest in US history"
+        ],
+        "hopeful_bullets": [
+          "• More than 2,500 people expected to take to the streets to speak out against Donald Trump"
+        ],
+        "stakes_bullets": [
+          "• More than 2,500 people expected to take to the streets to speak out against Donald Trump"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "181eabd0d59a"
+    },
+    {
+      "id": "19f3d5057196",
+      "title": "Man seeking asylum in Canada trapped at US Ice facility after he says he crossed border by mistake",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/18/refugee-asylum-canada-ice-facility-border",
+      "published_at": "Sat, 18 Oct 2025 11:00:43 GMT",
+      "bullets": [
+        "• Mahin Shahriar, 28, came to Canada from Bangladesh in 2019",
+        "• He says he crossed the border to visit a property near Montreal",
+        "• He was detained by US immigration officials when he realized his mistake",
+        "• His lawyer says the Canada Border Services Agency is refusing to help him return "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mahin Shahriar, 28, came to Canada from Bangladesh in 2019",
+          "• He says he crossed the border to visit a property near Montreal"
+        ],
+        "hopeful_bullets": [
+          "• His lawyer says the Canada Border Services Agency is refusing to help him return "
+        ],
+        "stakes_bullets": [
+          "• Mahin Shahriar, 28, came to Canada from Bangladesh in 2019"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ea7591c0a230"
+    },
+    {
+      "id": "b9e65a1cb143",
+      "title": "The 25 Best Movies on Amazon Prime Right Now (October 2025)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/best-amazon-prime-movies/",
+      "published_at": "Sat, 18 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• Some of the best movies on Netflix and Apple TV+ are still available in the library",
+        "• All the films in our guide are included in your Prime subscription",
+        "• We also have a guide to the best shows on Amazon Prime and Disney+ if you're looking for something else to watch "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some of the best movies on Netflix and Apple TV+ are still available in the library",
+          "• All the films in our guide are included in your Prime subscription"
+        ],
+        "hopeful_bullets": [
+          "• Some of the best movies on Netflix and Apple TV+ are still available in the library",
+          "• All the films in our guide are included in your Prime subscription"
+        ],
+        "stakes_bullets": [
+          "• Some of the best movies on Netflix and Apple TV+ are still available in the library",
+          "• All the films in our guide are included in your Prime subscription",
+          "• We also have a guide to the best shows on Amazon Prime and Disney+ if you're looking for something else to watch "
+        ]
+      },
+      "read_minutes": 15,
+      "cluster_id": "44b6bf9c5e68"
+    },
+    {
+      "id": "7bb69fa2a74e",
+      "title": "Audien Hearing Atom X Hearing Aids Review: High-Tech Case",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/review/audien-hearing-atom-x-hearing-aids/",
+      "published_at": "Sat, 18 Oct 2025 11:00:00 +0000",
+      "bullets": [
+        "• Audien Hearing has released at least five models of low-cost hearing aids",
+        "• The Atom X is the latest in-the-ear version of Audien's Atom X, with a $389 price",
+        "• The devices are earplug-like and beige with a fat button on the outward-facing surface "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Audien Hearing has released at least five models of low-cost hearing aids",
+          "• The Atom X is the latest in-the-ear version of Audien's Atom X, with a $389 price"
+        ],
+        "hopeful_bullets": [
+          "• Audien Hearing has released at least five models of low-cost hearing aids",
+          "• The Atom X is the latest in-the-ear version of Audien's Atom X, with a $389 price"
+        ],
+        "stakes_bullets": [
+          "• Audien Hearing has released at least five models of low-cost hearing aids",
+          "• The Atom X is the latest in-the-ear version of Audien's Atom X, with a $389 price",
+          "• The devices are earplug-like and beige with a fat button on the outward-facing surface "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f886a69515ec"
+    },
+    {
       "id": "ea5d20b39fc1",
       "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
       "outlet": "WIRED",
@@ -3270,6 +3401,40 @@
       "cluster_id": "6e4fe0f1e22c"
     },
     {
+      "id": "90ad150113b5",
+      "title": "A caregiver's survival guide: Advice from people who've been there",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/18/nx-s1-5558451/caregiver-caregiving-family-burnout-support-advice",
+      "published_at": "Sat, 18 Oct 2025 07:00:00 -0400",
+      "bullets": [
+        "• NPR asked caregivers to share their stories about caring for an ill or elderly adult",
+        "• Nearly 600 people responded with practical advice, hair-raising stories and hard-won expertise",
+        "• \"Dear whatever doesn't kill me, I'm strong enough now",
+        "• Thanks,\" one said "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NPR asked caregivers to share their stories about caring for an ill or elderly adult",
+          "• Nearly 600 people responded with practical advice, hair-raising stories and hard-won expertise"
+        ],
+        "hopeful_bullets": [
+          "• \"Dear whatever doesn't kill me, I'm strong enough now"
+        ],
+        "stakes_bullets": [
+          "• NPR asked caregivers to share their stories about caring for an ill or elderly adult",
+          "• Nearly 600 people responded with practical advice, hair-raising stories and hard-won expertise",
+          "• \"Dear whatever doesn't kill me, I'm strong enough now"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "bebe721c8b5c"
+    },
+    {
       "id": "fc847a3e7457",
       "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
       "outlet": "BBC News",
@@ -3467,40 +3632,6 @@
       "cluster_id": "45bd9b71ac84"
     },
     {
-      "id": "20090200d058",
-      "title": "Does the sale of Dominion Voting Systems mean a transformation? Depends who's asking",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/18/nx-s1-5574349/dominion-voting-machines-sale-reaction",
-      "published_at": "Sat, 18 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
-        "• But in private, when speaking to county election official customers, the messaging has been different",
-        "• \"Feel assured that Liberty Vote shares the same values as Dominion,\" company representatives in Georgia wrote "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.654
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
-          "• But in private, when speaking to county election official customers, the messaging has been different"
-        ],
-        "hopeful_bullets": [
-          "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
-          "• But in private, when speaking to county election official customers, the messaging has been different"
-        ],
-        "stakes_bullets": [
-          "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
-          "• But in private, when speaking to county election official customers, the messaging has been different",
-          "• \"Feel assured that Liberty Vote shares the same values as Dominion,\" company representatives in Georgia wrote "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1e53c4f5fc8d"
-    },
-    {
       "id": "bfde100af7fa",
       "title": "As they go unpaid, Capitol Police are a daily reminder for lawmakers of shutdown pain",
       "outlet": "NPR Topics: News",
@@ -3535,6 +3666,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "bbaf9703bc1f"
+    },
+    {
+      "id": "20090200d058",
+      "title": "Does the sale of Dominion Voting Systems mean a transformation? Depends who's asking",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/18/nx-s1-5574349/dominion-voting-machines-sale-reaction",
+      "published_at": "Sat, 18 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
+        "• But in private, when speaking to county election official customers, the messaging has been different",
+        "• \"Feel assured that Liberty Vote shares the same values as Dominion,\" company representatives in Georgia wrote "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.654
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
+          "• But in private, when speaking to county election official customers, the messaging has been different"
+        ],
+        "hopeful_bullets": [
+          "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
+          "• But in private, when speaking to county election official customers, the messaging has been different"
+        ],
+        "stakes_bullets": [
+          "• Scott Leiendecker bought Dominion Voting Systems, the company at the heart of countless 2020 election conspiracy theories",
+          "• But in private, when speaking to county election official customers, the messaging has been different",
+          "• \"Feel assured that Liberty Vote shares the same values as Dominion,\" company representatives in Georgia wrote "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1e53c4f5fc8d"
     },
     {
       "id": "39bf5d56171b",
@@ -4299,40 +4464,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7230bbe38080"
-    },
-    {
-      "id": "7f424a40c501",
-      "title": "Breathtaking, unsettling, healing: how US artist Kara Walker transformed a Confederate monument",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/17/los-angeles-confederate-monuments",
-      "published_at": "Sat, 18 Oct 2025 00:55:01 GMT",
-      "bullets": [
-        "• Stonewall Jackson equestrian statue is the centerpiece of a new art exhibit",
-        "• Kara Walker is famous for making art that grapples with racist images and archetypes",
-        "• Her work includes a shark-filled fountain in the Tate Modern as a monument to the British slave trade "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Stonewall Jackson equestrian statue is the centerpiece of a new art exhibit",
-          "• Kara Walker is famous for making art that grapples with racist images and archetypes"
-        ],
-        "hopeful_bullets": [
-          "• Stonewall Jackson equestrian statue is the centerpiece of a new art exhibit",
-          "• Kara Walker is famous for making art that grapples with racist images and archetypes"
-        ],
-        "stakes_bullets": [
-          "• Stonewall Jackson equestrian statue is the centerpiece of a new art exhibit",
-          "• Kara Walker is famous for making art that grapples with racist images and archetypes",
-          "• Her work includes a shark-filled fountain in the Tate Modern as a monument to the British slave trade "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "29614e92411d"
     },
     {
       "id": "b0b2f96198f0",
@@ -5480,6 +5611,40 @@
       "cluster_id": "d6b9322b4578"
     },
     {
+      "id": "aea7a9c06f36",
+      "title": "$500 purple cables put this little-known company in the middle of the AI boom",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/17/500-purple-cables-put-credo-in-middle-of-the-ai-boom.html",
+      "published_at": "Fri, 17 Oct 2025 21:54:03 GMT",
+      "bullets": [
+        "• Elon Musk posted photos from inside an xAI data center called Colossus 2 in July",
+        "• Credo is angling to position itself as a key supplier in the trillion-dollar AI infrastructure expansion",
+        "• Analysts at JPMorgan Chase initiated coverage with the equivalent of a buy rating and a $165 stock price "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Elon Musk posted photos from inside an xAI data center called Colossus 2 in July",
+          "• Credo is angling to position itself as a key supplier in the trillion-dollar AI infrastructure expansion"
+        ],
+        "hopeful_bullets": [
+          "• Elon Musk posted photos from inside an xAI data center called Colossus 2 in July",
+          "• Credo is angling to position itself as a key supplier in the trillion-dollar AI infrastructure expansion"
+        ],
+        "stakes_bullets": [
+          "• Elon Musk posted photos from inside an xAI data center called Colossus 2 in July",
+          "• Credo is angling to position itself as a key supplier in the trillion-dollar AI infrastructure expansion",
+          "• Analysts at JPMorgan Chase initiated coverage with the equivalent of a buy rating and a $165 stock price "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "a294508ebbad"
+    },
+    {
       "id": "5337a5783b97",
       "title": "TVC15: Kit Fisto (VC29)",
       "outlet": "Jedi Temple Archives",
@@ -5641,38 +5806,6 @@
       "cluster_id": "1a5adf0dfb2c"
     },
     {
-      "id": "62bf70fa014d",
-      "title": "Trump says he'll think about Kremlin's Russia-Alaska tunnel pitch",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/17/musk-trump-putin-tunnel-russia-alaska.html",
-      "published_at": "Fri, 17 Oct 2025 20:51:03 GMT",
-      "bullets": [
-        "• President Donald Trump says he'll have to think about a Russian proposal for an undersea rail tunnel through the Bering Strait",
-        "• Kirill Dmitriev, an investment envoy for Russian President Vladimir Putin, suggested in posts on Musk's social media platform X that the project would be partly funded by Moscow",
-        "• Trump said Secretary of State Marco Rubio and other high-level advisors will meet next week with a Russian delegation "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.961
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump says he'll have to think about a Russian proposal for an undersea rail tunnel through the Bering Strait",
-          "• Kirill Dmitriev, an investment envoy for Russian President Vladimir Putin, suggested in posts on Musk's social media platform X that the project would be partly funded by Moscow"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says he'll have to think about a Russian proposal for an undersea rail tunnel through the Bering Strait",
-          "• Kirill Dmitriev, an investment envoy for Russian President Vladimir Putin, suggested in posts on Musk's social media platform X that the project would be partly funded by Moscow"
-        ],
-        "stakes_bullets": [
-          "• Trump said Secretary of State Marco Rubio and other high-level advisors will meet next week with a Russian delegation "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4100331695bb"
-    },
-    {
       "id": "266024b5959b",
       "title": "Q&A: Dirk Blackman, Shannon Eric Denton, and Kewber Baal Create a Vibrant Post-Apocalypse in New PANICK Entertainment Comic Book Series SAVAGER",
       "outlet": "Daily Dead",
@@ -5766,40 +5899,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "466eedaeea1f"
-    },
-    {
-      "id": "fbcf0258a312",
-      "title": "Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/",
-      "published_at": "Fri, 17 Oct 2025 20:12:45 +0000",
-      "bullets": [
-        "• Bose QuietComfort Ultra are currently marked down to just $329 on Amazon, with the same discount at Best Buy",
-        "• They sound great, with top-tier clarity and detail",
-        "• The bass is a little boomy out of the box, but a quick tweak of the EQ can smooth that right out "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bose QuietComfort Ultra are currently marked down to just $329 on Amazon, with the same discount at Best Buy",
-          "• They sound great, with top-tier clarity and detail"
-        ],
-        "hopeful_bullets": [
-          "• Bose QuietComfort Ultra are currently marked down to just $329 on Amazon, with the same discount at Best Buy",
-          "• They sound great, with top-tier clarity and detail"
-        ],
-        "stakes_bullets": [
-          "• Bose QuietComfort Ultra are currently marked down to just $329 on Amazon, with the same discount at Best Buy",
-          "• They sound great, with top-tier clarity and detail",
-          "• The bass is a little boomy out of the box, but a quick tweak of the EQ can smooth that right out "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f146af095822"
     },
     {
       "id": "274dbb3fbef0",
@@ -6494,39 +6593,6 @@
       "cluster_id": "ba7000764c4d"
     },
     {
-      "id": "c51165c303d8",
-      "title": "Apple and F1 reach 5-year media deal, bringing all races to Apple TV streaming in the U.S.",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/17/apple-f1-media-deal-streaming.html",
-      "published_at": "Fri, 17 Oct 2025 17:08:51 GMT",
-      "bullets": [
-        "• Apple TV will have exclusive rights to all F1 races starting in 2026",
-        "• The deal is part of a five-year deal with the Formula One network",
-        "• F1 will also be available in the Apple TV app for $12.99 a month "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.586
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple TV will have exclusive rights to all F1 races starting in 2026",
-          "• The deal is part of a five-year deal with the Formula One network"
-        ],
-        "hopeful_bullets": [
-          "• Apple TV will have exclusive rights to all F1 races starting in 2026",
-          "• The deal is part of a five-year deal with the Formula One network"
-        ],
-        "stakes_bullets": [
-          "• Apple TV will have exclusive rights to all F1 races starting in 2026",
-          "• F1 will also be available in the Apple TV app for $12.99 a month "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f03aa82ca908"
-    },
-    {
       "id": "aeb078dee145",
       "title": "‘Evil Dead Burn’ Wraps Production for July 2026 Release",
       "outlet": "Bloody Disgusting!",
@@ -6924,7 +6990,7 @@
     {
       "id": "872b49b0cb9f",
       "title": "What we know about the devastating storm in Western Alaska",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/17/nx-s1-5577974/typhoon-halong-western-alaska-villages-damaged-yukon-kuskokwim-delta",
       "published_at": "Fri, 17 Oct 2025 16:02:03 -0400",
       "bullets": [
@@ -6932,7 +6998,7 @@
         "• More than a thousand people have been displaced, according to the state",
         "• The state of Alaska's Emergency Operations Center is in its highest-possible level of emergency response "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
         "score": 0.99
@@ -7183,38 +7249,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "9cedde15cbcc"
-    },
-    {
-      "id": "331410ada9e2",
-      "title": "Can AI Avoid the Enshittification Trap?",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/can-ai-escape-enshittification-trap/",
-      "published_at": "Fri, 17 Oct 2025 15:00:00 +0000",
-      "bullets": [
-        "• GPT-5 picked a restaurant for dinner in Rome that turned out to be one of the best meals I've ever had",
-        "• The bot was an honest broker, picking my restaurant without bias",
-        "• The experience bolstered my confidence in AI results but also made me wonder: As companies like OpenAI get more powerful, will AI be prone to the erosion of value that seems endemic to tech apps today?"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• GPT-5 picked a restaurant for dinner in Rome that turned out to be one of the best meals I've ever had",
-          "• The bot was an honest broker, picking my restaurant without bias"
-        ],
-        "hopeful_bullets": [
-          "• GPT-5 picked a restaurant for dinner in Rome that turned out to be one of the best meals I've ever had",
-          "• The bot was an honest broker, picking my restaurant without bias"
-        ],
-        "stakes_bullets": [
-          "• The experience bolstered my confidence in AI results but also made me wonder: As companies like OpenAI get more powerful, will AI be prone to the erosion of value that seems endemic to tech apps today?"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "be646b6098bd"
     },
     {
       "id": "16b0321daa07",
@@ -7481,6 +7515,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "a433926cfaf4"
+    },
+    {
+      "id": "ae597f7944ed",
+      "title": "ACA enhanced subsidy lapse could hit early retirees hardest amid shutdown fight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/17/aca-enhanced-subsidy-lapse-government-shutdown.html",
+      "published_at": "Fri, 17 Oct 2025 11:47:54 GMT",
+      "bullets": [
+        "• The Galls are among roughly 92% of all enrollees in the Affordable Care Act",
+        "• They expect to pay almost $1,700 in premiums in 2026 if the tax credits are extended",
+        "• The tax credits expire at the end of this year, but could be extended to 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Galls are among roughly 92% of all enrollees in the Affordable Care Act",
+          "• They expect to pay almost $1,700 in premiums in 2026 if the tax credits are extended"
+        ],
+        "hopeful_bullets": [
+          "• The Galls are among roughly 92% of all enrollees in the Affordable Care Act",
+          "• They expect to pay almost $1,700 in premiums in 2026 if the tax credits are extended"
+        ],
+        "stakes_bullets": [
+          "• The tax credits expire at the end of this year, but could be extended to 2026 "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "59f32afb6b16"
     },
     {
       "id": "d8f0e5609837",
@@ -7875,39 +7941,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f2dee490d965"
-    },
-    {
-      "id": "323547db5d1a",
-      "title": "Peru to declare state of emergency after protests against new president leave one dead and dozens injured",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/17/peru-protests-state-emergency-president-jose-jeri",
-      "published_at": "Fri, 17 Oct 2025 04:46:41 GMT",
-      "bullets": [
-        "• At least one person killed and dozens injured in protests against President José Jerí",
-        "• Thousands of protesters amassed around the country, with hundreds clashing with police outside congress in Lima",
-        "• President Jerí blamed violence on ‘delinquents who infiltrated a peaceful demonstration to sow chaos’"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least one person killed and dozens injured in protests against President José Jerí",
-          "• Thousands of protesters amassed around the country, with hundreds clashing with police outside congress in Lima"
-        ],
-        "hopeful_bullets": [
-          "• At least one person killed and dozens injured in protests against President José Jerí"
-        ],
-        "stakes_bullets": [
-          "• At least one person killed and dozens injured in protests against President José Jerí",
-          "• Thousands of protesters amassed around the country, with hundreds clashing with police outside congress in Lima",
-          "• President Jerí blamed violence on ‘delinquents who infiltrated a peaceful demonstration to sow chaos’"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e2ec0f9e834c"
     },
     {
       "id": "e9c4ffccf8bb",
@@ -8309,6 +8342,36 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "63d0f1e1293c",
+      "title": "The lab where GM is cooking up new EV batteries to beat China",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/transportation/801780/gm-ev-battery-lab-lmr-range-cost",
+      "published_at": "2025-10-18T07:00:00-04:00",
+      "bullets": [
+        "• Inside GM’s fast-growing battery labs in suburban Detroit, scientists and engineers are analyzing stresses on lithium-ion cells",
+        "• With dozens of test chambers for individual cells, modules or entire packs, GM can simulate 10 years and 250,000 miles of real-world battery us "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.95
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Inside GM’s fast-growing battery labs in suburban Detroit, scientists and engineers are analyzing stresses on lithium-ion cells",
+          "• With dozens of test chambers for individual cells, modules or entire packs, GM can simulate 10 years and 250,000 miles of real-world battery us "
+        ],
+        "hopeful_bullets": [
+          "• Inside GM’s fast-growing battery labs in suburban Detroit, scientists and engineers are analyzing stresses on lithium-ion cells"
+        ],
+        "stakes_bullets": [
+          "• Inside GM’s fast-growing battery labs in suburban Detroit, scientists and engineers are analyzing stresses on lithium-ion cells"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "b02b846b1743"
+    },
+    {
       "id": "74be94b0b4d2",
       "title": "Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet",
       "outlet": "The Verge",
@@ -8599,41 +8662,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "99671b4f289e"
-    },
-    {
-      "id": "64ece8c62ad8",
-      "title": "Atari’s resurrecting the Intellivision, one of its biggest competitors in the ‘80s",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/801646/atari-intellivision-sprint-console-competition",
-      "published_at": "2025-10-17T11:29:18-04:00",
-      "bullets": [
-        "• The Intellivision Sprint upgrades the original with wireless controllers, HDMI, and 45 built-in games",
-        "• It's a new take on Mattel’s original version of the Atari 2600, which went head-to-head with Atari 2600 when it was released in 1979",
-        "• The Sprint looks a lot like the original, but there are a lot fewer cables",
-        "• It connects to a TV using a single HDMI cable "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Intellivision Sprint upgrades the original with wireless controllers, HDMI, and 45 built-in games",
-          "• It's a new take on Mattel’s original version of the Atari 2600, which went head-to-head with Atari 2600 when it was released in 1979"
-        ],
-        "hopeful_bullets": [
-          "• The Intellivision Sprint upgrades the original with wireless controllers, HDMI, and 45 built-in games",
-          "• It's a new take on Mattel’s original version of the Atari 2600, which went head-to-head with Atari 2600 when it was released in 1979"
-        ],
-        "stakes_bullets": [
-          "• The Intellivision Sprint upgrades the original with wireless controllers, HDMI, and 45 built-in games",
-          "• It's a new take on Mattel’s original version of the Atari 2600, which went head-to-head with Atari 2600 when it was released in 1979",
-          "• The Sprint looks a lot like the original, but there are a lot fewer cables"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8f3abb0c27c9"
     },
     {
       "id": "c41ff758b36a",
@@ -9330,6 +9358,24 @@
       ]
     },
     {
+      "id": "ea7591c0a230",
+      "topic": "asylum canada ice man",
+      "keywords": [
+        "asylum",
+        "canada",
+        "ice",
+        "man",
+        "seeking",
+        "trapped"
+      ],
+      "item_ids": [
+        "19f3d5057196"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "3e4570427300",
       "topic": "claim everything give maduro",
       "keywords": [
@@ -9402,21 +9448,21 @@
       ]
     },
     {
-      "id": "e2ec0f9e834c",
-      "topic": "against declare emergency peru",
+      "id": "181eabd0d59a",
+      "topic": "expected gather king live",
       "keywords": [
-        "against",
-        "declare",
-        "emergency",
-        "peru",
-        "protest",
-        "state"
+        "expected",
+        "gather",
+        "king",
+        "live",
+        "million",
+        "protest"
       ],
       "item_ids": [
-        "323547db5d1a"
+        "1aa4210df341"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
       ]
     },
     {
@@ -9564,24 +9610,6 @@
       ]
     },
     {
-      "id": "29614e92411d",
-      "topic": "artist breathtaking healing kara",
-      "keywords": [
-        "artist",
-        "breathtaking",
-        "healing",
-        "kara",
-        "unsettling",
-        "walker"
-      ],
-      "item_ids": [
-        "7f424a40c501"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "d17cace810ef",
       "topic": "crapshoot deal epstein plea",
       "keywords": [
@@ -9597,6 +9625,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "bebe721c8b5c",
+      "topic": "advice caregiver guide people",
+      "keywords": [
+        "advice",
+        "caregiver",
+        "guide",
+        "people",
+        "survival",
+        "there"
+      ],
+      "item_ids": [
+        "90ad150113b5"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9618,24 +9664,6 @@
       ]
     },
     {
-      "id": "1e53c4f5fc8d",
-      "topic": "does dominion mean sale",
-      "keywords": [
-        "does",
-        "dominion",
-        "mean",
-        "sale",
-        "system",
-        "voting"
-      ],
-      "item_ids": [
-        "20090200d058"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "bbaf9703bc1f",
       "topic": "capitol daily lawmaker police",
       "keywords": [
@@ -9648,6 +9676,24 @@
       ],
       "item_ids": [
         "bfde100af7fa"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "1e53c4f5fc8d",
+      "topic": "does dominion mean sale",
+      "keywords": [
+        "does",
+        "dominion",
+        "mean",
+        "sale",
+        "system",
+        "voting"
+      ],
+      "item_ids": [
+        "20090200d058"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9761,23 +9807,6 @@
       ]
     },
     {
-      "id": "38200f92583e",
-      "topic": "alaska devastating know storm",
-      "keywords": [
-        "alaska",
-        "devastating",
-        "know",
-        "storm",
-        "western"
-      ],
-      "item_ids": [
-        "872b49b0cb9f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "3b3b4eb26403",
       "topic": "bad loan out string",
       "keywords": [
@@ -9844,6 +9873,24 @@
       ],
       "item_ids": [
         "bb18d3a7e6c8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a294508ebbad",
+      "topic": "500 cable known little",
+      "keywords": [
+        "500",
+        "cable",
+        "known",
+        "little",
+        "purple",
+        "put"
+      ],
+      "item_ids": [
+        "aea7a9c06f36"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9922,39 +9969,57 @@
       ]
     },
     {
-      "id": "4100331695bb",
-      "topic": "alaska kremlin russia think",
+      "id": "59f32afb6b16",
+      "topic": "aca early enhanced hit",
       "keywords": [
-        "alaska",
-        "kremlin",
-        "russia",
-        "think",
-        "trump",
-        "tunnel"
+        "aca",
+        "early",
+        "enhanced",
+        "hit",
+        "lapse",
+        "subsidy"
       ],
       "item_ids": [
-        "62bf70fa014d"
+        "ae597f7944ed"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "f03aa82ca908",
-      "topic": "apple bringing deal media",
+      "id": "44b6bf9c5e68",
+      "topic": "amazon best movie now",
       "keywords": [
-        "apple",
-        "bringing",
-        "deal",
-        "media",
-        "reach",
-        "year"
+        "amazon",
+        "best",
+        "movie",
+        "now",
+        "prime",
+        "right"
       ],
       "item_ids": [
-        "c51165c303d8"
+        "b9e65a1cb143"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
+      ]
+    },
+    {
+      "id": "f886a69515ec",
+      "topic": "aids atom audien hearing",
+      "keywords": [
+        "aids",
+        "atom",
+        "audien",
+        "hearing",
+        "high",
+        "review"
+      ],
+      "item_ids": [
+        "7bb69fa2a74e"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10101,36 +10166,20 @@
       ]
     },
     {
-      "id": "f146af095822",
-      "topic": "100 canceling favorite headphone",
+      "id": "b02b846b1743",
+      "topic": "batterie beat china cooking",
       "keywords": [
-        "100",
-        "canceling",
-        "favorite",
-        "headphone",
-        "noise",
-        "some"
+        "batterie",
+        "beat",
+        "china",
+        "cooking",
+        "lab"
       ],
       "item_ids": [
-        "fbcf0258a312"
+        "63d0f1e1293c"
       ],
       "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "be646b6098bd",
-      "topic": "avoid enshittification trap",
-      "keywords": [
-        "avoid",
-        "enshittification",
-        "trap"
-      ],
-      "item_ids": [
-        "331410ada9e2"
-      ],
-      "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10287,24 +10336,6 @@
       ],
       "item_ids": [
         "b1bdc1b9bc51"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "8f3abb0c27c9",
-      "topic": "80s atari biggest competitor",
-      "keywords": [
-        "80s",
-        "atari",
-        "biggest",
-        "competitor",
-        "intellivision",
-        "resurrecting"
-      ],
-      "item_ids": [
-        "64ece8c62ad8"
       ],
       "outlets": [
         "The Verge"
@@ -10681,6 +10712,23 @@
       ],
       "item_ids": [
         "7e32f7f62ae9"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "38200f92583e",
+      "topic": "alaska devastating know storm",
+      "keywords": [
+        "alaska",
+        "devastating",
+        "know",
+        "storm",
+        "western"
+      ],
+      "item_ids": [
+        "872b49b0cb9f"
       ],
       "outlets": [
         "NPR Topics: Science"
