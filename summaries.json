@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T21:05:01Z",
+  "generated_at": "2026-01-11T22:01:10Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1890,6 +1890,74 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "30da75860fac",
+      "title": "Tom Hiddleston Just Made a Surprising Revelation About Tobey Maguire, Spider-Man and the MCU ... and Batman",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/tom-hiddleston-surprising-confession-about-tobey-maguire-and-mcu/",
+      "published_at": "Sun, 11 Jan 2026 21:53:56 GMT",
+      "bullets": [
+        "• Tom Hiddleston says he likes Tom Holland more than Tobey Maguire or Andrew Garfield",
+        "• The actor is working on a new Marvel movie, Avengers: Doomsday",
+        "• He also gave his pick for the best Spider-Man actor in the world "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tom Hiddleston says he likes Tom Holland more than Tobey Maguire or Andrew Garfield",
+          "• The actor is working on a new Marvel movie, Avengers: Doomsday"
+        ],
+        "hopeful_bullets": [
+          "• Tom Hiddleston says he likes Tom Holland more than Tobey Maguire or Andrew Garfield",
+          "• The actor is working on a new Marvel movie, Avengers: Doomsday"
+        ],
+        "stakes_bullets": [
+          "• Tom Hiddleston says he likes Tom Holland more than Tobey Maguire or Andrew Garfield",
+          "• The actor is working on a new Marvel movie, Avengers: Doomsday",
+          "• He also gave his pick for the best Spider-Man actor in the world "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "804813c31b50"
+    },
+    {
+      "id": "c7be08bb0ef6",
+      "title": "Fire Force Season 3 Part 2 Debuts With a 10/10 Perfect Premiere Episode",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/2026-best-anime-debut-fire-force-season-3-part-2/",
+      "published_at": "Sun, 11 Jan 2026 21:11:20 GMT",
+      "bullets": [
+        "• Fire Force Season 3, Episode 13, “Unaware,” is coincidentally the story’s most self-aware exploration of itself yet",
+        "• 2026 is already an undeniably great year for anime fans",
+        "• Jujutsu Kaisen Season 3 and Frieren: Beyond Journey's End Season 2 return "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire Force Season 3, Episode 13, “Unaware,” is coincidentally the story’s most self-aware exploration of itself yet",
+          "• 2026 is already an undeniably great year for anime fans"
+        ],
+        "hopeful_bullets": [
+          "• Fire Force Season 3, Episode 13, “Unaware,” is coincidentally the story’s most self-aware exploration of itself yet",
+          "• 2026 is already an undeniably great year for anime fans"
+        ],
+        "stakes_bullets": [
+          "• Fire Force Season 3, Episode 13, “Unaware,” is coincidentally the story’s most self-aware exploration of itself yet",
+          "• 2026 is already an undeniably great year for anime fans",
+          "• Jujutsu Kaisen Season 3 and Frieren: Beyond Journey's End Season 2 return "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7aa3ba2bca8c"
+    },
+    {
       "id": "0a529ecc79e3",
       "title": "The Girl Who Got Away Netflix Streaming Success",
       "outlet": "CBR",
@@ -1956,32 +2024,64 @@
       "cluster_id": "43842dba734e"
     },
     {
+      "id": "942d4a1536ef",
+      "title": "That time Will Smith helped discover new species of anaconda",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/",
+      "published_at": "Sun, 11 Jan 2026 20:35:33 +0000",
+      "bullets": [
+        "• A new species of giant anaconda was discovered in the Amazon in 2024",
+        "• Actor Will Smith was on the expedition for National Geographic's new documentary series, Pole to Pole with Will Smith",
+        "• The new species is called Eunectes akayama, which roughly translates to “the great snake”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new species of giant anaconda was discovered in the Amazon in 2024",
+          "• Actor Will Smith was on the expedition for National Geographic's new documentary series, Pole to Pole with Will Smith"
+        ],
+        "hopeful_bullets": [
+          "• A new species of giant anaconda was discovered in the Amazon in 2024",
+          "• Actor Will Smith was on the expedition for National Geographic's new documentary series, Pole to Pole with Will Smith"
+        ],
+        "stakes_bullets": [
+          "• Actor Will Smith was on the expedition for National Geographic's new documentary series, Pole to Pole with Will Smith"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "dab236a897d5"
+    },
+    {
       "id": "60826aaf444f",
       "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 11 Jan 2026 20:32:27 GMT",
       "bullets": [
-        "• Iran warns it will retaliate if US attacks as protesters defy crackdown",
-        "• Reports from BBC sources suggest several hundred protesters have now been killed",
-        "• Another 10,600 people have been detained during the two weeks of unrest",
-        "• US President Donald Trump said on Saturday that the US \"stands ready to help\""
+        "• Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+        "• Human Rights Activist News Agency says it has verified the deaths of 495 protesters and 48 security personnel nationwide",
+        "• Another 10,600 people have been detained over the fortnight of unrest "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.874
+        "score": 0.964
       },
       "moods": {
         "brief_bullets": [
-          "• Iran warns it will retaliate if US attacks as protesters defy crackdown",
-          "• Reports from BBC sources suggest several hundred protesters have now been killed"
+          "• Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+          "• Human Rights Activist News Agency says it has verified the deaths of 495 protesters and 48 security personnel nationwide"
         ],
         "hopeful_bullets": [
-          "• US President Donald Trump said on Saturday that the US \"stands ready to help\""
+          "• Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+          "• Human Rights Activist News Agency says it has verified the deaths of 495 protesters and 48 security personnel nationwide"
         ],
         "stakes_bullets": [
-          "• Iran warns it will retaliate if US attacks as protesters defy crackdown"
+          "• Iran warns it will retaliate if US attacks, as hundreds killed in protests"
         ]
       },
       "read_minutes": 5,
@@ -2356,41 +2456,6 @@
       "cluster_id": "f4e1fa6f9fbc"
     },
     {
-      "id": "02b1f8e6afef",
-      "title": "X-Men Apple TV  Store Streaming Success Confirmed",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/x-men-animated-series-apple-tv-streaming-hit/",
-      "published_at": "Sun, 11 Jan 2026 18:40:51 GMT",
-      "bullets": [
-        "• X-Men: The Animated Series has charted on the Apple TV Store",
-        "• The 1992 animated series still retains its popularity today",
-        "• The first season of the animated series earned a 100% on Rotten Tomatoes",
-        "• Critics have been extremely complimentary of the early '90s release "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• X-Men: The Animated Series has charted on the Apple TV Store",
-          "• The 1992 animated series still retains its popularity today"
-        ],
-        "hopeful_bullets": [
-          "• X-Men: The Animated Series has charted on the Apple TV Store",
-          "• The 1992 animated series still retains its popularity today"
-        ],
-        "stakes_bullets": [
-          "• X-Men: The Animated Series has charted on the Apple TV Store",
-          "• The 1992 animated series still retains its popularity today",
-          "• The first season of the animated series earned a 100% on Rotten Tomatoes"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7c87f57278fa"
-    },
-    {
       "id": "c5bdf170ea8f",
       "title": "Jenny Lewis Celebrated Her 50th Birthday by Marrying Her Dog",
       "outlet": "Music News",
@@ -2420,42 +2485,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "67b37266faaa"
-    },
-    {
-      "id": "96d631a1eb9d",
-      "title": "In Just 2 Days, Spy Thriller Tehran Has Already Defeated Pluribus on Apple TV",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tehran-surpassed-pluribus-on-apple-tv-january-2026/",
-      "published_at": "Sun, 11 Jan 2026 18:30:12 GMT",
-      "bullets": [
-        "• The sci-fi series Pluribus topped the charts globally on Jan",
-        "• 11",
-        "• Tehran just returned with a brand-new season on Nov",
-        "• 9, and it debuted in second place on its first day",
-        "• The new release pushed it out of the top spot in just two days "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.718
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The sci-fi series Pluribus topped the charts globally on Jan",
-          "• 11"
-        ],
-        "hopeful_bullets": [
-          "• The sci-fi series Pluribus topped the charts globally on Jan",
-          "• 11"
-        ],
-        "stakes_bullets": [
-          "• The sci-fi series Pluribus topped the charts globally on Jan",
-          "• 11",
-          "• Tehran just returned with a brand-new season on Nov"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4fe8fdd0b7ba"
     },
     {
       "id": "3d99199c1fde",
@@ -3836,6 +3865,68 @@
       "cluster_id": "b263093c9e47"
     },
     {
+      "id": "4dea5d8846c4",
+      "title": "Latin American left responds to Trump's pledge to take over of Venezuelan oil",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/11/nx-s1-5672420/latin-american-left-responds-to-the-trumps-pledge-to-take-over-of-venezuelan-oil",
+      "published_at": "Sun, 11 Jan 2026 08:06:01 -0500",
+      "bullets": [
+        "• Latin American left responds to Trump's pledge to take over of Venezuelan oil",
+        "• Many on the left are changing their rhetoric about President Trump",
+        "• President Trump is projecting U.S",
+        "• power across the region",
+        "• Some of Latin America's most strident leftist leaders are subdued "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Latin American left responds to Trump's pledge to take over of Venezuelan oil",
+          "• Many on the left are changing their rhetoric about President Trump"
+        ],
+        "hopeful_bullets": [
+          "• Latin American left responds to Trump's pledge to take over of Venezuelan oil",
+          "• Many on the left are changing their rhetoric about President Trump"
+        ],
+        "stakes_bullets": [
+          "• Some of Latin America's most strident leftist leaders are subdued "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "682999af2af1"
+    },
+    {
+      "id": "c208eed89c44",
+      "title": "After Venezuela, is the world order shifting from diplomacy towards aggression?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/11/nx-s1-5671132/after-venezuela-is-the-world-order-shifting-from-diplomacy-towards-aggression",
+      "published_at": "Sun, 11 Jan 2026 08:05:43 -0500",
+      "bullets": [
+        "• After Venezuela, is the world order shifting from diplomacy towards aggression? Is this kind of aggression a return to a historic norm? We're going to talk to Peter Krause, an associate professor of political science at Boston College and a research affiliate with the MIT Security Studies Program "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• After Venezuela, is the world order shifting from diplomacy towards aggression? Is this kind of aggression a return to a historic norm? We're going to talk to Peter Krause, an associate professor of political science at Boston College and a research affiliate with the MIT Security Studies Program "
+        ],
+        "hopeful_bullets": [
+          "• After Venezuela, is the world order shifting from diplomacy towards aggression? Is this kind of aggression a return to a historic norm? We're going to talk to Peter Krause, an associate professor of political science at Boston College and a research affiliate with the MIT Security Studies Program "
+        ],
+        "stakes_bullets": [
+          "• After Venezuela, is the world order shifting from diplomacy towards aggression? Is this kind of aggression a return to a historic norm? We're going to talk to Peter Krause, an associate professor of political science at Boston College and a research affiliate with the MIT Security Studies Program "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "11c99ff23c5c"
+    },
+    {
       "id": "16c8fb8adf92",
       "title": "Politics chat: Lawmakers push back on Venezuela, ICE shooting sparks protests",
       "outlet": "NPR Topics: Politics",
@@ -3877,29 +3968,31 @@
       "url": "https://www.npr.org/2026/01/11/nx-s1-5664864/edward-scissorhands-of-dinosaurs-and-more-cool-dino-discoveries-from-2025",
       "published_at": "Sun, 11 Jan 2026 08:05:22 -0500",
       "bullets": [
-        "• Sacha Pfeiffer: 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
-        "• Paleontologists Susannah Maidment and Chinzorig Tsogtbaatar share details about some of the cool dinosaurs discovered last year "
+        "• 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
+        "• Duonychus tsogtbaatari has two fingers, each around a foot long, and its hands are composed of two fingers",
+        "• Another dino with a wild appearance is the 165-million-year-old Spicomellus "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 1.0
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Sacha Pfeiffer: 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
-          "• Paleontologists Susannah Maidment and Chinzorig Tsogtbaatar share details about some of the cool dinosaurs discovered last year "
+          "• 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
+          "• Duonychus tsogtbaatari has two fingers, each around a foot long, and its hands are composed of two fingers"
         ],
         "hopeful_bullets": [
-          "• Sacha Pfeiffer: 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
-          "• Paleontologists Susannah Maidment and Chinzorig Tsogtbaatar share details about some of the cool dinosaurs discovered last year "
+          "• 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
+          "• Duonychus tsogtbaatari has two fingers, each around a foot long, and its hands are composed of two fingers"
         ],
         "stakes_bullets": [
-          "• Sacha Pfeiffer: 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
-          "• Paleontologists Susannah Maidment and Chinzorig Tsogtbaatar share details about some of the cool dinosaurs discovered last year "
+          "• 'Edward Scissorhands of dinosaurs' and more cool dino discoveries from 2025",
+          "• Duonychus tsogtbaatari has two fingers, each around a foot long, and its hands are composed of two fingers",
+          "• Another dino with a wild appearance is the 165-million-year-old Spicomellus "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 4,
       "cluster_id": "20ae909b58ff"
     },
     {
@@ -7385,38 +7478,6 @@
       "cluster_id": "2a773f9224bf"
     },
     {
-      "id": "d08b83a7ce46",
-      "title": "These 60,000-year-old poison arrows are oldest yet found",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2026/01/these-60000-year-old-poison-arrows-are-oldest-yet-found/",
-      "published_at": "Fri, 09 Jan 2026 16:49:51 +0000",
-      "bullets": [
-        "• Scientists find traces of plant-based poison on 60,000-year-old quartz Stone Age arrowheads found in South Africa",
-        "• This is the oldest direct evidence of using poisons on projectiles, a cognitively complex hunting strategy",
-        "• The study pushes the timeline for using poison arrows back into the Pleistocene "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists find traces of plant-based poison on 60,000-year-old quartz Stone Age arrowheads found in South Africa",
-          "• This is the oldest direct evidence of using poisons on projectiles, a cognitively complex hunting strategy"
-        ],
-        "hopeful_bullets": [
-          "• Scientists find traces of plant-based poison on 60,000-year-old quartz Stone Age arrowheads found in South Africa",
-          "• This is the oldest direct evidence of using poisons on projectiles, a cognitively complex hunting strategy"
-        ],
-        "stakes_bullets": [
-          "• Scientists find traces of plant-based poison on 60,000-year-old quartz Stone Age arrowheads found in South Africa"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a07fbbcd0de4"
-    },
-    {
       "id": "3a005bf149e4",
       "title": "Salt-N-Pepa’s Lawsuit Against Universal Music Group Dismissed",
       "outlet": "RSS: News",
@@ -9304,6 +9365,42 @@
       ]
     },
     {
+      "id": "682999af2af1",
+      "topic": "american latin left pledge",
+      "keywords": [
+        "american",
+        "latin",
+        "left",
+        "pledge",
+        "respond",
+        "trump"
+      ],
+      "item_ids": [
+        "4dea5d8846c4"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "11c99ff23c5c",
+      "topic": "diplomacy order shifting toward",
+      "keywords": [
+        "diplomacy",
+        "order",
+        "shifting",
+        "toward",
+        "venezuela",
+        "world"
+      ],
+      "item_ids": [
+        "c208eed89c44"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "192989df86f9",
       "topic": "between caught chile exile",
       "keywords": [
@@ -9911,6 +10008,24 @@
       ]
     },
     {
+      "id": "dab236a897d5",
+      "topic": "anaconda discover helped smith",
+      "keywords": [
+        "anaconda",
+        "discover",
+        "helped",
+        "smith",
+        "specie",
+        "time"
+      ],
+      "item_ids": [
+        "942d4a1536ef"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "d3081489c734",
       "topic": "getting hotter just keep",
       "keywords": [
@@ -10066,24 +10181,6 @@
       ],
       "item_ids": [
         "33636282cc85"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "a07fbbcd0de4",
-      "topic": "000 arrow old poison",
-      "keywords": [
-        "000",
-        "arrow",
-        "old",
-        "poison",
-        "these",
-        "year"
-      ],
-      "item_ids": [
-        "d08b83a7ce46"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -12492,6 +12589,42 @@
       ]
     },
     {
+      "id": "804813c31b50",
+      "topic": "hiddleston just made revelation",
+      "keywords": [
+        "hiddleston",
+        "just",
+        "made",
+        "revelation",
+        "surprising",
+        "tom"
+      ],
+      "item_ids": [
+        "30da75860fac"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "7aa3ba2bca8c",
+      "topic": "debut fire force part",
+      "keywords": [
+        "debut",
+        "fire",
+        "force",
+        "part",
+        "perfect",
+        "season"
+      ],
+      "item_ids": [
+        "c7be08bb0ef6"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "d519e14ae34e",
       "topic": "away girl got netflix",
       "keywords": [
@@ -12630,42 +12763,6 @@
       ],
       "item_ids": [
         "74c08cc3701b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7c87f57278fa",
-      "topic": "apple confirmed men store",
-      "keywords": [
-        "apple",
-        "confirmed",
-        "men",
-        "store",
-        "streaming",
-        "succes"
-      ],
-      "item_ids": [
-        "02b1f8e6afef"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4fe8fdd0b7ba",
-      "topic": "already days just spy",
-      "keywords": [
-        "already",
-        "days",
-        "just",
-        "spy",
-        "tehran",
-        "thriller"
-      ],
-      "item_ids": [
-        "96d631a1eb9d"
       ],
       "outlets": [
         "CBR"
