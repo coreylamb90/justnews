@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T23:55:35Z",
+  "generated_at": "2026-01-13T00:16:05Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -835,6 +835,40 @@
       },
       "read_minutes": 9,
       "cluster_id": "cfbb41388719"
+    },
+    {
+      "id": "3b5adcd41249",
+      "title": "Time's Running Out to Watch Groundhog Day on Netflix",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/groundog-day-leaving-netflix-february-2026/",
+      "published_at": "Tue, 13 Jan 2026 00:00:11 GMT",
+      "bullets": [
+        "• The romantic comedy was released in 1993 and has a 94% Rotten Tomatoes score",
+        "• It starred Bill Murray and Andie MacDowell and solidified the “time loop” concept as one of the more popular themes in science fiction",
+        "• Fans will have until Feb",
+        "• 1, 2026 (the day before the actual Groundhog Day holiday) to catch the romantic comedy "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The romantic comedy was released in 1993 and has a 94% Rotten Tomatoes score",
+          "• It starred Bill Murray and Andie MacDowell and solidified the “time loop” concept as one of the more popular themes in science fiction"
+        ],
+        "hopeful_bullets": [
+          "• The romantic comedy was released in 1993 and has a 94% Rotten Tomatoes score",
+          "• It starred Bill Murray and Andie MacDowell and solidified the “time loop” concept as one of the more popular themes in science fiction"
+        ],
+        "stakes_bullets": [
+          "• It starred Bill Murray and Andie MacDowell and solidified the “time loop” concept as one of the more popular themes in science fiction",
+          "• Fans will have until Feb"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3d4e38e7bb3b"
     },
     {
       "id": "c831e3291d7e",
@@ -2934,6 +2968,41 @@
       "cluster_id": "1fb2c81d1995"
     },
     {
+      "id": "7ed7f52aaff7",
+      "title": "Bushfire threat eases across Victoria as number of structures destroyed nears 500",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/13/victorian-bushfire-threat-eases-structures-destroyed",
+      "published_at": "Mon, 12 Jan 2026 23:47:35 GMT",
+      "bullets": [
+        "• There are no emergency warnings in place for the first time in almost a week",
+        "• The number of structures lost nears 500 in Victoria's bushfires",
+        "• More than 480 structures have been damaged or destroyed, up from 350 on Monday",
+        "• This includes 343 structures destroyed in the Longwood blaze, which claimed the life of Maxwell Hobson "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.941
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There are no emergency warnings in place for the first time in almost a week",
+          "• The number of structures lost nears 500 in Victoria's bushfires"
+        ],
+        "hopeful_bullets": [
+          "• There are no emergency warnings in place for the first time in almost a week",
+          "• The number of structures lost nears 500 in Victoria's bushfires"
+        ],
+        "stakes_bullets": [
+          "• There are no emergency warnings in place for the first time in almost a week",
+          "• The number of structures lost nears 500 in Victoria's bushfires",
+          "• More than 480 structures have been damaged or destroyed, up from 350 on Monday"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "009b2ec21df1"
+    },
+    {
       "id": "db9f9ffced51",
       "title": "David Fincher’s Alien 3 Took a Risk Most Franchises Avoid",
       "outlet": "CBR",
@@ -2964,6 +3033,72 @@
       },
       "read_minutes": 8,
       "cluster_id": "4c1be78cb57d"
+    },
+    {
+      "id": "e6d1ce68e4f5",
+      "title": "Minnesota and Illinois sue Trump administration over immigration crackdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/12/donald-trump-ice-minnesota-fed-jerome-powell-iran-cuba-venezuela-greenland-us-politics-live-news-updates",
+      "published_at": "Mon, 12 Jan 2026 23:22:31 GMT",
+      "bullets": [
+        "• Minnesota and the cities of Minneapolis and St",
+        "• Paul have filed a lawsuit against the Trump administration",
+        "• The lawsuit asks the court to declare the surge in federal agents in region unconstitutional and unlawful",
+        "• Officials claim the crackdown has led to racial profiling and disruptions to everyday life "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Minnesota and the cities of Minneapolis and St",
+          "• Paul have filed a lawsuit against the Trump administration"
+        ],
+        "hopeful_bullets": [
+          "• Paul have filed a lawsuit against the Trump administration",
+          "• The lawsuit asks the court to declare the surge in federal agents in region unconstitutional and unlawful"
+        ],
+        "stakes_bullets": [
+          "• Minnesota and the cities of Minneapolis and St",
+          "• Paul have filed a lawsuit against the Trump administration",
+          "• The lawsuit asks the court to declare the surge in federal agents in region unconstitutional and unlawful"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "6049609f315b"
+    },
+    {
+      "id": "7bb22e44a860",
+      "title": "Peter Thiel makes $3m donation to fight California’s proposed billionaire tax",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/12/peter-thiel-donation-california-billionaire-tax",
+      "published_at": "Mon, 12 Jan 2026 23:19:31 GMT",
+      "bullets": [
+        "• Palantir co-founder Peter Thiel donated $3m to a California lobbying group advocating against a proposed wealth tax that would target billionaires in the state",
+        "• The ballot proposal, called 2026 Billionaire Tax Act, is still in the beginning stages of gathering the 900,000 signatures needed for it to go to voters in November "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Palantir co-founder Peter Thiel donated $3m to a California lobbying group advocating against a proposed wealth tax that would target billionaires in the state",
+          "• The ballot proposal, called 2026 Billionaire Tax Act, is still in the beginning stages of gathering the 900,000 signatures needed for it to go to voters in November "
+        ],
+        "hopeful_bullets": [
+          "• Palantir co-founder Peter Thiel donated $3m to a California lobbying group advocating against a proposed wealth tax that would target billionaires in the state"
+        ],
+        "stakes_bullets": [
+          "• Palantir co-founder Peter Thiel donated $3m to a California lobbying group advocating against a proposed wealth tax that would target billionaires in the state",
+          "• The ballot proposal, called 2026 Billionaire Tax Act, is still in the beginning stages of gathering the 900,000 signatures needed for it to go to voters in November "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e5710b8e385a"
     },
     {
       "id": "c7241e7b1197",
@@ -3197,40 +3332,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "c321c8d2a404"
-    },
-    {
-      "id": "e6d1ce68e4f5",
-      "title": "Minnesota and Illinois sue Trump administration over immigration crackdown – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/12/donald-trump-ice-minnesota-fed-jerome-powell-iran-cuba-venezuela-greenland-us-politics-live-news-updates",
-      "published_at": "Mon, 12 Jan 2026 22:52:39 GMT",
-      "bullets": [
-        "• Minnesota and the cities of Minneapolis and St",
-        "• Paul have filed a lawsuit against the Trump administration, asking a federal court to halt the ramped-up immigration crackdown in the state",
-        "• The lawsuit asks the court to declare the surge in federal agents in region unconstitutional and unlawful "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Minnesota and the cities of Minneapolis and St",
-          "• Paul have filed a lawsuit against the Trump administration, asking a federal court to halt the ramped-up immigration crackdown in the state"
-        ],
-        "hopeful_bullets": [
-          "• Paul have filed a lawsuit against the Trump administration, asking a federal court to halt the ramped-up immigration crackdown in the state",
-          "• The lawsuit asks the court to declare the surge in federal agents in region unconstitutional and unlawful "
-        ],
-        "stakes_bullets": [
-          "• Minnesota and the cities of Minneapolis and St",
-          "• Paul have filed a lawsuit against the Trump administration, asking a federal court to halt the ramped-up immigration crackdown in the state",
-          "• The lawsuit asks the court to declare the surge in federal agents in region unconstitutional and unlawful "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "6049609f315b"
     },
     {
       "id": "286ea1a0db90",
@@ -3566,40 +3667,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "e1b380464a19"
-    },
-    {
-      "id": "3cc6e6bbba87",
-      "title": "Star Trek's \"The City on the Edge of Forever\" Is the Most Rewatchable Episode",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-city-on-the-edge-of-forever-rewatchable-episode-greatest-kirk-story/",
-      "published_at": "Mon, 12 Jan 2026 22:15:12 GMT",
-      "bullets": [
-        "• Season 1's \"The City on the Edge of Forever\" is arguably one of its greatest stories",
-        "• Gene Roddenberry turned to science fiction allegory as a means to examine contemporary social and political issues",
-        "• Like the characters in 19th-century westerns, the crew of the USS Enterprise would stay in constant motion "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Season 1's \"The City on the Edge of Forever\" is arguably one of its greatest stories",
-          "• Gene Roddenberry turned to science fiction allegory as a means to examine contemporary social and political issues"
-        ],
-        "hopeful_bullets": [
-          "• Season 1's \"The City on the Edge of Forever\" is arguably one of its greatest stories",
-          "• Gene Roddenberry turned to science fiction allegory as a means to examine contemporary social and political issues"
-        ],
-        "stakes_bullets": [
-          "• Season 1's \"The City on the Edge of Forever\" is arguably one of its greatest stories",
-          "• Gene Roddenberry turned to science fiction allegory as a means to examine contemporary social and political issues",
-          "• Like the characters in 19th-century westerns, the crew of the USS Enterprise would stay in constant motion "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "d0c1f97e9493"
     },
     {
       "id": "f84bff0bca36",
@@ -4946,38 +5013,6 @@
       "cluster_id": "a47b0702077c"
     },
     {
-      "id": "2823b595375a",
-      "title": "Woman charged for starting GoFundMe posing as father of Texas flooding victim",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/12/gofundme-texas-flooding-impersonation",
-      "published_at": "Mon, 12 Jan 2026 19:07:47 GMT",
-      "bullets": [
-        "• Maitlin Paige White, 28, of Crestview, Florida, is accused of posing as Matthew Childress and soliciting donations in the days after the death of his 18-year-old daughter, Chloe",
-        "• Chloe Childress, 18, was working as a counselor at Camp Mystic in Kerr county, Texas, when she died in July's deadly flooding "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Maitlin Paige White, 28, of Crestview, Florida, is accused of posing as Matthew Childress and soliciting donations in the days after the death of his 18-year-old daughter, Chloe",
-          "• Chloe Childress, 18, was working as a counselor at Camp Mystic in Kerr county, Texas, when she died in July's deadly flooding "
-        ],
-        "hopeful_bullets": [
-          "• Maitlin Paige White, 28, of Crestview, Florida, is accused of posing as Matthew Childress and soliciting donations in the days after the death of his 18-year-old daughter, Chloe",
-          "• Chloe Childress, 18, was working as a counselor at Camp Mystic in Kerr county, Texas, when she died in July's deadly flooding "
-        ],
-        "stakes_bullets": [
-          "• Maitlin Paige White, 28, of Crestview, Florida, is accused of posing as Matthew Childress and soliciting donations in the days after the death of his 18-year-old daughter, Chloe",
-          "• Chloe Childress, 18, was working as a counselor at Camp Mystic in Kerr county, Texas, when she died in July's deadly flooding "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "15bb29cac561"
-    },
-    {
       "id": "4abbc0a447fc",
       "title": "‘All You Need Is Kill’ Trailer – Anime Based on the Same Novel as ‘Edge of Tomorrow’ Opens Friday",
       "outlet": "Bloody Disgusting!",
@@ -5145,6 +5180,36 @@
       "cluster_id": "0c185408cc4e"
     },
     {
+      "id": "8ffaabcc4365",
+      "title": "In photos: A week of protests against ICE",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/01/12/g-s1-105725/in-photos-a-week-of-protests-against-ice",
+      "published_at": "Mon, 12 Jan 2026 18:45:00 -0500",
+      "bullets": [
+        "• NPR station photographers and freelance photographer Evan Frost have been on the ground over the past week documenting actions in Minneapolis, D.C., Texas, Connecticut, and Massachusetts",
+        "• Following last week's fatal shooting of Renee Macklin Good, a 37-year-old woman in Minneapolis by an Immigration and Customs Enforcement officer, protests have continued to grow across the United States "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NPR station photographers and freelance photographer Evan Frost have been on the ground over the past week documenting actions in Minneapolis, D.C., Texas, Connecticut, and Massachusetts",
+          "• Following last week's fatal shooting of Renee Macklin Good, a 37-year-old woman in Minneapolis by an Immigration and Customs Enforcement officer, protests have continued to grow across the United States "
+        ],
+        "hopeful_bullets": [
+          "• Following last week's fatal shooting of Renee Macklin Good, a 37-year-old woman in Minneapolis by an Immigration and Customs Enforcement officer, protests have continued to grow across the United States "
+        ],
+        "stakes_bullets": [
+          "• NPR station photographers and freelance photographer Evan Frost have been on the ground over the past week documenting actions in Minneapolis, D.C., Texas, Connecticut, and Massachusetts"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1181aa6dc3f2"
+    },
+    {
       "id": "a6258c2fc58e",
       "title": "Apple picks Google's Gemini to run AI-powered Siri coming this year",
       "outlet": "US Top News and Analysis",
@@ -5249,26 +5314,26 @@
       "published_at": "Mon, 12 Jan 2026 18:24:19 +0000",
       "bullets": [
         "• MacKenzie Scott donated $45 million to The Trevor Project, a nonprofit that serves LGBTQ+ youth",
-        "• The gift comes just months after the Trump administration shut down counseling services for queer youth",
+        "• The large gift comes just months after the Trump administration shut down counseling services for queer youth",
         "• Scott previously donated $6 million to the nonprofit during the first Trump administration "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.98
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
           "• MacKenzie Scott donated $45 million to The Trevor Project, a nonprofit that serves LGBTQ+ youth",
-          "• The gift comes just months after the Trump administration shut down counseling services for queer youth"
+          "• The large gift comes just months after the Trump administration shut down counseling services for queer youth"
         ],
         "hopeful_bullets": [
           "• MacKenzie Scott donated $45 million to The Trevor Project, a nonprofit that serves LGBTQ+ youth",
-          "• The gift comes just months after the Trump administration shut down counseling services for queer youth"
+          "• The large gift comes just months after the Trump administration shut down counseling services for queer youth"
         ],
         "stakes_bullets": [
           "• MacKenzie Scott donated $45 million to The Trevor Project, a nonprofit that serves LGBTQ+ youth",
-          "• The gift comes just months after the Trump administration shut down counseling services for queer youth",
+          "• The large gift comes just months after the Trump administration shut down counseling services for queer youth",
           "• Scott previously donated $6 million to the nonprofit during the first Trump administration "
         ]
       },
@@ -6269,39 +6334,6 @@
       "cluster_id": "2bb2238850e7"
     },
     {
-      "id": "855268c985f6",
-      "title": "Major incident declared as 30,000 homes left without water in Kent and Sussex",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jan/12/major-incident-declared-as-30000-homes-left-without-water-in-kent-and-sussex",
-      "published_at": "Mon, 12 Jan 2026 12:45:25 GMT",
-      "bullets": [
-        "• Schools and libraries across Kent and Sussex have closed for the day",
-        "• South East Water blamed cold weather and Storm Goretti for the supply problems",
-        "• It said freezing conditions had caused burst pipes and storm made the company unable to treat water at the usual rate",
-        "• The Reform-led council in Kent has declared a major incident "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Schools and libraries across Kent and Sussex have closed for the day",
-          "• South East Water blamed cold weather and Storm Goretti for the supply problems"
-        ],
-        "hopeful_bullets": [
-          "• Schools and libraries across Kent and Sussex have closed for the day",
-          "• South East Water blamed cold weather and Storm Goretti for the supply problems"
-        ],
-        "stakes_bullets": [
-          "• It said freezing conditions had caused burst pipes and storm made the company unable to treat water at the usual rate"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4a161509ad00"
-    },
-    {
       "id": "055a7fa0ef96",
       "title": "Trump’s move to pull US from key UN climate treaty may be illegal, experts say",
       "outlet": "Environment | The Guardian",
@@ -6992,38 +7024,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "1713ab99047e"
-    },
-    {
-      "id": "805998efad0b",
-      "title": "Exercise is as effective as medication in treating depression, study finds",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds",
-      "published_at": "Mon, 12 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Exercise is as effective as medication in treating depression, study finds",
-        "• Exercise is one of the most evidence-based tools for improving mood, psychiatrist says",
-        "• Researchers evaluated 73 randomized controlled trials that included about 5,000 people with depression",
-        "• Exercise can trigger the release of brain growth factors, expert says "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Exercise is as effective as medication in treating depression, study finds",
-          "• Exercise is one of the most evidence-based tools for improving mood, psychiatrist says"
-        ],
-        "hopeful_bullets": [
-          "• Exercise can trigger the release of brain growth factors, expert says "
-        ],
-        "stakes_bullets": [
-          "• Exercise is as effective as medication in treating depression, study finds"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b280130991a8"
     },
     {
       "id": "d5ff39920222",
@@ -9401,24 +9401,6 @@
       ]
     },
     {
-      "id": "4420e514a9de",
-      "topic": "administration end minnesota sues",
-      "keywords": [
-        "administration",
-        "end",
-        "minnesota",
-        "sues",
-        "surge",
-        "trump"
-      ],
-      "item_ids": [
-        "95d0d5849505"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "6049609f315b",
       "topic": "administration illinoi immigration minnesota",
       "keywords": [
@@ -9431,6 +9413,42 @@
       ],
       "item_ids": [
         "e6d1ce68e4f5"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "e5710b8e385a",
+      "topic": "california donation fight make",
+      "keywords": [
+        "california",
+        "donation",
+        "fight",
+        "make",
+        "peter",
+        "thiel"
+      ],
+      "item_ids": [
+        "7bb22e44a860"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "4420e514a9de",
+      "topic": "administration end minnesota sues",
+      "keywords": [
+        "administration",
+        "end",
+        "minnesota",
+        "sues",
+        "surge",
+        "trump"
+      ],
+      "item_ids": [
+        "95d0d5849505"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9545,24 +9563,6 @@
       ]
     },
     {
-      "id": "15bb29cac561",
-      "topic": "charged father gofundme posing",
-      "keywords": [
-        "charged",
-        "father",
-        "gofundme",
-        "posing",
-        "starting",
-        "woman"
-      ],
-      "item_ids": [
-        "2823b595375a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "28e88e3f3089",
       "topic": "danish firm judge lets",
       "keywords": [
@@ -9578,6 +9578,23 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "1181aa6dc3f2",
+      "topic": "against ice photo protest",
+      "keywords": [
+        "against",
+        "ice",
+        "photo",
+        "protest",
+        "week"
+      ],
+      "item_ids": [
+        "8ffaabcc4365"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9719,24 +9736,6 @@
       ],
       "item_ids": [
         "e0e43a43654b"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "b280130991a8",
-      "topic": "depression effective exercise medication",
-      "keywords": [
-        "depression",
-        "effective",
-        "exercise",
-        "medication",
-        "study",
-        "treating"
-      ],
-      "item_ids": [
-        "805998efad0b"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11197,6 +11196,24 @@
       ]
     },
     {
+      "id": "009b2ec21df1",
+      "topic": "acros bushfire ease number",
+      "keywords": [
+        "acros",
+        "bushfire",
+        "ease",
+        "number",
+        "threat",
+        "victoria"
+      ],
+      "item_ids": [
+        "7ed7f52aaff7"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "b0a78cc310e8",
       "topic": "barnaby gina hanson joyce",
       "keywords": [
@@ -11209,24 +11226,6 @@
       ],
       "item_ids": [
         "5b5381eb1a66"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "4a161509ad00",
-      "topic": "000 declared home incident",
-      "keywords": [
-        "000",
-        "declared",
-        "home",
-        "incident",
-        "left",
-        "major"
-      ],
-      "item_ids": [
-        "855268c985f6"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -12994,6 +12993,24 @@
       ]
     },
     {
+      "id": "3d4e38e7bb3b",
+      "topic": "day groundhog out running",
+      "keywords": [
+        "day",
+        "groundhog",
+        "out",
+        "running",
+        "time",
+        "watch"
+      ],
+      "item_ids": [
+        "3b5adcd41249"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "4c1be78cb57d",
       "topic": "alien david fincher most",
       "keywords": [
@@ -13130,24 +13147,6 @@
       ],
       "item_ids": [
         "207abdc14da6"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d0c1f97e9493",
-      "topic": "city edge forever most",
-      "keywords": [
-        "city",
-        "edge",
-        "forever",
-        "most",
-        "star",
-        "trek"
-      ],
-      "item_ids": [
-        "3cc6e6bbba87"
       ],
       "outlets": [
         "CBR"
