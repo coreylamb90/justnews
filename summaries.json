@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T23:57:56Z",
+  "generated_at": "2026-01-15T00:14:24Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -207,6 +207,36 @@
       "cluster_id": "a2f081ae8ca6"
     },
     {
+      "id": "67eea23fc41d",
+      "title": "Donald Trump and Venezuela’s interim leader hold first phone call – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/14/us-politics-live-latest-news-updates-supreme-court-donald-trump-tariffs-jd-vance-greenland",
+      "published_at": "Wed, 14 Jan 2026 23:33:27 GMT",
+      "bullets": [
+        "• Donald Trump and Venezuela's interim leader, Delcy Rodríguez, have both issued statements regarding their phone call earlier today",
+        "• The Senate has voted against a war powers resolution that would have prevented Donald Trump from taking further military action against Venezuela without giving Congress advance notice "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump and Venezuela's interim leader, Delcy Rodríguez, have both issued statements regarding their phone call earlier today",
+          "• The Senate has voted against a war powers resolution that would have prevented Donald Trump from taking further military action against Venezuela without giving Congress advance notice "
+        ],
+        "hopeful_bullets": [
+          "• The Senate has voted against a war powers resolution that would have prevented Donald Trump from taking further military action against Venezuela without giving Congress advance notice "
+        ],
+        "stakes_bullets": [
+          "• Donald Trump and Venezuela's interim leader, Delcy Rodríguez, have both issued statements regarding their phone call earlier today"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "b5a66960b9b4"
+    },
+    {
       "id": "9ae4f264bdfc",
       "title": "Star Trek: Deep Space Nine Returns to PVOD Chart Ahead of Starfleet Academy",
       "outlet": "CBR",
@@ -237,40 +267,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "64b4098b4cc4"
-    },
-    {
-      "id": "67eea23fc41d",
-      "title": "Half of Americans think ICE is making cities less safe, poll finds – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/14/us-politics-live-latest-news-updates-supreme-court-donald-trump-tariffs-jd-vance-greenland",
-      "published_at": "Wed, 14 Jan 2026 23:15:35 GMT",
-      "bullets": [
-        "• 51% of Americans said that ICE’s enforcement actions are making cities less safe rather than safer",
-        "• Only 31% felt that ICE's operations were making cities more secure",
-        "• Only 26% said they viewed the fatal shooting of Renee Good in Minneapolis as an ‘appropriate use of force’"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 51% of Americans said that ICE’s enforcement actions are making cities less safe rather than safer",
-          "• Only 31% felt that ICE's operations were making cities more secure"
-        ],
-        "hopeful_bullets": [
-          "• 51% of Americans said that ICE’s enforcement actions are making cities less safe rather than safer",
-          "• Only 31% felt that ICE's operations were making cities more secure"
-        ],
-        "stakes_bullets": [
-          "• 51% of Americans said that ICE’s enforcement actions are making cities less safe rather than safer",
-          "• Only 31% felt that ICE's operations were making cities more secure",
-          "• Only 26% said they viewed the fatal shooting of Renee Good in Minneapolis as an ‘appropriate use of force’"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "94c96d1d0f7f"
     },
     {
       "id": "ec0b91880aaf",
@@ -378,25 +374,27 @@
       "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
       "published_at": "Wed, 14 Jan 2026 22:48:32 +0000",
       "bullets": [
-        "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House, demand that ICE leave US cities, and speak out publicly against the agency’s recent violence",
-        "• This includes prominent researchers at Google and Anthropic, who have denounced the killing as calloused and immoral "
+        "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House and speak out against ICE violence",
+        "• The petition was organized by former Stripe employee Anne Diemer, a human resources consultant",
+        "• Google, Amazon, Spotify, TikTok, Spotify and Spotify are among those who have signed the petition "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.978
+        "score": 0.942
       },
       "moods": {
         "brief_bullets": [
-          "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House, demand that ICE leave US cities, and speak out publicly against the agency’s recent violence",
-          "• This includes prominent researchers at Google and Anthropic, who have denounced the killing as calloused and immoral "
+          "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House and speak out against ICE violence",
+          "• The petition was organized by former Stripe employee Anne Diemer, a human resources consultant"
         ],
         "hopeful_bullets": [
-          "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House, demand that ICE leave US cities, and speak out publicly against the agency’s recent violence"
+          "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House and speak out against ICE violence"
         ],
         "stakes_bullets": [
-          "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House, demand that ICE leave US cities, and speak out publicly against the agency’s recent violence",
-          "• This includes prominent researchers at Google and Anthropic, who have denounced the killing as calloused and immoral "
+          "• More than 150 tech workers have signed a petition calling for their company CEOs to call the White House and speak out against ICE violence",
+          "• The petition was organized by former Stripe employee Anne Diemer, a human resources consultant",
+          "• Google, Amazon, Spotify, TikTok, Spotify and Spotify are among those who have signed the petition "
         ]
       },
       "read_minutes": 4,
@@ -769,40 +767,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "aa7c0d9017a1"
-    },
-    {
-      "id": "4893badc7032",
-      "title": "6 Underrated '90s Thrillers Everyone Must Watch at Least Once",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/underrated-bucket-list-90s-thrillers/",
-      "published_at": "Wed, 14 Jan 2026 22:10:12 GMT",
-      "bullets": [
-        "• Some of the best '90s thrillers are overlooked in favor of the hard-hitting and genre-defining movies",
-        "• The Silence of the Lambs and Seven are still some of the most praised films in the genre",
-        "• Breakdown is an intense thriller that becomes intense when Jeff and Amy Taylor break down in Arizona "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some of the best '90s thrillers are overlooked in favor of the hard-hitting and genre-defining movies",
-          "• The Silence of the Lambs and Seven are still some of the most praised films in the genre"
-        ],
-        "hopeful_bullets": [
-          "• Some of the best '90s thrillers are overlooked in favor of the hard-hitting and genre-defining movies",
-          "• The Silence of the Lambs and Seven are still some of the most praised films in the genre"
-        ],
-        "stakes_bullets": [
-          "• Some of the best '90s thrillers are overlooked in favor of the hard-hitting and genre-defining movies",
-          "• The Silence of the Lambs and Seven are still some of the most praised films in the genre",
-          "• Breakdown is an intense thriller that becomes intense when Jeff and Amy Taylor break down in Arizona "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "09b5006cef02"
     },
     {
       "id": "c093dcf503cd",
@@ -6586,6 +6550,42 @@
       "cluster_id": "888b1e315600"
     },
     {
+      "id": "decc873b8828",
+      "title": "Tombstone Changed Doc Holliday & Johnny Ringo Lore",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/tombstone-changed-doc-holliday-johnny-ringo-death/",
+      "published_at": "Thu, 15 Jan 2026 00:00:12 GMT",
+      "bullets": [
+        "• Tombstone is known for its recreation of the gunfight at the O.K",
+        "• Corral",
+        "• However, not all of the film can be accurate",
+        "• The showdown between Doc Holliday and Johnny Ringo was what audiences really wanted to see",
+        "• In reality, history tells a very different story "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.545
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tombstone is known for its recreation of the gunfight at the O.K",
+          "• Corral"
+        ],
+        "hopeful_bullets": [
+          "• Tombstone is known for its recreation of the gunfight at the O.K",
+          "• Corral"
+        ],
+        "stakes_bullets": [
+          "• Tombstone is known for its recreation of the gunfight at the O.K",
+          "• Corral",
+          "• However, not all of the film can be accurate"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "62d621e5d12a"
+    },
+    {
       "id": "b5b462a34bd2",
       "title": "Five Hocus Pocus “Easter Eggs” You Never Noticed!",
       "outlet": "Wicked Horror",
@@ -9332,15 +9332,15 @@
       ]
     },
     {
-      "id": "94c96d1d0f7f",
-      "topic": "american citie half ice",
+      "id": "b5a66960b9b4",
+      "topic": "donald hold interim leader",
       "keywords": [
-        "american",
-        "citie",
-        "half",
-        "ice",
-        "making",
-        "think"
+        "donald",
+        "hold",
+        "interim",
+        "leader",
+        "trump",
+        "venezuela"
       ],
       "item_ids": [
         "67eea23fc41d"
@@ -12846,6 +12846,24 @@
       ]
     },
     {
+      "id": "62d621e5d12a",
+      "topic": "changed doc holliday johnny",
+      "keywords": [
+        "changed",
+        "doc",
+        "holliday",
+        "johnny",
+        "ringo",
+        "tombstone"
+      ],
+      "item_ids": [
+        "decc873b8828"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "a2f081ae8ca6",
       "topic": "changed episode forever sci",
       "keywords": [
@@ -13000,24 +13018,6 @@
       ],
       "item_ids": [
         "6a7cf9a01378"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "09b5006cef02",
-      "topic": "90s everyone must thriller",
-      "keywords": [
-        "90s",
-        "everyone",
-        "must",
-        "thriller",
-        "underrated",
-        "watch"
-      ],
-      "item_ids": [
-        "4893badc7032"
       ],
       "outlets": [
         "CBR"
