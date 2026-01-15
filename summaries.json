@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T08:03:55Z",
+  "generated_at": "2026-01-15T09:11:38Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1051,39 +1051,6 @@
       "cluster_id": "14abe8277d31"
     },
     {
-      "id": "f1a3d525f95c",
-      "title": "US launches phase two of Gaza peace plan with new technocratic government",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjw1nxe5pvlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 14 Jan 2026 20:50:09 GMT",
-      "bullets": [
-        "• US launches phase two of Gaza peace plan with new technocratic government",
-        "• US envoy Steve Witkoff warns Hamas to comply fully with its obligations, including return of body of last dead Israeli hostage",
-        "• Phase one of 20-point peace plan was agreed in October, with Hamas and Israel agreeing a ceasefire in October "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.519
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US launches phase two of Gaza peace plan with new technocratic government",
-          "• US envoy Steve Witkoff warns Hamas to comply fully with its obligations, including return of body of last dead Israeli hostage"
-        ],
-        "hopeful_bullets": [
-          "• US launches phase two of Gaza peace plan with new technocratic government",
-          "• US envoy Steve Witkoff warns Hamas to comply fully with its obligations, including return of body of last dead Israeli hostage"
-        ],
-        "stakes_bullets": [
-          "• US launches phase two of Gaza peace plan with new technocratic government",
-          "• Phase one of 20-point peace plan was agreed in October, with Hamas and Israel agreeing a ceasefire in October "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d7f80445f4df"
-    },
-    {
       "id": "7336ba7505b4",
       "title": "US gov’t: House sysadmin stole 200 phones, caught by House IT desk",
       "outlet": "Ars Technica - All content",
@@ -1769,42 +1736,6 @@
       "cluster_id": "ef8e03c50bc0"
     },
     {
-      "id": "ec11e663f053",
-      "title": "J. Cole Previews New Album ‘The Fall-Off’ With Introspective Teaser",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/j-cole-announces-new-album-the-fall-off-1235499533/",
-      "published_at": "Wed, 14 Jan 2026 19:23:55 +0000",
-      "bullets": [
-        "• J",
-        "• Cole's seventh studio album, The Fall-Off, is out Feb",
-        "• 6",
-        "• The rapper has no significant social media presence and isn’t often heard from",
-        "• His most recent album was The Off-Season, which arrived in 2021 "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• J",
-          "• Cole's seventh studio album, The Fall-Off, is out Feb"
-        ],
-        "hopeful_bullets": [
-          "• J",
-          "• Cole's seventh studio album, The Fall-Off, is out Feb"
-        ],
-        "stakes_bullets": [
-          "• J",
-          "• Cole's seventh studio album, The Fall-Off, is out Feb",
-          "• 6"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3e73f5436324"
-    },
-    {
       "id": "c37d7cf73815",
       "title": "U.S. to suspend immigrant visas from 75 countries over public assistance concerns",
       "outlet": "NPR Topics: News",
@@ -2038,38 +1969,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "2d6fae72a30b"
-    },
-    {
-      "id": "5107325733a0",
-      "title": "Civilization VII is headed to iPhone and iPad with “Arcade Edition”",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/",
-      "published_at": "Wed, 14 Jan 2026 18:45:50 +0000",
-      "bullets": [
-        "• Sid Meier’s Civilization VII Arcade Edition is coming to the iPhone and iPad",
-        "• The game will be available as part of the Apple Arcade service, which offers ad-free games for Apple platforms for $7 per month",
-        "• Neither announcement makes any mention of a non-Arcade version, so this appears to be exclusively part of a subscription "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sid Meier’s Civilization VII Arcade Edition is coming to the iPhone and iPad",
-          "• The game will be available as part of the Apple Arcade service, which offers ad-free games for Apple platforms for $7 per month"
-        ],
-        "hopeful_bullets": [
-          "• Sid Meier’s Civilization VII Arcade Edition is coming to the iPhone and iPad",
-          "• The game will be available as part of the Apple Arcade service, which offers ad-free games for Apple platforms for $7 per month"
-        ],
-        "stakes_bullets": [
-          "• The game will be available as part of the Apple Arcade service, which offers ad-free games for Apple platforms for $7 per month"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "da45e954488e"
     },
     {
       "id": "b916527d947b",
@@ -2731,7 +2630,7 @@
     {
       "id": "e260ce6aa9c1",
       "title": "Scientists call another near-record hot year a 'warning shot' from a shifting climate",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2026/01/14/g-s1-105993/global-warming-speeding-up-2025-heat-record-climate-change",
       "published_at": "Wed, 14 Jan 2026 13:38:36 -0500",
       "bullets": [
@@ -2739,7 +2638,7 @@
         "• When averaged together, those three years shoot above the 2.7-degree mark",
         "• The goal for limiting temperature increases, established in Paris in 2015, is likely to be breached by the end of this decade "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -3310,37 +3209,6 @@
       "cluster_id": "d544ead34969"
     },
     {
-      "id": "a5a643e0a42c",
-      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
-      "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-        "• This is the first medical evacuation of the International Space Station in its 25-year history "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
-        ],
-        "hopeful_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
-        ],
-        "stakes_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2269beb3081d"
-    },
-    {
       "id": "ea2446435dc9",
       "title": "The long-term health impacts from the LA wildfires are just becoming clear",
       "outlet": "NPR Topics: Science",
@@ -3370,6 +3238,37 @@
       },
       "read_minutes": 9,
       "cluster_id": "5cfc907df0f9"
+    },
+    {
+      "id": "a5a643e0a42c",
+      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
+      "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+        "• This is the first medical evacuation of the International Space Station in its 25-year history "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        ],
+        "hopeful_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        ],
+        "stakes_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2269beb3081d"
     },
     {
       "id": "c19c9fb2b656",
@@ -5064,45 +4963,145 @@
       "cluster_id": "888b1e315600"
     },
     {
-      "id": "c34767e09158",
-      "title": "ICE agent shoots Minneapolis man in the leg",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 15 Jan 2026 07:30:47 GMT",
+      "id": "46f68b1776f3",
+      "title": "Watch Ed Sheeran, Dave Grohl, John Mayer Team Up for ‘Drive’ on ‘Kimmel’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/ed-sheeran-dave-grohl-john-mayer-team-drive-kimmel-1235499889/",
+      "published_at": "Thu, 15 Jan 2026 08:46:31 +0000",
       "bullets": [
-        "• Immigration and Customs Enforcement officer shoots a man in the leg in Minneapolis",
-        "• The man was shot by an ICE officer in a car chase, the Department of Homeland Security said",
-        "• An ICE officer was also taken to hospital to be treated for injuries, the DHS said "
+        "• Ed Sheeran, Dave Grohl, John Mayer, Blake Slatkin, Rami Jaffee, and Pino Palladino performed on Jimmy Kimmel Live",
+        "• The all-star group showcased the rock track with clips from the Brad Pitt film F1 "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ed Sheeran, Dave Grohl, John Mayer, Blake Slatkin, Rami Jaffee, and Pino Palladino performed on Jimmy Kimmel Live",
+          "• The all-star group showcased the rock track with clips from the Brad Pitt film F1 "
+        ],
+        "hopeful_bullets": [
+          "• Ed Sheeran, Dave Grohl, John Mayer, Blake Slatkin, Rami Jaffee, and Pino Palladino performed on Jimmy Kimmel Live",
+          "• The all-star group showcased the rock track with clips from the Brad Pitt film F1 "
+        ],
+        "stakes_bullets": [
+          "• Ed Sheeran, Dave Grohl, John Mayer, Blake Slatkin, Rami Jaffee, and Pino Palladino performed on Jimmy Kimmel Live",
+          "• The all-star group showcased the rock track with clips from the Brad Pitt film F1 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "97d398bd0750"
+    },
+    {
+      "id": "fcb46f25a634",
+      "title": "Singapore's leader of opposition stripped of title after lying conviction",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp80217r1kpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 15 Jan 2026 08:34:43 GMT",
+      "bullets": [
+        "• Leader of the Opposition in Singapore has been stripped of his title",
+        "• The decision was made after three hours of debate in parliament",
+        "• He was the first person to be stripped of the title of the leader of the opposition party",
+        "• He has been accused of lying under oath to the public "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Immigration and Customs Enforcement officer shoots a man in the leg in Minneapolis",
-          "• The man was shot by an ICE officer in a car chase, the Department of Homeland Security said"
+          "• Leader of the Opposition in Singapore has been stripped of his title",
+          "• The decision was made after three hours of debate in parliament"
         ],
         "hopeful_bullets": [
-          "• Immigration and Customs Enforcement officer shoots a man in the leg in Minneapolis",
-          "• The man was shot by an ICE officer in a car chase, the Department of Homeland Security said"
+          "• Leader of the Opposition in Singapore has been stripped of his title",
+          "• The decision was made after three hours of debate in parliament"
         ],
         "stakes_bullets": [
-          "• Immigration and Customs Enforcement officer shoots a man in the leg in Minneapolis",
-          "• The man was shot by an ICE officer in a car chase, the Department of Homeland Security said",
-          "• An ICE officer was also taken to hospital to be treated for injuries, the DHS said "
+          "• Leader of the Opposition in Singapore has been stripped of his title",
+          "• He was the first person to be stripped of the title of the leader of the opposition party"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "83b938e6514c"
+      "read_minutes": 2,
+      "cluster_id": "727fbfa10cdd"
+    },
+    {
+      "id": "b45d005a0360",
+      "title": "Widespread delays hit Uganda election amid internet shutdown",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 15 Jan 2026 08:32:42 GMT",
+      "bullets": [
+        "• Widespread delays hit Uganda election amid internet shutdown",
+        "• Delays blamed on failures of biometric identification kits and lack of equipment in some places",
+        "• President Yoweri Museveni, 81, in power since 1986, seeking a seventh successive victory "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Widespread delays hit Uganda election amid internet shutdown",
+          "• Delays blamed on failures of biometric identification kits and lack of equipment in some places"
+        ],
+        "hopeful_bullets": [
+          "• Widespread delays hit Uganda election amid internet shutdown",
+          "• Delays blamed on failures of biometric identification kits and lack of equipment in some places"
+        ],
+        "stakes_bullets": [
+          "• Widespread delays hit Uganda election amid internet shutdown",
+          "• Delays blamed on failures of biometric identification kits and lack of equipment in some places",
+          "• President Yoweri Museveni, 81, in power since 1986, seeking a seventh successive victory "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f734d072ddeb"
+    },
+    {
+      "id": "3a2eff3f9e37",
+      "title": "European chip stocks surge after TSMC posts record fourth-quarter profit; ASML pops 7%",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/15/european-markets-live-updates-stoxx-600-dax-ftse-cac.html",
+      "published_at": "Thu, 15 Jan 2026 08:28:20 GMT",
+      "bullets": [
+        "• Stoxx 600 advanced 0.33% moments after the opening bell in London",
+        "• Dutch semiconductor maker ASML popped 7% in early dealmaking",
+        "• TSMC reported a 35% increase in fourth-quarter profit, beating estimates",
+        "• U.S",
+        "• President Donald Trump has threatened to take control of Greenland "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.649
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stoxx 600 advanced 0.33% moments after the opening bell in London",
+          "• Dutch semiconductor maker ASML popped 7% in early dealmaking"
+        ],
+        "hopeful_bullets": [
+          "• Stoxx 600 advanced 0.33% moments after the opening bell in London",
+          "• Dutch semiconductor maker ASML popped 7% in early dealmaking"
+        ],
+        "stakes_bullets": [
+          "• TSMC reported a 35% increase in fourth-quarter profit, beating estimates"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "50868d432426"
     },
     {
       "id": "51a3008e3ef3",
-      "title": "TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong",
+      "title": "TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
-      "published_at": "Thu, 15 Jan 2026 07:28:30 GMT",
+      "published_at": "Thu, 15 Jan 2026 08:22:24 GMT",
       "bullets": [
         "• Taiwan Semiconductor Manufacturing Company reported a 35% increase in fourth-quarter profit",
         "• The world's largest contract chipmaker has now posted year-over-year profit growth for eight consecutive quarters",
@@ -5111,7 +5110,7 @@
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.991
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
@@ -5127,41 +5126,143 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "b77b4c224158"
+      "cluster_id": "1279eb0d2a85"
     },
     {
-      "id": "3a2eff3f9e37",
-      "title": "European markets head for higher open as traders track Greenland, Iran news",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/15/european-markets-live-updates-stoxx-600-dax-ftse-cac.html",
-      "published_at": "Thu, 15 Jan 2026 07:25:55 GMT",
+      "id": "8e8f252ec849",
+      "title": "Agatha Christie’s Seven Dials Review: Netflix Redeems an Unpopular Mystery",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/agatha-christies-seven-dials-review/",
+      "published_at": "Thu, 15 Jan 2026 08:01:12 GMT",
       "bullets": [
-        "• U.K.'s FTSE 100 seen opening 0.6% higher, Germany's DAX up 0.18% and France's CAC 40 0.2% up",
-        "• Meeting between officials from Greenland, Denmark and U.S",
-        "• ends with \"fundamental disagreement\" over ownership of Greenland "
+        "• Agatha Christie's Seven Dials is Netflix's latest miniseries to be adapted from a famed mystery novelist's work",
+        "• The original novel was already adapted into a 1981 television film, as many of Christie's other novels have",
+        "• With a three-part miniserie, Chris Chibnall finds an alternatively sweet middle ground that gives more depth to the characters and mystery at hand "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.813
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Agatha Christie's Seven Dials is Netflix's latest miniseries to be adapted from a famed mystery novelist's work",
+          "• The original novel was already adapted into a 1981 television film, as many of Christie's other novels have"
+        ],
+        "hopeful_bullets": [
+          "• Agatha Christie's Seven Dials is Netflix's latest miniseries to be adapted from a famed mystery novelist's work",
+          "• The original novel was already adapted into a 1981 television film, as many of Christie's other novels have"
+        ],
+        "stakes_bullets": [
+          "• Agatha Christie's Seven Dials is Netflix's latest miniseries to be adapted from a famed mystery novelist's work",
+          "• The original novel was already adapted into a 1981 television film, as many of Christie's other novels have",
+          "• With a three-part miniserie, Chris Chibnall finds an alternatively sweet middle ground that gives more depth to the characters and mystery at hand "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "2a19a7e540a1"
+    },
+    {
+      "id": "2d68b102fa9f",
+      "title": "A car you can chat with and that gets you? Volvo dishes on AI-wielding EX60.",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2026/01/exclusive-volvo-tells-us-why-having-gemini-in-your-next-car-is-a-good-thing/",
+      "published_at": "Thu, 15 Jan 2026 08:00:15 +0000",
+      "bullets": [
+        "• Volvo's new EV-only platform is called HuginCore, after one of the two ravens that collected information for the Norse god Odin",
+        "• The platform is Volvo’s second-generation software-defined vehicle platform",
+        "• It makes use of the latest in vehicle design trends, like a cell-to-body battery pack and large weight-saving castings "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Volvo's new EV-only platform is called HuginCore, after one of the two ravens that collected information for the Norse god Odin",
+          "• The platform is Volvo’s second-generation software-defined vehicle platform"
+        ],
+        "hopeful_bullets": [
+          "• Volvo's new EV-only platform is called HuginCore, after one of the two ravens that collected information for the Norse god Odin",
+          "• The platform is Volvo’s second-generation software-defined vehicle platform"
+        ],
+        "stakes_bullets": [
+          "• Volvo's new EV-only platform is called HuginCore, after one of the two ravens that collected information for the Norse god Odin",
+          "• The platform is Volvo’s second-generation software-defined vehicle platform",
+          "• It makes use of the latest in vehicle design trends, like a cell-to-body battery pack and large weight-saving castings "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "87005d228187"
+    },
+    {
+      "id": "e4aeb3bd03fc",
+      "title": "UK economy surprises with stronger-than-expected 0.3% growth in November",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/15/uk-gdp-november-2025-data.html",
+      "published_at": "Thu, 15 Jan 2026 07:43:03 GMT",
+      "bullets": [
+        "• The U.K",
+        "• economy grew by a more-than-expected 0.3% in November, data from the Office for National Statistics showed",
+        "• The latest data comes after the economy contracted unexpectedly by 0.1% in October",
+        "• Pound sterling was largely flat against the dollar following the data, last trading at $1.33 "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "negative",
-        "score": 0.987
+        "label": "positive",
+        "score": 0.939
       },
       "moods": {
         "brief_bullets": [
-          "• U.K.'s FTSE 100 seen opening 0.6% higher, Germany's DAX up 0.18% and France's CAC 40 0.2% up",
-          "• Meeting between officials from Greenland, Denmark and U.S"
+          "• The U.K",
+          "• economy grew by a more-than-expected 0.3% in November, data from the Office for National Statistics showed"
         ],
         "hopeful_bullets": [
-          "• U.K.'s FTSE 100 seen opening 0.6% higher, Germany's DAX up 0.18% and France's CAC 40 0.2% up",
-          "• Meeting between officials from Greenland, Denmark and U.S"
+          "• Pound sterling was largely flat against the dollar following the data, last trading at $1.33 "
         ],
         "stakes_bullets": [
-          "• U.K.'s FTSE 100 seen opening 0.6% higher, Germany's DAX up 0.18% and France's CAC 40 0.2% up",
-          "• Meeting between officials from Greenland, Denmark and U.S",
-          "• ends with \"fundamental disagreement\" over ownership of Greenland "
+          "• economy grew by a more-than-expected 0.3% in November, data from the Office for National Statistics showed",
+          "• The latest data comes after the economy contracted unexpectedly by 0.1% in October"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "47019e747cb4"
+      "read_minutes": 1,
+      "cluster_id": "1ee2834fca80"
+    },
+    {
+      "id": "c34767e09158",
+      "title": "ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 15 Jan 2026 07:30:47 GMT",
+      "bullets": [
+        "• ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
+        "• Incident follows shooting of woman who was shot dead by an ICE agent last week",
+        "• Incident sparked renewed clashes between demonstrators and law enforcement, police chief says",
+        "• Tensions over immigration enforcement have been running high in Minneapolis "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
+          "• Incident follows shooting of woman who was shot dead by an ICE agent last week"
+        ],
+        "hopeful_bullets": [
+          "• ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
+          "• Incident follows shooting of woman who was shot dead by an ICE agent last week"
+        ],
+        "stakes_bullets": [
+          "• ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
+          "• Incident follows shooting of woman who was shot dead by an ICE agent last week",
+          "• Incident sparked renewed clashes between demonstrators and law enforcement, police chief says"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "83b938e6514c"
     },
     {
       "id": "739d93af5372",
@@ -5193,74 +5294,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "67a7492cb35a"
-    },
-    {
-      "id": "3d8f8211cccd",
-      "title": "X to stop Grok AI from undressing images of real people after backlash",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 15 Jan 2026 07:14:57 GMT",
-      "bullets": [
-        "• X will no longer be able to edit images of real people in revealing clothing",
-        "• Instead, it will only be allowed to use images of the real person in the image of the model",
-        "• The model has been banned from using images of naked people in the future "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• X will no longer be able to edit images of real people in revealing clothing",
-          "• Instead, it will only be allowed to use images of the real person in the image of the model"
-        ],
-        "hopeful_bullets": [
-          "• X will no longer be able to edit images of real people in revealing clothing",
-          "• Instead, it will only be allowed to use images of the real person in the image of the model"
-        ],
-        "stakes_bullets": [
-          "• X will no longer be able to edit images of real people in revealing clothing",
-          "• Instead, it will only be allowed to use images of the real person in the image of the model",
-          "• The model has been banned from using images of naked people in the future "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "453570d31560"
-    },
-    {
-      "id": "e4aeb3bd03fc",
-      "title": "UK economy surprises with stronger-than-expected 0.3% growth in November",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/15/uk-gdp-november-2025-data.html",
-      "published_at": "Thu, 15 Jan 2026 07:05:44 GMT",
-      "bullets": [
-        "• The U.K",
-        "• economy grew by a more-than-expected 0.3% in November, data from the Office for National Statistics showed",
-        "• Economists polled by Reuters had expected a very modest growth figure of 0.1%",
-        "• The latest data comes after the economy contracted unexpectedly in October, a figure that was attributed to the fallout of a cyber-attack at Jaguar Land Rover "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.K",
-          "• economy grew by a more-than-expected 0.3% in November, data from the Office for National Statistics showed"
-        ],
-        "hopeful_bullets": [
-          "• Economists polled by Reuters had expected a very modest growth figure of 0.1%"
-        ],
-        "stakes_bullets": [
-          "• economy grew by a more-than-expected 0.3% in November, data from the Office for National Statistics showed",
-          "• Economists polled by Reuters had expected a very modest growth figure of 0.1%",
-          "• The latest data comes after the economy contracted unexpectedly in October, a figure that was attributed to the fallout of a cyber-attack at Jaguar Land Rover "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1ee2834fca80"
     },
     {
       "id": "025fa6a7483d",
@@ -5530,40 +5563,6 @@
       "cluster_id": "93e841bb4e77"
     },
     {
-      "id": "9c3c403a6c8f",
-      "title": "Labubu toy manufacturer exploited workers, labour group claims",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4037v0w12o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 15 Jan 2026 05:36:45 GMT",
-      "bullets": [
-        "• Labubu toy manufacturer allegedly exploited workers, labour group claims",
-        "• Pop Mart told the BBC that it is investigating the claims",
-        "• The furry toys have surged in popularity around the world in recent years",
-        "• They are best known for selling toys in \"blind boxes\", which hide its content "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Labubu toy manufacturer allegedly exploited workers, labour group claims",
-          "• Pop Mart told the BBC that it is investigating the claims"
-        ],
-        "hopeful_bullets": [
-          "• The furry toys have surged in popularity around the world in recent years"
-        ],
-        "stakes_bullets": [
-          "• Labubu toy manufacturer allegedly exploited workers, labour group claims",
-          "• Pop Mart told the BBC that it is investigating the claims",
-          "• The furry toys have surged in popularity around the world in recent years"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "646de398e7cb"
-    },
-    {
       "id": "2bcc22b5011f",
       "title": "Federal agent shoots man in Minneapolis as tensions in city run high",
       "outlet": "US news | The Guardian",
@@ -5571,27 +5570,25 @@
       "published_at": "Thu, 15 Jan 2026 05:25:52 GMT",
       "bullets": [
         "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
-        "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave",
-        "• Minneapolis mayor, Jacob Frey, said: “I’ve seen conduct from ICE that is disgusting and intolerable”"
+        "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ Mayor Jacob Frey of Minneapolis said: “I've seen conduct from ICE that is disgusting and intolerable”"
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
           "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
-          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave"
+          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ Mayor Jacob Frey of Minneapolis said: “I've seen conduct from ICE that is disgusting and intolerable”"
         ],
         "hopeful_bullets": [
           "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
-          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave"
+          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ Mayor Jacob Frey of Minneapolis said: “I've seen conduct from ICE that is disgusting and intolerable”"
         ],
         "stakes_bullets": [
           "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
-          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave",
-          "• Minneapolis mayor, Jacob Frey, said: “I’ve seen conduct from ICE that is disgusting and intolerable”"
+          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ Mayor Jacob Frey of Minneapolis said: “I've seen conduct from ICE that is disgusting and intolerable”"
         ]
       },
       "read_minutes": 3,
@@ -6026,6 +6023,41 @@
       "cluster_id": "1598bd032fb8"
     },
     {
+      "id": "26989de50d3c",
+      "title": "After a medical evacuation from space, NASA's Crew-11 returns to Earth a month early",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2026/01/15/nx-s1-5677647/nasa-spacex-crew-11-splashdown-return",
+      "published_at": "Thu, 15 Jan 2026 03:42:23 -0500",
+      "bullets": [
+        "• Crew-11 splashed down in the Pacific Ocean off San Diego after a medical evacuation from the International Space Station",
+        "• It's the first time in NASA's history that a medical issue prompted an early end to a space mission",
+        "• The crew undocked from the station Wednesday at 5:20 p.m",
+        "• EST as the ISS flew 260 miles south of Australia "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Crew-11 splashed down in the Pacific Ocean off San Diego after a medical evacuation from the International Space Station",
+          "• It's the first time in NASA's history that a medical issue prompted an early end to a space mission"
+        ],
+        "hopeful_bullets": [
+          "• Crew-11 splashed down in the Pacific Ocean off San Diego after a medical evacuation from the International Space Station",
+          "• It's the first time in NASA's history that a medical issue prompted an early end to a space mission"
+        ],
+        "stakes_bullets": [
+          "• Crew-11 splashed down in the Pacific Ocean off San Diego after a medical evacuation from the International Space Station",
+          "• It's the first time in NASA's history that a medical issue prompted an early end to a space mission",
+          "• The crew undocked from the station Wednesday at 5:20 p.m"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "273c4740c0a9"
+    },
+    {
       "id": "95bc5e19a3b9",
       "title": "Zelensky declares energy emergency as biting cold persists",
       "outlet": "BBC News",
@@ -6058,41 +6090,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "180e8e058644"
-    },
-    {
-      "id": "61e3c02a84a7",
-      "title": "How to Watch Star Trek in Order: An Official Guide to Every Movie & TV Show",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-watch-order-movies-tv-shows/",
-      "published_at": "Thu, 15 Jan 2026 03:20:12 GMT",
-      "bullets": [
-        "• Star Trek is one of the longest-living franchises in the world",
-        "• With 13 TV series and 14 films, the franchise’s timeline has become a little difficult to follow",
-        "• Here's the proper timeline order to watch every Star Trek series and film",
-        "• Star Trek: Enterprise is the official starting point for the franchise's universe "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Trek is one of the longest-living franchises in the world",
-          "• With 13 TV series and 14 films, the franchise’s timeline has become a little difficult to follow"
-        ],
-        "hopeful_bullets": [
-          "• Star Trek is one of the longest-living franchises in the world",
-          "• With 13 TV series and 14 films, the franchise’s timeline has become a little difficult to follow"
-        ],
-        "stakes_bullets": [
-          "• Star Trek is one of the longest-living franchises in the world",
-          "• With 13 TV series and 14 films, the franchise’s timeline has become a little difficult to follow",
-          "• Here's the proper timeline order to watch every Star Trek series and film"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "1826c7870f38"
     },
     {
       "id": "67eea23fc41d",
@@ -6158,6 +6155,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "e46716145391"
+    },
+    {
+      "id": "d953d6a4ccf8",
+      "title": "Julio Iglesias accused of sexual assault as Spanish prosecutors study the allegations",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/15/g-s1-106108/julio-iglesias-accused-sexual-assault",
+      "published_at": "Thu, 15 Jan 2026 02:46:04 -0500",
+      "bullets": [
+        "• Julio Iglesias accused of sexual assault as Spanish prosecutors study the allegations",
+        "• The allegations are related to media reports earlier this week that alleged the singer sexually assaulted two women",
+        "• The women worked at his Caribbean residences between January and October 2021",
+        "• The Grammy-winning singer has yet to speak publicly regarding the allegations, which he hasn't publicly addressed "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Julio Iglesias accused of sexual assault as Spanish prosecutors study the allegations",
+          "• The allegations are related to media reports earlier this week that alleged the singer sexually assaulted two women"
+        ],
+        "hopeful_bullets": [
+          "• The Grammy-winning singer has yet to speak publicly regarding the allegations, which he hasn't publicly addressed "
+        ],
+        "stakes_bullets": [
+          "• Julio Iglesias accused of sexual assault as Spanish prosecutors study the allegations"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1f4a880f1103"
     },
     {
       "id": "a7ce6d693220",
@@ -6521,6 +6550,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "f745604b52d9"
+    },
+    {
+      "id": "096f15748e78",
+      "title": "Why the UAE has incurred the wrath of Somalia",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 15 Jan 2026 00:27:47 GMT",
+      "bullets": [
+        "• Somalia has been engaged in diplomatic efforts to rally international support after Israel recognised its breakaway region of Somaliland as an independent state",
+        "• The oil-rich Gulf state has been viewed as a significant player in Somalia's security, economy, and politics",
+        "• Somalia's federal government announced the cancellation of all port management and security cooperation agreements with the UAE "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Somalia has been engaged in diplomatic efforts to rally international support after Israel recognised its breakaway region of Somaliland as an independent state",
+          "• The oil-rich Gulf state has been viewed as a significant player in Somalia's security, economy, and politics"
+        ],
+        "hopeful_bullets": [
+          "• Somalia has been engaged in diplomatic efforts to rally international support after Israel recognised its breakaway region of Somaliland as an independent state",
+          "• The oil-rich Gulf state has been viewed as a significant player in Somalia's security, economy, and politics"
+        ],
+        "stakes_bullets": [
+          "• Somalia has been engaged in diplomatic efforts to rally international support after Israel recognised its breakaway region of Somaliland as an independent state",
+          "• The oil-rich Gulf state has been viewed as a significant player in Somalia's security, economy, and politics",
+          "• Somalia's federal government announced the cancellation of all port management and security cooperation agreements with the UAE "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "732b1c101844"
     },
     {
       "id": "cd3ad60fe52f",
@@ -7361,39 +7424,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "28e88e3f3089"
-    },
-    {
-      "id": "b00fa645377c",
-      "title": "Offshore wind developer prevails in U.S. court as Trump calls wind farms 'losers'",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2026/01/12/g-s1-105808/offshore-orsted-revolution-wind-trump-court-clean-energy",
-      "published_at": "Mon, 12 Jan 2026 19:12:14 -0500",
-      "bullets": [
-        "• A federal judge rules that work on a major offshore wind farm for Rhode Island and Connecticut can resume",
-        "• Three energy developers are challenging the administration's freeze of their offshore wind farms in the federal courts this week",
-        "• President Trump says his goal is to not let any \"windmills\" be built "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.705
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A federal judge rules that work on a major offshore wind farm for Rhode Island and Connecticut can resume",
-          "• Three energy developers are challenging the administration's freeze of their offshore wind farms in the federal courts this week"
-        ],
-        "hopeful_bullets": [
-          "• A federal judge rules that work on a major offshore wind farm for Rhode Island and Connecticut can resume",
-          "• Three energy developers are challenging the administration's freeze of their offshore wind farms in the federal courts this week",
-          "• President Trump says his goal is to not let any \"windmills\" be built "
-        ],
-        "stakes_bullets": [
-          "• A federal judge rules that work on a major offshore wind farm for Rhode Island and Connecticut can resume"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "dba3f8d95025"
     },
     {
       "id": "dc034c89c32e",
@@ -8287,6 +8317,74 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "259c9fdf6085",
+      "title": "Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026",
+      "published_at": "2026-01-15T03:30:00-05:00",
+      "bullets": [
+        "• It's been 25 years since the launch of Wikipedia on January 15th, 2001",
+        "• The online encyclopedia is releasing a mini docuseries that puts faces to the editors behind an array of articles",
+        "• Some of the featured editors include ‘Hurricane Hank’ and ‘Netha’ "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It's been 25 years since the launch of Wikipedia on January 15th, 2001",
+          "• The online encyclopedia is releasing a mini docuseries that puts faces to the editors behind an array of articles"
+        ],
+        "hopeful_bullets": [
+          "• It's been 25 years since the launch of Wikipedia on January 15th, 2001",
+          "• The online encyclopedia is releasing a mini docuseries that puts faces to the editors behind an array of articles"
+        ],
+        "stakes_bullets": [
+          "• It's been 25 years since the launch of Wikipedia on January 15th, 2001",
+          "• The online encyclopedia is releasing a mini docuseries that puts faces to the editors behind an array of articles",
+          "• Some of the featured editors include ‘Hurricane Hank’ and ‘Netha’ "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "31ed9e7528c8"
+    },
+    {
+      "id": "854458056973",
+      "title": "Microsoft, Meta, and Amazon are paying up for &#8216;enterprise&#8217; access to Wikipedia",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation",
+      "published_at": "2026-01-15T03:30:00-05:00",
+      "bullets": [
+        "• Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to Wikipedia",
+        "• The news was announced as part of Wikipedia’s 25th anniversary on Thursday",
+        "• The partnerships are part of Wikimedia Enterprise, an initiative launched in 2021 that gives large companies access to the API for a fee "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.915
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to Wikipedia",
+          "• The news was announced as part of Wikipedia’s 25th anniversary on Thursday"
+        ],
+        "hopeful_bullets": [
+          "• Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to Wikipedia",
+          "• The news was announced as part of Wikipedia’s 25th anniversary on Thursday"
+        ],
+        "stakes_bullets": [
+          "• Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to Wikipedia",
+          "• The news was announced as part of Wikipedia’s 25th anniversary on Thursday",
+          "• The partnerships are part of Wikimedia Enterprise, an initiative launched in 2021 that gives large companies access to the API for a fee "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "76298250f354"
+    },
+    {
       "id": "b57496c1abc7",
       "title": "The best e-reader to buy right now",
       "outlet": "The Verge",
@@ -8542,70 +8640,6 @@
       },
       "read_minutes": 36,
       "cluster_id": "99e903d128a1"
-    },
-    {
-      "id": "1d260bba3eba",
-      "title": "Bose’s first-gen QC Ultra headphones have returned to their best price to date",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/861286/bose-quietcomfort-ultra-headphones-steam-detective-fest-sale-deal",
-      "published_at": "2026-01-14T13:56:54-05:00",
-      "bullets": [
-        "• Bose QuietComfort Ultra headphones are currently on sale at Amazon, Best Buy, and directly from Bose in several colors for $279 ($150 off) They offer best-in-class noise cancellation and a pleasing, balanced sound signature that preserves highs and lows even when you dial back the volume "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bose QuietComfort Ultra headphones are currently on sale at Amazon, Best Buy, and directly from Bose in several colors for $279 ($150 off) They offer best-in-class noise cancellation and a pleasing, balanced sound signature that preserves highs and lows even when you dial back the volume "
-        ],
-        "hopeful_bullets": [
-          "• Bose QuietComfort Ultra headphones are currently on sale at Amazon, Best Buy, and directly from Bose in several colors for $279 ($150 off) They offer best-in-class noise cancellation and a pleasing, balanced sound signature that preserves highs and lows even when you dial back the volume "
-        ],
-        "stakes_bullets": [
-          "• Bose QuietComfort Ultra headphones are currently on sale at Amazon, Best Buy, and directly from Bose in several colors for $279 ($150 off) They offer best-in-class noise cancellation and a pleasing, balanced sound signature that preserves highs and lows even when you dial back the volume "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "94ca6ccd755b"
-    },
-    {
-      "id": "d77d07dcc41f",
-      "title": "Netflix’s first original podcasts star Pete Davidson and Michael Irvin",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/861971/netflix-original-podcasts-pete-davidson-michael-irvin",
-      "published_at": "2026-01-14T13:56:28-05:00",
-      "bullets": [
-        "• The White House will be the first original podcast from Netflix",
-        "• The show will be hosted by Saturday Night Live’s former NFL star and co-hosts",
-        "• The first episode will be released on January 19th",
-        "• The two shows will be available on iTunes and other streaming services "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.894
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The White House will be the first original podcast from Netflix",
-          "• The show will be hosted by Saturday Night Live’s former NFL star and co-hosts"
-        ],
-        "hopeful_bullets": [
-          "• The White House will be the first original podcast from Netflix",
-          "• The show will be hosted by Saturday Night Live’s former NFL star and co-hosts"
-        ],
-        "stakes_bullets": [
-          "• The White House will be the first original podcast from Netflix",
-          "• The show will be hosted by Saturday Night Live’s former NFL star and co-hosts",
-          "• The first episode will be released on January 19th",
-          "• The two shows will be available on iTunes and other streaming services "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "32320c876996"
     },
     {
       "id": "c41ff758b36a",
@@ -9042,42 +9076,6 @@
       ]
     },
     {
-      "id": "e46716145391",
-      "topic": "denmark disagreement fundamental house",
-      "keywords": [
-        "denmark",
-        "disagreement",
-        "fundamental",
-        "house",
-        "warn",
-        "white"
-      ],
-      "item_ids": [
-        "46315f2e6247"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "431c6c1d8cb8",
-      "topic": "carnage describe resident terrifying",
-      "keywords": [
-        "carnage",
-        "describe",
-        "resident",
-        "terrifying",
-        "thai",
-        "train"
-      ],
-      "item_ids": [
-        "770128f82bd2"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "83b938e6514c",
       "topic": "agent ice leg man",
       "keywords": [
@@ -9096,54 +9094,88 @@
       ]
     },
     {
-      "id": "d7f80445f4df",
-      "topic": "gaza launche peace phase",
+      "id": "727fbfa10cdd",
+      "topic": "leader lying opposition singapore",
       "keywords": [
-        "gaza",
-        "launche",
-        "peace",
-        "phase",
-        "plan",
-        "technocratic"
+        "leader",
+        "lying",
+        "opposition",
+        "singapore",
+        "stripped",
+        "title"
       ],
       "item_ids": [
-        "f1a3d525f95c"
+        "fcb46f25a634"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "453570d31560",
-      "topic": "grok image people real",
+      "id": "f734d072ddeb",
+      "topic": "delay election hit internet",
       "keywords": [
-        "grok",
-        "image",
-        "people",
-        "real",
-        "stop",
-        "undressing"
+        "delay",
+        "election",
+        "hit",
+        "internet",
+        "uganda",
+        "widespread"
       ],
       "item_ids": [
-        "3d8f8211cccd"
+        "b45d005a0360"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "646de398e7cb",
-      "topic": "exploited labour labubu manufacturer",
+      "id": "e46716145391",
+      "topic": "denmark disagreement fundamental house",
       "keywords": [
-        "exploited",
-        "labour",
-        "labubu",
-        "manufacturer",
-        "toy",
-        "worker"
+        "denmark",
+        "disagreement",
+        "fundamental",
+        "house",
+        "warn",
+        "white"
       ],
       "item_ids": [
-        "9c3c403a6c8f"
+        "46315f2e6247"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "732b1c101844",
+      "topic": "incurred somalia uae wrath",
+      "keywords": [
+        "incurred",
+        "somalia",
+        "uae",
+        "wrath"
+      ],
+      "item_ids": [
+        "096f15748e78"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "431c6c1d8cb8",
+      "topic": "carnage describe resident terrifying",
+      "keywords": [
+        "carnage",
+        "describe",
+        "resident",
+        "terrifying",
+        "thai",
+        "train"
+      ],
+      "item_ids": [
+        "770128f82bd2"
       ],
       "outlets": [
         "BBC News"
@@ -9510,6 +9542,24 @@
       ]
     },
     {
+      "id": "1f4a880f1103",
+      "topic": "accused assault iglesia julio",
+      "keywords": [
+        "accused",
+        "assault",
+        "iglesia",
+        "julio",
+        "sexual",
+        "spanish"
+      ],
+      "item_ids": [
+        "d953d6a4ccf8"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "6b175a67e6b0",
       "topic": "dhs ice minneapoli officer",
       "keywords": [
@@ -9672,24 +9722,6 @@
       ]
     },
     {
-      "id": "fb6244505c3f",
-      "topic": "another call hot near",
-      "keywords": [
-        "another",
-        "call",
-        "hot",
-        "near",
-        "record",
-        "scientist"
-      ],
-      "item_ids": [
-        "e260ce6aa9c1"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "d50c0eb1e90d",
       "topic": "airspace hour iran long",
       "keywords": [
@@ -9780,24 +9812,6 @@
       ]
     },
     {
-      "id": "47019e747cb4",
-      "topic": "european head higher market",
-      "keywords": [
-        "european",
-        "head",
-        "higher",
-        "market",
-        "open",
-        "trader"
-      ],
-      "item_ids": [
-        "3a2eff3f9e37"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "88321ef56d7d",
       "topic": "force former million officer",
       "keywords": [
@@ -9834,14 +9848,32 @@
       ]
     },
     {
-      "id": "b77b4c224158",
-      "topic": "beat estimate fourth profit",
+      "id": "50868d432426",
+      "topic": "chip european post stock",
       "keywords": [
-        "beat",
-        "estimate",
-        "fourth",
+        "chip",
+        "european",
+        "post",
+        "stock",
+        "surge",
+        "tsmc"
+      ],
+      "item_ids": [
+        "3a2eff3f9e37"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "1279eb0d2a85",
+      "topic": "another deliver profit quarter",
+      "keywords": [
+        "another",
+        "deliver",
         "profit",
         "quarter",
+        "record",
         "tsmc"
       ],
       "item_ids": [
@@ -10049,6 +10081,42 @@
       ]
     },
     {
+      "id": "31ed9e7528c8",
+      "topic": "glimpse live share turn",
+      "keywords": [
+        "glimpse",
+        "live",
+        "share",
+        "turn",
+        "volunteer",
+        "wikipedia"
+      ],
+      "item_ids": [
+        "259c9fdf6085"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "76298250f354",
+      "topic": "8216 amazon enterprise meta",
+      "keywords": [
+        "8216",
+        "amazon",
+        "enterprise",
+        "meta",
+        "microsoft",
+        "paying"
+      ],
+      "item_ids": [
+        "854458056973"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "77eb0487a187",
       "topic": "best buy now reader",
       "keywords": [
@@ -10189,39 +10257,21 @@
       ]
     },
     {
-      "id": "94ca6ccd755b",
-      "topic": "bose first gen headphone",
+      "id": "87005d228187",
+      "topic": "car chat dishe gets",
       "keywords": [
-        "bose",
-        "first",
-        "gen",
-        "headphone",
-        "returned",
-        "ultra"
+        "car",
+        "chat",
+        "dishe",
+        "gets",
+        "volvo",
+        "wielding"
       ],
       "item_ids": [
-        "1d260bba3eba"
+        "2d68b102fa9f"
       ],
       "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "32320c876996",
-      "topic": "first netflix original pete",
-      "keywords": [
-        "first",
-        "netflix",
-        "original",
-        "pete",
-        "podcast",
-        "star"
-      ],
-      "item_ids": [
-        "d77d07dcc41f"
-      ],
-      "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10380,24 +10430,6 @@
       ],
       "item_ids": [
         "50f6612777f1"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "da45e954488e",
-      "topic": "arcade civilization headed ipad",
-      "keywords": [
-        "arcade",
-        "civilization",
-        "headed",
-        "ipad",
-        "iphone",
-        "vii"
-      ],
-      "item_ids": [
-        "5107325733a0"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10583,6 +10615,42 @@
       ]
     },
     {
+      "id": "273c4740c0a9",
+      "topic": "crew evacuation medical nasa",
+      "keywords": [
+        "crew",
+        "evacuation",
+        "medical",
+        "nasa",
+        "return",
+        "space"
+      ],
+      "item_ids": [
+        "26989de50d3c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "fb6244505c3f",
+      "topic": "another call hot near",
+      "keywords": [
+        "another",
+        "call",
+        "hot",
+        "near",
+        "record",
+        "scientist"
+      ],
+      "item_ids": [
+        "e260ce6aa9c1"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "4f261b904813",
       "topic": "benefit outweigh report risk",
       "keywords": [
@@ -10594,24 +10662,6 @@
       ],
       "item_ids": [
         "1c30118c40dc"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "2269beb3081d",
-      "topic": "astronaut bring crew nasa",
-      "keywords": [
-        "astronaut",
-        "bring",
-        "crew",
-        "nasa",
-        "rest",
-        "set"
-      ],
-      "item_ids": [
-        "a5a643e0a42c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10630,6 +10680,24 @@
       ],
       "item_ids": [
         "ea2446435dc9"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "2269beb3081d",
+      "topic": "astronaut bring crew nasa",
+      "keywords": [
+        "astronaut",
+        "bring",
+        "crew",
+        "nasa",
+        "rest",
+        "set"
+      ],
+      "item_ids": [
+        "a5a643e0a42c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10702,24 +10770,6 @@
       ],
       "item_ids": [
         "eeb572b8312c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "dba3f8d95025",
-      "topic": "court developer offshore prevail",
-      "keywords": [
-        "court",
-        "developer",
-        "offshore",
-        "prevail",
-        "trump",
-        "wind"
-      ],
-      "item_ids": [
-        "b00fa645377c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -12882,6 +12932,24 @@
       ]
     },
     {
+      "id": "2a19a7e540a1",
+      "topic": "agatha christie dial netflix",
+      "keywords": [
+        "agatha",
+        "christie",
+        "dial",
+        "netflix",
+        "review",
+        "seven"
+      ],
+      "item_ids": [
+        "8e8f252ec849"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3a676f2c425a",
       "topic": "america call captain out",
       "keywords": [
@@ -13036,24 +13104,6 @@
       ],
       "item_ids": [
         "1932732592ab"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1826c7870f38",
-      "topic": "guide official order star",
-      "keywords": [
-        "guide",
-        "official",
-        "order",
-        "star",
-        "trek",
-        "watch"
-      ],
-      "item_ids": [
-        "61e3c02a84a7"
       ],
       "outlets": [
         "CBR"
@@ -13238,6 +13288,24 @@
       ]
     },
     {
+      "id": "97d398bd0750",
+      "topic": "dave grohl john mayer",
+      "keywords": [
+        "dave",
+        "grohl",
+        "john",
+        "mayer",
+        "sheeran",
+        "watch"
+      ],
+      "item_ids": [
+        "46f68b1776f3"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "eb36325b8669",
       "topic": "man mccartney paul reveal",
       "keywords": [
@@ -13394,24 +13462,6 @@
       ],
       "item_ids": [
         "028a5b927bd5"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "3e73f5436324",
-      "topic": "album cole fall introspective",
-      "keywords": [
-        "album",
-        "cole",
-        "fall",
-        "introspective",
-        "off",
-        "preview"
-      ],
-      "item_ids": [
-        "ec11e663f053"
       ],
       "outlets": [
         "Music News"
