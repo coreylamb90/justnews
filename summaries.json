@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T05:14:44Z",
+  "generated_at": "2026-01-15T06:07:13Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -3603,37 +3603,6 @@
       "cluster_id": "d544ead34969"
     },
     {
-      "id": "a5a643e0a42c",
-      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
-      "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-        "• This is the first medical evacuation of the International Space Station in its 25-year history "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
-        ],
-        "hopeful_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
-        ],
-        "stakes_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2269beb3081d"
-    },
-    {
       "id": "ea2446435dc9",
       "title": "The long-term health impacts from the LA wildfires are just becoming clear",
       "outlet": "NPR Topics: Science",
@@ -3663,6 +3632,37 @@
       },
       "read_minutes": 9,
       "cluster_id": "5cfc907df0f9"
+    },
+    {
+      "id": "a5a643e0a42c",
+      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
+      "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+        "• This is the first medical evacuation of the International Space Station in its 25-year history "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        ],
+        "hopeful_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        ],
+        "stakes_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2269beb3081d"
     },
     {
       "id": "c19c9fb2b656",
@@ -5322,6 +5322,135 @@
       "cluster_id": "888b1e315600"
     },
     {
+      "id": "57b8cc00c6ae",
+      "title": "U.S. freezes new immigrant visas for 75 countries: See the full list",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/15/us-stops-immigrant-visas-for-75-countries-see-the-full-list.html",
+      "published_at": "Thu, 15 Jan 2026 05:16:06 GMT",
+      "bullets": [
+        "• The U.S",
+        "• State Department says it will pause issuing immigrant visas to citizens of 75 countries",
+        "• The freeze is set to begin Jan",
+        "• 21",
+        "• The countries, divided by region, include: The Americas, Africa, the Middle East and Latin America "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• State Department says it will pause issuing immigrant visas to citizens of 75 countries"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• State Department says it will pause issuing immigrant visas to citizens of 75 countries"
+        ],
+        "stakes_bullets": [
+          "• State Department says it will pause issuing immigrant visas to citizens of 75 countries"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "247560b111ba"
+    },
+    {
+      "id": "845e3520dd7f",
+      "title": "Ugandans to vote in election expected to extend Museveni’s four-decade rule",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+      "published_at": "Thu, 15 Jan 2026 05:00:51 GMT",
+      "bullets": [
+        "• Security forces have frequently clamped down on supporters of Museveni’s main opponent, Bobi Wine, by teargassing and shooting bullets at events and detaining people",
+        "• Authorities shut down internet access and limited mobile phone services countrywide "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Security forces have frequently clamped down on supporters of Museveni’s main opponent, Bobi Wine, by teargassing and shooting bullets at events and detaining people",
+          "• Authorities shut down internet access and limited mobile phone services countrywide "
+        ],
+        "hopeful_bullets": [
+          "• Security forces have frequently clamped down on supporters of Museveni’s main opponent, Bobi Wine, by teargassing and shooting bullets at events and detaining people"
+        ],
+        "stakes_bullets": [
+          "• Security forces have frequently clamped down on supporters of Museveni’s main opponent, Bobi Wine, by teargassing and shooting bullets at events and detaining people",
+          "• Authorities shut down internet access and limited mobile phone services countrywide "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6600018eeda1"
+    },
+    {
+      "id": "de1587b2beb8",
+      "title": "Trump says Iran has 'no plan' to execute protesters",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 15 Jan 2026 04:57:26 GMT",
+      "bullets": [
+        "• Trump says Iran has 'no plan' to execute protesters, but still hasn't ruled out US military action",
+        "• US and UK reducing the number of personnel at the Al-Udeid air base in Qatar",
+        "• Iran's airspace was closed to nearly all flights for five hours overnight, with several airlines rerouting flights "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says Iran has 'no plan' to execute protesters, but still hasn't ruled out US military action",
+          "• US and UK reducing the number of personnel at the Al-Udeid air base in Qatar"
+        ],
+        "hopeful_bullets": [
+          "• Trump says Iran has 'no plan' to execute protesters, but still hasn't ruled out US military action",
+          "• US and UK reducing the number of personnel at the Al-Udeid air base in Qatar"
+        ],
+        "stakes_bullets": [
+          "• Trump says Iran has 'no plan' to execute protesters, but still hasn't ruled out US military action"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2df657c91bd1"
+    },
+    {
+      "id": "2ca36d3c2cb8",
+      "title": "Captain America Calls Out The United States (And the Internet Is Ready For It)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/captain-america-calls-out-united-states-latin-america-racism/",
+      "published_at": "Thu, 15 Jan 2026 04:51:28 GMT",
+      "bullets": [
+        "• \"A Political World\" is a feature where we spotlight 20th Century comic book stories that came out back when comic books were not political",
+        "• Today, we look at how, 36 years ago, Captain America guest starred in an issue of Daredevil and tore into the United States "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"A Political World\" is a feature where we spotlight 20th Century comic book stories that came out back when comic books were not political",
+          "• Today, we look at how, 36 years ago, Captain America guest starred in an issue of Daredevil and tore into the United States "
+        ],
+        "hopeful_bullets": [
+          "• \"A Political World\" is a feature where we spotlight 20th Century comic book stories that came out back when comic books were not political",
+          "• Today, we look at how, 36 years ago, Captain America guest starred in an issue of Daredevil and tore into the United States "
+        ],
+        "stakes_bullets": [
+          "• \"A Political World\" is a feature where we spotlight 20th Century comic book stories that came out back when comic books were not political",
+          "• Today, we look at how, 36 years ago, Captain America guest starred in an issue of Daredevil and tore into the United States "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3a676f2c425a"
+    },
+    {
       "id": "d41af7269945",
       "title": "8 Best Romance Anime Like Apothecary Diaries Streaming on Netflix",
       "outlet": "CBR",
@@ -5387,6 +5516,40 @@
       },
       "read_minutes": 6,
       "cluster_id": "d47529aa6d7e"
+    },
+    {
+      "id": "2bcc22b5011f",
+      "title": "Federal agent shoots man in Minneapolis as tensions in city run high",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack",
+      "published_at": "Thu, 15 Jan 2026 04:40:03 GMT",
+      "bullets": [
+        "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
+        "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave",
+        "• Minneapolis mayor, Jacob Frey, said: “I’ve seen conduct from ICE that is disgusting and intolerable”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
+          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave"
+        ],
+        "hopeful_bullets": [
+          "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
+          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave"
+        ],
+        "stakes_bullets": [
+          "• Several hundred protesters gathered at the scene on Wednesday night facing off with agents",
+          "• Police chief Brian O’Hara said protestors were ‘engaging in unlawful behavior’ and urged everyone to leave",
+          "• Minneapolis mayor, Jacob Frey, said: “I’ve seen conduct from ICE that is disgusting and intolerable”"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9b25ca20de8b"
     },
     {
       "id": "e5e84fbc341e",
@@ -5457,41 +5620,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a321c818ce53"
-    },
-    {
-      "id": "57b8cc00c6ae",
-      "title": "The U.S. freezes new immigrant visas for 75 countries: See the full list",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/15/us-stops-immigrant-visas-for-75-countries-see-the-full-list.html",
-      "published_at": "Thu, 15 Jan 2026 04:30:19 GMT",
-      "bullets": [
-        "• The U.S",
-        "• State Department says 75 countries \"take welfare from the American people at unacceptable rates\" The freeze is set to begin Jan",
-        "• 21",
-        "• The countries, divided by region, include: Antigua and Barbuda, Bahamas, Belize and Belize "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• State Department says 75 countries \"take welfare from the American people at unacceptable rates\" The freeze is set to begin Jan"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• State Department says 75 countries \"take welfare from the American people at unacceptable rates\" The freeze is set to begin Jan"
-        ],
-        "stakes_bullets": [
-          "• The U.S",
-          "• State Department says 75 countries \"take welfare from the American people at unacceptable rates\" The freeze is set to begin Jan",
-          "• 21"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "247560b111ba"
     },
     {
       "id": "e35233726f03",
@@ -5856,40 +5984,6 @@
       "cluster_id": "2f7b2f71e15f"
     },
     {
-      "id": "2bcc22b5011f",
-      "title": "Immigration agents shoot man in Minneapolis as tensions in city run high",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack",
-      "published_at": "Thu, 15 Jan 2026 03:28:58 GMT",
-      "bullets": [
-        "• The shooting occurred about 7pm local time, according to witnesses",
-        "• The man was shot in the leg and was not fatally wounded, sources told the Guardian",
-        "• The incident occurred as the city continues to reel in the aftermath of the killing of Renee Nicole Good last week "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.712
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The shooting occurred about 7pm local time, according to witnesses",
-          "• The man was shot in the leg and was not fatally wounded, sources told the Guardian"
-        ],
-        "hopeful_bullets": [
-          "• The shooting occurred about 7pm local time, according to witnesses",
-          "• The man was shot in the leg and was not fatally wounded, sources told the Guardian"
-        ],
-        "stakes_bullets": [
-          "• The shooting occurred about 7pm local time, according to witnesses",
-          "• The man was shot in the leg and was not fatally wounded, sources told the Guardian",
-          "• The incident occurred as the city continues to reel in the aftermath of the killing of Renee Nicole Good last week "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "874d9ba84df7"
-    },
-    {
       "id": "61e3c02a84a7",
       "title": "How to Watch Star Trek in Order: An Official Guide to Every Movie & TV Show",
       "outlet": "CBR",
@@ -5923,40 +6017,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "1826c7870f38"
-    },
-    {
-      "id": "fbf3475280aa",
-      "title": "47 Years Later, Transformers Still Owes Everything to Diaclone",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/transformers-diaclone-inspiration-best-mecha-anime/",
-      "published_at": "Thu, 15 Jan 2026 03:15:12 GMT",
-      "bullets": [
-        "• The Transformers franchise has roots in Japan, with the original animated series as much of an anime as it was a Western cartoon",
-        "• The original Mobile Suit Gundam anime ushered in an era of \"Real Robot\" anime",
-        "• One Notable Anime Designer was inspired by the biggest one of them all "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Transformers franchise has roots in Japan, with the original animated series as much of an anime as it was a Western cartoon",
-          "• The original Mobile Suit Gundam anime ushered in an era of \"Real Robot\" anime"
-        ],
-        "hopeful_bullets": [
-          "• The Transformers franchise has roots in Japan, with the original animated series as much of an anime as it was a Western cartoon",
-          "• The original Mobile Suit Gundam anime ushered in an era of \"Real Robot\" anime"
-        ],
-        "stakes_bullets": [
-          "• The Transformers franchise has roots in Japan, with the original animated series as much of an anime as it was a Western cartoon",
-          "• The original Mobile Suit Gundam anime ushered in an era of \"Real Robot\" anime",
-          "• One Notable Anime Designer was inspired by the biggest one of them all "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "0fac26c0a729"
     },
     {
       "id": "67eea23fc41d",
@@ -6064,13 +6124,14 @@
       "bullets": [
         "• Bob Weir will be honored at a public event in San Francisco on Saturday, Jan",
         "• 17",
-        "• The event will be held at Civic Center Plaza adjacent to San Francisco’s City Hall",
-        "• Weir died last weekend after being diagnosed with lung cancer in July 2025 "
+        "• \"Homecoming: Celebrating the Life of Bobby Weir\" will kick off at 12:45 p.m",
+        "• PT at Civic Center Plaza",
+        "• The gathering will be preceded by a procession down Market Street "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
@@ -6083,7 +6144,8 @@
         ],
         "stakes_bullets": [
           "• Bob Weir will be honored at a public event in San Francisco on Saturday, Jan",
-          "• The event will be held at Civic Center Plaza adjacent to San Francisco’s City Hall"
+          "• \"Homecoming: Celebrating the Life of Bobby Weir\" will kick off at 12:45 p.m",
+          "• The gathering will be preceded by a procession down Market Street "
         ]
       },
       "read_minutes": 1,
@@ -6155,40 +6217,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "285a54f522ac"
-    },
-    {
-      "id": "5abafb34426f",
-      "title": "US and UK pulling some personnel from Qatar military base",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 15 Jan 2026 01:31:46 GMT",
-      "bullets": [
-        "• US and UK pull some personnel from Al-Udeid air base in Qatar",
-        "• Some UK military personnel are also being removed from Qatar base",
-        "• US President Donald Trump is considering whether to take action against Iran",
-        "• Iran closed its airspace from 02:45 local time (22:15 GMT) on Thursday to almost all flights "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US and UK pull some personnel from Al-Udeid air base in Qatar",
-          "• Some UK military personnel are also being removed from Qatar base"
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump is considering whether to take action against Iran"
-        ],
-        "stakes_bullets": [
-          "• US and UK pull some personnel from Al-Udeid air base in Qatar",
-          "• Some UK military personnel are also being removed from Qatar base",
-          "• US President Donald Trump is considering whether to take action against Iran"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b2508ebac5ec"
     },
     {
       "id": "1437e81e13c7",
@@ -6582,41 +6610,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "0dda7d4f03b1"
-    },
-    {
-      "id": "4850aaa82494",
-      "title": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jan/08/questions-targeting-impact-us-airstrikes-in-nigeria",
-      "published_at": "Thu, 08 Jan 2026 05:00:03 GMT",
-      "bullets": [
-        "• The US carried out Christmas Day airstrikes in north-west Nigeria",
-        "• The operation targeted an Islamist group known as Lakurawa",
-        "• The group extorts the mainly Muslim local population and enforces a strict version of sharia law",
-        "• It is unclear how many of the fighters, if any, died "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The US carried out Christmas Day airstrikes in north-west Nigeria",
-          "• The operation targeted an Islamist group known as Lakurawa"
-        ],
-        "hopeful_bullets": [
-          "• The US carried out Christmas Day airstrikes in north-west Nigeria",
-          "• The operation targeted an Islamist group known as Lakurawa"
-        ],
-        "stakes_bullets": [
-          "• The US carried out Christmas Day airstrikes in north-west Nigeria",
-          "• The operation targeted an Islamist group known as Lakurawa",
-          "• The group extorts the mainly Muslim local population and enforces a strict version of sharia law"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5c2b82bdc8f6"
     },
     {
       "id": "dfa71b9e1765",
@@ -8597,18 +8590,17 @@
   ],
   "clusters": [
     {
-      "id": "b2508ebac5ec",
-      "topic": "base military personnel pulling",
+      "id": "2df657c91bd1",
+      "topic": "execute iran plan protester",
       "keywords": [
-        "base",
-        "military",
-        "personnel",
-        "pulling",
-        "qatar",
-        "some"
+        "execute",
+        "iran",
+        "plan",
+        "protester",
+        "trump"
       ],
       "item_ids": [
-        "5abafb34426f"
+        "de1587b2beb8"
       ],
       "outlets": [
         "BBC News"
@@ -8777,6 +8769,24 @@
       ]
     },
     {
+      "id": "6600018eeda1",
+      "topic": "election expected extend museveni",
+      "keywords": [
+        "election",
+        "expected",
+        "extend",
+        "museveni",
+        "ugandan",
+        "vote"
+      ],
+      "item_ids": [
+        "845e3520dd7f"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "9b957dc60573",
       "topic": "administration ends protected statu",
       "keywords": [
@@ -8843,24 +8853,6 @@
       ],
       "item_ids": [
         "37b38a345509"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "5c2b82bdc8f6",
-      "topic": "airstrike impact linger question",
-      "keywords": [
-        "airstrike",
-        "impact",
-        "linger",
-        "question",
-        "targeting",
-        "week"
-      ],
-      "item_ids": [
-        "4850aaa82494"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -8957,11 +8949,11 @@
       ]
     },
     {
-      "id": "874d9ba84df7",
-      "topic": "agent immigration man minneapoli",
+      "id": "9b25ca20de8b",
+      "topic": "agent federal man minneapoli",
       "keywords": [
         "agent",
-        "immigration",
+        "federal",
         "man",
         "minneapoli",
         "shoot",
@@ -10227,24 +10219,6 @@
       ]
     },
     {
-      "id": "2269beb3081d",
-      "topic": "astronaut bring crew nasa",
-      "keywords": [
-        "astronaut",
-        "bring",
-        "crew",
-        "nasa",
-        "rest",
-        "set"
-      ],
-      "item_ids": [
-        "a5a643e0a42c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "5cfc907df0f9",
       "topic": "health impact just long",
       "keywords": [
@@ -10257,6 +10231,24 @@
       ],
       "item_ids": [
         "ea2446435dc9"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "2269beb3081d",
+      "topic": "astronaut bring crew nasa",
+      "keywords": [
+        "astronaut",
+        "bring",
+        "crew",
+        "nasa",
+        "rest",
+        "set"
+      ],
+      "item_ids": [
+        "a5a643e0a42c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -12316,6 +12308,24 @@
       ]
     },
     {
+      "id": "3a676f2c425a",
+      "topic": "america call captain out",
+      "keywords": [
+        "america",
+        "call",
+        "captain",
+        "out",
+        "state",
+        "united"
+      ],
+      "item_ids": [
+        "2ca36d3c2cb8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "0ee26d7f0308",
       "topic": "anime apothecary best diarie",
       "keywords": [
@@ -12470,24 +12480,6 @@
       ],
       "item_ids": [
         "61e3c02a84a7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0fac26c0a729",
-      "topic": "everything later owes still",
-      "keywords": [
-        "everything",
-        "later",
-        "owes",
-        "still",
-        "transformer",
-        "year"
-      ],
-      "item_ids": [
-        "fbf3475280aa"
       ],
       "outlets": [
         "CBR"
