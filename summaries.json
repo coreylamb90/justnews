@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T09:12:46Z",
+  "generated_at": "2026-01-16T09:59:29Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -4688,40 +4688,6 @@
       "cluster_id": "fbdcfc996d9c"
     },
     {
-      "id": "68f8433790bd",
-      "title": "Spain’s meteorologists subjected to ‘alarming’ rise in hate speech, minister warns",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns",
-      "published_at": "Thu, 15 Jan 2026 13:01:41 GMT",
-      "bullets": [
-        "• A number of people in Spain have been reported to have been offended by the language of their social media posts",
-        "• The public has been angered by the messages posted on social media",
-        "• The social media sites have been criticised for their lack of social media use "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A number of people in Spain have been reported to have been offended by the language of their social media posts",
-          "• The public has been angered by the messages posted on social media"
-        ],
-        "hopeful_bullets": [
-          "• A number of people in Spain have been reported to have been offended by the language of their social media posts",
-          "• The public has been angered by the messages posted on social media"
-        ],
-        "stakes_bullets": [
-          "• A number of people in Spain have been reported to have been offended by the language of their social media posts",
-          "• The public has been angered by the messages posted on social media",
-          "• The social media sites have been criticised for their lack of social media use "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8fb6c500a817"
-    },
-    {
       "id": "cd2a4bc994f4",
       "title": "Trump threatened to invoke the Insurrection Act (again). What is it?",
       "outlet": "NPR Topics: News",
@@ -4859,39 +4825,6 @@
       "cluster_id": "31e60ed7728f"
     },
     {
-      "id": "72f42124f319",
-      "title": "Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jan/15/trump-big-oil-venezuela",
-      "published_at": "Thu, 15 Jan 2026 11:00:03 GMT",
-      "bullets": [
-        "• Trump may be counting on some boost from cheap oil to the US economy",
-        "• As the midterm elections approach, he has become concerned about unemployment",
-        "• Deeply imprinted memories of scarcity during the oil crises of the 1970s may prime his belief that cheap oil cures it all "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.889
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump may be counting on some boost from cheap oil to the US economy",
-          "• As the midterm elections approach, he has become concerned about unemployment"
-        ],
-        "hopeful_bullets": [
-          "• Trump may be counting on some boost from cheap oil to the US economy"
-        ],
-        "stakes_bullets": [
-          "• Trump may be counting on some boost from cheap oil to the US economy",
-          "• As the midterm elections approach, he has become concerned about unemployment",
-          "• Deeply imprinted memories of scarcity during the oil crises of the 1970s may prime his belief that cheap oil cures it all "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4c7fc531514e"
-    },
-    {
       "id": "fa86cb1a44d3",
       "title": "Jasmine Crockett’s pastor, Frederick Haynes III, sees Congress as stage to pursue social justice",
       "outlet": "The Texas Tribune",
@@ -5027,7 +4960,7 @@
     {
       "id": "b5d0e1f6bd7e",
       "title": "24 hours of chaos as mental health grants are slashed then restored",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/15/nx-s1-5677711/mental-health-addiction-grants-cut-then-restored",
       "published_at": "Thu, 15 Jan 2026 09:39:05 -0500",
       "bullets": [
@@ -5035,7 +4968,7 @@
         "• The list of people affected includes people with disabilities who have been denied access to mental health care in the U.S",
         "• Department of Health of the State of New York City "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.99
@@ -6419,6 +6352,138 @@
       "cluster_id": "04c5dba1d0e0"
     },
     {
+      "id": "b38c418f86e5",
+      "title": "Canada PM hails ‘strategic partnership’ with China to adapt to ‘new global realities’",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jan/16/china-canada-partnership-new-global-realities-carney-xi-jinping",
+      "published_at": "Fri, 16 Jan 2026 09:29:00 GMT",
+      "bullets": [
+        "• Mark Carney hails a ‘new strategic partnership’ with China’s President Xi Jinping",
+        "• The Canadian prime minister is the first Canadian leader to visit China in eight years",
+        "• He announced on Friday that he had reached a “preliminary” trade deal with China to reduce tariffs "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mark Carney hails a ‘new strategic partnership’ with China’s President Xi Jinping",
+          "• The Canadian prime minister is the first Canadian leader to visit China in eight years"
+        ],
+        "hopeful_bullets": [
+          "• He announced on Friday that he had reached a “preliminary” trade deal with China to reduce tariffs "
+        ],
+        "stakes_bullets": [
+          "• The Canadian prime minister is the first Canadian leader to visit China in eight years"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "195d3415e9b4"
+    },
+    {
+      "id": "eecd090b98fe",
+      "title": "Famed safari park shuts as deadly floods strike South Africa",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgl8n3jjnd1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 16 Jan 2026 09:05:49 GMT",
+      "bullets": [
+        "• Flooding in Limpopo and Mpumalanga has forced the famed Kruger National Park to suspend visits and evacuate some guests and staff by helicopter",
+        "• At least 19 people are now believed to have died in recent weeks in South Africa due to floods caused by torrential rain",
+        "• A red level 10 warning has been issued by the South African Weather Service "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Flooding in Limpopo and Mpumalanga has forced the famed Kruger National Park to suspend visits and evacuate some guests and staff by helicopter",
+          "• At least 19 people are now believed to have died in recent weeks in South Africa due to floods caused by torrential rain"
+        ],
+        "hopeful_bullets": [
+          "• Flooding in Limpopo and Mpumalanga has forced the famed Kruger National Park to suspend visits and evacuate some guests and staff by helicopter",
+          "• At least 19 people are now believed to have died in recent weeks in South Africa due to floods caused by torrential rain"
+        ],
+        "stakes_bullets": [
+          "• At least 19 people are now believed to have died in recent weeks in South Africa due to floods caused by torrential rain"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2fc18b723459"
+    },
+    {
+      "id": "b76b68e20440",
+      "title": "Museveni takes strong lead in early results of Uganda presidential race",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 16 Jan 2026 08:59:13 GMT",
+      "bullets": [
+        "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
+        "• He is followed by opposition leader Bobi Wine with about 20% of the vote",
+        "• Opposition leader Wine has alleged \"massive\" fraud during the election, which was held under an internet blackout "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.903
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
+          "• He is followed by opposition leader Bobi Wine with about 20% of the vote"
+        ],
+        "hopeful_bullets": [
+          "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
+          "• He is followed by opposition leader Bobi Wine with about 20% of the vote",
+          "• Opposition leader Wine has alleged \"massive\" fraud during the election, which was held under an internet blackout "
+        ],
+        "stakes_bullets": [
+          "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
+          "• He is followed by opposition leader Bobi Wine with about 20% of the vote",
+          "• Opposition leader Wine has alleged \"massive\" fraud during the election, which was held under an internet blackout "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7ed6ad846033"
+    },
+    {
+      "id": "82a329451157",
+      "title": "Sydney awaits ‘soggiest weekend of summer’ as Victorian authorities defend flash flood warnings",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/16/warnings-for-flash-floods-on-victorias-surf-coast-were-not-issued-late-authorities-say",
+      "published_at": "Fri, 16 Jan 2026 08:50:43 GMT",
+      "bullets": [
+        "• Weatherzone forecasters predicted 20mm of rainfall was possible in Sydney on Saturday and Sunday",
+        "• The Bureau of Meteorology said it would be a ‘very wet weekend’ across the majority of eastern New South Wales",
+        "• It comes as Victoria continues to fight large bushfires with as many as 289 homes now destroyed "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.905
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Weatherzone forecasters predicted 20mm of rainfall was possible in Sydney on Saturday and Sunday",
+          "• The Bureau of Meteorology said it would be a ‘very wet weekend’ across the majority of eastern New South Wales"
+        ],
+        "hopeful_bullets": [
+          "• Weatherzone forecasters predicted 20mm of rainfall was possible in Sydney on Saturday and Sunday",
+          "• The Bureau of Meteorology said it would be a ‘very wet weekend’ across the majority of eastern New South Wales"
+        ],
+        "stakes_bullets": [
+          "• Weatherzone forecasters predicted 20mm of rainfall was possible in Sydney on Saturday and Sunday",
+          "• The Bureau of Meteorology said it would be a ‘very wet weekend’ across the majority of eastern New South Wales",
+          "• It comes as Victoria continues to fight large bushfires with as many as 289 homes now destroyed "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "0a0f923e1cf2"
+    },
+    {
       "id": "0e1985f38633",
       "title": "BTS Reveal ‘Deeply Reflective’ Title for Their Comeback Album",
       "outlet": "Music News",
@@ -6520,40 +6585,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "475ff9487f5e"
-    },
-    {
-      "id": "b76b68e20440",
-      "title": "Museveni takes strong lead in early results of Uganda presidential race",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 16 Jan 2026 08:13:00 GMT",
-      "bullets": [
-        "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
-        "• Results put him in the lead with 76% of the votes, based on results from 45% of polling stations",
-        "• Opposition leader Bobi Wine has alleged \"massive\" fraud during the election "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
-          "• Results put him in the lead with 76% of the votes, based on results from 45% of polling stations"
-        ],
-        "hopeful_bullets": [
-          "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
-          "• Opposition leader Bobi Wine has alleged \"massive\" fraud during the election "
-        ],
-        "stakes_bullets": [
-          "• President Yoweri Museveni takes strong lead in early results of Uganda presidential race",
-          "• Results put him in the lead with 76% of the votes, based on results from 45% of polling stations",
-          "• Opposition leader Bobi Wine has alleged \"massive\" fraud during the election "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7ed6ad846033"
     },
     {
       "id": "e9d34f73c098",
@@ -7257,6 +7288,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "9654435b1852"
+    },
+    {
+      "id": "406c36929d29",
+      "title": "A South Korean court sentences Yoon to 5 years in prison on charges related to martial law decree",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/16/g-s1-106260/a-south-korean-court-sentences-yoon-to-5-years-in-prison-on-charges-related-to-martial-law-decree",
+      "published_at": "Fri, 16 Jan 2026 04:09:17 -0500",
+      "bullets": [
+        "• A South Korean court sentences Yoon Suk Yeol to 5 years in prison on charges related to martial law decree",
+        "• Yoon was impeached, arrested and dismissed as president after his short-lived imposition of martial law in December",
+        "• The most significant criminal charge against him alleges that his martial law enforcement amounted to a rebellion "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A South Korean court sentences Yoon Suk Yeol to 5 years in prison on charges related to martial law decree",
+          "• Yoon was impeached, arrested and dismissed as president after his short-lived imposition of martial law in December"
+        ],
+        "hopeful_bullets": [
+          "• The most significant criminal charge against him alleges that his martial law enforcement amounted to a rebellion "
+        ],
+        "stakes_bullets": [
+          "• A South Korean court sentences Yoon Suk Yeol to 5 years in prison on charges related to martial law decree",
+          "• Yoon was impeached, arrested and dismissed as president after his short-lived imposition of martial law in December",
+          "• The most significant criminal charge against him alleges that his martial law enforcement amounted to a rebellion "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "db8eacd9b20f"
     },
     {
       "id": "df59f79e0959",
@@ -7986,6 +8050,37 @@
       "cluster_id": "207e7ec96671"
     },
     {
+      "id": "0899c2259493",
+      "title": "Actor Timothy Busfield charged with sexually abusing boys on set of TV series",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9rvkde0xxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 16 Jan 2026 00:24:22 GMT",
+      "bullets": [
+        "• Actor accused of sexually assaulting two boys on set of TV series The Cleaning Lady",
+        "• The case is now being transferred to court and a hearing has been set for 20 January to determine whether he should be released on bail pending trial",
+        "• \"The claims being made against Tim are completely false, and we will fight this to the end,\" the actor said "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Actor accused of sexually assaulting two boys on set of TV series The Cleaning Lady",
+          "• The case is now being transferred to court and a hearing has been set for 20 January to determine whether he should be released on bail pending trial"
+        ],
+        "hopeful_bullets": [
+          "• \"The claims being made against Tim are completely false, and we will fight this to the end,\" the actor said "
+        ],
+        "stakes_bullets": [
+          "• \"The claims being made against Tim are completely false, and we will fight this to the end,\" the actor said "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ff18e06b7376"
+    },
+    {
       "id": "1d2d3e0bc6d0",
       "title": "Greg Abbott enters 2026 Texas governor’s race with staggering $106 million on hand",
       "outlet": "The Texas Tribune",
@@ -8115,96 +8210,30 @@
       "cluster_id": "626f9d926676"
     },
     {
-      "id": "d332966cd18d",
-      "title": "Tragic death of Adichie's young son highlights poor state of Nigeria's health sector",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2d70kx6nn3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 16 Jan 2026 00:04:45 GMT",
-      "bullets": [
-        "• Tragic death of Adichie's young son highlights poor state of Nigeria's health sector",
-        "• Family of the internationally acclaimed author says her young son, Nkanu Nnamdi, died last week at a private hospital in Lagos",
-        "• They allege the child was denied oxygen and excessively sedated, leading to cardiac arrest",
-        "• The hospital extended its \"deepest sympathies\" but denied any wrongdoing "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tragic death of Adichie's young son highlights poor state of Nigeria's health sector",
-          "• Family of the internationally acclaimed author says her young son, Nkanu Nnamdi, died last week at a private hospital in Lagos"
-        ],
-        "hopeful_bullets": [
-          "• Tragic death of Adichie's young son highlights poor state of Nigeria's health sector",
-          "• Family of the internationally acclaimed author says her young son, Nkanu Nnamdi, died last week at a private hospital in Lagos"
-        ],
-        "stakes_bullets": [
-          "• They allege the child was denied oxygen and excessively sedated, leading to cardiac arrest"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "a75d0f61c11b"
-    },
-    {
-      "id": "3dd7ac83f3e5",
-      "title": "Israel moves Yellow Line deeper into Gaza, satellite images show",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgxl6zkenqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 16 Jan 2026 00:02:44 GMT",
-      "bullets": [
-        "• Israel moves Yellow Line markers deeper into Gaza, satellite images show",
-        "• In at least three areas Israel placed blocks, before returning later and moving positions further into the Strip",
-        "• Israel agreed to withdraw troops beyond a line marked in yellow on Israeli military maps "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel moves Yellow Line markers deeper into Gaza, satellite images show",
-          "• In at least three areas Israel placed blocks, before returning later and moving positions further into the Strip"
-        ],
-        "hopeful_bullets": [
-          "• Israel moves Yellow Line markers deeper into Gaza, satellite images show",
-          "• In at least three areas Israel placed blocks, before returning later and moving positions further into the Strip"
-        ],
-        "stakes_bullets": [
-          "• Israel moves Yellow Line markers deeper into Gaza, satellite images show",
-          "• In at least three areas Israel placed blocks, before returning later and moving positions further into the Strip",
-          "• Israel agreed to withdraw troops beyond a line marked in yellow on Israeli military maps "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "25c3e847e3db"
-    },
-    {
       "id": "38c6609653b3",
-      "title": "The landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+      "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 16 Jan 2026 00:00:21 GMT",
       "bullets": [
-        "• Researchers used satellite data and physics of how Antarctica's glaciers move to work out what the continent might look like beneath the ice",
+        "• New map reveals the landscape beneath Antarctica's ice in unprecedented detail",
+        "• Researchers used satellite data and physics to work out what the continent might look like beneath the ice",
         "• They found evidence of thousands of previously undiscovered hills and ridges",
         "• New maps could shed light on how Antarctica will respond to climate change "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Researchers used satellite data and physics of how Antarctica's glaciers move to work out what the continent might look like beneath the ice",
-          "• They found evidence of thousands of previously undiscovered hills and ridges"
+          "• New map reveals the landscape beneath Antarctica's ice in unprecedented detail",
+          "• Researchers used satellite data and physics to work out what the continent might look like beneath the ice"
         ],
         "hopeful_bullets": [
-          "• Researchers used satellite data and physics of how Antarctica's glaciers move to work out what the continent might look like beneath the ice",
-          "• They found evidence of thousands of previously undiscovered hills and ridges"
+          "• New map reveals the landscape beneath Antarctica's ice in unprecedented detail",
+          "• Researchers used satellite data and physics to work out what the continent might look like beneath the ice"
         ],
         "stakes_bullets": [
           "• New maps could shed light on how Antarctica will respond to climate change "
@@ -9261,36 +9290,18 @@
       ]
     },
     {
-      "id": "a5427fd4944c",
-      "topic": "alliance cost count cuba",
+      "id": "1edeb9cd8233",
+      "topic": "act insurrection invoke quell",
       "keywords": [
-        "alliance",
-        "cost",
-        "count",
-        "cuba",
-        "killed",
-        "troop"
+        "act",
+        "insurrection",
+        "invoke",
+        "quell",
+        "threaten",
+        "trump"
       ],
       "item_ids": [
-        "541724231f9c"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "25c3e847e3db",
-      "topic": "deeper gaza israel line",
-      "keywords": [
-        "deeper",
-        "gaza",
-        "israel",
-        "line",
-        "move",
-        "yellow"
-      ],
-      "item_ids": [
-        "3dd7ac83f3e5"
+        "589a1a9f5d5f"
       ],
       "outlets": [
         "BBC News"
@@ -9315,18 +9326,18 @@
       ]
     },
     {
-      "id": "1edeb9cd8233",
-      "topic": "act insurrection invoke quell",
+      "id": "ff18e06b7376",
+      "topic": "abusing actor busfield charged",
       "keywords": [
-        "act",
-        "insurrection",
-        "invoke",
-        "quell",
-        "threaten",
-        "trump"
+        "abusing",
+        "actor",
+        "busfield",
+        "charged",
+        "sexually",
+        "timothy"
       ],
       "item_ids": [
-        "589a1a9f5d5f"
+        "0899c2259493"
       ],
       "outlets": [
         "BBC News"
@@ -9351,18 +9362,36 @@
       ]
     },
     {
-      "id": "a75d0f61c11b",
-      "topic": "adichie death highlight son",
+      "id": "a5427fd4944c",
+      "topic": "alliance cost count cuba",
       "keywords": [
-        "adichie",
-        "death",
-        "highlight",
-        "son",
-        "tragic",
-        "young"
+        "alliance",
+        "cost",
+        "count",
+        "cuba",
+        "killed",
+        "troop"
       ],
       "item_ids": [
-        "d332966cd18d"
+        "541724231f9c"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "2fc18b723459",
+      "topic": "deadly famed flood park",
+      "keywords": [
+        "deadly",
+        "famed",
+        "flood",
+        "park",
+        "safari",
+        "shut"
+      ],
+      "item_ids": [
+        "eecd090b98fe"
       ],
       "outlets": [
         "BBC News"
@@ -9477,6 +9506,24 @@
       ]
     },
     {
+      "id": "195d3415e9b4",
+      "topic": "adapt canada china hail",
+      "keywords": [
+        "adapt",
+        "canada",
+        "china",
+        "hail",
+        "partnership",
+        "strategic"
+      ],
+      "item_ids": [
+        "b38c418f86e5"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "5578de762b16",
       "topic": "abuse claim denie iglesia",
       "keywords": [
@@ -9543,24 +9590,6 @@
       ],
       "item_ids": [
         "3c19b29f67cc"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "4c7fc531514e",
-      "topic": "big buy donald giant",
-      "keywords": [
-        "big",
-        "buy",
-        "donald",
-        "giant",
-        "oil",
-        "rush"
-      ],
-      "item_ids": [
-        "72f42124f319"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9729,6 +9758,24 @@
       ]
     },
     {
+      "id": "db8eacd9b20f",
+      "topic": "court korean sentence south",
+      "keywords": [
+        "court",
+        "korean",
+        "sentence",
+        "south",
+        "year",
+        "yoon"
+      ],
+      "item_ids": [
+        "406c36929d29"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "ca85a4432eda",
       "topic": "machado nobel peace presented",
       "keywords": [
@@ -9885,24 +9932,6 @@
       ],
       "item_ids": [
         "c22b538c6eaf"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "1ab610266b2c",
-      "topic": "chao grant health hour",
-      "keywords": [
-        "chao",
-        "grant",
-        "health",
-        "hour",
-        "mental",
-        "slashed"
-      ],
-      "item_ids": [
-        "b5d0e1f6bd7e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11014,6 +11043,24 @@
       ]
     },
     {
+      "id": "1ab610266b2c",
+      "topic": "chao grant health hour",
+      "keywords": [
+        "chao",
+        "grant",
+        "health",
+        "hour",
+        "mental",
+        "slashed"
+      ],
+      "item_ids": [
+        "b5d0e1f6bd7e"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "2fc7e01b8f0e",
       "topic": "fbi home reporter searche",
       "keywords": [
@@ -11346,6 +11393,24 @@
       ]
     },
     {
+      "id": "0a0f923e1cf2",
+      "topic": "await soggiest summer sydney",
+      "keywords": [
+        "await",
+        "soggiest",
+        "summer",
+        "sydney",
+        "victorian",
+        "weekend"
+      ],
+      "item_ids": [
+        "82a329451157"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "2e22bf147dfd",
       "topic": "accused education influence insidiou",
       "keywords": [
@@ -11376,24 +11441,6 @@
       ],
       "item_ids": [
         "149494988cea"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "8fb6c500a817",
-      "topic": "alarming hate meteorologist rise",
-      "keywords": [
-        "alarming",
-        "hate",
-        "meteorologist",
-        "rise",
-        "spain",
-        "subjected"
-      ],
-      "item_ids": [
-        "68f8433790bd"
       ],
       "outlets": [
         "Environment | The Guardian"
