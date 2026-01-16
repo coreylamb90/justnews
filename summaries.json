@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T11:58:51Z",
+  "generated_at": "2026-01-16T12:18:04Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -4109,10 +4109,10 @@
       "url": "https://www.npr.org/2026/01/15/nx-s1-5678654/trump-great-healthcare-plan-video-announcement-aca-premiums",
       "published_at": "Thu, 15 Jan 2026 15:48:05 -0500",
       "bullets": [
-        "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov, some of whom are facing sky-high premium hikes this month",
+        "• Trump health care plan doesn't help people facing skyrocketing ACA premiums",
+        "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov",
         "• The White House issued a fact sheet and held a press call hosted by the chief of Medicare and Medicaid, Dr",
-        "• Mehmet Oz",
-        "• Oz said the planned legislation has four pillars:- Drug price reforms- Health insurance reforms- Price transparency for health costs- Fraud protections and safeguards "
+        "• Mehmet Oz "
       ],
       "category": "Politics",
       "sentiment": {
@@ -4121,16 +4121,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov, some of whom are facing sky-high premium hikes this month",
-          "• The White House issued a fact sheet and held a press call hosted by the chief of Medicare and Medicaid, Dr"
+          "• Trump health care plan doesn't help people facing skyrocketing ACA premiums",
+          "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov"
         ],
         "hopeful_bullets": [
-          "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov, some of whom are facing sky-high premium hikes this month",
-          "• The White House issued a fact sheet and held a press call hosted by the chief of Medicare and Medicaid, Dr"
+          "• Trump health care plan doesn't help people facing skyrocketing ACA premiums"
         ],
         "stakes_bullets": [
-          "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov, some of whom are facing sky-high premium hikes this month",
-          "• Oz said the planned legislation has four pillars:- Drug price reforms- Health insurance reforms- Price transparency for health costs- Fraud protections and safeguards "
+          "• Trump health care plan doesn't help people facing skyrocketing ACA premiums",
+          "• The plan does not include a remedy for people who buy their health insurance on HealthCare.gov"
         ]
       },
       "read_minutes": 2,
@@ -5934,39 +5933,6 @@
       "cluster_id": "49f09af0e597"
     },
     {
-      "id": "93ce5f1fe6f4",
-      "title": "CEOs, security executives are divided on cyber risks of AI, survey finds",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/16/survey-finds-ceos-security-execs-are-divided-on-cyber-risks-of-ai.html",
-      "published_at": "Fri, 16 Jan 2026 10:30:01 GMT",
-      "bullets": [
-        "• Axis Capital surveyed 250 CEOs and chief information security officers across the U.S",
-        "• and U.K",
-        "• on how AI is reshaping the cyber risk landscape",
-        "• CEO Vincent Tizzio: AI presents unique burdens, liabilities, challenges and opportunities to CEOs and boards alike "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.767
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Axis Capital surveyed 250 CEOs and chief information security officers across the U.S",
-          "• and U.K"
-        ],
-        "hopeful_bullets": [
-          "• Axis Capital surveyed 250 CEOs and chief information security officers across the U.S",
-          "• and U.K"
-        ],
-        "stakes_bullets": [
-          "• on how AI is reshaping the cyber risk landscape"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "96fd1ce7727c"
-    },
-    {
       "id": "7cf60daf376b",
       "title": "Extreme rainfall inundates South Africa and Mozambique",
       "outlet": "World news | The Guardian",
@@ -6569,6 +6535,39 @@
       "cluster_id": "5851c917f83f"
     },
     {
+      "id": "5c65b35ccd7d",
+      "title": "Japan's Mitsubishi to acquire shale gas assets in U.S. for $7.5 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/16/mitsubishi-shale-gas-assets-texas-louisiana-deal.html",
+      "published_at": "Fri, 16 Jan 2026 06:15:49 GMT",
+      "bullets": [
+        "• Mitsubishi Corporation said on Friday that it will acquire shale gas assets in the U.S",
+        "• in a $7.53 billion deal, including debt, including $5.2 billion in equity and $2.33 billion in debt",
+        "• The Japanese trading house is looking to capitalize on rising power needs from data centers, manufacturing, as well as LNG exports "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.644
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mitsubishi Corporation said on Friday that it will acquire shale gas assets in the U.S",
+          "• in a $7.53 billion deal, including debt, including $5.2 billion in equity and $2.33 billion in debt"
+        ],
+        "hopeful_bullets": [
+          "• Mitsubishi Corporation said on Friday that it will acquire shale gas assets in the U.S",
+          "• in a $7.53 billion deal, including debt, including $5.2 billion in equity and $2.33 billion in debt"
+        ],
+        "stakes_bullets": [
+          "• Mitsubishi Corporation said on Friday that it will acquire shale gas assets in the U.S",
+          "• in a $7.53 billion deal, including debt, including $5.2 billion in equity and $2.33 billion in debt"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b70b9f551004"
+    },
+    {
       "id": "6ecd971c57a3",
       "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
       "outlet": "BBC News",
@@ -6896,41 +6895,6 @@
       "cluster_id": "7137b19a1301"
     },
     {
-      "id": "890b64dbe33e",
-      "title": "House Republicans are investigating Jan. 6. NPR fact-checked the first hearing",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/16/nx-s1-5678645/jan-6-house-gop-capitol-trump",
-      "published_at": "Fri, 16 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• House Republicans are investigating the Jan",
-        "• 6, 2021, attack on the U.S",
-        "• Capitol",
-        "• NPR fact-checked the first hearing of a new Republican-led subcommittee to investigate the attack",
-        "• The hearing unfolded against the backdrop of Trump's mass pardons for the defendants almost one year ago "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• House Republicans are investigating the Jan",
-          "• 6, 2021, attack on the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The hearing unfolded against the backdrop of Trump's mass pardons for the defendants almost one year ago "
-        ],
-        "stakes_bullets": [
-          "• House Republicans are investigating the Jan",
-          "• 6, 2021, attack on the U.S",
-          "• Capitol"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "03ca9a2ed27c"
-    },
-    {
       "id": "1f458ce16654",
       "title": "With limited political power, Minnesota Democrats navigate resistance to Trump",
       "outlet": "NPR Topics: News",
@@ -6996,6 +6960,73 @@
       },
       "read_minutes": 3,
       "cluster_id": "47bf90496875"
+    },
+    {
+      "id": "890b64dbe33e",
+      "title": "House Republicans are investigating Jan. 6. NPR fact-checked the first hearing",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/16/nx-s1-5678645/jan-6-house-gop-capitol-trump",
+      "published_at": "Fri, 16 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• House Republicans are investigating the Jan",
+        "• 6, 2021, attack on the U.S",
+        "• Capitol",
+        "• NPR fact-checked the first hearing of a new Republican-led subcommittee to investigate the attack",
+        "• The hearing unfolded against the backdrop of Trump's mass pardons for the January 6 defendants "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House Republicans are investigating the Jan",
+          "• 6, 2021, attack on the U.S"
+        ],
+        "hopeful_bullets": [
+          "• The hearing unfolded against the backdrop of Trump's mass pardons for the January 6 defendants "
+        ],
+        "stakes_bullets": [
+          "• House Republicans are investigating the Jan",
+          "• 6, 2021, attack on the U.S",
+          "• Capitol"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "03ca9a2ed27c"
+    },
+    {
+      "id": "3f6b428767af",
+      "title": "Absolute Batman Ark-M Special is a Powerful Turning Point in Batman's Journey",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/absolute-batman-ark-m-special-review-history-arkham-asylum-joker/",
+      "published_at": "Fri, 16 Jan 2026 04:55:23 GMT",
+      "bullets": [
+        "• Absolute Batman: Ark-M Special #1 is from writers Scott Snyder and Frank Tieri, artist Joshua Hixson, colorist Roman Stevens, and letterer Clayton Cowles",
+        "• It looks at the history of Arkham Asylum, but really just does an expansion of the origin of the Joker "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Absolute Batman: Ark-M Special #1 is from writers Scott Snyder and Frank Tieri, artist Joshua Hixson, colorist Roman Stevens, and letterer Clayton Cowles",
+          "• It looks at the history of Arkham Asylum, but really just does an expansion of the origin of the Joker "
+        ],
+        "hopeful_bullets": [
+          "• Absolute Batman: Ark-M Special #1 is from writers Scott Snyder and Frank Tieri, artist Joshua Hixson, colorist Roman Stevens, and letterer Clayton Cowles",
+          "• It looks at the history of Arkham Asylum, but really just does an expansion of the origin of the Joker "
+        ],
+        "stakes_bullets": [
+          "• Absolute Batman: Ark-M Special #1 is from writers Scott Snyder and Frank Tieri, artist Joshua Hixson, colorist Roman Stevens, and letterer Clayton Cowles",
+          "• It looks at the history of Arkham Asylum, but really just does an expansion of the origin of the Joker "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "740bcb00ca1c"
     },
     {
       "id": "02581d6d986b",
@@ -7694,68 +7725,34 @@
       "cluster_id": "575350ff64c3"
     },
     {
-      "id": "26b8c53bbe8d",
-      "title": "This Perfect Video Game Story Is More Powerful Than Ever",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/greatest-video-game-story-witcher-3-blood-and-wine/",
-      "published_at": "Fri, 16 Jan 2026 01:45:12 GMT",
-      "bullets": [
-        "• The Witcher 3: Blood and Wine takes players to a brand-new setting, Touissant",
-        "• It's a land pulled straight out of a fantasy book, filled with color and majestic views",
-        "• The best thing about the game is its story and characters",
-        "• It brought all of the game's best parts together "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Witcher 3: Blood and Wine takes players to a brand-new setting, Touissant",
-          "• It's a land pulled straight out of a fantasy book, filled with color and majestic views"
-        ],
-        "hopeful_bullets": [
-          "• The Witcher 3: Blood and Wine takes players to a brand-new setting, Touissant"
-        ],
-        "stakes_bullets": [
-          "• The Witcher 3: Blood and Wine takes players to a brand-new setting, Touissant",
-          "• It's a land pulled straight out of a fantasy book, filled with color and majestic views",
-          "• The best thing about the game is its story and characters"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a973692ac788"
-    },
-    {
       "id": "589a1a9f5d5f",
       "title": "Trump threatens to invoke Insurrection Act to quell anti-ICE protests in Minnesota",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwy15596p98o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 16 Jan 2026 01:32:41 GMT",
       "bullets": [
-        "• The president of the United States has threatened to use the law to stop illegal immigration",
-        "• He has been accused of using the law against illegal immigrants in the U.S",
-        "• illegally",
-        "• The law allows the president to use his own country's immigration authority to prevent illegal immigrants from entering the country "
+        "• Trump threatens to invoke the law to quell anti-immigration protests in Minnesota",
+        "• The president has previously said he might invoke the 1807 law elsewhere without ever doing so",
+        "• The law allows active-duty military personnel to be deployed for law enforcement duties in the US "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
-          "• The president of the United States has threatened to use the law to stop illegal immigration",
-          "• He has been accused of using the law against illegal immigrants in the U.S"
+          "• Trump threatens to invoke the law to quell anti-immigration protests in Minnesota",
+          "• The president has previously said he might invoke the 1807 law elsewhere without ever doing so"
         ],
         "hopeful_bullets": [
-          "• He has been accused of using the law against illegal immigrants in the U.S"
+          "• Trump threatens to invoke the law to quell anti-immigration protests in Minnesota",
+          "• The president has previously said he might invoke the 1807 law elsewhere without ever doing so"
         ],
         "stakes_bullets": [
-          "• The president of the United States has threatened to use the law to stop illegal immigration",
-          "• He has been accused of using the law against illegal immigrants in the U.S",
-          "• illegally"
+          "• Trump threatens to invoke the law to quell anti-immigration protests in Minnesota",
+          "• The president has previously said he might invoke the 1807 law elsewhere without ever doing so",
+          "• The law allows active-duty military personnel to be deployed for law enforcement duties in the US "
         ]
       },
       "read_minutes": 3,
@@ -9583,24 +9580,6 @@
       ]
     },
     {
-      "id": "03ca9a2ed27c",
-      "topic": "fact house investigating jan",
-      "keywords": [
-        "fact",
-        "house",
-        "investigating",
-        "jan",
-        "npr",
-        "republican"
-      ],
-      "item_ids": [
-        "890b64dbe33e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "f9572a36caa0",
       "topic": "democrat limited minnesota navigate",
       "keywords": [
@@ -9631,6 +9610,24 @@
       ],
       "item_ids": [
         "dc5af2725d00"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "03ca9a2ed27c",
+      "topic": "fact house investigating jan",
+      "keywords": [
+        "fact",
+        "house",
+        "investigating",
+        "jan",
+        "npr",
+        "republican"
+      ],
+      "item_ids": [
+        "890b64dbe33e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9727,24 +9724,6 @@
       ]
     },
     {
-      "id": "29f7c115d152",
-      "topic": "greenland spark takeover talk",
-      "keywords": [
-        "greenland",
-        "spark",
-        "takeover",
-        "talk",
-        "threat",
-        "trade"
-      ],
-      "item_ids": [
-        "d0cb2687515a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "e5ddaf21b4b3",
       "topic": "care health outline plan",
       "keywords": [
@@ -9781,6 +9760,24 @@
       ]
     },
     {
+      "id": "29f7c115d152",
+      "topic": "greenland spark takeover talk",
+      "keywords": [
+        "greenland",
+        "spark",
+        "takeover",
+        "talk",
+        "threat",
+        "trade"
+      ],
+      "item_ids": [
+        "d0cb2687515a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "ef0d61a13703",
       "topic": "ceo coinbase crypto key",
       "keywords": [
@@ -9799,18 +9796,18 @@
       ]
     },
     {
-      "id": "96fd1ce7727c",
-      "topic": "ceos cyber divided executive",
+      "id": "b70b9f551004",
+      "topic": "acquire asset gas japan",
       "keywords": [
-        "ceos",
-        "cyber",
-        "divided",
-        "executive",
-        "risk",
-        "security"
+        "acquire",
+        "asset",
+        "gas",
+        "japan",
+        "mitsubishi",
+        "shale"
       ],
       "item_ids": [
-        "93ce5f1fe6f4"
+        "5c65b35ccd7d"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -12988,6 +12985,24 @@
       ]
     },
     {
+      "id": "740bcb00ca1c",
+      "topic": "absolute ark batman powerful",
+      "keywords": [
+        "absolute",
+        "ark",
+        "batman",
+        "powerful",
+        "special",
+        "turning"
+      ],
+      "item_ids": [
+        "3f6b428767af"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "9303b4cae15a",
       "topic": "according all movie richard",
       "keywords": [
@@ -13143,24 +13158,6 @@
       ],
       "item_ids": [
         "f309b8b54aba"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "a973692ac788",
-      "topic": "ever game perfect powerful",
-      "keywords": [
-        "ever",
-        "game",
-        "perfect",
-        "powerful",
-        "story",
-        "video"
-      ],
-      "item_ids": [
-        "26b8c53bbe8d"
       ],
       "outlets": [
         "CBR"
