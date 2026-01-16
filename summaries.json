@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T02:53:48Z",
+  "generated_at": "2026-01-16T04:26:06Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -895,37 +895,6 @@
       "cluster_id": "f6318c122c34"
     },
     {
-      "id": "dcd5ffa93577",
-      "title": "“Marine darkwaves”: Hidden ocean blackouts are putting sealife at risk",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260114084115.htm",
-      "published_at": "Wed, 14 Jan 2026 09:45:06 EST",
-      "bullets": [
-        "• Scientists identify sudden episodes of underwater darkness that can last days or months",
-        "• Caused by storms, sediment runoff, algae blooms, and murky water, these events dramatically reduce light reaching the seafloor",
-        "• These events can seriously disrupt kelp forests, seagrass meadows, and other marine organisms that depend on light to survive "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists identify sudden episodes of underwater darkness that can last days or months",
-          "• Caused by storms, sediment runoff, algae blooms, and murky water, these events dramatically reduce light reaching the seafloor"
-        ],
-        "hopeful_bullets": [
-          "• Caused by storms, sediment runoff, algae blooms, and murky water, these events dramatically reduce light reaching the seafloor"
-        ],
-        "stakes_bullets": [
-          "• Caused by storms, sediment runoff, algae blooms, and murky water, these events dramatically reduce light reaching the seafloor"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b3c62678a549"
-    },
-    {
       "id": "1c30118c40dc",
       "title": "The risks of AI in schools outweigh the benefits, report says",
       "outlet": "NPR Topics: Science",
@@ -996,25 +965,26 @@
       "url": "https://www.npr.org/2026/01/14/nx-s1-5630989/la-fires-health-impact-smoke",
       "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
       "bullets": [
-        "• Long-term health impacts from the LA wildfires are just becoming clear",
-        "• UCLA physician and disaster researcher David Eisenman: \"Part of the community recovery process is to learn from what we experienced\" The fires presented a moment to learn crucial missing information about the health effects "
+        "• The long-term health impacts from the LA wildfires are just becoming clear",
+        "• Researchers from Los Angeles and around the country scrambled into action as fires burned through the Pacific Palisades and Altadena",
+        "• They soon joined together to form a consortium that tied together 10 research institutions to explore some of the most pressing questions "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.795
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• Long-term health impacts from the LA wildfires are just becoming clear",
-          "• UCLA physician and disaster researcher David Eisenman: \"Part of the community recovery process is to learn from what we experienced\" The fires presented a moment to learn crucial missing information about the health effects "
+          "• The long-term health impacts from the LA wildfires are just becoming clear",
+          "• Researchers from Los Angeles and around the country scrambled into action as fires burned through the Pacific Palisades and Altadena"
         ],
         "hopeful_bullets": [
-          "• UCLA physician and disaster researcher David Eisenman: \"Part of the community recovery process is to learn from what we experienced\" The fires presented a moment to learn crucial missing information about the health effects "
+          "• The long-term health impacts from the LA wildfires are just becoming clear",
+          "• Researchers from Los Angeles and around the country scrambled into action as fires burned through the Pacific Palisades and Altadena"
         ],
         "stakes_bullets": [
-          "• Long-term health impacts from the LA wildfires are just becoming clear",
-          "• UCLA physician and disaster researcher David Eisenman: \"Part of the community recovery process is to learn from what we experienced\" The fires presented a moment to learn crucial missing information about the health effects "
+          "• The long-term health impacts from the LA wildfires are just becoming clear"
         ]
       },
       "read_minutes": 9,
@@ -2275,6 +2245,70 @@
       "cluster_id": "7066b9845e6f"
     },
     {
+      "id": "d98d9ba4dc12",
+      "title": "Taiwan Semiconductor's record quarter renewed investors' faith in AI stocks, Jim Cramer says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/15/jim-cramer-taiwan-semiconductors-ai-stocks.html",
+      "published_at": "Thu, 15 Jan 2026 23:29:52 GMT",
+      "bullets": [
+        "• Taiwan Semiconductor beat the estimates and reported a 35% profit increase",
+        "• The company has now posted eight consecutive quarters of year-over-year profit growth",
+        "• Analyst Jim Cramer says the results renewed Wall Street's faith in artificial intelligence stocks "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taiwan Semiconductor beat the estimates and reported a 35% profit increase",
+          "• The company has now posted eight consecutive quarters of year-over-year profit growth"
+        ],
+        "hopeful_bullets": [
+          "• The company has now posted eight consecutive quarters of year-over-year profit growth"
+        ],
+        "stakes_bullets": [
+          "• Taiwan Semiconductor beat the estimates and reported a 35% profit increase",
+          "• The company has now posted eight consecutive quarters of year-over-year profit growth",
+          "• Analyst Jim Cramer says the results renewed Wall Street's faith in artificial intelligence stocks "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "cde9c57ee1ea"
+    },
+    {
+      "id": "670d57ee842e",
+      "title": "One protein may decide whether brain chemistry heals or harms",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260115022811.htm",
+      "published_at": "Thu, 15 Jan 2026 23:01:24 EST",
+      "bullets": [
+        "• Tryptophan fuels brain chemistry, energy production, and mood-regulating neurotransmitters",
+        "• As the brain ages or develops neurological disease, this delicate system goes awry",
+        "• Scientists have repeatedly observed disruptions in how tryptophan is processed in aging brains, with even stronger effects seen in neurodegenerative and psychiatric disorders "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tryptophan fuels brain chemistry, energy production, and mood-regulating neurotransmitters",
+          "• As the brain ages or develops neurological disease, this delicate system goes awry"
+        ],
+        "hopeful_bullets": [
+          "• Scientists have repeatedly observed disruptions in how tryptophan is processed in aging brains, with even stronger effects seen in neurodegenerative and psychiatric disorders "
+        ],
+        "stakes_bullets": [
+          "• Scientists have repeatedly observed disruptions in how tryptophan is processed in aging brains, with even stronger effects seen in neurodegenerative and psychiatric disorders "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "11fdcc2cdeaf"
+    },
+    {
       "id": "4b47f50a08f4",
       "title": "“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines",
       "outlet": "Ars Technica - All content",
@@ -2408,6 +2442,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "131ff7ebab91"
+    },
+    {
+      "id": "b1e2226e4af1",
+      "title": "Scientists found the soil secret that doubles forest regrowth",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260115220612.htm",
+      "published_at": "Thu, 15 Jan 2026 22:31:47 EST",
+      "bullets": [
+        "• Scientists led by the University of Leeds launched the largest and longest experiment ever designed to examine how nutrients shape forest regrowth",
+        "• The study shows that what happens below ground plays a major role in how quickly forests return after land has been cleared",
+        "• Faster regrowth also means more carbon captured from the atmosphere "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.872
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists led by the University of Leeds launched the largest and longest experiment ever designed to examine how nutrients shape forest regrowth",
+          "• The study shows that what happens below ground plays a major role in how quickly forests return after land has been cleared"
+        ],
+        "hopeful_bullets": [
+          "• Scientists led by the University of Leeds launched the largest and longest experiment ever designed to examine how nutrients shape forest regrowth",
+          "• Faster regrowth also means more carbon captured from the atmosphere "
+        ],
+        "stakes_bullets": [
+          "• Scientists led by the University of Leeds launched the largest and longest experiment ever designed to examine how nutrients shape forest regrowth",
+          "• The study shows that what happens below ground plays a major role in how quickly forests return after land has been cleared",
+          "• Faster regrowth also means more carbon captured from the atmosphere "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c5a626db8d46"
     },
     {
       "id": "98fe6dc84b1a",
@@ -2720,61 +2788,29 @@
       "published_at": "Thu, 15 Jan 2026 22:07:12 GMT",
       "bullets": [
         "• Washington will lower tariffs on Taiwanese goods to 15%, down from a 20% “reciprocal” rate",
-        "• Taiwanese chip and tech businesses set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity "
+        "• Taiwanese chip and tech businesses are set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity in areas like advanced semiconductors and artificial intelligence "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.97
       },
       "moods": {
         "brief_bullets": [
           "• Washington will lower tariffs on Taiwanese goods to 15%, down from a 20% “reciprocal” rate",
-          "• Taiwanese chip and tech businesses set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity "
+          "• Taiwanese chip and tech businesses are set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity in areas like advanced semiconductors and artificial intelligence "
         ],
         "hopeful_bullets": [
           "• Washington will lower tariffs on Taiwanese goods to 15%, down from a 20% “reciprocal” rate",
-          "• Taiwanese chip and tech businesses set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity "
+          "• Taiwanese chip and tech businesses are set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity in areas like advanced semiconductors and artificial intelligence "
         ],
         "stakes_bullets": [
           "• Washington will lower tariffs on Taiwanese goods to 15%, down from a 20% “reciprocal” rate",
-          "• Taiwanese chip and tech businesses set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity "
+          "• Taiwanese chip and tech businesses are set to make “new, direct investments totaling at least $250bn” in the US to build and expand capacity in areas like advanced semiconductors and artificial intelligence "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "0f2eb57274fc"
-    },
-    {
-      "id": "299a9afbb20a",
-      "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/15/goldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html",
-      "published_at": "Thu, 15 Jan 2026 22:05:15 GMT",
-      "bullets": [
-        "• Goldman Sachs CEO David Solomon says it's exploring opportunities in prediction markets",
-        "• Solomon: \"We have a team of people here that are spending time with them and are looking at it\" Prediction markets allow investors to trade contracts tied to the outcome of world events "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Goldman Sachs CEO David Solomon says it's exploring opportunities in prediction markets",
-          "• Solomon: \"We have a team of people here that are spending time with them and are looking at it\" Prediction markets allow investors to trade contracts tied to the outcome of world events "
-        ],
-        "hopeful_bullets": [
-          "• Goldman Sachs CEO David Solomon says it's exploring opportunities in prediction markets",
-          "• Solomon: \"We have a team of people here that are spending time with them and are looking at it\" Prediction markets allow investors to trade contracts tied to the outcome of world events "
-        ],
-        "stakes_bullets": [
-          "• Goldman Sachs CEO David Solomon says it's exploring opportunities in prediction markets",
-          "• Solomon: \"We have a team of people here that are spending time with them and are looking at it\" Prediction markets allow investors to trade contracts tied to the outcome of world events "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a833920df6cd"
     },
     {
       "id": "889e5b904f28",
@@ -3235,38 +3271,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "b903a5601559"
-    },
-    {
-      "id": "ed0d79c36b55",
-      "title": "Trump ally and ICE deputy director resigns to run for Congress in Ohio",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/15/ice-deputy-director-resigns",
-      "published_at": "Thu, 15 Jan 2026 20:38:27 GMT",
-      "bullets": [
-        "• Madison Sheahan, the second-ranking official at Immigration and Customs Enforcement, is running for Congress in Ohio",
-        "• The 28-year-old was appointed to the deputy director position in March despite having no law enforcement experience",
-        "• Under her leadership, ICE had its deadliest year since 2004, with 32 people killed while in custody "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Madison Sheahan, the second-ranking official at Immigration and Customs Enforcement, is running for Congress in Ohio",
-          "• The 28-year-old was appointed to the deputy director position in March despite having no law enforcement experience"
-        ],
-        "hopeful_bullets": [
-          "• Madison Sheahan, the second-ranking official at Immigration and Customs Enforcement, is running for Congress in Ohio",
-          "• The 28-year-old was appointed to the deputy director position in March despite having no law enforcement experience"
-        ],
-        "stakes_bullets": [
-          "• Under her leadership, ICE had its deadliest year since 2004, with 32 people killed while in custody "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4b677ecf0108"
     },
     {
       "id": "1896b516bd55",
@@ -3745,40 +3749,6 @@
       "cluster_id": "cf3ee03974e9"
     },
     {
-      "id": "8c3102bbaca6",
-      "title": "‘The Dreadful’ Trailer Reunites “Games of Thrones” Stars Sophie Turner and Kit Harington",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/554225/the-dreadful-trailer-reunites-games-of-thrones-stars-sophie-turner-and-kit-harington/",
-      "published_at": "Thu, 15 Jan 2026 19:28:57 +0000",
-      "bullets": [
-        "• ‘The Dreadful’ Trailer Reunites ‘Games of Thrones’ stars Sophie Turner and Kit Harington",
-        "• The psychological thriller is set in medieval England",
-        "• A man from Anne’s past returns from war, a curse begins to take shape through a mysterious knight "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ‘The Dreadful’ Trailer Reunites ‘Games of Thrones’ stars Sophie Turner and Kit Harington",
-          "• The psychological thriller is set in medieval England"
-        ],
-        "hopeful_bullets": [
-          "• ‘The Dreadful’ Trailer Reunites ‘Games of Thrones’ stars Sophie Turner and Kit Harington",
-          "• The psychological thriller is set in medieval England"
-        ],
-        "stakes_bullets": [
-          "• ‘The Dreadful’ Trailer Reunites ‘Games of Thrones’ stars Sophie Turner and Kit Harington",
-          "• The psychological thriller is set in medieval England",
-          "• A man from Anne’s past returns from war, a curse begins to take shape through a mysterious knight "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3e50402ca106"
-    },
-    {
       "id": "155b0296a27e",
       "title": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
       "outlet": "US news | The Guardian",
@@ -3951,40 +3921,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "65c3d1284385"
-    },
-    {
-      "id": "3c1ddab8b309",
-      "title": "Anger in Iceland over incoming US ambassador’s ‘52nd state’ joke",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jan/15/anger-iceland-incoming-us-ambassador-52nd-state-joke",
-      "published_at": "Thu, 15 Jan 2026 19:08:47 GMT",
-      "bullets": [
-        "• More than 3,000 people have signed a petition calling for Donald Trump to be re-nominated for Iceland's presidency",
-        "• The petition was launched after Donald Trump said that Iceland should be the 52nd state of the United States",
-        "• Trump has been accused of threatening to take control of the country's sovereignty "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 3,000 people have signed a petition calling for Donald Trump to be re-nominated for Iceland's presidency",
-          "• The petition was launched after Donald Trump said that Iceland should be the 52nd state of the United States"
-        ],
-        "hopeful_bullets": [
-          "• More than 3,000 people have signed a petition calling for Donald Trump to be re-nominated for Iceland's presidency",
-          "• The petition was launched after Donald Trump said that Iceland should be the 52nd state of the United States"
-        ],
-        "stakes_bullets": [
-          "• More than 3,000 people have signed a petition calling for Donald Trump to be re-nominated for Iceland's presidency",
-          "• The petition was launched after Donald Trump said that Iceland should be the 52nd state of the United States",
-          "• Trump has been accused of threatening to take control of the country's sovereignty "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "71429c7ed616"
     },
     {
       "id": "59310fea5d02",
@@ -4950,6 +4886,70 @@
       "cluster_id": "21044d740e7d"
     },
     {
+      "id": "4cbcffaa70cf",
+      "title": "Trump's approach to the Department of Justice",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2026/01/15/nx-s1-5677588/trumps-approach-to-the-department-of-justice",
+      "published_at": "Thu, 15 Jan 2026 16:31:01 -0500",
+      "bullets": [
+        "• The Justice Department is once again at the center of the news, with investigations of federal lawmakers, the chairman of the Federal Reserve and sitting lawmakers",
+        "• At the same time, leaders of the Justice Department have ruled out a civil rights investigation against the federal officer who shot and killed motorist Renee Macklin Good in Minneapolis",
+        "• NPR senior political editor and correspondent Domenico Montanaro and NPR justice correspondent Carrie Johnson discuss what's been happening over the last week "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Justice Department is once again at the center of the news, with investigations of federal lawmakers, the chairman of the Federal Reserve and sitting lawmakers",
+          "• At the same time, leaders of the Justice Department have ruled out a civil rights investigation against the federal officer who shot and killed motorist Renee Macklin Good in Minneapolis"
+        ],
+        "hopeful_bullets": [
+          "• At the same time, leaders of the Justice Department have ruled out a civil rights investigation against the federal officer who shot and killed motorist Renee Macklin Good in Minneapolis"
+        ],
+        "stakes_bullets": [
+          "• At the same time, leaders of the Justice Department have ruled out a civil rights investigation against the federal officer who shot and killed motorist Renee Macklin Good in Minneapolis"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "06e10c54b320"
+    },
+    {
+      "id": "efa293371980",
+      "title": "Trump threatens Insurrection Act amid anger and protests against ICE in Minneapolis",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2026/01/15/nx-s1-5678593/trump-threatens-insurrection-act-amid-anger-and-protests-against-ice-in-minneapolis",
+      "published_at": "Thu, 15 Jan 2026 16:27:00 -0500",
+      "bullets": [
+        "• Trump threatens Insurrection Act amid anger and protests against ICE in Minneapolis",
+        "• Tensions remain high after an ICE officer killed 37-year-old Renee Macklin Good last week",
+        "• Frustrations boiled over last night after a Venezuelan immigrant was shot in the leg by a federal agent "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump threatens Insurrection Act amid anger and protests against ICE in Minneapolis",
+          "• Tensions remain high after an ICE officer killed 37-year-old Renee Macklin Good last week"
+        ],
+        "hopeful_bullets": [
+          "• Trump threatens Insurrection Act amid anger and protests against ICE in Minneapolis"
+        ],
+        "stakes_bullets": [
+          "• Trump threatens Insurrection Act amid anger and protests against ICE in Minneapolis",
+          "• Tensions remain high after an ICE officer killed 37-year-old Renee Macklin Good last week",
+          "• Frustrations boiled over last night after a Venezuelan immigrant was shot in the leg by a federal agent "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "75858b16544d"
+    },
+    {
       "id": "beb5835bb5ab",
       "title": "Behind the front lines of the legal battle against Trump's National Guard deployments",
       "outlet": "NPR Topics: News",
@@ -5014,38 +5014,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "070e63d60fc1"
-    },
-    {
-      "id": "d532af5aa4d7",
-      "title": "NATO nations deploy to Greenland after tense White House talks",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html",
-      "published_at": "Thu, 15 Jan 2026 16:14:19 GMT",
-      "bullets": [
-        "• NATO members deploying small numbers of troops to Greenland for joint military exercise",
-        "• Denmark, Germany, France, Sweden and Norway have all confirmed plans to send military personnel to the sparsely populated island this week",
-        "• U.S",
-        "• President Donald Trump has renewed his sights on taking the island following an audacious military intervention in Venezuela "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NATO members deploying small numbers of troops to Greenland for joint military exercise",
-          "• Denmark, Germany, France, Sweden and Norway have all confirmed plans to send military personnel to the sparsely populated island this week"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump has renewed his sights on taking the island following an audacious military intervention in Venezuela "
-        ],
-        "stakes_bullets": [
-          "• Denmark, Germany, France, Sweden and Norway have all confirmed plans to send military personnel to the sparsely populated island this week"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "22943e111fbb"
     },
     {
       "id": "06e59a70b347",
@@ -6373,38 +6341,6 @@
       "cluster_id": "88cd26435706"
     },
     {
-      "id": "4971fbd5354a",
-      "title": "New research challenges the cold dark matter assumption",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
-      "published_at": "Thu, 15 Jan 2026 00:42:07 EST",
-      "bullets": [
-        "• New research challenges the cold dark matter assumption",
-        "• Dark matter may have started out blazing hot, then cooled down to shape the Universe we see today",
-        "• By focusing on a chaotic early era known as post-inflationary reheating, researchers reveal that âred-hotâ dark matter could survive long enough to become the calm, structure-building force "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.919
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New research challenges the cold dark matter assumption",
-          "• Dark matter may have started out blazing hot, then cooled down to shape the Universe we see today"
-        ],
-        "hopeful_bullets": [
-          "• New research challenges the cold dark matter assumption",
-          "• Dark matter may have started out blazing hot, then cooled down to shape the Universe we see today"
-        ],
-        "stakes_bullets": [
-          "• By focusing on a chaotic early era known as post-inflationary reheating, researchers reveal that âred-hotâ dark matter could survive long enough to become the calm, structure-building force "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8fe3bb7098f5"
-    },
-    {
       "id": "b5b462a34bd2",
       "title": "Five Hocus Pocus “Easter Eggs” You Never Noticed!",
       "outlet": "Wicked Horror",
@@ -7503,6 +7439,373 @@
       "cluster_id": "04c5dba1d0e0"
     },
     {
+      "id": "9ce813d2d724",
+      "title": "The Free-to-Play Fantasy RPG With Overwhelmingly Positive Steam Reviews",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/free-to-play-fantasy-rpg-overwhelmingly-positive-steam-reviews/",
+      "published_at": "Fri, 16 Jan 2026 04:15:11 GMT",
+      "bullets": [
+        "• The fantasy RPG was released in September 2023",
+        "• It's the perfect RPG for fans of retro games and classic role-playing mechanics",
+        "• Set in the land of Caldera, a luscious world with a dark history",
+        "• There is a growing population of dreamless people who are slowly going mad "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The fantasy RPG was released in September 2023",
+          "• It's the perfect RPG for fans of retro games and classic role-playing mechanics"
+        ],
+        "hopeful_bullets": [
+          "• There is a growing population of dreamless people who are slowly going mad "
+        ],
+        "stakes_bullets": [
+          "• The fantasy RPG was released in September 2023",
+          "• It's the perfect RPG for fans of retro games and classic role-playing mechanics",
+          "• Set in the land of Caldera, a luscious world with a dark history"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9654435b1852"
+    },
+    {
+      "id": "df59f79e0959",
+      "title": "HBO's Heated Rivalry Is 1 of the Greatest Streaming Shows of the Decade",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/hbo-heated-rivalry-greatest-streaming-shows-of-decade/",
+      "published_at": "Fri, 16 Jan 2026 04:00:12 GMT",
+      "bullets": [
+        "• HBO's chart-topping sports drama, Heated Rivalry, has taken the world by storm",
+        "• Based on the Game Changers book series by Rachel Reid, the show follows Shane Hollander and Ilya Rozanov as they go from rookie players to hockey all-stars",
+        "• The show is first and foremost a steamy sports-themed romance "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HBO's chart-topping sports drama, Heated Rivalry, has taken the world by storm",
+          "• Based on the Game Changers book series by Rachel Reid, the show follows Shane Hollander and Ilya Rozanov as they go from rookie players to hockey all-stars"
+        ],
+        "hopeful_bullets": [
+          "• HBO's chart-topping sports drama, Heated Rivalry, has taken the world by storm",
+          "• Based on the Game Changers book series by Rachel Reid, the show follows Shane Hollander and Ilya Rozanov as they go from rookie players to hockey all-stars"
+        ],
+        "stakes_bullets": [
+          "• HBO's chart-topping sports drama, Heated Rivalry, has taken the world by storm",
+          "• Based on the Game Changers book series by Rachel Reid, the show follows Shane Hollander and Ilya Rozanov as they go from rookie players to hockey all-stars",
+          "• The show is first and foremost a steamy sports-themed romance "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "1f55e4158a25"
+    },
+    {
+      "id": "c1f0f52f5508",
+      "title": "JJK's Worst Character Already Created 2026’s Most Viral Anime Moment, & McDonald's Is Cashing In",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jujutsu-kaisen-naoya-hair-flip-meme/",
+      "published_at": "Fri, 16 Jan 2026 03:52:53 GMT",
+      "bullets": [
+        "• Jujutsu Kaisen Season 3, Episode 1, premiered on Friday",
+        "• Naoya Zenin's hair flip is the first viral anime meme of 2026",
+        "• Fans have taken to social media to mock the character's use of Projection Sorcery "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jujutsu Kaisen Season 3, Episode 1, premiered on Friday",
+          "• Naoya Zenin's hair flip is the first viral anime meme of 2026"
+        ],
+        "hopeful_bullets": [
+          "• Jujutsu Kaisen Season 3, Episode 1, premiered on Friday",
+          "• Naoya Zenin's hair flip is the first viral anime meme of 2026"
+        ],
+        "stakes_bullets": [
+          "• Jujutsu Kaisen Season 3, Episode 1, premiered on Friday",
+          "• Naoya Zenin's hair flip is the first viral anime meme of 2026",
+          "• Fans have taken to social media to mock the character's use of Projection Sorcery "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "cce4d913bbcf"
+    },
+    {
+      "id": "b793d2c7c39c",
+      "title": "India’s exports to China surge in December while shipments to U.S. decline as Trump tariffs bite",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html",
+      "published_at": "Fri, 16 Jan 2026 03:45:00 GMT",
+      "bullets": [
+        "• India's exports to China surged 67% in December to $2 billion, government data shows",
+        "• The U.S",
+        "• has slapped 50% tariffs on New Delhi, among the highest on any country and more than on China",
+        "• China has emerged as India's largest goods trading partner, doing business worth $110.20 billion between April and December 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.617
+      },
+      "moods": {
+        "brief_bullets": [
+          "• India's exports to China surged 67% in December to $2 billion, government data shows",
+          "• The U.S"
+        ],
+        "hopeful_bullets": [
+          "• India's exports to China surged 67% in December to $2 billion, government data shows"
+        ],
+        "stakes_bullets": [
+          "• India's exports to China surged 67% in December to $2 billion, government data shows",
+          "• China has emerged as India's largest goods trading partner, doing business worth $110.20 billion between April and December 2025 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bdbf4b9b509b"
+    },
+    {
+      "id": "4b3ebda7f4e0",
+      "title": "6 Sitcoms Better Than The Big Bang Theory",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/sitcoms-better-than-the-big-bang-theory-list/",
+      "published_at": "Fri, 16 Jan 2026 03:30:12 GMT",
+      "bullets": [
+        "• Sitcoms can often be hugely comforting, returning again and again to wholesome yet realistic settings",
+        "• Derry Girls is a riotous depiction of the growing pains of young teen girls as they float from Bible camps to poetry clubs",
+        "• Lisa McGee's coming-of-age comedy follows the lives of teen girls in the town of Derry in Northern Ireland in the 1990s "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sitcoms can often be hugely comforting, returning again and again to wholesome yet realistic settings",
+          "• Derry Girls is a riotous depiction of the growing pains of young teen girls as they float from Bible camps to poetry clubs"
+        ],
+        "hopeful_bullets": [
+          "• Derry Girls is a riotous depiction of the growing pains of young teen girls as they float from Bible camps to poetry clubs"
+        ],
+        "stakes_bullets": [
+          "• Sitcoms can often be hugely comforting, returning again and again to wholesome yet realistic settings",
+          "• Derry Girls is a riotous depiction of the growing pains of young teen girls as they float from Bible camps to poetry clubs",
+          "• Lisa McGee's coming-of-age comedy follows the lives of teen girls in the town of Derry in Northern Ireland in the 1990s "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "5481353cb52f"
+    },
+    {
+      "id": "7a555fcfe922",
+      "title": "New Transformers Release Brings Back G1 'Lamborghini Brothers' in First-Look Prototype Reveal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/transformers-red-alert-tigertrack-dr-wu/",
+      "published_at": "Fri, 16 Jan 2026 03:30:12 GMT",
+      "bullets": [
+        "• Dr",
+        "• Wu has released two new color prototypes of the G1 Transformers",
+        "• DW-E51 Red Line &DW-E52 Frenet are the latest third-party takes on the iconic G1 \"Lamborghini brothers\" The two Decepticon toys in the bunch are based on some of the more obscure Insecticons "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.932
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dr",
+          "• Wu has released two new color prototypes of the G1 Transformers"
+        ],
+        "hopeful_bullets": [
+          "• Dr",
+          "• Wu has released two new color prototypes of the G1 Transformers"
+        ],
+        "stakes_bullets": [
+          "• Dr",
+          "• Wu has released two new color prototypes of the G1 Transformers",
+          "• DW-E51 Red Line &DW-E52 Frenet are the latest third-party takes on the iconic G1 \"Lamborghini brothers\" The two Decepticon toys in the bunch are based on some of the more obscure Insecticons "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b5460c11dd76"
+    },
+    {
+      "id": "e0495a8ef5d3",
+      "title": "TSMC is set to expand its $165 billion U.S. investment — here’s what we know",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/16/tsmcs-arizona-chip-expansion-isnt-done-after-us-investment-cfo.html",
+      "published_at": "Fri, 16 Jan 2026 03:25:18 GMT",
+      "bullets": [
+        "• Taiwan Semiconductor Manufacturing Co",
+        "• is poised to accelerate its multibillion-dollar expansion in Arizona",
+        "• The world's largest contract chipmaker has already committed $165 billion in the U.S., aligning with Washington's push to rebuild its domestic chip manufacturing",
+        "• TSMC executives have signaled that spending will rise even further as the company expands capacity to meet demand for artificial intelligence chips "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taiwan Semiconductor Manufacturing Co",
+          "• is poised to accelerate its multibillion-dollar expansion in Arizona"
+        ],
+        "hopeful_bullets": [
+          "• Taiwan Semiconductor Manufacturing Co",
+          "• is poised to accelerate its multibillion-dollar expansion in Arizona"
+        ],
+        "stakes_bullets": [
+          "• is poised to accelerate its multibillion-dollar expansion in Arizona",
+          "• The world's largest contract chipmaker has already committed $165 billion in the U.S., aligning with Washington's push to rebuild its domestic chip manufacturing",
+          "• TSMC executives have signaled that spending will rise even further as the company expands capacity to meet demand for artificial intelligence chips "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "68bf865a875f"
+    },
+    {
+      "id": "087f06422a29",
+      "title": "Horror Comic “Exquisite Corpses” Slashes to the Big Screen!",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/554267/horror-comic-exquisite-corpses-slashes-to-the-big-screen/",
+      "published_at": "Fri, 16 Jan 2026 03:16:19 +0000",
+      "bullets": [
+        "• Horror Comic “Exquisite Corpses” Slashes to the Big Screen! Lyrical Media and James Tynion IV’s Tiny Onion jointly announced the development of two horror films",
+        "• The first season of the comic book series, published by Image Comics and co-created by artist Michael Walsh, has already become a hit "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Horror Comic “Exquisite Corpses” Slashes to the Big Screen! Lyrical Media and James Tynion IV’s Tiny Onion jointly announced the development of two horror films",
+          "• The first season of the comic book series, published by Image Comics and co-created by artist Michael Walsh, has already become a hit "
+        ],
+        "hopeful_bullets": [
+          "• Horror Comic “Exquisite Corpses” Slashes to the Big Screen! Lyrical Media and James Tynion IV’s Tiny Onion jointly announced the development of two horror films",
+          "• The first season of the comic book series, published by Image Comics and co-created by artist Michael Walsh, has already become a hit "
+        ],
+        "stakes_bullets": [
+          "• Horror Comic “Exquisite Corpses” Slashes to the Big Screen! Lyrical Media and James Tynion IV’s Tiny Onion jointly announced the development of two horror films",
+          "• The first season of the comic book series, published by Image Comics and co-created by artist Michael Walsh, has already become a hit "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fce87d85d275"
+    },
+    {
+      "id": "637eec87a0df",
+      "title": "Death of man at ICE camp could be investigated as homicide after examiner’s report",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/15/ice-detention-camp-texas-death",
+      "published_at": "Fri, 16 Jan 2026 03:08:43 GMT",
+      "bullets": [
+        "• The death of a man being held at a federal detention camp in Texas may be investigated as a homicide",
+        "• The local medical examiner reportedly found the preliminary cause of death was “asphyxia due to neck and chest compression” The 55-year-old Cuban migrant was arrested by Immigration and Customs Enforcement in July last year "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The death of a man being held at a federal detention camp in Texas may be investigated as a homicide",
+          "• The local medical examiner reportedly found the preliminary cause of death was “asphyxia due to neck and chest compression” The 55-year-old Cuban migrant was arrested by Immigration and Customs Enforcement in July last year "
+        ],
+        "hopeful_bullets": [
+          "• The death of a man being held at a federal detention camp in Texas may be investigated as a homicide",
+          "• The local medical examiner reportedly found the preliminary cause of death was “asphyxia due to neck and chest compression” The 55-year-old Cuban migrant was arrested by Immigration and Customs Enforcement in July last year "
+        ],
+        "stakes_bullets": [
+          "• The local medical examiner reportedly found the preliminary cause of death was “asphyxia due to neck and chest compression” The 55-year-old Cuban migrant was arrested by Immigration and Customs Enforcement in July last year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0851fd54b770"
+    },
+    {
+      "id": "12c57ed959da",
+      "title": "Three US citizens sue Trump with the ACLU over encounters with ICE agents – as it happened",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
+      "published_at": "Fri, 16 Jan 2026 03:04:33 GMT",
+      "bullets": [
+        "• Donald Trump threatened to invoke the Insurrection Act, which allows the president to use the military domestically to suppress an invasion or rebellion",
+        "• The ACLU filed a lawsuit against the Trump administration, claiming that it has used federal law enforcement to target Somali and Latino communities in Minnesota",
+        "• Minnesota governor Tim Walz called on Trump to “turn the temperature down”"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump threatened to invoke the Insurrection Act, which allows the president to use the military domestically to suppress an invasion or rebellion",
+          "• The ACLU filed a lawsuit against the Trump administration, claiming that it has used federal law enforcement to target Somali and Latino communities in Minnesota"
+        ],
+        "hopeful_bullets": [
+          "• The ACLU filed a lawsuit against the Trump administration, claiming that it has used federal law enforcement to target Somali and Latino communities in Minnesota"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump threatened to invoke the Insurrection Act, which allows the president to use the military domestically to suppress an invasion or rebellion",
+          "• The ACLU filed a lawsuit against the Trump administration, claiming that it has used federal law enforcement to target Somali and Latino communities in Minnesota",
+          "• Minnesota governor Tim Walz called on Trump to “turn the temperature down”"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "e6f0c3b75dd3"
+    },
+    {
+      "id": "c5418520352c",
+      "title": "Alan Ritchson's Ministry of Ungentlemanly Warfare Deserves a Second Chance",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/alan-ritchson-ministry-of-ungentlemanly-warfare-deserves-second-chance/",
+      "published_at": "Fri, 16 Jan 2026 03:00:22 GMT",
+      "bullets": [
+        "• The Ministry of Ungentlemanly Warfare fails squarely within that category, both for its performance and the movie as a whole",
+        "• The movie is based on a true story about a secret unit in WWII and their mission to take down the Nazis",
+        "• It's a wonderful WWII movie and really deserves a second chance from audiences "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Ministry of Ungentlemanly Warfare fails squarely within that category, both for its performance and the movie as a whole",
+          "• The movie is based on a true story about a secret unit in WWII and their mission to take down the Nazis"
+        ],
+        "hopeful_bullets": [
+          "• The Ministry of Ungentlemanly Warfare fails squarely within that category, both for its performance and the movie as a whole",
+          "• The movie is based on a true story about a secret unit in WWII and their mission to take down the Nazis"
+        ],
+        "stakes_bullets": [
+          "• The Ministry of Ungentlemanly Warfare fails squarely within that category, both for its performance and the movie as a whole",
+          "• The movie is based on a true story about a secret unit in WWII and their mission to take down the Nazis",
+          "• It's a wonderful WWII movie and really deserves a second chance from audiences "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0da6ac31bbf3"
+    },
+    {
       "id": "2b69223b24e9",
       "title": "36 Years Later, Star Trek's Greatest Geordi La Forge Episode Remains a 10/10 Sci-Fi Gem",
       "outlet": "CBR",
@@ -7533,6 +7836,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "4df1cc68e0a7"
+    },
+    {
+      "id": "f406eeb82098",
+      "title": "Kyrsten Sinema sued by former bodyguard’s ex-wife over ‘alienation of affection’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/15/kyrsten-sinema-lawsuit",
+      "published_at": "Fri, 16 Jan 2026 02:29:47 GMT",
+      "bullets": [
+        "• Kyrsten Sinema asked for the suit to be moved from state court to federal court, she says",
+        "• Matthew Ammel's ex-wife says he had a romantic relationship with a member of her security detail",
+        "• Heather Ammel is seeking at least $75,000 from the former US senator from Arizona "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kyrsten Sinema asked for the suit to be moved from state court to federal court, she says",
+          "• Matthew Ammel's ex-wife says he had a romantic relationship with a member of her security detail"
+        ],
+        "hopeful_bullets": [
+          "• Kyrsten Sinema asked for the suit to be moved from state court to federal court, she says",
+          "• Matthew Ammel's ex-wife says he had a romantic relationship with a member of her security detail"
+        ],
+        "stakes_bullets": [
+          "• Kyrsten Sinema asked for the suit to be moved from state court to federal court, she says",
+          "• Matthew Ammel's ex-wife says he had a romantic relationship with a member of her security detail",
+          "• Heather Ammel is seeking at least $75,000 from the former US senator from Arizona "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a8785ea3d861"
     },
     {
       "id": "f309b8b54aba",
@@ -7604,66 +7941,36 @@
     },
     {
       "id": "87eb7730756b",
-      "title": "Gwar Rages Through Chappell Roan’s ‘Pink Pony Club’ and Its Spectacular",
+      "title": "Gwar Rages Through Chappell Roan’s ‘Pink Pony Club’ and It’s Spectacular",
       "outlet": "Music News",
       "url": "https://www.rollingstone.com/music/music-news/gwar-chappell-roan-pink-pony-club-cover-video-1235500428/",
       "published_at": "Fri, 16 Jan 2026 02:16:10 +0000",
       "bullets": [
-        "• Gwar cover Chappell Roan’s hit, “Pink Pony Club,” for A.V",
+        "• Gwar cover Chappell Roan’s hit, ‘Pink Pony Club,” for A.V",
         "• Undercover",
-        "• The band performed the song for the show",
-        "• Roan performed it at the 2025 Grammy Awards "
+        "• The band performed the song for the show's first time in 2015",
+        "• Gwar has previously covered Cyndi Lauper's ‘She Bop’"
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.852
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gwar cover Chappell Roan’s hit, “Pink Pony Club,” for A.V",
-          "• Undercover"
-        ],
-        "hopeful_bullets": [
-          "• Roan performed it at the 2025 Grammy Awards "
-        ],
-        "stakes_bullets": [
-          "• The band performed the song for the show"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3b0af1370019"
-    },
-    {
-      "id": "12c57ed959da",
-      "title": "Three US citizens sue Trump with the ACLU over encounters with ICE agents – live",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
-      "published_at": "Fri, 16 Jan 2026 02:12:42 GMT",
-      "bullets": [
-        "• Three US citizens sue Trump via ACLU over encounters with ICE agents in Minneapolis",
-        "• The lawsuit describes a mass “racial profiling campaign” resulting in “an unprecedented level of violence” against Minnesotans of color",
-        "• The three plaintiffs in the case, who are all US citizens, are Mubashir Khalif Hussen, a 20-year-old Somali man who grew up in the United States after his family came to the country as refugees "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
         "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• Three US citizens sue Trump via ACLU over encounters with ICE agents in Minneapolis",
-          "• The lawsuit describes a mass “racial profiling campaign” resulting in “an unprecedented level of violence” against Minnesotans of color"
+          "• Gwar cover Chappell Roan’s hit, ‘Pink Pony Club,” for A.V",
+          "• Undercover"
         ],
         "hopeful_bullets": [
-          "• The lawsuit describes a mass “racial profiling campaign” resulting in “an unprecedented level of violence” against Minnesotans of color"
+          "• Gwar cover Chappell Roan’s hit, ‘Pink Pony Club,” for A.V",
+          "• Undercover"
         ],
         "stakes_bullets": [
-          "• The lawsuit describes a mass “racial profiling campaign” resulting in “an unprecedented level of violence” against Minnesotans of color"
+          "• The band performed the song for the show's first time in 2015"
         ]
       },
-      "read_minutes": 10,
-      "cluster_id": "e6f0c3b75dd3"
+      "read_minutes": 1,
+      "cluster_id": "3b0af1370019"
     },
     {
       "id": "fb05ce0e0e34",
@@ -7764,49 +8071,15 @@
       "cluster_id": "ab6b7c9c9d03"
     },
     {
-      "id": "47c40ebc65a3",
-      "title": "6 Best Peacock Original Series to Stream Right Now",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-peacock-original-series-streaming-list/",
-      "published_at": "Fri, 16 Jan 2026 01:30:12 GMT",
-      "bullets": [
-        "• The Copenhagen Test is the latest Peacock Original to hit the screen",
-        "• The series stars Simu Liu as Alexander Hale, an intelligence analyst who realizes that someone is terrifyingly hacking his brain",
-        "• The thriller is psychologically tense, creatively innovative, and unravels at a slow pace "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.952
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Copenhagen Test is the latest Peacock Original to hit the screen",
-          "• The series stars Simu Liu as Alexander Hale, an intelligence analyst who realizes that someone is terrifyingly hacking his brain"
-        ],
-        "hopeful_bullets": [
-          "• The Copenhagen Test is the latest Peacock Original to hit the screen",
-          "• The series stars Simu Liu as Alexander Hale, an intelligence analyst who realizes that someone is terrifyingly hacking his brain"
-        ],
-        "stakes_bullets": [
-          "• The Copenhagen Test is the latest Peacock Original to hit the screen",
-          "• The series stars Simu Liu as Alexander Hale, an intelligence analyst who realizes that someone is terrifyingly hacking his brain",
-          "• The thriller is psychologically tense, creatively innovative, and unravels at a slow pace "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "04f58e63790c"
-    },
-    {
       "id": "800880eff579",
       "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 16 Jan 2026 01:27:46 GMT",
       "bullets": [
-        "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize to President Donald Trump at a private White House meeting on Thursday",
-        "• The meeting was the first time the two have met in-person",
-        "• Trump expressed his gratitude in a social media post, saying that receiving the prize was \"a wonderful gesture of mutual respect\""
+        "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize medal to President Donald Trump at a private White House meeting on Thursday",
+        "• It is the first time the two have met in-person",
+        "• Trump expressed his gratitude in a social media post, saying the move was \"a wonderful gesture of mutual respect\""
       ],
       "category": "World",
       "sentiment": {
@@ -7815,214 +8088,19 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize to President Donald Trump at a private White House meeting on Thursday",
-          "• The meeting was the first time the two have met in-person"
+          "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize medal to President Donald Trump at a private White House meeting on Thursday",
+          "• It is the first time the two have met in-person"
         ],
         "hopeful_bullets": [
-          "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize to President Donald Trump at a private White House meeting on Thursday",
-          "• The meeting was the first time the two have met in-person"
+          "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize medal to President Donald Trump at a private White House meeting on Thursday",
+          "• It is the first time the two have met in-person"
         ],
         "stakes_bullets": [
-          "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize to President Donald Trump at a private White House meeting on Thursday"
+          "• Venezuelan opposition leader María Corina Machado says she presented her Nobel Peace Prize medal to President Donald Trump at a private White House meeting on Thursday"
         ]
       },
       "read_minutes": 4,
       "cluster_id": "51f209ddd08a"
-    },
-    {
-      "id": "900cdfb488f7",
-      "title": "Marvel's 87-Year-Old First Superhero Gets an Ultimate Revamp That HomagesMarvel's 87-Year-Old First Superhero Gets an Ultimate Revamp That Homages an Avengers Classic",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/marvel-87-year-old-first-superhero-ultimate-revamp-avengers-classics/",
-      "published_at": "Fri, 16 Jan 2026 01:26:20 GMT",
-      "bullets": [
-        "• The Ultimates #20 is from writer Deniz Camp, artist Phil Noto and colorist Edgar Delgado",
-        "• The issue is the latest in a series of comic books featuring the Ultimate Universe",
-        "• It's a great way to synthesize three classic Avengers stories into a single issue "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Ultimates #20 is from writer Deniz Camp, artist Phil Noto and colorist Edgar Delgado",
-          "• The issue is the latest in a series of comic books featuring the Ultimate Universe"
-        ],
-        "hopeful_bullets": [
-          "• The Ultimates #20 is from writer Deniz Camp, artist Phil Noto and colorist Edgar Delgado",
-          "• The issue is the latest in a series of comic books featuring the Ultimate Universe"
-        ],
-        "stakes_bullets": [
-          "• The Ultimates #20 is from writer Deniz Camp, artist Phil Noto and colorist Edgar Delgado",
-          "• The issue is the latest in a series of comic books featuring the Ultimate Universe",
-          "• It's a great way to synthesize three classic Avengers stories into a single issue "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "cdb4dc1dae84"
-    },
-    {
-      "id": "20fb8e7a8e68",
-      "title": "JJK Season 3 English Dub's Release Date and Cast",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jujutsu-kaisen-season-3-english-dub-release-and-cast/",
-      "published_at": "Fri, 16 Jan 2026 01:15:12 GMT",
-      "bullets": [
-        "• The third season of Gege Akutami’s Jujutsu Kaisen premiered on Crunchyroll earlier this month",
-        "• The English dub for the third season will be available during the Winter 2026 season",
-        "• The release window is estimated to be between January and March "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The third season of Gege Akutami’s Jujutsu Kaisen premiered on Crunchyroll earlier this month",
-          "• The English dub for the third season will be available during the Winter 2026 season"
-        ],
-        "hopeful_bullets": [
-          "• The English dub for the third season will be available during the Winter 2026 season",
-          "• The release window is estimated to be between January and March "
-        ],
-        "stakes_bullets": [
-          "• The English dub for the third season will be available during the Winter 2026 season"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e3d7c135dce7"
-    },
-    {
-      "id": "00e81b2d376b",
-      "title": "Tom Hardy's $506M Action Hit Venom Scores New Streaming Home 5 Years Later",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/venom-let-there-be-carnage-superhero-disney-plus-success-january-2026/",
-      "published_at": "Fri, 16 Jan 2026 01:00:12 GMT",
-      "bullets": [
-        "• It's been eight years since Tom Hardy made his debut as the titular character",
-        "• The sequel, Venom: Let There Be Carnage, will be available on Disney+ on Jan",
-        "• 22",
-        "• The film will join the original film on the streaming giant's platform "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.628
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's been eight years since Tom Hardy made his debut as the titular character",
-          "• The sequel, Venom: Let There Be Carnage, will be available on Disney+ on Jan"
-        ],
-        "hopeful_bullets": [
-          "• It's been eight years since Tom Hardy made his debut as the titular character",
-          "• The sequel, Venom: Let There Be Carnage, will be available on Disney+ on Jan"
-        ],
-        "stakes_bullets": [
-          "• The sequel, Venom: Let There Be Carnage, will be available on Disney+ on Jan",
-          "• The film will join the original film on the streaming giant's platform "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3d503ee91735"
-    },
-    {
-      "id": "b1c0672ff9ba",
-      "title": "Quentin Tarantino's Favorite Movie Is a Martial Arts Masterpiece Everyone Must Watch Once",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/quentin-tarantino-favorite-movie-master-of-the-flying-guillotine/",
-      "published_at": "Fri, 16 Jan 2026 01:00:12 GMT",
-      "bullets": [
-        "• Quentin Tarantino's Kill Bill is one of his favorite Kung Fu films",
-        "• Kung Fu came out of Hong Kong in the '70s",
-        "• It predates the popularity of Bruce Lee's \"Master of the Flying Guillotine\" Tarantino has never been shy about discussing his influences in the genre "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Quentin Tarantino's Kill Bill is one of his favorite Kung Fu films",
-          "• Kung Fu came out of Hong Kong in the '70s"
-        ],
-        "hopeful_bullets": [
-          "• Quentin Tarantino's Kill Bill is one of his favorite Kung Fu films",
-          "• Kung Fu came out of Hong Kong in the '70s"
-        ],
-        "stakes_bullets": [
-          "• Quentin Tarantino's Kill Bill is one of his favorite Kung Fu films"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "666bab906c9d"
-    },
-    {
-      "id": "60fc536731ac",
-      "title": "Coinbase CEO says key crypto vote can be rescheduled after 11th hour cancellation",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/15/coinbase-ceo-says-key-crypto-vote-can-be-rescheduled-after-11th-hour-cancellation.html",
-      "published_at": "Fri, 16 Jan 2026 00:34:56 GMT",
-      "bullets": [
-        "• Senators are vowing to go forward on a major crypto bill that would give the industry the rule of the road after a planned committee vote was derailed at the 11th hour",
-        "• The biggest sticking points have been issues for months as Democrats, Republican, the crypto industry and banks have tried to find common ground "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senators are vowing to go forward on a major crypto bill that would give the industry the rule of the road after a planned committee vote was derailed at the 11th hour",
-          "• The biggest sticking points have been issues for months as Democrats, Republican, the crypto industry and banks have tried to find common ground "
-        ],
-        "hopeful_bullets": [
-          "• Senators are vowing to go forward on a major crypto bill that would give the industry the rule of the road after a planned committee vote was derailed at the 11th hour"
-        ],
-        "stakes_bullets": [
-          "• Senators are vowing to go forward on a major crypto bill that would give the industry the rule of the road after a planned committee vote was derailed at the 11th hour",
-          "• The biggest sticking points have been issues for months as Democrats, Republican, the crypto industry and banks have tried to find common ground "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ef0d61a13703"
-    },
-    {
-      "id": "2491dab1cea6",
-      "title": "Jamie Campbell Bower Confirmed for The Rings of Power",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/stranger-things-jamie-campbell-bower-joining-rings-of-power/",
-      "published_at": "Fri, 16 Jan 2026 00:30:12 GMT",
-      "bullets": [
-        "• Jamie Campbell Bower has starred in a number of high-profile TV series",
-        "• The actor is a big bad in the final two seasons of Stranger Things",
-        "• Bower will star in a new series of The Lord of the Rings: The Rings of Power "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.788
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jamie Campbell Bower has starred in a number of high-profile TV series",
-          "• The actor is a big bad in the final two seasons of Stranger Things"
-        ],
-        "hopeful_bullets": [
-          "• Jamie Campbell Bower has starred in a number of high-profile TV series",
-          "• The actor is a big bad in the final two seasons of Stranger Things"
-        ],
-        "stakes_bullets": [
-          "• Bower will star in a new series of The Lord of the Rings: The Rings of Power "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "438103d40918"
     },
     {
       "id": "1d2d3e0bc6d0",
@@ -9509,6 +9587,42 @@
       ]
     },
     {
+      "id": "0851fd54b770",
+      "topic": "camp death homicide ice",
+      "keywords": [
+        "camp",
+        "death",
+        "homicide",
+        "ice",
+        "investigated",
+        "man"
+      ],
+      "item_ids": [
+        "637eec87a0df"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "a8785ea3d861",
+      "topic": "bodyguard former kyrsten sinema",
+      "keywords": [
+        "bodyguard",
+        "former",
+        "kyrsten",
+        "sinema",
+        "sued",
+        "wife"
+      ],
+      "item_ids": [
+        "f406eeb82098"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "575350ff64c3",
       "topic": "glance hand medal peace",
       "keywords": [
@@ -9617,24 +9731,6 @@
       ]
     },
     {
-      "id": "4b677ecf0108",
-      "topic": "ally deputy director ice",
-      "keywords": [
-        "ally",
-        "deputy",
-        "director",
-        "ice",
-        "resign",
-        "trump"
-      ],
-      "item_ids": [
-        "ed0d79c36b55"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "ae38d7813702",
       "topic": "act insurrection minnesota threaten",
       "keywords": [
@@ -9647,24 +9743,6 @@
       ],
       "item_ids": [
         "155b0296a27e"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "71429c7ed616",
-      "topic": "52nd ambassador anger iceland",
-      "keywords": [
-        "52nd",
-        "ambassador",
-        "anger",
-        "iceland",
-        "incoming",
-        "state"
-      ],
-      "item_ids": [
-        "3c1ddab8b309"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9905,6 +9983,24 @@
       ]
     },
     {
+      "id": "bdbf4b9b509b",
+      "topic": "china december export india",
+      "keywords": [
+        "china",
+        "december",
+        "export",
+        "india",
+        "surge",
+        "while"
+      ],
+      "item_ids": [
+        "b793d2c7c39c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "4884028f9657",
       "topic": "brace deliberately investor openai",
       "keywords": [
@@ -9923,6 +10019,24 @@
       ]
     },
     {
+      "id": "68bf865a875f",
+      "topic": "165 billion expand investment",
+      "keywords": [
+        "165",
+        "billion",
+        "expand",
+        "investment",
+        "set",
+        "tsmc"
+      ],
+      "item_ids": [
+        "e0495a8ef5d3"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "e5ddaf21b4b3",
       "topic": "care health outline plan",
       "keywords": [
@@ -9935,60 +10049,6 @@
       ],
       "item_ids": [
         "8edbd4585391"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ef0d61a13703",
-      "topic": "ceo coinbase crypto key",
-      "keywords": [
-        "ceo",
-        "coinbase",
-        "crypto",
-        "key",
-        "rescheduled",
-        "vote"
-      ],
-      "item_ids": [
-        "60fc536731ac"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a833920df6cd",
-      "topic": "ceo goldman looking sach",
-      "keywords": [
-        "ceo",
-        "goldman",
-        "looking",
-        "sach",
-        "street",
-        "wall"
-      ],
-      "item_ids": [
-        "299a9afbb20a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "22943e111fbb",
-      "topic": "deploy greenland nation nato",
-      "keywords": [
-        "deploy",
-        "greenland",
-        "nation",
-        "nato",
-        "tense",
-        "white"
-      ],
-      "item_ids": [
-        "d532af5aa4d7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10025,6 +10085,24 @@
       ],
       "item_ids": [
         "06e59a70b347"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "cde9c57ee1ea",
+      "topic": "investor quarter record renewed",
+      "keywords": [
+        "investor",
+        "quarter",
+        "record",
+        "renewed",
+        "semiconductor",
+        "taiwan"
+      ],
+      "item_ids": [
+        "d98d9ba4dc12"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10563,6 +10641,24 @@
       ]
     },
     {
+      "id": "c5a626db8d46",
+      "topic": "double forest found scientist",
+      "keywords": [
+        "double",
+        "forest",
+        "found",
+        "scientist",
+        "secret",
+        "soil"
+      ],
+      "item_ids": [
+        "b1e2226e4af1"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "a0b122261e33",
       "topic": "almost diabete everyone help",
       "keywords": [
@@ -10575,6 +10671,24 @@
       ],
       "item_ids": [
         "5e0545f53e09"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "11fdcc2cdeaf",
+      "topic": "brain chemistry decide heal",
+      "keywords": [
+        "brain",
+        "chemistry",
+        "decide",
+        "heal",
+        "protein",
+        "whether"
+      ],
+      "item_ids": [
+        "670d57ee842e"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10701,42 +10815,6 @@
       ],
       "item_ids": [
         "e6a49ae6502f"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "b3c62678a549",
-      "topic": "blackout darkwave hidden marine",
-      "keywords": [
-        "blackout",
-        "darkwave",
-        "hidden",
-        "marine",
-        "ocean",
-        "putting"
-      ],
-      "item_ids": [
-        "dcd5ffa93577"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "8fe3bb7098f5",
-      "topic": "assumption challenge cold dark",
-      "keywords": [
-        "assumption",
-        "challenge",
-        "cold",
-        "dark",
-        "matter",
-        "research"
-      ],
-      "item_ids": [
-        "4971fbd5354a"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10919,6 +10997,40 @@
       ],
       "outlets": [
         "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "06e10c54b320",
+      "topic": "approach department justice trump",
+      "keywords": [
+        "approach",
+        "department",
+        "justice",
+        "trump"
+      ],
+      "item_ids": [
+        "4cbcffaa70cf"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "75858b16544d",
+      "topic": "act anger insurrection protest",
+      "keywords": [
+        "act",
+        "anger",
+        "insurrection",
+        "protest",
+        "threaten",
+        "trump"
+      ],
+      "item_ids": [
+        "efa293371980"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -12004,6 +12116,24 @@
       ]
     },
     {
+      "id": "fce87d85d275",
+      "topic": "big comic corpse exquisite",
+      "keywords": [
+        "big",
+        "comic",
+        "corpse",
+        "exquisite",
+        "horror",
+        "slashe"
+      ],
+      "item_ids": [
+        "087f06422a29"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
       "id": "2f9de521dea7",
       "topic": "climb documentary must see",
       "keywords": [
@@ -12160,24 +12290,6 @@
       ],
       "item_ids": [
         "aefdd9842979"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "3e50402ca106",
-      "topic": "dreadful game reunite star",
-      "keywords": [
-        "dreadful",
-        "game",
-        "reunite",
-        "star",
-        "throne",
-        "trailer"
-      ],
-      "item_ids": [
-        "8c3102bbaca6"
       ],
       "outlets": [
         "Dread Central"
@@ -13165,6 +13277,113 @@
       ]
     },
     {
+      "id": "9654435b1852",
+      "topic": "fantasy free overwhelmingly play",
+      "keywords": [
+        "fantasy",
+        "free",
+        "overwhelmingly",
+        "play",
+        "positive",
+        "rpg"
+      ],
+      "item_ids": [
+        "9ce813d2d724"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1f55e4158a25",
+      "topic": "greatest hbo heated rivalry",
+      "keywords": [
+        "greatest",
+        "hbo",
+        "heated",
+        "rivalry",
+        "show",
+        "streaming"
+      ],
+      "item_ids": [
+        "df59f79e0959"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "cce4d913bbcf",
+      "topic": "2026 already character created",
+      "keywords": [
+        "2026",
+        "already",
+        "character",
+        "created",
+        "jjk",
+        "worst"
+      ],
+      "item_ids": [
+        "c1f0f52f5508"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "5481353cb52f",
+      "topic": "bang better big sitcom",
+      "keywords": [
+        "bang",
+        "better",
+        "big",
+        "sitcom",
+        "theory"
+      ],
+      "item_ids": [
+        "4b3ebda7f4e0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b5460c11dd76",
+      "topic": "back bring brother lamborghini",
+      "keywords": [
+        "back",
+        "bring",
+        "brother",
+        "lamborghini",
+        "release",
+        "transformer"
+      ],
+      "item_ids": [
+        "7a555fcfe922"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0da6ac31bbf3",
+      "topic": "alan deserve ministry ritchson",
+      "keywords": [
+        "alan",
+        "deserve",
+        "ministry",
+        "ritchson",
+        "ungentlemanly",
+        "warfare"
+      ],
+      "item_ids": [
+        "c5418520352c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "4df1cc68e0a7",
       "topic": "geordi greatest later star",
       "keywords": [
@@ -13231,114 +13450,6 @@
       ],
       "item_ids": [
         "ea8efe33220a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "04f58e63790c",
-      "topic": "best original peacock right",
-      "keywords": [
-        "best",
-        "original",
-        "peacock",
-        "right",
-        "serie",
-        "stream"
-      ],
-      "item_ids": [
-        "47c40ebc65a3"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cdb4dc1dae84",
-      "topic": "first gets marvel old",
-      "keywords": [
-        "first",
-        "gets",
-        "marvel",
-        "old",
-        "superhero",
-        "year"
-      ],
-      "item_ids": [
-        "900cdfb488f7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e3d7c135dce7",
-      "topic": "date dub english jjk",
-      "keywords": [
-        "date",
-        "dub",
-        "english",
-        "jjk",
-        "release",
-        "season"
-      ],
-      "item_ids": [
-        "20fb8e7a8e68"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3d503ee91735",
-      "topic": "506m action hardy hit",
-      "keywords": [
-        "506m",
-        "action",
-        "hardy",
-        "hit",
-        "tom",
-        "venom"
-      ],
-      "item_ids": [
-        "00e81b2d376b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "666bab906c9d",
-      "topic": "arts favorite martial movie",
-      "keywords": [
-        "arts",
-        "favorite",
-        "martial",
-        "movie",
-        "quentin",
-        "tarantino"
-      ],
-      "item_ids": [
-        "b1c0672ff9ba"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "438103d40918",
-      "topic": "bower campbell confirmed jamie",
-      "keywords": [
-        "bower",
-        "campbell",
-        "confirmed",
-        "jamie",
-        "power",
-        "ring"
-      ],
-      "item_ids": [
-        "2491dab1cea6"
       ],
       "outlets": [
         "CBR"
