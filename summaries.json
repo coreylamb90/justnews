@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T07:13:08Z",
+  "generated_at": "2026-01-17T08:01:10Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2916,6 +2916,72 @@
       "cluster_id": "f9d9b30901e6"
     },
     {
+      "id": "cb001579688b",
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 17 Jan 2026 07:22:23 GMT",
+      "bullets": [
+        "• US justice department investigating Minnesota Democrats over alleged obstruction of ICE operations",
+        "• Governor Tim Walz and Minneapolis Mayor Jacob Frey facing inquiry over comments made about ICE",
+        "• Probe comes as federal judge blocks use of pepper spray and arrests of peaceful protesters",
+        "• Renee Good, 37, was shot and killed by an ICE agent last week "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US justice department investigating Minnesota Democrats over alleged obstruction of ICE operations",
+          "• Governor Tim Walz and Minneapolis Mayor Jacob Frey facing inquiry over comments made about ICE"
+        ],
+        "hopeful_bullets": [
+          "• US justice department investigating Minnesota Democrats over alleged obstruction of ICE operations",
+          "• Governor Tim Walz and Minneapolis Mayor Jacob Frey facing inquiry over comments made about ICE"
+        ],
+        "stakes_bullets": [
+          "• US justice department investigating Minnesota Democrats over alleged obstruction of ICE operations",
+          "• Governor Tim Walz and Minneapolis Mayor Jacob Frey facing inquiry over comments made about ICE",
+          "• Probe comes as federal judge blocks use of pepper spray and arrests of peaceful protesters"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "847c84cce3ee"
+    },
+    {
+      "id": "9091601c5083",
+      "title": "Guterres warns of ‘powerful forces’ undermining ‘global cooperation’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jan/17/antonio-guterres-warns-forces-undermining-global-cooperation-un-80th-anniversary-secretary-general-multilateralism-international-law",
+      "published_at": "Sat, 17 Jan 2026 07:00:19 GMT",
+      "bullets": [
+        "• António Guterres warns of the peril posed by ‘powerful forces lining up to undermine global cooperation’ in an address to mark the 80th anniversary of the UN’s first major meeting",
+        "• He will make an impassioned plea for the virtues of multilateralism and international law to prevail during a period of deepening global uncertainty "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• António Guterres warns of the peril posed by ‘powerful forces lining up to undermine global cooperation’ in an address to mark the 80th anniversary of the UN’s first major meeting",
+          "• He will make an impassioned plea for the virtues of multilateralism and international law to prevail during a period of deepening global uncertainty "
+        ],
+        "hopeful_bullets": [
+          "• António Guterres warns of the peril posed by ‘powerful forces lining up to undermine global cooperation’ in an address to mark the 80th anniversary of the UN’s first major meeting",
+          "• He will make an impassioned plea for the virtues of multilateralism and international law to prevail during a period of deepening global uncertainty "
+        ],
+        "stakes_bullets": [
+          "• He will make an impassioned plea for the virtues of multilateralism and international law to prevail during a period of deepening global uncertainty "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2671089ce8f3"
+    },
+    {
       "id": "b76b68e20440",
       "title": "Uganda's president heads for victory as his main rival cries foul",
       "outlet": "BBC News",
@@ -3472,37 +3538,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "873a7cae5ebf"
-    },
-    {
-      "id": "cb001579688b",
-      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 17 Jan 2026 03:37:20 GMT",
-      "bullets": [
-        "• US judge blocks use of federal law enforcement officers to block protesters",
-        "• Minneapolis mayor: \"Weaponizing the system against your opponents is an authoritarian tactic\" Renee Good, 37, was found with at least three gunshot wounds and possibly a fourth to the head "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US judge blocks use of federal law enforcement officers to block protesters",
-          "• Minneapolis mayor: \"Weaponizing the system against your opponents is an authoritarian tactic\" Renee Good, 37, was found with at least three gunshot wounds and possibly a fourth to the head "
-        ],
-        "hopeful_bullets": [
-          "• Minneapolis mayor: \"Weaponizing the system against your opponents is an authoritarian tactic\" Renee Good, 37, was found with at least three gunshot wounds and possibly a fourth to the head "
-        ],
-        "stakes_bullets": [
-          "• US judge blocks use of federal law enforcement officers to block protesters",
-          "• Minneapolis mayor: \"Weaponizing the system against your opponents is an authoritarian tactic\" Renee Good, 37, was found with at least three gunshot wounds and possibly a fourth to the head "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "847c84cce3ee"
     },
     {
       "id": "9e09face03d8",
@@ -7054,37 +7089,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a0a68fb372b7"
-    },
-    {
-      "id": "18f0bc2b13fd",
-      "title": "‘Garden of Eden’: the Spanish farm growing citrus you’ve never heard of",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jan/16/garden-of-eden-the-spanish-farm-growing-citrus-youve-never-heard-of",
-      "published_at": "Fri, 16 Jan 2026 14:14:19 GMT",
-      "bullets": [
-        "• The Todolí Citrus Foundation is the largest private collection of citrus in the world with more than 500 varieties",
-        "• The rare fruit could hold the genetic secrets to growing citrus groves that can deal with climate change",
-        "• The groves have become a haven for frogs, goldfinches and bees "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Todolí Citrus Foundation is the largest private collection of citrus in the world with more than 500 varieties",
-          "• The rare fruit could hold the genetic secrets to growing citrus groves that can deal with climate change"
-        ],
-        "hopeful_bullets": [
-          "• The rare fruit could hold the genetic secrets to growing citrus groves that can deal with climate change"
-        ],
-        "stakes_bullets": [
-          "• The rare fruit could hold the genetic secrets to growing citrus groves that can deal with climate change"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4ff52aca254c"
     },
     {
       "id": "7669ba9d059b",
@@ -11345,6 +11349,24 @@
       ]
     },
     {
+      "id": "2671089ce8f3",
+      "topic": "force global guterre powerful",
+      "keywords": [
+        "force",
+        "global",
+        "guterre",
+        "powerful",
+        "undermining",
+        "warn"
+      ],
+      "item_ids": [
+        "9091601c5083"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "f5090d0d9dff",
       "topic": "avoid high ratify seas",
       "keywords": [
@@ -11357,24 +11379,6 @@
       ],
       "item_ids": [
         "7f4d58fa99f5"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "4ff52aca254c",
-      "topic": "citru eden farm garden",
-      "keywords": [
-        "citru",
-        "eden",
-        "farm",
-        "garden",
-        "growing",
-        "spanish"
-      ],
-      "item_ids": [
-        "18f0bc2b13fd"
       ],
       "outlets": [
         "Environment | The Guardian"
