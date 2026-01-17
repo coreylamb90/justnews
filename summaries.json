@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T08:14:33Z",
+  "generated_at": "2026-01-17T09:07:48Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2914,6 +2914,40 @@
       },
       "read_minutes": 14,
       "cluster_id": "f9d9b30901e6"
+    },
+    {
+      "id": "16ac4cb6faa2",
+      "title": "Japanese mayor apologises after calling staff 'human scum'",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 17 Jan 2026 08:08:26 GMT",
+      "bullets": [
+        "• Japanese mayor apologises after calling staff 'human scum' and 'idiot' at a news conference",
+        "• Human resource chief Jun Kubota accused Mayor Takeharu Yamanaka of making offensive remarks",
+        "• He initially denied the allegations, but later admitted to some of them "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japanese mayor apologises after calling staff 'human scum' and 'idiot' at a news conference",
+          "• Human resource chief Jun Kubota accused Mayor Takeharu Yamanaka of making offensive remarks"
+        ],
+        "hopeful_bullets": [
+          "• Japanese mayor apologises after calling staff 'human scum' and 'idiot' at a news conference",
+          "• Human resource chief Jun Kubota accused Mayor Takeharu Yamanaka of making offensive remarks"
+        ],
+        "stakes_bullets": [
+          "• Japanese mayor apologises after calling staff 'human scum' and 'idiot' at a news conference",
+          "• Human resource chief Jun Kubota accused Mayor Takeharu Yamanaka of making offensive remarks",
+          "• He initially denied the allegations, but later admitted to some of them "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3155872cff45"
     },
     {
       "id": "cb001579688b",
@@ -7290,40 +7324,6 @@
       "cluster_id": "6e3e712fb07a"
     },
     {
-      "id": "0cb1539cef78",
-      "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 16 Jan 2026 13:11:24 GMT",
-      "bullets": [
-        "• China and Canada agree to lower tariffs on Canadian canola oil from 85% to 15%",
-        "• The deal is a breakthrough after years of strained relations between the two countries",
-        "• It is also a win for China, which has been trying to diversify its trade from the US "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China and Canada agree to lower tariffs on Canadian canola oil from 85% to 15%",
-          "• The deal is a breakthrough after years of strained relations between the two countries"
-        ],
-        "hopeful_bullets": [
-          "• The deal is a breakthrough after years of strained relations between the two countries",
-          "• It is also a win for China, which has been trying to diversify its trade from the US "
-        ],
-        "stakes_bullets": [
-          "• China and Canada agree to lower tariffs on Canadian canola oil from 85% to 15%",
-          "• The deal is a breakthrough after years of strained relations between the two countries",
-          "• It is also a win for China, which has been trying to diversify its trade from the US "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "49f09af0e597"
-    },
-    {
       "id": "d8b4b5343c31",
       "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
       "outlet": "WIRED",
@@ -9212,18 +9212,18 @@
       ]
     },
     {
-      "id": "013c497bf3bd",
-      "topic": "countrie greenland opposed tariff",
+      "id": "3155872cff45",
+      "topic": "apologise calling human japanese",
       "keywords": [
-        "countrie",
-        "greenland",
-        "opposed",
-        "tariff",
-        "threaten",
-        "trump"
+        "apologise",
+        "calling",
+        "human",
+        "japanese",
+        "mayor",
+        "staff"
       ],
       "item_ids": [
-        "e06077f41630"
+        "16ac4cb6faa2"
       ],
       "outlets": [
         "BBC News"
@@ -9248,18 +9248,18 @@
       ]
     },
     {
-      "id": "778e610bbcbc",
-      "topic": "border describe face hit",
+      "id": "013c497bf3bd",
+      "topic": "countrie greenland opposed tariff",
       "keywords": [
-        "border",
-        "describe",
-        "face",
-        "hit",
-        "iranian",
-        "pellet"
+        "countrie",
+        "greenland",
+        "opposed",
+        "tariff",
+        "threaten",
+        "trump"
       ],
       "item_ids": [
-        "391cfcf04b5b"
+        "e06077f41630"
       ],
       "outlets": [
         "BBC News"
@@ -9278,6 +9278,24 @@
       ],
       "item_ids": [
         "b76b68e20440"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "778e610bbcbc",
+      "topic": "border describe face hit",
+      "keywords": [
+        "border",
+        "describe",
+        "face",
+        "hit",
+        "iranian",
+        "pellet"
+      ],
+      "item_ids": [
+        "391cfcf04b5b"
       ],
       "outlets": [
         "BBC News"
@@ -9314,24 +9332,6 @@
       ],
       "item_ids": [
         "bc14a0a14746"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "49f09af0e597",
-      "topic": "announce canada china high",
-      "keywords": [
-        "announce",
-        "canada",
-        "china",
-        "high",
-        "relief",
-        "tariff"
-      ],
-      "item_ids": [
-        "0cb1539cef78"
       ],
       "outlets": [
         "BBC News"
