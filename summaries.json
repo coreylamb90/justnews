@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T09:07:48Z",
+  "generated_at": "2026-01-17T10:00:10Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2916,6 +2916,72 @@
       "cluster_id": "f9d9b30901e6"
     },
     {
+      "id": "6bd3376c8e98",
+      "title": "Police deny claims Uganda opposition leader abducted by helicopter",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20z3nx4xwqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 17 Jan 2026 09:10:23 GMT",
+      "bullets": [
+        "• Police in Uganda deny claims that presidential candidate was abducted",
+        "• Latest figures show that 72% of the vote has been cast in favour of the opposition",
+        "• Police say they will not allow people to use areas of \"security interest\" to disrupt the vote "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Police in Uganda deny claims that presidential candidate was abducted",
+          "• Latest figures show that 72% of the vote has been cast in favour of the opposition"
+        ],
+        "hopeful_bullets": [
+          "• Police in Uganda deny claims that presidential candidate was abducted",
+          "• Latest figures show that 72% of the vote has been cast in favour of the opposition"
+        ],
+        "stakes_bullets": [
+          "• Police say they will not allow people to use areas of \"security interest\" to disrupt the vote "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8cf26b4485da"
+    },
+    {
+      "id": "5ba4fd0f6490",
+      "title": "US House candidate buys nazis.us domain to redirect visitors to homeland security",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/17/nazis-us-domain-homeland-security",
+      "published_at": "Sat, 17 Jan 2026 09:00:21 GMT",
+      "bullets": [
+        "• Mark Davis says he bought the domain nazis.us and set it up to redirect visitors to the Department of Homeland Security",
+        "• Davis is running as a Democrat for Republican Vern Buchanan's seat in November’s midterms",
+        "• Most Americans believe most Americans believe the killing of Renee Nicole Good by an ICE agent demonstrated problems with the way ICE has been operating "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mark Davis says he bought the domain nazis.us and set it up to redirect visitors to the Department of Homeland Security",
+          "• Davis is running as a Democrat for Republican Vern Buchanan's seat in November’s midterms"
+        ],
+        "hopeful_bullets": [
+          "• Mark Davis says he bought the domain nazis.us and set it up to redirect visitors to the Department of Homeland Security",
+          "• Davis is running as a Democrat for Republican Vern Buchanan's seat in November’s midterms"
+        ],
+        "stakes_bullets": [
+          "• Mark Davis says he bought the domain nazis.us and set it up to redirect visitors to the Department of Homeland Security",
+          "• Davis is running as a Democrat for Republican Vern Buchanan's seat in November’s midterms",
+          "• Most Americans believe most Americans believe the killing of Renee Nicole Good by an ICE agent demonstrated problems with the way ICE has been operating "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d7595e55a374"
+    },
+    {
       "id": "16ac4cb6faa2",
       "title": "Japanese mayor apologises after calling staff 'human scum'",
       "outlet": "BBC News",
@@ -2981,7 +3047,7 @@
           "• Probe comes as federal judge blocks use of pepper spray and arrests of peaceful protesters"
         ]
       },
-      "read_minutes": 4,
+      "read_minutes": 5,
       "cluster_id": "847c84cce3ee"
     },
     {
@@ -3014,39 +3080,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "2671089ce8f3"
-    },
-    {
-      "id": "b76b68e20440",
-      "title": "Uganda's president heads for victory as his main rival cries foul",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 17 Jan 2026 06:16:19 GMT",
-      "bullets": [
-        "• Uganda's President Yoweri Museveni has taken a commanding lead in Thursday's election",
-        "• His main challenger Bobi Wine has accused the authorities of \"stealing the vote\" His party has already questioned the credibility of the results",
-        "• Figures so far give Museveny 74% of the vote, with Wine on 23% "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Uganda's President Yoweri Museveni has taken a commanding lead in Thursday's election",
-          "• His main challenger Bobi Wine has accused the authorities of \"stealing the vote\" His party has already questioned the credibility of the results"
-        ],
-        "hopeful_bullets": [
-          "• His main challenger Bobi Wine has accused the authorities of \"stealing the vote\" His party has already questioned the credibility of the results",
-          "• Figures so far give Museveny 74% of the vote, with Wine on 23% "
-        ],
-        "stakes_bullets": [
-          "• Uganda's President Yoweri Museveni has taken a commanding lead in Thursday's election",
-          "• His main challenger Bobi Wine has accused the authorities of \"stealing the vote\" His party has already questioned the credibility of the results"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "be6c0b96a3fd"
     },
     {
       "id": "7f4d58fa99f5",
@@ -5592,38 +5625,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "013c497bf3bd"
-    },
-    {
-      "id": "61c41aef3b53",
-      "title": "Timothy Busfield sexual misconduct allegations mount as wife Melissa Gilbert expresses support",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/16/timothy-busfield-child-abuse-charges-melissa-gilbert",
-      "published_at": "Fri, 16 Jan 2026 21:27:13 GMT",
-      "bullets": [
-        "• Timothy Busfield was ordered held without bond in connection with on-set child abuse charges in New Mexico",
-        "• Melissa Gilbert said she was keeping “her focus … on supporting and caring for their … family, as they navigate this moment” Gilbert’s statement in part also requested privacy "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.945
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Timothy Busfield was ordered held without bond in connection with on-set child abuse charges in New Mexico",
-          "• Melissa Gilbert said she was keeping “her focus … on supporting and caring for their … family, as they navigate this moment” Gilbert’s statement in part also requested privacy "
-        ],
-        "hopeful_bullets": [
-          "• Timothy Busfield was ordered held without bond in connection with on-set child abuse charges in New Mexico",
-          "• Melissa Gilbert said she was keeping “her focus … on supporting and caring for their … family, as they navigate this moment” Gilbert’s statement in part also requested privacy "
-        ],
-        "stakes_bullets": [
-          "• Timothy Busfield was ordered held without bond in connection with on-set child abuse charges in New Mexico",
-          "• Melissa Gilbert said she was keeping “her focus … on supporting and caring for their … family, as they navigate this moment” Gilbert’s statement in part also requested privacy "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "732e0eb1a3db"
     },
     {
       "id": "744c8d7803d4",
@@ -8471,6 +8472,40 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "477098556b42",
+      "title": "TCL’s PlayCube projector is more fun than a Rubik’s Cube",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery",
+      "published_at": "2026-01-17T03:55:35-05:00",
+      "bullets": [
+        "• TCL’s PlayCube projector is an all-in-one Google TV projector with big battery life for entertainment anywhere you go",
+        "• The PlayCube's 90-degree rotating design was inspired by the Rubik's Cube",
+        "• It's so small that I've had no problem setting it up at a moment's notice, day or night, anywhere I’ve been "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• TCL’s PlayCube projector is an all-in-one Google TV projector with big battery life for entertainment anywhere you go",
+          "• The PlayCube's 90-degree rotating design was inspired by the Rubik's Cube"
+        ],
+        "hopeful_bullets": [
+          "• TCL’s PlayCube projector is an all-in-one Google TV projector with big battery life for entertainment anywhere you go",
+          "• The PlayCube's 90-degree rotating design was inspired by the Rubik's Cube"
+        ],
+        "stakes_bullets": [
+          "• TCL’s PlayCube projector is an all-in-one Google TV projector with big battery life for entertainment anywhere you go",
+          "• The PlayCube's 90-degree rotating design was inspired by the Rubik's Cube",
+          "• It's so small that I've had no problem setting it up at a moment's notice, day or night, anywhere I’ve been "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3732f731dc8a"
+    },
+    {
       "id": "79cbade1c5f1",
       "title": "The best deals on MacBooks right now",
       "outlet": "The Verge",
@@ -8759,40 +8794,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "28f4b0271359"
-    },
-    {
-      "id": "9fa96f9bdf61",
-      "title": "OpenAI releases a cheaper ChatGPT subscription",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/863466/openai-chatgpt-go-global-release",
-      "published_at": "2026-01-16T13:00:00-05:00",
-      "bullets": [
-        "• OpenAI's ChatGPT Go is available worldwide for $8 per month",
-        "• The Go tier is meant for people who want greater access to the company’s fast version of the latest AI model, GPT-5.2 Instant",
-        "• Go was released in India in August and later became available in another 170 countries "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OpenAI's ChatGPT Go is available worldwide for $8 per month",
-          "• The Go tier is meant for people who want greater access to the company’s fast version of the latest AI model, GPT-5.2 Instant"
-        ],
-        "hopeful_bullets": [
-          "• OpenAI's ChatGPT Go is available worldwide for $8 per month",
-          "• The Go tier is meant for people who want greater access to the company’s fast version of the latest AI model, GPT-5.2 Instant"
-        ],
-        "stakes_bullets": [
-          "• OpenAI's ChatGPT Go is available worldwide for $8 per month",
-          "• The Go tier is meant for people who want greater access to the company’s fast version of the latest AI model, GPT-5.2 Instant",
-          "• Go was released in India in August and later became available in another 170 countries "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "69093c887e99"
     },
     {
       "id": "c41ff758b36a",
@@ -9266,18 +9267,18 @@
       ]
     },
     {
-      "id": "be6c0b96a3fd",
-      "topic": "head main president rival",
+      "id": "8cf26b4485da",
+      "topic": "claim deny leader opposition",
       "keywords": [
-        "head",
-        "main",
-        "president",
-        "rival",
-        "uganda",
-        "victory"
+        "claim",
+        "deny",
+        "leader",
+        "opposition",
+        "police",
+        "uganda"
       ],
       "item_ids": [
-        "b76b68e20440"
+        "6bd3376c8e98"
       ],
       "outlets": [
         "BBC News"
@@ -9518,6 +9519,24 @@
       ]
     },
     {
+      "id": "d7595e55a374",
+      "topic": "buys candidate domain house",
+      "keywords": [
+        "buys",
+        "candidate",
+        "domain",
+        "house",
+        "nazi",
+        "redirect"
+      ],
+      "item_ids": [
+        "5ba4fd0f6490"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "197939a370ac",
       "topic": "decry department justice leader",
       "keywords": [
@@ -9656,24 +9675,6 @@
       ],
       "item_ids": [
         "a260799b12fa"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "732e0eb1a3db",
-      "topic": "allegation busfield misconduct mount",
-      "keywords": [
-        "allegation",
-        "busfield",
-        "misconduct",
-        "mount",
-        "sexual",
-        "timothy"
-      ],
-      "item_ids": [
-        "61c41aef3b53"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10230,6 +10231,24 @@
       ]
     },
     {
+      "id": "3732f731dc8a",
+      "topic": "cube fun playcube projector",
+      "keywords": [
+        "cube",
+        "fun",
+        "playcube",
+        "projector",
+        "rubik",
+        "tcl"
+      ],
+      "item_ids": [
+        "477098556b42"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "3319bfc55bb4",
       "topic": "best deal macbook now",
       "keywords": [
@@ -10384,23 +10403,6 @@
       ],
       "item_ids": [
         "cb556c91010e"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "69093c887e99",
-      "topic": "chatgpt cheaper openai release",
-      "keywords": [
-        "chatgpt",
-        "cheaper",
-        "openai",
-        "release",
-        "subscription"
-      ],
-      "item_ids": [
-        "9fa96f9bdf61"
       ],
       "outlets": [
         "The Verge"
