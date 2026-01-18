@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T11:03:44Z",
+  "generated_at": "2026-01-18T11:20:43Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2489,6 +2489,74 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "d778507b99fc",
+      "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 18 Jan 2026 10:41:29 GMT",
+      "bullets": [
+        "• Iranian government cut off internet services on 8 January",
+        "• 92 million citizens cut off from all internet services and even disruption to phone and text messaging",
+        "• The government has not said when internet services will return, but new reports suggest it is making plans to restrict it permanently "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Iranian government cut off internet services on 8 January",
+          "• 92 million citizens cut off from all internet services and even disruption to phone and text messaging"
+        ],
+        "hopeful_bullets": [
+          "• Iranian government cut off internet services on 8 January",
+          "• 92 million citizens cut off from all internet services and even disruption to phone and text messaging"
+        ],
+        "stakes_bullets": [
+          "• Iranian government cut off internet services on 8 January",
+          "• 92 million citizens cut off from all internet services and even disruption to phone and text messaging",
+          "• The government has not said when internet services will return, but new reports suggest it is making plans to restrict it permanently "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "3fcb32e57925"
+    },
+    {
+      "id": "7b0a453101c5",
+      "title": "6 Best Juicers (2026): Fast Juicers and Slow Juicers",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/the-best-juicer/",
+      "published_at": "Sun, 18 Jan 2026 10:31:00 +0000",
+      "bullets": [
+        "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
+        "• Innovative, easy-clean models like the Hurom H70 make this even easier",
+        "• The right machine is the difference between privilege and chore "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
+          "• Innovative, easy-clean models like the Hurom H70 make this even easier"
+        ],
+        "hopeful_bullets": [
+          "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
+          "• Innovative, easy-clean models like the Hurom H70 make this even easier"
+        ],
+        "stakes_bullets": [
+          "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
+          "• Innovative, easy-clean models like the Hurom H70 make this even easier",
+          "• The right machine is the difference between privilege and chore "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "573174a4cdcd"
+    },
+    {
       "id": "b339dbe11551",
       "title": "Personal Comfort’s the Rejuvenate Review: Have It Your Way",
       "outlet": "WIRED",
@@ -2589,40 +2657,6 @@
       },
       "read_minutes": 17,
       "cluster_id": "eeab3ed1eff0"
-    },
-    {
-      "id": "d778507b99fc",
-      "title": "'Digital isolation': Will Iran's internet shutdown become permanent?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 18 Jan 2026 09:56:51 GMT",
-      "bullets": [
-        "• 92 million Iranian citizens cut off from all internet services on 8 January",
-        "• The government has not said when services will return, but new reports suggest it is making plans to restrict it permanently",
-        "• Internet freedom observers believe the government is hastily implementing new systems and rules to cut Iran off from the international internet "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 92 million Iranian citizens cut off from all internet services on 8 January",
-          "• The government has not said when services will return, but new reports suggest it is making plans to restrict it permanently"
-        ],
-        "hopeful_bullets": [
-          "• 92 million Iranian citizens cut off from all internet services on 8 January",
-          "• The government has not said when services will return, but new reports suggest it is making plans to restrict it permanently"
-        ],
-        "stakes_bullets": [
-          "• 92 million Iranian citizens cut off from all internet services on 8 January",
-          "• The government has not said when services will return, but new reports suggest it is making plans to restrict it permanently",
-          "• Internet freedom observers believe the government is hastily implementing new systems and rules to cut Iran off from the international internet "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "f9a03cc017f8"
     },
     {
       "id": "f8f55c4b8e98",
@@ -5369,38 +5403,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "c6649d763513"
-    },
-    {
-      "id": "26c9636586d2",
-      "title": "Petlibro Discount Codes and Deals: Save Up to 50%",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/petlibro-discount-code/",
-      "published_at": "Sat, 17 Jan 2026 06:00:00 +0000",
-      "bullets": [
-        "• Petlibro makes it easy to monitor your pets with real-time updates, scheduled feedings, activity logs and reminders so you can always keep tabs on them and their needs",
-        "• One of the best deals is for the RFID Smart Dining Bundle, which gives you two RFID Feeders and an RFID Fountain "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Petlibro makes it easy to monitor your pets with real-time updates, scheduled feedings, activity logs and reminders so you can always keep tabs on them and their needs",
-          "• One of the best deals is for the RFID Smart Dining Bundle, which gives you two RFID Feeders and an RFID Fountain "
-        ],
-        "hopeful_bullets": [
-          "• Petlibro makes it easy to monitor your pets with real-time updates, scheduled feedings, activity logs and reminders so you can always keep tabs on them and their needs",
-          "• One of the best deals is for the RFID Smart Dining Bundle, which gives you two RFID Feeders and an RFID Fountain "
-        ],
-        "stakes_bullets": [
-          "• Petlibro makes it easy to monitor your pets with real-time updates, scheduled feedings, activity logs and reminders so you can always keep tabs on them and their needs",
-          "• One of the best deals is for the RFID Smart Dining Bundle, which gives you two RFID Feeders and an RFID Fountain "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "dd6415fb2d51"
     },
     {
       "id": "8b44fcf8cff6",
@@ -9266,14 +9268,14 @@
       ]
     },
     {
-      "id": "f9a03cc017f8",
-      "topic": "become digital internet iran",
+      "id": "3fcb32e57925",
+      "topic": "extreme fear internet iran",
       "keywords": [
-        "become",
-        "digital",
+        "extreme",
+        "fear",
         "internet",
         "iran",
-        "isolation",
+        "lead",
         "shutdown"
       ],
       "item_ids": [
@@ -10111,6 +10113,23 @@
       ]
     },
     {
+      "id": "573174a4cdcd",
+      "topic": "2026 best fast juicer",
+      "keywords": [
+        "2026",
+        "best",
+        "fast",
+        "juicer",
+        "slow"
+      ],
+      "item_ids": [
+        "7b0a453101c5"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "1b249a04fc91",
       "topic": "comfort personal rejuvenate review",
       "keywords": [
@@ -10262,23 +10281,6 @@
       ],
       "item_ids": [
         "edc827de5422"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "dd6415fb2d51",
-      "topic": "code deal discount petlibro",
-      "keywords": [
-        "code",
-        "deal",
-        "discount",
-        "petlibro",
-        "save"
-      ],
-      "item_ids": [
-        "26c9636586d2"
       ],
       "outlets": [
         "WIRED"
