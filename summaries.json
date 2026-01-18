@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T06:03:55Z",
+  "generated_at": "2026-01-18T07:14:05Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2650,6 +2650,40 @@
       "cluster_id": "f554c40a04d3"
     },
     {
+      "id": "66dc7b3de134",
+      "title": "Christopher Pike Makes a Shocking Decision as Star Trek: Strange New Worlds' New Story Ends",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/star-trek-strange-new-worlds-seeds-salvation-5-review-pike-decision/",
+      "published_at": "Sun, 18 Jan 2026 04:49:46 GMT",
+      "bullets": [
+        "• Star Trek: Strange New Worlds - The Seeds of Salvation #5, on sale now from IDW Publishing",
+        "• Reviewer: There is no set pattern for how to \"correctly\" write a comic book story",
+        "• The book's ending is a nice and fun kind of \"boring\" ending "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Trek: Strange New Worlds - The Seeds of Salvation #5, on sale now from IDW Publishing",
+          "• Reviewer: There is no set pattern for how to \"correctly\" write a comic book story"
+        ],
+        "hopeful_bullets": [
+          "• Star Trek: Strange New Worlds - The Seeds of Salvation #5, on sale now from IDW Publishing",
+          "• Reviewer: There is no set pattern for how to \"correctly\" write a comic book story"
+        ],
+        "stakes_bullets": [
+          "• Star Trek: Strange New Worlds - The Seeds of Salvation #5, on sale now from IDW Publishing",
+          "• Reviewer: There is no set pattern for how to \"correctly\" write a comic book story",
+          "• The book's ending is a nice and fun kind of \"boring\" ending "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "c6f817728d64"
+    },
+    {
       "id": "43619f3fb686",
       "title": "Fate/strange Fake Replaces Frieren as the Fantasy Gold Standard",
       "outlet": "CBR",
@@ -2946,41 +2980,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3e5d99b682f7"
-    },
-    {
-      "id": "4068aa6f24e9",
-      "title": "7 Non-MCU Characters Who Can 100% Lift Thor's Hammer",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/fictional-characters-could-lift-thor-hammer-list/",
-      "published_at": "Sun, 18 Jan 2026 03:00:23 GMT",
-      "bullets": [
-        "• Only a few have what it takes to wield the power of Thor's mighty hammer",
-        "• Several characters from the Marvel universe have proven themselves worthy of wielding it",
-        "• The most important aspect is whether or not the power would corrupt them",
-        "• Samwise Gambo is the pureest character in all of fiction "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Only a few have what it takes to wield the power of Thor's mighty hammer",
-          "• Several characters from the Marvel universe have proven themselves worthy of wielding it"
-        ],
-        "hopeful_bullets": [
-          "• Only a few have what it takes to wield the power of Thor's mighty hammer",
-          "• Several characters from the Marvel universe have proven themselves worthy of wielding it"
-        ],
-        "stakes_bullets": [
-          "• Only a few have what it takes to wield the power of Thor's mighty hammer",
-          "• Several characters from the Marvel universe have proven themselves worthy of wielding it",
-          "• The most important aspect is whether or not the power would corrupt them"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "9e95a37006a8"
     },
     {
       "id": "b8f5a9df984b",
@@ -5236,42 +5235,9 @@
       "cluster_id": "3ce3ee660e41"
     },
     {
-      "id": "78569a0b7c97",
-      "title": "Events in Minneapolis show how immigration enforcement has changed. What's the impact?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/17/nx-s1-5676240/minneapolis-immigration-enforcement-tactics",
-      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
-        "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles",
-        "• The Trump administration says this is what Americans want, and the actions of immigration in Minnesota are justified "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.505
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
-          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles"
-        ],
-        "hopeful_bullets": [
-          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles"
-        ],
-        "stakes_bullets": [
-          "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
-          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles",
-          "• The Trump administration says this is what Americans want, and the actions of immigration in Minnesota are justified "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "1ce071478519"
-    },
-    {
       "id": "a07d28e1d3d0",
       "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
       "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
       "bullets": [
@@ -5279,7 +5245,7 @@
         "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment",
         "• His biggest bets include the New York City mayoral race and Time Magazine's person of the year "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "positive",
         "score": 0.963
@@ -5301,41 +5267,6 @@
       },
       "read_minutes": 13,
       "cluster_id": "47d5c0da25bf"
-    },
-    {
-      "id": "ce5db8b04a40",
-      "title": "Major plumbing headache haunts $13 billion U.S. carrier off the coast of Venezuela",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/17/nx-s1-5680167/major-plumbing-headache-haunts-13-billion-u-s-carrier-off-the-coast-of-venezuela",
-      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• The USS Gerald R",
-        "• Ford has been deployed for seven months since it left Norfolk in June",
-        "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean",
-        "• The system continues to fail during deployment, forcing the crew of 4,600 sailors to live with a system that breaks down during their months at sea "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The USS Gerald R",
-          "• Ford has been deployed for seven months since it left Norfolk in June"
-        ],
-        "hopeful_bullets": [
-          "• The USS Gerald R",
-          "• Ford has been deployed for seven months since it left Norfolk in June"
-        ],
-        "stakes_bullets": [
-          "• The USS Gerald R",
-          "• Ford has been deployed for seven months since it left Norfolk in June",
-          "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "1e752c54a9d1"
     },
     {
       "id": "a6c2076034f8",
@@ -5372,6 +5303,41 @@
       },
       "read_minutes": 4,
       "cluster_id": "08496f295476"
+    },
+    {
+      "id": "ce5db8b04a40",
+      "title": "Major plumbing headache haunts $13 billion U.S. carrier off the coast of Venezuela",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5680167/major-plumbing-headache-haunts-13-billion-u-s-carrier-off-the-coast-of-venezuela",
+      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• The USS Gerald R",
+        "• Ford has been deployed for seven months since it left Norfolk in June",
+        "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean",
+        "• The system continues to fail during deployment, forcing the crew of 4,600 sailors to live with a system that breaks down during their months at sea "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The USS Gerald R",
+          "• Ford has been deployed for seven months since it left Norfolk in June"
+        ],
+        "hopeful_bullets": [
+          "• The USS Gerald R",
+          "• Ford has been deployed for seven months since it left Norfolk in June"
+        ],
+        "stakes_bullets": [
+          "• The USS Gerald R",
+          "• Ford has been deployed for seven months since it left Norfolk in June",
+          "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "1e752c54a9d1"
     },
     {
       "id": "c5ec1cff9d56",
@@ -9914,18 +9880,18 @@
       ]
     },
     {
-      "id": "1ce071478519",
-      "topic": "changed enforcement event immigration",
+      "id": "47d5c0da25bf",
+      "topic": "bet current day event",
       "keywords": [
-        "changed",
-        "enforcement",
+        "bet",
+        "current",
+        "day",
         "event",
-        "immigration",
-        "minneapoli",
-        "show"
+        "jobs",
+        "quit"
       ],
       "item_ids": [
-        "78569a0b7c97"
+        "a07d28e1d3d0"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11073,18 +11039,18 @@
       ]
     },
     {
-      "id": "47d5c0da25bf",
-      "topic": "bet current day event",
+      "id": "08496f295476",
+      "topic": "citie cut funding sanctuary",
       "keywords": [
-        "bet",
-        "current",
-        "day",
-        "event",
-        "jobs",
-        "quit"
+        "citie",
+        "cut",
+        "funding",
+        "sanctuary",
+        "threatening",
+        "trump"
       ],
       "item_ids": [
-        "a07d28e1d3d0"
+        "a6c2076034f8"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11103,24 +11069,6 @@
       ],
       "item_ids": [
         "ce5db8b04a40"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "08496f295476",
-      "topic": "citie cut funding sanctuary",
-      "keywords": [
-        "citie",
-        "cut",
-        "funding",
-        "sanctuary",
-        "threatening",
-        "trump"
-      ],
-      "item_ids": [
-        "a6c2076034f8"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13220,6 +13168,24 @@
       ]
     },
     {
+      "id": "c6f817728d64",
+      "topic": "christopher decision make pike",
+      "keywords": [
+        "christopher",
+        "decision",
+        "make",
+        "pike",
+        "shocking",
+        "star"
+      ],
+      "item_ids": [
+        "66dc7b3de134"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "98c42979109d",
       "topic": "fake fantasy fate frieren",
       "keywords": [
@@ -13376,24 +13342,6 @@
       ],
       "item_ids": [
         "6509c5e1e6fa"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9e95a37006a8",
-      "topic": "100 character lift mcu",
-      "keywords": [
-        "100",
-        "character",
-        "lift",
-        "mcu",
-        "non",
-        "thor"
-      ],
-      "item_ids": [
-        "4068aa6f24e9"
       ],
       "outlets": [
         "CBR"
