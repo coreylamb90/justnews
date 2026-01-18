@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:14:05Z",
+  "generated_at": "2026-01-18T08:00:00Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2552,6 +2552,101 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "d0371824e014",
+      "title": "‘SNL’: Watch A$AP Rocky Perform ‘Punk Rocky,’ ‘Helicopter’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/snl-watch-asap-rocky-perform-punk-rocky-helicopter-1235501165/",
+      "published_at": "Sun, 18 Jan 2026 07:36:03 +0000",
+      "bullets": [
+        "• A$AP Rocky debuted on Saturday Night Live with three songs from his new album, Don’t Be Dumb",
+        "• The Harlem-born rapper's next scheduled show is headlining the Governors Ball in Queens, New York in June",
+        "• The 15-track album features collaborations with nearly as many artists, including Will.i.am "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A$AP Rocky debuted on Saturday Night Live with three songs from his new album, Don’t Be Dumb",
+          "• The Harlem-born rapper's next scheduled show is headlining the Governors Ball in Queens, New York in June"
+        ],
+        "hopeful_bullets": [
+          "• A$AP Rocky debuted on Saturday Night Live with three songs from his new album, Don’t Be Dumb",
+          "• The Harlem-born rapper's next scheduled show is headlining the Governors Ball in Queens, New York in June"
+        ],
+        "stakes_bullets": [
+          "• The 15-track album features collaborations with nearly as many artists, including Will.i.am "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e562f31b7c2"
+    },
+    {
+      "id": "1778645fd4af",
+      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 18 Jan 2026 07:21:34 GMT",
+      "bullets": [
+        "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+        "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+        ],
+        "hopeful_bullets": [
+          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+        ],
+        "stakes_bullets": [
+          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "f554c40a04d3"
+    },
+    {
+      "id": "2b928a637f24",
+      "title": "Inventor says robo-vaccination machine could be used to combat bovine TB",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jan/18/inventor-says-robo-vaccination-machine-combat-bovine-tb",
+      "published_at": "Sun, 18 Jan 2026 07:00:48 GMT",
+      "bullets": [
+        "• Tony Cholerton invented Robovacc to quickly administer vital jabs without the presence of people",
+        "• Zookeeper worked at London zoo for 30 years before retiring in late 2025",
+        "• Now hopes a fully developed automatic version of his invention could solve intractable wildlife challenges "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tony Cholerton invented Robovacc to quickly administer vital jabs without the presence of people",
+          "• Zookeeper worked at London zoo for 30 years before retiring in late 2025"
+        ],
+        "hopeful_bullets": [
+          "• Now hopes a fully developed automatic version of his invention could solve intractable wildlife challenges "
+        ],
+        "stakes_bullets": [
+          "• Now hopes a fully developed automatic version of his invention could solve intractable wildlife challenges "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "053bdb9d3ea9"
+    },
+    {
       "id": "3e50b9b8f938",
       "title": "US judge restricts ICE response to Minneapolis protesters",
       "outlet": "BBC News",
@@ -2616,38 +2711,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "56e1c78da3fc"
-    },
-    {
-      "id": "1778645fd4af",
-      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 18 Jan 2026 04:50:42 GMT",
-      "bullets": [
-        "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
-        "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
-          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
-          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
-        ],
-        "stakes_bullets": [
-          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
-          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "f554c40a04d3"
     },
     {
       "id": "66dc7b3de134",
@@ -5235,9 +5298,42 @@
       "cluster_id": "3ce3ee660e41"
     },
     {
+      "id": "78569a0b7c97",
+      "title": "Events in Minneapolis show how immigration enforcement has changed. What's the impact?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5676240/minneapolis-immigration-enforcement-tactics",
+      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
+        "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles",
+        "• The Trump administration says this is what Americans want, and the actions of immigration in Minnesota are justified "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.505
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
+          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles"
+        ],
+        "hopeful_bullets": [
+          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles"
+        ],
+        "stakes_bullets": [
+          "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
+          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles",
+          "• The Trump administration says this is what Americans want, and the actions of immigration in Minnesota are justified "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "1ce071478519"
+    },
+    {
       "id": "a07d28e1d3d0",
       "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
       "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
       "bullets": [
@@ -5245,7 +5341,7 @@
         "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment",
         "• His biggest bets include the New York City mayoral race and Time Magazine's person of the year "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.963
@@ -5267,6 +5363,41 @@
       },
       "read_minutes": 13,
       "cluster_id": "47d5c0da25bf"
+    },
+    {
+      "id": "ce5db8b04a40",
+      "title": "Major plumbing headache haunts $13 billion U.S. carrier off the coast of Venezuela",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5680167/major-plumbing-headache-haunts-13-billion-u-s-carrier-off-the-coast-of-venezuela",
+      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• The USS Gerald R",
+        "• Ford has been deployed for seven months since it left Norfolk in June",
+        "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean",
+        "• The system continues to fail during deployment, forcing the crew of 4,600 sailors to live with a system that breaks down during their months at sea "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The USS Gerald R",
+          "• Ford has been deployed for seven months since it left Norfolk in June"
+        ],
+        "hopeful_bullets": [
+          "• The USS Gerald R",
+          "• Ford has been deployed for seven months since it left Norfolk in June"
+        ],
+        "stakes_bullets": [
+          "• The USS Gerald R",
+          "• Ford has been deployed for seven months since it left Norfolk in June",
+          "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "1e752c54a9d1"
     },
     {
       "id": "a6c2076034f8",
@@ -5303,41 +5434,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "08496f295476"
-    },
-    {
-      "id": "ce5db8b04a40",
-      "title": "Major plumbing headache haunts $13 billion U.S. carrier off the coast of Venezuela",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/17/nx-s1-5680167/major-plumbing-headache-haunts-13-billion-u-s-carrier-off-the-coast-of-venezuela",
-      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• The USS Gerald R",
-        "• Ford has been deployed for seven months since it left Norfolk in June",
-        "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean",
-        "• The system continues to fail during deployment, forcing the crew of 4,600 sailors to live with a system that breaks down during their months at sea "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The USS Gerald R",
-          "• Ford has been deployed for seven months since it left Norfolk in June"
-        ],
-        "hopeful_bullets": [
-          "• The USS Gerald R",
-          "• Ford has been deployed for seven months since it left Norfolk in June"
-        ],
-        "stakes_bullets": [
-          "• The USS Gerald R",
-          "• Ford has been deployed for seven months since it left Norfolk in June",
-          "• The carrier is currently at the center of the Trump administration's flotilla of Navy ships in the Caribbean"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "1e752c54a9d1"
     },
     {
       "id": "c5ec1cff9d56",
@@ -6891,40 +6987,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "9e872361d1c7"
-    },
-    {
-      "id": "744c8d7803d4",
-      "title": "Watch John Fogerty Revive Creedence Classics on ‘Tiny Desk’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/john-fogerty-performance-npr-tiny-desk-1235500844/",
-      "published_at": "Fri, 16 Jan 2026 21:26:04 +0000",
-      "bullets": [
-        "• John Fogerty plays impassioned versions of three Creedence Clearwater Revival classics",
-        "• He also retells the story of how “Proud Mary” came to be",
-        "• “This song was so much better than anything I’d ever done,” he says in the Tiny Desk episode "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• John Fogerty plays impassioned versions of three Creedence Clearwater Revival classics",
-          "• He also retells the story of how “Proud Mary” came to be"
-        ],
-        "hopeful_bullets": [
-          "• John Fogerty plays impassioned versions of three Creedence Clearwater Revival classics",
-          "• He also retells the story of how “Proud Mary” came to be"
-        ],
-        "stakes_bullets": [
-          "• John Fogerty plays impassioned versions of three Creedence Clearwater Revival classics",
-          "• He also retells the story of how “Proud Mary” came to be",
-          "• “This song was so much better than anything I’d ever done,” he says in the Tiny Desk episode "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b8c70774b2f6"
     },
     {
       "id": "9462a0738fdc",
@@ -9880,18 +9942,18 @@
       ]
     },
     {
-      "id": "47d5c0da25bf",
-      "topic": "bet current day event",
+      "id": "1ce071478519",
+      "topic": "changed enforcement event immigration",
       "keywords": [
-        "bet",
-        "current",
-        "day",
+        "changed",
+        "enforcement",
         "event",
-        "jobs",
-        "quit"
+        "immigration",
+        "minneapoli",
+        "show"
       ],
       "item_ids": [
-        "a07d28e1d3d0"
+        "78569a0b7c97"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11039,18 +11101,18 @@
       ]
     },
     {
-      "id": "08496f295476",
-      "topic": "citie cut funding sanctuary",
+      "id": "47d5c0da25bf",
+      "topic": "bet current day event",
       "keywords": [
-        "citie",
-        "cut",
-        "funding",
-        "sanctuary",
-        "threatening",
-        "trump"
+        "bet",
+        "current",
+        "day",
+        "event",
+        "jobs",
+        "quit"
       ],
       "item_ids": [
-        "a6c2076034f8"
+        "a07d28e1d3d0"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11069,6 +11131,24 @@
       ],
       "item_ids": [
         "ce5db8b04a40"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "08496f295476",
+      "topic": "citie cut funding sanctuary",
+      "keywords": [
+        "citie",
+        "cut",
+        "funding",
+        "sanctuary",
+        "threatening",
+        "trump"
+      ],
+      "item_ids": [
+        "a6c2076034f8"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11347,6 +11427,24 @@
       ],
       "item_ids": [
         "86188fa0cd11"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "053bdb9d3ea9",
+      "topic": "combat inventor machine robo",
+      "keywords": [
+        "combat",
+        "inventor",
+        "machine",
+        "robo",
+        "used",
+        "vaccination"
+      ],
+      "item_ids": [
+        "2b928a637f24"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -13526,6 +13624,24 @@
       ]
     },
     {
+      "id": "7e562f31b7c2",
+      "topic": "helicopter perform punk rocky",
+      "keywords": [
+        "helicopter",
+        "perform",
+        "punk",
+        "rocky",
+        "snl",
+        "watch"
+      ],
+      "item_ids": [
+        "d0371824e014"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "c033d34498a3",
       "topic": "insensitive osbourne ozzy roger",
       "keywords": [
@@ -13682,24 +13798,6 @@
       ],
       "item_ids": [
         "cd40f4eafadb"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "b8c70774b2f6",
-      "topic": "classic creedence fogerty john",
-      "keywords": [
-        "classic",
-        "creedence",
-        "fogerty",
-        "john",
-        "revive",
-        "watch"
-      ],
-      "item_ids": [
-        "744c8d7803d4"
       ],
       "outlets": [
         "Music News"
