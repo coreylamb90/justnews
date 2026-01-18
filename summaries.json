@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:22:32Z",
+  "generated_at": "2026-01-18T06:03:55Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2552,6 +2552,104 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "3e50b9b8f938",
+      "title": "US judge restricts ICE response to Minneapolis protesters",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 18 Jan 2026 05:14:58 GMT",
+      "bullets": [
+        "• The federal government has issued an order limiting the use of federal law enforcement officers in the U.S",
+        "• to enforce immigration laws",
+        "• The order is expected to be implemented by the end of the month",
+        "• The decision is being made on whether to use the law to protect the public from potential harm to the public "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The federal government has issued an order limiting the use of federal law enforcement officers in the U.S",
+          "• to enforce immigration laws"
+        ],
+        "hopeful_bullets": [
+          "• The federal government has issued an order limiting the use of federal law enforcement officers in the U.S",
+          "• to enforce immigration laws"
+        ],
+        "stakes_bullets": [
+          "• The order is expected to be implemented by the end of the month"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6b3ba7fdb80"
+    },
+    {
+      "id": "b10def62ec1d",
+      "title": "‘He hoped Trump’s help would arrive’: why protesters in Iran feel betrayed",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jan/18/why-protesters-iran-feel-betrayed-donald-trump",
+      "published_at": "Sun, 18 Jan 2026 05:00:46 GMT",
+      "bullets": [
+        "• Siavash Shirzad was shot at a protest in Tehran and died of his wounds hours later",
+        "• The 38-year-old father had seen protests rise up before, only to be brutally crushed by authorities",
+        "• But this was the first time in his life that the president of the United States had promised to help demonstrators "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Siavash Shirzad was shot at a protest in Tehran and died of his wounds hours later",
+          "• The 38-year-old father had seen protests rise up before, only to be brutally crushed by authorities"
+        ],
+        "hopeful_bullets": [
+          "• But this was the first time in his life that the president of the United States had promised to help demonstrators "
+        ],
+        "stakes_bullets": [
+          "• Siavash Shirzad was shot at a protest in Tehran and died of his wounds hours later",
+          "• The 38-year-old father had seen protests rise up before, only to be brutally crushed by authorities",
+          "• But this was the first time in his life that the president of the United States had promised to help demonstrators "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "56e1c78da3fc"
+    },
+    {
+      "id": "1778645fd4af",
+      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 18 Jan 2026 04:50:42 GMT",
+      "bullets": [
+        "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+        "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+        ],
+        "hopeful_bullets": [
+          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+        ],
+        "stakes_bullets": [
+          "• US President Donald Trump threatens to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland",
+          "• UK PM Keir Starmer said the move was 'completely wrong' and French PM Emmanuel Macron called it 'unacceptable' Thousands of people took to the streets in Greenland and Denmark on Saturday in protest at the proposed US takeover "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "f554c40a04d3"
+    },
+    {
       "id": "43619f3fb686",
       "title": "Fate/strange Fake Replaces Frieren as the Fantasy Gold Standard",
       "outlet": "CBR",
@@ -3253,38 +3351,6 @@
       "cluster_id": "25f4abaaaee7"
     },
     {
-      "id": "1778645fd4af",
-      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 17 Jan 2026 22:05:55 GMT",
-      "bullets": [
-        "• President Donald Trump has threatened to impose a 10% tariff on eight allies",
-        "• The move would come into force on 1 February but could rise to 25% if a deal is reached",
-        "• UK Prime Minister Keir Starmer said the move was 'completely wrong' and called it 'unacceptable'"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump has threatened to impose a 10% tariff on eight allies",
-          "• The move would come into force on 1 February but could rise to 25% if a deal is reached"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump has threatened to impose a 10% tariff on eight allies",
-          "• The move would come into force on 1 February but could rise to 25% if a deal is reached"
-        ],
-        "stakes_bullets": [
-          "• The move would come into force on 1 February but could rise to 25% if a deal is reached"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f554c40a04d3"
-    },
-    {
       "id": "838c38e52ecf",
       "title": "Smaller companies are rising quickly to challenge Big Tech as AI's best trade",
       "outlet": "US Top News and Analysis",
@@ -3315,70 +3381,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "d1ca89700de5"
-    },
-    {
-      "id": "a7366003e65e",
-      "title": "Man accused of aiming laser at Trump helicopter acquitted in 35 minutes",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/17/laser-beam-trump-jeanine-pirro",
-      "published_at": "Sat, 17 Jan 2026 20:56:08 GMT",
-      "bullets": [
-        "• Jacob Winkler, 33, was arrested in September after a Secret Service agent claimed to have seen him point a red laser beam toward Marine One as it flew low shortly after leaving the White House",
-        "• He faced a felony count of aiming a laser at an aircraft, punishable by up to five years in prison "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jacob Winkler, 33, was arrested in September after a Secret Service agent claimed to have seen him point a red laser beam toward Marine One as it flew low shortly after leaving the White House",
-          "• He faced a felony count of aiming a laser at an aircraft, punishable by up to five years in prison "
-        ],
-        "hopeful_bullets": [
-          "• Jacob Winkler, 33, was arrested in September after a Secret Service agent claimed to have seen him point a red laser beam toward Marine One as it flew low shortly after leaving the White House"
-        ],
-        "stakes_bullets": [
-          "• Jacob Winkler, 33, was arrested in September after a Secret Service agent claimed to have seen him point a red laser beam toward Marine One as it flew low shortly after leaving the White House",
-          "• He faced a felony count of aiming a laser at an aircraft, punishable by up to five years in prison "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e92ae6248db7"
-    },
-    {
-      "id": "3e50b9b8f938",
-      "title": "US judge restricts ICE response to Minneapolis protesters",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 17 Jan 2026 20:27:19 GMT",
-      "bullets": [
-        "• Order limits use of \"peaceful and non-violent\" tactics by ICE agents",
-        "• Order comes ahead of planned weekend protests in Minneapolis",
-        "• It comes after the death of an ICE agent who was shot in the head by a police officer",
-        "• The order was issued in December "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Order limits use of \"peaceful and non-violent\" tactics by ICE agents",
-          "• Order comes ahead of planned weekend protests in Minneapolis"
-        ],
-        "hopeful_bullets": [
-          "• Order limits use of \"peaceful and non-violent\" tactics by ICE agents",
-          "• Order comes ahead of planned weekend protests in Minneapolis"
-        ],
-        "stakes_bullets": [
-          "• Order comes ahead of planned weekend protests in Minneapolis"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a6b3ba7fdb80"
     },
     {
       "id": "b06d5cf96ce5",
@@ -5234,9 +5236,42 @@
       "cluster_id": "3ce3ee660e41"
     },
     {
+      "id": "78569a0b7c97",
+      "title": "Events in Minneapolis show how immigration enforcement has changed. What's the impact?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5676240/minneapolis-immigration-enforcement-tactics",
+      "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
+        "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles",
+        "• The Trump administration says this is what Americans want, and the actions of immigration in Minnesota are justified "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.505
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
+          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles"
+        ],
+        "hopeful_bullets": [
+          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles"
+        ],
+        "stakes_bullets": [
+          "• ICE agents in Minneapolis have pulled people off the streets and out of their cars or questioned people of color on their immigration status",
+          "• In response, community members have protested, throwing snowballs at federal agents and blocking ICE vehicles",
+          "• The Trump administration says this is what Americans want, and the actions of immigration in Minnesota are justified "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "1ce071478519"
+    },
+    {
       "id": "a07d28e1d3d0",
       "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
       "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
       "bullets": [
@@ -5244,7 +5279,7 @@
         "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment",
         "• His biggest bets include the New York City mayoral race and Time Magazine's person of the year "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.963
@@ -9700,18 +9735,18 @@
       ]
     },
     {
-      "id": "e92ae6248db7",
-      "topic": "accused aiming helicopter laser",
+      "id": "56e1c78da3fc",
+      "topic": "arrive help hoped iran",
       "keywords": [
-        "accused",
-        "aiming",
-        "helicopter",
-        "laser",
-        "man",
+        "arrive",
+        "help",
+        "hoped",
+        "iran",
+        "protester",
         "trump"
       ],
       "item_ids": [
-        "a7366003e65e"
+        "b10def62ec1d"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9879,18 +9914,18 @@
       ]
     },
     {
-      "id": "47d5c0da25bf",
-      "topic": "bet current day event",
+      "id": "1ce071478519",
+      "topic": "changed enforcement event immigration",
       "keywords": [
-        "bet",
-        "current",
-        "day",
+        "changed",
+        "enforcement",
         "event",
-        "jobs",
-        "quit"
+        "immigration",
+        "minneapoli",
+        "show"
       ],
       "item_ids": [
-        "a07d28e1d3d0"
+        "78569a0b7c97"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11032,6 +11067,24 @@
       ],
       "item_ids": [
         "4d1810c64c84"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "47d5c0da25bf",
+      "topic": "bet current day event",
+      "keywords": [
+        "bet",
+        "current",
+        "day",
+        "event",
+        "jobs",
+        "quit"
+      ],
+      "item_ids": [
+        "a07d28e1d3d0"
       ],
       "outlets": [
         "NPR Topics: Politics"
