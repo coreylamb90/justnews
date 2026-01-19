@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T12:01:07Z",
+  "generated_at": "2026-01-19T12:21:05Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -172,6 +172,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "4d68b7d6cb41"
+    },
+    {
+      "id": "ea8027940d9a",
+      "title": "Celina football coach retires after district clears him of cover-up allegations amid son’s sex abuse scandal",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17253537/texas-bill-elliott-celina-isd-football-sex-abuse-scandal",
+      "published_at": "Wed, 14 Jan 2026 22:00:07 +0000",
+      "bullets": [
+        "• Report finds ‘systemic’ hiring issues and other failures in the school where his son taught",
+        "• Caleb Elliott, 26, was accused of secretly filming boys in the middle school’s locker room and possessing child pornography",
+        "• He remains in jail on multiple federal charges "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Report finds ‘systemic’ hiring issues and other failures in the school where his son taught",
+          "• Caleb Elliott, 26, was accused of secretly filming boys in the middle school’s locker room and possessing child pornography"
+        ],
+        "hopeful_bullets": [
+          "• Report finds ‘systemic’ hiring issues and other failures in the school where his son taught",
+          "• Caleb Elliott, 26, was accused of secretly filming boys in the middle school’s locker room and possessing child pornography"
+        ],
+        "stakes_bullets": [
+          "• Report finds ‘systemic’ hiring issues and other failures in the school where his son taught",
+          "• Caleb Elliott, 26, was accused of secretly filming boys in the middle school’s locker room and possessing child pornography",
+          "• He remains in jail on multiple federal charges "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "4bccbcd6942a"
     },
     {
       "id": "18402b147234",
@@ -1258,6 +1292,38 @@
       "cluster_id": "2672fef1569c"
     },
     {
+      "id": "598404f38309",
+      "title": "Filming Has Officially Begun on ‘Key of Bones: Curse of the Ghost Pirate’",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/filming-has-officially-begun-on-key-of-bones-curse-of-the-ghost-pirate/",
+      "published_at": "Tue, 06 Jan 2026 23:22:47 +0000",
+      "bullets": [
+        "• Key of Bones: Curse of the Ghost Pirate brings pirate lore, dark humor, and genuine ghost stories together in Key West, Florida",
+        "• The film blends eerie folklore with playful terror, leaning into a horror-comedy tone that balances unsettling supernatural moments with character-driven humor and chaos "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Key of Bones: Curse of the Ghost Pirate brings pirate lore, dark humor, and genuine ghost stories together in Key West, Florida",
+          "• The film blends eerie folklore with playful terror, leaning into a horror-comedy tone that balances unsettling supernatural moments with character-driven humor and chaos "
+        ],
+        "hopeful_bullets": [
+          "• Key of Bones: Curse of the Ghost Pirate brings pirate lore, dark humor, and genuine ghost stories together in Key West, Florida",
+          "• The film blends eerie folklore with playful terror, leaning into a horror-comedy tone that balances unsettling supernatural moments with character-driven humor and chaos "
+        ],
+        "stakes_bullets": [
+          "• Key of Bones: Curse of the Ghost Pirate brings pirate lore, dark humor, and genuine ghost stories together in Key West, Florida",
+          "• The film blends eerie folklore with playful terror, leaning into a horror-comedy tone that balances unsettling supernatural moments with character-driven humor and chaos "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7ee8a6814b54"
+    },
+    {
       "id": "2b9e3634d5f9",
       "title": "Cogs in a Neon Globe Delivers for Cyberpunk and Giallo Fans",
       "outlet": "HorrorFix",
@@ -2259,38 +2325,6 @@
       "cluster_id": "782a400e3dbf"
     },
     {
-      "id": "8e78d6940c59",
-      "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 18 Jan 2026 22:25:31 GMT",
-      "bullets": [
-        "• Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-        "• Agreement will see the SDF integrated into Syria's military and state institutions",
-        "• It follows a meeting between US special envoy to Syria, Tom Barrack, and Syrian President Bashar al-Sharaa "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-          "• Agreement will see the SDF integrated into Syria's military and state institutions"
-        ],
-        "hopeful_bullets": [
-          "• Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-          "• Agreement will see the SDF integrated into Syria's military and state institutions"
-        ],
-        "stakes_bullets": [
-          "• Agreement will see the SDF integrated into Syria's military and state institutions"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "339068d475d9"
-    },
-    {
       "id": "2fb5c65a88e1",
       "title": "One More Saturday Night: Bobby Weir Remembered at San Francisco ‘Homecoming’",
       "outlet": "Music News",
@@ -2421,40 +2455,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "27c2cd4bd493"
-    },
-    {
-      "id": "574acd943e49",
-      "title": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 18 Jan 2026 20:30:16 GMT",
-      "bullets": [
-        "• Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-        "• US President Donald Trump has threatened to use active duty military personnel in the city",
-        "• The soldiers are part of the 11th Airborne Division in Fort Wainwright, an official says "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-          "• US President Donald Trump has threatened to use active duty military personnel in the city"
-        ],
-        "hopeful_bullets": [
-          "• Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-          "• US President Donald Trump has threatened to use active duty military personnel in the city"
-        ],
-        "stakes_bullets": [
-          "• Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-          "• US President Donald Trump has threatened to use active duty military personnel in the city",
-          "• The soldiers are part of the 11th Airborne Division in Fort Wainwright, an official says "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4ff5b995dd05"
     },
     {
       "id": "47d140411222",
@@ -3253,40 +3253,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ab65ce19aa6d"
-    },
-    {
-      "id": "7b0a453101c5",
-      "title": "6 Best Juicers (2026): Fast Juicers and Slow Juicers",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/the-best-juicer/",
-      "published_at": "Sun, 18 Jan 2026 10:31:00 +0000",
-      "bullets": [
-        "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
-        "• Innovative, easy-clean models like the Hurom H70 make this even easier",
-        "• The right machine is the difference between privilege and chore "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
-          "• Innovative, easy-clean models like the Hurom H70 make this even easier"
-        ],
-        "hopeful_bullets": [
-          "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
-          "• Innovative, easy-clean models like the Hurom H70 make this even easier"
-        ],
-        "stakes_bullets": [
-          "• Fresh juice isn’t just better, it’s different (and also better) Aside from added salt or table sugar in store-bought brands, fresh juice has more nutrients, antioxidants, and, especially, flavor",
-          "• Innovative, easy-clean models like the Hurom H70 make this even easier",
-          "• The right machine is the difference between privilege and chore "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "573174a4cdcd"
     },
     {
       "id": "170098edbb8a",
@@ -5009,6 +4975,107 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "9978e9745bdc",
+      "title": "Trump links Greenland dispute to not getting Nobel Peace Prize",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 11:38:56 GMT",
+      "bullets": [
+        "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
+        "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland",
+        "• He has increasingly insisted that the US needs to take over Greenland for national security reasons "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
+          "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland"
+        ],
+        "hopeful_bullets": [
+          "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
+          "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland"
+        ],
+        "stakes_bullets": [
+          "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
+          "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland",
+          "• He has increasingly insisted that the US needs to take over Greenland for national security reasons "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "746374ace5b0"
+    },
+    {
+      "id": "bff0398e7278",
+      "title": "What we know about Spain's worst rail disaster in over a decade",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 11:33:44 GMT",
+      "bullets": [
+        "• At least 39 people have been killed and dozens more injured in Spain's worst rail crash in over a decade",
+        "• Train derailed and crossed over to the opposite track, operator Adif said",
+        "• It then collided with an oncoming train, which was forced into an embankment",
+        "• The majority of those killed and injured were in the front carriages of the train "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 39 people have been killed and dozens more injured in Spain's worst rail crash in over a decade",
+          "• Train derailed and crossed over to the opposite track, operator Adif said"
+        ],
+        "hopeful_bullets": [
+          "• At least 39 people have been killed and dozens more injured in Spain's worst rail crash in over a decade",
+          "• Train derailed and crossed over to the opposite track, operator Adif said"
+        ],
+        "stakes_bullets": [
+          "• It then collided with an oncoming train, which was forced into an embankment"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "948356e4bb6a"
+    },
+    {
+      "id": "6b38903d2a0b",
+      "title": "How to Clean Your Keurig (and When)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/how-to-clean-keurig/",
+      "published_at": "Mon, 19 Jan 2026 11:33:00 +0000",
+      "bullets": [
+        "• To clean the housing of your Keurig coffee maker or other pod machine, just take a damp cloth and wipe down the outside",
+        "• Clean the K-Cup holder and needle by brushing or vacuuming away any loose debris like coffee grounds",
+        "• Clean your drip tray and water reservoir by hand with hot, soapy water "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• To clean the housing of your Keurig coffee maker or other pod machine, just take a damp cloth and wipe down the outside",
+          "• Clean the K-Cup holder and needle by brushing or vacuuming away any loose debris like coffee grounds"
+        ],
+        "hopeful_bullets": [
+          "• To clean the housing of your Keurig coffee maker or other pod machine, just take a damp cloth and wipe down the outside",
+          "• Clean the K-Cup holder and needle by brushing or vacuuming away any loose debris like coffee grounds"
+        ],
+        "stakes_bullets": [
+          "• To clean the housing of your Keurig coffee maker or other pod machine, just take a damp cloth and wipe down the outside",
+          "• Clean the K-Cup holder and needle by brushing or vacuuming away any loose debris like coffee grounds",
+          "• Clean your drip tray and water reservoir by hand with hot, soapy water "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0b5a242e2874"
+    },
+    {
       "id": "455c70096c74",
       "title": "Dumbphone Owners Have Lost Their Minds",
       "outlet": "WIRED",
@@ -5143,6 +5210,38 @@
       "cluster_id": "3b55fcf0e654"
     },
     {
+      "id": "6381721fdc18",
+      "title": "IMF warns of trade tension risk to global growth",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r47ey0d1vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 11:04:56 GMT",
+      "bullets": [
+        "• IMF warns of trade tensions and reversal in artificial intelligence boom as main risks",
+        "• Comments came in latest world economic outlook, where it described the global economy as \"steady\" The fund also said the independence of central banks was \"paramount\" for global economic stability "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.833
+      },
+      "moods": {
+        "brief_bullets": [
+          "• IMF warns of trade tensions and reversal in artificial intelligence boom as main risks",
+          "• Comments came in latest world economic outlook, where it described the global economy as \"steady\" The fund also said the independence of central banks was \"paramount\" for global economic stability "
+        ],
+        "hopeful_bullets": [
+          "• IMF warns of trade tensions and reversal in artificial intelligence boom as main risks",
+          "• Comments came in latest world economic outlook, where it described the global economy as \"steady\" The fund also said the independence of central banks was \"paramount\" for global economic stability "
+        ],
+        "stakes_bullets": [
+          "• IMF warns of trade tensions and reversal in artificial intelligence boom as main risks",
+          "• Comments came in latest world economic outlook, where it described the global economy as \"steady\" The fund also said the independence of central banks was \"paramount\" for global economic stability "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a857ad6d8e7c"
+    },
+    {
       "id": "ec099db2281d",
       "title": "‘Remarkable’ UPS driver ran into burning home to save woman, 101",
       "outlet": "US news | The Guardian",
@@ -5272,39 +5371,6 @@
       "cluster_id": "a260d70d46f5"
     },
     {
-      "id": "bff0398e7278",
-      "title": "What we know about the Spain train crash",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 10:56:26 GMT",
-      "bullets": [
-        "• At least 39 people have been killed and dozens more injured in Spain's worst rail crash in more than a decade",
-        "• The crash occurred at around 19:45 local time (18:45 GMT) on Sunday, about an hour after one of the trains departed Málaga for Madrid",
-        "• The train derailed and crossed over to the opposite track, operator Adif said",
-        "• It then collided with an oncoming train which was forced into an embankment "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 39 people have been killed and dozens more injured in Spain's worst rail crash in more than a decade",
-          "• The crash occurred at around 19:45 local time (18:45 GMT) on Sunday, about an hour after one of the trains departed Málaga for Madrid"
-        ],
-        "hopeful_bullets": [
-          "• At least 39 people have been killed and dozens more injured in Spain's worst rail crash in more than a decade",
-          "• The crash occurred at around 19:45 local time (18:45 GMT) on Sunday, about an hour after one of the trains departed Málaga for Madrid"
-        ],
-        "stakes_bullets": [
-          "• It then collided with an oncoming train which was forced into an embankment "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f09656c4ccec"
-    },
-    {
       "id": "c9b23f4d6a08",
       "title": "Here are the European exporters most exposed if Trump’s Greenland tariffs kick in",
       "outlet": "US Top News and Analysis",
@@ -5335,6 +5401,41 @@
       },
       "read_minutes": 3,
       "cluster_id": "47eaacd972cd"
+    },
+    {
+      "id": "5d8210d672e8",
+      "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 10:46:50 GMT",
+      "bullets": [
+        "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
+        "• Senegal refused to play after being awarded the spot-kick",
+        "• Head coach Pape Thiaw ushered his team off the field, still incensed by decision",
+        "• Morocco coach Walid Regragui said Senegal's actions were 'shameful' and 'terrible look'"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
+          "• Senegal refused to play after being awarded the spot-kick"
+        ],
+        "hopeful_bullets": [
+          "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
+          "• Senegal refused to play after being awarded the spot-kick"
+        ],
+        "stakes_bullets": [
+          "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
+          "• Senegal refused to play after being awarded the spot-kick",
+          "• Head coach Pape Thiaw ushered his team off the field, still incensed by decision"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "cf5e23d5e5f2"
     },
     {
       "id": "47a122682e8b",
@@ -5607,6 +5708,41 @@
       "cluster_id": "17e8d3579467"
     },
     {
+      "id": "daf0e6502413",
+      "title": "Boy and man seriously injured as Sydney sees three shark attacks in two days",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8013p5v2yvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 09:38:09 GMT",
+      "bullets": [
+        "• Boy and man seriously injured as Sydney sees three shark attacks in two days",
+        "• The first attack happened on Sunday at Sydney's Dee Why Beach, NSW",
+        "• The second attack occurred on Monday night and left a man in a critical condition in hospital",
+        "• Police are urging people to be cautious of the attacks "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Boy and man seriously injured as Sydney sees three shark attacks in two days",
+          "• The first attack happened on Sunday at Sydney's Dee Why Beach, NSW"
+        ],
+        "hopeful_bullets": [
+          "• Boy and man seriously injured as Sydney sees three shark attacks in two days",
+          "• The first attack happened on Sunday at Sydney's Dee Why Beach, NSW"
+        ],
+        "stakes_bullets": [
+          "• Boy and man seriously injured as Sydney sees three shark attacks in two days",
+          "• The first attack happened on Sunday at Sydney's Dee Why Beach, NSW",
+          "• The second attack occurred on Monday night and left a man in a critical condition in hospital"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9168ff780793"
+    },
+    {
       "id": "34e69ecdbf95",
       "title": "Japan PM Takaichi calls snap election three months after taking office",
       "outlet": "BBC News",
@@ -5646,8 +5782,8 @@
       "published_at": "Mon, 19 Jan 2026 08:20:42 GMT",
       "bullets": [
         "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-        "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train",
-        "• Emergency services treated 122 people, with 48, including five children, still in hospital "
+        "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train in Adamuz",
+        "• Emergency services treated 122 people, with 43, including four children, still in hospital "
       ],
       "category": "World",
       "sentiment": {
@@ -5657,16 +5793,16 @@
       "moods": {
         "brief_bullets": [
           "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train"
+          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train in Adamuz"
         ],
         "hopeful_bullets": [
           "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train"
+          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train in Adamuz"
         ],
         "stakes_bullets": [
           "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train",
-          "• Emergency services treated 122 people, with 48, including five children, still in hospital "
+          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train in Adamuz",
+          "• Emergency services treated 122 people, with 43, including four children, still in hospital "
         ]
       },
       "read_minutes": 4,
@@ -5674,7 +5810,7 @@
     },
     {
       "id": "58ae72240733",
-      "title": "Gold and silver hit record highs as markets reel from Trump’s latest tariff threat",
+      "title": "Markets fall and gold and silver hit new highs after Trump’s latest tariff threat",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/business/2026/jan/19/gold-silver-record-highs-markets-trump-latest-tariff-shock",
       "published_at": "Mon, 19 Jan 2026 07:58:46 GMT",
@@ -5686,7 +5822,7 @@
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
@@ -5703,7 +5839,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "cfa7cac09b2a"
+      "cluster_id": "f3f2e42bb28d"
     },
     {
       "id": "27c79807f3c8",
@@ -6006,6 +6142,38 @@
       "cluster_id": "dd7b0986d969"
     },
     {
+      "id": "b4b5cd2aef41",
+      "title": "The Teenage Mutant Ninja Turtles Try to Fight Godzilla With...Brotherhood?!",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/teenage-mutant-ninja-turtles-godzilla-2-review-brotherhood/",
+      "published_at": "Mon, 19 Jan 2026 04:57:53 GMT",
+      "bullets": [
+        "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
+        "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
+          "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
+        ],
+        "hopeful_bullets": [
+          "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
+          "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
+        ],
+        "stakes_bullets": [
+          "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
+          "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "8ffd2e8fa854"
+    },
+    {
       "id": "b7234f1dd64c",
       "title": "Taylor Sheridan Just Turned Landman Season 2 Into a Yellowstone Spinoff",
       "outlet": "CBR",
@@ -6269,40 +6437,6 @@
       "cluster_id": "f80e4e77fe87"
     },
     {
-      "id": "44902753643c",
-      "title": "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 03:30:31 GMT",
-      "bullets": [
-        "• More than 50,000 people have also been evacuated in the Ñuble and Biobío regions",
-        "• The most dangerous fire has swept through dry forests bordering the coastal city of Concepción",
-        "• About 250 homes have been destroyed, disaster officials said "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 50,000 people have also been evacuated in the Ñuble and Biobío regions",
-          "• The most dangerous fire has swept through dry forests bordering the coastal city of Concepción"
-        ],
-        "hopeful_bullets": [
-          "• More than 50,000 people have also been evacuated in the Ñuble and Biobío regions",
-          "• The most dangerous fire has swept through dry forests bordering the coastal city of Concepción"
-        ],
-        "stakes_bullets": [
-          "• More than 50,000 people have also been evacuated in the Ñuble and Biobío regions",
-          "• The most dangerous fire has swept through dry forests bordering the coastal city of Concepción",
-          "• About 250 homes have been destroyed, disaster officials said "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3a5c7db4c8ff"
-    },
-    {
       "id": "b62564b4b800",
       "title": "Why A Knight of the Seven Kingdoms Has Flashbacks",
       "outlet": "CBR",
@@ -6335,38 +6469,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "0ca5f7c769e3"
-    },
-    {
-      "id": "1e0987855e34",
-      "title": "7 'Rotten' Horror Movies With Huge Cult Followings",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/poorly-reviewed-horror-cult-classics-list/",
-      "published_at": "Mon, 19 Jan 2026 03:25:12 GMT",
-      "bullets": [
-        "• House of 1000 Corpses is a Rob Zombie movie about four young adults who are on a road trip when they pick up a hitchhiker, Baby Firefly, and then quickly experience car troubles",
-        "• The film is one of his most contentious movies, earning a 22% on Rotten Tomatoes and being accused by critics of being gratuitously violent "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.964
-      },
-      "moods": {
-        "brief_bullets": [
-          "• House of 1000 Corpses is a Rob Zombie movie about four young adults who are on a road trip when they pick up a hitchhiker, Baby Firefly, and then quickly experience car troubles",
-          "• The film is one of his most contentious movies, earning a 22% on Rotten Tomatoes and being accused by critics of being gratuitously violent "
-        ],
-        "hopeful_bullets": [
-          "• House of 1000 Corpses is a Rob Zombie movie about four young adults who are on a road trip when they pick up a hitchhiker, Baby Firefly, and then quickly experience car troubles",
-          "• The film is one of his most contentious movies, earning a 22% on Rotten Tomatoes and being accused by critics of being gratuitously violent "
-        ],
-        "stakes_bullets": [
-          "• House of 1000 Corpses is a Rob Zombie movie about four young adults who are on a road trip when they pick up a hitchhiker, Baby Firefly, and then quickly experience car troubles",
-          "• The film is one of his most contentious movies, earning a 22% on Rotten Tomatoes and being accused by critics of being gratuitously violent "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "6e3a864ebdd5"
     },
     {
       "id": "80b4e94c5d3e",
@@ -6468,39 +6570,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "ee2b85b19c59"
-    },
-    {
-      "id": "f936b224ef5a",
-      "title": "Factory explosion in China kills two, injures 84",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y2pg28lgjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 00:53:04 GMT",
-      "bullets": [
-        "• Factory explosion at Baogang United Steel plant in Inner Mongolia kills two and injures 84 others",
-        "• Eight people still missing, with five hospitalised with serious injuries, state media reported",
-        "• Authorities are investigating the cause of the blast, which caused noticeable tremors in the area "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Factory explosion at Baogang United Steel plant in Inner Mongolia kills two and injures 84 others",
-          "• Eight people still missing, with five hospitalised with serious injuries, state media reported"
-        ],
-        "hopeful_bullets": [
-          "• Factory explosion at Baogang United Steel plant in Inner Mongolia kills two and injures 84 others",
-          "• Eight people still missing, with five hospitalised with serious injuries, state media reported"
-        ],
-        "stakes_bullets": [
-          "• Factory explosion at Baogang United Steel plant in Inner Mongolia kills two and injures 84 others",
-          "• Authorities are investigating the cause of the blast, which caused noticeable tremors in the area "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "490afbfb0db3"
     },
     {
       "id": "4fb07c157a85",
@@ -9122,13 +9191,15 @@
       ]
     },
     {
-      "id": "f09656c4ccec",
-      "topic": "crash know spain train",
+      "id": "948356e4bb6a",
+      "topic": "decade disaster know rail",
       "keywords": [
-        "crash",
+        "decade",
+        "disaster",
         "know",
+        "rail",
         "spain",
-        "train"
+        "worst"
       ],
       "item_ids": [
         "bff0398e7278"
@@ -9156,36 +9227,36 @@
       ]
     },
     {
-      "id": "a44f6c5104e5",
-      "topic": "blackmailed danish europe trump",
+      "id": "a857ad6d8e7c",
+      "topic": "global imf risk tension",
       "keywords": [
-        "blackmailed",
-        "danish",
-        "europe",
-        "trump",
-        "wake",
-        "won"
+        "global",
+        "imf",
+        "risk",
+        "tension",
+        "trade",
+        "warn"
       ],
       "item_ids": [
-        "27c79807f3c8"
+        "6381721fdc18"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "339068d475d9",
-      "topic": "agree ceasefire force kurdish",
+      "id": "746374ace5b0",
+      "topic": "dispute getting greenland link",
       "keywords": [
-        "agree",
-        "ceasefire",
-        "force",
-        "kurdish",
-        "led",
-        "syria"
+        "dispute",
+        "getting",
+        "greenland",
+        "link",
+        "nobel",
+        "trump"
       ],
       "item_ids": [
-        "8e78d6940c59"
+        "9978e9745bdc"
       ],
       "outlets": [
         "BBC News"
@@ -9228,53 +9299,54 @@
       ]
     },
     {
-      "id": "3a5c7db4c8ff",
-      "topic": "catastrophe chile declare leave",
+      "id": "cf5e23d5e5f2",
+      "topic": "chao look marred senegal",
       "keywords": [
-        "catastrophe",
-        "chile",
-        "declare",
-        "leave",
-        "state",
-        "wildfire"
+        "chao",
+        "look",
+        "marred",
+        "senegal",
+        "shameful",
+        "terrible"
       ],
       "item_ids": [
-        "44902753643c"
+        "5d8210d672e8"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "490afbfb0db3",
-      "topic": "china explosion factory injure",
+      "id": "a44f6c5104e5",
+      "topic": "blackmailed danish europe trump",
       "keywords": [
-        "china",
-        "explosion",
-        "factory",
-        "injure",
-        "kill"
+        "blackmailed",
+        "danish",
+        "europe",
+        "trump",
+        "wake",
+        "won"
       ],
       "item_ids": [
-        "f936b224ef5a"
+        "27c79807f3c8"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "4ff5b995dd05",
-      "topic": "500 around deployment minneapoli",
+      "id": "9168ff780793",
+      "topic": "boy injured man sees",
       "keywords": [
-        "500",
-        "around",
-        "deployment",
-        "minneapoli",
-        "soldier",
-        "standby"
+        "boy",
+        "injured",
+        "man",
+        "sees",
+        "seriously",
+        "sydney"
       ],
       "item_ids": [
-        "574acd943e49"
+        "daf0e6502413"
       ],
       "outlets": [
         "BBC News"
@@ -9623,14 +9695,14 @@
       ]
     },
     {
-      "id": "cfa7cac09b2a",
-      "topic": "gold high hit market",
+      "id": "f3f2e42bb28d",
+      "topic": "fall gold high hit",
       "keywords": [
+        "fall",
         "gold",
         "high",
         "hit",
         "market",
-        "record",
         "silver"
       ],
       "item_ids": [
@@ -9947,6 +10019,20 @@
       ]
     },
     {
+      "id": "0b5a242e2874",
+      "topic": "clean keurig",
+      "keywords": [
+        "clean",
+        "keurig"
+      ],
+      "item_ids": [
+        "6b38903d2a0b"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "431747868c4e",
       "topic": "dumbphone lost mind owner",
       "keywords": [
@@ -10097,23 +10183,6 @@
       ],
       "item_ids": [
         "1e01908beb3a"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "573174a4cdcd",
-      "topic": "2026 best fast juicer",
-      "keywords": [
-        "2026",
-        "best",
-        "fast",
-        "juicer",
-        "slow"
-      ],
-      "item_ids": [
-        "7b0a453101c5"
       ],
       "outlets": [
         "WIRED"
@@ -12353,6 +12422,24 @@
       ]
     },
     {
+      "id": "7ee8a6814b54",
+      "topic": "begun bone curse filming",
+      "keywords": [
+        "begun",
+        "bone",
+        "curse",
+        "filming",
+        "key",
+        "officially"
+      ],
+      "item_ids": [
+        "598404f38309"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
       "id": "fe52c09dbc86",
       "topic": "cogs cyberpunk deliver giallo",
       "keywords": [
@@ -13071,6 +13158,24 @@
       ]
     },
     {
+      "id": "8ffd2e8fa854",
+      "topic": "fight mutant ninja teenage",
+      "keywords": [
+        "fight",
+        "mutant",
+        "ninja",
+        "teenage",
+        "try",
+        "turtle"
+      ],
+      "item_ids": [
+        "b4b5cd2aef41"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "c48b2d4b2a52",
       "topic": "just landman season sheridan",
       "keywords": [
@@ -13220,24 +13325,6 @@
       ],
       "item_ids": [
         "b62564b4b800"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "6e3a864ebdd5",
-      "topic": "cult following horror huge",
-      "keywords": [
-        "cult",
-        "following",
-        "horror",
-        "huge",
-        "movie",
-        "rotten"
-      ],
-      "item_ids": [
-        "1e0987855e34"
       ],
       "outlets": [
         "CBR"
@@ -13809,6 +13896,24 @@
       ],
       "item_ids": [
         "a4450d5f50f2"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "4bccbcd6942a",
+      "topic": "celina clear coach district",
+      "keywords": [
+        "celina",
+        "clear",
+        "coach",
+        "district",
+        "football",
+        "retire"
+      ],
+      "item_ids": [
+        "ea8027940d9a"
       ],
       "outlets": [
         "The Texas Tribune"
