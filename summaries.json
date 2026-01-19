@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T19:15:00Z",
+  "generated_at": "2026-01-19T19:59:23Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2230,26 +2230,26 @@
       "url": "https://www.rollingstone.com/music/music-news/bobby-weir-grateful-dead-san-francisco-memorial-1235501339/",
       "published_at": "Sun, 18 Jan 2026 22:10:33 +0000",
       "bullets": [
-        "• Some 25,000 Deadheads and other fans gathered at the Civic Center Plaza in San Francisco",
+        "• Some 25,000 Deadheads, along with family and many friends, gathered at the Civic Center Plaza",
         "• Organizers of the memorial celebration announced that there would be no live music",
         "• Every attendee was offered a long-stemmed red rose, courtesy of the Weir family "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.978
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• Some 25,000 Deadheads and other fans gathered at the Civic Center Plaza in San Francisco",
+          "• Some 25,000 Deadheads, along with family and many friends, gathered at the Civic Center Plaza",
           "• Organizers of the memorial celebration announced that there would be no live music"
         ],
         "hopeful_bullets": [
-          "• Some 25,000 Deadheads and other fans gathered at the Civic Center Plaza in San Francisco",
+          "• Some 25,000 Deadheads, along with family and many friends, gathered at the Civic Center Plaza",
           "• Organizers of the memorial celebration announced that there would be no live music"
         ],
         "stakes_bullets": [
-          "• Some 25,000 Deadheads and other fans gathered at the Civic Center Plaza in San Francisco",
+          "• Some 25,000 Deadheads, along with family and many friends, gathered at the Civic Center Plaza",
           "• Organizers of the memorial celebration announced that there would be no live music",
           "• Every attendee was offered a long-stemmed red rose, courtesy of the Weir family "
         ]
@@ -2358,39 +2358,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "dc05d2bcab71"
-    },
-    {
-      "id": "89a629214f99",
-      "title": "Supreme Court unlikely to overturn Trump tariffs, his ‘signature economic policy’: Bessent",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/18/trump-tariffs-supreme-court-bessent-trade-greenland.html",
-      "published_at": "Sun, 18 Jan 2026 19:04:48 GMT",
-      "bullets": [
-        "• Treasury Secretary Scott Bessent says it's \"very unlikely\" the Supreme Court will overturn President Trump's use of emergency powers to impose tariffs",
-        "• The Supreme Court is set to rule on the issue this week, but a decision could come as soon as this week",
-        "• Trump announced a new slate of tariffs on goods coming from Europe on Sunday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Treasury Secretary Scott Bessent says it's \"very unlikely\" the Supreme Court will overturn President Trump's use of emergency powers to impose tariffs",
-          "• The Supreme Court is set to rule on the issue this week, but a decision could come as soon as this week"
-        ],
-        "hopeful_bullets": [
-          "• Treasury Secretary Scott Bessent says it's \"very unlikely\" the Supreme Court will overturn President Trump's use of emergency powers to impose tariffs",
-          "• The Supreme Court is set to rule on the issue this week, but a decision could come as soon as this week"
-        ],
-        "stakes_bullets": [
-          "• Treasury Secretary Scott Bessent says it's \"very unlikely\" the Supreme Court will overturn President Trump's use of emergency powers to impose tariffs",
-          "• The Supreme Court is set to rule on the issue this week, but a decision could come as soon as this week"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "97797d542c69"
     },
     {
       "id": "f03272fb9287",
@@ -4321,6 +4288,207 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "3ededf82d67c",
+      "title": "Every Multi-Part Episode in Avatar: The Last Airbender & Legend of Korra, Ranked & Explained",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/avatar-the-last-airbender-multi-part-episodes-explained/",
+      "published_at": "Mon, 19 Jan 2026 19:31:24 GMT",
+      "bullets": [
+        "• \"The Day of Black Sun, Part 1: The Invasion\" appears in the middle of Book 3: Fire",
+        "• The second part, subtitled \"The Eclipse,\" involves a delay of the solar eclipse",
+        "• The last part of the series is the last part, and the last is the final part "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"The Day of Black Sun, Part 1: The Invasion\" appears in the middle of Book 3: Fire",
+          "• The second part, subtitled \"The Eclipse,\" involves a delay of the solar eclipse"
+        ],
+        "hopeful_bullets": [
+          "• \"The Day of Black Sun, Part 1: The Invasion\" appears in the middle of Book 3: Fire",
+          "• The second part, subtitled \"The Eclipse,\" involves a delay of the solar eclipse"
+        ],
+        "stakes_bullets": [
+          "• \"The Day of Black Sun, Part 1: The Invasion\" appears in the middle of Book 3: Fire",
+          "• The second part, subtitled \"The Eclipse,\" involves a delay of the solar eclipse",
+          "• The last part of the series is the last part, and the last is the final part "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a410e625a329"
+    },
+    {
+      "id": "9978e9745bdc",
+      "title": "Trump ties Greenland demands to Nobel Prize in message to Norway leader",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 19:25:13 GMT",
+      "bullets": [
+        "• Trump says he no longer feels obliged to think only of peace after he was not awarded the Nobel Peace Prize last year",
+        "• In a message to Norway's Prime Minister Jonas Gahr Støre, Trump blamed the country for not giving him the prize",
+        "• He said the US needed \"Complete and Total Control of Greenland\" - the semi-autonomous Danish territory "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says he no longer feels obliged to think only of peace after he was not awarded the Nobel Peace Prize last year",
+          "• In a message to Norway's Prime Minister Jonas Gahr Støre, Trump blamed the country for not giving him the prize"
+        ],
+        "hopeful_bullets": [
+          "• Trump says he no longer feels obliged to think only of peace after he was not awarded the Nobel Peace Prize last year"
+        ],
+        "stakes_bullets": [
+          "• Trump says he no longer feels obliged to think only of peace after he was not awarded the Nobel Peace Prize last year",
+          "• In a message to Norway's Prime Minister Jonas Gahr Støre, Trump blamed the country for not giving him the prize",
+          "• He said the US needed \"Complete and Total Control of Greenland\" - the semi-autonomous Danish territory "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9fde315359b8"
+    },
+    {
+      "id": "05fa6b4c4316",
+      "title": "Fed chief Powell to attend Supreme Court arguments on Trump bid to fire Lisa Cook",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/fed-powell-supreme-court-trump-lisa-cook.html",
+      "published_at": "Mon, 19 Jan 2026 19:24:51 GMT",
+      "bullets": [
+        "• Federal Reserve Chairman Jerome Powell plans to attend oral arguments in a case challenging the power of President Donald Trump to fire Fed Governor Lisa Cook",
+        "• Powell is under criminal investigation by the U.S",
+        "• Attorney's Office in Washington, D.C., in connection with a multi-billion dollar renovation of the central bank's headquarters "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.937
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal Reserve Chairman Jerome Powell plans to attend oral arguments in a case challenging the power of President Donald Trump to fire Fed Governor Lisa Cook",
+          "• Powell is under criminal investigation by the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Federal Reserve Chairman Jerome Powell plans to attend oral arguments in a case challenging the power of President Donald Trump to fire Fed Governor Lisa Cook",
+          "• Powell is under criminal investigation by the U.S"
+        ],
+        "stakes_bullets": [
+          "• Federal Reserve Chairman Jerome Powell plans to attend oral arguments in a case challenging the power of President Donald Trump to fire Fed Governor Lisa Cook",
+          "• Attorney's Office in Washington, D.C., in connection with a multi-billion dollar renovation of the central bank's headquarters "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "778fb2b78560"
+    },
+    {
+      "id": "0730c13575b7",
+      "title": "1 of Marvel’s Missing Original Avengers, the Green Hulk, Confirms if They’re in Doomsday",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/marvel-original-avenger-confirms-doomsday-rumors/",
+      "published_at": "Mon, 19 Jan 2026 19:24:22 GMT",
+      "bullets": [
+        "• The Hulk will not appear in the upcoming Spider-Man: Brand New Day",
+        "• It's unclear if it will be the same as the original version of the Green Hulk",
+        "• The movie is set to be released on December 18, 2026",
+        "• It will be part of a new Marvel series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Hulk will not appear in the upcoming Spider-Man: Brand New Day",
+          "• It's unclear if it will be the same as the original version of the Green Hulk"
+        ],
+        "hopeful_bullets": [
+          "• The Hulk will not appear in the upcoming Spider-Man: Brand New Day",
+          "• It's unclear if it will be the same as the original version of the Green Hulk"
+        ],
+        "stakes_bullets": [
+          "• The Hulk will not appear in the upcoming Spider-Man: Brand New Day",
+          "• It's unclear if it will be the same as the original version of the Green Hulk",
+          "• It will be part of a new Marvel series "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d3bd43a59398"
+    },
+    {
+      "id": "65c753643e1f",
+      "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
+      "published_at": "Mon, 19 Jan 2026 19:19:52 GMT",
+      "bullets": [
+        "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+        "• after President Donald Trump threatened fresh export levies",
+        "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb",
+        "• 1 and rising to 25% on June 1, if a deal is not reached allowing Washington to acquire Greenland "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+          "• after President Donald Trump threatened fresh export levies"
+        ],
+        "hopeful_bullets": [
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+          "• 1 and rising to 25% on June 1, if a deal is not reached allowing Washington to acquire Greenland "
+        ],
+        "stakes_bullets": [
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+          "• after President Donald Trump threatened fresh export levies",
+          "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8cb3f7a8b60e"
+    },
+    {
+      "id": "42eccc03ab6f",
+      "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/",
+      "published_at": "Mon, 19 Jan 2026 19:04:18 +0000",
+      "bullets": [
+        "• Elon Musk filed a notice on remedies sought in the lawsuit, confirming that he’s seeking damages between $79 billion and $134 billion from OpenAI and its largest backer, Microsoft",
+        "• The tech giants immediately filed a motion to exclude an expert's opinions, alleging that step was necessary to avoid prejudicing a jury "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Elon Musk filed a notice on remedies sought in the lawsuit, confirming that he’s seeking damages between $79 billion and $134 billion from OpenAI and its largest backer, Microsoft",
+          "• The tech giants immediately filed a motion to exclude an expert's opinions, alleging that step was necessary to avoid prejudicing a jury "
+        ],
+        "hopeful_bullets": [
+          "• Elon Musk filed a notice on remedies sought in the lawsuit, confirming that he’s seeking damages between $79 billion and $134 billion from OpenAI and its largest backer, Microsoft",
+          "• The tech giants immediately filed a motion to exclude an expert's opinions, alleging that step was necessary to avoid prejudicing a jury "
+        ],
+        "stakes_bullets": [
+          "• Elon Musk filed a notice on remedies sought in the lawsuit, confirming that he’s seeking damages between $79 billion and $134 billion from OpenAI and its largest backer, Microsoft"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "83069185fa5a"
+    },
+    {
       "id": "f4ae41d10c3e",
       "title": "PS Plus Premium Games for January 2026",
       "outlet": "CBR",
@@ -4587,6 +4755,38 @@
       "cluster_id": "0ad738f19fbe"
     },
     {
+      "id": "ba6dd87dae2f",
+      "title": "Asus confirms its smartphone business is on indefinite hiatus",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+      "published_at": "Mon, 19 Jan 2026 18:24:49 +0000",
+      "bullets": [
+        "• An unconfirmed report early this month suggested Asus was pulling back on its smartphone plans",
+        "• Chairman Jonney Shih has now confirmed the wind-down of its smartphone business",
+        "• Instead, Asus will focus on AI products like robots and smart glasses "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An unconfirmed report early this month suggested Asus was pulling back on its smartphone plans",
+          "• Chairman Jonney Shih has now confirmed the wind-down of its smartphone business"
+        ],
+        "hopeful_bullets": [
+          "• Chairman Jonney Shih has now confirmed the wind-down of its smartphone business"
+        ],
+        "stakes_bullets": [
+          "• An unconfirmed report early this month suggested Asus was pulling back on its smartphone plans",
+          "• Instead, Asus will focus on AI products like robots and smart glasses "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3d192e766b36"
+    },
+    {
       "id": "e803cad0bffa",
       "title": "The Powerful PS3 Game That's Flawless From Start to Finish",
       "outlet": "CBR",
@@ -4619,34 +4819,33 @@
     },
     {
       "id": "d9efe2fdecc8",
-      "title": "What are Trump’s latest tariff threats and could the EU hit back with its ‘big bazooka’?",
+      "title": "What are Trump’s latest tariff threats and could EU hit back with ‘big bazooka’?",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jan/19/donald-trump-tariff-eu-aci-europe-greenland-trade-war",
       "published_at": "Mon, 19 Jan 2026 18:12:19 GMT",
       "bullets": [
-        "• Donald Trump’s threat to impose punitive US import tariffs on eight European countries has raised fears of a full-blown transatlantic trade war",
-        "• The US president said that a 10% tariff would apply on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February "
+        "• Trump threatens to impose a 10% tariff on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February",
+        "• If a deal was not reached for the “complete and total purchase” of the Arctic island, the rate would be increased to 25% "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Donald Trump’s threat to impose punitive US import tariffs on eight European countries has raised fears of a full-blown transatlantic trade war",
-          "• The US president said that a 10% tariff would apply on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February "
+          "• Trump threatens to impose a 10% tariff on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February",
+          "• If a deal was not reached for the “complete and total purchase” of the Arctic island, the rate would be increased to 25% "
         ],
         "hopeful_bullets": [
-          "• Donald Trump’s threat to impose punitive US import tariffs on eight European countries has raised fears of a full-blown transatlantic trade war",
-          "• The US president said that a 10% tariff would apply on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February "
+          "• Trump threatens to impose a 10% tariff on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February",
+          "• If a deal was not reached for the “complete and total purchase” of the Arctic island, the rate would be increased to 25% "
         ],
         "stakes_bullets": [
-          "• Donald Trump’s threat to impose punitive US import tariffs on eight European countries has raised fears of a full-blown transatlantic trade war",
-          "• The US president said that a 10% tariff would apply on all goods shipped to the US from Denmark, Norway, Sweden, the UK, France, Germany, the Netherlands and Finland from 1 February "
+          "• If a deal was not reached for the “complete and total purchase” of the Arctic island, the rate would be increased to 25% "
         ]
       },
-      "read_minutes": 6,
+      "read_minutes": 5,
       "cluster_id": "f8af4e8bd697"
     },
     {
@@ -4716,7 +4915,7 @@
     },
     {
       "id": "59d4451c3137",
-      "title": "Donald Trump links threats to seize Greenland to Nobel prize snub in letter",
+      "title": "Donald Trump links Greenland threats to Nobel snub as EU trade war looms",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jan/19/donald-trump-greenland-threats-nobel-prize-snub-letter",
       "published_at": "Mon, 19 Jan 2026 18:05:02 GMT",
@@ -4728,7 +4927,7 @@
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
@@ -4745,7 +4944,7 @@
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "17e8d3579467"
+      "cluster_id": "2085a7d4d308"
     },
     {
       "id": "f62bbebf39d7",
@@ -4852,40 +5051,6 @@
       "cluster_id": "3e68abbcdea3"
     },
     {
-      "id": "8e25e02082a7",
-      "title": "10 Fully Finished Marvel Comics Storylines That Are Masterpieces",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/completed-marvel-comics-masterpiece-storylines/",
-      "published_at": "Mon, 19 Jan 2026 18:01:12 GMT",
-      "bullets": [
-        "• Spider-Man: Blue is a six-issue one-shot that chronicles the death of Gwen Stacy, many years after her death",
-        "• The series retells Gwen’s death in a new light, adding complexity to the superhero's emotional side",
-        "• Alias Doubles as Jessica Jones's Comics Debut "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Spider-Man: Blue is a six-issue one-shot that chronicles the death of Gwen Stacy, many years after her death",
-          "• The series retells Gwen’s death in a new light, adding complexity to the superhero's emotional side"
-        ],
-        "hopeful_bullets": [
-          "• Spider-Man: Blue is a six-issue one-shot that chronicles the death of Gwen Stacy, many years after her death",
-          "• The series retells Gwen’s death in a new light, adding complexity to the superhero's emotional side"
-        ],
-        "stakes_bullets": [
-          "• Spider-Man: Blue is a six-issue one-shot that chronicles the death of Gwen Stacy, many years after her death",
-          "• The series retells Gwen’s death in a new light, adding complexity to the superhero's emotional side",
-          "• Alias Doubles as Jessica Jones's Comics Debut "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bc5ef9b05146"
-    },
-    {
       "id": "0bf0e7d20bde",
       "title": "Italian fashion designer Valentino dies aged 93",
       "outlet": "BBC News",
@@ -4916,41 +5081,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c6936376e886"
-    },
-    {
-      "id": "65c753643e1f",
-      "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
-      "published_at": "Mon, 19 Jan 2026 18:00:32 GMT",
-      "bullets": [
-        "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-        "• after President Donald Trump threatened fresh export levies",
-        "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb",
-        "• 1 and rising to 25% on June 1, if a deal is not reached allowing Washington to acquire Greenland "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-          "• after President Donald Trump threatened fresh export levies"
-        ],
-        "hopeful_bullets": [
-          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-          "• 1 and rising to 25% on June 1, if a deal is not reached allowing Washington to acquire Greenland "
-        ],
-        "stakes_bullets": [
-          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-          "• after President Donald Trump threatened fresh export levies",
-          "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8cb3f7a8b60e"
     },
     {
       "id": "3e32f20f56fa",
@@ -5014,39 +5144,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "12872ca29dcb"
-    },
-    {
-      "id": "1db96736058e",
-      "title": "Hollywood Legend & Devil Wears Prada Actor Valentino Garavani Dies at 93",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/valentino-garavani-dies-at-93/",
-      "published_at": "Mon, 19 Jan 2026 17:48:50 GMT",
-      "bullets": [
-        "• Legendary Italian fashion designer Valentino has died at the age of 93",
-        "• The designer, whose full name was Valentino Garavani, passed away in his home in Rome, Italy, on Jan",
-        "• 19",
-        "• The official statement didn't reveal a cause, but said he \"peacefully passed away\""
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Legendary Italian fashion designer Valentino has died at the age of 93",
-          "• The designer, whose full name was Valentino Garavani, passed away in his home in Rome, Italy, on Jan"
-        ],
-        "hopeful_bullets": [
-          "• Legendary Italian fashion designer Valentino has died at the age of 93",
-          "• The designer, whose full name was Valentino Garavani, passed away in his home in Rome, Italy, on Jan"
-        ],
-        "stakes_bullets": [
-          "• The official statement didn't reveal a cause, but said he \"peacefully passed away\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6768a9e6e01d"
     },
     {
       "id": "e54e83a571a3",
@@ -5806,38 +5903,6 @@
       "cluster_id": "7d24890a5d6f"
     },
     {
-      "id": "9978e9745bdc",
-      "title": "Trump ties Greenland demands to Nobel Prize in message to Norway leader",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 13:54:13 GMT",
-      "bullets": [
-        "• US President Donald Trump sends message to Norway's prime minister",
-        "• He wants to be awarded the Nobel Peace Prize for his efforts to take control of Greenland",
-        "• Norway's government awarded the prize to Venezuela's opposition leader María Corina Machina in October "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.519
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump sends message to Norway's prime minister",
-          "• He wants to be awarded the Nobel Peace Prize for his efforts to take control of Greenland"
-        ],
-        "hopeful_bullets": [
-          "• He wants to be awarded the Nobel Peace Prize for his efforts to take control of Greenland",
-          "• Norway's government awarded the prize to Venezuela's opposition leader María Corina Machina in October "
-        ],
-        "stakes_bullets": [
-          "• Norway's government awarded the prize to Venezuela's opposition leader María Corina Machina in October "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9fde315359b8"
-    },
-    {
       "id": "1f1924f31c01",
       "title": "Thirteen schoolchildren killed after bus collides with lorry in South Africa",
       "outlet": "BBC News",
@@ -5873,37 +5938,38 @@
       "cluster_id": "34dc99cab6c2"
     },
     {
-      "id": "42496993c4f1",
-      "title": "Greenland PM issues defiant rebuke over Trump's tariff threats: 'We will not be pressured'",
+      "id": "889d592e7851",
+      "title": "Auto giant shares tumble on Trump’s tariff threat over Greenland",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/greenland-nielsen-trump-tariffs-europe.html",
-      "published_at": "Mon, 19 Jan 2026 13:00:53 GMT",
+      "url": "https://www.cnbc.com/2026/01/19/trump-tariffs-autos-greenland-volkswagen-stellantis.html",
+      "published_at": "Mon, 19 Jan 2026 13:04:16 GMT",
       "bullets": [
-        "• Greenland's Prime Minister Jens-Frederik Nielsen says he will not be pressured over U.S",
-        "• President Donald Trump's tariff threats",
-        "• Nielsen joined protesters in Greenland's capital, where people protested against Trump's push to take control of the self-governing Danish territory",
-        "• Trump threatened to impose a rising wave of tariffs against eight European countries for their opposition to his campaign "
+        "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 1:02 p.m",
+        "• ET",
+        "• Germany's Volkswagen, BMW, and Mercedes-Benz Group stood between 2.5% to 3% lower",
+        "• Milan-listed shares of Ferrari dipped around 2.2%, notching a 52-week low",
+        "• The automotive sector is widely regarded as acutely vulnerable to levies "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.651
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Greenland's Prime Minister Jens-Frederik Nielsen says he will not be pressured over U.S",
-          "• President Donald Trump's tariff threats"
+          "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 1:02 p.m",
+          "• ET"
         ],
         "hopeful_bullets": [
-          "• Nielsen joined protesters in Greenland's capital, where people protested against Trump's push to take control of the self-governing Danish territory",
-          "• Trump threatened to impose a rising wave of tariffs against eight European countries for their opposition to his campaign "
+          "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 1:02 p.m",
+          "• ET"
         ],
         "stakes_bullets": [
-          "• Greenland's Prime Minister Jens-Frederik Nielsen says he will not be pressured over U.S"
+          "• The automotive sector is widely regarded as acutely vulnerable to levies "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "1e267f162beb"
+      "read_minutes": 2,
+      "cluster_id": "bb407913ec61"
     },
     {
       "id": "1d515bb7dd74",
@@ -6238,40 +6304,6 @@
       "cluster_id": "5f64c372d65e"
     },
     {
-      "id": "2e34156de522",
-      "title": "Gold and silver surge to fresh highs as investors digest Trump's push for Greenland and flock to safer assets",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/gold-silver-hit-record-highs-greenland-geopolitics-market-reaction.html",
-      "published_at": "Mon, 19 Jan 2026 11:16:39 GMT",
-      "bullets": [
-        "• U.S",
-        "• gold futures for February delivery rose 1.71% to $4,674.20 per ounce on Monday",
-        "• Silver futures for March advanced to a record $93.035 per ounce and were last seen 5.06% higher",
-        "• It comes after President Trump announced tariffs on goods from eight European countries until a deal for the purchase of Greenland "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• gold futures for February delivery rose 1.71% to $4,674.20 per ounce on Monday"
-        ],
-        "hopeful_bullets": [
-          "• Silver futures for March advanced to a record $93.035 per ounce and were last seen 5.06% higher"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• gold futures for February delivery rose 1.71% to $4,674.20 per ounce on Monday",
-          "• Silver futures for March advanced to a record $93.035 per ounce and were last seen 5.06% higher"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e70257134937"
-    },
-    {
       "id": "35eb9c35f430",
       "title": "The Search for Alien Artifacts Is Coming Into Focus",
       "outlet": "WIRED",
@@ -6368,6 +6400,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "a260d70d46f5"
+    },
+    {
+      "id": "c9b23f4d6a08",
+      "title": "Here are the European exporters most exposed if Trump’s Greenland tariffs kick in",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/trump-greenland-tariffs-exposed-exporters-europe.html",
+      "published_at": "Mon, 19 Jan 2026 10:53:15 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump has threatened a rising wave of tariffs on several European allies, raising the alarm for industries and businesses across the region",
+        "• European political leaders are set to hold emergency talks over the coming days as they consider their response, with retaliatory measures and broader punitive economic policies reportedly on the table "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump has threatened a rising wave of tariffs on several European allies, raising the alarm for industries and businesses across the region"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump has threatened a rising wave of tariffs on several European allies, raising the alarm for industries and businesses across the region"
+        ],
+        "stakes_bullets": [
+          "• European political leaders are set to hold emergency talks over the coming days as they consider their response, with retaliatory measures and broader punitive economic policies reportedly on the table "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "47eaacd972cd"
     },
     {
       "id": "87bcebf50057",
@@ -7540,38 +7604,6 @@
       "cluster_id": "ddb95be2e21b"
     },
     {
-      "id": "3bf9e0a99eae",
-      "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
-      "published_at": "Fri, 16 Jan 2026 22:07:41 +0000",
-      "bullets": [
-        "• Archaeologists discovered the wreck of an enormous medieval cargo ship lying on the seafloor off the Danish coast",
-        "• It lay on its side, half-buried in the sand, 12 meters below the choppy surface of the Øresund, the straight that runs between Denmark and Sweden",
-        "• By comparing tree rings in the wreck’s wooden planks and timbers with rings from other, precisely dated tree samples, the archaeologists concluded that the ship had been built around 1410 CE "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Archaeologists discovered the wreck of an enormous medieval cargo ship lying on the seafloor off the Danish coast",
-          "• It lay on its side, half-buried in the sand, 12 meters below the choppy surface of the Øresund, the straight that runs between Denmark and Sweden"
-        ],
-        "hopeful_bullets": [
-          "• Archaeologists discovered the wreck of an enormous medieval cargo ship lying on the seafloor off the Danish coast",
-          "• It lay on its side, half-buried in the sand, 12 meters below the choppy surface of the Øresund, the straight that runs between Denmark and Sweden"
-        ],
-        "stakes_bullets": [
-          "• By comparing tree rings in the wreck’s wooden planks and timbers with rings from other, precisely dated tree samples, the archaeologists concluded that the ship had been built around 1410 CE "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ed6daaefc5fe"
-    },
-    {
       "id": "6fca3494d663",
       "title": "Trump’s Push for Coal in Colorado Could Bring ‘Massive’ Harm to Public Lands and Rural Communities, Advocates Say",
       "outlet": "Inside Climate News",
@@ -7603,38 +7635,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "0c2c7713e6ee"
-    },
-    {
-      "id": "9ea125dda71c",
-      "title": "Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/",
-      "published_at": "Fri, 16 Jan 2026 21:43:22 +0000",
-      "bullets": [
-        "• Anna’s Archive is a shadow library and search engine for other shadow libraries that was launched in 2022",
-        "• It recently expanded its ambitions by scraping Spotify to make a 300TB copy of the most-streamed songs",
-        "• A federal judge ruled yesterday that the shadow library must delete all copies of its WorldCat data "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anna’s Archive is a shadow library and search engine for other shadow libraries that was launched in 2022",
-          "• It recently expanded its ambitions by scraping Spotify to make a 300TB copy of the most-streamed songs"
-        ],
-        "hopeful_bullets": [
-          "• Anna’s Archive is a shadow library and search engine for other shadow libraries that was launched in 2022",
-          "• It recently expanded its ambitions by scraping Spotify to make a 300TB copy of the most-streamed songs"
-        ],
-        "stakes_bullets": [
-          "• It recently expanded its ambitions by scraping Spotify to make a 300TB copy of the most-streamed songs"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7aa852bc7080"
     },
     {
       "id": "23899464c87e",
@@ -9533,13 +9533,13 @@
       ]
     },
     {
-      "id": "17e8d3579467",
-      "topic": "donald greenland link seize",
+      "id": "2085a7d4d308",
+      "topic": "donald greenland link nobel",
       "keywords": [
         "donald",
         "greenland",
         "link",
-        "seize",
+        "nobel",
         "threat",
         "trump"
       ],
@@ -9839,6 +9839,24 @@
       ]
     },
     {
+      "id": "778fb2b78560",
+      "topic": "attend chief court fed",
+      "keywords": [
+        "attend",
+        "chief",
+        "court",
+        "fed",
+        "powell",
+        "supreme"
+      ],
+      "item_ids": [
+        "05fa6b4c4316"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "8cb3f7a8b60e",
       "topic": "against bazooka europe trade",
       "keywords": [
@@ -9929,6 +9947,24 @@
       ]
     },
     {
+      "id": "bb407913ec61",
+      "topic": "auto giant share tariff",
+      "keywords": [
+        "auto",
+        "giant",
+        "share",
+        "tariff",
+        "trump",
+        "tumble"
+      ],
+      "item_ids": [
+        "889d592e7851"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "25f4abaaaee7",
       "topic": "chase debanking jpmorgan sue",
       "keywords": [
@@ -9941,42 +9977,6 @@
       ],
       "item_ids": [
         "b3c0acfea0a6"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "e70257134937",
-      "topic": "fresh gold high investor",
-      "keywords": [
-        "fresh",
-        "gold",
-        "high",
-        "investor",
-        "silver",
-        "surge"
-      ],
-      "item_ids": [
-        "2e34156de522"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "97797d542c69",
-      "topic": "court overturn supreme tariff",
-      "keywords": [
-        "court",
-        "overturn",
-        "supreme",
-        "tariff",
-        "trump",
-        "unlikely"
-      ],
-      "item_ids": [
-        "89a629214f99"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10001,18 +10001,18 @@
       ]
     },
     {
-      "id": "1e267f162beb",
-      "topic": "defiant greenland issue rebuke",
+      "id": "47eaacd972cd",
+      "topic": "european exporter exposed here",
       "keywords": [
-        "defiant",
-        "greenland",
-        "issue",
-        "rebuke",
-        "tariff",
+        "european",
+        "exporter",
+        "exposed",
+        "here",
+        "most",
         "trump"
       ],
       "item_ids": [
-        "42496993c4f1"
+        "c9b23f4d6a08"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10366,6 +10366,42 @@
       ]
     },
     {
+      "id": "83069185fa5a",
+      "topic": "accused elon making math",
+      "keywords": [
+        "accused",
+        "elon",
+        "making",
+        "math",
+        "musk",
+        "squeeze"
+      ],
+      "item_ids": [
+        "42eccc03ab6f"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "3d192e766b36",
+      "topic": "asus busines confirm hiatu",
+      "keywords": [
+        "asus",
+        "busines",
+        "confirm",
+        "hiatu",
+        "indefinite",
+        "smartphone"
+      ],
+      "item_ids": [
+        "ba6dd87dae2f"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "809bc6bbcd24",
       "topic": "game report show stream",
       "keywords": [
@@ -10503,42 +10539,6 @@
       ],
       "item_ids": [
         "180227f7841c"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "ed6daaefc5fe",
-      "topic": "archaeologist denmark find medieval",
-      "keywords": [
-        "archaeologist",
-        "denmark",
-        "find",
-        "medieval",
-        "shipwreck",
-        "supersized"
-      ],
-      "item_ids": [
-        "3bf9e0a99eae"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "7aa852bc7080",
-      "topic": "anna archive delete judge",
-      "keywords": [
-        "anna",
-        "archive",
-        "delete",
-        "judge",
-        "order",
-        "scraped"
-      ],
-      "item_ids": [
-        "9ea125dda71c"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -13150,6 +13150,42 @@
       ]
     },
     {
+      "id": "a410e625a329",
+      "topic": "avatar episode every last",
+      "keywords": [
+        "avatar",
+        "episode",
+        "every",
+        "last",
+        "multi",
+        "part"
+      ],
+      "item_ids": [
+        "3ededf82d67c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d3bd43a59398",
+      "topic": "avenger green hulk marvel",
+      "keywords": [
+        "avenger",
+        "green",
+        "hulk",
+        "marvel",
+        "missing",
+        "original"
+      ],
+      "item_ids": [
+        "0730c13575b7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "576fc7b15876",
       "topic": "2026 game january plus",
       "keywords": [
@@ -13287,42 +13323,6 @@
       ],
       "item_ids": [
         "5cd916155263"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "bc5ef9b05146",
-      "topic": "comic finished fully marvel",
-      "keywords": [
-        "comic",
-        "finished",
-        "fully",
-        "marvel",
-        "masterpiece",
-        "storyline"
-      ],
-      "item_ids": [
-        "8e25e02082a7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "6768a9e6e01d",
-      "topic": "actor devil hollywood legend",
-      "keywords": [
-        "actor",
-        "devil",
-        "hollywood",
-        "legend",
-        "prada",
-        "wear"
-      ],
-      "item_ids": [
-        "1db96736058e"
       ],
       "outlets": [
         "CBR"
