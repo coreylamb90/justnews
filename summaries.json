@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T09:15:42Z",
+  "generated_at": "2026-01-19T10:14:58Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -3390,40 +3390,6 @@
       "cluster_id": "9d6784c6cac9"
     },
     {
-      "id": "ace87fd4d1a8",
-      "title": "World stock markets brace for turbulence after Trump’s latest tariff shock",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jan/18/world-stock-markets-brace-for-turbulence-after-trumps-latest-tariff-shock",
-      "published_at": "Sun, 18 Jan 2026 13:04:12 GMT",
-      "bullets": [
-        "• FTSE 100 on track to fall by 0.9% on Monday, IG’s weekend market suggests",
-        "• Wall Street, which reopens on Tuesday, is also on track for a fall",
-        "• Gold was trading 0.6% higher at $4,625 an ounce on IG's weekend market "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• FTSE 100 on track to fall by 0.9% on Monday, IG’s weekend market suggests",
-          "• Wall Street, which reopens on Tuesday, is also on track for a fall"
-        ],
-        "hopeful_bullets": [
-          "• FTSE 100 on track to fall by 0.9% on Monday, IG’s weekend market suggests",
-          "• Wall Street, which reopens on Tuesday, is also on track for a fall"
-        ],
-        "stakes_bullets": [
-          "• FTSE 100 on track to fall by 0.9% on Monday, IG’s weekend market suggests",
-          "• Wall Street, which reopens on Tuesday, is also on track for a fall",
-          "• Gold was trading 0.6% higher at $4,625 an ounce on IG's weekend market "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "18da13babdf0"
-    },
-    {
       "id": "1ec39f1816c1",
       "title": "The real danger of Tylenol has nothing to do with autism",
       "outlet": "All Top News -- ScienceDaily",
@@ -5190,38 +5156,40 @@
       "cluster_id": "3ce3ee660e41"
     },
     {
-      "id": "a07d28e1d3d0",
-      "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
+      "id": "a6c2076034f8",
+      "title": "Trump is threatening to cut funding from sanctuary cities. Here's what to know",
       "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5679562/trump-sanctuary-cities-ice-immigration",
       "published_at": "Sat, 17 Jan 2026 05:00:00 -0500",
       "bullets": [
-        "• Logan Sudeith spends about 100 hours a week on prediction markets Kalshi and Polymarket",
-        "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment",
-        "• His biggest bets include the New York City mayoral race and Time Magazine's person of the year "
+        "• Trump is threatening to cut funding from sanctuary cities",
+        "• Here's what to know about how the White House can and can't require from them",
+        "• The administration is ramping up the pressure on cities and states to cooperate with its immigration crackdown",
+        "• It hasn't said exactly what money his administration wants to cut, though he gave a deadline of Feb",
+        "• 1"
       ],
       "category": "Politics",
       "sentiment": {
-        "label": "positive",
-        "score": 0.963
+        "label": "negative",
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Logan Sudeith spends about 100 hours a week on prediction markets Kalshi and Polymarket",
-          "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment"
+          "• Trump is threatening to cut funding from sanctuary cities",
+          "• Here's what to know about how the White House can and can't require from them"
         ],
         "hopeful_bullets": [
-          "• Logan Sudeith spends about 100 hours a week on prediction markets Kalshi and Polymarket",
-          "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment"
+          "• Trump is threatening to cut funding from sanctuary cities",
+          "• Here's what to know about how the White House can and can't require from them"
         ],
         "stakes_bullets": [
-          "• Logan Sudeith spends about 100 hours a week on prediction markets Kalshi and Polymarket",
-          "• The 25-year-old does most of his trading from bed-lounging in his Atlanta apartment",
-          "• His biggest bets include the New York City mayoral race and Time Magazine's person of the year "
+          "• Trump is threatening to cut funding from sanctuary cities",
+          "• Here's what to know about how the White House can and can't require from them",
+          "• It hasn't said exactly what money his administration wants to cut, though he gave a deadline of Feb"
         ]
       },
-      "read_minutes": 13,
-      "cluster_id": "47d5c0da25bf"
+      "read_minutes": 4,
+      "cluster_id": "08496f295476"
     },
     {
       "id": "c5ec1cff9d56",
@@ -5787,34 +5755,70 @@
       "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
-      "published_at": "Mon, 19 Jan 2026 08:48:01 GMT",
+      "published_at": "Mon, 19 Jan 2026 08:56:53 GMT",
       "bullets": [
         "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-        "• President Donald Trump threatened fresh export levies, deepening a rift over Greenland",
+        "• after President Donald Trump threatened fresh export levies",
         "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb",
-        "• 1 and rising to 25% on June 1 "
+        "• 1 and rising to 25% on June 1, if a deal is not reached allowing Washington to acquire Greenland "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.973
+        "score": 0.987
       },
       "moods": {
         "brief_bullets": [
           "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-          "• President Donald Trump threatened fresh export levies, deepening a rift over Greenland"
+          "• after President Donald Trump threatened fresh export levies"
         ],
         "hopeful_bullets": [
-          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S"
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+          "• 1 and rising to 25% on June 1, if a deal is not reached allowing Washington to acquire Greenland "
         ],
         "stakes_bullets": [
           "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
-          "• President Donald Trump threatened fresh export levies, deepening a rift over Greenland",
+          "• after President Donald Trump threatened fresh export levies",
           "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb"
         ]
       },
       "read_minutes": 3,
       "cluster_id": "8cb3f7a8b60e"
+    },
+    {
+      "id": "889d592e7851",
+      "title": "Auto giant shares tumble on Trump’s tariff threat over Greenland",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/trump-tariffs-autos-greenland-volkswagen-stellantis.html",
+      "published_at": "Mon, 19 Jan 2026 08:52:34 GMT",
+      "bullets": [
+        "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 8:41 a.m",
+        "• Monday morning",
+        "• Germany's Volkswagen, BMW, and Mercedes-Benz Group were trading between 2.6% to 4.4% lower",
+        "• Milan-listed shares of Ferrari dipped around 2%"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 8:41 a.m",
+          "• Monday morning"
+        ],
+        "hopeful_bullets": [
+          "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 8:41 a.m",
+          "• Monday morning"
+        ],
+        "stakes_bullets": [
+          "• Europe's Stoxx Automobiles and Parts index traded 2% lower at around 8:41 a.m",
+          "• Monday morning",
+          "• Germany's Volkswagen, BMW, and Mercedes-Benz Group were trading between 2.6% to 4.4% lower"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bb407913ec61"
     },
     {
       "id": "8082ec9e1f61",
@@ -5851,41 +5855,6 @@
       "cluster_id": "1c63174f4af5"
     },
     {
-      "id": "889d592e7851",
-      "title": "Auto giant shares tumble on Trump’s tariff threat over Greenland",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/trump-tariffs-autos-greenland-volkswagen-stellantis.html",
-      "published_at": "Mon, 19 Jan 2026 08:26:24 GMT",
-      "bullets": [
-        "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
-        "• GMT",
-        "• Germany's Volkswagen, BMW, and Mercedes-Benz Group were trading between 2.5% to 4% lower",
-        "• Milan-listed shares of Ferrari dipped around 2% in early deals "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
-          "• GMT"
-        ],
-        "hopeful_bullets": [
-          "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
-          "• GMT"
-        ],
-        "stakes_bullets": [
-          "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
-          "• GMT",
-          "• Germany's Volkswagen, BMW, and Mercedes-Benz Group were trading between 2.5% to 4% lower"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bb407913ec61"
-    },
-    {
       "id": "48070bb73339",
       "title": "High-speed train crash in Spain kills at least 39",
       "outlet": "BBC News",
@@ -5918,6 +5887,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "9578f442b089"
+    },
+    {
+      "id": "58ae72240733",
+      "title": "Gold and silver hit record highs as markets reel from Trump’s latest tariff threat",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jan/19/gold-silver-record-highs-markets-trump-latest-tariff-shock",
+      "published_at": "Mon, 19 Jan 2026 07:58:46 GMT",
+      "bullets": [
+        "• Gold and silver prices have hit record highs and European stock markets have fallen",
+        "• US gold futures for February gained 1.7% to $4,671.90",
+        "• Europe's Cac 40 fell 1.6%, Germany's Dax was down 1.4% and Spain's Ibex 35 dropped nearly 1%"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gold and silver prices have hit record highs and European stock markets have fallen",
+          "• US gold futures for February gained 1.7% to $4,671.90"
+        ],
+        "hopeful_bullets": [
+          "• Gold and silver prices have hit record highs and European stock markets have fallen"
+        ],
+        "stakes_bullets": [
+          "• Gold and silver prices have hit record highs and European stock markets have fallen",
+          "• US gold futures for February gained 1.7% to $4,671.90",
+          "• Europe's Cac 40 fell 1.6%, Germany's Dax was down 1.4% and Spain's Ibex 35 dropped nearly 1%"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cfa7cac09b2a"
     },
     {
       "id": "27c79807f3c8",
@@ -5955,34 +5957,34 @@
     },
     {
       "id": "0ae416508b28",
-      "title": "China's population falls for fourth straight year",
+      "title": "China's birth rate hits record low as population continues to shrink",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c79r7v7qr53o?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 19 Jan 2026 07:12:01 GMT",
       "bullets": [
-        "• China's population fell 3.39 million to reach 1.4 billion by the end of 2025",
-        "• Birth rate fell to 5.63 per 1,000 people – a record low since 1949",
-        "• Beijing has been trying hard to encourage more young people to marry and have children "
+        "• China's birth rate falls to 5.63 per 1,000 people - a record low since 1949",
+        "• Government has been trying to encourage more young people to marry and have children",
+        "• The country's population fell 3.39 million to reach 1.4 billion by the end of 2025 "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• China's population fell 3.39 million to reach 1.4 billion by the end of 2025",
-          "• Birth rate fell to 5.63 per 1,000 people – a record low since 1949"
+          "• China's birth rate falls to 5.63 per 1,000 people - a record low since 1949",
+          "• Government has been trying to encourage more young people to marry and have children"
         ],
         "hopeful_bullets": [
-          "• Birth rate fell to 5.63 per 1,000 people – a record low since 1949"
+          "• China's birth rate falls to 5.63 per 1,000 people - a record low since 1949"
         ],
         "stakes_bullets": [
-          "• China's population fell 3.39 million to reach 1.4 billion by the end of 2025"
+          "• The country's population fell 3.39 million to reach 1.4 billion by the end of 2025 "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "38ca33aeb2d5"
+      "cluster_id": "9048db42a7fc"
     },
     {
       "id": "e1e9829f04bb",
@@ -9390,15 +9392,15 @@
       ]
     },
     {
-      "id": "38ca33aeb2d5",
-      "topic": "china fall fourth population",
+      "id": "9048db42a7fc",
+      "topic": "birth china hits low",
       "keywords": [
+        "birth",
         "china",
-        "fall",
-        "fourth",
-        "population",
-        "straight",
-        "year"
+        "hits",
+        "low",
+        "rate",
+        "record"
       ],
       "item_ids": [
         "0ae416508b28"
@@ -9804,18 +9806,18 @@
       ]
     },
     {
-      "id": "18da13babdf0",
-      "topic": "brace market stock trump",
+      "id": "cfa7cac09b2a",
+      "topic": "gold high hit market",
       "keywords": [
-        "brace",
+        "gold",
+        "high",
+        "hit",
         "market",
-        "stock",
-        "trump",
-        "turbulence",
-        "world"
+        "record",
+        "silver"
       ],
       "item_ids": [
-        "ace87fd4d1a8"
+        "58ae72240733"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -11199,18 +11201,18 @@
       ]
     },
     {
-      "id": "47d5c0da25bf",
-      "topic": "bet current day event",
+      "id": "08496f295476",
+      "topic": "citie cut funding sanctuary",
       "keywords": [
-        "bet",
-        "current",
-        "day",
-        "event",
-        "jobs",
-        "quit"
+        "citie",
+        "cut",
+        "funding",
+        "sanctuary",
+        "threatening",
+        "trump"
       ],
       "item_ids": [
-        "a07d28e1d3d0"
+        "a6c2076034f8"
       ],
       "outlets": [
         "NPR Topics: Politics"
