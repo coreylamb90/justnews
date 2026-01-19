@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T15:28:52Z",
+  "generated_at": "2026-01-19T16:07:23Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2155,40 +2155,6 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
-      "id": "a7cefe82e71a",
-      "title": "Pentagon readies 1,500 troops for potential Minnesota deployment, officials say",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/18/pentagon-alaska-troops-minnesota-deployment",
-      "published_at": "Sun, 18 Jan 2026 23:53:58 GMT",
-      "bullets": [
-        "• 1,500 active-duty soldiers in Alaska ordered to prepare for possible deployment to Minnesota",
-        "• The US army placed the units on prepare-to-deploy orders in case violence escalates",
-        "• Donald Trump has threatened to use the Insurrection Act to deploy military forces "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 1,500 active-duty soldiers in Alaska ordered to prepare for possible deployment to Minnesota",
-          "• The US army placed the units on prepare-to-deploy orders in case violence escalates"
-        ],
-        "hopeful_bullets": [
-          "• 1,500 active-duty soldiers in Alaska ordered to prepare for possible deployment to Minnesota",
-          "• The US army placed the units on prepare-to-deploy orders in case violence escalates"
-        ],
-        "stakes_bullets": [
-          "• 1,500 active-duty soldiers in Alaska ordered to prepare for possible deployment to Minnesota",
-          "• The US army placed the units on prepare-to-deploy orders in case violence escalates",
-          "• Donald Trump has threatened to use the Insurrection Act to deploy military forces "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3d521bc0cd5f"
-    },
-    {
       "id": "b9da5688c0e9",
       "title": "Watch John Mayer Pay Tribute to Bob Weir With “Ripple” Cover",
       "outlet": "RSS: News",
@@ -2290,6 +2256,40 @@
       },
       "read_minutes": 9,
       "cluster_id": "e3ff614e3359"
+    },
+    {
+      "id": "d03d89ab1644",
+      "title": "Democrat Khanna refloats bill to block investors from buying up homes after Trump proposal",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/18/trump-khanna-housing-investor-ban.html",
+      "published_at": "Sun, 18 Jan 2026 22:00:31 GMT",
+      "bullets": [
+        "• California Democratic Rep",
+        "• Ro Khanna reintroduced a bill that would curb institutional investors from buying up housing",
+        "• Khanna invoked President Trump's recent support for blocking institutional investors",
+        "• Trump recently said he would be \"immediately taking steps to ban large institutional investors\" Khanna: \"Homes should be owned by people, not wealthy corporate landlords\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• California Democratic Rep",
+          "• Ro Khanna reintroduced a bill that would curb institutional investors from buying up housing"
+        ],
+        "hopeful_bullets": [
+          "• California Democratic Rep",
+          "• Ro Khanna reintroduced a bill that would curb institutional investors from buying up housing"
+        ],
+        "stakes_bullets": [
+          "• Ro Khanna reintroduced a bill that would curb institutional investors from buying up housing",
+          "• Trump recently said he would be \"immediately taking steps to ban large institutional investors\" Khanna: \"Homes should be owned by people, not wealthy corporate landlords\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a3bdce06b2c5"
     },
     {
       "id": "bc1fcf56a99a",
@@ -2491,40 +2491,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "59a97722618b"
-    },
-    {
-      "id": "669c1a96fe38",
-      "title": "In Los Angeles, Iranian-Americans march against government crackdown in Iran",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/18/nx-s1-5680263/in-los-angeles-iranian-americans-march-against-government-crackdown-in-iran",
-      "published_at": "Sun, 18 Jan 2026 17:18:02 -0500",
-      "bullets": [
-        "• In Los Angeles, Iranian-Americans march against government crackdown in Iran",
-        "• Organizers say there were several thousand people in front of City Hall",
-        "• The largest Iranian population in the U.S",
-        "• resides in the LA area, around 600,000 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.924
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In Los Angeles, Iranian-Americans march against government crackdown in Iran",
-          "• Organizers say there were several thousand people in front of City Hall"
-        ],
-        "hopeful_bullets": [
-          "• In Los Angeles, Iranian-Americans march against government crackdown in Iran"
-        ],
-        "stakes_bullets": [
-          "• In Los Angeles, Iranian-Americans march against government crackdown in Iran",
-          "• Organizers say there were several thousand people in front of City Hall",
-          "• The largest Iranian population in the U.S"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b99643443b55"
     },
     {
       "id": "3ccd1bc7564e",
@@ -3923,40 +3889,6 @@
       "cluster_id": "03abb2ee27f9"
     },
     {
-      "id": "b3ba11d93d7a",
-      "title": "Week in Politics: New poll on Trump; Trump's possession of a Nobel Peace Prize",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/17/nx-s1-5680057/week-in-politics-new-poll-on-trump-trumps-possession-of-a-nobel-peace-prize",
-      "published_at": "Sat, 17 Jan 2026 07:45:58 -0500",
-      "bullets": [
-        "• A new poll shows 58% of those polled think President Trump's first year of his second term has not been a success",
-        "• The Associated Press poll shows some erosion, even among Republicans, on some issues",
-        "• Immigration was his best issue all last year, but even that's underwater for him now "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new poll shows 58% of those polled think President Trump's first year of his second term has not been a success",
-          "• The Associated Press poll shows some erosion, even among Republicans, on some issues"
-        ],
-        "hopeful_bullets": [
-          "• A new poll shows 58% of those polled think President Trump's first year of his second term has not been a success",
-          "• The Associated Press poll shows some erosion, even among Republicans, on some issues"
-        ],
-        "stakes_bullets": [
-          "• A new poll shows 58% of those polled think President Trump's first year of his second term has not been a success",
-          "• The Associated Press poll shows some erosion, even among Republicans, on some issues",
-          "• Immigration was his best issue all last year, but even that's underwater for him now "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0a62106a0201"
-    },
-    {
       "id": "30932f37f62f",
       "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
       "outlet": "World news | The Guardian",
@@ -4056,40 +3988,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "e8547047f0b8"
-    },
-    {
-      "id": "338ce4857614",
-      "title": "Mike Flanagan’s ‘The Exorcist’ Releasing in Theaters March 2027",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3929795/mike-flanagans-the-exorcist-releasing-in-theaters-march-2027/",
-      "published_at": "Sat, 17 Jan 2026 05:03:06 +0000",
-      "bullets": [
-        "• Mike Flanagan's The Exorcist will release in theaters March 12, 2027",
-        "• Scarlett Johansson and Jacobi Jupe are leading the new movie’s cast",
-        "• Flanagan is producing via his Red Room Pictures banner alongside Jason Blum for Blumhouse-Atomic Monster "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mike Flanagan's The Exorcist will release in theaters March 12, 2027",
-          "• Scarlett Johansson and Jacobi Jupe are leading the new movie’s cast"
-        ],
-        "hopeful_bullets": [
-          "• Mike Flanagan's The Exorcist will release in theaters March 12, 2027",
-          "• Scarlett Johansson and Jacobi Jupe are leading the new movie’s cast"
-        ],
-        "stakes_bullets": [
-          "• Mike Flanagan's The Exorcist will release in theaters March 12, 2027",
-          "• Scarlett Johansson and Jacobi Jupe are leading the new movie’s cast",
-          "• Flanagan is producing via his Red Room Pictures banner alongside Jason Blum for Blumhouse-Atomic Monster "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3ce3ee660e41"
     },
     {
       "id": "c5ec1cff9d56",
@@ -4584,6 +4482,173 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "c9d702e8da91",
+      "title": "HBO's New Game of Thrones Spinoff Has Already Defeated The Pitt on Streaming",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/a-knight-of-the-seven-kingdoms-hbo-max-streaming-hit-january-2026/",
+      "published_at": "Mon, 19 Jan 2026 16:00:11 GMT",
+      "bullets": [
+        "• A Knight of the Seven Kingdoms is the No",
+        "• 1 show in every country where it is available to stream on HBO Max",
+        "• In the United States, the Game of Thrones spinoff has done the unthinkable, knocking The Pitt down to second place on the Top 10 TV Shows chart "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.938
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Knight of the Seven Kingdoms is the No",
+          "• 1 show in every country where it is available to stream on HBO Max"
+        ],
+        "hopeful_bullets": [
+          "• A Knight of the Seven Kingdoms is the No",
+          "• 1 show in every country where it is available to stream on HBO Max"
+        ],
+        "stakes_bullets": [
+          "• A Knight of the Seven Kingdoms is the No",
+          "• 1 show in every country where it is available to stream on HBO Max",
+          "• In the United States, the Game of Thrones spinoff has done the unthinkable, knocking The Pitt down to second place on the Top 10 TV Shows chart "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "00300ab8ab81"
+    },
+    {
+      "id": "0817d96fc5ab",
+      "title": "'That Was Too Far For Us': The Crude Bathroom Scene Showrunners Left Out Of A Knight Of The Seven Kingdoms (Exclusive)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/a-knight-of-the-seven-kingdoms-crude-bathroom-scene/",
+      "published_at": "Mon, 19 Jan 2026 15:49:40 GMT",
+      "bullets": [
+        "• A Knight of the Seven Kingdoms premiered Sunday, January 18",
+        "• Co-creator Ira Parker said there was a \"poop and fart joke\" that was too far for the series",
+        "• The series premiere features an explicit scene of the defecation scene "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Knight of the Seven Kingdoms premiered Sunday, January 18",
+          "• Co-creator Ira Parker said there was a \"poop and fart joke\" that was too far for the series"
+        ],
+        "hopeful_bullets": [
+          "• A Knight of the Seven Kingdoms premiered Sunday, January 18",
+          "• Co-creator Ira Parker said there was a \"poop and fart joke\" that was too far for the series"
+        ],
+        "stakes_bullets": [
+          "• A Knight of the Seven Kingdoms premiered Sunday, January 18",
+          "• Co-creator Ira Parker said there was a \"poop and fart joke\" that was too far for the series",
+          "• The series premiere features an explicit scene of the defecation scene "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bcf9485696c1"
+    },
+    {
+      "id": "dfdad150981b",
+      "title": "Survive Whatever Is in the Woods in Upcoming Co-op Survival Horror Game ‘Deadhikers’ [Teaser]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3929894/survive-whatever-is-in-the-woods-in-upcoming-co-op-survival-horror-game-deadhikers-teaser/",
+      "published_at": "Mon, 19 Jan 2026 15:30:14 +0000",
+      "bullets": [
+        "• The game is set in an isolated area where you and your friends have to survive",
+        "• The only goal is to survive the nightmarish wilderness",
+        "• The game will be available on the Steam Store for $99.99 ($100,000)"
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The game is set in an isolated area where you and your friends have to survive",
+          "• The only goal is to survive the nightmarish wilderness"
+        ],
+        "hopeful_bullets": [
+          "• The game is set in an isolated area where you and your friends have to survive",
+          "• The only goal is to survive the nightmarish wilderness"
+        ],
+        "stakes_bullets": [
+          "• The game will be available on the Steam Store for $99.99 ($100,000)"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a99efd83880e"
+    },
+    {
+      "id": "c455618e5b74",
+      "title": "10 Marvel Heroes Who Need New Comics In 2026",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/marvel-heroes-who-need-new-comics-2026/",
+      "published_at": "Mon, 19 Jan 2026 15:30:11 GMT",
+      "bullets": [
+        "• Marvel Comics has given fiction some of the greatest superheroes ever created",
+        "• Even some of Marvel's greatest characters have struggled to land their own miniseries",
+        "• From forgotten Bronze Age icons to heroes who should always be in print, these characters need a comeback",
+        "• Ka-Zar's Jungle Adventures could make a comeback to their own series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marvel Comics has given fiction some of the greatest superheroes ever created",
+          "• Even some of Marvel's greatest characters have struggled to land their own miniseries"
+        ],
+        "hopeful_bullets": [
+          "• Marvel Comics has given fiction some of the greatest superheroes ever created",
+          "• Even some of Marvel's greatest characters have struggled to land their own miniseries"
+        ],
+        "stakes_bullets": [
+          "• Ka-Zar's Jungle Adventures could make a comeback to their own series "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "526c86be01cb"
+    },
+    {
+      "id": "3ca37080eaec",
+      "title": "Ghana arrests Nigerians accused of running cyber-crime networks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr4k35q6yr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 15:15:00 GMT",
+      "bullets": [
+        "• Ghana arrests Nigerians accused of running cyber-crime networks",
+        "• Nine Nigerians suspected of co-ordinating a host of activities from makeshift offices in and around the capital, Accra",
+        "• Four others, believed to be victims brought to Ghana from Nigeria under false pretences, also detained "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ghana arrests Nigerians accused of running cyber-crime networks",
+          "• Nine Nigerians suspected of co-ordinating a host of activities from makeshift offices in and around the capital, Accra"
+        ],
+        "hopeful_bullets": [
+          "• Ghana arrests Nigerians accused of running cyber-crime networks",
+          "• Nine Nigerians suspected of co-ordinating a host of activities from makeshift offices in and around the capital, Accra"
+        ],
+        "stakes_bullets": [
+          "• Ghana arrests Nigerians accused of running cyber-crime networks",
+          "• Nine Nigerians suspected of co-ordinating a host of activities from makeshift offices in and around the capital, Accra",
+          "• Four others, believed to be victims brought to Ghana from Nigeria under false pretences, also detained "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ab7bddfd4966"
+    },
+    {
       "id": "9f3e05444fbf",
       "title": "The Big 2026 Horror Movie Preview: All Theatrical Releases",
       "outlet": "Dread Central",
@@ -4648,6 +4713,36 @@
       },
       "read_minutes": 3,
       "cluster_id": "a83a3ac5d32c"
+    },
+    {
+      "id": "e0e03587e349",
+      "title": "‘Very historic time’: US protests have jumped since Trump’s first term",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/19/trump-protests-data",
+      "published_at": "Mon, 19 Jan 2026 15:00:27 GMT",
+      "bullets": [
+        "• There were more than 10,700 protests in 2025, a 133% increase from the 4,588 recorded in 2017",
+        "• An overwhelming majority of US counties – including 42% that voted for Trump – have had at least one protest since Trump took office "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There were more than 10,700 protests in 2025, a 133% increase from the 4,588 recorded in 2017",
+          "• An overwhelming majority of US counties – including 42% that voted for Trump – have had at least one protest since Trump took office "
+        ],
+        "hopeful_bullets": [
+          "• There were more than 10,700 protests in 2025, a 133% increase from the 4,588 recorded in 2017"
+        ],
+        "stakes_bullets": [
+          "• There were more than 10,700 protests in 2025, a 133% increase from the 4,588 recorded in 2017"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bd3079f232cb"
     },
     {
       "id": "716d68f5d812",
@@ -4747,6 +4842,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "f6712083695a"
+    },
+    {
+      "id": "c3fd4fc2c3f8",
+      "title": "Swiss deadly fire bar owners' lawyers condemn 'vindictiveness'",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yvl4x3nqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 14:53:42 GMT",
+      "bullets": [
+        "• Lawyers of the owners of a Swiss bar where a fire broke out on New Year's Eve criticise \"lies\" about their clients",
+        "• Jessica and Jacques Moretti were \"devastated\", but denied being aware of any dangers at their venue",
+        "• Initial findings suggest the fire began as sparklers attached to champagne bottles ignited soundproof foaming "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lawyers of the owners of a Swiss bar where a fire broke out on New Year's Eve criticise \"lies\" about their clients",
+          "• Jessica and Jacques Moretti were \"devastated\", but denied being aware of any dangers at their venue"
+        ],
+        "hopeful_bullets": [
+          "• Lawyers of the owners of a Swiss bar where a fire broke out on New Year's Eve criticise \"lies\" about their clients",
+          "• Jessica and Jacques Moretti were \"devastated\", but denied being aware of any dangers at their venue"
+        ],
+        "stakes_bullets": [
+          "• Lawyers of the owners of a Swiss bar where a fire broke out on New Year's Eve criticise \"lies\" about their clients",
+          "• Jessica and Jacques Moretti were \"devastated\", but denied being aware of any dangers at their venue",
+          "• Initial findings suggest the fire began as sparklers attached to champagne bottles ignited soundproof foaming "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "40cab49c94df"
     },
     {
       "id": "545fc6429366",
@@ -4985,36 +5114,6 @@
       "cluster_id": "4171a74244cd"
     },
     {
-      "id": "15196eed9ec1",
-      "title": "South African team helps search for politician swept away by Mozambique floodwaters",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62nen4n971o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 14:22:15 GMT",
-      "bullets": [
-        "• South African team helps search for politician swept away by Mozambique floodwaters",
-        "• Only one of the passengers has been accounted for - the \"status and whereabouts of the other occupants remain unconfirmed\" Flooding has devastated parts of both countries and resulted in President Chapo cancelling his trip to Davos "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South African team helps search for politician swept away by Mozambique floodwaters",
-          "• Only one of the passengers has been accounted for - the \"status and whereabouts of the other occupants remain unconfirmed\" Flooding has devastated parts of both countries and resulted in President Chapo cancelling his trip to Davos "
-        ],
-        "hopeful_bullets": [
-          "• South African team helps search for politician swept away by Mozambique floodwaters"
-        ],
-        "stakes_bullets": [
-          "• Only one of the passengers has been accounted for - the \"status and whereabouts of the other occupants remain unconfirmed\" Flooding has devastated parts of both countries and resulted in President Chapo cancelling his trip to Davos "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "41e2cce82596"
-    },
-    {
       "id": "54076c3a6e46",
       "title": "Star Trek: Starfleet Academy Loses Steam on Paramount+",
       "outlet": "CBR",
@@ -5087,32 +5186,66 @@
       "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
       "published_at": "Mon, 19 Jan 2026 13:54:13 GMT",
       "bullets": [
-        "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
-        "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland",
-        "• He has increasingly insisted that the US needs to take over Greenland for national security reasons "
+        "• US President Donald Trump says he no longer feels obliged to think only of peace after not receiving the Nobel Peace Prize",
+        "• The message was sent to Norway's Prime Minister Støre in response to a text message sent by the US President",
+        "• Trump has made no secret of his desire to be awarded the annual prize "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
-          "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland"
+          "• US President Donald Trump says he no longer feels obliged to think only of peace after not receiving the Nobel Peace Prize",
+          "• The message was sent to Norway's Prime Minister Støre in response to a text message sent by the US President"
         ],
         "hopeful_bullets": [
-          "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
-          "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland"
+          "• Trump has made no secret of his desire to be awarded the annual prize "
         ],
         "stakes_bullets": [
-          "• US President Donald Trump says he no longer feels obliged to think only of peace after not getting the Nobel Peace Prize",
-          "• In a text message to Norway's prime minister, Trump says the world is not secure unless we have control of Greenland",
-          "• He has increasingly insisted that the US needs to take over Greenland for national security reasons "
+          "• US President Donald Trump says he no longer feels obliged to think only of peace after not receiving the Nobel Peace Prize",
+          "• The message was sent to Norway's Prime Minister Støre in response to a text message sent by the US President",
+          "• Trump has made no secret of his desire to be awarded the annual prize "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "746374ace5b0"
+    },
+    {
+      "id": "1f1924f31c01",
+      "title": "Thirteen schoolchildren killed after bus collides with lorry in South Africa",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgdmkxl1mko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 13:13:36 GMT",
+      "bullets": [
+        "• Thirteen schoolchildren killed after bus collides with lorry in South Africa",
+        "• Eleven died at the scene, while two succumbed to their injuries later on",
+        "• The minibus driver crashed into the lorry after attempting to overtake two vehicles",
+        "• Two other pupils remain in critical condition in hospital "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Thirteen schoolchildren killed after bus collides with lorry in South Africa",
+          "• Eleven died at the scene, while two succumbed to their injuries later on"
+        ],
+        "hopeful_bullets": [
+          "• Thirteen schoolchildren killed after bus collides with lorry in South Africa",
+          "• Eleven died at the scene, while two succumbed to their injuries later on"
+        ],
+        "stakes_bullets": [
+          "• Thirteen schoolchildren killed after bus collides with lorry in South Africa",
+          "• Eleven died at the scene, while two succumbed to their injuries later on",
+          "• The minibus driver crashed into the lorry after attempting to overtake two vehicles"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "34dc99cab6c2"
     },
     {
       "id": "889d592e7851",
@@ -5155,27 +5288,27 @@
       "url": "https://www.theguardian.com/business/2026/jan/19/gold-silver-record-highs-markets-trump-latest-tariff-shock",
       "published_at": "Mon, 19 Jan 2026 13:02:34 GMT",
       "bullets": [
-        "• Gold and silver prices hit record highs as investors turn to safe-haven assets",
-        "• European stock markets fall after Donald Trump threatens to impose additional tariffs on eight European countries",
-        "• Trump threatened to impose a 25% tariff on Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands, and Finland until the US was allowed to buy Greenland "
+        "• Gold and silver prices hit record highs after Donald Trump threatened to impose additional tariffs on eight European countries in an attempt to claim Greenland",
+        "• Germany's DAX, France's CAC and Italy's FTSE MIB were all down more than 1%, as was the pan-European STOXX 600",
+        "• European carmakers were among the hardest hit, with Volkswagen, BMW and Mercedes-Benz falling "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Gold and silver prices hit record highs as investors turn to safe-haven assets",
-          "• European stock markets fall after Donald Trump threatens to impose additional tariffs on eight European countries"
+          "• Gold and silver prices hit record highs after Donald Trump threatened to impose additional tariffs on eight European countries in an attempt to claim Greenland",
+          "• Germany's DAX, France's CAC and Italy's FTSE MIB were all down more than 1%, as was the pan-European STOXX 600"
         ],
         "hopeful_bullets": [
-          "• Gold and silver prices hit record highs as investors turn to safe-haven assets"
+          "• Gold and silver prices hit record highs after Donald Trump threatened to impose additional tariffs on eight European countries in an attempt to claim Greenland"
         ],
         "stakes_bullets": [
-          "• Gold and silver prices hit record highs as investors turn to safe-haven assets",
-          "• European stock markets fall after Donald Trump threatens to impose additional tariffs on eight European countries",
-          "• Trump threatened to impose a 25% tariff on Denmark, Norway, Sweden, France, Germany, the UK, the Netherlands, and Finland until the US was allowed to buy Greenland "
+          "• Gold and silver prices hit record highs after Donald Trump threatened to impose additional tariffs on eight European countries in an attempt to claim Greenland",
+          "• Germany's DAX, France's CAC and Italy's FTSE MIB were all down more than 1%, as was the pan-European STOXX 600",
+          "• European carmakers were among the hardest hit, with Volkswagen, BMW and Mercedes-Benz falling "
         ]
       },
       "read_minutes": 3,
@@ -5247,39 +5380,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "23bf84463b2d"
-    },
-    {
-      "id": "3b77397d4b50",
-      "title": "Star Trek's Returning Star Hits Back at Criticism of Divisive Spinoff Series",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-robert-picardo-starfleet-academy-criticisms/",
-      "published_at": "Mon, 19 Jan 2026 13:00:12 GMT",
-      "bullets": [
-        "• Robert Picardo recently spoke out against criticisms of the new Star Trek spinoff",
-        "• He shared a newspaper image from the time his previous Star Trek project, Voyager, went to air",
-        "• Picardo responded to a fan who claimed that \"Alex Kurtzman, behind the scenes, is intentionally turning it into a political lecture\""
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Robert Picardo recently spoke out against criticisms of the new Star Trek spinoff",
-          "• He shared a newspaper image from the time his previous Star Trek project, Voyager, went to air"
-        ],
-        "hopeful_bullets": [
-          "• Robert Picardo recently spoke out against criticisms of the new Star Trek spinoff"
-        ],
-        "stakes_bullets": [
-          "• Robert Picardo recently spoke out against criticisms of the new Star Trek spinoff",
-          "• He shared a newspaper image from the time his previous Star Trek project, Voyager, went to air",
-          "• Picardo responded to a fan who claimed that \"Alex Kurtzman, behind the scenes, is intentionally turning it into a political lecture\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cfc8feeded11"
     },
     {
       "id": "5af883ab9426",
@@ -5941,41 +6041,6 @@
       "cluster_id": "47eaacd972cd"
     },
     {
-      "id": "5d8210d672e8",
-      "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 10:46:50 GMT",
-      "bullets": [
-        "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
-        "• Senegal refused to play after being awarded the spot-kick",
-        "• Head coach Pape Thiaw ushered his team off the field, still incensed by decision",
-        "• Morocco coach Walid Regragui said Senegal's actions were 'shameful' and 'terrible look'"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
-          "• Senegal refused to play after being awarded the spot-kick"
-        ],
-        "hopeful_bullets": [
-          "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
-          "• Senegal refused to play after being awarded the spot-kick"
-        ],
-        "stakes_bullets": [
-          "• Referee Jean Jacques Ndala awarded a stoppage-time penalty in the 98th minute",
-          "• Senegal refused to play after being awarded the spot-kick",
-          "• Head coach Pape Thiaw ushered his team off the field, still incensed by decision"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "cf5e23d5e5f2"
-    },
-    {
       "id": "47a122682e8b",
       "title": "Never-before-seen home video is earliest footage of Martin Luther King: ‘What a gift!’",
       "outlet": "US news | The Guardian",
@@ -6043,40 +6108,38 @@
       "cluster_id": "bb48c6c01720"
     },
     {
-      "id": "d8926df6b302",
-      "title": "UK looks to work its magic on Trump to defuse Greenland tariff threat, calling for calm",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/uk-trump-starmer-greenland-tarrifs.html",
-      "published_at": "Mon, 19 Jan 2026 10:05:06 GMT",
+      "id": "c09e05301cb0",
+      "title": "Trump says he's pursuing Greenland after perceived Nobel Peace Prize snub",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/19/nx-s1-5682038/trump-greenland-nobel-peace-prize",
+      "published_at": "Mon, 19 Jan 2026 10:27:45 -0500",
       "bullets": [
-        "• U.K",
-        "• Prime Minister Keir Starmer says only Greenland and Denmark can decide Greenland's future",
-        "• U.S",
-        "• President Donald Trump threatened to impose fresh tariffs on NATO allies if they didn't agree to his demands to \"buy\" Greenland",
-        "• The proposed tariffs would target Denmark, Norway, Sweden, France, Germany, the Netherlands and Finland "
+        "• Trump says his push for U.S",
+        "• control of Greenland comes after he failed to win the Nobel Peace Prize last year",
+        "• The president says he no longer feels obliged to think only of peace",
+        "• Norway's prime minister says he received the message in response to a text he and Finland's president sent to Trump "
       ],
-      "category": "Business",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• U.K",
-          "• Prime Minister Keir Starmer says only Greenland and Denmark can decide Greenland's future"
+          "• Trump says his push for U.S",
+          "• control of Greenland comes after he failed to win the Nobel Peace Prize last year"
         ],
         "hopeful_bullets": [
-          "• U.K",
-          "• Prime Minister Keir Starmer says only Greenland and Denmark can decide Greenland's future"
+          "• control of Greenland comes after he failed to win the Nobel Peace Prize last year"
         ],
         "stakes_bullets": [
-          "• U.K",
-          "• Prime Minister Keir Starmer says only Greenland and Denmark can decide Greenland's future",
-          "• U.S"
+          "• Trump says his push for U.S",
+          "• control of Greenland comes after he failed to win the Nobel Peace Prize last year",
+          "• The president says he no longer feels obliged to think only of peace"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "1f38ee56c34f"
+      "cluster_id": "d49ca3e41073"
     },
     {
       "id": "7371851ddf99",
@@ -6244,6 +6307,40 @@
       "cluster_id": "e2b29f59326a"
     },
     {
+      "id": "daf0e6502413",
+      "title": "Man seriously injured in Sydney's third shark attack in two days",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8013p5v2yvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 09:38:09 GMT",
+      "bullets": [
+        "• Man seriously injured in Sydney's third shark attack in two days",
+        "• Man taken to hospital in critical condition after being injured at Manly beach",
+        "• Earlier, an 11-year-old surfer had to be assisted off Sydney's Dee Why Beach after a suspected shark bit his surfboard "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Man seriously injured in Sydney's third shark attack in two days",
+          "• Man taken to hospital in critical condition after being injured at Manly beach"
+        ],
+        "hopeful_bullets": [
+          "• Man seriously injured in Sydney's third shark attack in two days",
+          "• Man taken to hospital in critical condition after being injured at Manly beach"
+        ],
+        "stakes_bullets": [
+          "• Man seriously injured in Sydney's third shark attack in two days",
+          "• Man taken to hospital in critical condition after being injured at Manly beach",
+          "• Earlier, an 11-year-old surfer had to be assisted off Sydney's Dee Why Beach after a suspected shark bit his surfboard "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a558eb9b5b22"
+    },
+    {
       "id": "48070bb73339",
       "title": "High-speed train crash in Spain kills at least 39",
       "outlet": "BBC News",
@@ -6344,71 +6441,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "b7390d7ce3de"
-    },
-    {
-      "id": "27c79807f3c8",
-      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 07:15:40 GMT",
-      "bullets": [
-        "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
-        "• The US president has threatened to impose a 10% levy on goods from eight allied nations",
-        "• Trump has previously said Washington would get the territory \"the easy way\" or \"the hard way\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.898
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
-          "• The US president has threatened to impose a 10% levy on goods from eight allied nations"
-        ],
-        "hopeful_bullets": [
-          "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
-          "• The US president has threatened to impose a 10% levy on goods from eight allied nations"
-        ],
-        "stakes_bullets": [
-          "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
-          "• The US president has threatened to impose a 10% levy on goods from eight allied nations",
-          "• Trump has previously said Washington would get the territory \"the easy way\" or \"the hard way\""
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a44f6c5104e5"
-    },
-    {
-      "id": "0ae416508b28",
-      "title": "China's birth rate hits record low as population continues to shrink",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c79r7v7qr53o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 07:12:01 GMT",
-      "bullets": [
-        "• China's birth rate falls to 5.63 per 1,000 people - a record low since 1949",
-        "• Government has been trying to encourage more young people to marry and have children",
-        "• The country's population fell 3.39 million to reach 1.4 billion by the end of 2025 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's birth rate falls to 5.63 per 1,000 people - a record low since 1949",
-          "• Government has been trying to encourage more young people to marry and have children"
-        ],
-        "hopeful_bullets": [
-          "• China's birth rate falls to 5.63 per 1,000 people - a record low since 1949"
-        ],
-        "stakes_bullets": [
-          "• The country's population fell 3.39 million to reach 1.4 billion by the end of 2025 "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9048db42a7fc"
     },
     {
       "id": "e1e9829f04bb",
@@ -6612,6 +6644,38 @@
       "cluster_id": "b57ce53160fa"
     },
     {
+      "id": "c46a9edde5c3",
+      "title": "Can exercise and anti-inflammatories fend off aging? A study aims to find out",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/19/nx-s1-5676034/aging-exercise-health-longevity",
+      "published_at": "Mon, 19 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• A new study aims to test whether it's possible to fend off age-related diseases with exercise and anti-inflammatories",
+        "• The study includes healthy older adults, aged 65 to 80, who have agreed to try HIIT training",
+        "• Participants will take daily capsules of spermidine, a supplement that is often marketed for healthy aging "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new study aims to test whether it's possible to fend off age-related diseases with exercise and anti-inflammatories",
+          "• The study includes healthy older adults, aged 65 to 80, who have agreed to try HIIT training"
+        ],
+        "hopeful_bullets": [
+          "• A new study aims to test whether it's possible to fend off age-related diseases with exercise and anti-inflammatories",
+          "• The study includes healthy older adults, aged 65 to 80, who have agreed to try HIIT training"
+        ],
+        "stakes_bullets": [
+          "• Participants will take daily capsules of spermidine, a supplement that is often marketed for healthy aging "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "dd7b0986d969"
+    },
+    {
       "id": "05b1a69085f7",
       "title": "U.S. lawmakers wrap reassurance tour in Denmark as tensions around Greenland grow",
       "outlet": "NPR Topics: News",
@@ -6680,102 +6744,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "abaa2b5d096f"
-    },
-    {
-      "id": "c46a9edde5c3",
-      "title": "Can exercise and anti-inflammatories fend off aging? A study aims to find out",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/19/nx-s1-5676034/aging-exercise-health-longevity",
-      "published_at": "Mon, 19 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• A new study aims to test whether it's possible to fend off age-related diseases with exercise and anti-inflammatories",
-        "• The study includes healthy older adults, aged 65 to 80, who have agreed to try HIIT training",
-        "• Participants will take daily capsules of spermidine, a supplement that is often marketed for healthy aging "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new study aims to test whether it's possible to fend off age-related diseases with exercise and anti-inflammatories",
-          "• The study includes healthy older adults, aged 65 to 80, who have agreed to try HIIT training"
-        ],
-        "hopeful_bullets": [
-          "• A new study aims to test whether it's possible to fend off age-related diseases with exercise and anti-inflammatories",
-          "• The study includes healthy older adults, aged 65 to 80, who have agreed to try HIIT training"
-        ],
-        "stakes_bullets": [
-          "• Participants will take daily capsules of spermidine, a supplement that is often marketed for healthy aging "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "dd7b0986d969"
-    },
-    {
-      "id": "b4b5cd2aef41",
-      "title": "The Teenage Mutant Ninja Turtles Try to Fight Godzilla With...Brotherhood?!",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/teenage-mutant-ninja-turtles-godzilla-2-review-brotherhood/",
-      "published_at": "Mon, 19 Jan 2026 04:57:53 GMT",
-      "bullets": [
-        "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
-        "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
-          "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
-        ],
-        "hopeful_bullets": [
-          "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
-          "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
-        ],
-        "stakes_bullets": [
-          "• Teenage Mutant Ninja Turtles X Godzilla #2 is from writer Tim Seeley, artist Fero Pe, colorist Luis Antonio Delgado, and letterer Brian Kolek",
-          "• It ties in with a new history for the kaijus that also works as a new origin for the Foot Clan "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "8ffd2e8fa854"
-    },
-    {
-      "id": "b7234f1dd64c",
-      "title": "Taylor Sheridan Just Turned Landman Season 2 Into a Yellowstone Spinoff",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/landman-season-2-episode-10-ctt-oil-exploration-cattle-yellowstone-similarity/",
-      "published_at": "Mon, 19 Jan 2026 04:41:16 GMT",
-      "bullets": [
-        "• Billy Bob Thornton’s Landman Season 2, Episode 10, “Tragedy and Flies,” premiered on Paramount+ on January 18, 2026",
-        "• In the finale of the series, Tommy Norris (Thornton) forms CTT Oil Exploration and Cattle",
-        "• The development follows Cami Miller (Demi Moore) firing Tommy in the penultimate episode, leaving him jobless "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Billy Bob Thornton’s Landman Season 2, Episode 10, “Tragedy and Flies,” premiered on Paramount+ on January 18, 2026",
-          "• In the finale of the series, Tommy Norris (Thornton) forms CTT Oil Exploration and Cattle"
-        ],
-        "hopeful_bullets": [
-          "• Billy Bob Thornton’s Landman Season 2, Episode 10, “Tragedy and Flies,” premiered on Paramount+ on January 18, 2026",
-          "• In the finale of the series, Tommy Norris (Thornton) forms CTT Oil Exploration and Cattle"
-        ],
-        "stakes_bullets": [
-          "• Billy Bob Thornton’s Landman Season 2, Episode 10, “Tragedy and Flies,” premiered on Paramount+ on January 18, 2026"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c48b2d4b2a52"
     },
     {
       "id": "80b4e94c5d3e",
@@ -9195,6 +9163,60 @@
       ]
     },
     {
+      "id": "746374ace5b0",
+      "topic": "dispute getting greenland link",
+      "keywords": [
+        "dispute",
+        "getting",
+        "greenland",
+        "link",
+        "nobel",
+        "trump"
+      ],
+      "item_ids": [
+        "9978e9745bdc"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "40cab49c94df",
+      "topic": "bar deadly fire lawyer",
+      "keywords": [
+        "bar",
+        "deadly",
+        "fire",
+        "lawyer",
+        "owner",
+        "swis"
+      ],
+      "item_ids": [
+        "c3fd4fc2c3f8"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "a558eb9b5b22",
+      "topic": "injured man seriously shark",
+      "keywords": [
+        "injured",
+        "man",
+        "seriously",
+        "shark",
+        "sydney",
+        "third"
+      ],
+      "item_ids": [
+        "daf0e6502413"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "3c2b29b7c980",
       "topic": "believe chief international law",
       "keywords": [
@@ -9213,36 +9235,36 @@
       ]
     },
     {
-      "id": "a857ad6d8e7c",
-      "topic": "global imf risk tension",
+      "id": "34dc99cab6c2",
+      "topic": "bus collide killed lorry",
       "keywords": [
-        "global",
-        "imf",
-        "risk",
-        "tension",
-        "trade",
-        "warn"
+        "bus",
+        "collide",
+        "killed",
+        "lorry",
+        "schoolchildren",
+        "thirteen"
       ],
       "item_ids": [
-        "6381721fdc18"
+        "1f1924f31c01"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "746374ace5b0",
-      "topic": "dispute getting greenland link",
+      "id": "ab7bddfd4966",
+      "topic": "accused arrest cyber ghana",
       "keywords": [
-        "dispute",
-        "getting",
-        "greenland",
-        "link",
-        "nobel",
-        "trump"
+        "accused",
+        "arrest",
+        "cyber",
+        "ghana",
+        "nigerian",
+        "running"
       ],
       "item_ids": [
-        "9978e9745bdc"
+        "3ca37080eaec"
       ],
       "outlets": [
         "BBC News"
@@ -9267,72 +9289,18 @@
       ]
     },
     {
-      "id": "9048db42a7fc",
-      "topic": "birth china hits low",
+      "id": "a857ad6d8e7c",
+      "topic": "global imf risk tension",
       "keywords": [
-        "birth",
-        "china",
-        "hits",
-        "low",
-        "rate",
-        "record"
+        "global",
+        "imf",
+        "risk",
+        "tension",
+        "trade",
+        "warn"
       ],
       "item_ids": [
-        "0ae416508b28"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "41e2cce82596",
-      "topic": "african help politician search",
-      "keywords": [
-        "african",
-        "help",
-        "politician",
-        "search",
-        "south",
-        "team"
-      ],
-      "item_ids": [
-        "15196eed9ec1"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "cf5e23d5e5f2",
-      "topic": "chao look marred senegal",
-      "keywords": [
-        "chao",
-        "look",
-        "marred",
-        "senegal",
-        "shameful",
-        "terrible"
-      ],
-      "item_ids": [
-        "5d8210d672e8"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "a44f6c5104e5",
-      "topic": "blackmailed danish europe trump",
-      "keywords": [
-        "blackmailed",
-        "danish",
-        "europe",
-        "trump",
-        "wake",
-        "won"
-      ],
-      "item_ids": [
-        "27c79807f3c8"
+        "6381721fdc18"
       ],
       "outlets": [
         "BBC News"
@@ -9519,6 +9487,24 @@
       ]
     },
     {
+      "id": "bd3079f232cb",
+      "topic": "historic jumped protest since",
+      "keywords": [
+        "historic",
+        "jumped",
+        "protest",
+        "since",
+        "time",
+        "very"
+      ],
+      "item_ids": [
+        "e0e03587e349"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "0e23c0522d4c",
       "topic": "advocate epstein expres outrage",
       "keywords": [
@@ -9662,24 +9648,6 @@
       ]
     },
     {
-      "id": "3d521bc0cd5f",
-      "topic": "500 minnesota pentagon potential",
-      "keywords": [
-        "500",
-        "minnesota",
-        "pentagon",
-        "potential",
-        "readie",
-        "troop"
-      ],
-      "item_ids": [
-        "a7cefe82e71a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "f3f2e42bb28d",
       "topic": "fall gold high hit",
       "keywords": [
@@ -9695,6 +9663,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "d49ca3e41073",
+      "topic": "greenland nobel peace perceived",
+      "keywords": [
+        "greenland",
+        "nobel",
+        "peace",
+        "perceived",
+        "pursuing",
+        "trump"
+      ],
+      "item_ids": [
+        "c09e05301cb0"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9728,6 +9714,24 @@
       ],
       "item_ids": [
         "2c1f771b4351"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "dd7b0986d969",
+      "topic": "aging anti exercise fend",
+      "keywords": [
+        "aging",
+        "anti",
+        "exercise",
+        "fend",
+        "inflammatorie",
+        "off"
+      ],
+      "item_ids": [
+        "c46a9edde5c3"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9770,24 +9774,6 @@
       ]
     },
     {
-      "id": "dd7b0986d969",
-      "topic": "aging anti exercise fend",
-      "keywords": [
-        "aging",
-        "anti",
-        "exercise",
-        "fend",
-        "inflammatorie",
-        "off"
-      ],
-      "item_ids": [
-        "c46a9edde5c3"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "dc05d2bcab71",
       "topic": "collision dead least rescuer",
       "keywords": [
@@ -9800,24 +9786,6 @@
       ],
       "item_ids": [
         "75cb09f03ff8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "b99643443b55",
-      "topic": "against american angele iranian",
-      "keywords": [
-        "against",
-        "american",
-        "angele",
-        "iranian",
-        "los",
-        "march"
-      ],
-      "item_ids": [
-        "669c1a96fe38"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9932,24 +9900,6 @@
       ]
     },
     {
-      "id": "3b55fcf0e654",
-      "topic": "board invited join peace",
-      "keywords": [
-        "board",
-        "invited",
-        "join",
-        "peace",
-        "putin",
-        "trump"
-      ],
-      "item_ids": [
-        "63a8924a4386"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "25f4abaaaee7",
       "topic": "chase debanking jpmorgan sue",
       "keywords": [
@@ -9968,18 +9918,36 @@
       ]
     },
     {
-      "id": "1f38ee56c34f",
-      "topic": "defuse greenland look magic",
+      "id": "3b55fcf0e654",
+      "topic": "board invited join peace",
       "keywords": [
-        "defuse",
-        "greenland",
-        "look",
-        "magic",
-        "trump",
-        "work"
+        "board",
+        "invited",
+        "join",
+        "peace",
+        "putin",
+        "trump"
       ],
       "item_ids": [
-        "d8926df6b302"
+        "63a8924a4386"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a3bdce06b2c5",
+      "topic": "bill block democrat investor",
+      "keywords": [
+        "bill",
+        "block",
+        "democrat",
+        "investor",
+        "khanna",
+        "refloat"
+      ],
+      "item_ids": [
+        "d03d89ab1644"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10997,24 +10965,6 @@
       ]
     },
     {
-      "id": "0a62106a0201",
-      "topic": "nobel politic poll possession",
-      "keywords": [
-        "nobel",
-        "politic",
-        "poll",
-        "possession",
-        "trump",
-        "week"
-      ],
-      "item_ids": [
-        "b3ba11d93d7a"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "ae82da00304d",
       "topic": "2024 decision democrat kyrsten",
       "keywords": [
@@ -11667,6 +11617,24 @@
       ]
     },
     {
+      "id": "a99efd83880e",
+      "topic": "horror survival survive upcoming",
+      "keywords": [
+        "horror",
+        "survival",
+        "survive",
+        "upcoming",
+        "whatever",
+        "wood"
+      ],
+      "item_ids": [
+        "dfdad150981b"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "a83a3ac5d32c",
       "topic": "adaptation five game horror",
       "keywords": [
@@ -11826,24 +11794,6 @@
       ],
       "item_ids": [
         "bce5f79be4f8"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "3ce3ee660e41",
-      "topic": "exorcist flanagan march mike",
-      "keywords": [
-        "exorcist",
-        "flanagan",
-        "march",
-        "mike",
-        "releasing",
-        "theater"
-      ],
-      "item_ids": [
-        "338ce4857614"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13139,6 +13089,59 @@
       ]
     },
     {
+      "id": "00300ab8ab81",
+      "topic": "already defeated game hbo",
+      "keywords": [
+        "already",
+        "defeated",
+        "game",
+        "hbo",
+        "spinoff",
+        "throne"
+      ],
+      "item_ids": [
+        "c9d702e8da91"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "bcf9485696c1",
+      "topic": "bathroom crude far scene",
+      "keywords": [
+        "bathroom",
+        "crude",
+        "far",
+        "scene",
+        "showrunner",
+        "too"
+      ],
+      "item_ids": [
+        "0817d96fc5ab"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "526c86be01cb",
+      "topic": "2026 comic heroe marvel",
+      "keywords": [
+        "2026",
+        "comic",
+        "heroe",
+        "marvel",
+        "need"
+      ],
+      "item_ids": [
+        "c455618e5b74"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "d6ba602ee447",
       "topic": "adventure begin exclusive preview",
       "keywords": [
@@ -13258,60 +13261,6 @@
       ],
       "item_ids": [
         "54076c3a6e46"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cfc8feeded11",
-      "topic": "back criticism hits returning",
-      "keywords": [
-        "back",
-        "criticism",
-        "hits",
-        "returning",
-        "star",
-        "trek"
-      ],
-      "item_ids": [
-        "3b77397d4b50"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8ffd2e8fa854",
-      "topic": "fight mutant ninja teenage",
-      "keywords": [
-        "fight",
-        "mutant",
-        "ninja",
-        "teenage",
-        "try",
-        "turtle"
-      ],
-      "item_ids": [
-        "b4b5cd2aef41"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c48b2d4b2a52",
-      "topic": "just landman season sheridan",
-      "keywords": [
-        "just",
-        "landman",
-        "season",
-        "sheridan",
-        "taylor",
-        "turned"
-      ],
-      "item_ids": [
-        "b7234f1dd64c"
       ],
       "outlets": [
         "CBR"
