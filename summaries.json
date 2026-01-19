@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T07:25:56Z",
+  "generated_at": "2026-01-19T09:15:42Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -434,6 +434,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "fb6244505c3f"
+    },
+    {
+      "id": "2a35684bfdc7",
+      "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/14/world-economic-forum-2026-global-risks-report.html",
+      "published_at": "Wed, 14 Jan 2026 12:25:40 GMT",
+      "bullets": [
+        "• Global power rivalries and strategic standoffs top the list of most severe near-term risks heading into 2026",
+        "• Half of business executives and other leaders surveyed said they expect turbulent times over the next two years",
+        "• The resulting picture is one of the world \"sitting on a precipice,\" the World Economic Forum report says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Global power rivalries and strategic standoffs top the list of most severe near-term risks heading into 2026",
+          "• Half of business executives and other leaders surveyed said they expect turbulent times over the next two years"
+        ],
+        "hopeful_bullets": [
+          "• Global power rivalries and strategic standoffs top the list of most severe near-term risks heading into 2026",
+          "• Half of business executives and other leaders surveyed said they expect turbulent times over the next two years"
+        ],
+        "stakes_bullets": [
+          "• Global power rivalries and strategic standoffs top the list of most severe near-term risks heading into 2026",
+          "• Half of business executives and other leaders surveyed said they expect turbulent times over the next two years",
+          "• The resulting picture is one of the world \"sitting on a precipice,\" the World Economic Forum report says "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "04abfb7f65cc"
     },
     {
       "id": "c541b2cf92f2",
@@ -2326,38 +2360,6 @@
       "cluster_id": "f103886ffc77"
     },
     {
-      "id": "9f5d07f5d4b5",
-      "title": "Why South Korean noodle companies are betting on an overseas appetite for growth",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/south-korea-instant-noodles-ramyun-food-ramyeon-nongshim-samyang-buldak-ottogi-jin-ramen.html",
-      "published_at": "Sun, 18 Jan 2026 23:14:02 GMT",
-      "bullets": [
-        "• Exports of \"K-Food+\" surged to a record $13.62 billion in 2025",
-        "• Instant noodles, or ramyeon, were the standout",
-        "• The massive appeal of K-pop and Korean television dramas has helped fuel demand "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Exports of \"K-Food+\" surged to a record $13.62 billion in 2025",
-          "• Instant noodles, or ramyeon, were the standout"
-        ],
-        "hopeful_bullets": [
-          "• Exports of \"K-Food+\" surged to a record $13.62 billion in 2025",
-          "• The massive appeal of K-pop and Korean television dramas has helped fuel demand "
-        ],
-        "stakes_bullets": [
-          "• Exports of \"K-Food+\" surged to a record $13.62 billion in 2025"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "79a10b34d569"
-    },
-    {
       "id": "679249b3947d",
       "title": "Justice department ‘not investigating’ Renee Good killing in contrast to 2020 inquiry on George Floyd death",
       "outlet": "US news | The Guardian",
@@ -2658,36 +2660,37 @@
     },
     {
       "id": "75cb09f03ff8",
-      "title": "High-speed trains collide after one derails in southern Spain, killing at least 21",
+      "title": "At least 39 dead in Spain train collision as rescuers search for more bodies",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2026/01/18/nx-s1-5681493/spain-train-derailment",
       "published_at": "Sun, 18 Jan 2026 19:58:40 -0500",
       "bullets": [
-        "• The tail end of an evening train between Malaga and Madrid with some 300 passengers went off the rails near Córdoba",
-        "• It slammed into a train with some 200 passengers coming from Madrid to Huelva",
-        "• Spain's Transport Minister Óscar Puente updated the death toll to 21 confirmed victims after midnight",
-        "• Puente said there could be more victims still to be confirmed "
+        "• The tail end of a train traveling between Malaga and Madrid with some 300 passengers went off the rails",
+        "• It slammed into a train coming from Madrid to Huelva, another southern Spanish city",
+        "• 75 passengers were hospitalized, with most taken to Cordoba, about 390 kilometers (242 miles) south of Madrid "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The tail end of an evening train between Malaga and Madrid with some 300 passengers went off the rails near Córdoba",
-          "• It slammed into a train with some 200 passengers coming from Madrid to Huelva"
+          "• The tail end of a train traveling between Malaga and Madrid with some 300 passengers went off the rails",
+          "• It slammed into a train coming from Madrid to Huelva, another southern Spanish city"
         ],
         "hopeful_bullets": [
-          "• The tail end of an evening train between Malaga and Madrid with some 300 passengers went off the rails near Córdoba",
-          "• It slammed into a train with some 200 passengers coming from Madrid to Huelva"
+          "• The tail end of a train traveling between Malaga and Madrid with some 300 passengers went off the rails",
+          "• It slammed into a train coming from Madrid to Huelva, another southern Spanish city"
         ],
         "stakes_bullets": [
-          "• Puente said there could be more victims still to be confirmed "
+          "• The tail end of a train traveling between Malaga and Madrid with some 300 passengers went off the rails",
+          "• It slammed into a train coming from Madrid to Huelva, another southern Spanish city",
+          "• 75 passengers were hospitalized, with most taken to Cordoba, about 390 kilometers (242 miles) south of Madrid "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "cf90e8b5a5c1"
+      "read_minutes": 2,
+      "cluster_id": "dc05d2bcab71"
     },
     {
       "id": "89a629214f99",
@@ -3189,40 +3192,6 @@
       "cluster_id": "871b538f0337"
     },
     {
-      "id": "21803038b016",
-      "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn't sold to the U.S.",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html",
-      "published_at": "Sun, 18 Jan 2026 15:17:16 GMT",
-      "bullets": [
-        "• U.S",
-        "• President Donald Trump says tariffs will start at 10% on Feb",
-        "• 1, then go up to 25% on June 1",
-        "• The tariffs target Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands and Finland",
-        "• Trump's demands now threaten the EU-U.S trade agreement struck in August"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump says tariffs will start at 10% on Feb"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump says tariffs will start at 10% on Feb"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says tariffs will start at 10% on Feb"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "feab3c05a5b8"
-    },
-    {
       "id": "a42a9cdd6852",
       "title": "European leaders warn Trump's Greenland tariffs threaten 'dangerous downward spiral'",
       "outlet": "NPR Topics: News",
@@ -3555,6 +3524,38 @@
       },
       "read_minutes": 8,
       "cluster_id": "5e4d16ef76bd"
+    },
+    {
+      "id": "1e04445f4961",
+      "title": "Global week ahead: Hopes that cooler heads can prevail in Davos",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/18/trump-davos.html",
+      "published_at": "Sun, 18 Jan 2026 11:45:28 GMT",
+      "bullets": [
+        "• Davos is CNBC's biggest outside broadcast of the year, and it's still thrilling to attend",
+        "• The heady combination of world leaders, the most powerful players in business and a splash of celebrity makes for a unique experience",
+        "• The tension between countries that call themselves allies is palpable going into this meeting "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Davos is CNBC's biggest outside broadcast of the year, and it's still thrilling to attend",
+          "• The heady combination of world leaders, the most powerful players in business and a splash of celebrity makes for a unique experience"
+        ],
+        "hopeful_bullets": [
+          "• Davos is CNBC's biggest outside broadcast of the year, and it's still thrilling to attend",
+          "• The heady combination of world leaders, the most powerful players in business and a splash of celebrity makes for a unique experience"
+        ],
+        "stakes_bullets": [
+          "• The heady combination of world leaders, the most powerful players in business and a splash of celebrity makes for a unique experience"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "22b0a1ad214f"
     },
     {
       "id": "73831cb14969",
@@ -4857,38 +4858,6 @@
       "cluster_id": "5153846b189b"
     },
     {
-      "id": "4d18efc3aac2",
-      "title": "7 Best Mesh Wi-Fi Systems (2026), Tested in a Tech Reviewer's Home",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
-      "published_at": "Sat, 17 Jan 2026 11:30:00 +0000",
-      "bullets": [
-        "• Mesh routers promise dependable Wi-Fi throughout your home",
-        "• Netgear Orbi 770 Series is Netgear's top pick for most people",
-        "• But there are many alternatives to suit different homes and internet connections",
-        "• Our guide on how to choose a router will help you answer that question "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mesh routers promise dependable Wi-Fi throughout your home",
-          "• Netgear Orbi 770 Series is Netgear's top pick for most people"
-        ],
-        "hopeful_bullets": [
-          "• Our guide on how to choose a router will help you answer that question "
-        ],
-        "stakes_bullets": [
-          "• Our guide on how to choose a router will help you answer that question "
-        ]
-      },
-      "read_minutes": 44,
-      "cluster_id": "d5a218596458"
-    },
-    {
       "id": "7660916c74e7",
       "title": "As Artificial Stone Countertops Kill Workers, House Republicans Discuss Protections—for Manufacturers",
       "outlet": "Inside Climate News",
@@ -5814,6 +5783,239 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "65c753643e1f",
+      "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
+      "published_at": "Mon, 19 Jan 2026 08:48:01 GMT",
+      "bullets": [
+        "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+        "• President Donald Trump threatened fresh export levies, deepening a rift over Greenland",
+        "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb",
+        "• 1 and rising to 25% on June 1 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+          "• President Donald Trump threatened fresh export levies, deepening a rift over Greenland"
+        ],
+        "hopeful_bullets": [
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S"
+        ],
+        "stakes_bullets": [
+          "• EU considering retaliatory tariffs and broader punitive economic counter-measures against the U.S",
+          "• President Donald Trump threatened fresh export levies, deepening a rift over Greenland",
+          "• Trump announced Saturday that eight European countries would face increasing tariffs, starting at 10% on Feb"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8cb3f7a8b60e"
+    },
+    {
+      "id": "8082ec9e1f61",
+      "title": "European markets fall after Trump's Greenland tariffs threat; autos and luxury sell off",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/european-markets-stoxx-600-ftse-dax-cac-davos-wef-week.html",
+      "published_at": "Mon, 19 Jan 2026 08:35:42 GMT",
+      "bullets": [
+        "• The pan-European Stoxx 600 had fallen about 0.8% shortly just before 8:30 a.m",
+        "• in London",
+        "• The morning market slump comes after Trump announced on Saturday that eight European allies would face increasing tariffs, starting at 10% on Feb",
+        "• 1 and rising to 25% on June 1",
+        "• European leaders said the tariffs were \"unacceptable\" and vowed to stand behind Denmark "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The pan-European Stoxx 600 had fallen about 0.8% shortly just before 8:30 a.m",
+          "• in London"
+        ],
+        "hopeful_bullets": [
+          "• The pan-European Stoxx 600 had fallen about 0.8% shortly just before 8:30 a.m",
+          "• in London"
+        ],
+        "stakes_bullets": [
+          "• European leaders said the tariffs were \"unacceptable\" and vowed to stand behind Denmark "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1c63174f4af5"
+    },
+    {
+      "id": "889d592e7851",
+      "title": "Auto giant shares tumble on Trump’s tariff threat over Greenland",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/19/trump-tariffs-autos-greenland-volkswagen-stellantis.html",
+      "published_at": "Mon, 19 Jan 2026 08:26:24 GMT",
+      "bullets": [
+        "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
+        "• GMT",
+        "• Germany's Volkswagen, BMW, and Mercedes-Benz Group were trading between 2.5% to 4% lower",
+        "• Milan-listed shares of Ferrari dipped around 2% in early deals "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
+          "• GMT"
+        ],
+        "hopeful_bullets": [
+          "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
+          "• GMT"
+        ],
+        "stakes_bullets": [
+          "• Europe's Stoxx Automobiles and Parts index traded 2.3% lower at around 8:18 a.m",
+          "• GMT",
+          "• Germany's Volkswagen, BMW, and Mercedes-Benz Group were trading between 2.5% to 4% lower"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bb407913ec61"
+    },
+    {
+      "id": "48070bb73339",
+      "title": "High-speed train crash in Spain kills at least 39",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 08:20:42 GMT",
+      "bullets": [
+        "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
+        "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train",
+        "• Emergency services treated 122 people, with 48, including five children, still in hospital "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
+          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train"
+        ],
+        "hopeful_bullets": [
+          "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
+          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train"
+        ],
+        "stakes_bullets": [
+          "• At least 39 people killed and dozens injured in Spain's worst rail crash in more than a decade",
+          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks, colliding with an oncoming train",
+          "• Emergency services treated 122 people, with 48, including five children, still in hospital "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9578f442b089"
+    },
+    {
+      "id": "27c79807f3c8",
+      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 07:15:40 GMT",
+      "bullets": [
+        "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
+        "• The US president has threatened to impose a 10% levy on goods from eight allied nations",
+        "• Trump has previously said Washington would get the territory \"the easy way\" or \"the hard way\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.898
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
+          "• The US president has threatened to impose a 10% levy on goods from eight allied nations"
+        ],
+        "hopeful_bullets": [
+          "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
+          "• The US president has threatened to impose a 10% levy on goods from eight allied nations"
+        ],
+        "stakes_bullets": [
+          "• Danish PM says 'Europe won't be blackmailed' by Donald Trump's threats over Greenland",
+          "• The US president has threatened to impose a 10% levy on goods from eight allied nations",
+          "• Trump has previously said Washington would get the territory \"the easy way\" or \"the hard way\""
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a44f6c5104e5"
+    },
+    {
+      "id": "0ae416508b28",
+      "title": "China's population falls for fourth straight year",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79r7v7qr53o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 19 Jan 2026 07:12:01 GMT",
+      "bullets": [
+        "• China's population fell 3.39 million to reach 1.4 billion by the end of 2025",
+        "• Birth rate fell to 5.63 per 1,000 people – a record low since 1949",
+        "• Beijing has been trying hard to encourage more young people to marry and have children "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China's population fell 3.39 million to reach 1.4 billion by the end of 2025",
+          "• Birth rate fell to 5.63 per 1,000 people – a record low since 1949"
+        ],
+        "hopeful_bullets": [
+          "• Birth rate fell to 5.63 per 1,000 people – a record low since 1949"
+        ],
+        "stakes_bullets": [
+          "• China's population fell 3.39 million to reach 1.4 billion by the end of 2025"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "38ca33aeb2d5"
+    },
+    {
+      "id": "e1e9829f04bb",
+      "title": "The Race to Build the DeepSeek of Europe Is On",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
+      "published_at": "Mon, 19 Jan 2026 07:00:00 +0000",
+      "bullets": [
+        "• The relationship between the US and its European allies shows signs of strain, AI labs across the continent are searching for inventive ways to close the gap with American rivals that have so far dominated the field",
+        "• The belief in some quarters is that the US-based leaders are already so entrenched as to make it impossible for European nations to break their dependency on American AI "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.868
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The relationship between the US and its European allies shows signs of strain, AI labs across the continent are searching for inventive ways to close the gap with American rivals that have so far dominated the field",
+          "• The belief in some quarters is that the US-based leaders are already so entrenched as to make it impossible for European nations to break their dependency on American AI "
+        ],
+        "hopeful_bullets": [
+          "• The relationship between the US and its European allies shows signs of strain, AI labs across the continent are searching for inventive ways to close the gap with American rivals that have so far dominated the field",
+          "• The belief in some quarters is that the US-based leaders are already so entrenched as to make it impossible for European nations to break their dependency on American AI "
+        ],
+        "stakes_bullets": [
+          "• The belief in some quarters is that the US-based leaders are already so entrenched as to make it impossible for European nations to break their dependency on American AI "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2e300569b2cd"
+    },
+    {
       "id": "6db186b3ea7b",
       "title": "US believes its power matters more than international law, UN chief tells BBC",
       "outlet": "BBC News",
@@ -5848,170 +6050,38 @@
       "cluster_id": "3c2b29b7c980"
     },
     {
-      "id": "27c79807f3c8",
-      "title": "'Europe won't be blackmailed,' Danish PM says says in wake of Trump Greenland threats",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 06:02:59 GMT",
-      "bullets": [
-        "• 'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-        "• US president has said he will impose new taxes on eight US allies in February if they oppose his proposed takeover of Greenland",
-        "• Trump insists Greenland is critical for US security and has not ruled out taking it by force",
-        "• Denmark, Finland, France, Germany, the Netherlands, Norway, Sweden and the UK "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-          "• US president has said he will impose new taxes on eight US allies in February if they oppose his proposed takeover of Greenland"
-        ],
-        "hopeful_bullets": [
-          "• 'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-          "• US president has said he will impose new taxes on eight US allies in February if they oppose his proposed takeover of Greenland"
-        ],
-        "stakes_bullets": [
-          "• US president has said he will impose new taxes on eight US allies in February if they oppose his proposed takeover of Greenland"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a44f6c5104e5"
-    },
-    {
-      "id": "00cbb00693e8",
-      "title": "China birthrate shrinks to lowest on record as policies fail to to lift births",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/china-birthrate-record-low-aging-population-fertility-crisis.html",
-      "published_at": "Mon, 19 Jan 2026 05:59:55 GMT",
-      "bullets": [
-        "• China's birthrate fell to a record low last year, underscoring a deepening demographic crisis",
-        "• Beijing's efforts to encourage larger families through widening subsidies and expanded parental leave",
-        "• Beijing has rolled out various incentives, including cash rewards and tax breaks for households with children under age 3 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's birthrate fell to a record low last year, underscoring a deepening demographic crisis",
-          "• Beijing's efforts to encourage larger families through widening subsidies and expanded parental leave"
-        ],
-        "hopeful_bullets": [
-          "• China's birthrate fell to a record low last year, underscoring a deepening demographic crisis"
-        ],
-        "stakes_bullets": [
-          "• Beijing's efforts to encourage larger families through widening subsidies and expanded parental leave"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e9ea6398caf9"
-    },
-    {
       "id": "37e30de8bd90",
       "title": "Sydney Harbour shark attack: second incident in two days as police warn against swimming",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jan/19/sydney-shark-attack-boy-nielsen-park-water-conditions",
       "published_at": "Mon, 19 Jan 2026 05:56:35 GMT",
       "bullets": [
-        "• A 12-year-old boy is in for the ‘fight of his life’ after being attacked by a large shark in Sydney Harbour on Sunday afternoon",
-        "• The boy was jumping off a popular rock ledge with friends when the incident took place",
-        "• His friends, all of similar ages, rushed to assist him, with at least one jumping into the water to pull him out "
+        "• A 12-year-old boy was pulled from the water by a large shark on Sunday",
+        "• The incident happened at around 4.20pm in Sydney’s south coast",
+        "• The victim was pulled to safety by a group of friends who jumped into the water "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.98
+        "score": 0.987
       },
       "moods": {
         "brief_bullets": [
-          "• A 12-year-old boy is in for the ‘fight of his life’ after being attacked by a large shark in Sydney Harbour on Sunday afternoon",
-          "• The boy was jumping off a popular rock ledge with friends when the incident took place"
+          "• A 12-year-old boy was pulled from the water by a large shark on Sunday",
+          "• The incident happened at around 4.20pm in Sydney’s south coast"
         ],
         "hopeful_bullets": [
-          "• A 12-year-old boy is in for the ‘fight of his life’ after being attacked by a large shark in Sydney Harbour on Sunday afternoon",
-          "• The boy was jumping off a popular rock ledge with friends when the incident took place"
+          "• A 12-year-old boy was pulled from the water by a large shark on Sunday",
+          "• The incident happened at around 4.20pm in Sydney’s south coast"
         ],
         "stakes_bullets": [
-          "• A 12-year-old boy is in for the ‘fight of his life’ after being attacked by a large shark in Sydney Harbour on Sunday afternoon",
-          "• The boy was jumping off a popular rock ledge with friends when the incident took place",
-          "• His friends, all of similar ages, rushed to assist him, with at least one jumping into the water to pull him out "
+          "• A 12-year-old boy was pulled from the water by a large shark on Sunday",
+          "• The incident happened at around 4.20pm in Sydney’s south coast",
+          "• The victim was pulled to safety by a group of friends who jumped into the water "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "139a00d3e430"
-    },
-    {
-      "id": "48070bb73339",
-      "title": "High-speed train collision in Spain kills at least 21",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 05:34:39 GMT",
-      "bullets": [
-        "• At least 21 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-        "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks",
-        "• Four children among those seriously injured in the crash in Adamuz, near Córdoba "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 21 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks"
-        ],
-        "hopeful_bullets": [
-          "• At least 21 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks"
-        ],
-        "stakes_bullets": [
-          "• At least 21 people killed and dozens injured in Spain's worst rail crash in more than a decade",
-          "• Carriages on a Madrid-bound train derailed and crossed over to the opposite tracks",
-          "• Four children among those seriously injured in the crash in Adamuz, near Córdoba "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "cd50cc54ead6"
-    },
-    {
-      "id": "6dce3e9d184e",
-      "title": "Fourteen dead, dozens missing in massive Pakistan mall fire",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 19 Jan 2026 05:22:01 GMT",
-      "bullets": [
-        "• Fourteen dead, dozens missing in massive fire that tore through a shopping centre in Pakistan's largest city",
-        "• It took firefighters more than 24 hours to put out the blaze in Gul Plaza that started Saturday night",
-        "• The building housed 1,200 stores and spanned 8,000 sq m (86,111 sq ft)"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fourteen dead, dozens missing in massive fire that tore through a shopping centre in Pakistan's largest city",
-          "• It took firefighters more than 24 hours to put out the blaze in Gul Plaza that started Saturday night"
-        ],
-        "hopeful_bullets": [
-          "• Fourteen dead, dozens missing in massive fire that tore through a shopping centre in Pakistan's largest city",
-          "• It took firefighters more than 24 hours to put out the blaze in Gul Plaza that started Saturday night"
-        ],
-        "stakes_bullets": [
-          "• Fourteen dead, dozens missing in massive fire that tore through a shopping centre in Pakistan's largest city",
-          "• It took firefighters more than 24 hours to put out the blaze in Gul Plaza that started Saturday night",
-          "• The building housed 1,200 stores and spanned 8,000 sq m (86,111 sq ft)"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4daa25007dc3"
     },
     {
       "id": "da140f3bbd5b",
@@ -6480,40 +6550,6 @@
       "cluster_id": "a14905374526"
     },
     {
-      "id": "b5a7f9ba9d5e",
-      "title": "What the U.S.-Taiwan deal means for the island's 'silicon shield'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/us-taiwan-chip-deal-silicon-shield-tsmc-trump-tapei-ai-semiconductor-supply-chain.html",
-      "published_at": "Mon, 19 Jan 2026 01:38:58 GMT",
-      "bullets": [
-        "• Taiwan Semiconductor Manufacturing Company produces most of the world's advanced semiconductors",
-        "• Nearly one-third of global demand for new computing power is estimated to be fabricated in Taiwan",
-        "• The island's central role in the global semiconductor supply chain has made preserving its de facto autonomy a strategic priority for the U.S"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.948
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company produces most of the world's advanced semiconductors",
-          "• Nearly one-third of global demand for new computing power is estimated to be fabricated in Taiwan"
-        ],
-        "hopeful_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company produces most of the world's advanced semiconductors",
-          "• Nearly one-third of global demand for new computing power is estimated to be fabricated in Taiwan"
-        ],
-        "stakes_bullets": [
-          "• Taiwan Semiconductor Manufacturing Company produces most of the world's advanced semiconductors",
-          "• Nearly one-third of global demand for new computing power is estimated to be fabricated in Taiwan",
-          "• The island's central role in the global semiconductor supply chain has made preserving its de facto autonomy a strategic priority for the U.S"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "11c66ff5f010"
-    },
-    {
       "id": "f69105e72d78",
       "title": "Trump news at a glance: EU weighs up economic sanctions against US after Trump’s tariff threats",
       "outlet": "US news | The Guardian",
@@ -6579,40 +6615,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "490afbfb0db3"
-    },
-    {
-      "id": "5ecf1a973ec9",
-      "title": "Billionaires have ‘outsized’ political influence — and they’re richer than ever, says Oxfam",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/19/billionaires-richer-than-ever-oxfam-inequality-report.html",
-      "published_at": "Mon, 19 Jan 2026 00:03:40 GMT",
-      "bullets": [
-        "• The number of billionaires in the world has risen to $18.3 trillion",
-        "• The figure is more than 16% higher than last year",
-        "• The rise is due to increase in the number of people who want to make money from their wealth",
-        "• The world's richest people want to use their wealth to raise money for themselves "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The number of billionaires in the world has risen to $18.3 trillion",
-          "• The figure is more than 16% higher than last year"
-        ],
-        "hopeful_bullets": [
-          "• The number of billionaires in the world has risen to $18.3 trillion",
-          "• The figure is more than 16% higher than last year"
-        ],
-        "stakes_bullets": [
-          "• The number of billionaires in the world has risen to $18.3 trillion",
-          "• The rise is due to increase in the number of people who want to make money from their wealth"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "28bd1a07cfba"
     },
     {
       "id": "4fb07c157a85",
@@ -9281,10 +9283,10 @@
   ],
   "clusters": [
     {
-      "id": "cd50cc54ead6",
-      "topic": "collision high kill spain",
+      "id": "9578f442b089",
+      "topic": "crash high kill spain",
       "keywords": [
-        "collision",
+        "crash",
         "high",
         "kill",
         "spain",
@@ -9353,24 +9355,6 @@
       ]
     },
     {
-      "id": "43322d6db3d6",
-      "topic": "back executive israel pick",
-      "keywords": [
-        "back",
-        "executive",
-        "israel",
-        "pick",
-        "pushe",
-        "trump"
-      ],
-      "item_ids": [
-        "9218a4321f41"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "490afbfb0db3",
       "topic": "china explosion factory injure",
       "keywords": [
@@ -9400,6 +9384,24 @@
       ],
       "item_ids": [
         "44902753643c"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "38ca33aeb2d5",
+      "topic": "china fall fourth population",
+      "keywords": [
+        "china",
+        "fall",
+        "fourth",
+        "population",
+        "straight",
+        "year"
+      ],
+      "item_ids": [
+        "0ae416508b28"
       ],
       "outlets": [
         "BBC News"
@@ -9442,18 +9444,18 @@
       ]
     },
     {
-      "id": "4daa25007dc3",
-      "topic": "dead dozen fourteen massive",
+      "id": "43322d6db3d6",
+      "topic": "back executive israel pick",
       "keywords": [
-        "dead",
-        "dozen",
-        "fourteen",
-        "massive",
-        "missing",
-        "pakistan"
+        "back",
+        "executive",
+        "israel",
+        "pick",
+        "pushe",
+        "trump"
       ],
       "item_ids": [
-        "6dce3e9d184e"
+        "9218a4321f41"
       ],
       "outlets": [
         "BBC News"
@@ -9820,14 +9822,14 @@
       ]
     },
     {
-      "id": "cf90e8b5a5c1",
-      "topic": "collide derail high southern",
+      "id": "dc05d2bcab71",
+      "topic": "collision dead least rescuer",
       "keywords": [
-        "collide",
-        "derail",
-        "high",
-        "southern",
-        "speed",
+        "collision",
+        "dead",
+        "least",
+        "rescuer",
+        "spain",
         "train"
       ],
       "item_ids": [
@@ -10000,18 +10002,18 @@
       ]
     },
     {
-      "id": "feab3c05a5b8",
-      "topic": "european face nation rising",
+      "id": "8cb3f7a8b60e",
+      "topic": "against bazooka europe trade",
       "keywords": [
-        "european",
-        "face",
-        "nation",
-        "rising",
-        "tariff",
-        "trump"
+        "against",
+        "bazooka",
+        "europe",
+        "trade",
+        "using",
+        "weigh"
       ],
       "item_ids": [
-        "21803038b016"
+        "65c753643e1f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10054,6 +10056,78 @@
       ]
     },
     {
+      "id": "1c63174f4af5",
+      "topic": "european fall greenland market",
+      "keywords": [
+        "european",
+        "fall",
+        "greenland",
+        "market",
+        "tariff",
+        "trump"
+      ],
+      "item_ids": [
+        "8082ec9e1f61"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "bb407913ec61",
+      "topic": "auto giant share tariff",
+      "keywords": [
+        "auto",
+        "giant",
+        "share",
+        "tariff",
+        "trump",
+        "tumble"
+      ],
+      "item_ids": [
+        "889d592e7851"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "22b0a1ad214f",
+      "topic": "ahead cooler global head",
+      "keywords": [
+        "ahead",
+        "cooler",
+        "global",
+        "head",
+        "hope",
+        "week"
+      ],
+      "item_ids": [
+        "1e04445f4961"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "04abfb7f65cc",
+      "topic": "downside global pose risk",
+      "keywords": [
+        "downside",
+        "global",
+        "pose",
+        "risk",
+        "tariff",
+        "top"
+      ],
+      "item_ids": [
+        "2a35684bfdc7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "3d6313bb8947",
       "topic": "china fourth growth quarter",
       "keywords": [
@@ -10066,78 +10140,6 @@
       ],
       "item_ids": [
         "da140f3bbd5b"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "e9ea6398caf9",
-      "topic": "birthrate china lowest policie",
-      "keywords": [
-        "birthrate",
-        "china",
-        "lowest",
-        "policie",
-        "record",
-        "shrink"
-      ],
-      "item_ids": [
-        "00cbb00693e8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "28bd1a07cfba",
-      "topic": "billionaire ever influence outsized",
-      "keywords": [
-        "billionaire",
-        "ever",
-        "influence",
-        "outsized",
-        "political",
-        "richer"
-      ],
-      "item_ids": [
-        "5ecf1a973ec9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "11c66ff5f010",
-      "topic": "deal island mean shield",
-      "keywords": [
-        "deal",
-        "island",
-        "mean",
-        "shield",
-        "silicon",
-        "taiwan"
-      ],
-      "item_ids": [
-        "b5a7f9ba9d5e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "79a10b34d569",
-      "topic": "betting companie korean noodle",
-      "keywords": [
-        "betting",
-        "companie",
-        "korean",
-        "noodle",
-        "oversea",
-        "south"
-      ],
-      "item_ids": [
-        "9f5d07f5d4b5"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10177,6 +10179,22 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "2e300569b2cd",
+      "topic": "build deepseek europe race",
+      "keywords": [
+        "build",
+        "deepseek",
+        "europe",
+        "race"
+      ],
+      "item_ids": [
+        "e1e9829f04bb"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10333,24 +10351,6 @@
       ],
       "item_ids": [
         "52b786d632e9"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "d5a218596458",
-      "topic": "2026 best mesh system",
-      "keywords": [
-        "2026",
-        "best",
-        "mesh",
-        "system",
-        "tech",
-        "tested"
-      ],
-      "item_ids": [
-        "4d18efc3aac2"
       ],
       "outlets": [
         "WIRED"
