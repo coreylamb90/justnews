@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T09:15:23Z",
+  "generated_at": "2026-01-20T10:12:38Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -371,40 +371,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "c405a20437e5"
-    },
-    {
-      "id": "021df6102b69",
-      "title": "Brutal Sci-Fi Space Goblins Unleashes a New Trailer and Poster",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/brutal-sci-fi-space-goblins-unleashes-a-new-trailer-and-poster/",
-      "published_at": "Wed, 14 Jan 2026 13:49:39 +0000",
-      "bullets": [
-        "• Ams Overton's Space Goblins is a full-length sci-fi film inspired by the cult classic animated short of the same name",
-        "• The film is currently in production and targeting a late 2028 release",
-        "• The original animated short received critical acclaim on the genre circuit, including coverage from Film Threat "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ams Overton's Space Goblins is a full-length sci-fi film inspired by the cult classic animated short of the same name",
-          "• The film is currently in production and targeting a late 2028 release"
-        ],
-        "hopeful_bullets": [
-          "• Ams Overton's Space Goblins is a full-length sci-fi film inspired by the cult classic animated short of the same name",
-          "• The film is currently in production and targeting a late 2028 release"
-        ],
-        "stakes_bullets": [
-          "• Ams Overton's Space Goblins is a full-length sci-fi film inspired by the cult classic animated short of the same name",
-          "• The film is currently in production and targeting a late 2028 release",
-          "• The original animated short received critical acclaim on the genre circuit, including coverage from Film Threat "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e4d129c7b2b9"
     },
     {
       "id": "97800788be66",
@@ -864,13 +830,46 @@
       "cluster_id": "3712a992509f"
     },
     {
+      "id": "d13f853eba31",
+      "title": "Global bond selloff accelerates as investors worry over deepening ‘living deficits’",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/20/japan-40-year-jgb-government-bond-yield-record-fiscal-jitters-snap-election-call-takaichi.html",
+      "published_at": "Tue, 20 Jan 2026 09:35:17 GMT",
+      "bullets": [
+        "• Long-dated yield rose nearly 3 basis points to 4.213%, the highest level since the 40-year maturity was introduced",
+        "• Yields on shorter maturities climbed sharply as well",
+        "• The selloff came a day after Prime Minister Sanae Takaichi said she plans to dissolve parliament on Friday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.787
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Long-dated yield rose nearly 3 basis points to 4.213%, the highest level since the 40-year maturity was introduced",
+          "• Yields on shorter maturities climbed sharply as well"
+        ],
+        "hopeful_bullets": [
+          "• Long-dated yield rose nearly 3 basis points to 4.213%, the highest level since the 40-year maturity was introduced",
+          "• Yields on shorter maturities climbed sharply as well"
+        ],
+        "stakes_bullets": [
+          "• The selloff came a day after Prime Minister Sanae Takaichi said she plans to dissolve parliament on Friday "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ef6dd0b22203"
+    },
+    {
       "id": "df2c00dbc3df",
       "title": "French drinks giants sell off after Trump threatens 200% tariffs; European stocks fall",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2026/01/20/european-markets-stoxx-600-ftse-dax-cac-davos-wef-trump-trade-tariffs.html",
-      "published_at": "Tue, 20 Jan 2026 08:24:18 GMT",
+      "published_at": "Tue, 20 Jan 2026 09:22:06 GMT",
       "bullets": [
-        "• The pan-European Stoxx 600 was 0.7% lower shortly after the opening bell",
+        "• The pan-European Stoxx 600 had fallen 1.3% by 9:20 a.m",
+        "• in London",
         "• The market slump comes after Trump announced on Saturday that eight European allies would face increasing tariffs, starting at 10% on Feb",
         "• 1 and rising to 25% on June 1 "
       ],
@@ -881,21 +880,57 @@
       },
       "moods": {
         "brief_bullets": [
-          "• The pan-European Stoxx 600 was 0.7% lower shortly after the opening bell",
-          "• The market slump comes after Trump announced on Saturday that eight European allies would face increasing tariffs, starting at 10% on Feb"
+          "• The pan-European Stoxx 600 had fallen 1.3% by 9:20 a.m",
+          "• in London"
         ],
         "hopeful_bullets": [
-          "• The pan-European Stoxx 600 was 0.7% lower shortly after the opening bell",
-          "• The market slump comes after Trump announced on Saturday that eight European allies would face increasing tariffs, starting at 10% on Feb"
+          "• The pan-European Stoxx 600 had fallen 1.3% by 9:20 a.m",
+          "• in London"
         ],
         "stakes_bullets": [
-          "• The pan-European Stoxx 600 was 0.7% lower shortly after the opening bell",
-          "• The market slump comes after Trump announced on Saturday that eight European allies would face increasing tariffs, starting at 10% on Feb",
-          "• 1 and rising to 25% on June 1 "
+          "• The pan-European Stoxx 600 had fallen 1.3% by 9:20 a.m",
+          "• in London",
+          "• The market slump comes after Trump announced on Saturday that eight European allies would face increasing tariffs, starting at 10% on Feb"
         ]
       },
       "read_minutes": 1,
       "cluster_id": "d5ab6e86ca37"
+    },
+    {
+      "id": "e5299205d55d",
+      "title": "'Act of great stupidity': Trump launches another tirade against a NATO ally. This time it's the UK",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/20/trump-uk-chagos-davos-starmer-nato.html",
+      "published_at": "Tue, 20 Jan 2026 09:21:40 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump lambasts U.K",
+        "• over decision to hand sovereignty of Chagos Islands to Mauritius",
+        "• Mauritius agreed to give sovereignty of Diego Garcia, site of a joint U.-U.K-U.S military base",
+        "• Trump said China and Russia would view the move as one of \"total weakness\" The president is due to attend Davos this week "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump lambasts U.K"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump lambasts U.K"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• President Donald Trump lambasts U.K",
+          "• over decision to hand sovereignty of Chagos Islands to Mauritius"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "675ea32776da"
     },
     {
       "id": "298f9207f1bf",
@@ -961,42 +996,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "d32ab81bd6d5"
-    },
-    {
-      "id": "e5299205d55d",
-      "title": "'Act of great stupidity': Trump launches another tirade against a NATO ally. This time it's the UK",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/20/trump-uk-chagos-davos-starmer-nato.html",
-      "published_at": "Tue, 20 Jan 2026 08:03:19 GMT",
-      "bullets": [
-        "• U.S",
-        "• President Donald Trump lambasts U.K",
-        "• over decision to hand sovereignty of Chagos Islands to Mauritius",
-        "• Mauritius agreed to give sovereignty of Diego Garcia, site of a joint U.-U.K-U.S military base",
-        "• Trump said China and Russia would view the move as one of \"total weakness\" The president is due to attend Davos this week "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump lambasts U.K"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump lambasts U.K"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• President Donald Trump lambasts U.K",
-          "• over decision to hand sovereignty of Chagos Islands to Mauritius"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "675ea32776da"
     },
     {
       "id": "9d540af6380e",
@@ -1097,7 +1096,7 @@
     },
     {
       "id": "bc7fccb7b3ac",
-      "title": "Positive News launches new podcast about people turning ideals into action",
+      "title": "Positive News launches podcast about people turning ideals into action",
       "outlet": "Positive News",
       "url": "https://www.positive.news/society/positive-news-launches-podcast-about-turning-ideals-into-action/",
       "published_at": "Tue, 20 Jan 2026 07:00:58 +0000",
@@ -1363,38 +1362,6 @@
       "cluster_id": "f51911971f4a"
     },
     {
-      "id": "d13f853eba31",
-      "title": "Japan's 40-year bond yield hits 4% record on fiscal jitters following election call",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/20/japan-40-year-jgb-government-bond-yield-record-fiscal-jitters-snap-election-call-takaichi.html",
-      "published_at": "Tue, 20 Jan 2026 04:01:55 GMT",
-      "bullets": [
-        "• Japan's 40-year government bond yield hit a record high on Tuesday amid a broad selloff in government bonds",
-        "• Investors worried that proposed cuts to the food sales tax could worsen the country's fiscal position",
-        "• The selloff came a day after Prime Minister Sanae Takaichi said she plans to dissolve parliament and call a snap election "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's 40-year government bond yield hit a record high on Tuesday amid a broad selloff in government bonds",
-          "• Investors worried that proposed cuts to the food sales tax could worsen the country's fiscal position"
-        ],
-        "hopeful_bullets": [
-          "• Japan's 40-year government bond yield hit a record high on Tuesday amid a broad selloff in government bonds"
-        ],
-        "stakes_bullets": [
-          "• Investors worried that proposed cuts to the food sales tax could worsen the country's fiscal position",
-          "• The selloff came a day after Prime Minister Sanae Takaichi said she plans to dissolve parliament and call a snap election "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f979a6e31c09"
-    },
-    {
       "id": "3be2ee5438f1",
       "title": "The Naked Gun Reboot Is a Missed Opportunity for Hollywood Comedy",
       "outlet": "CBR",
@@ -1588,6 +1555,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "378613571ffb"
+    },
+    {
+      "id": "1dba5d453795",
+      "title": "Scientists solve a major roadblock holding back cancer cell therapy",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260120015654.htm",
+      "published_at": "Tue, 20 Jan 2026 03:27:50 EST",
+      "bullets": [
+        "• Scientists solve a major roadblock holding back cancer cell therapy",
+        "• A long-missing immune cell can now be grown from stem cells, bringing scalable cancer cell therapies a major step closer",
+        "• This advance could lead to ready-made cell therapies that are cheaper, faster, and easier to access "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists solve a major roadblock holding back cancer cell therapy",
+          "• A long-missing immune cell can now be grown from stem cells, bringing scalable cancer cell therapies a major step closer"
+        ],
+        "hopeful_bullets": [
+          "• Scientists solve a major roadblock holding back cancer cell therapy",
+          "• A long-missing immune cell can now be grown from stem cells, bringing scalable cancer cell therapies a major step closer"
+        ],
+        "stakes_bullets": [
+          "• This advance could lead to ready-made cell therapies that are cheaper, faster, and easier to access "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ae48a164bf5a"
     },
     {
       "id": "b8688b8ae861",
@@ -3549,40 +3548,6 @@
       "cluster_id": "660273d90a0f"
     },
     {
-      "id": "1ec39f1816c1",
-      "title": "The real danger of Tylenol has nothing to do with autism",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260118115058.htm",
-      "published_at": "Sun, 18 Jan 2026 12:03:01 EST",
-      "bullets": [
-        "• Acetaminophen, found in Tylenol and many cold and flu remedies, is one of the leading causes of hospitalization and death related to non-prescription drugs in the United States",
-        "• The drug is responsible for nearly half of all acute liver failure cases in the U.S",
-        "• and roughly 20% of liver transplants "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Acetaminophen, found in Tylenol and many cold and flu remedies, is one of the leading causes of hospitalization and death related to non-prescription drugs in the United States",
-          "• The drug is responsible for nearly half of all acute liver failure cases in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Acetaminophen, found in Tylenol and many cold and flu remedies, is one of the leading causes of hospitalization and death related to non-prescription drugs in the United States",
-          "• The drug is responsible for nearly half of all acute liver failure cases in the U.S"
-        ],
-        "stakes_bullets": [
-          "• Acetaminophen, found in Tylenol and many cold and flu remedies, is one of the leading causes of hospitalization and death related to non-prescription drugs in the United States",
-          "• The drug is responsible for nearly half of all acute liver failure cases in the U.S",
-          "• and roughly 20% of liver transplants "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "d08172be14f1"
-    },
-    {
       "id": "4344ad22aff1",
       "title": "Ocean damage nearly doubles the cost of climate change",
       "outlet": "Ars Technica - All content",
@@ -3719,40 +3684,6 @@
       "cluster_id": "b9872936ba67"
     },
     {
-      "id": "170098edbb8a",
-      "title": "The Ring Nebula is hiding a giant structure made of iron",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260118064633.htm",
-      "published_at": "Sun, 18 Jan 2026 10:24:20 EST",
-      "bullets": [
-        "• Huge bar of iron has been discovered lurking inside the iconic Ring Nebula",
-        "• Structure is enormous, spanning hundreds of times the size of Plutoâs orbit and contains a Mars-sized amount of iron",
-        "• It was detected using a new instrument that allowed astronomers to map the nebula in far greater detail "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Huge bar of iron has been discovered lurking inside the iconic Ring Nebula",
-          "• Structure is enormous, spanning hundreds of times the size of Plutoâs orbit and contains a Mars-sized amount of iron"
-        ],
-        "hopeful_bullets": [
-          "• Huge bar of iron has been discovered lurking inside the iconic Ring Nebula",
-          "• Structure is enormous, spanning hundreds of times the size of Plutoâs orbit and contains a Mars-sized amount of iron"
-        ],
-        "stakes_bullets": [
-          "• Huge bar of iron has been discovered lurking inside the iconic Ring Nebula",
-          "• Structure is enormous, spanning hundreds of times the size of Plutoâs orbit and contains a Mars-sized amount of iron",
-          "• It was detected using a new instrument that allowed astronomers to map the nebula in far greater detail "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "1cd83f80cb2b"
-    },
-    {
       "id": "6e859b8a87a8",
       "title": "A Small Oil Company Polluted Midland’s Water Reserve. The Cleanup Has Dragged on for Years.",
       "outlet": "Inside Climate News",
@@ -3817,40 +3748,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "f53f94df2cbb"
-    },
-    {
-      "id": "48c86f674995",
-      "title": "Scientists sent viruses to space and they evolved in surprising ways",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
-      "published_at": "Sun, 18 Jan 2026 09:54:24 EST",
-      "bullets": [
-        "• Scientists sent bacteria-infecting viruses to the International Space Station, the microbes did not behave the same way they do on Earth",
-        "• In microgravity, infections still occurred, but both viruses and bacteria evolved differently over time",
-        "• Genetic changes emerged that altered how viruses attach to bacteria and how bacteria defend themselves "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists sent bacteria-infecting viruses to the International Space Station, the microbes did not behave the same way they do on Earth",
-          "• In microgravity, infections still occurred, but both viruses and bacteria evolved differently over time"
-        ],
-        "hopeful_bullets": [
-          "• Scientists sent bacteria-infecting viruses to the International Space Station, the microbes did not behave the same way they do on Earth",
-          "• In microgravity, infections still occurred, but both viruses and bacteria evolved differently over time"
-        ],
-        "stakes_bullets": [
-          "• Scientists sent bacteria-infecting viruses to the International Space Station, the microbes did not behave the same way they do on Earth",
-          "• In microgravity, infections still occurred, but both viruses and bacteria evolved differently over time",
-          "• Genetic changes emerged that altered how viruses attach to bacteria and how bacteria defend themselves "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "be9658f8b605"
     },
     {
       "id": "6328ee867f6a",
@@ -4382,37 +4279,6 @@
       "cluster_id": "5ef8231cc69d"
     },
     {
-      "id": "7fca6bd6079e",
-      "title": "AI maps the hidden forces shaping cancer survival worldwide",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260117053526.htm",
-      "published_at": "Sat, 17 Jan 2026 09:26:53 EST",
-      "bullets": [
-        "• AI maps the hidden forces shaping cancer survival worldwide",
-        "• Factors such as access to radiotherapy, universal health coverage, and economic strength are most closely linked to better survival in each nation",
-        "• The research, published in the leading cancer journal Annals of Oncology, goes beyond broad comparisons to show which specific policy changes or system improvements could have the greatest impact on cancer survival "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.509
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AI maps the hidden forces shaping cancer survival worldwide",
-          "• Factors such as access to radiotherapy, universal health coverage, and economic strength are most closely linked to better survival in each nation"
-        ],
-        "hopeful_bullets": [
-          "• The research, published in the leading cancer journal Annals of Oncology, goes beyond broad comparisons to show which specific policy changes or system improvements could have the greatest impact on cancer survival "
-        ],
-        "stakes_bullets": [
-          "• The research, published in the leading cancer journal Annals of Oncology, goes beyond broad comparisons to show which specific policy changes or system improvements could have the greatest impact on cancer survival "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "03abb2ee27f9"
-    },
-    {
       "id": "30932f37f62f",
       "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
       "outlet": "World news | The Guardian",
@@ -4445,38 +4311,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "c6649d763513"
-    },
-    {
-      "id": "8b44fcf8cff6",
-      "title": "Tiny earthquakes are revealing a dangerous secret beneath California",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm",
-      "published_at": "Sat, 17 Jan 2026 05:35:29 EST",
-      "bullets": [
-        "• Tiny tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone, one of the most dangerous seismic regions in North America",
-        "• The Mendocino Triple Junction lies offshore from Humboldt County, where three major tectonic plates converge "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.969
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tiny tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone, one of the most dangerous seismic regions in North America",
-          "• The Mendocino Triple Junction lies offshore from Humboldt County, where three major tectonic plates converge "
-        ],
-        "hopeful_bullets": [
-          "• Tiny tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone, one of the most dangerous seismic regions in North America",
-          "• The Mendocino Triple Junction lies offshore from Humboldt County, where three major tectonic plates converge "
-        ],
-        "stakes_bullets": [
-          "• Tiny tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone, one of the most dangerous seismic regions in North America",
-          "• The Mendocino Triple Junction lies offshore from Humboldt County, where three major tectonic plates converge "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "eb5ad96cded1"
     },
     {
       "id": "7a5001ec55bb",
@@ -4814,6 +4648,40 @@
       "cluster_id": "48c75ecc4d7a"
     },
     {
+      "id": "5b6007d0d3c3",
+      "title": "A wobbling black hole jet is stripping a galaxy of star-forming gas",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260119215510.htm",
+      "published_at": "Mon, 19 Jan 2026 22:45:26 EST",
+      "bullets": [
+        "• A wobbling black hole jet is stripping a galaxy of star-forming gas",
+        "• Astronomers observed a relatively weak but restless jet blasting outward from the galaxyâs core, wobbling like a spinning top as it plows through surrounding gas",
+        "• This jet heats, ionizes, and flings gas out of the galaxy at a surprisingly high rate "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A wobbling black hole jet is stripping a galaxy of star-forming gas",
+          "• Astronomers observed a relatively weak but restless jet blasting outward from the galaxyâs core, wobbling like a spinning top as it plows through surrounding gas"
+        ],
+        "hopeful_bullets": [
+          "• A wobbling black hole jet is stripping a galaxy of star-forming gas",
+          "• Astronomers observed a relatively weak but restless jet blasting outward from the galaxyâs core, wobbling like a spinning top as it plows through surrounding gas"
+        ],
+        "stakes_bullets": [
+          "• A wobbling black hole jet is stripping a galaxy of star-forming gas",
+          "• Astronomers observed a relatively weak but restless jet blasting outward from the galaxyâs core, wobbling like a spinning top as it plows through surrounding gas",
+          "• This jet heats, ionizes, and flings gas out of the galaxy at a surprisingly high rate "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "b27ccd8fb7d3"
+    },
+    {
       "id": "3c2f0a0bf259",
       "title": "Wake Up, Babe: Hilary Duff Just Performed ‘What Dreams Are Made of’ for the First Time Ever",
       "outlet": "Music News",
@@ -4941,6 +4809,106 @@
       },
       "read_minutes": 3,
       "cluster_id": "16c8d20af32d"
+    },
+    {
+      "id": "6bb33234675b",
+      "title": "NASA’s Artemis II reaches the launch pad and the countdown to the Moon begins",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260119214042.htm",
+      "published_at": "Mon, 19 Jan 2026 21:46:00 EST",
+      "bullets": [
+        "• NASA's Artemis II rocket and Orion spacecraft complete their move to Launch Pad 39B at Kennedy Space Center in Florida",
+        "• Engineers are now preparing for crucial fueling and countdown tests ahead of the first crewed Artemis mission",
+        "• The mission will send four astronauts on a journey around the Moon and back "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NASA's Artemis II rocket and Orion spacecraft complete their move to Launch Pad 39B at Kennedy Space Center in Florida",
+          "• Engineers are now preparing for crucial fueling and countdown tests ahead of the first crewed Artemis mission"
+        ],
+        "hopeful_bullets": [
+          "• NASA's Artemis II rocket and Orion spacecraft complete their move to Launch Pad 39B at Kennedy Space Center in Florida",
+          "• Engineers are now preparing for crucial fueling and countdown tests ahead of the first crewed Artemis mission"
+        ],
+        "stakes_bullets": [
+          "• The mission will send four astronauts on a journey around the Moon and back "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f05a47018a0c"
+    },
+    {
+      "id": "687740e3502e",
+      "title": "The overlooked survival strategy that made us human",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260118233601.htm",
+      "published_at": "Mon, 19 Jan 2026 21:27:37 EST",
+      "bullets": [
+        "• New study argues that scavenging was not an occasional fallback, but a key part of human evolution",
+        "• The study was published in the Journal of Human Evolution",
+        "• It argues that early humans were more likely to rely on scavenging for food than hunting "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.942
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New study argues that scavenging was not an occasional fallback, but a key part of human evolution",
+          "• The study was published in the Journal of Human Evolution"
+        ],
+        "hopeful_bullets": [
+          "• New study argues that scavenging was not an occasional fallback, but a key part of human evolution",
+          "• The study was published in the Journal of Human Evolution"
+        ],
+        "stakes_bullets": [
+          "• New study argues that scavenging was not an occasional fallback, but a key part of human evolution",
+          "• The study was published in the Journal of Human Evolution",
+          "• It argues that early humans were more likely to rely on scavenging for food than hunting "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ae05d8faa46a"
+    },
+    {
+      "id": "61491de0e01c",
+      "title": "A 250-million-year-old fossil reveals the origins of mammal hearing",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260118233557.htm",
+      "published_at": "Mon, 19 Jan 2026 21:17:12 EST",
+      "bullets": [
+        "• A 250-million-year-old fossil reveals the origins of mammal hearing",
+        "• Sensitive hearing may have evolved in mammal ancestors far earlier than scientists once believed",
+        "• Modern mammals rely on a middle ear that includes an eardrum and several tiny bones "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A 250-million-year-old fossil reveals the origins of mammal hearing",
+          "• Sensitive hearing may have evolved in mammal ancestors far earlier than scientists once believed"
+        ],
+        "hopeful_bullets": [
+          "• A 250-million-year-old fossil reveals the origins of mammal hearing",
+          "• Sensitive hearing may have evolved in mammal ancestors far earlier than scientists once believed"
+        ],
+        "stakes_bullets": [
+          "• A 250-million-year-old fossil reveals the origins of mammal hearing",
+          "• Sensitive hearing may have evolved in mammal ancestors far earlier than scientists once believed",
+          "• Modern mammals rely on a middle ear that includes an eardrum and several tiny bones "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7aaacecf00e3"
     },
     {
       "id": "0307a3ccb874",
@@ -8464,6 +8432,40 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "8af4889e1a73",
+      "title": "Realme promises days of battery from its 10,001mAh phone",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone",
+      "published_at": "2026-01-20T03:57:34-05:00",
+      "bullets": [
+        "• Realme promises days of battery from its 10,001mAh phone",
+        "• The P4 Power will be available in India on January 29th",
+        "• It only weighs 218g, and looks fairly slim thanks to using a silicon-carbon battery",
+        "• It supports 27W reverse charging, fast enough that this could double as a power bank "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Realme promises days of battery from its 10,001mAh phone",
+          "• The P4 Power will be available in India on January 29th"
+        ],
+        "hopeful_bullets": [
+          "• Realme promises days of battery from its 10,001mAh phone",
+          "• The P4 Power will be available in India on January 29th"
+        ],
+        "stakes_bullets": [
+          "• The P4 Power will be available in India on January 29th",
+          "• It supports 27W reverse charging, fast enough that this could double as a power bank "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "dfc2e3c9243e"
+    },
+    {
       "id": "d8aa96733b41",
       "title": "Roland’s Go:Mixer Studio turns your phone into a mobile music studio",
       "outlet": "The Verge",
@@ -8755,40 +8757,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "e019e60ca8a0"
-    },
-    {
-      "id": "c655f6f76e88",
-      "title": "Threads overtakes X on mobile, but still lags far behind",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users",
-      "published_at": "2026-01-19T06:53:33-05:00",
-      "bullets": [
-        "• Meta’s Threads has 141.5 million daily active iOS and Android mobile users compared to 125 million for X",
-        "• X still has more mobile users than Threads in the US, but still has half as many daily active mobile users as it did last year",
-        "• Threads actually overtook X sometime between October and early November "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Meta’s Threads has 141.5 million daily active iOS and Android mobile users compared to 125 million for X",
-          "• X still has more mobile users than Threads in the US, but still has half as many daily active mobile users as it did last year"
-        ],
-        "hopeful_bullets": [
-          "• Meta’s Threads has 141.5 million daily active iOS and Android mobile users compared to 125 million for X",
-          "• X still has more mobile users than Threads in the US, but still has half as many daily active mobile users as it did last year"
-        ],
-        "stakes_bullets": [
-          "• Meta’s Threads has 141.5 million daily active iOS and Android mobile users compared to 125 million for X",
-          "• X still has more mobile users than Threads in the US, but still has half as many daily active mobile users as it did last year",
-          "• Threads actually overtook X sometime between October and early November "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a40e6125ba40"
     },
     {
       "id": "c41ff758b36a",
@@ -9874,6 +9842,24 @@
       ]
     },
     {
+      "id": "ef6dd0b22203",
+      "topic": "accelerate bond global investor",
+      "keywords": [
+        "accelerate",
+        "bond",
+        "global",
+        "investor",
+        "selloff",
+        "worry"
+      ],
+      "item_ids": [
+        "d13f853eba31"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "fc6b3f21a010",
       "topic": "against bazooka cnbc daily",
       "keywords": [
@@ -9940,24 +9926,6 @@
       ],
       "item_ids": [
         "89a6a6710402"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "f979a6e31c09",
-      "topic": "bond hits japan record",
-      "keywords": [
-        "bond",
-        "hits",
-        "japan",
-        "record",
-        "year",
-        "yield"
-      ],
-      "item_ids": [
-        "d13f853eba31"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10169,6 +10137,24 @@
       ]
     },
     {
+      "id": "dfc2e3c9243e",
+      "topic": "001mah battery days phone",
+      "keywords": [
+        "001mah",
+        "battery",
+        "days",
+        "phone",
+        "promise",
+        "realme"
+      ],
+      "item_ids": [
+        "8af4889e1a73"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "ac7a690058c5",
       "topic": "mixer mobile phone roland",
       "keywords": [
@@ -10317,24 +10303,6 @@
       ],
       "item_ids": [
         "1379301f4d97"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "a40e6125ba40",
-      "topic": "far lags mobile overtake",
-      "keywords": [
-        "far",
-        "lags",
-        "mobile",
-        "overtake",
-        "still",
-        "thread"
-      ],
-      "item_ids": [
-        "c655f6f76e88"
       ],
       "outlets": [
         "The Verge"
@@ -10520,6 +10488,60 @@
       ]
     },
     {
+      "id": "ae48a164bf5a",
+      "topic": "back holding major roadblock",
+      "keywords": [
+        "back",
+        "holding",
+        "major",
+        "roadblock",
+        "scientist",
+        "solve"
+      ],
+      "item_ids": [
+        "1dba5d453795"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "b27ccd8fb7d3",
+      "topic": "black galaxy hole jet",
+      "keywords": [
+        "black",
+        "galaxy",
+        "hole",
+        "jet",
+        "stripping",
+        "wobbling"
+      ],
+      "item_ids": [
+        "5b6007d0d3c3"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "f05a47018a0c",
+      "topic": "artemi countdown launch nasa",
+      "keywords": [
+        "artemi",
+        "countdown",
+        "launch",
+        "nasa",
+        "pad",
+        "reache"
+      ],
+      "item_ids": [
+        "6bb33234675b"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "3f60531c5728",
       "topic": "collapse dark halo inside",
       "keywords": [
@@ -10532,6 +10554,41 @@
       ],
       "item_ids": [
         "987745fe26de"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "ae05d8faa46a",
+      "topic": "human made overlooked strategy",
+      "keywords": [
+        "human",
+        "made",
+        "overlooked",
+        "strategy",
+        "survival"
+      ],
+      "item_ids": [
+        "687740e3502e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "7aaacecf00e3",
+      "topic": "250 fossil million old",
+      "keywords": [
+        "250",
+        "fossil",
+        "million",
+        "old",
+        "reveal",
+        "year"
+      ],
+      "item_ids": [
+        "61491de0e01c"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10604,95 +10661,6 @@
       ],
       "item_ids": [
         "764f7527ef75"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "d08172be14f1",
-      "topic": "autism danger nothing real",
-      "keywords": [
-        "autism",
-        "danger",
-        "nothing",
-        "real",
-        "tylenol"
-      ],
-      "item_ids": [
-        "1ec39f1816c1"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "be9658f8b605",
-      "topic": "evolved scientist sent space",
-      "keywords": [
-        "evolved",
-        "scientist",
-        "sent",
-        "space",
-        "surprising",
-        "viruse"
-      ],
-      "item_ids": [
-        "48c86f674995"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "1cd83f80cb2b",
-      "topic": "giant hiding made nebula",
-      "keywords": [
-        "giant",
-        "hiding",
-        "made",
-        "nebula",
-        "ring",
-        "structure"
-      ],
-      "item_ids": [
-        "170098edbb8a"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "eb5ad96cded1",
-      "topic": "beneath dangerou earthquake revealing",
-      "keywords": [
-        "beneath",
-        "dangerou",
-        "earthquake",
-        "revealing",
-        "secret",
-        "tiny"
-      ],
-      "item_ids": [
-        "8b44fcf8cff6"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "03abb2ee27f9",
-      "topic": "cancer force hidden maps",
-      "keywords": [
-        "cancer",
-        "force",
-        "hidden",
-        "maps",
-        "shaping",
-        "survival"
-      ],
-      "item_ids": [
-        "7fca6bd6079e"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -12314,24 +12282,6 @@
       ],
       "outlets": [
         "Wicked Horror"
-      ]
-    },
-    {
-      "id": "e4d129c7b2b9",
-      "topic": "brutal goblin sci space",
-      "keywords": [
-        "brutal",
-        "goblin",
-        "sci",
-        "space",
-        "trailer",
-        "unleashe"
-      ],
-      "item_ids": [
-        "021df6102b69"
-      ],
-      "outlets": [
-        "HorrorFix"
       ]
     },
     {
