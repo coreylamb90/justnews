@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T09:14:47Z",
+  "generated_at": "2026-01-21T10:06:15Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -71,6 +71,105 @@
       "cluster_id": "158247cc9bdd"
     },
     {
+      "id": "e8a246b04966",
+      "title": "US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/21/supreme-court-trump-fed-governor-case",
+      "published_at": "Wed, 21 Jan 2026 09:00:56 GMT",
+      "bullets": [
+        "• US president tried to fire Lisa Cook in August over apparent discrepancies on mortgage applications Trump's officials claim are evidence of fraud",
+        "• Federal court blocked Cook’s removal, and she remains on the Fed‘s rate-setting board",
+        "• Trump administration is waging an unprecedented battle with the Fed over interest rates, after policymakers defied the president's repeated calls for drastic cuts "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US president tried to fire Lisa Cook in August over apparent discrepancies on mortgage applications Trump's officials claim are evidence of fraud",
+          "• Federal court blocked Cook’s removal, and she remains on the Fed‘s rate-setting board"
+        ],
+        "hopeful_bullets": [
+          "• US president tried to fire Lisa Cook in August over apparent discrepancies on mortgage applications Trump's officials claim are evidence of fraud",
+          "• Federal court blocked Cook’s removal, and she remains on the Fed‘s rate-setting board"
+        ],
+        "stakes_bullets": [
+          "• Trump administration is waging an unprecedented battle with the Fed over interest rates, after policymakers defied the president's repeated calls for drastic cuts "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f621ae227e92"
+    },
+    {
+      "id": "55b2da4b4939",
+      "title": "Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/bessent-davos-denmark-greenland-treasuries.html",
+      "published_at": "Wed, 21 Jan 2026 08:58:04 GMT",
+      "bullets": [
+        "• \"Denmark's investment in U.S",
+        "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
+        "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys",
+        "• It comes after President Donald Trump escalated tensions over Greenland "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
+        ],
+        "hopeful_bullets": [
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
+        ],
+        "stakes_bullets": [
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
+          "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3d96f5a2a8dd"
+    },
+    {
+      "id": "099e6475babc",
+      "title": "Life sentence for man who killed Japan's ex-PM Shinzo Abe",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c86v5lj39zpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 21 Jan 2026 08:44:34 GMT",
+      "bullets": [
+        "• Tetsuya Yamagami has been sentenced to life in prison for killing Japan's former PM",
+        "• The 45-year-old pleaded guilty to murder charges at the trial's opening last year",
+        "• His defence said he was a victim of \"religious abuse\" by his mother "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tetsuya Yamagami has been sentenced to life in prison for killing Japan's former PM",
+          "• The 45-year-old pleaded guilty to murder charges at the trial's opening last year"
+        ],
+        "hopeful_bullets": [
+          "• Tetsuya Yamagami has been sentenced to life in prison for killing Japan's former PM",
+          "• The 45-year-old pleaded guilty to murder charges at the trial's opening last year"
+        ],
+        "stakes_bullets": [
+          "• The 45-year-old pleaded guilty to murder charges at the trial's opening last year"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d716c34d5985"
+    },
+    {
       "id": "edd9cb05556c",
       "title": "Train driver killed in second deadly Spain rail crash in days",
       "outlet": "BBC News",
@@ -79,13 +178,13 @@
       "bullets": [
         "• Train driver killed in second deadly Spain rail crash in days",
         "• At least 37 people injured, five seriously, after a commuter train derailed near Barcelona",
-        "• Officials believe a wall fell on to the track and struck the driver's cab first",
-        "• Services across Catalonia's main Rodalies commuter rail network have been suspended "
+        "• Officials believe the wall collapsed as the train was passing and struck the driver's cab",
+        "• The incident occurred as heavy storms battered north-eastern Spain "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
@@ -99,7 +198,7 @@
         "stakes_bullets": [
           "• Train driver killed in second deadly Spain rail crash in days",
           "• At least 37 people injured, five seriously, after a commuter train derailed near Barcelona",
-          "• Officials believe a wall fell on to the track and struck the driver's cab first"
+          "• Officials believe the wall collapsed as the train was passing and struck the driver's cab"
         ]
       },
       "read_minutes": 2,
@@ -140,72 +239,36 @@
       "cluster_id": "4d0376512a03"
     },
     {
-      "id": "55b2da4b4939",
-      "title": "Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/bessent-davos-denmark-greenland-treasuries.html",
-      "published_at": "Wed, 21 Jan 2026 08:08:33 GMT",
+      "id": "1903f15a2801",
+      "title": "Detained veteran Ugandan opposition figure critically ill in hospital, his party says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y2q5j71pqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 21 Jan 2026 08:21:33 GMT",
       "bullets": [
-        "• \"Denmark's investment in U.S",
-        "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
-        "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys",
-        "• It comes after President Donald Trump escalated tensions over Greenland "
+        "• Kizza Besigye's health has \"reached a critical and deteriorating state\", his party says",
+        "• The 69-year-old politician was driven to a private medical facility under \"heavy security\" The PFF leader was charged in a military court with treason, which carries the death penalty",
+        "• He denies the accusations "
       ],
-      "category": "Business",
+      "category": "World",
       "sentiment": {
         "label": "negative",
         "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• \"Denmark's investment in U.S",
-          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
+          "• Kizza Besigye's health has \"reached a critical and deteriorating state\", his party says",
+          "• The 69-year-old politician was driven to a private medical facility under \"heavy security\" The PFF leader was charged in a military court with treason, which carries the death penalty"
         ],
         "hopeful_bullets": [
-          "• \"Denmark's investment in U.S",
-          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
+          "• Kizza Besigye's health has \"reached a critical and deteriorating state\", his party says",
+          "• The 69-year-old politician was driven to a private medical facility under \"heavy security\" The PFF leader was charged in a military court with treason, which carries the death penalty"
         ],
         "stakes_bullets": [
-          "• \"Denmark's investment in U.S",
-          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
-          "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3d96f5a2a8dd"
-    },
-    {
-      "id": "6f28e4be43d4",
-      "title": "CNBC Daily Open: Investors flee from the U.S. as Trump doubles down on Greenland",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/cnbc-daily-open-investors-flee-from-the-us-as-trump-doubles-down-on-greenland.html",
-      "published_at": "Wed, 21 Jan 2026 07:29:47 GMT",
-      "bullets": [
-        "• Major U.S",
-        "• indexes on Tuesday stateside tumbled in their worst day since October",
-        "• The VIX index, Wall Street's \"fear gauge,\" spikes to a high of 20.99",
-        "• Bond yields jumped, bond yields jumped and gold prices hit new records",
-        "• Denmark pension fund AkademikerPension said it will sell roughly $100 million in Treasuries "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Major U.S",
-          "• indexes on Tuesday stateside tumbled in their worst day since October"
-        ],
-        "hopeful_bullets": [
-          "• Bond yields jumped, bond yields jumped and gold prices hit new records"
-        ],
-        "stakes_bullets": [
-          "• Denmark pension fund AkademikerPension said it will sell roughly $100 million in Treasuries "
+          "• The 69-year-old politician was driven to a private medical facility under \"heavy security\" The PFF leader was charged in a military court with treason, which carries the death penalty"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "abbcc0134a50"
+      "cluster_id": "519b3280bfba"
     },
     {
       "id": "2e22980d56ef",
@@ -571,40 +634,6 @@
       "cluster_id": "c24d0981664b"
     },
     {
-      "id": "099e6475babc",
-      "title": "Life sentence for man who killed Japan's ex-PM Shinzo Abe",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c86v5lj39zpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 04:48:18 GMT",
-      "bullets": [
-        "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-        "• The 45-year-old shot him dead at a rally in the city of Nara in 2022",
-        "• His defence team said he was a victim of \"religious abuse\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-          "• The 45-year-old shot him dead at a rally in the city of Nara in 2022"
-        ],
-        "hopeful_bullets": [
-          "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-          "• The 45-year-old shot him dead at a rally in the city of Nara in 2022"
-        ],
-        "stakes_bullets": [
-          "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-          "• The 45-year-old shot him dead at a rally in the city of Nara in 2022",
-          "• His defence team said he was a victim of \"religious abuse\""
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "d716c34d5985"
-    },
-    {
       "id": "e7b749188f74",
       "title": "Dragon Ball DAIMA Proved That This Iconic GT Scene Needs to Return in Super",
       "outlet": "CBR",
@@ -676,22 +705,25 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-air-force-one-turns-back-washington-davos-minor-electrical-issue",
       "published_at": "Wed, 21 Jan 2026 04:40:32 GMT",
       "bullets": [
-        "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
+        "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault",
+        "• White House press secretary Karoline Leavitt said the decision was taken \"out of an abundance of caution\" The president continued his trip to the World Economic Forum in Davos shortly after midnight "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.989
+        "score": 0.985
       },
       "moods": {
         "brief_bullets": [
-          "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
+          "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault",
+          "• White House press secretary Karoline Leavitt said the decision was taken \"out of an abundance of caution\" The president continued his trip to the World Economic Forum in Davos shortly after midnight "
         ],
         "hopeful_bullets": [
-          "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
+          "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault",
+          "• White House press secretary Karoline Leavitt said the decision was taken \"out of an abundance of caution\" The president continued his trip to the World Economic Forum in Davos shortly after midnight "
         ],
         "stakes_bullets": [
-          "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
+          "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault"
         ]
       },
       "read_minutes": 2,
@@ -1502,40 +1534,6 @@
       "cluster_id": "7479bdeaaffc"
     },
     {
-      "id": "43fea44ef751",
-      "title": "Judge orders release of actor Timothy Busfield pending child sex abuse case",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/20/timothy-busfield-child-sex-abuse-case",
-      "published_at": "Wed, 21 Jan 2026 00:13:15 GMT",
-      "bullets": [
-        "• Timothy Busfield is accused of inappropriately touching a minor while working as a director on the set of the series The Cleaning Lady",
-        "• Busfield called the allegations lies in a video shared before he turned himself in",
-        "• Wife Melissa Gilbert, who played Laura Ingalls in the 1970s-1980s TV series Little House on the Prairie, is on the list of potential witnesses "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.607
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Timothy Busfield is accused of inappropriately touching a minor while working as a director on the set of the series The Cleaning Lady",
-          "• Busfield called the allegations lies in a video shared before he turned himself in"
-        ],
-        "hopeful_bullets": [
-          "• Timothy Busfield is accused of inappropriately touching a minor while working as a director on the set of the series The Cleaning Lady",
-          "• Busfield called the allegations lies in a video shared before he turned himself in"
-        ],
-        "stakes_bullets": [
-          "• Timothy Busfield is accused of inappropriately touching a minor while working as a director on the set of the series The Cleaning Lady",
-          "• Busfield called the allegations lies in a video shared before he turned himself in",
-          "• Wife Melissa Gilbert, who played Laura Ingalls in the 1970s-1980s TV series Little House on the Prairie, is on the list of potential witnesses "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7790480a3234"
-    },
-    {
       "id": "8fc11da17115",
       "title": "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror",
       "outlet": "BBC News",
@@ -1566,40 +1564,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "f9777e4eb8f2"
-    },
-    {
-      "id": "c6eb70794c12",
-      "title": "Reflecting on Redemtion and Choices – SWR #481",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Reflecting-on-Redemtion-and-Choices--SWR-481-e37kfmh",
-      "published_at": "Wed, 17 Nov 2021 21:32:06 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "2310b1aa0d50"
     },
     {
       "id": "40d030e37f88",
@@ -1635,40 +1599,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "485bdfd86a43"
-    },
-    {
-      "id": "01f62cb17630",
-      "title": "Star Wars Eclipse Revealed + Favorite ROTJ moments – SWR #485",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Star-Wars-Eclipse-Revealed--Favorite-ROTJ-moments--SWR-485-e37kfpg",
-      "published_at": "Wed, 15 Dec 2021 02:48:35 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "4d68b7d6cb41"
     },
     {
       "id": "ea8027940d9a",
@@ -2129,40 +2059,6 @@
       "cluster_id": "5cfc907df0f9"
     },
     {
-      "id": "8bc2e543862e",
-      "title": "The Boba Fett Trailer has us Geeking Out Loud – SWR #479",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/The-Boba-Fett-Trailer-has-us-Geeking-Out-Loud--SWR-479-e37knuo",
-      "published_at": "Wed, 03 Nov 2021 17:35:33 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "a98a0ede1c29"
-    },
-    {
       "id": "2c79ee8b7a0d",
       "title": "Road Games Plays with Hitchcockian Thrills [The Rabid Dog’s House]",
       "outlet": "Wicked Horror",
@@ -2361,6 +2257,40 @@
       "cluster_id": "91081334453e"
     },
     {
+      "id": "e93b84609166",
+      "title": "JD Vance and wife Usha Vance announce they’re expecting fourth child",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/20/usha-vance-baby-pregnant",
+      "published_at": "Tue, 20 Jan 2026 23:47:49 GMT",
+      "bullets": [
+        "• JD Vance and his wife, Usha, announce they are expecting their fourth child this summer",
+        "• The Vances, who met as students at Yale Law School and married in 2014, have two sons and one daughter",
+        "• Usha Vance, 40, has already made history as the country's first south Asian and Hindu second lady "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JD Vance and his wife, Usha, announce they are expecting their fourth child this summer",
+          "• The Vances, who met as students at Yale Law School and married in 2014, have two sons and one daughter"
+        ],
+        "hopeful_bullets": [
+          "• JD Vance and his wife, Usha, announce they are expecting their fourth child this summer",
+          "• The Vances, who met as students at Yale Law School and married in 2014, have two sons and one daughter"
+        ],
+        "stakes_bullets": [
+          "• JD Vance and his wife, Usha, announce they are expecting their fourth child this summer",
+          "• The Vances, who met as students at Yale Law School and married in 2014, have two sons and one daughter",
+          "• Usha Vance, 40, has already made history as the country's first south Asian and Hindu second lady "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9acefaa5839f"
+    },
+    {
       "id": "bc51b3fd2c68",
       "title": "Patients tried everything for depression then this implant changed their lives",
       "outlet": "All Top News -- ScienceDaily",
@@ -2483,38 +2413,6 @@
       "cluster_id": "8afa1c9525c6"
     },
     {
-      "id": "2a364ee20a92",
-      "title": "US military says it seized another Venezuela-linked oil tanker",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/20/us-military-seizes-oil-tanker-venezuela",
-      "published_at": "Tue, 20 Jan 2026 23:15:19 GMT",
-      "bullets": [
-        "• The US military said it intercepted the vessel in the Caribbean Sea on Tuesday",
-        "• It is the latest in a series of vessels intercepted by US forces in the region",
-        "• The move is part of US President Donald Trump's plan to control Venezuela's oil industry "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The US military said it intercepted the vessel in the Caribbean Sea on Tuesday",
-          "• It is the latest in a series of vessels intercepted by US forces in the region"
-        ],
-        "hopeful_bullets": [
-          "• The US military said it intercepted the vessel in the Caribbean Sea on Tuesday",
-          "• It is the latest in a series of vessels intercepted by US forces in the region"
-        ],
-        "stakes_bullets": [
-          "• The move is part of US President Donald Trump's plan to control Venezuela's oil industry "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bb44b26236ea"
-    },
-    {
       "id": "2dbc7bfac831",
       "title": "Cramer says wild speculation has returned to the market — and here's what investors must do",
       "outlet": "US Top News and Analysis",
@@ -2544,6 +2442,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "997c82536b9f"
+    },
+    {
+      "id": "3589353850c0",
+      "title": "'You'll find out,' Trump says on Greenland takeover strategy",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/20/trump-greenland-takeover-strategy.html",
+      "published_at": "Tue, 20 Jan 2026 23:01:32 GMT",
+      "bullets": [
+        "• President Donald Trump declined to detail what lengths he will go to in order to achieve his aim of making Greenland part of the United States",
+        "• Trump's aggressive pursuit of Greenland roiled financial markets on Tuesday",
+        "• European leaders who have resisted a U.S",
+        "• takeover of Greenland are recoiling at the tariff threat "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump declined to detail what lengths he will go to in order to achieve his aim of making Greenland part of the United States",
+          "• Trump's aggressive pursuit of Greenland roiled financial markets on Tuesday"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump declined to detail what lengths he will go to in order to achieve his aim of making Greenland part of the United States",
+          "• Trump's aggressive pursuit of Greenland roiled financial markets on Tuesday"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump declined to detail what lengths he will go to in order to achieve his aim of making Greenland part of the United States",
+          "• European leaders who have resisted a U.S"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2396d555068b"
     },
     {
       "id": "0e3dc11ce82d",
@@ -4053,38 +3985,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "5698a744bc10"
-    },
-    {
-      "id": "63c15880bc31",
-      "title": "Shock and confusion as Spain struggles for answers after deadly train crash",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crle9k2gw6jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 20 Jan 2026 18:00:07 GMT",
-      "bullets": [
-        "• Sunday's high-speed train crash in southern Spain is the worst in over a decade",
-        "• At least 42 people have been killed in the crash, with three bodies found in the wreckage",
-        "• Many are asking what could have caused such a failure on one of Europe's most admired rail systems "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sunday's high-speed train crash in southern Spain is the worst in over a decade",
-          "• At least 42 people have been killed in the crash, with three bodies found in the wreckage"
-        ],
-        "hopeful_bullets": [
-          "• Sunday's high-speed train crash in southern Spain is the worst in over a decade",
-          "• At least 42 people have been killed in the crash, with three bodies found in the wreckage"
-        ],
-        "stakes_bullets": [
-          "• Many are asking what could have caused such a failure on one of Europe's most admired rail systems "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5a692ee2cdbd"
     },
     {
       "id": "9eab3d0a8815",
@@ -5919,40 +5819,6 @@
       "cluster_id": "a91188cfd93a"
     },
     {
-      "id": "c831e3291d7e",
-      "title": "Galactic Starcruiser Disaster – SWR #484",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Galactic-Starcruiser-Disaster--SWR-484-e37kfm4",
-      "published_at": "Tue, 07 Dec 2021 23:26:35 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "3041f5367d34"
-    },
-    {
       "id": "808ed374d63b",
       "title": "“LILY’S RITUAL”, A chilling folk horror tale!",
       "outlet": "HorrorFix",
@@ -6084,40 +5950,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a4d1be104fb9"
-    },
-    {
-      "id": "2ebb9ebcde07",
-      "title": "Hayden Joins Ahsoka w/ Scott Ryfun – SWR #478",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Hayden-Joins-Ahsoka-w-Scott-Ryfun--SWR-478-e37kfs6",
-      "published_at": "Thu, 28 Oct 2021 02:24:11 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "8af4054e818a"
     },
     {
       "id": "bb9f43091b0d",
@@ -6877,40 +6709,6 @@
       "cluster_id": "85c2f547443d"
     },
     {
-      "id": "c1fa9628700b",
-      "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Boba-Fetts-Comeback-W-Scott-Ryfun--SWR-474-e37kfmb",
-      "published_at": "Sun, 03 Oct 2021 19:38:49 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "077fbd269b7a"
-    },
-    {
       "id": "c39d610858a7",
       "title": "Coming to Wicked Horror TV in December",
       "outlet": "Wicked Horror",
@@ -7272,40 +7070,6 @@
       "cluster_id": "ae82da00304d"
     },
     {
-      "id": "a6985131ac1a",
-      "title": "Reminiscing with Jimmy Mac – SWR #475",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Reminiscing-with-Jimmy-Mac--SWR-475-e37knuk",
-      "published_at": "Sat, 09 Oct 2021 12:48:47 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "2e116862dfd5"
-    },
-    {
       "id": "a35a3a3d8bec",
       "title": "WATCH PREDATOR: BADLANDS AT HOME ON DIGITAL JAN. 6 & 4K BLU-RAY & DVD FEB. 17",
       "outlet": "HorrorFix",
@@ -7373,40 +7137,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ce5a5a3ce234"
-    },
-    {
-      "id": "1b037cbd2fa0",
-      "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/How-the-Force-can-Fix-the-World-w-Stephen-Kent--SWR-482-e37kfof",
-      "published_at": "Mon, 22 Nov 2021 08:33:23 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "9c2a1e3cb2fd"
     },
     {
       "id": "5b6007d0d3c3",
@@ -8401,40 +8131,6 @@
       "cluster_id": "cf059bc2fec2"
     },
     {
-      "id": "2bd6b95ce75d",
-      "title": "Kenobi Revealed – SWR #480",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Kenobi-Revealed--SWR-480-e37kfn8",
-      "published_at": "Fri, 12 Nov 2021 02:04:08 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "cc7d025ab986"
-    },
-    {
       "id": "c8177dc31327",
       "title": "Creature Commandos: A Bold and Brilliant Start to the New DCU",
       "outlet": "Comic Quarters",
@@ -8529,40 +8225,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "57aa981de33e"
-    },
-    {
-      "id": "a14f093f556a",
-      "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/2021-Year-in-Review-w-Bruce-Gibson--SWR-483-e37kfr0",
-      "published_at": "Fri, 03 Dec 2021 00:01:30 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "76c61b84461a"
     },
     {
       "id": "a88448861452",
@@ -9381,18 +9043,18 @@
       ]
     },
     {
-      "id": "5a692ee2cdbd",
-      "topic": "answer confusion deadly shock",
+      "id": "519b3280bfba",
+      "topic": "critically detained figure opposition",
       "keywords": [
-        "answer",
-        "confusion",
-        "deadly",
-        "shock",
-        "spain",
-        "struggle"
+        "critically",
+        "detained",
+        "figure",
+        "opposition",
+        "ugandan",
+        "veteran"
       ],
       "item_ids": [
-        "63c15880bc31"
+        "1903f15a2801"
       ],
       "outlets": [
         "BBC News"
@@ -9615,6 +9277,24 @@
       ]
     },
     {
+      "id": "f621ae227e92",
+      "topic": "bid consider court fire",
+      "keywords": [
+        "bid",
+        "consider",
+        "court",
+        "fire",
+        "supreme",
+        "trump"
+      ],
+      "item_ids": [
+        "e8a246b04966"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "37508c477867",
       "topic": "far find out refuse",
       "keywords": [
@@ -9759,36 +9439,18 @@
       ]
     },
     {
-      "id": "7790480a3234",
-      "topic": "actor busfield judge order",
+      "id": "9acefaa5839f",
+      "topic": "announce expecting fourth usha",
       "keywords": [
-        "actor",
-        "busfield",
-        "judge",
-        "order",
-        "release",
-        "timothy"
+        "announce",
+        "expecting",
+        "fourth",
+        "usha",
+        "vance",
+        "wife"
       ],
       "item_ids": [
-        "43fea44ef751"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "bb44b26236ea",
-      "topic": "another linked military oil",
-      "keywords": [
-        "another",
-        "linked",
-        "military",
-        "oil",
-        "seized",
-        "venezuela"
-      ],
-      "item_ids": [
-        "2a364ee20a92"
+        "e93b84609166"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10009,6 +9671,24 @@
       ]
     },
     {
+      "id": "2396d555068b",
+      "topic": "find greenland out strategy",
+      "keywords": [
+        "find",
+        "greenland",
+        "out",
+        "strategy",
+        "takeover",
+        "trump"
+      ],
+      "item_ids": [
+        "3589353850c0"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "7820dacfd0b5",
       "topic": "break gold greenland record",
       "keywords": [
@@ -10075,24 +9755,6 @@
       ],
       "item_ids": [
         "e080dadab5a9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "abbcc0134a50",
-      "topic": "cnbc daily flee investor",
-      "keywords": [
-        "cnbc",
-        "daily",
-        "flee",
-        "investor",
-        "open",
-        "trump"
-      ],
-      "item_ids": [
-        "6f28e4be43d4"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -12798,181 +12460,6 @@
       ],
       "outlets": [
         "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "4d68b7d6cb41",
-      "topic": "eclipse favorite revealed rotj",
-      "keywords": [
-        "eclipse",
-        "favorite",
-        "revealed",
-        "rotj",
-        "star",
-        "wars"
-      ],
-      "item_ids": [
-        "01f62cb17630"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "3041f5367d34",
-      "topic": "484 disaster galactic starcruiser",
-      "keywords": [
-        "484",
-        "disaster",
-        "galactic",
-        "starcruiser",
-        "swr"
-      ],
-      "item_ids": [
-        "c831e3291d7e"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "76c61b84461a",
-      "topic": "2021 bruce gibson review",
-      "keywords": [
-        "2021",
-        "bruce",
-        "gibson",
-        "review",
-        "swr",
-        "year"
-      ],
-      "item_ids": [
-        "a14f093f556a"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "9c2a1e3cb2fd",
-      "topic": "fix force kent stephen",
-      "keywords": [
-        "fix",
-        "force",
-        "kent",
-        "stephen",
-        "swr",
-        "world"
-      ],
-      "item_ids": [
-        "1b037cbd2fa0"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "2310b1aa0d50",
-      "topic": "481 choice redemtion reflecting",
-      "keywords": [
-        "481",
-        "choice",
-        "redemtion",
-        "reflecting",
-        "swr"
-      ],
-      "item_ids": [
-        "c6eb70794c12"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "cc7d025ab986",
-      "topic": "480 kenobi revealed swr",
-      "keywords": [
-        "480",
-        "kenobi",
-        "revealed",
-        "swr"
-      ],
-      "item_ids": [
-        "2bd6b95ce75d"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "a98a0ede1c29",
-      "topic": "boba fett geeking loud",
-      "keywords": [
-        "boba",
-        "fett",
-        "geeking",
-        "loud",
-        "out",
-        "trailer"
-      ],
-      "item_ids": [
-        "8bc2e543862e"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "8af4054e818a",
-      "topic": "ahsoka hayden join ryfun",
-      "keywords": [
-        "ahsoka",
-        "hayden",
-        "join",
-        "ryfun",
-        "scott",
-        "swr"
-      ],
-      "item_ids": [
-        "2ebb9ebcde07"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "2e116862dfd5",
-      "topic": "475 jimmy mac reminiscing",
-      "keywords": [
-        "475",
-        "jimmy",
-        "mac",
-        "reminiscing",
-        "swr"
-      ],
-      "item_ids": [
-        "a6985131ac1a"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "077fbd269b7a",
-      "topic": "boba comeback fett ryfun",
-      "keywords": [
-        "boba",
-        "comeback",
-        "fett",
-        "ryfun",
-        "scott",
-        "swr"
-      ],
-      "item_ids": [
-        "c1fa9628700b"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
       ]
     },
     {
