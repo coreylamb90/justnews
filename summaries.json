@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T13:37:01Z",
+  "generated_at": "2026-01-21T14:33:40Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -71,38 +71,665 @@
       "cluster_id": "158247cc9bdd"
     },
     {
-      "id": "fce0047ec245",
-      "title": "Trump to speak at Davos as his Greenland push, tariff threats take center stage",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/trump-greenland-tariffs-davos-europe.html",
-      "published_at": "Wed, 21 Jan 2026 13:05:35 GMT",
+      "id": "948a81eff31b",
+      "title": "The researchers reshaping the future of women-led business in Yorkshire",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/society/the-new-research-that-will-help-female-entrepreneurs-in-yorkshire-to-fly/",
+      "published_at": "Wed, 21 Jan 2026 14:13:05 +0000",
       "bullets": [
-        "• President Donald Trump is set to speak at the World Economic Forum in Davos, Switzerland",
-        "• His speech will be bookended by meetings with other world leaders",
-        "• The White House says he will speak at 8:30 a.m",
-        "• ET on Wednesday "
+        "• There are more than 23,000 fewer self-employed women in York and North Yorkshire than men",
+        "• Men are nearly twice as likely to work for themselves as women in the city",
+        "• Female-led organisations raised only £62,000 of equity, compared with £3.8m raised by male-led counterparts "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.726
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There are more than 23,000 fewer self-employed women in York and North Yorkshire than men",
+          "• Men are nearly twice as likely to work for themselves as women in the city"
+        ],
+        "hopeful_bullets": [
+          "• There are more than 23,000 fewer self-employed women in York and North Yorkshire than men",
+          "• Men are nearly twice as likely to work for themselves as women in the city"
+        ],
+        "stakes_bullets": [
+          "• There are more than 23,000 fewer self-employed women in York and North Yorkshire than men",
+          "• Men are nearly twice as likely to work for themselves as women in the city",
+          "• Female-led organisations raised only £62,000 of equity, compared with £3.8m raised by male-led counterparts "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7eeeee069a91"
+    },
+    {
+      "id": "b958003c5144",
+      "title": "‘Ready or Not 2: Here I Come’ Rated R for “Strong Bloody Violence, Gore”",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3930204/ready-or-not-2-here-i-come-rated-r-for-strong-bloody-violence-gore/",
+      "published_at": "Wed, 21 Jan 2026 14:08:33 +0000",
+      "bullets": [
+        "• Samara Weaving returns to star alongside Kathryn Newton in the sequel",
+        "• The sequel hits theaters on March 27",
+        "• The MPA has given it an R rating for “strong bloody violence, gore, pervasive language, and brief drug use”"
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.954
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Samara Weaving returns to star alongside Kathryn Newton in the sequel",
+          "• The sequel hits theaters on March 27"
+        ],
+        "hopeful_bullets": [
+          "• The MPA has given it an R rating for “strong bloody violence, gore, pervasive language, and brief drug use”"
+        ],
+        "stakes_bullets": [
+          "• Samara Weaving returns to star alongside Kathryn Newton in the sequel",
+          "• The sequel hits theaters on March 27",
+          "• The MPA has given it an R rating for “strong bloody violence, gore, pervasive language, and brief drug use”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5b6d08bd9a65"
+    },
+    {
+      "id": "9f841cbbcd18",
+      "title": "Natural gas prices soar as Arctic cold to blast Upper Midwest and descend across U.S.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/nautral-gas-prices-soar-as-winter-storm-arctic-cold-to-blast-us.html",
+      "published_at": "Wed, 21 Jan 2026 14:07:08 GMT",
+      "bullets": [
+        "• Temperatures could drop to -50 degrees in some parts of the U.S",
+        "• over the weekend",
+        "• Cold weather is expected to continue into the next few days",
+        "• Temperatures are expected to drop to minus 20 degrees in parts of New Mexico and Texas "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Temperatures could drop to -50 degrees in some parts of the U.S",
+          "• over the weekend"
+        ],
+        "hopeful_bullets": [
+          "• Temperatures could drop to -50 degrees in some parts of the U.S",
+          "• over the weekend"
+        ],
+        "stakes_bullets": [
+          "• Temperatures could drop to -50 degrees in some parts of the U.S",
+          "• Cold weather is expected to continue into the next few days",
+          "• Temperatures are expected to drop to minus 20 degrees in parts of New Mexico and Texas "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4d8d34ebce50"
+    },
+    {
+      "id": "e8debaee5eab",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "published_at": "Wed, 21 Jan 2026 14:06:48 GMT",
+      "bullets": [
+        "• Stocks fell again early this morning after the market's biggest selloff in three months",
+        "• The S & P 500 and Nasdaq both had their worst sessions since Oct",
+        "• 10",
+        "• The sharp losses stemmed from President Donald Trump 's escalating tariff threats "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stocks fell again early this morning after the market's biggest selloff in three months",
+          "• The S & P 500 and Nasdaq both had their worst sessions since Oct"
+        ],
+        "hopeful_bullets": [
+          "• Stocks fell again early this morning after the market's biggest selloff in three months",
+          "• The S & P 500 and Nasdaq both had their worst sessions since Oct"
+        ],
+        "stakes_bullets": [
+          "• Stocks fell again early this morning after the market's biggest selloff in three months",
+          "• The S & P 500 and Nasdaq both had their worst sessions since Oct",
+          "• 10"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d807ebcc5da4"
+    },
+    {
+      "id": "3cb6ae412fe7",
+      "title": "Trump AI czar Sacks calls California wealth tax an asset seizure and 'scary direction' for U.S.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/sacks-trump-ai-czar-billionaire-tax-california.html",
+      "published_at": "Wed, 21 Jan 2026 14:05:24 GMT",
+      "bullets": [
+        "• President Donald Trump's artificial intelligence and crypto czar David Sacks called California's proposed wealth tax a \"scary direction\" for the U.S",
+        "• The Billionaire Tax Act proposes a one-time 5% tax on the total wealth of residents with $1 billion or more in net worth",
+        "• Sacks believes the legislation has a \"good chance\" of passing "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump's artificial intelligence and crypto czar David Sacks called California's proposed wealth tax a \"scary direction\" for the U.S",
+          "• The Billionaire Tax Act proposes a one-time 5% tax on the total wealth of residents with $1 billion or more in net worth"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump's artificial intelligence and crypto czar David Sacks called California's proposed wealth tax a \"scary direction\" for the U.S",
+          "• The Billionaire Tax Act proposes a one-time 5% tax on the total wealth of residents with $1 billion or more in net worth"
+        ],
+        "stakes_bullets": [
+          "• The Billionaire Tax Act proposes a one-time 5% tax on the total wealth of residents with $1 billion or more in net worth"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1016e8464117"
+    },
+    {
+      "id": "1c0bc53802f7",
+      "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/berkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
+      "published_at": "Wed, 21 Jan 2026 14:04:04 GMT",
+      "bullets": [
+        "• Berkshire Hathaway registered its entire 27.5% stake in Kraft Heinz in a filing that clears the way for Berkshire to exit its position in the hot dog and mac-and-cheese maker",
+        "• The move underscores the willingness to move on from a deal that has long stood out as a rare blemish in Buffett's otherwise storied record "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Berkshire Hathaway registered its entire 27.5% stake in Kraft Heinz in a filing that clears the way for Berkshire to exit its position in the hot dog and mac-and-cheese maker",
+          "• The move underscores the willingness to move on from a deal that has long stood out as a rare blemish in Buffett's otherwise storied record "
+        ],
+        "hopeful_bullets": [
+          "• The move underscores the willingness to move on from a deal that has long stood out as a rare blemish in Buffett's otherwise storied record "
+        ],
+        "stakes_bullets": [
+          "• The move underscores the willingness to move on from a deal that has long stood out as a rare blemish in Buffett's otherwise storied record "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b7ed081771bc"
+    },
+    {
+      "id": "633b0d61e739",
+      "title": "OpenEvidence, the 'ChatGPT for doctors,' doubles valuation to $12 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html",
+      "published_at": "Wed, 21 Jan 2026 14:00:54 GMT",
+      "bullets": [
+        "• OpenEvidence raised $250 million from Thrive Capital and DST",
+        "• The company is widely known as \"ChatGPT for doctors\" It is the most widely used AI platform by doctors in the U.S., founder Daniel Nadler says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenEvidence raised $250 million from Thrive Capital and DST",
+          "• The company is widely known as \"ChatGPT for doctors\" It is the most widely used AI platform by doctors in the U.S., founder Daniel Nadler says "
+        ],
+        "hopeful_bullets": [
+          "• OpenEvidence raised $250 million from Thrive Capital and DST",
+          "• The company is widely known as \"ChatGPT for doctors\" It is the most widely used AI platform by doctors in the U.S., founder Daniel Nadler says "
+        ],
+        "stakes_bullets": [
+          "• OpenEvidence raised $250 million from Thrive Capital and DST",
+          "• The company is widely known as \"ChatGPT for doctors\" It is the most widely used AI platform by doctors in the U.S., founder Daniel Nadler says "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "31273c5de504"
+    },
+    {
+      "id": "a3d056dae404",
+      "title": "‘Ready or Not 2: Here I Come’ Rated “R” for Strong Bloody Violence and Gore!",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/554687/ready-or-not-2-here-i-come-rated-r-for-strong-bloody-violence-and-gore/",
+      "published_at": "Wed, 21 Jan 2026 14:00:42 +0000",
+      "bullets": [
+        "• ‘Ready or Not 2: Here I Come’ rated “R” for “Strong bloody violence, gore, pervasive language and brief drug use” Samara Weaving returns this time with her estranged sister Faith",
+        "• Four rival families are hunting her for the throne "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.665
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ‘Ready or Not 2: Here I Come’ rated “R” for “Strong bloody violence, gore, pervasive language and brief drug use” Samara Weaving returns this time with her estranged sister Faith",
+          "• Four rival families are hunting her for the throne "
+        ],
+        "hopeful_bullets": [
+          "• ‘Ready or Not 2: Here I Come’ rated “R” for “Strong bloody violence, gore, pervasive language and brief drug use” Samara Weaving returns this time with her estranged sister Faith"
+        ],
+        "stakes_bullets": [
+          "• ‘Ready or Not 2: Here I Come’ rated “R” for “Strong bloody violence, gore, pervasive language and brief drug use” Samara Weaving returns this time with her estranged sister Faith",
+          "• Four rival families are hunting her for the throne "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5b6d08bd9a65"
+    },
+    {
+      "id": "768bfd3cd1bd",
+      "title": "Sydney Water blames food outlets for illegally adding to fatberg. But restaurants say ‘if it’s a problem, it’s their problem’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/22/fatberg-poo-balls-sydney-businesses-could-be-illegally-discharging-waste",
+      "published_at": "Wed, 21 Jan 2026 14:00:38 GMT",
+      "bullets": [
+        "• Sydney Water says up to 12,000 food businesses in south-west could be illegally discharging fats, oils and grease into the sewage catchment that flows to Malabar",
+        "• The rise in restaurants and food manufacturers without proper grease traps and waste control measures is partly due to an increase in businesses overall",
+        "• Critics say digital reporting and fewer dedicated inspectors make it easier “to fly under the radar”"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sydney Water says up to 12,000 food businesses in south-west could be illegally discharging fats, oils and grease into the sewage catchment that flows to Malabar",
+          "• The rise in restaurants and food manufacturers without proper grease traps and waste control measures is partly due to an increase in businesses overall"
+        ],
+        "hopeful_bullets": [
+          "• Sydney Water says up to 12,000 food businesses in south-west could be illegally discharging fats, oils and grease into the sewage catchment that flows to Malabar",
+          "• The rise in restaurants and food manufacturers without proper grease traps and waste control measures is partly due to an increase in businesses overall"
+        ],
+        "stakes_bullets": [
+          "• Sydney Water says up to 12,000 food businesses in south-west could be illegally discharging fats, oils and grease into the sewage catchment that flows to Malabar",
+          "• The rise in restaurants and food manufacturers without proper grease traps and waste control measures is partly due to an increase in businesses overall"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "915810ed2005"
+    },
+    {
+      "id": "bbc1fdf71131",
+      "title": "Indie Folk-Horror Film Mother of Flies Unveils Terrifying Clip Ahead of Streaming Release",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mother-of-flies-indie-horror-terrifying-clip-shudder-release/",
+      "published_at": "Wed, 21 Jan 2026 14:00:12 GMT",
+      "bullets": [
+        "• Mother of Flies debuted to stunning reviews in 2025 and will join Shudder on Jan",
+        "• 23",
+        "• The indie folk-horror film is a mix of gore, witchcraft, and folk tales",
+        "• The film is from the Adams-Poser clan, who were also behind 2021's Hellbender "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
         "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• President Donald Trump is set to speak at the World Economic Forum in Davos, Switzerland",
+          "• Mother of Flies debuted to stunning reviews in 2025 and will join Shudder on Jan",
+          "• 23"
+        ],
+        "hopeful_bullets": [
+          "• Mother of Flies debuted to stunning reviews in 2025 and will join Shudder on Jan",
+          "• 23"
+        ],
+        "stakes_bullets": [
+          "• Mother of Flies debuted to stunning reviews in 2025 and will join Shudder on Jan"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "674cc898e39a"
+    },
+    {
+      "id": "c39d7809854f",
+      "title": "HBO's Game of Thrones Sequel Will Fix Arya Stark's Controversial Ending",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/game-of-thrones-arya-stark-sequel-fixes-ending-mistake/",
+      "published_at": "Wed, 21 Jan 2026 14:00:12 GMT",
+      "bullets": [
+        "• HBO is working on a Game of Thrones spinoff centered around Arya Stark",
+        "• Fans weren't happy with the way her story ended in Season 8",
+        "• A new spinoff could be a chance for fans to get a better ending",
+        "• HBO is hoping to build a full franchise around the series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HBO is working on a Game of Thrones spinoff centered around Arya Stark",
+          "• Fans weren't happy with the way her story ended in Season 8"
+        ],
+        "hopeful_bullets": [
+          "• HBO is working on a Game of Thrones spinoff centered around Arya Stark",
+          "• Fans weren't happy with the way her story ended in Season 8"
+        ],
+        "stakes_bullets": [
+          "• A new spinoff could be a chance for fans to get a better ending"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "1ab2c0ec80d7"
+    },
+    {
+      "id": "12ed288590c8",
+      "title": "Katseye, Olivia Dean, Addison Rae to Deliver Best New Artist Performance at Grammys",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/katseye-olivia-dean-grammys-best-new-artist-performance-1235502422/",
+      "published_at": "Wed, 21 Jan 2026 14:00:00 +0000",
+      "bullets": [
+        "• Katseye, Olivia Dean, Addison Rae, the Marías, Lola Young, Sombr, Alex Warren, and Leon Thomas will perform at the 2026 Grammys",
+        "• The special segment will be broadcast live from Crypto.com Arena in Los Angeles "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Katseye, Olivia Dean, Addison Rae, the Marías, Lola Young, Sombr, Alex Warren, and Leon Thomas will perform at the 2026 Grammys",
+          "• The special segment will be broadcast live from Crypto.com Arena in Los Angeles "
+        ],
+        "hopeful_bullets": [
+          "• Katseye, Olivia Dean, Addison Rae, the Marías, Lola Young, Sombr, Alex Warren, and Leon Thomas will perform at the 2026 Grammys",
+          "• The special segment will be broadcast live from Crypto.com Arena in Los Angeles "
+        ],
+        "stakes_bullets": [
+          "• Katseye, Olivia Dean, Addison Rae, the Marías, Lola Young, Sombr, Alex Warren, and Leon Thomas will perform at the 2026 Grammys",
+          "• The special segment will be broadcast live from Crypto.com Arena in Los Angeles "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d8fa60c98683"
+    },
+    {
+      "id": "65b90dacad40",
+      "title": "Crypto markets 'will reach an all-time high' this year, says Ripple CEO",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/crypto-price-high-ripple-davos-bitcoin.html",
+      "published_at": "Wed, 21 Jan 2026 13:52:05 GMT",
+      "bullets": [
+        "• Ripple CEO Brad Garlinghouse said regulatory changes such as the GENIUS Act had \"unlocked a lot of activity\" The Securities and Exchange Commission dropped a four-year lawsuit against Ripple in March",
+        "• Bitcoin hit an all-time high of around $126,000 in October and was trading at around $89,000 Wednesday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ripple CEO Brad Garlinghouse said regulatory changes such as the GENIUS Act had \"unlocked a lot of activity\" The Securities and Exchange Commission dropped a four-year lawsuit against Ripple in March",
+          "• Bitcoin hit an all-time high of around $126,000 in October and was trading at around $89,000 Wednesday "
+        ],
+        "hopeful_bullets": [
+          "• Ripple CEO Brad Garlinghouse said regulatory changes such as the GENIUS Act had \"unlocked a lot of activity\" The Securities and Exchange Commission dropped a four-year lawsuit against Ripple in March"
+        ],
+        "stakes_bullets": [
+          "• Ripple CEO Brad Garlinghouse said regulatory changes such as the GENIUS Act had \"unlocked a lot of activity\" The Securities and Exchange Commission dropped a four-year lawsuit against Ripple in March",
+          "• Bitcoin hit an all-time high of around $126,000 in October and was trading at around $89,000 Wednesday "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c9407c537296"
+    },
+    {
+      "id": "45913909b374",
+      "title": "Kenan Thompson & Kel Mitchell to Reunite for ‘Kenan & Kel Meet Frankenstein’",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3930192/kenan-thompson-kel-mitchell-to-reunite-for-kenan-kel-meet-frankenstein/",
+      "published_at": "Wed, 21 Jan 2026 13:51:15 +0000",
+      "bullets": [
+        "• Former Nickelodeon stars Kenan Thompson and Kel Mitchell are reuniting for a horror comedy",
+        "• The duo will play delivery drivers who accidentally awaken Frankenstein’s monster",
+        "• The horror comedy pays homage to the classic Abbott and Costello Meet… films "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Former Nickelodeon stars Kenan Thompson and Kel Mitchell are reuniting for a horror comedy",
+          "• The duo will play delivery drivers who accidentally awaken Frankenstein’s monster"
+        ],
+        "hopeful_bullets": [
+          "• Former Nickelodeon stars Kenan Thompson and Kel Mitchell are reuniting for a horror comedy",
+          "• The duo will play delivery drivers who accidentally awaken Frankenstein’s monster"
+        ],
+        "stakes_bullets": [
+          "• The duo will play delivery drivers who accidentally awaken Frankenstein’s monster"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d5ea6c76c25a"
+    },
+    {
+      "id": "fce0047ec245",
+      "title": "Watch: Trump speaks at Davos as Greenland push, tariff threats take center stage",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/trump-greenland-tariffs-davos-europe.html",
+      "published_at": "Wed, 21 Jan 2026 13:49:39 GMT",
+      "bullets": [
+        "• President Donald Trump is speaking at the World Economic Forum in Davos, Switzerland",
+        "• His speech will be bookended by meetings with other world leaders",
+        "• The White House says he will speak at Davos about proposals to make housing more affordable",
+        "• The president recently said he will slap increasing tariffs on a slew of key European allies "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump is speaking at the World Economic Forum in Davos, Switzerland",
           "• His speech will be bookended by meetings with other world leaders"
         ],
         "hopeful_bullets": [
-          "• President Donald Trump is set to speak at the World Economic Forum in Davos, Switzerland",
+          "• President Donald Trump is speaking at the World Economic Forum in Davos, Switzerland",
           "• His speech will be bookended by meetings with other world leaders"
         ],
         "stakes_bullets": [
           "• His speech will be bookended by meetings with other world leaders",
-          "• The White House says he will speak at 8:30 a.m"
+          "• The White House says he will speak at Davos about proposals to make housing more affordable",
+          "• The president recently said he will slap increasing tariffs on a slew of key European allies "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "f641e2f662e5"
+    },
+    {
+      "id": "85339a3d4995",
+      "title": "Supreme court to hear arguments on Lisa Cook as Trump continues campaign for control over Federal Reserve – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/21/us-politics-live-supreme-court-fed-lisa-cook-donald-trump-latest-news-updates",
+      "published_at": "Wed, 21 Jan 2026 13:48:20 GMT",
+      "bullets": [
+        "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
+        "• It was the first time in 112 years that a president had sought to remove a Fed governor",
+        "• Trump administration is waging an unprecedented battle with the Fed over interest rates "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.815
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
+          "• It was the first time in 112 years that a president had sought to remove a Fed governor"
+        ],
+        "hopeful_bullets": [
+          "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
+          "• It was the first time in 112 years that a president had sought to remove a Fed governor"
+        ],
+        "stakes_bullets": [
+          "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
+          "• It was the first time in 112 years that a president had sought to remove a Fed governor",
+          "• Trump administration is waging an unprecedented battle with the Fed over interest rates "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "ebb725cc6e9e"
+    },
+    {
+      "id": "55b2da4b4939",
+      "title": "Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/bessent-davos-denmark-greenland-treasuries.html",
+      "published_at": "Wed, 21 Jan 2026 13:41:27 GMT",
+      "bullets": [
+        "• \"Denmark's investment in U.S",
+        "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent says",
+        "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys",
+        "• Bessents says he is not concerned about European investors pulling out of Treasuries "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent says"
+        ],
+        "hopeful_bullets": [
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent says"
+        ],
+        "stakes_bullets": [
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent says",
+          "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3d96f5a2a8dd"
+    },
+    {
+      "id": "8954c5925b46",
+      "title": "Claudette Colvin obituary",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/21/claudette-colvin-obituary",
+      "published_at": "Wed, 21 Jan 2026 13:28:01 GMT",
+      "bullets": [
+        "• She refused to move to the back of a bus because it was reserved for white people",
+        "• She was charged with violating the law, but the charges were later dropped",
+        "• Her death was the result of a lawsuit by the NAACP against her actions",
+        "• The case was the first to be heard of a black person being prosecuted for a crime "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• She refused to move to the back of a bus because it was reserved for white people",
+          "• She was charged with violating the law, but the charges were later dropped"
+        ],
+        "hopeful_bullets": [
+          "• Her death was the result of a lawsuit by the NAACP against her actions"
+        ],
+        "stakes_bullets": [
+          "• She refused to move to the back of a bus because it was reserved for white people",
+          "• Her death was the result of a lawsuit by the NAACP against her actions",
+          "• The case was the first to be heard of a black person being prosecuted for a crime "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a5a8a856ffdc"
+    },
+    {
+      "id": "0d6f3b17ba3c",
+      "title": "Japan restarts world's largest nuclear plant as Fukushima memories loom large",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq6v0v32rg1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 21 Jan 2026 13:18:45 GMT",
+      "bullets": [
+        "• Japan restarts world's largest nuclear power plant for first time since 2011 Fukushima disaster",
+        "• Decision to restart reactor number 6 at Kashiwazaki-Kariwa north-west of Tokyo was taken despite local residents' safety concerns",
+        "• It was delayed by a day because of an alarm malfunction and is due to begin operating next month "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan restarts world's largest nuclear power plant for first time since 2011 Fukushima disaster",
+          "• Decision to restart reactor number 6 at Kashiwazaki-Kariwa north-west of Tokyo was taken despite local residents' safety concerns"
+        ],
+        "hopeful_bullets": [
+          "• Japan restarts world's largest nuclear power plant for first time since 2011 Fukushima disaster",
+          "• Decision to restart reactor number 6 at Kashiwazaki-Kariwa north-west of Tokyo was taken despite local residents' safety concerns"
+        ],
+        "stakes_bullets": [
+          "• Japan restarts world's largest nuclear power plant for first time since 2011 Fukushima disaster",
+          "• It was delayed by a day because of an alarm malfunction and is due to begin operating next month "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d3f3e8f6c815"
+    },
+    {
+      "id": "ef611908e7d8",
+      "title": "Nigeria police confirm mass church abductions after previous denial",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4grw9vg7y4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 21 Jan 2026 13:08:20 GMT",
+      "bullets": [
+        "• Nigeria police confirm mass church abductions after previous denial of the attack",
+        "• Residents say 177 worshippers were taken from three churches in northern Kaduna state",
+        "• Police said earlier statement had been \"widely misinterpreted\" and that operations were under way "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nigeria police confirm mass church abductions after previous denial of the attack",
+          "• Residents say 177 worshippers were taken from three churches in northern Kaduna state"
+        ],
+        "hopeful_bullets": [
+          "• Nigeria police confirm mass church abductions after previous denial of the attack",
+          "• Residents say 177 worshippers were taken from three churches in northern Kaduna state"
+        ],
+        "stakes_bullets": [
+          "• Nigeria police confirm mass church abductions after previous denial of the attack",
+          "• Residents say 177 worshippers were taken from three churches in northern Kaduna state",
+          "• Police said earlier statement had been \"widely misinterpreted\" and that operations were under way "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "610a403d7e2d"
     },
     {
       "id": "7bff4415ba5e",
@@ -137,40 +764,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "e722862fc68c"
-    },
-    {
-      "id": "85339a3d4995",
-      "title": "Supreme court to hear arguments on Lisa Cook as Trump continues campaign for control over Federal Reserve – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/21/us-politics-live-supreme-court-fed-lisa-cook-donald-trump-latest-news-updates",
-      "published_at": "Wed, 21 Jan 2026 12:39:48 GMT",
-      "bullets": [
-        "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
-        "• It was the first time in 112 years that a president had sought to remove a Fed governor",
-        "• Trump administration is waging an unprecedented battle with the Fed over interest rates "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.815
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
-          "• It was the first time in 112 years that a president had sought to remove a Fed governor"
-        ],
-        "hopeful_bullets": [
-          "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
-          "• It was the first time in 112 years that a president had sought to remove a Fed governor"
-        ],
-        "stakes_bullets": [
-          "• US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
-          "• It was the first time in 112 years that a president had sought to remove a Fed governor",
-          "• Trump administration is waging an unprecedented battle with the Fed over interest rates "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "ebb725cc6e9e"
     },
     {
       "id": "2fd6944deb4c",
@@ -208,71 +801,6 @@
       "cluster_id": "e1225f2dfa09"
     },
     {
-      "id": "633b0d61e739",
-      "title": "OpenEvidence, the 'ChatGPT for doctors,' doubles valuation to $12 billion",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html",
-      "published_at": "Wed, 21 Jan 2026 12:30:01 GMT",
-      "bullets": [
-        "• OpenEvidence raised $250 million from Thrive Capital and DST",
-        "• The startup is widely known as \"ChatGPT for doctors\" It's the most widely used AI platform by doctors in the U.S., with more than 40% of physicians using it "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• OpenEvidence raised $250 million from Thrive Capital and DST",
-          "• The startup is widely known as \"ChatGPT for doctors\" It's the most widely used AI platform by doctors in the U.S., with more than 40% of physicians using it "
-        ],
-        "hopeful_bullets": [
-          "• OpenEvidence raised $250 million from Thrive Capital and DST",
-          "• The startup is widely known as \"ChatGPT for doctors\" It's the most widely used AI platform by doctors in the U.S., with more than 40% of physicians using it "
-        ],
-        "stakes_bullets": [
-          "• OpenEvidence raised $250 million from Thrive Capital and DST",
-          "• The startup is widely known as \"ChatGPT for doctors\" It's the most widely used AI platform by doctors in the U.S., with more than 40% of physicians using it "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "31273c5de504"
-    },
-    {
-      "id": "e8d3dc1b24c7",
-      "title": "Putin meeting set for Thursday, Witkoff says, with Ukraine 'land deals' on the table",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/putin-witkoff-trump-ukraine-peace-deal-talks-progress-land-deals.html",
-      "published_at": "Wed, 21 Jan 2026 12:26:00 GMT",
-      "bullets": [
-        "• Special Envoy Steve Witkoff set to meet with Russian President Vladimir Putin on Thursday",
-        "• Talks will take place with President Donald Trump's son-in-law Jared Kushner and Ukrainian officials",
-        "• Talks are set to take place at the World Economic Forum in Davos, Switzerland, on Thursday evening",
-        "• Talks over a U.S.-led 20-point peace plan is making progress, he said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Special Envoy Steve Witkoff set to meet with Russian President Vladimir Putin on Thursday",
-          "• Talks will take place with President Donald Trump's son-in-law Jared Kushner and Ukrainian officials"
-        ],
-        "hopeful_bullets": [
-          "• Talks over a U.S.-led 20-point peace plan is making progress, he said "
-        ],
-        "stakes_bullets": [
-          "• Talks will take place with President Donald Trump's son-in-law Jared Kushner and Ukrainian officials",
-          "• Talks over a U.S.-led 20-point peace plan is making progress, he said "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ec447e48db1a"
-    },
-    {
       "id": "2d61b7aff9db",
       "title": "Almost 400 millionaires and billionaires call for higher taxes on super-rich | First Thing",
       "outlet": "US news | The Guardian",
@@ -305,37 +833,37 @@
     },
     {
       "id": "8800516c2978",
-      "title": "Nato chief urges ‘thoughtful diplomacy’ in Greenland row as Trump lands in Zurich",
+      "title": "Nato chief urges ‘thoughtful diplomacy’ after US treasury secretary’s jibe at Denmark",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/business/2026/jan/21/trump-treasury-secretary-brands-denmark-irrelevant-greenland-row-deepens",
       "published_at": "Wed, 21 Jan 2026 12:18:09 GMT",
       "bullets": [
-        "• US president's threats to seize Greenland risk tearing the transatlantic alliance apart",
-        "• Donald Trump's promise to impose tariffs on European nations who oppose him could trigger a trade war with the EU",
-        "• The US president was expected to face a tough reception from angry European leaders in Davos "
+        "• Nato’s Mark Rutte said there were ‘tensions at the moment’ but that talks, and a concerted drive to bolster Arctic security, were the only ways forward",
+        "• US treasury secretary dismissed Denmark as ‘irrelevant’ and brushed aside claims that European investors might pull out of the US market",
+        "• Donald Trump has landed in Switzerland for the Davos global gathering "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.905
+        "score": 0.954
       },
       "moods": {
         "brief_bullets": [
-          "• US president's threats to seize Greenland risk tearing the transatlantic alliance apart",
-          "• Donald Trump's promise to impose tariffs on European nations who oppose him could trigger a trade war with the EU"
+          "• Nato’s Mark Rutte said there were ‘tensions at the moment’ but that talks, and a concerted drive to bolster Arctic security, were the only ways forward",
+          "• US treasury secretary dismissed Denmark as ‘irrelevant’ and brushed aside claims that European investors might pull out of the US market"
         ],
         "hopeful_bullets": [
-          "• US president's threats to seize Greenland risk tearing the transatlantic alliance apart",
-          "• Donald Trump's promise to impose tariffs on European nations who oppose him could trigger a trade war with the EU"
+          "• Nato’s Mark Rutte said there were ‘tensions at the moment’ but that talks, and a concerted drive to bolster Arctic security, were the only ways forward",
+          "• US treasury secretary dismissed Denmark as ‘irrelevant’ and brushed aside claims that European investors might pull out of the US market"
         ],
         "stakes_bullets": [
-          "• US president's threats to seize Greenland risk tearing the transatlantic alliance apart",
-          "• Donald Trump's promise to impose tariffs on European nations who oppose him could trigger a trade war with the EU",
-          "• The US president was expected to face a tough reception from angry European leaders in Davos "
+          "• Nato’s Mark Rutte said there were ‘tensions at the moment’ but that talks, and a concerted drive to bolster Arctic security, were the only ways forward",
+          "• US treasury secretary dismissed Denmark as ‘irrelevant’ and brushed aside claims that European investors might pull out of the US market",
+          "• Donald Trump has landed in Switzerland for the Davos global gathering "
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "b5e7afad86d0"
+      "cluster_id": "eeefffe5e3d7"
     },
     {
       "id": "ad5aab946f95",
@@ -435,39 +963,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "17df56301077"
-    },
-    {
-      "id": "cd122fd9158d",
-      "title": "China says trade deal with U.S. will 'drain Taiwan’s economy' for American benefits",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/china-us-taiwan-deal-semiconductors-chips-supply-chain-trade-deal.html",
-      "published_at": "Wed, 21 Jan 2026 12:02:58 GMT",
-      "bullets": [
-        "• Taiwan and the U.S",
-        "• agreed a trade deal last week",
-        "• China has doubled down on its criticism of the deal, saying it would \"only drain Taiwan's economic interests\" Taiwan will invest $250 billion in the United States",
-        "• China considers Taiwan as its own territory and calls reunification \"an inevitability\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taiwan and the U.S",
-          "• agreed a trade deal last week"
-        ],
-        "hopeful_bullets": [
-          "• Taiwan and the U.S",
-          "• agreed a trade deal last week"
-        ],
-        "stakes_bullets": [
-          "• China has doubled down on its criticism of the deal, saying it would \"only drain Taiwan's economic interests\" Taiwan will invest $250 billion in the United States"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fc6c350a8798"
     },
     {
       "id": "b3f15ec16c90",
@@ -573,38 +1068,6 @@
       "cluster_id": "efb7b470bb13"
     },
     {
-      "id": "214324459d34",
-      "title": "Mortgage refinances surged again, but rates are now suddenly jumping higher",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/mortgage-refinances-surged-again-but-rates-are-now-suddenly-jumping-higher.html",
-      "published_at": "Wed, 21 Jan 2026 12:00:02 GMT",
-      "bullets": [
-        "• Applications to refinance a home loan rose 20% compared with the previous week",
-        "• Applications were 183% higher than the same week one year ago",
-        "• Rates initially dropped the week before last, after President Trump said he would make mortgage giants Fannie Mae and Freddie Mac buy $200 billion of mortgage-backed bonds "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Applications to refinance a home loan rose 20% compared with the previous week",
-          "• Applications were 183% higher than the same week one year ago"
-        ],
-        "hopeful_bullets": [
-          "• Applications to refinance a home loan rose 20% compared with the previous week",
-          "• Applications were 183% higher than the same week one year ago"
-        ],
-        "stakes_bullets": [
-          "• Rates initially dropped the week before last, after President Trump said he would make mortgage giants Fannie Mae and Freddie Mac buy $200 billion of mortgage-backed bonds "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2ab7aa695643"
-    },
-    {
       "id": "a0bbc6d71abb",
       "title": "James Talarico unveils Spanish-language TV ad, signaling push for Latino support in Texas Senate bid",
       "outlet": "The Texas Tribune",
@@ -636,40 +1099,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "8ca0cb3ccee7"
-    },
-    {
-      "id": "ef611908e7d8",
-      "title": "Nigeria police confirm mass church abductions after previous denial",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4grw9vg7y4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 11:53:29 GMT",
-      "bullets": [
-        "• Nigeria police confirm mass church abductions after previous denial of the attack",
-        "• Residents say 177 worshippers were taken from three churches in northern Kaduna state",
-        "• Police said earlier statement had been \"widely misinterpreted\" and that operations were under way "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nigeria police confirm mass church abductions after previous denial of the attack",
-          "• Residents say 177 worshippers were taken from three churches in northern Kaduna state"
-        ],
-        "hopeful_bullets": [
-          "• Nigeria police confirm mass church abductions after previous denial of the attack",
-          "• Residents say 177 worshippers were taken from three churches in northern Kaduna state"
-        ],
-        "stakes_bullets": [
-          "• Nigeria police confirm mass church abductions after previous denial of the attack",
-          "• Residents say 177 worshippers were taken from three churches in northern Kaduna state",
-          "• Police said earlier statement had been \"widely misinterpreted\" and that operations were under way "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "610a403d7e2d"
     },
     {
       "id": "a83a1364dd10",
@@ -705,41 +1134,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "8cb18a47d223"
-    },
-    {
-      "id": "55b2da4b4939",
-      "title": "Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/bessent-davos-denmark-greenland-treasuries.html",
-      "published_at": "Wed, 21 Jan 2026 11:43:50 GMT",
-      "bullets": [
-        "• \"Denmark's investment in U.S",
-        "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
-        "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys",
-        "• It comes after President Donald Trump escalated tensions over Greenland "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• \"Denmark's investment in U.S",
-          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
-        ],
-        "hopeful_bullets": [
-          "• \"Denmark's investment in U.S",
-          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
-        ],
-        "stakes_bullets": [
-          "• \"Denmark's investment in U.S",
-          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
-          "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3d96f5a2a8dd"
     },
     {
       "id": "278ebb3b8c1f",
@@ -841,39 +1235,6 @@
       "cluster_id": "d716c34d5985"
     },
     {
-      "id": "79e3b343b3dc",
-      "title": "Coyote stuns observers by braving rough waters to swim to Alcatraz",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/21/coyote-swims-to-alcatraz",
-      "published_at": "Wed, 21 Jan 2026 11:00:35 GMT",
-      "bullets": [
-        "• The coyote is thought to be the first to swim to Alcatraz, a former prison island off the coast of San Francisco",
-        "• It is believed to have swam 1.25 miles from San Francisco or other nearby islands",
-        "• The animal was captured in plain view of a tourist recording video of the encounter "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The coyote is thought to be the first to swim to Alcatraz, a former prison island off the coast of San Francisco",
-          "• It is believed to have swam 1.25 miles from San Francisco or other nearby islands"
-        ],
-        "hopeful_bullets": [
-          "• The animal was captured in plain view of a tourist recording video of the encounter "
-        ],
-        "stakes_bullets": [
-          "• The coyote is thought to be the first to swim to Alcatraz, a former prison island off the coast of San Francisco",
-          "• It is believed to have swam 1.25 miles from San Francisco or other nearby islands",
-          "• The animal was captured in plain view of a tourist recording video of the encounter "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d46c258d60df"
-    },
-    {
       "id": "b91b8588c2ee",
       "title": "US senator calls veterans affairs’ data collection of non-citizen workers ‘thinly veiled effort to instill fear’",
       "outlet": "US news | The Guardian",
@@ -906,36 +1267,37 @@
       "cluster_id": "9f5498e8f5bf"
     },
     {
-      "id": "656879b0fe05",
-      "title": "Supreme Court case on Trump bid to fire Fed Governor Lisa Cook set for oral arguments",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/supreme-court-trump-fed-lisa-cook-powell.html",
-      "published_at": "Wed, 21 Jan 2026 11:00:01 GMT",
+      "id": "79e3b343b3dc",
+      "title": "Coyote stuns observers by braving rough waters to swim to Alcatraz",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/21/coyote-swims-to-alcatraz",
+      "published_at": "Wed, 21 Jan 2026 11:00:35 GMT",
       "bullets": [
-        "• The Supreme Court is set to hear a decision on whether to remove the president's authority from the Federal Reserve",
-        "• The decision is the first time a presidential candidate has been removed from the Fed has been overruled by the White House",
-        "• The president is expected to make the decision in the next week "
+        "• The coyote is thought to be the first to swim to Alcatraz, a former prison island off the coast of San Francisco",
+        "• It is believed to have swam 1.25 miles from San Francisco or other nearby islands",
+        "• The animal was captured in plain view of a tourist recording video of the encounter "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.898
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
-          "• The Supreme Court is set to hear a decision on whether to remove the president's authority from the Federal Reserve",
-          "• The decision is the first time a presidential candidate has been removed from the Fed has been overruled by the White House"
+          "• The coyote is thought to be the first to swim to Alcatraz, a former prison island off the coast of San Francisco",
+          "• It is believed to have swam 1.25 miles from San Francisco or other nearby islands"
         ],
         "hopeful_bullets": [
-          "• The Supreme Court is set to hear a decision on whether to remove the president's authority from the Federal Reserve",
-          "• The decision is the first time a presidential candidate has been removed from the Fed has been overruled by the White House"
+          "• The animal was captured in plain view of a tourist recording video of the encounter "
         ],
         "stakes_bullets": [
-          "• The president is expected to make the decision in the next week "
+          "• The coyote is thought to be the first to swim to Alcatraz, a former prison island off the coast of San Francisco",
+          "• It is believed to have swam 1.25 miles from San Francisco or other nearby islands",
+          "• The animal was captured in plain view of a tourist recording video of the encounter "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "44595eff2aee"
+      "read_minutes": 2,
+      "cluster_id": "d46c258d60df"
     },
     {
       "id": "9d7c6f0638e8",
@@ -1006,36 +1368,37 @@
       "cluster_id": "e5e0f634f76d"
     },
     {
-      "id": "f3e21043d174",
-      "title": "Texas governor primary: Who is running and what to know",
+      "id": "857595a5f1d2",
+      "title": "The EPA is easing pollution rules under Trump. Here’s how it’s affecting Texas.",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17259127/2026-texas-governor-primary-guide",
+      "url": "https://feeds.texastribune.org/link/16799/17259129/texas-trump-epa-regulation-rollback",
       "published_at": "Wed, 21 Jan 2026 11:00:00 +0000",
       "bullets": [
-        "• The Texas governor is the chief executive of the state",
-        "• His responsibilities include implementing state laws, laying out biennial budget recommendations for the Legislature",
-        "• He also has the sole authority to call special legislative sessions and to set the agenda for overtime legislating periods "
+        "• Environmental Protection Agency administrator Lee Zeldin announced 31 deregulatory actions in his first 100 days in office",
+        "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities",
+        "• Texas is one of the states that feels EPA policy changes directly because the state has shown little interest in stepping up its environmental enforcement "
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "positive",
-        "score": 0.956
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The Texas governor is the chief executive of the state",
-          "• His responsibilities include implementing state laws, laying out biennial budget recommendations for the Legislature"
+          "• Environmental Protection Agency administrator Lee Zeldin announced 31 deregulatory actions in his first 100 days in office",
+          "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities"
         ],
         "hopeful_bullets": [
-          "• The Texas governor is the chief executive of the state",
-          "• His responsibilities include implementing state laws, laying out biennial budget recommendations for the Legislature"
+          "• Environmental Protection Agency administrator Lee Zeldin announced 31 deregulatory actions in his first 100 days in office",
+          "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities"
         ],
         "stakes_bullets": [
-          "• The Texas governor is the chief executive of the state"
+          "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities",
+          "• Texas is one of the states that feels EPA policy changes directly because the state has shown little interest in stepping up its environmental enforcement "
         ]
       },
-      "read_minutes": 7,
-      "cluster_id": "7cff0827752a"
+      "read_minutes": 6,
+      "cluster_id": "29eda19e8a87"
     },
     {
       "id": "3f5c0a8f997e",
@@ -1073,37 +1436,36 @@
       "cluster_id": "710a2ee9420b"
     },
     {
-      "id": "857595a5f1d2",
-      "title": "The EPA is easing pollution rules under Trump. Here’s how it’s affecting Texas.",
+      "id": "f3e21043d174",
+      "title": "Texas governor primary: Who is running and what to know",
       "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17259129/texas-trump-epa-regulation-rollback",
+      "url": "https://feeds.texastribune.org/link/16799/17259127/2026-texas-governor-primary-guide",
       "published_at": "Wed, 21 Jan 2026 11:00:00 +0000",
       "bullets": [
-        "• Environmental Protection Agency administrator Lee Zeldin announced 31 deregulatory actions in his first 100 days in office",
-        "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities",
-        "• Texas is one of the states that feels EPA policy changes directly because the state has shown little interest in stepping up its environmental enforcement "
+        "• The Texas governor is the chief executive of the state",
+        "• His responsibilities include implementing state laws, laying out biennial budget recommendations for the Legislature",
+        "• He also has the sole authority to call special legislative sessions and to set the agenda for overtime legislating periods "
       ],
       "category": "Texas",
       "sentiment": {
-        "label": "negative",
-        "score": 0.999
+        "label": "positive",
+        "score": 0.956
       },
       "moods": {
         "brief_bullets": [
-          "• Environmental Protection Agency administrator Lee Zeldin announced 31 deregulatory actions in his first 100 days in office",
-          "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities"
+          "• The Texas governor is the chief executive of the state",
+          "• His responsibilities include implementing state laws, laying out biennial budget recommendations for the Legislature"
         ],
         "hopeful_bullets": [
-          "• Environmental Protection Agency administrator Lee Zeldin announced 31 deregulatory actions in his first 100 days in office",
-          "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities"
+          "• The Texas governor is the chief executive of the state",
+          "• His responsibilities include implementing state laws, laying out biennial budget recommendations for the Legislature"
         ],
         "stakes_bullets": [
-          "• Advocacy groups fear the rollback will bring more pollution, higher health risks, and less information and power for Texas communities",
-          "• Texas is one of the states that feels EPA policy changes directly because the state has shown little interest in stepping up its environmental enforcement "
+          "• The Texas governor is the chief executive of the state"
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "29eda19e8a87"
+      "read_minutes": 7,
+      "cluster_id": "7cff0827752a"
     },
     {
       "id": "971a64737f7e",
@@ -1138,39 +1500,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "0716514776b8"
-    },
-    {
-      "id": "0d6f3b17ba3c",
-      "title": "Japan restarts world's largest nuclear plant",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6v0v32rg1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 10:27:48 GMT",
-      "bullets": [
-        "• Reactor no.6 at the Kashiwazaki-Kariwa plant restarted on Wednesday",
-        "• It is the latest installment in Japan's nuclear power reboot, which still has a long way to go",
-        "• The seventh reactor is not expected to come back on until 2030 and the remaining five could be decommissioned "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Reactor no.6 at the Kashiwazaki-Kariwa plant restarted on Wednesday",
-          "• It is the latest installment in Japan's nuclear power reboot, which still has a long way to go"
-        ],
-        "hopeful_bullets": [
-          "• Reactor no.6 at the Kashiwazaki-Kariwa plant restarted on Wednesday",
-          "• It is the latest installment in Japan's nuclear power reboot, which still has a long way to go"
-        ],
-        "stakes_bullets": [
-          "• Reactor no.6 at the Kashiwazaki-Kariwa plant restarted on Wednesday",
-          "• The seventh reactor is not expected to come back on until 2030 and the remaining five could be decommissioned "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "d3f3e8f6c815"
     },
     {
       "id": "2b577322f771",
@@ -1399,7 +1728,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "44595eff2aee"
+      "cluster_id": "f621ae227e92"
     },
     {
       "id": "6b2ec9421dce",
@@ -1670,39 +1999,6 @@
       "cluster_id": "484a0dc3f8ca"
     },
     {
-      "id": "4ac7cc7015ab",
-      "title": "Plantwatch: Neighbouring plants warn each other about incoming stress",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/science/2026/jan/21/plantwatch-neighbouring-plants-warn-each-other-stress",
-      "published_at": "Wed, 21 Jan 2026 06:00:52 GMT",
-      "bullets": [
-        "• Thale cress (Arabidopsis thaliana) plants were grown on their own or crowded so close together they were touching each other",
-        "• When all the plants were then stressed with intense light, the isolated plants suffered severe damage, but the crowds of plants were able to cope with the stress",
-        "• It took an hour for the crowded plants to switch on more than 2,000 genes that were involved in protecting against a host of different stresses "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.657
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thale cress (Arabidopsis thaliana) plants were grown on their own or crowded so close together they were touching each other",
-          "• When all the plants were then stressed with intense light, the isolated plants suffered severe damage, but the crowds of plants were able to cope with the stress"
-        ],
-        "hopeful_bullets": [
-          "• It took an hour for the crowded plants to switch on more than 2,000 genes that were involved in protecting against a host of different stresses "
-        ],
-        "stakes_bullets": [
-          "• Thale cress (Arabidopsis thaliana) plants were grown on their own or crowded so close together they were touching each other",
-          "• When all the plants were then stressed with intense light, the isolated plants suffered severe damage, but the crowds of plants were able to cope with the stress",
-          "• It took an hour for the crowded plants to switch on more than 2,000 genes that were involved in protecting against a host of different stresses "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cd6663d16ad6"
-    },
-    {
       "id": "80958a794512",
       "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
       "outlet": "BBC News",
@@ -1835,39 +2131,6 @@
       "cluster_id": "f833226838aa"
     },
     {
-      "id": "f33525841c87",
-      "title": "How ICE grew to be the highest-funded U.S. law enforcement agency",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump",
-      "published_at": "Wed, 21 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Immigration and Customs Enforcement is now the highest-funded U.S",
-        "• law enforcement agency",
-        "• The agency's budget has skyrocketed during President Trump's second term",
-        "• The One Big Beautiful Bill Act, enacted last July, gave the agency $85 billion "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Immigration and Customs Enforcement is now the highest-funded U.S",
-          "• law enforcement agency"
-        ],
-        "hopeful_bullets": [
-          "• Immigration and Customs Enforcement is now the highest-funded U.S",
-          "• law enforcement agency"
-        ],
-        "stakes_bullets": [
-          "• The One Big Beautiful Bill Act, enacted last July, gave the agency $85 billion "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "6d39ae6fc076"
-    },
-    {
       "id": "f00d575b75ff",
       "title": "1 year into Trump's second term, a consumer watchdog agency is 'hanging by a thread'",
       "outlet": "NPR Topics: News",
@@ -1935,6 +2198,39 @@
       "cluster_id": "25d1b9528778"
     },
     {
+      "id": "f33525841c87",
+      "title": "How ICE grew to be the highest-funded U.S. law enforcement agency",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump",
+      "published_at": "Wed, 21 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Immigration and Customs Enforcement is now the highest-funded U.S",
+        "• law enforcement agency",
+        "• The agency's budget has skyrocketed during President Trump's second term",
+        "• The One Big Beautiful Bill Act, enacted last July, gave the agency $85 billion "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Immigration and Customs Enforcement is now the highest-funded U.S",
+          "• law enforcement agency"
+        ],
+        "hopeful_bullets": [
+          "• Immigration and Customs Enforcement is now the highest-funded U.S",
+          "• law enforcement agency"
+        ],
+        "stakes_bullets": [
+          "• The One Big Beautiful Bill Act, enacted last July, gave the agency $85 billion "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "6d39ae6fc076"
+    },
+    {
       "id": "a1c913ce9189",
       "title": "It's showdown time for the Fed's independence at the Supreme Court",
       "outlet": "NPR Topics: News",
@@ -1976,27 +2272,27 @@
       "published_at": "Wed, 21 Jan 2026 05:00:00 -0500",
       "bullets": [
         "• Trump heads to Davos after upending European relations over Greenland",
-        "• President Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days",
+        "• Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days",
         "• Trump on social media threatened to tariff goods from eight European nations and NATO members until they support a U.S",
         "• deal to purchase Greenland "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.975
+        "score": 0.978
       },
       "moods": {
         "brief_bullets": [
           "• Trump heads to Davos after upending European relations over Greenland",
-          "• President Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days"
+          "• Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days"
         ],
         "hopeful_bullets": [
           "• Trump heads to Davos after upending European relations over Greenland",
-          "• President Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days"
+          "• Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days"
         ],
         "stakes_bullets": [
           "• Trump heads to Davos after upending European relations over Greenland",
-          "• President Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days",
+          "• Trump's aggressive push to acquire Greenland has turned to open antagonism toward allies in recent days",
           "• Trump on social media threatened to tariff goods from eight European nations and NATO members until they support a U.S"
         ]
       },
@@ -2136,37 +2432,6 @@
       "cluster_id": "19f2294757df"
     },
     {
-      "id": "7334c2a46a98",
-      "title": "Trump’s Air Force One turns back to Washington after ‘minor electrical issue’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-air-force-one-turns-back-washington-davos-minor-electrical-issue",
-      "published_at": "Wed, 21 Jan 2026 04:40:32 GMT",
-      "bullets": [
-        "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault",
-        "• White House press secretary Karoline Leavitt said the decision was taken \"out of an abundance of caution\" The president continued his trip to the World Economic Forum in Davos shortly after midnight "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault",
-          "• White House press secretary Karoline Leavitt said the decision was taken \"out of an abundance of caution\" The president continued his trip to the World Economic Forum in Davos shortly after midnight "
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault",
-          "• White House press secretary Karoline Leavitt said the decision was taken \"out of an abundance of caution\" The president continued his trip to the World Economic Forum in Davos shortly after midnight "
-        ],
-        "stakes_bullets": [
-          "• Donald Trump's Air Force One plane forced to abort its flight to Davos after electrical fault"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8901ae427a44"
-    },
-    {
       "id": "611dc14dca2f",
       "title": "NCIS’s Best Episodes Break the Show’s Most Important Rule",
       "outlet": "CBR",
@@ -2297,71 +2562,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "82de8ee723be"
-    },
-    {
-      "id": "45c1b4f771fc",
-      "title": "5 Grittiest R-Rated Movies of All Time, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/grittiest-r-rated-movies-of-all-time-ranked-list/",
-      "published_at": "Wed, 21 Jan 2026 03:50:12 GMT",
-      "bullets": [
-        "• Hollywood has long given audiences some of the grittiest films ever made",
-        "• Decades like the '70s and '90s gave viewers one dark and violent film after another",
-        "• The French Connection is among the movies that helped build the modern action-thril "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hollywood has long given audiences some of the grittiest films ever made",
-          "• Decades like the '70s and '90s gave viewers one dark and violent film after another"
-        ],
-        "hopeful_bullets": [
-          "• The French Connection is among the movies that helped build the modern action-thril "
-        ],
-        "stakes_bullets": [
-          "• Hollywood has long given audiences some of the grittiest films ever made",
-          "• Decades like the '70s and '90s gave viewers one dark and violent film after another",
-          "• The French Connection is among the movies that helped build the modern action-thril "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "81e97d9f2eec"
-    },
-    {
-      "id": "87612b8d29da",
-      "title": "The 10 Best-Written Gachiakuta Characters, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/official-best-written-gachiakuta-characters/",
-      "published_at": "Wed, 21 Jan 2026 03:45:12 GMT",
-      "bullets": [
-        "• Mangaka Kei Urana has filled Gachiakuta’s characters with life, being messy, carrying immense trauma, and breathing sarcasm",
-        "• The anime becomes much more engaging due to its cast of heroes and villains, who range from grumpy children to chaotic monsters "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mangaka Kei Urana has filled Gachiakuta’s characters with life, being messy, carrying immense trauma, and breathing sarcasm",
-          "• The anime becomes much more engaging due to its cast of heroes and villains, who range from grumpy children to chaotic monsters "
-        ],
-        "hopeful_bullets": [
-          "• Mangaka Kei Urana has filled Gachiakuta’s characters with life, being messy, carrying immense trauma, and breathing sarcasm",
-          "• The anime becomes much more engaging due to its cast of heroes and villains, who range from grumpy children to chaotic monsters "
-        ],
-        "stakes_bullets": [
-          "• Mangaka Kei Urana has filled Gachiakuta’s characters with life, being messy, carrying immense trauma, and breathing sarcasm",
-          "• The anime becomes much more engaging due to its cast of heroes and villains, who range from grumpy children to chaotic monsters "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "91588dc9bfe5"
     },
     {
       "id": "4cee17051b2a",
@@ -3192,38 +3392,6 @@
       "cluster_id": "0c06403ea92a"
     },
     {
-      "id": "e3bc635f5585",
-      "title": "Annihilus makes his MCU Debut in the Nova Series",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/marvel/annihilus-makes-his-mcu-debut-in-the-nova-series/",
-      "published_at": "Tue, 28 Jan 2025 19:56:06 +0000",
-      "bullets": [
-        "• A Nova Series for Disney Plus has been rumored to be in the works for years at this point",
-        "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut",
-        "• In the comics he is usually a villain for the Fantastic Four, however he is also behind the destruction of Xandar which makes Richard Rider, Nova Prime "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Nova Series for Disney Plus has been rumored to be in the works for years at this point",
-          "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut"
-        ],
-        "hopeful_bullets": [
-          "• A Nova Series for Disney Plus has been rumored to be in the works for years at this point",
-          "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut"
-        ],
-        "stakes_bullets": [
-          "• The main villain of the series, rumored to have been Annihilus, is expected to make his live action MCU debut"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6cc9daf95221"
-    },
-    {
       "id": "25583b305498",
       "title": "2025 Star Wars Year-In-Review Christmas Show",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -3424,22 +3592,22 @@
       "url": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
       "published_at": "Tue, 20 Jan 2026 23:22:26 +0000",
       "bullets": [
-        "• The Federal Trade Commission is appealing a November ruling that cleared Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
+        "• The Federal Trade Commission is appealing a November ruling clearing Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• The Federal Trade Commission is appealing a November ruling that cleared Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
+          "• The Federal Trade Commission is appealing a November ruling clearing Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
         ],
         "hopeful_bullets": [
-          "• The Federal Trade Commission is appealing a November ruling that cleared Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
+          "• The Federal Trade Commission is appealing a November ruling clearing Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
         ],
         "stakes_bullets": [
-          "• The Federal Trade Commission is appealing a November ruling that cleared Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
+          "• The Federal Trade Commission is appealing a November ruling clearing Meta of allegations that it holds an illegal monopoly in a market dubbed “personal social networking .” The FTC hopes the US Court of Appeals for the District of Columbia will agree that “robust evidence at trial” showed that Meta’s acquisitions were improper "
         ]
       },
       "read_minutes": 1,
@@ -3653,28 +3821,28 @@
       "url": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
       "published_at": "Tue, 20 Jan 2026 22:17:02 +0000",
       "bullets": [
-        "• SRV3 allows for custom colors, animations, fonts, and precise positioning in videos",
-        "• The format has been used by YouTube users for more than a decade",
-        "• Google says it is working on a fix for the problem, but it's not working on it "
+        "• YouTube users have been up in arms over the removal of YouTube's SRV3 caption format",
+        "• The advanced caption format allows for custom colors, animations, fonts, and precise positioning in videos",
+        "• Google says it's working on a fix for a bug that may break playback for some users "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• SRV3 allows for custom colors, animations, fonts, and precise positioning in videos",
-          "• The format has been used by YouTube users for more than a decade"
+          "• YouTube users have been up in arms over the removal of YouTube's SRV3 caption format",
+          "• The advanced caption format allows for custom colors, animations, fonts, and precise positioning in videos"
         ],
         "hopeful_bullets": [
-          "• SRV3 allows for custom colors, animations, fonts, and precise positioning in videos",
-          "• The format has been used by YouTube users for more than a decade"
+          "• YouTube users have been up in arms over the removal of YouTube's SRV3 caption format",
+          "• The advanced caption format allows for custom colors, animations, fonts, and precise positioning in videos"
         ],
         "stakes_bullets": [
-          "• SRV3 allows for custom colors, animations, fonts, and precise positioning in videos",
-          "• The format has been used by YouTube users for more than a decade",
-          "• Google says it is working on a fix for the problem, but it's not working on it "
+          "• YouTube users have been up in arms over the removal of YouTube's SRV3 caption format",
+          "• The advanced caption format allows for custom colors, animations, fonts, and precise positioning in videos",
+          "• Google says it's working on a fix for a bug that may break playback for some users "
         ]
       },
       "read_minutes": 1,
@@ -3812,40 +3980,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ae0e4d071956"
-    },
-    {
-      "id": "0b37c659c07b",
-      "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/20/powell-could-stay-at-fed-even-after-being-removed-as-chair.html",
-      "published_at": "Tue, 20 Jan 2026 21:13:51 GMT",
-      "bullets": [
-        "• Federal Reserve Chair Jerome Powell's term ends on May 15",
-        "• President Trump is expected to nominate his successor as soon as next week",
-        "• Powell's 14-year term as governor stretches to Jan",
-        "• 31, 2028",
-        "• Some on Wall Street think the prospect of Trump gaining further control of the Fed might convince him to stay "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal Reserve Chair Jerome Powell's term ends on May 15",
-          "• President Trump is expected to nominate his successor as soon as next week"
-        ],
-        "hopeful_bullets": [
-          "• Federal Reserve Chair Jerome Powell's term ends on May 15",
-          "• President Trump is expected to nominate his successor as soon as next week"
-        ],
-        "stakes_bullets": [
-          "• President Trump is expected to nominate his successor as soon as next week"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "fa33c8551c22"
     },
     {
       "id": "8935d81dae0e",
@@ -4498,38 +4632,6 @@
       "cluster_id": "b2dcfc014c66"
     },
     {
-      "id": "056fda1f9152",
-      "title": "Tactical Survival Horror Game ‘Vultures – Scavengers of Death’ Receives New Demo Next Month",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3929943/tactical-survival-horror-game-vultures-scavengers-of-death-receives-new-demo-next-month/",
-      "published_at": "Tue, 20 Jan 2026 18:32:58 +0000",
-      "bullets": [
-        "• Vultures – Scavengers of Death is a survival horror game inspired by Resident Evil",
-        "• Updated demo for the game launches on Steam on February 12",
-        "• The game embraces a retro PS1 aesthetic and mechanics that lead to a “tense, horror-filled exploration”"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Vultures – Scavengers of Death is a survival horror game inspired by Resident Evil",
-          "• Updated demo for the game launches on Steam on February 12"
-        ],
-        "hopeful_bullets": [
-          "• Vultures – Scavengers of Death is a survival horror game inspired by Resident Evil",
-          "• Updated demo for the game launches on Steam on February 12"
-        ],
-        "stakes_bullets": [
-          "• The game embraces a retro PS1 aesthetic and mechanics that lead to a “tense, horror-filled exploration”"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "25b4107ec50a"
-    },
-    {
       "id": "f89943a9e16f",
       "title": "Léa Seydoux Joins A24’s Adaptation of Edgar Allen Poe’s ‘The Masque of the Red Death’",
       "outlet": "Dread Central",
@@ -4592,40 +4694,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e314f8e95c3"
-    },
-    {
-      "id": "a4e58baf7e15",
-      "title": "‘Forbidden Fruits’ Character Posters Introduce the Witch Cult Members",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3930082/forbidden-fruits-character-posters-introduce-the-witch-cult-members/",
-      "published_at": "Tue, 20 Jan 2026 18:16:09 +0000",
-      "bullets": [
-        "• The horror comedy is due in theaters this year from Independent Film Company and Shudder",
-        "• It follows Free Eden employee Apple, who secretly runs a witchy femme cult in the basement of the mall store",
-        "• The women are forced to face their own poisons or succumb to a bloody fate "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.954
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The horror comedy is due in theaters this year from Independent Film Company and Shudder",
-          "• It follows Free Eden employee Apple, who secretly runs a witchy femme cult in the basement of the mall store"
-        ],
-        "hopeful_bullets": [
-          "• The horror comedy is due in theaters this year from Independent Film Company and Shudder",
-          "• It follows Free Eden employee Apple, who secretly runs a witchy femme cult in the basement of the mall store"
-        ],
-        "stakes_bullets": [
-          "• The horror comedy is due in theaters this year from Independent Film Company and Shudder",
-          "• It follows Free Eden employee Apple, who secretly runs a witchy femme cult in the basement of the mall store",
-          "• The women are forced to face their own poisons or succumb to a bloody fate "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "c0b5beec5ff3"
     },
     {
       "id": "9eab3d0a8815",
@@ -4730,41 +4798,6 @@
       "cluster_id": "8806aaf06f1e"
     },
     {
-      "id": "970b5edd2bcd",
-      "title": "Harry Styles Will Offer First Snapshot of New Album With Lead Single ‘Aperture’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/harry-styles-announces-new-single-aperture-1235501937/",
-      "published_at": "Tue, 20 Jan 2026 17:29:59 +0000",
-      "bullets": [
-        "• Harry Styles' fourth album, Kiss All the Time",
-        "• Disco, Occasionally, will be released March 6",
-        "• Lead single, “Aperture,” is released worldwide at 7 p.m",
-        "• EST",
-        "• The 12-track album reunites Styles with longtime collaborator Kid Harpoon "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Harry Styles' fourth album, Kiss All the Time",
-          "• Disco, Occasionally, will be released March 6"
-        ],
-        "hopeful_bullets": [
-          "• Harry Styles' fourth album, Kiss All the Time",
-          "• Disco, Occasionally, will be released March 6"
-        ],
-        "stakes_bullets": [
-          "• Disco, Occasionally, will be released March 6",
-          "• Lead single, “Aperture,” is released worldwide at 7 p.m"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "73b3d766f896"
-    },
-    {
       "id": "445ce344e4e7",
       "title": "Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts",
       "outlet": "World news | The Guardian",
@@ -4863,37 +4896,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1a14aef40061"
-    },
-    {
-      "id": "d5464e111b72",
-      "title": "‘Twisted’ Photos and Poster Put ‘Terrifier’ Star Lauren LaVera in Harm’s Way",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/554469/twisted-photos-and-poster-put-terrifier-star-lauren-lavera-in-harms-way/",
-      "published_at": "Tue, 20 Jan 2026 17:00:00 +0000",
-      "bullets": [
-        "• Darren Lynn Bousman’s latest horror entry, Twisted, features the studio debut of Lauren LaVera as a con artist whose real estate scam unravels into a nightmare",
-        "• The film will be available to buy or rent on digital February 6 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.93
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Darren Lynn Bousman’s latest horror entry, Twisted, features the studio debut of Lauren LaVera as a con artist whose real estate scam unravels into a nightmare",
-          "• The film will be available to buy or rent on digital February 6 "
-        ],
-        "hopeful_bullets": [
-          "• Darren Lynn Bousman’s latest horror entry, Twisted, features the studio debut of Lauren LaVera as a con artist whose real estate scam unravels into a nightmare",
-          "• The film will be available to buy or rent on digital February 6 "
-        ],
-        "stakes_bullets": [
-          "• The film will be available to buy or rent on digital February 6 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ec44b8ec7880"
     },
     {
       "id": "1a49406e2c17",
@@ -6252,73 +6254,6 @@
       "cluster_id": "8af4054e818a"
     },
     {
-      "id": "bb9f43091b0d",
-      "title": "Full Avengers: Doomsday Cast Announcement Breakdown",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/marvel/full-avengers-doomsday-cast-announcement-breakdown/",
-      "published_at": "Thu, 27 Mar 2025 22:21:08 +0000",
-      "bullets": [
-        "• Marvel fans were treated to a live stream on the Marvel Entertainment YouTube Account, though the video ended up being over 5 hours long, it revealed the full cast for the upcoming Avengers: Doomsday cast",
-        "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member",
-        "• This is the first Marvel project since Avenge "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.642
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel fans were treated to a live stream on the Marvel Entertainment YouTube Account, though the video ended up being over 5 hours long, it revealed the full cast for the upcoming Avengers: Doomsday cast",
-          "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member"
-        ],
-        "hopeful_bullets": [
-          "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member"
-        ],
-        "stakes_bullets": [
-          "• Marvel fans were treated to a live stream on the Marvel Entertainment YouTube Account, though the video ended up being over 5 hours long, it revealed the full cast for the upcoming Avengers: Doomsday cast",
-          "• During the live stream, fans watched as set chairs were shown on screen, every twelve or so minutes a new chair revealed itself, showing another cast member",
-          "• This is the first Marvel project since Avenge "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "de631f7845cb"
-    },
-    {
-      "id": "c690784022a8",
-      "title": "Your Friendly Neighborhood Spider-Man: A Fresh and Engaging Take",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/your-friendly-neighborhood-spider-man-review/",
-      "published_at": "Thu, 20 Feb 2025 06:44:35 +0000",
-      "bullets": [
-        "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-        "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world",
-        "• The animation style may not be for everyone, but I personally enjoyed it "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-          "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world"
-        ],
-        "hopeful_bullets": [
-          "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-          "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world"
-        ],
-        "stakes_bullets": [
-          "• Your Friendly Neighborhood Spider-Man offers a fresh, character-driven take on Peter Parker",
-          "• The show dives deep into themes of gang life, real-world struggles, and the pressures faced by young people caught in that world",
-          "• The animation style may not be for everyone, but I personally enjoyed it "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fae2f8de0cfb"
-    },
-    {
       "id": "eb89c7c40302",
       "title": "STAR WARS ‘77 4K: Secrets Revealed!",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -6382,39 +6317,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "43cf75700a7a"
-    },
-    {
-      "id": "f9bd93cbbe4f",
-      "title": "Skeleton Crew: A Decent Ride That Never Reaches Hyperspace",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/skeleton-crew-review/",
-      "published_at": "Thu, 16 Jan 2025 06:47:40 +0000",
-      "bullets": [
-        "• A lot of people have compared Skeleton Crew to The Goonies, but I don't think that comparison holds up",
-        "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment",
-        "• The themes of independence are there, and there are good ideas throughout "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.574
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A lot of people have compared Skeleton Crew to The Goonies, but I don't think that comparison holds up",
-          "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment"
-        ],
-        "hopeful_bullets": [
-          "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment"
-        ],
-        "stakes_bullets": [
-          "• A lot of people have compared Skeleton Crew to The Goonies, but I don't think that comparison holds up",
-          "• Instead of an adventure filled with discovery and personal growth, this show feels more like a journey that just needed to hit a “yay, we did it” moment",
-          "• The themes of independence are there, and there are good ideas throughout "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "888b1e315600"
     },
     {
       "id": "f3b736ac9752",
@@ -6680,38 +6582,6 @@
       "cluster_id": "adc7d3204405"
     },
     {
-      "id": "fe447758d910",
-      "title": "Captain America: Brave New World – A Rushed but Decent Entry",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/captain-america-brave-new-world-review/",
-      "published_at": "Thu, 13 Feb 2025 19:44:40 +0000",
-      "bullets": [
-        "• Captain America: Brave New World has strong performances and moments of greatness, but it struggles with a rushed narrative, sloppy CGI, and an underwhelming finale",
-        "• Marvel Studios continues to push out projects too fast, and the results show",
-        "• The strongest part of the film is the dynamic between Sam Wilson and Joaquin Torres "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Captain America: Brave New World has strong performances and moments of greatness, but it struggles with a rushed narrative, sloppy CGI, and an underwhelming finale",
-          "• Marvel Studios continues to push out projects too fast, and the results show"
-        ],
-        "hopeful_bullets": [
-          "• Captain America: Brave New World has strong performances and moments of greatness, but it struggles with a rushed narrative, sloppy CGI, and an underwhelming finale",
-          "• The strongest part of the film is the dynamic between Sam Wilson and Joaquin Torres "
-        ],
-        "stakes_bullets": [
-          "• Marvel Studios continues to push out projects too fast, and the results show"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b5ebb78247cb"
-    },
-    {
       "id": "bccb5391a5e0",
       "title": "*Trailer & Poster Debut* HONEY BUNCH | A New Genre-Bending Relationship Thriller",
       "outlet": "HorrorFix",
@@ -6775,40 +6645,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "1a8aa91301b8"
-    },
-    {
-      "id": "b72963244510",
-      "title": "Agatha All Along: Unpacking the Pop Culture References",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/marvel/agatha-all-along-pop-culture-magic/",
-      "published_at": "Sun, 27 Oct 2024 05:15:10 +0000",
-      "bullets": [
-        "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-        "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story",
-        "• These subtle nods serve as easter eggs for eagle-eyed viewers, while also enhancing the show's atmosphere and themes "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-          "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story"
-        ],
-        "hopeful_bullets": [
-          "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-          "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story"
-        ],
-        "stakes_bullets": [
-          "• Disney+ series Agatha All Along pulls out all the stops with clever nods to iconic pop culture and mystical visuals",
-          "• From witchy aesthetics to outfits inspired by legendary characters, the series adds layers of meaning and depth to its story",
-          "• These subtle nods serve as easter eggs for eagle-eyed viewers, while also enhancing the show's atmosphere and themes "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f5cbbc6c3bcb"
     },
     {
       "id": "47d140411222",
@@ -7408,40 +7244,6 @@
       "cluster_id": "73369c717a45"
     },
     {
-      "id": "40236a8d776a",
-      "title": "What If…? Season 3: Uneven Stories, Satisfying Arcs",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/what-if-season-3-review/",
-      "published_at": "Mon, 30 Dec 2024 00:08:41 +0000",
-      "bullets": [
-        "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-        "• The biggest letdown in What If…? Season 3 is the missed potential",
-        "• A few episodes manage to capture the intrigue and fun that made the first season such a standout "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-          "• The biggest letdown in What If…? Season 3 is the missed potential"
-        ],
-        "hopeful_bullets": [
-          "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-          "• The biggest letdown in What If…? Season 3 is the missed potential"
-        ],
-        "stakes_bullets": [
-          "• There are moments of brilliance where the potential of its premise shines through, but just as often, the episodes feel like filler",
-          "• The biggest letdown in What If…? Season 3 is the missed potential",
-          "• A few episodes manage to capture the intrigue and fun that made the first season such a standout "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ce5a5a3ce234"
-    },
-    {
       "id": "1b037cbd2fa0",
       "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
       "outlet": "The Star Wars Report Podcast",
@@ -7838,39 +7640,6 @@
       "cluster_id": "19c66ac1ec16"
     },
     {
-      "id": "11607afa6306",
-      "title": "The Penguin: A Gritty, Edge-of-Your-Seat Masterpiece",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/the-penguin-review/",
-      "published_at": "Mon, 11 Nov 2024 07:26:10 +0000",
-      "bullets": [
-        "• The Penguin delivers thrilling intensity, movie-quality visuals, and powerful performances",
-        "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for",
-        "• Cristin Milioti is a standout as well, playing with commanding intensity "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Penguin delivers thrilling intensity, movie-quality visuals, and powerful performances",
-          "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for"
-        ],
-        "hopeful_bullets": [
-          "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for"
-        ],
-        "stakes_bullets": [
-          "• The Penguin delivers thrilling intensity, movie-quality visuals, and powerful performances",
-          "• Colin Farrell’s portrayal of the Penguin is masterful, capturing a character you should despise but can’t help rooting for",
-          "• Cristin Milioti is a standout as well, playing with commanding intensity "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b235c16fb40e"
-    },
-    {
       "id": "c553ee404320",
       "title": "Lost TCM Film, ALL AMERICAN MASSACRE starring Bill “Choptop” Mosley Finally Being Released",
       "outlet": "HorrorFix",
@@ -8235,40 +8004,6 @@
       "cluster_id": "6dc77581ede1"
     },
     {
-      "id": "cd39cebe7492",
-      "title": "Kraven the Hunter: Action Thrills, Story Spills",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/kraven-the-hunter-review/",
-      "published_at": "Fri, 13 Dec 2024 07:49:20 +0000",
-      "bullets": [
-        "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-        "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story",
-        "• Russell Crowe’s performance, in particular, is a highlight "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-          "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story"
-        ],
-        "hopeful_bullets": [
-          "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-          "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story"
-        ],
-        "stakes_bullets": [
-          "• The story itself is jumbled, struggling with pacing issues that make the first act drag unnecessarily",
-          "• The backstory for how Kraven gets his powers feels lazy and uninspired, lacking the creativity or emotional weight you’d expect from an origin story",
-          "• Russell Crowe’s performance, in particular, is a highlight "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "cf059bc2fec2"
-    },
-    {
       "id": "2bd6b95ce75d",
       "title": "Kenobi Revealed – SWR #480",
       "outlet": "The Star Wars Report Podcast",
@@ -8303,39 +8038,6 @@
       "cluster_id": "cc7d025ab986"
     },
     {
-      "id": "c8177dc31327",
-      "title": "Creature Commandos: A Bold and Brilliant Start to the New DCU",
-      "outlet": "Comic Quarters",
-      "url": "https://comicquarters.com/reviews/creature-commandos-review/",
-      "published_at": "Fri, 10 Jan 2025 16:33:22 +0000",
-      "bullets": [
-        "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor",
-        "• Behind all the chaos and carnage, there’s a surprising amount of heart, with some truly moving moments that add weight to the narrative",
-        "• James Gunn has proven time and time again that he knows how to craft a comic book project "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor",
-          "• Behind all the chaos and carnage, there’s a surprising amount of heart, with some truly moving moments that add weight to the narrative"
-        ],
-        "hopeful_bullets": [
-          "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor"
-        ],
-        "stakes_bullets": [
-          "• Creature Commandos delivers a gripping story, strong character development and the perfect balance of action and humor",
-          "• Behind all the chaos and carnage, there’s a surprising amount of heart, with some truly moving moments that add weight to the narrative",
-          "• James Gunn has proven time and time again that he knows how to craft a comic book project "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2daa60016122"
-    },
-    {
       "id": "ccc17ecbe13a",
       "title": "Think society is in decline? Research gives us some reasons to be cheerful",
       "outlet": "Positive News",
@@ -8366,37 +8068,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "44eaca14d89c"
-    },
-    {
-      "id": "4c8f1a814fce",
-      "title": "What went right this week: conservation at ‘end of the world’, plus more",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-2-of-2026/",
-      "published_at": "Fri, 09 Jan 2026 05:22:29 +0000",
-      "bullets": [
-        "• Cape Froward national park will span 150,000 hectares of subantarctic forests, peatlands and coastline at the southern tip of the Americas",
-        "• The region’s unique ecosystems harbour endangered wildlife, including wild pumas, huemul deer and whales "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cape Froward national park will span 150,000 hectares of subantarctic forests, peatlands and coastline at the southern tip of the Americas",
-          "• The region’s unique ecosystems harbour endangered wildlife, including wild pumas, huemul deer and whales "
-        ],
-        "hopeful_bullets": [
-          "• Cape Froward national park will span 150,000 hectares of subantarctic forests, peatlands and coastline at the southern tip of the Americas",
-          "• The region’s unique ecosystems harbour endangered wildlife, including wild pumas, huemul deer and whales "
-        ],
-        "stakes_bullets": [
-          "• Cape Froward national park will span 150,000 hectares of subantarctic forests, peatlands and coastline at the southern tip of the Americas"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "57aa981de33e"
     },
     {
       "id": "a14f093f556a",
@@ -8431,6 +8102,135 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "918eef3e033b",
+      "title": "YouTube TV will launch custom multiview and channel packages ‘soon’",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/864566/youtube-tv-custom-multiview-channel-packages",
+      "published_at": "2026-01-21T09:00:00-05:00",
+      "bullets": [
+        "• YouTube TV is getting ready to launch two major updates to its multiview feature",
+        "• Multiview will allow you to watch multiple non-sports channels simultaneously",
+        "• You'll be able to choose from 10 paid plans focused on a range of topics, including sports, entertainment, and news "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• YouTube TV is getting ready to launch two major updates to its multiview feature",
+          "• Multiview will allow you to watch multiple non-sports channels simultaneously"
+        ],
+        "hopeful_bullets": [
+          "• YouTube TV is getting ready to launch two major updates to its multiview feature",
+          "• Multiview will allow you to watch multiple non-sports channels simultaneously"
+        ],
+        "stakes_bullets": [
+          "• Multiview will allow you to watch multiple non-sports channels simultaneously",
+          "• You'll be able to choose from 10 paid plans focused on a range of topics, including sports, entertainment, and news "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6f9f95115974"
+    },
+    {
+      "id": "b87a0c729a5e",
+      "title": "YouTubers will be able to make Shorts with their own AI likenesses",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026",
+      "published_at": "2026-01-21T09:00:00-05:00",
+      "bullets": [
+        "• YouTube CEO Neal Mohan says creators will soon be able to make Shorts with AI likenesses",
+        "• The capability is launching sometime in 2026, though YouTube isn’t sharing details about how it will work",
+        "• The likenesses are part of a growing push from YouTube into AI tools "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.956
+      },
+      "moods": {
+        "brief_bullets": [
+          "• YouTube CEO Neal Mohan says creators will soon be able to make Shorts with AI likenesses",
+          "• The capability is launching sometime in 2026, though YouTube isn’t sharing details about how it will work"
+        ],
+        "hopeful_bullets": [
+          "• The likenesses are part of a growing push from YouTube into AI tools "
+        ],
+        "stakes_bullets": [
+          "• YouTube CEO Neal Mohan says creators will soon be able to make Shorts with AI likenesses",
+          "• The capability is launching sometime in 2026, though YouTube isn’t sharing details about how it will work"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a8845046506c"
+    },
+    {
+      "id": "ba1962260828",
+      "title": "Adobe Acrobat uses AI to turn your PDFs into podcasts",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation",
+      "published_at": "2026-01-21T09:00:00-05:00",
+      "bullets": [
+        "• New features include chat-based editing and the ability to generate podcasts and presentations based on your docs",
+        "• The Generate Podcast feature provides a podcast-style audio summarization of whatever documents you feed it, including notes, meeting transcriptions, lengthy reports and educational guides "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New features include chat-based editing and the ability to generate podcasts and presentations based on your docs",
+          "• The Generate Podcast feature provides a podcast-style audio summarization of whatever documents you feed it, including notes, meeting transcriptions, lengthy reports and educational guides "
+        ],
+        "hopeful_bullets": [
+          "• New features include chat-based editing and the ability to generate podcasts and presentations based on your docs",
+          "• The Generate Podcast feature provides a podcast-style audio summarization of whatever documents you feed it, including notes, meeting transcriptions, lengthy reports and educational guides "
+        ],
+        "stakes_bullets": [
+          "• New features include chat-based editing and the ability to generate podcasts and presentations based on your docs",
+          "• The Generate Podcast feature provides a podcast-style audio summarization of whatever documents you feed it, including notes, meeting transcriptions, lengthy reports and educational guides "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "178380550285"
+    },
+    {
+      "id": "d22637ff0764",
+      "title": "Detective games get extra cryptic with TR-49’s code-breaking mystery",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/864630/tr49-review-steam-iphone",
+      "published_at": "2026-01-21T08:30:00-05:00",
+      "bullets": [
+        "• TR-49 is the latest game from Inkle, the studio behind 80 Days and Heaven’s Vault",
+        "• You play as a woman who wakes up in a church basement with no memory of who she is or how she got there "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• TR-49 is the latest game from Inkle, the studio behind 80 Days and Heaven’s Vault",
+          "• You play as a woman who wakes up in a church basement with no memory of who she is or how she got there "
+        ],
+        "hopeful_bullets": [
+          "• TR-49 is the latest game from Inkle, the studio behind 80 Days and Heaven’s Vault",
+          "• You play as a woman who wakes up in a church basement with no memory of who she is or how she got there "
+        ],
+        "stakes_bullets": [
+          "• TR-49 is the latest game from Inkle, the studio behind 80 Days and Heaven’s Vault",
+          "• You play as a woman who wakes up in a church basement with no memory of who she is or how she got there "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "87e762ece396"
     },
     {
       "id": "33e932d84d51",
@@ -8628,135 +8428,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "6e72838990db"
-    },
-    {
-      "id": "71908128c495",
-      "title": "Netflix earned $1.5 billion from ads in 2025",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings",
-      "published_at": "2026-01-20T18:06:25-05:00",
-      "bullets": [
-        "• Netflix's ad-supported streaming service is on track to double its $1.5 billion from 2024 to 2025",
-        "• The company plans to launch more AI-powered ads in the second quarter of the year",
-        "• Netflix reached an $82.7 billion deal with HBO and Warner Bros",
-        "• in December "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.684
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix's ad-supported streaming service is on track to double its $1.5 billion from 2024 to 2025",
-          "• The company plans to launch more AI-powered ads in the second quarter of the year"
-        ],
-        "hopeful_bullets": [
-          "• Netflix's ad-supported streaming service is on track to double its $1.5 billion from 2024 to 2025",
-          "• The company plans to launch more AI-powered ads in the second quarter of the year"
-        ],
-        "stakes_bullets": [
-          "• Netflix's ad-supported streaming service is on track to double its $1.5 billion from 2024 to 2025",
-          "• The company plans to launch more AI-powered ads in the second quarter of the year",
-          "• Netflix reached an $82.7 billion deal with HBO and Warner Bros"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "01df742c7120"
-    },
-    {
-      "id": "053350ae0596",
-      "title": "Trump admin admits DOGE employees had access to off-limits Social Security data",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/864643/doge-social-security-data-misuse",
-      "published_at": "2026-01-20T17:52:59-05:00",
-      "bullets": [
-        "• A court filing reveals DOGE employees had more access to Social Security data than previously disclosed",
-        "• The court found out that two members of the staff had been contacted in March 2025 by an individual who wanted to “obtain’t’ve signed a “Voter Data Agreement’s” with the government "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A court filing reveals DOGE employees had more access to Social Security data than previously disclosed",
-          "• The court found out that two members of the staff had been contacted in March 2025 by an individual who wanted to “obtain’t’ve signed a “Voter Data Agreement’s” with the government "
-        ],
-        "hopeful_bullets": [
-          "• A court filing reveals DOGE employees had more access to Social Security data than previously disclosed",
-          "• The court found out that two members of the staff had been contacted in March 2025 by an individual who wanted to “obtain’t’ve signed a “Voter Data Agreement’s” with the government "
-        ],
-        "stakes_bullets": [
-          "• A court filing reveals DOGE employees had more access to Social Security data than previously disclosed",
-          "• The court found out that two members of the staff had been contacted in March 2025 by an individual who wanted to “obtain’t’ve signed a “Voter Data Agreement’s” with the government "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ff26c0deb609"
-    },
-    {
-      "id": "332e753f380b",
-      "title": "Netflix will revamp its mobile UI this year",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video",
-      "published_at": "2026-01-20T17:46:59-05:00",
-      "bullets": [
-        "• Netflix is working on a new mobile UI set to roll out later this year",
-        "• Co-CEO Greg Peters says it will “better serve the expansion of our business over the decade to come” The new UI follows last year’s big TV revamp that put a new banner front and center on the homescreen "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix is working on a new mobile UI set to roll out later this year",
-          "• Co-CEO Greg Peters says it will “better serve the expansion of our business over the decade to come” The new UI follows last year’s big TV revamp that put a new banner front and center on the homescreen "
-        ],
-        "hopeful_bullets": [
-          "• Netflix is working on a new mobile UI set to roll out later this year",
-          "• Co-CEO Greg Peters says it will “better serve the expansion of our business over the decade to come” The new UI follows last year’s big TV revamp that put a new banner front and center on the homescreen "
-        ],
-        "stakes_bullets": [
-          "• Co-CEO Greg Peters says it will “better serve the expansion of our business over the decade to come” The new UI follows last year’s big TV revamp that put a new banner front and center on the homescreen "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9dd6278aa1cd"
-    },
-    {
-      "id": "6a8af165f113",
-      "title": "FTC says it will appeal Meta antitrust loss",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal",
-      "published_at": "2026-01-20T17:21:31-05:00",
-      "bullets": [
-        "• Federal Trade Commission will appeal its loss in a landmark antitrust case against Meta",
-        "• Judge ruled in November that the government failed to prove Meta had an illegal monopoly over a subset of social networking services meant for connecting with friends and family online",
-        "• The government argued that Meta maintained its monopoly over the personal social networking market by acquiring nascent threats Instagram and WhatsApp "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal Trade Commission will appeal its loss in a landmark antitrust case against Meta",
-          "• Judge ruled in November that the government failed to prove Meta had an illegal monopoly over a subset of social networking services meant for connecting with friends and family online"
-        ],
-        "hopeful_bullets": [
-          "• Federal Trade Commission will appeal its loss in a landmark antitrust case against Meta"
-        ],
-        "stakes_bullets": [
-          "• Federal Trade Commission will appeal its loss in a landmark antitrust case against Meta"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a259ad4f70a6"
     },
     {
       "id": "c41ff758b36a",
@@ -9499,6 +9170,21 @@
       ]
     },
     {
+      "id": "a5a8a856ffdc",
+      "topic": "claudette colvin obituary",
+      "keywords": [
+        "claudette",
+        "colvin",
+        "obituary"
+      ],
+      "item_ids": [
+        "8954c5925b46"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "3b8e6c4dfa41",
       "topic": "400 almost billionaire call",
       "keywords": [
@@ -9553,24 +9239,6 @@
       ]
     },
     {
-      "id": "d46c258d60df",
-      "topic": "braving coyote observer rough",
-      "keywords": [
-        "braving",
-        "coyote",
-        "observer",
-        "rough",
-        "stun",
-        "water"
-      ],
-      "item_ids": [
-        "79e3b343b3dc"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "9f5498e8f5bf",
       "topic": "affair call collection data",
       "keywords": [
@@ -9589,11 +9257,28 @@
       ]
     },
     {
-      "id": "44595eff2aee",
-      "topic": "bid case consider court",
+      "id": "d46c258d60df",
+      "topic": "braving coyote observer rough",
+      "keywords": [
+        "braving",
+        "coyote",
+        "observer",
+        "rough",
+        "stun",
+        "water"
+      ],
+      "item_ids": [
+        "79e3b343b3dc"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "f621ae227e92",
+      "topic": "bid consider court fire",
       "keywords": [
         "bid",
-        "case",
         "consider",
         "court",
         "fire",
@@ -9601,11 +9286,9 @@
         "trump"
       ],
       "item_ids": [
-        "e8a246b04966",
-        "656879b0fe05"
+        "e8a246b04966"
       ],
       "outlets": [
-        "US Top News and Analysis",
         "US news | The Guardian"
       ]
     },
@@ -9628,32 +9311,14 @@
       ]
     },
     {
-      "id": "8901ae427a44",
-      "topic": "air back force trump",
-      "keywords": [
-        "air",
-        "back",
-        "force",
-        "trump",
-        "turn",
-        "washington"
-      ],
-      "item_ids": [
-        "7334c2a46a98"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "b5e7afad86d0",
-      "topic": "chief diplomacy greenland nato",
+      "id": "eeefffe5e3d7",
+      "topic": "chief diplomacy nato thoughtful",
       "keywords": [
         "chief",
         "diplomacy",
-        "greenland",
         "nato",
         "thoughtful",
+        "treasury",
         "urge"
       ],
       "item_ids": [
@@ -9736,24 +9401,6 @@
       ]
     },
     {
-      "id": "6d39ae6fc076",
-      "topic": "enforcement funded grew highest",
-      "keywords": [
-        "enforcement",
-        "funded",
-        "grew",
-        "highest",
-        "ice",
-        "law"
-      ],
-      "item_ids": [
-        "f33525841c87"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "eca28942d513",
       "topic": "consumer second term trump",
       "keywords": [
@@ -9784,6 +9431,24 @@
       ],
       "item_ids": [
         "b1c089a1f0b3"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "6d39ae6fc076",
+      "topic": "enforcement funded grew highest",
+      "keywords": [
+        "enforcement",
+        "funded",
+        "grew",
+        "highest",
+        "ice",
+        "law"
+      ],
+      "item_ids": [
+        "f33525841c87"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9833,11 +9498,47 @@
         "greenland",
         "push",
         "speak",
-        "tariff",
-        "trump"
+        "trump",
+        "watch"
       ],
       "item_ids": [
         "fce0047ec245"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b7ed081771bc",
+      "topic": "berkshire exit heinz kraft",
+      "keywords": [
+        "berkshire",
+        "exit",
+        "heinz",
+        "kraft",
+        "prepare",
+        "stake"
+      ],
+      "item_ids": [
+        "1c0bc53802f7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4d8d34ebce50",
+      "topic": "arctic cold gas natural",
+      "keywords": [
+        "arctic",
+        "cold",
+        "gas",
+        "natural",
+        "price",
+        "soar"
+      ],
+      "item_ids": [
+        "9f841cbbcd18"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9862,36 +9563,36 @@
       ]
     },
     {
-      "id": "2ab7aa695643",
-      "topic": "again mortgage now rate",
+      "id": "c9407c537296",
+      "topic": "all crypto high market",
       "keywords": [
-        "again",
-        "mortgage",
-        "now",
-        "rate",
-        "refinance",
-        "surged"
+        "all",
+        "crypto",
+        "high",
+        "market",
+        "reach",
+        "time"
       ],
       "item_ids": [
-        "214324459d34"
+        "65b90dacad40"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "fc6c350a8798",
-      "topic": "china deal drain economy",
+      "id": "1016e8464117",
+      "topic": "california call czar sack",
       "keywords": [
-        "china",
-        "deal",
-        "drain",
-        "economy",
-        "taiwan",
-        "trade"
+        "california",
+        "call",
+        "czar",
+        "sack",
+        "trump",
+        "wealth"
       ],
       "item_ids": [
-        "cd122fd9158d"
+        "3cb6ae412fe7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9934,18 +9635,18 @@
       ]
     },
     {
-      "id": "ec447e48db1a",
-      "topic": "meeting putin set thursday",
+      "id": "d807ebcc5da4",
+      "topic": "cramer jim stock thing",
       "keywords": [
-        "meeting",
-        "putin",
-        "set",
-        "thursday",
-        "ukraine",
-        "witkoff"
+        "cramer",
+        "jim",
+        "stock",
+        "thing",
+        "top",
+        "watch"
       ],
       "item_ids": [
-        "e8d3dc1b24c7"
+        "e8debaee5eab"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9964,24 +9665,6 @@
       ],
       "item_ids": [
         "a83a1364dd10"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "fa33c8551c22",
-      "topic": "being even fed jerome",
-      "keywords": [
-        "being",
-        "even",
-        "fed",
-        "jerome",
-        "powell",
-        "stay"
-      ],
-      "item_ids": [
-        "0b37c659c07b"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10147,6 +9830,78 @@
       ]
     },
     {
+      "id": "6f9f95115974",
+      "topic": "channel custom launch multiview",
+      "keywords": [
+        "channel",
+        "custom",
+        "launch",
+        "multiview",
+        "package",
+        "youtube"
+      ],
+      "item_ids": [
+        "918eef3e033b"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "a8845046506c",
+      "topic": "able likenesse make own",
+      "keywords": [
+        "able",
+        "likenesse",
+        "make",
+        "own",
+        "short",
+        "youtuber"
+      ],
+      "item_ids": [
+        "b87a0c729a5e"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "178380550285",
+      "topic": "acrobat adobe pdfs podcast",
+      "keywords": [
+        "acrobat",
+        "adobe",
+        "pdfs",
+        "podcast",
+        "turn",
+        "uses"
+      ],
+      "item_ids": [
+        "ba1962260828"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "87e762ece396",
+      "topic": "code cryptic detective extra",
+      "keywords": [
+        "code",
+        "cryptic",
+        "detective",
+        "extra",
+        "game",
+        "get"
+      ],
+      "item_ids": [
+        "d22637ff0764"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "23428a21c554",
       "topic": "burrito delivery drone future",
       "keywords": [
@@ -10245,74 +10000,6 @@
       ],
       "item_ids": [
         "1cd95cb368fe"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "01df742c7120",
-      "topic": "2025 ads billion earned",
-      "keywords": [
-        "2025",
-        "ads",
-        "billion",
-        "earned",
-        "netflix"
-      ],
-      "item_ids": [
-        "71908128c495"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "ff26c0deb609",
-      "topic": "acces admin admit doge",
-      "keywords": [
-        "acces",
-        "admin",
-        "admit",
-        "doge",
-        "employee",
-        "trump"
-      ],
-      "item_ids": [
-        "053350ae0596"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9dd6278aa1cd",
-      "topic": "mobile netflix revamp year",
-      "keywords": [
-        "mobile",
-        "netflix",
-        "revamp",
-        "year"
-      ],
-      "item_ids": [
-        "332e753f380b"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "a259ad4f70a6",
-      "topic": "antitrust appeal ftc loss",
-      "keywords": [
-        "antitrust",
-        "appeal",
-        "ftc",
-        "loss",
-        "meta"
-      ],
-      "item_ids": [
-        "6a8af165f113"
       ],
       "outlets": [
         "The Verge"
@@ -11244,6 +10931,24 @@
       ]
     },
     {
+      "id": "915810ed2005",
+      "topic": "blame food illegally outlet",
+      "keywords": [
+        "blame",
+        "food",
+        "illegally",
+        "outlet",
+        "sydney",
+        "water"
+      ],
+      "item_ids": [
+        "768bfd3cd1bd"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "65f86303ed9a",
       "topic": "carvery eviction face north",
       "keywords": [
@@ -11274,24 +10979,6 @@
       ],
       "item_ids": [
         "643e0db095bf"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "cd6663d16ad6",
-      "topic": "each neighbouring other plant",
-      "keywords": [
-        "each",
-        "neighbouring",
-        "other",
-        "plant",
-        "plantwatch",
-        "warn"
-      ],
-      "item_ids": [
-        "4ac7cc7015ab"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11598,6 +11285,44 @@
       ]
     },
     {
+      "id": "5b6d08bd9a65",
+      "topic": "bloody come here rated",
+      "keywords": [
+        "bloody",
+        "come",
+        "here",
+        "rated",
+        "ready",
+        "strong"
+      ],
+      "item_ids": [
+        "b958003c5144",
+        "a3d056dae404"
+      ],
+      "outlets": [
+        "Bloody Disgusting!",
+        "Dread Central"
+      ]
+    },
+    {
+      "id": "d5ea6c76c25a",
+      "topic": "kel kenan meet mitchell",
+      "keywords": [
+        "kel",
+        "kenan",
+        "meet",
+        "mitchell",
+        "reunite",
+        "thompson"
+      ],
+      "item_ids": [
+        "45913909b374"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "e1225f2dfa09",
       "topic": "available demo horror now",
       "keywords": [
@@ -11735,42 +11460,6 @@
       ],
       "item_ids": [
         "7cfc66eea292"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "25b4107ec50a",
-      "topic": "game horror scavenger survival",
-      "keywords": [
-        "game",
-        "horror",
-        "scavenger",
-        "survival",
-        "tactical",
-        "vulture"
-      ],
-      "item_ids": [
-        "056fda1f9152"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "c0b5beec5ff3",
-      "topic": "character forbidden fruit introduce",
-      "keywords": [
-        "character",
-        "forbidden",
-        "fruit",
-        "introduce",
-        "poster",
-        "witch"
-      ],
-      "item_ids": [
-        "a4e58baf7e15"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12108,24 +11797,6 @@
       ],
       "item_ids": [
         "89ae448d7293"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "ec44b8ec7880",
-      "topic": "photo poster put star",
-      "keywords": [
-        "photo",
-        "poster",
-        "put",
-        "star",
-        "terrifier",
-        "twisted"
-      ],
-      "item_ids": [
-        "d5464e111b72"
       ],
       "outlets": [
         "Dread Central"
@@ -12923,6 +12594,24 @@
       ]
     },
     {
+      "id": "7eeeee069a91",
+      "topic": "busines future led researcher",
+      "keywords": [
+        "busines",
+        "future",
+        "led",
+        "researcher",
+        "reshaping",
+        "women"
+      ],
+      "item_ids": [
+        "948a81eff31b"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "43ce7fb0ba2f",
       "topic": "ideal launche people podcast",
       "keywords": [
@@ -13082,21 +12771,39 @@
       ]
     },
     {
-      "id": "57aa981de33e",
-      "topic": "conservation end right week",
+      "id": "674cc898e39a",
+      "topic": "film flie folk horror",
       "keywords": [
-        "conservation",
-        "end",
-        "right",
-        "week",
-        "went",
-        "world"
+        "film",
+        "flie",
+        "folk",
+        "horror",
+        "indie",
+        "mother"
       ],
       "item_ids": [
-        "4c8f1a814fce"
+        "bbc1fdf71131"
       ],
       "outlets": [
-        "Positive News"
+        "CBR"
+      ]
+    },
+    {
+      "id": "1ab2c0ec80d7",
+      "topic": "arya fix game hbo",
+      "keywords": [
+        "arya",
+        "fix",
+        "game",
+        "hbo",
+        "sequel",
+        "throne"
+      ],
+      "item_ids": [
+        "c39d7809854f"
+      ],
+      "outlets": [
+        "CBR"
       ]
     },
     {
@@ -13238,216 +12945,21 @@
       ]
     },
     {
-      "id": "81e97d9f2eec",
-      "topic": "all grittiest movie ranked",
+      "id": "d8fa60c98683",
+      "topic": "addison dean deliver katseye",
       "keywords": [
-        "all",
-        "grittiest",
-        "movie",
-        "ranked",
-        "rated",
-        "time"
+        "addison",
+        "dean",
+        "deliver",
+        "katseye",
+        "olivia",
+        "rae"
       ],
       "item_ids": [
-        "45c1b4f771fc"
+        "12ed288590c8"
       ],
       "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "91588dc9bfe5",
-      "topic": "best character gachiakuta ranked",
-      "keywords": [
-        "best",
-        "character",
-        "gachiakuta",
-        "ranked",
-        "written"
-      ],
-      "item_ids": [
-        "87612b8d29da"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "de631f7845cb",
-      "topic": "announcement avenger breakdown cast",
-      "keywords": [
-        "announcement",
-        "avenger",
-        "breakdown",
-        "cast",
-        "doomsday",
-        "full"
-      ],
-      "item_ids": [
-        "bb9f43091b0d"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "fae2f8de0cfb",
-      "topic": "engaging fresh friendly man",
-      "keywords": [
-        "engaging",
-        "fresh",
-        "friendly",
-        "man",
-        "neighborhood",
-        "spider"
-      ],
-      "item_ids": [
-        "c690784022a8"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "b5ebb78247cb",
-      "topic": "america brave captain decent",
-      "keywords": [
-        "america",
-        "brave",
-        "captain",
-        "decent",
-        "rushed",
-        "world"
-      ],
-      "item_ids": [
-        "fe447758d910"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "6cc9daf95221",
-      "topic": "annihilu debut make mcu",
-      "keywords": [
-        "annihilu",
-        "debut",
-        "make",
-        "mcu",
-        "nova",
-        "serie"
-      ],
-      "item_ids": [
-        "e3bc635f5585"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "888b1e315600",
-      "topic": "crew decent never reache",
-      "keywords": [
-        "crew",
-        "decent",
-        "never",
-        "reache",
-        "ride",
-        "skeleton"
-      ],
-      "item_ids": [
-        "f9bd93cbbe4f"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "2daa60016122",
-      "topic": "bold brilliant commando creature",
-      "keywords": [
-        "bold",
-        "brilliant",
-        "commando",
-        "creature",
-        "dcu",
-        "start"
-      ],
-      "item_ids": [
-        "c8177dc31327"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "ce5a5a3ce234",
-      "topic": "arcs satisfying season storie",
-      "keywords": [
-        "arcs",
-        "satisfying",
-        "season",
-        "storie",
-        "uneven"
-      ],
-      "item_ids": [
-        "40236a8d776a"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "cf059bc2fec2",
-      "topic": "action hunter kraven spill",
-      "keywords": [
-        "action",
-        "hunter",
-        "kraven",
-        "spill",
-        "story",
-        "thrill"
-      ],
-      "item_ids": [
-        "cd39cebe7492"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "b235c16fb40e",
-      "topic": "edge gritty masterpiece penguin",
-      "keywords": [
-        "edge",
-        "gritty",
-        "masterpiece",
-        "penguin",
-        "seat"
-      ],
-      "item_ids": [
-        "11607afa6306"
-      ],
-      "outlets": [
-        "Comic Quarters"
-      ]
-    },
-    {
-      "id": "f5cbbc6c3bcb",
-      "topic": "agatha all along culture",
-      "keywords": [
-        "agatha",
-        "all",
-        "along",
-        "culture",
-        "pop",
-        "unpacking"
-      ],
-      "item_ids": [
-        "b72963244510"
-      ],
-      "outlets": [
-        "Comic Quarters"
+        "Music News"
       ]
     },
     {
@@ -13609,24 +13121,6 @@
       ],
       "item_ids": [
         "10fbc18c94c3"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "73b3d766f896",
-      "topic": "album first harry offer",
-      "keywords": [
-        "album",
-        "first",
-        "harry",
-        "offer",
-        "snapshot",
-        "style"
-      ],
-      "item_ids": [
-        "970b5edd2bcd"
       ],
       "outlets": [
         "Music News"
@@ -13809,17 +13303,18 @@
       ]
     },
     {
-      "id": "7cff0827752a",
-      "topic": "governor know primary running",
+      "id": "29eda19e8a87",
+      "topic": "easing epa pollution rule",
       "keywords": [
-        "governor",
-        "know",
-        "primary",
-        "running",
-        "texa"
+        "easing",
+        "epa",
+        "pollution",
+        "rule",
+        "trump",
+        "under"
       ],
       "item_ids": [
-        "f3e21043d174"
+        "857595a5f1d2"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13838,6 +13333,23 @@
       ],
       "item_ids": [
         "3f5c0a8f997e"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "7cff0827752a",
+      "topic": "governor know primary running",
+      "keywords": [
+        "governor",
+        "know",
+        "primary",
+        "running",
+        "texa"
+      ],
+      "item_ids": [
+        "f3e21043d174"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13874,24 +13386,6 @@
       ],
       "item_ids": [
         "62a1cd243626"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "29eda19e8a87",
-      "topic": "easing epa pollution rule",
-      "keywords": [
-        "easing",
-        "epa",
-        "pollution",
-        "rule",
-        "trump",
-        "under"
-      ],
-      "item_ids": [
-        "857595a5f1d2"
       ],
       "outlets": [
         "The Texas Tribune"
