@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T08:14:11Z",
+  "generated_at": "2026-01-21T09:14:47Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -71,37 +71,108 @@
       "cluster_id": "158247cc9bdd"
     },
     {
-      "id": "668033240343",
-      "title": "UK inflation rises to 3.4% in December, above forecasts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/uk-inflation-december-2025-uk-prices.html",
-      "published_at": "Wed, 21 Jan 2026 07:31:15 GMT",
+      "id": "edd9cb05556c",
+      "title": "Train driver killed in second deadly Spain rail crash in days",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 21 Jan 2026 08:34:42 GMT",
       "bullets": [
-        "• The U.K",
-        "• inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters",
-        "• The inflation rate had cooled sharply in the twelve months of November, with the data encouraging the Bank of England to cut interest rates",
-        "• Core inflation, excluding energy, food, alcohol, and tobacco, was unchanged from November "
+        "• Train driver killed in second deadly Spain rail crash in days",
+        "• At least 37 people injured, five seriously, after a commuter train derailed near Barcelona",
+        "• Officials believe a wall fell on to the track and struck the driver's cab first",
+        "• Services across Catalonia's main Rodalies commuter rail network have been suspended "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Train driver killed in second deadly Spain rail crash in days",
+          "• At least 37 people injured, five seriously, after a commuter train derailed near Barcelona"
+        ],
+        "hopeful_bullets": [
+          "• Train driver killed in second deadly Spain rail crash in days",
+          "• At least 37 people injured, five seriously, after a commuter train derailed near Barcelona"
+        ],
+        "stakes_bullets": [
+          "• Train driver killed in second deadly Spain rail crash in days",
+          "• At least 37 people injured, five seriously, after a commuter train derailed near Barcelona",
+          "• Officials believe a wall fell on to the track and struck the driver's cab first"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8f1d652d5b85"
+    },
+    {
+      "id": "aaeef7ca6957",
+      "title": "CNBC's The China Connection newsletter: China's new global playbook —from exporter to investor",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/cnbcs-the-china-connection-newsletter-chinas-new-global-playbook-from-exporter-to-investor.html",
+      "published_at": "Wed, 21 Jan 2026 08:28:51 GMT",
+      "bullets": [
+        "• China is moving from global exporter to investor, right into regions the U.S",
+        "• is eyeing",
+        "• Beijing's deals and contracts with countries tied to the Belt and Road Initiative surged to new highs",
+        "• Latin America, the Middle East and Africa are key regions for the initiative, widely seen as a channel for China to build global influence "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China is moving from global exporter to investor, right into regions the U.S",
+          "• is eyeing"
+        ],
+        "hopeful_bullets": [
+          "• Beijing's deals and contracts with countries tied to the Belt and Road Initiative surged to new highs"
+        ],
+        "stakes_bullets": [
+          "• China is moving from global exporter to investor, right into regions the U.S",
+          "• is eyeing",
+          "• Beijing's deals and contracts with countries tied to the Belt and Road Initiative surged to new highs"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4d0376512a03"
+    },
+    {
+      "id": "55b2da4b4939",
+      "title": "Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/bessent-davos-denmark-greenland-treasuries.html",
+      "published_at": "Wed, 21 Jan 2026 08:08:33 GMT",
+      "bullets": [
+        "• \"Denmark's investment in U.S",
+        "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
+        "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys",
+        "• It comes after President Donald Trump escalated tensions over Greenland "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The U.K",
-          "• inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters"
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
         ],
         "hopeful_bullets": [
-          "• The U.K",
-          "• inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters"
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday"
         ],
         "stakes_bullets": [
-          "• The inflation rate had cooled sharply in the twelve months of November, with the data encouraging the Bank of England to cut interest rates"
+          "• \"Denmark's investment in U.S",
+          "• Treasury bonds, like Denmark itself, is irrelevant,\" Treasury Secretary Scott Bessent told reporters at Davos on Wednesday",
+          "• Denmark pension operator AkademikerPension said Tuesday it was selling $100 million in Treasurys"
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "f5d92d1b705e"
+      "cluster_id": "3d96f5a2a8dd"
     },
     {
       "id": "6f28e4be43d4",
@@ -209,28 +280,27 @@
       "url": "https://www.wired.com/story/sealy-promo-code/",
       "published_at": "Wed, 21 Jan 2026 06:30:00 +0000",
       "bullets": [
-        "• Save $200 on an Ease Power Base With This Sealy Coupon",
-        "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase",
-        "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses "
+        "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses",
+        "• During this year’s Winter Savings Event, you can save $200 on the ever-popular Posturepedic Hybrid mattress, which helps with spinal alignment and relieving pressure",
+        "• The Cocoon Chill is one of our favorite cooling mattresses that passed our week of testing with flying colors "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.849
+        "label": "neutral",
+        "score": 0.506
       },
       "moods": {
         "brief_bullets": [
-          "• Save $200 on an Ease Power Base With This Sealy Coupon",
-          "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase"
+          "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses",
+          "• During this year’s Winter Savings Event, you can save $200 on the ever-popular Posturepedic Hybrid mattress, which helps with spinal alignment and relieving pressure"
         ],
         "hopeful_bullets": [
-          "• Save $200 on an Ease Power Base With This Sealy Coupon",
-          "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase"
+          "• During this year’s Winter Savings Event, you can save $200 on the ever-popular Posturepedic Hybrid mattress, which helps with spinal alignment and relieving pressure"
         ],
         "stakes_bullets": [
-          "• Save $200 on an Ease Power Base With This Sealy Coupon",
-          "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase",
-          "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses "
+          "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses",
+          "• During this year’s Winter Savings Event, you can save $200 on the ever-popular Posturepedic Hybrid mattress, which helps with spinal alignment and relieving pressure",
+          "• The Cocoon Chill is one of our favorite cooling mattresses that passed our week of testing with flying colors "
         ]
       },
       "read_minutes": 3,
@@ -508,25 +578,27 @@
       "published_at": "Wed, 21 Jan 2026 04:48:18 GMT",
       "bullets": [
         "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-        "• The 45-year-old pleaded guilty to the murder of the former leader in Nara, Japan",
-        "• His defence team said he was a victim of \"religious abuse\" by his mother "
+        "• The 45-year-old shot him dead at a rally in the city of Nara in 2022",
+        "• His defence team said he was a victim of \"religious abuse\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
           "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-          "• The 45-year-old pleaded guilty to the murder of the former leader in Nara, Japan"
+          "• The 45-year-old shot him dead at a rally in the city of Nara in 2022"
         ],
         "hopeful_bullets": [
           "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
-          "• The 45-year-old pleaded guilty to the murder of the former leader in Nara, Japan"
+          "• The 45-year-old shot him dead at a rally in the city of Nara in 2022"
         ],
         "stakes_bullets": [
-          "• The 45-year-old pleaded guilty to the murder of the former leader in Nara, Japan"
+          "• Tetsuya Yamagami sentenced to life in prison for killing Japan's former PM Shinzo Abe",
+          "• The 45-year-old shot him dead at a rally in the city of Nara in 2022",
+          "• His defence team said he was a victim of \"religious abuse\""
         ]
       },
       "read_minutes": 4,
@@ -956,40 +1028,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b69afc30cb49"
-    },
-    {
-      "id": "edd9cb05556c",
-      "title": "Driver killed in second deadly Spain train crash in days",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 03:00:55 GMT",
-      "bullets": [
-        "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-        "• At least 37 people injured, five seriously, and six in a less serious condition",
-        "• Rodalies train collided with a retaining wall which fell onto the track near Barcelona "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-          "• At least 37 people injured, five seriously, and six in a less serious condition"
-        ],
-        "hopeful_bullets": [
-          "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-          "• At least 37 people injured, five seriously, and six in a less serious condition"
-        ],
-        "stakes_bullets": [
-          "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-          "• At least 37 people injured, five seriously, and six in a less serious condition",
-          "• Rodalies train collided with a retaining wall which fell onto the track near Barcelona "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8f1d652d5b85"
     },
     {
       "id": "cc6ceded68f4",
@@ -2541,38 +2579,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "6bd49999663b"
-    },
-    {
-      "id": "5e06049c39b1",
-      "title": "Netflix posts narrow earnings beat, reports 325 million global subscribers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/20/netflix-nflx-earnings-q4-2025.html",
-      "published_at": "Tue, 20 Jan 2026 22:47:03 GMT",
-      "bullets": [
-        "• Netflix says it has reached 325 million global paid subscribers",
-        "• The streaming giant reported fourth-quarter earnings and revenue that narrowly beat Wall Street estimates",
-        "• Net income for the fourth quarter was $2.42 billion, or 56 cents per share, up from $1.87 billion in the same period a year earlier "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix says it has reached 325 million global paid subscribers",
-          "• The streaming giant reported fourth-quarter earnings and revenue that narrowly beat Wall Street estimates"
-        ],
-        "hopeful_bullets": [
-          "• Netflix says it has reached 325 million global paid subscribers",
-          "• The streaming giant reported fourth-quarter earnings and revenue that narrowly beat Wall Street estimates"
-        ],
-        "stakes_bullets": [
-          "• Net income for the fourth quarter was $2.42 billion, or 56 cents per share, up from $1.87 billion in the same period a year earlier "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4e4fa35d9055"
     },
     {
       "id": "0cb921e4ba50",
@@ -9967,6 +9973,24 @@
       ]
     },
     {
+      "id": "3d96f5a2a8dd",
+      "topic": "bessent off scott sell",
+      "keywords": [
+        "bessent",
+        "off",
+        "scott",
+        "sell",
+        "treasury",
+        "unconcerned"
+      ],
+      "item_ids": [
+        "55b2da4b4939"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "1e20c8ab94c7",
       "topic": "everything greenland minister prepared",
       "keywords": [
@@ -9997,6 +10021,24 @@
       ],
       "item_ids": [
         "2e22980d56ef"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4d0376512a03",
+      "topic": "china cnbc connection global",
+      "keywords": [
+        "china",
+        "cnbc",
+        "connection",
+        "global",
+        "newsletter",
+        "playbook"
+      ],
+      "item_ids": [
+        "aaeef7ca6957"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10051,41 +10093,6 @@
       ],
       "item_ids": [
         "6f28e4be43d4"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "4e4fa35d9055",
-      "topic": "beat earning narrow netflix",
-      "keywords": [
-        "beat",
-        "earning",
-        "narrow",
-        "netflix",
-        "post",
-        "report"
-      ],
-      "item_ids": [
-        "5e06049c39b1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "f5d92d1b705e",
-      "topic": "above december forecast inflation",
-      "keywords": [
-        "above",
-        "december",
-        "forecast",
-        "inflation",
-        "rise"
-      ],
-      "item_ids": [
-        "668033240343"
       ],
       "outlets": [
         "US Top News and Analysis"
