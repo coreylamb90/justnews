@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T07:22:50Z",
+  "generated_at": "2026-01-21T08:14:11Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -71,65 +71,136 @@
       "cluster_id": "158247cc9bdd"
     },
     {
-      "id": "e3975743e799",
-      "title": "Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 06:42:52 GMT",
-      "bullets": [
-        "• Trump doubles down on Greenland threats ahead of Davos visit, saying there is 'no going back' US President Donald Trump was due to arrive in Davos ahead of his speech at the World Economic Forum on Wednesday",
-        "• Air Force One plane forced to turn around after electrical issue forced him to fly to Switzerland on another aircraft "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump doubles down on Greenland threats ahead of Davos visit, saying there is 'no going back' US President Donald Trump was due to arrive in Davos ahead of his speech at the World Economic Forum on Wednesday",
-          "• Air Force One plane forced to turn around after electrical issue forced him to fly to Switzerland on another aircraft "
-        ],
-        "hopeful_bullets": [
-          "• Trump doubles down on Greenland threats ahead of Davos visit, saying there is 'no going back' US President Donald Trump was due to arrive in Davos ahead of his speech at the World Economic Forum on Wednesday",
-          "• Air Force One plane forced to turn around after electrical issue forced him to fly to Switzerland on another aircraft "
-        ],
-        "stakes_bullets": [
-          "• Air Force One plane forced to turn around after electrical issue forced him to fly to Switzerland on another aircraft "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "90688d17ed72"
-    },
-    {
-      "id": "00d765e33824",
-      "title": "CNBC's UK Exchange newsletter: A diplomacy tightrope for Britain’s Starmer after Trump’s tirades",
+      "id": "668033240343",
+      "title": "UK inflation rises to 3.4% in December, above forecasts",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/cnbcs-uk-exchange-newsletter-a-diplomacy-tightrope-for-britains-starmer-after-trumps-tirades.html",
-      "published_at": "Wed, 21 Jan 2026 06:30:01 GMT",
+      "url": "https://www.cnbc.com/2026/01/21/uk-inflation-december-2025-uk-prices.html",
+      "published_at": "Wed, 21 Jan 2026 07:31:15 GMT",
       "bullets": [
-        "• Winston Churchill coined the phrase in 1946 when he described how an \"iron curtain\" had descended across Europe",
-        "• Churchill said: \"Neither the sure prevention of war, nor the continuous rise of world organization will be gained without what I have called the fraternal association of the English-speaking peoples\""
+        "• The U.K",
+        "• inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters",
+        "• The inflation rate had cooled sharply in the twelve months of November, with the data encouraging the Bank of England to cut interest rates",
+        "• Core inflation, excluding energy, food, alcohol, and tobacco, was unchanged from November "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.872
+        "score": 0.982
       },
       "moods": {
         "brief_bullets": [
-          "• Winston Churchill coined the phrase in 1946 when he described how an \"iron curtain\" had descended across Europe",
-          "• Churchill said: \"Neither the sure prevention of war, nor the continuous rise of world organization will be gained without what I have called the fraternal association of the English-speaking peoples\""
+          "• The U.K",
+          "• inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters"
         ],
         "hopeful_bullets": [
-          "• Winston Churchill coined the phrase in 1946 when he described how an \"iron curtain\" had descended across Europe"
+          "• The U.K",
+          "• inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters"
         ],
         "stakes_bullets": [
-          "• Churchill said: \"Neither the sure prevention of war, nor the continuous rise of world organization will be gained without what I have called the fraternal association of the English-speaking peoples\""
+          "• The inflation rate had cooled sharply in the twelve months of November, with the data encouraging the Bank of England to cut interest rates"
         ]
       },
-      "read_minutes": 7,
-      "cluster_id": "cbb3425b1d20"
+      "read_minutes": 2,
+      "cluster_id": "f5d92d1b705e"
+    },
+    {
+      "id": "6f28e4be43d4",
+      "title": "CNBC Daily Open: Investors flee from the U.S. as Trump doubles down on Greenland",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/cnbc-daily-open-investors-flee-from-the-us-as-trump-doubles-down-on-greenland.html",
+      "published_at": "Wed, 21 Jan 2026 07:29:47 GMT",
+      "bullets": [
+        "• Major U.S",
+        "• indexes on Tuesday stateside tumbled in their worst day since October",
+        "• The VIX index, Wall Street's \"fear gauge,\" spikes to a high of 20.99",
+        "• Bond yields jumped, bond yields jumped and gold prices hit new records",
+        "• Denmark pension fund AkademikerPension said it will sell roughly $100 million in Treasuries "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Major U.S",
+          "• indexes on Tuesday stateside tumbled in their worst day since October"
+        ],
+        "hopeful_bullets": [
+          "• Bond yields jumped, bond yields jumped and gold prices hit new records"
+        ],
+        "stakes_bullets": [
+          "• Denmark pension fund AkademikerPension said it will sell roughly $100 million in Treasuries "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "abbcc0134a50"
+    },
+    {
+      "id": "2e22980d56ef",
+      "title": "Gold breaks new record on Greenland tariff threats — $7,000 level on the cards",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/gold-prices-surge-record-4800-safe-haven-demand.html",
+      "published_at": "Wed, 21 Jan 2026 07:23:15 GMT",
+      "bullets": [
+        "• Gold prices climb to a fresh record above $4,800 on Wednesday",
+        "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion",
+        "• Analysts expect prices to rise above $5,000 this year, citing expectations of lower U.S",
+        "• real rates "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.781
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gold prices climb to a fresh record above $4,800 on Wednesday",
+          "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion"
+        ],
+        "hopeful_bullets": [
+          "• Gold prices climb to a fresh record above $4,800 on Wednesday",
+          "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion"
+        ],
+        "stakes_bullets": [
+          "• Gold prices climb to a fresh record above $4,800 on Wednesday",
+          "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion",
+          "• Analysts expect prices to rise above $5,000 this year, citing expectations of lower U.S"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7820dacfd0b5"
+    },
+    {
+      "id": "cd122fd9158d",
+      "title": "China says trade deal with U.S. will 'drain Taiwan’s economy' for American benefits",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/china-us-taiwan-deal-semiconductors-chips-supply-chain-trade-deal.html",
+      "published_at": "Wed, 21 Jan 2026 07:15:38 GMT",
+      "bullets": [
+        "• China has doubled down on its criticism of Taiwan-U.S",
+        "• trade deal",
+        "• China's Taiwan Affairs Office said the deal would \"only drain Taiwan's economic interests\" Taiwan agreed to reduce tariffs on its exports to 15% with $250 billion in investments in the U.S., including chips and AI "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China has doubled down on its criticism of Taiwan-U.S",
+          "• trade deal"
+        ],
+        "hopeful_bullets": [
+          "• China's Taiwan Affairs Office said the deal would \"only drain Taiwan's economic interests\" Taiwan agreed to reduce tariffs on its exports to 15% with $250 billion in investments in the U.S., including chips and AI "
+        ],
+        "stakes_bullets": [
+          "• China's Taiwan Affairs Office said the deal would \"only drain Taiwan's economic interests\" Taiwan agreed to reduce tariffs on its exports to 15% with $250 billion in investments in the U.S., including chips and AI "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fc6c350a8798"
     },
     {
       "id": "62cff209a09a",
@@ -197,41 +268,6 @@
       "cluster_id": "cda23052913e"
     },
     {
-      "id": "2e22980d56ef",
-      "title": "Gold breaks new record on Greenland tariff threats, with forecast of $7,000 on the cards",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/gold-prices-surge-record-4800-safe-haven-demand.html",
-      "published_at": "Wed, 21 Jan 2026 06:18:34 GMT",
-      "bullets": [
-        "• Gold prices climb to a fresh record above $4,800 on Wednesday",
-        "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion",
-        "• Analysts expect prices to rise above $5,000 this year, citing expectations of lower U.S",
-        "• real rates "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.521
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gold prices climb to a fresh record above $4,800 on Wednesday",
-          "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion"
-        ],
-        "hopeful_bullets": [
-          "• Gold prices climb to a fresh record above $4,800 on Wednesday",
-          "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion"
-        ],
-        "stakes_bullets": [
-          "• Gold prices climb to a fresh record above $4,800 on Wednesday",
-          "• The surge has reignited debate among investors over how much prices can rise after a blockbuster year for the bullion",
-          "• Analysts expect prices to rise above $5,000 this year, citing expectations of lower U.S"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7820dacfd0b5"
-    },
-    {
       "id": "85814de551c6",
       "title": "Global markets on alert as Europe to suspend approval of US trade deal",
       "outlet": "BBC News",
@@ -273,28 +309,28 @@
       "url": "https://www.wired.com/story/naturepedic-promo-code/",
       "published_at": "Wed, 21 Jan 2026 06:10:00 +0000",
       "bullets": [
-        "• Naturepedic makes some of our favorite organic mattresses and organic sheets",
-        "• The company has certifications around the block for its products, from the Global Organic Textile Standard (better known as GOTS) and Oeko Text Standard 100 to Greenguard Gold and Made Safe",
-        "• You can’t buy organic bedding if you want something high-quality and organic "
+        "• The Naturepedic sale has limited-time discounts and rotating deals on some of their best-selling items",
+        "• The sale is one of the best ways to save major coin on luxury bedding and mattresses",
+        "• You can’t go wrong with Organic bedding if you want something high-quality and organic "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.724
+        "label": "positive",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Naturepedic makes some of our favorite organic mattresses and organic sheets",
-          "• The company has certifications around the block for its products, from the Global Organic Textile Standard (better known as GOTS) and Oeko Text Standard 100 to Greenguard Gold and Made Safe"
+          "• The Naturepedic sale has limited-time discounts and rotating deals on some of their best-selling items",
+          "• The sale is one of the best ways to save major coin on luxury bedding and mattresses"
         ],
         "hopeful_bullets": [
-          "• Naturepedic makes some of our favorite organic mattresses and organic sheets",
-          "• The company has certifications around the block for its products, from the Global Organic Textile Standard (better known as GOTS) and Oeko Text Standard 100 to Greenguard Gold and Made Safe"
+          "• The Naturepedic sale has limited-time discounts and rotating deals on some of their best-selling items",
+          "• The sale is one of the best ways to save major coin on luxury bedding and mattresses"
         ],
         "stakes_bullets": [
-          "• Naturepedic makes some of our favorite organic mattresses and organic sheets",
-          "• The company has certifications around the block for its products, from the Global Organic Textile Standard (better known as GOTS) and Oeko Text Standard 100 to Greenguard Gold and Made Safe",
-          "• You can’t buy organic bedding if you want something high-quality and organic "
+          "• The Naturepedic sale has limited-time discounts and rotating deals on some of their best-selling items",
+          "• The sale is one of the best ways to save major coin on luxury bedding and mattresses",
+          "• You can’t go wrong with Organic bedding if you want something high-quality and organic "
         ]
       },
       "read_minutes": 2,
@@ -568,22 +604,22 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-air-force-one-turns-back-washington-davos-minor-electrical-issue",
       "published_at": "Wed, 21 Jan 2026 04:40:32 GMT",
       "bullets": [
-        "• Donald Trump's plane forced to abort its flight to Switzerland on Tuesday and turn back after what officials described as a ‘minor electrical issue’ White House press secretary Karoline Leavitt said the decision was taken shortly after departure “out of an abundance of caution”"
+        "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• Donald Trump's plane forced to abort its flight to Switzerland on Tuesday and turn back after what officials described as a ‘minor electrical issue’ White House press secretary Karoline Leavitt said the decision was taken shortly after departure “out of an abundance of caution”"
+          "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
         ],
         "hopeful_bullets": [
-          "• Donald Trump's plane forced to abort its flight to Switzerland on Tuesday and turn back after what officials described as a ‘minor electrical issue’ White House press secretary Karoline Leavitt said the decision was taken shortly after departure “out of an abundance of caution”"
+          "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
         ],
         "stakes_bullets": [
-          "• Donald Trump's plane forced to abort its flight to Switzerland on Tuesday and turn back after what officials described as a ‘minor electrical issue’ White House press secretary Karoline Leavitt said the decision was taken shortly after departure “out of an abundance of caution”"
+          "• Donald Trump's plane forced to abort its flight to Switzerland and turn back after what officials described as a 'minor electrical issue' US president boarded another aircraft, an Air Force C-32, and continued his trip to the World Economic Forum in Davos shortly after midnight "
         ]
       },
       "read_minutes": 2,
@@ -929,8 +965,8 @@
       "published_at": "Wed, 21 Jan 2026 03:00:55 GMT",
       "bullets": [
         "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-        "• Rodalies train collided with a retaining wall which fell onto the track between Gelida and Sant Sadurní",
-        "• At least 37 people injured, five seriously, and six in a less serious condition "
+        "• At least 37 people injured, five seriously, and six in a less serious condition",
+        "• Rodalies train collided with a retaining wall which fell onto the track near Barcelona "
       ],
       "category": "World",
       "sentiment": {
@@ -940,16 +976,16 @@
       "moods": {
         "brief_bullets": [
           "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-          "• Rodalies train collided with a retaining wall which fell onto the track between Gelida and Sant Sadurní"
+          "• At least 37 people injured, five seriously, and six in a less serious condition"
         ],
         "hopeful_bullets": [
           "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-          "• Rodalies train collided with a retaining wall which fell onto the track between Gelida and Sant Sadurní"
+          "• At least 37 people injured, five seriously, and six in a less serious condition"
         ],
         "stakes_bullets": [
           "• Driver killed in second deadly Spain train crash in days after two trains collided in southern Spain",
-          "• Rodalies train collided with a retaining wall which fell onto the track between Gelida and Sant Sadurní",
-          "• At least 37 people injured, five seriously, and six in a less serious condition "
+          "• At least 37 people injured, five seriously, and six in a less serious condition",
+          "• Rodalies train collided with a retaining wall which fell onto the track near Barcelona "
         ]
       },
       "read_minutes": 2,
@@ -1058,39 +1094,37 @@
       "cluster_id": "ec4a169844ab"
     },
     {
-      "id": "787c38786e4b",
-      "title": "Gold hits record as Trump’s Greenland tariff threats rattle Asia markets",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/asia-pacific-markets-nikkei-225-kospi-nifty-50-wall-street-trump-greenland-tariffs.html",
-      "published_at": "Wed, 21 Jan 2026 02:21:58 GMT",
+      "id": "2765ffa5b764",
+      "title": "Brooklyn Beckham accuses David and Victoria of putting branding before family and sabotaging wedding",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683820/brooklyn-beckham-david-and-victoria-family-sabotaging-wedding",
+      "published_at": "Wed, 21 Jan 2026 02:28:00 -0500",
       "bullets": [
-        "• U.S",
-        "• President Donald Trump threatened fresh tariffs on countries resisting the transfer of Greenland to the United States",
-        "• Spot gold prices rose over 1% to an all-time high of $4,813 per ounce",
-        "• Hong Kong's Hang Seng index was 0.12% lower, while the mainland's CSI 300 inched 0.11% higher "
+        "• Brooklyn Beckham accuses David and Victoria Beckham of putting branding before family and sabotaging wedding",
+        "• The posts make public a barely veiled feud that had been brewing in anonymously sourced stories in tabloids for months",
+        "• At 26, he's the eldest of the four children of the retired English soccer superstar and former Spice Girl "
       ],
-      "category": "Business",
+      "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.981
+        "label": "neutral",
+        "score": 0.628
       },
       "moods": {
         "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump threatened fresh tariffs on countries resisting the transfer of Greenland to the United States"
+          "• Brooklyn Beckham accuses David and Victoria Beckham of putting branding before family and sabotaging wedding",
+          "• The posts make public a barely veiled feud that had been brewing in anonymously sourced stories in tabloids for months"
         ],
         "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump threatened fresh tariffs on countries resisting the transfer of Greenland to the United States"
+          "• The posts make public a barely veiled feud that had been brewing in anonymously sourced stories in tabloids for months"
         ],
         "stakes_bullets": [
-          "• U.S",
-          "• President Donald Trump threatened fresh tariffs on countries resisting the transfer of Greenland to the United States",
-          "• Spot gold prices rose over 1% to an all-time high of $4,813 per ounce"
+          "• Brooklyn Beckham accuses David and Victoria Beckham of putting branding before family and sabotaging wedding",
+          "• The posts make public a barely veiled feud that had been brewing in anonymously sourced stories in tabloids for months",
+          "• At 26, he's the eldest of the four children of the retired English soccer superstar and former Spice Girl "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "9c3f7729bf44"
+      "read_minutes": 2,
+      "cluster_id": "8f54bf803b64"
     },
     {
       "id": "86794384b4ec",
@@ -1126,6 +1160,40 @@
       "cluster_id": "b48b12942a5f"
     },
     {
+      "id": "439c4ea415ab",
+      "title": "Israel's Netanyahu agrees to join Trump's Board of Peace",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/21/g-s1-106641/netanyahu-join-trump-board-of-peace",
+      "published_at": "Wed, 21 Jan 2026 02:05:31 -0500",
+      "bullets": [
+        "• Israel's Netanyahu agrees to join U.S",
+        "• President Donald Trump's Board of Peace",
+        "• Netanyahu's office earlier criticized makeup of the board's executive committee",
+        "• The board's charter has not yet been made public, but a draft version indicates much of the power will be concentrated in the hands of Trump "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel's Netanyahu agrees to join U.S",
+          "• President Donald Trump's Board of Peace"
+        ],
+        "hopeful_bullets": [
+          "• Israel's Netanyahu agrees to join U.S",
+          "• President Donald Trump's Board of Peace"
+        ],
+        "stakes_bullets": [
+          "• Netanyahu's office earlier criticized makeup of the board's executive committee",
+          "• The board's charter has not yet been made public, but a draft version indicates much of the power will be concentrated in the hands of Trump "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7408dd40cfaa"
+    },
+    {
       "id": "7d8fc696ab8c",
       "title": "Xzibit’s Ex-Wife Sues Him Over Alleged Secret Sale of Cannabis Company Trademarks",
       "outlet": "Music News",
@@ -1158,6 +1226,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "98606624ee93"
+    },
+    {
+      "id": "040ae48a8eb9",
+      "title": "Iran warns Trump not to take action against Khamenei",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/21/g-s1-106639/iran-warns-trump-khamenei",
+      "published_at": "Wed, 21 Jan 2026 01:51:25 -0500",
+      "bullets": [
+        "• U.S",
+        "• president called for an end to Ayatollah Ali Khamenei's nearly 40-year reign",
+        "• Trump described Khamenei in an interview with Politico as \"a sick man who should run his country properly and stop killing people\" The USS Abraham Lincoln has passed through the Strait of Malacca by Tuesday "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• president called for an end to Ayatollah Ali Khamenei's nearly 40-year reign"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• president called for an end to Ayatollah Ali Khamenei's nearly 40-year reign"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• president called for an end to Ayatollah Ali Khamenei's nearly 40-year reign",
+          "• Trump described Khamenei in an interview with Politico as \"a sick man who should run his country properly and stop killing people\" The USS Abraham Lincoln has passed through the Strait of Malacca by Tuesday "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ba11581f8156"
     },
     {
       "id": "159f188326d4",
@@ -1428,6 +1530,40 @@
       "cluster_id": "f9777e4eb8f2"
     },
     {
+      "id": "c6eb70794c12",
+      "title": "Reflecting on Redemtion and Choices – SWR #481",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Reflecting-on-Redemtion-and-Choices--SWR-481-e37kfmh",
+      "published_at": "Wed, 17 Nov 2021 21:32:06 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "2310b1aa0d50"
+    },
+    {
       "id": "40d030e37f88",
       "title": "Nick Cagnetti talks The Spirit of Shadows comic",
       "outlet": "Wicked Horror",
@@ -1461,6 +1597,40 @@
       },
       "read_minutes": 5,
       "cluster_id": "485bdfd86a43"
+    },
+    {
+      "id": "01f62cb17630",
+      "title": "Star Wars Eclipse Revealed + Favorite ROTJ moments – SWR #485",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Star-Wars-Eclipse-Revealed--Favorite-ROTJ-moments--SWR-485-e37kfpg",
+      "published_at": "Wed, 15 Dec 2021 02:48:35 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "4d68b7d6cb41"
     },
     {
       "id": "ea8027940d9a",
@@ -1919,6 +2089,40 @@
       },
       "read_minutes": 9,
       "cluster_id": "5cfc907df0f9"
+    },
+    {
+      "id": "8bc2e543862e",
+      "title": "The Boba Fett Trailer has us Geeking Out Loud – SWR #479",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/The-Boba-Fett-Trailer-has-us-Geeking-Out-Loud--SWR-479-e37knuo",
+      "published_at": "Wed, 03 Nov 2021 17:35:33 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "a98a0ede1c29"
     },
     {
       "id": "2c79ee8b7a0d",
@@ -2603,6 +2807,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "8cf821948af5"
+    },
+    {
+      "id": "6e59564eb22e",
+      "title": "Spat deepens between Elon Musk and Ryanair's O'Leary",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgyzl4gd1do?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 20 Jan 2026 22:08:15 GMT",
+      "bullets": [
+        "• Elon Musk and Michael O'Leary have been trading insults over the past week",
+        "• Budget airline branded Tesla chief executive an 'idiot' and used row to promote January sale",
+        "• Ryanair will hold a press conference in Dublin on Wednesday to 'address' Musk's latest move "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Elon Musk and Michael O'Leary have been trading insults over the past week",
+          "• Budget airline branded Tesla chief executive an 'idiot' and used row to promote January sale"
+        ],
+        "hopeful_bullets": [
+          "• Elon Musk and Michael O'Leary have been trading insults over the past week",
+          "• Budget airline branded Tesla chief executive an 'idiot' and used row to promote January sale"
+        ],
+        "stakes_bullets": [
+          "• Budget airline branded Tesla chief executive an 'idiot' and used row to promote January sale",
+          "• Ryanair will hold a press conference in Dublin on Wednesday to 'address' Musk's latest move "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "41f5febc1bc3"
     },
     {
       "id": "f7f6cc3b380e",
@@ -3743,39 +3980,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e314f8e95c3"
-    },
-    {
-      "id": "5114af19485a",
-      "title": "Danish pension fund to sell $100 million in Treasurys, citing 'poor' U.S. government finances",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/20/akademikerpension-us-treasury-greenland-trump.html",
-      "published_at": "Tue, 20 Jan 2026 18:23:14 GMT",
-      "bullets": [
-        "• Danish pension operator AkademikerPension says it is exiting U.S",
-        "• Treasurys because of finance concerns",
-        "• Decision driven by \"poor [U.S.] government finances,\" fund's investing chief says",
-        "• Decision also comes amid tensions between the United States and Denmark over Greenland "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Danish pension operator AkademikerPension says it is exiting U.S",
-          "• Treasurys because of finance concerns"
-        ],
-        "hopeful_bullets": [
-          "• Danish pension operator AkademikerPension says it is exiting U.S",
-          "• Treasurys because of finance concerns"
-        ],
-        "stakes_bullets": [
-          "• Treasurys because of finance concerns"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c63f05b06743"
     },
     {
       "id": "a4e58baf7e15",
@@ -5118,7 +5322,7 @@
     {
       "id": "63d935a27b4c",
       "title": "Trump's Board of Peace has several invited leaders trying to figure out how it'll work",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/20/nx-s1-5682816/trumps-board-of-peace-has-several-invited-leaders-trying-to-figure-out-how-itll-work",
       "published_at": "Tue, 20 Jan 2026 06:01:23 -0500",
       "bullets": [
@@ -5128,7 +5332,7 @@
         "• Russia, Belarus, Slovenia, Thailand and the European Union's executive arm also have been invited",
         "• France is holding off accepting for now "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.963
@@ -5149,73 +5353,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "85f4f7295d3a"
-    },
-    {
-      "id": "bafd93b3d16c",
-      "title": "Researchers find Antarctic penguin breeding is heating up sooner",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/20/g-s1-106516/antarctic-penguin-breeding-heating-up-sooner",
-      "published_at": "Tue, 20 Jan 2026 05:19:20 -0500",
-      "bullets": [
-        "• Researchers find Antarctic penguin breeding is heating up sooner than the decade before",
-        "• Temperatures in the breeding ground are increasing 5.4 degrees Fahrenheit (3 degrees Celsius) from 2012 to 2022",
-        "• Two of the penguin species face extinction by the end of the century "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.884
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers find Antarctic penguin breeding is heating up sooner than the decade before",
-          "• Temperatures in the breeding ground are increasing 5.4 degrees Fahrenheit (3 degrees Celsius) from 2012 to 2022"
-        ],
-        "hopeful_bullets": [
-          "• Researchers find Antarctic penguin breeding is heating up sooner than the decade before",
-          "• Temperatures in the breeding ground are increasing 5.4 degrees Fahrenheit (3 degrees Celsius) from 2012 to 2022"
-        ],
-        "stakes_bullets": [
-          "• Researchers find Antarctic penguin breeding is heating up sooner than the decade before",
-          "• Temperatures in the breeding ground are increasing 5.4 degrees Fahrenheit (3 degrees Celsius) from 2012 to 2022",
-          "• Two of the penguin species face extinction by the end of the century "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "154e12a17ca7"
-    },
-    {
-      "id": "64fa68b167cc",
-      "title": "As Trump dismantles the existing world order, his version is still taking shape",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/20/nx-s1-5678927/trump-world-order-foreign-policy",
-      "published_at": "Tue, 20 Jan 2026 05:02:00 -0500",
-      "bullets": [
-        "• As Trump dismantles the existing world order, his version is still taking shape",
-        "• Harry Truman led the construction of the global order from the smoldering ruins of World War II",
-        "• The U.S",
-        "• played a starring role in these international organizations, such as the United Nations, the World Bank and NATO "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• As Trump dismantles the existing world order, his version is still taking shape",
-          "• Harry Truman led the construction of the global order from the smoldering ruins of World War II"
-        ],
-        "hopeful_bullets": [
-          "• As Trump dismantles the existing world order, his version is still taking shape",
-          "• Harry Truman led the construction of the global order from the smoldering ruins of World War II"
-        ],
-        "stakes_bullets": [
-          "• played a starring role in these international organizations, such as the United Nations, the World Bank and NATO "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a2d80bdd35bc"
     },
     {
       "id": "d6be1b9304d2",
@@ -5776,6 +5913,40 @@
       "cluster_id": "a91188cfd93a"
     },
     {
+      "id": "c831e3291d7e",
+      "title": "Galactic Starcruiser Disaster – SWR #484",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Galactic-Starcruiser-Disaster--SWR-484-e37kfm4",
+      "published_at": "Tue, 07 Dec 2021 23:26:35 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "3041f5367d34"
+    },
+    {
       "id": "808ed374d63b",
       "title": "“LILY’S RITUAL”, A chilling folk horror tale!",
       "outlet": "HorrorFix",
@@ -5907,6 +6078,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "a4d1be104fb9"
+    },
+    {
+      "id": "2ebb9ebcde07",
+      "title": "Hayden Joins Ahsoka w/ Scott Ryfun – SWR #478",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Hayden-Joins-Ahsoka-w-Scott-Ryfun--SWR-478-e37kfs6",
+      "published_at": "Thu, 28 Oct 2021 02:24:11 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "8af4054e818a"
     },
     {
       "id": "bb9f43091b0d",
@@ -6666,6 +6871,40 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "c1fa9628700b",
+      "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Boba-Fetts-Comeback-W-Scott-Ryfun--SWR-474-e37kfmb",
+      "published_at": "Sun, 03 Oct 2021 19:38:49 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "077fbd269b7a"
+    },
+    {
       "id": "c39d610858a7",
       "title": "Coming to Wicked Horror TV in December",
       "outlet": "Wicked Horror",
@@ -7027,6 +7266,40 @@
       "cluster_id": "ae82da00304d"
     },
     {
+      "id": "a6985131ac1a",
+      "title": "Reminiscing with Jimmy Mac – SWR #475",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Reminiscing-with-Jimmy-Mac--SWR-475-e37knuk",
+      "published_at": "Sat, 09 Oct 2021 12:48:47 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "2e116862dfd5"
+    },
+    {
       "id": "a35a3a3d8bec",
       "title": "WATCH PREDATOR: BADLANDS AT HOME ON DIGITAL JAN. 6 & 4K BLU-RAY & DVD FEB. 17",
       "outlet": "HorrorFix",
@@ -7094,6 +7367,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "ce5a5a3ce234"
+    },
+    {
+      "id": "1b037cbd2fa0",
+      "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/How-the-Force-can-Fix-the-World-w-Stephen-Kent--SWR-482-e37kfof",
+      "published_at": "Mon, 22 Nov 2021 08:33:23 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "9c2a1e3cb2fd"
     },
     {
       "id": "5b6007d0d3c3",
@@ -8088,6 +8395,40 @@
       "cluster_id": "cf059bc2fec2"
     },
     {
+      "id": "2bd6b95ce75d",
+      "title": "Kenobi Revealed – SWR #480",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Kenobi-Revealed--SWR-480-e37kfn8",
+      "published_at": "Fri, 12 Nov 2021 02:04:08 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "cc7d025ab986"
+    },
+    {
       "id": "c8177dc31327",
       "title": "Creature Commandos: A Bold and Brilliant Start to the New DCU",
       "outlet": "Comic Quarters",
@@ -8182,6 +8523,40 @@
       },
       "read_minutes": 8,
       "cluster_id": "57aa981de33e"
+    },
+    {
+      "id": "a14f093f556a",
+      "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
+      "outlet": "The Star Wars Report Podcast",
+      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/2021-Year-in-Review-w-Bruce-Gibson--SWR-483-e37kfr0",
+      "published_at": "Fri, 03 Dec 2021 00:01:30 GMT",
+      "bullets": [
+        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+        "• New video re-upload: The Starcruiser to nowhere!"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "hopeful_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
+        ],
+        "stakes_bullets": [
+          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
+          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
+          "• New video re-upload: The Starcruiser to nowhere!"
+        ]
+      },
+      "read_minutes": 40,
+      "cluster_id": "76c61b84461a"
     },
     {
       "id": "a88448861452",
@@ -8874,24 +9249,6 @@
   ],
   "clusters": [
     {
-      "id": "90688d17ed72",
-      "topic": "ahead davo double down",
-      "keywords": [
-        "ahead",
-        "davo",
-        "double",
-        "down",
-        "greenland",
-        "trump"
-      ],
-      "item_ids": [
-        "e3975743e799"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "4185e4f8324b",
       "topic": "doucet lyse order shaking",
       "keywords": [
@@ -9048,6 +9405,24 @@
       ],
       "item_ids": [
         "7f9e29159cb7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "41f5febc1bc3",
+      "topic": "between deepen elon musk",
+      "keywords": [
+        "between",
+        "deepen",
+        "elon",
+        "musk",
+        "ryanair",
+        "spat"
+      ],
+      "item_ids": [
+        "6e59564eb22e"
       ],
       "outlets": [
         "BBC News"
@@ -9414,6 +9789,60 @@
       ]
     },
     {
+      "id": "8f54bf803b64",
+      "topic": "accuse beckham brooklyn david",
+      "keywords": [
+        "accuse",
+        "beckham",
+        "brooklyn",
+        "david",
+        "putting",
+        "victoria"
+      ],
+      "item_ids": [
+        "2765ffa5b764"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "7408dd40cfaa",
+      "topic": "agree board israel join",
+      "keywords": [
+        "agree",
+        "board",
+        "israel",
+        "join",
+        "netanyahu",
+        "trump"
+      ],
+      "item_ids": [
+        "439c4ea415ab"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "ba11581f8156",
+      "topic": "action against iran take",
+      "keywords": [
+        "action",
+        "against",
+        "iran",
+        "take",
+        "trump",
+        "warn"
+      ],
+      "item_ids": [
+        "040ae48a8eb9"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "ff88941c36ef",
       "topic": "gov mayor minneapoli minnesota",
       "keywords": [
@@ -9538,60 +9967,6 @@
       ]
     },
     {
-      "id": "85f4f7295d3a",
-      "topic": "board invited leader peace",
-      "keywords": [
-        "board",
-        "invited",
-        "leader",
-        "peace",
-        "several",
-        "trump"
-      ],
-      "item_ids": [
-        "63d935a27b4c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "154e12a17ca7",
-      "topic": "antarctic breeding find heating",
-      "keywords": [
-        "antarctic",
-        "breeding",
-        "find",
-        "heating",
-        "penguin",
-        "researcher"
-      ],
-      "item_ids": [
-        "bafd93b3d16c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "a2d80bdd35bc",
-      "topic": "dismantle existing order trump",
-      "keywords": [
-        "dismantle",
-        "existing",
-        "order",
-        "trump",
-        "version",
-        "world"
-      ],
-      "item_ids": [
-        "64fa68b167cc"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "1e20c8ab94c7",
       "topic": "everything greenland minister prepared",
       "keywords": [
@@ -9628,6 +10003,24 @@
       ]
     },
     {
+      "id": "fc6c350a8798",
+      "topic": "china deal drain economy",
+      "keywords": [
+        "china",
+        "deal",
+        "drain",
+        "economy",
+        "taiwan",
+        "trade"
+      ],
+      "item_ids": [
+        "cd122fd9158d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "33d770cb4a28",
       "topic": "caught company geopolitical india",
       "keywords": [
@@ -9640,6 +10033,24 @@
       ],
       "item_ids": [
         "e080dadab5a9"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "abbcc0134a50",
+      "topic": "cnbc daily flee investor",
+      "keywords": [
+        "cnbc",
+        "daily",
+        "flee",
+        "investor",
+        "open",
+        "trump"
+      ],
+      "item_ids": [
+        "6f28e4be43d4"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9664,36 +10075,17 @@
       ]
     },
     {
-      "id": "cbb3425b1d20",
-      "topic": "britain cnbc diplomacy exchange",
+      "id": "f5d92d1b705e",
+      "topic": "above december forecast inflation",
       "keywords": [
-        "britain",
-        "cnbc",
-        "diplomacy",
-        "exchange",
-        "newsletter",
-        "tightrope"
+        "above",
+        "december",
+        "forecast",
+        "inflation",
+        "rise"
       ],
       "item_ids": [
-        "00d765e33824"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "9c3f7729bf44",
-      "topic": "gold greenland hits record",
-      "keywords": [
-        "gold",
-        "greenland",
-        "hits",
-        "record",
-        "tariff",
-        "trump"
-      ],
-      "item_ids": [
-        "787c38786e4b"
+        "668033240343"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9748,24 +10140,6 @@
       ],
       "item_ids": [
         "2dbc7bfac831"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "c63f05b06743",
-      "topic": "100 danish fund million",
-      "keywords": [
-        "100",
-        "danish",
-        "fund",
-        "million",
-        "pension",
-        "sell"
-      ],
-      "item_ids": [
-        "5114af19485a"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10694,6 +11068,24 @@
       ],
       "item_ids": [
         "b8f33d6dbacc"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "85f4f7295d3a",
+      "topic": "board invited leader peace",
+      "keywords": [
+        "board",
+        "invited",
+        "leader",
+        "peace",
+        "several",
+        "trump"
+      ],
+      "item_ids": [
+        "63d935a27b4c"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -12399,6 +12791,181 @@
       ],
       "outlets": [
         "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "4d68b7d6cb41",
+      "topic": "eclipse favorite revealed rotj",
+      "keywords": [
+        "eclipse",
+        "favorite",
+        "revealed",
+        "rotj",
+        "star",
+        "wars"
+      ],
+      "item_ids": [
+        "01f62cb17630"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "3041f5367d34",
+      "topic": "484 disaster galactic starcruiser",
+      "keywords": [
+        "484",
+        "disaster",
+        "galactic",
+        "starcruiser",
+        "swr"
+      ],
+      "item_ids": [
+        "c831e3291d7e"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "76c61b84461a",
+      "topic": "2021 bruce gibson review",
+      "keywords": [
+        "2021",
+        "bruce",
+        "gibson",
+        "review",
+        "swr",
+        "year"
+      ],
+      "item_ids": [
+        "a14f093f556a"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "9c2a1e3cb2fd",
+      "topic": "fix force kent stephen",
+      "keywords": [
+        "fix",
+        "force",
+        "kent",
+        "stephen",
+        "swr",
+        "world"
+      ],
+      "item_ids": [
+        "1b037cbd2fa0"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "2310b1aa0d50",
+      "topic": "481 choice redemtion reflecting",
+      "keywords": [
+        "481",
+        "choice",
+        "redemtion",
+        "reflecting",
+        "swr"
+      ],
+      "item_ids": [
+        "c6eb70794c12"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "cc7d025ab986",
+      "topic": "480 kenobi revealed swr",
+      "keywords": [
+        "480",
+        "kenobi",
+        "revealed",
+        "swr"
+      ],
+      "item_ids": [
+        "2bd6b95ce75d"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "a98a0ede1c29",
+      "topic": "boba fett geeking loud",
+      "keywords": [
+        "boba",
+        "fett",
+        "geeking",
+        "loud",
+        "out",
+        "trailer"
+      ],
+      "item_ids": [
+        "8bc2e543862e"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "8af4054e818a",
+      "topic": "ahsoka hayden join ryfun",
+      "keywords": [
+        "ahsoka",
+        "hayden",
+        "join",
+        "ryfun",
+        "scott",
+        "swr"
+      ],
+      "item_ids": [
+        "2ebb9ebcde07"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "2e116862dfd5",
+      "topic": "475 jimmy mac reminiscing",
+      "keywords": [
+        "475",
+        "jimmy",
+        "mac",
+        "reminiscing",
+        "swr"
+      ],
+      "item_ids": [
+        "a6985131ac1a"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
+      ]
+    },
+    {
+      "id": "077fbd269b7a",
+      "topic": "boba comeback fett ryfun",
+      "keywords": [
+        "boba",
+        "comeback",
+        "fett",
+        "ryfun",
+        "scott",
+        "swr"
+      ],
+      "item_ids": [
+        "c1fa9628700b"
+      ],
+      "outlets": [
+        "The Star Wars Report Podcast"
       ]
     },
     {
