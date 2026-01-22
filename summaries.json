@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T11:09:44Z",
+  "generated_at": "2026-01-22T12:10:43Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -363,40 +363,6 @@
       "cluster_id": "3afc98c217af"
     },
     {
-      "id": "8733501caa6f",
-      "title": "Theranos founder Elizabeth Holmes asks Trump to commute prison sentence",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/21/elizabeth-holmes-trump-fraud-sentence",
-      "published_at": "Wed, 21 Jan 2026 22:28:39 GMT",
-      "bullets": [
-        "• Donald Trump has been sentenced to 11 years in prison for his part in the scheme",
-        "• He was found guilty of four counts of defrauding investors",
-        "• The technology was used to test blood for a range of health conditions with just a drop of blood "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has been sentenced to 11 years in prison for his part in the scheme",
-          "• He was found guilty of four counts of defrauding investors"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has been sentenced to 11 years in prison for his part in the scheme",
-          "• He was found guilty of four counts of defrauding investors"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump has been sentenced to 11 years in prison for his part in the scheme",
-          "• He was found guilty of four counts of defrauding investors",
-          "• The technology was used to test blood for a range of health conditions with just a drop of blood "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bfa06539623b"
-    },
-    {
       "id": "17651aacfa9e",
       "title": "Economic Interests Drive Chinese Climate Leadership Amid U.S. Retreat",
       "outlet": "Inside Climate News",
@@ -428,41 +394,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "d7bcd6651845"
-    },
-    {
-      "id": "c087b25e26e6",
-      "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-immigration-policy.html",
-      "published_at": "Wed, 21 Jan 2026 22:15:47 GMT",
-      "bullets": [
-        "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
-        "• Dimon was speaking at the World Economic Forum in Davos, Switzerland",
-        "• He initially praised Trump's moves to secure the borders of the world's largest economy",
-        "• But Dimon also made an apparent reference to videos of ICE officers rounding up undocumented immigrants "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
-          "• Dimon was speaking at the World Economic Forum in Davos, Switzerland"
-        ],
-        "hopeful_bullets": [
-          "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
-          "• Dimon was speaking at the World Economic Forum in Davos, Switzerland"
-        ],
-        "stakes_bullets": [
-          "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
-          "• Dimon was speaking at the World Economic Forum in Davos, Switzerland",
-          "• He initially praised Trump's moves to secure the borders of the world's largest economy"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "58ff733a23c2"
     },
     {
       "id": "a2ee109299a9",
@@ -499,6 +430,38 @@
       "cluster_id": "8f6f4d0299d1"
     },
     {
+      "id": "e9a427e87ab7",
+      "title": "Jeff Bezos' Blue Origin launches satellite internet service to rival SpaceX, Amazon",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html",
+      "published_at": "Wed, 21 Jan 2026 22:03:19 GMT",
+      "bullets": [
+        "• Jeff Bezos' space venture Blue Origin plans to deploy 5,408 satellites into space for a communications network that will take on SpaceX and Amazon",
+        "• The network, called TeraWave, is targeted for enterprise, data center and government users",
+        "• The company said it expects to begin deploying its constellation in the fourth quarter of 2027 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.821
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jeff Bezos' space venture Blue Origin plans to deploy 5,408 satellites into space for a communications network that will take on SpaceX and Amazon",
+          "• The network, called TeraWave, is targeted for enterprise, data center and government users"
+        ],
+        "hopeful_bullets": [
+          "• Jeff Bezos' space venture Blue Origin plans to deploy 5,408 satellites into space for a communications network that will take on SpaceX and Amazon",
+          "• The network, called TeraWave, is targeted for enterprise, data center and government users"
+        ],
+        "stakes_bullets": [
+          "• Jeff Bezos' space venture Blue Origin plans to deploy 5,408 satellites into space for a communications network that will take on SpaceX and Amazon"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "bbba3a921bd4"
+    },
+    {
       "id": "c80dbf742e4a",
       "title": "Elissa Dowling, Debra Lamb,Harley Wallen and more in new horror film ”The Mourning Architect”",
       "outlet": "HorrorFix",
@@ -525,40 +488,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7a53530c13b6"
-    },
-    {
-      "id": "e6db9de1d477",
-      "title": "ICE targets Somali communities in Maine in new Trump administration crackdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-maine-ice-somali-immigration-crackdown",
-      "published_at": "Wed, 21 Jan 2026 21:55:17 GMT",
-      "bullets": [
-        "• Immigration and Customs Enforcement (ICE) is aiming the push at Somali immigrants living in the north-eastern state",
-        "• The initiative officially began on Tuesday and has been dubbed Operation Catch of the Day",
-        "• The move follows similar efforts occurring in Minneapolis over recent weeks that have sparked demonstrations "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.633
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Immigration and Customs Enforcement (ICE) is aiming the push at Somali immigrants living in the north-eastern state",
-          "• The initiative officially began on Tuesday and has been dubbed Operation Catch of the Day"
-        ],
-        "hopeful_bullets": [
-          "• Immigration and Customs Enforcement (ICE) is aiming the push at Somali immigrants living in the north-eastern state",
-          "• The initiative officially began on Tuesday and has been dubbed Operation Catch of the Day"
-        ],
-        "stakes_bullets": [
-          "• Immigration and Customs Enforcement (ICE) is aiming the push at Somali immigrants living in the north-eastern state",
-          "• The initiative officially began on Tuesday and has been dubbed Operation Catch of the Day",
-          "• The move follows similar efforts occurring in Minneapolis over recent weeks that have sparked demonstrations "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8663cd5394e3"
     },
     {
       "id": "28bd523aa09c",
@@ -659,35 +588,35 @@
     },
     {
       "id": "0c0a4f7be59d",
-      "title": "Káryyn Announces Debut Album and Shares New Song",
+      "title": "Káryyn Announces Album and Shares New Song",
       "outlet": "RSS: News",
       "url": "https://pitchfork.com/news/karyyn-announces-debut-album-and-shares-new-song/",
       "published_at": "Wed, 21 Jan 2026 21:36:43 +0000",
       "bullets": [
         "• Káryyn's new album Physics Universal Love Language (Pull) is out May 29",
-        "• She's shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video",
+        "• She’s shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video",
         "• The new album was co-produced with Hudson Mohawke and James Ford "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.986
+        "score": 0.987
       },
       "moods": {
         "brief_bullets": [
           "• Káryyn's new album Physics Universal Love Language (Pull) is out May 29",
-          "• She's shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video"
+          "• She’s shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video"
         ],
         "hopeful_bullets": [
           "• Káryyn's new album Physics Universal Love Language (Pull) is out May 29",
-          "• She's shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video"
+          "• She’s shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video"
         ],
         "stakes_bullets": [
-          "• She's shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video"
+          "• She’s shared the lead single “Collapse Phase” alongside a Jenna Marsh-directed music video"
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "7976993929a2"
+      "cluster_id": "0568396bfb17"
     },
     {
       "id": "1bb74258c550",
@@ -788,40 +717,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "9b7d2462fbf7"
-    },
-    {
-      "id": "fadd30d54818",
-      "title": "American democracy on the brink a year after Trump’s inauguration, experts say",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-american-democracy",
-      "published_at": "Wed, 21 Jan 2026 21:24:38 GMT",
-      "bullets": [
-        "• Many historians, scholars and experts say Donald Trump's presidency has pushed American democracy to the brink",
-        "• The scale and velocity of what he has been able to accomplish in just a year have stunned even longtime observers of authoritarian regimes",
-        "• Trump has moved with startling speed to consolidate authority: dismantling federal agencies, purging the civil service, firing independent watchdogs, sidelining Congress, challenging judicial rulings "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Many historians, scholars and experts say Donald Trump's presidency has pushed American democracy to the brink",
-          "• The scale and velocity of what he has been able to accomplish in just a year have stunned even longtime observers of authoritarian regimes"
-        ],
-        "hopeful_bullets": [
-          "• Many historians, scholars and experts say Donald Trump's presidency has pushed American democracy to the brink",
-          "• The scale and velocity of what he has been able to accomplish in just a year have stunned even longtime observers of authoritarian regimes"
-        ],
-        "stakes_bullets": [
-          "• Many historians, scholars and experts say Donald Trump's presidency has pushed American democracy to the brink",
-          "• The scale and velocity of what he has been able to accomplish in just a year have stunned even longtime observers of authoritarian regimes",
-          "• Trump has moved with startling speed to consolidate authority: dismantling federal agencies, purging the civil service, firing independent watchdogs, sidelining Congress, challenging judicial rulings "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "95f61e2a5d19"
     },
     {
       "id": "733f420bbef8",
@@ -1117,40 +1012,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "4df8f271b313"
-    },
-    {
-      "id": "c1f35b81145a",
-      "title": "Trump signals he has a favorite for Fed chair: 'Down to maybe one, in my mind'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/trump-signals-he-has-a-favorite-for-fed-chair-down-to-maybe-one-in-my-mind.html",
-      "published_at": "Wed, 21 Jan 2026 20:49:19 GMT",
-      "bullets": [
-        "• President Trump says he's down to two candidates in the race to replace Federal Reserve Chair Powell",
-        "• The president says he has a candidate in his mind, but declined to name it",
-        "• The candidate list included past and current Fed officials, economists and Wall Street investors "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump says he's down to two candidates in the race to replace Federal Reserve Chair Powell",
-          "• The president says he has a candidate in his mind, but declined to name it"
-        ],
-        "hopeful_bullets": [
-          "• President Trump says he's down to two candidates in the race to replace Federal Reserve Chair Powell",
-          "• The president says he has a candidate in his mind, but declined to name it"
-        ],
-        "stakes_bullets": [
-          "• President Trump says he's down to two candidates in the race to replace Federal Reserve Chair Powell",
-          "• The president says he has a candidate in his mind, but declined to name it",
-          "• The candidate list included past and current Fed officials, economists and Wall Street investors "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e2800b6a9e3e"
     },
     {
       "id": "3412f10edf7c",
@@ -1810,38 +1671,6 @@
       "cluster_id": "c93e88cd4c15"
     },
     {
-      "id": "6107c501bd94",
-      "title": "How Texans can prepare for this weekend’s winter weather",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17259492/texas-winter-storm-watch-how-to-prepare",
-      "published_at": "Wed, 21 Jan 2026 19:40:30 +0000",
-      "bullets": [
-        "• A major winter storm is expected to hit Texas, bringing freezing temperatures, sleet, rain, and snow, beginning Friday",
-        "• Gov",
-        "• Greg Abbott has activated the state’s emergency response resources, warning that these forecasts could lead to hazardous travel conditions and potential damage to infrastructure "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.622
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A major winter storm is expected to hit Texas, bringing freezing temperatures, sleet, rain, and snow, beginning Friday",
-          "• Gov"
-        ],
-        "hopeful_bullets": [
-          "• A major winter storm is expected to hit Texas, bringing freezing temperatures, sleet, rain, and snow, beginning Friday"
-        ],
-        "stakes_bullets": [
-          "• A major winter storm is expected to hit Texas, bringing freezing temperatures, sleet, rain, and snow, beginning Friday",
-          "• Greg Abbott has activated the state’s emergency response resources, warning that these forecasts could lead to hazardous travel conditions and potential damage to infrastructure "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7a171d7ecba3"
-    },
-    {
       "id": "549277f21505",
       "title": "Spotify won court order against Anna’s Archive, taking down .org domain",
       "outlet": "Ars Technica - All content",
@@ -1972,37 +1801,6 @@
       "cluster_id": "34b42a49a491"
     },
     {
-      "id": "1b85514591e0",
-      "title": "Green spaces should be the norm for all new housing developments in England, guidelines say",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jan/21/green-spaces-access-to-nature-housing-developments-england-guideline",
-      "published_at": "Wed, 21 Jan 2026 18:23:29 GMT",
-      "bullets": [
-        "• Housing where shops, schools, public transport and possibly pubs are close by should be the norm for all new developments",
-        "• Ministry of Housing, Communities and Local Government has highlighted King’s Cross in London as “the kind of community-focused development these reforms will deliver”"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Housing where shops, schools, public transport and possibly pubs are close by should be the norm for all new developments",
-          "• Ministry of Housing, Communities and Local Government has highlighted King’s Cross in London as “the kind of community-focused development these reforms will deliver”"
-        ],
-        "hopeful_bullets": [
-          "• Housing where shops, schools, public transport and possibly pubs are close by should be the norm for all new developments",
-          "• Ministry of Housing, Communities and Local Government has highlighted King’s Cross in London as “the kind of community-focused development these reforms will deliver”"
-        ],
-        "stakes_bullets": [
-          "• Ministry of Housing, Communities and Local Government has highlighted King’s Cross in London as “the kind of community-focused development these reforms will deliver”"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "85bba1219def"
-    },
-    {
       "id": "cb065d070068",
       "title": "MY SISTER’S BONES – Official Trailer & Release Announcement",
       "outlet": "HorrorFix",
@@ -2035,40 +1833,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "9b32e8f6111b"
-    },
-    {
-      "id": "d283497d65fc",
-      "title": "Gov. Abbott endorses Nate Sheets over Sid Miller for agriculture commissioner",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17259443/texas-abbott-endorse-nate-sheets-ag-commissioner",
-      "published_at": "Wed, 21 Jan 2026 18:06:19 +0000",
-      "bullets": [
-        "• Gov",
-        "• Greg Abbott endorses Nate Sheets for agriculture commissioner",
-        "• Abbott says Sheets is the \"true conservative champion\" for the job",
-        "• Miller turned heads when he hired his political consultant Todd Smith as the agency’s chief of staff",
-        "• Smith pleaded guilty to commercial bribery after he was criminally charged for selling hemp licenses "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gov",
-          "• Greg Abbott endorses Nate Sheets for agriculture commissioner"
-        ],
-        "hopeful_bullets": [
-          "• Gov",
-          "• Greg Abbott endorses Nate Sheets for agriculture commissioner"
-        ],
-        "stakes_bullets": [
-          "• Smith pleaded guilty to commercial bribery after he was criminally charged for selling hemp licenses "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "834be142d7ed"
     },
     {
       "id": "0f195ee03bea",
@@ -4245,39 +4009,6 @@
       "cluster_id": "148f72cf15bc"
     },
     {
-      "id": "b54b4f327271",
-      "title": "How to know the difference between a local power outage and rolling blackouts",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/15439778/ercot-power-grid-outage-texas",
-      "published_at": "Tue, 19 Jul 2022 10:00:00 +0000",
-      "bullets": [
-        "• A strong arctic cold front is expected to move through the state late Friday and linger into the weekend",
-        "• Parts of Central, North and South Texas could see a wintry mix that includes freezing rain, sleet and snow",
-        "• State grid officials say they are monitoring the weather and expect to meet electricity demand "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A strong arctic cold front is expected to move through the state late Friday and linger into the weekend",
-          "• Parts of Central, North and South Texas could see a wintry mix that includes freezing rain, sleet and snow"
-        ],
-        "hopeful_bullets": [
-          "• A strong arctic cold front is expected to move through the state late Friday and linger into the weekend",
-          "• Parts of Central, North and South Texas could see a wintry mix that includes freezing rain, sleet and snow"
-        ],
-        "stakes_bullets": [
-          "• A strong arctic cold front is expected to move through the state late Friday and linger into the weekend",
-          "• Parts of Central, North and South Texas could see a wintry mix that includes freezing rain, sleet and snow"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "277723f15a4c"
-    },
-    {
       "id": "756dbb19cd95",
       "title": "RFR Q&A #272: It's Life Day!",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -4639,6 +4370,399 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "7e5c5da7d3fc",
+      "title": "How to Meditate (Without an Om in Sight) (2026)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/how-to-meditate/",
+      "published_at": "Thu, 22 Jan 2026 11:30:00 +0000",
+      "bullets": [
+        "• Studies have shown that meditation can boost creativity, improve sleep quality and manage stress",
+        "• Oprah, Jeff Weiner and Jeff Weiner are fans of meditation",
+        "• Expert: \"Meditation is a practice to calm the brain by recentering our attention, most often on our breath\""
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Studies have shown that meditation can boost creativity, improve sleep quality and manage stress",
+          "• Oprah, Jeff Weiner and Jeff Weiner are fans of meditation"
+        ],
+        "hopeful_bullets": [
+          "• Studies have shown that meditation can boost creativity, improve sleep quality and manage stress"
+        ],
+        "stakes_bullets": [
+          "• Studies have shown that meditation can boost creativity, improve sleep quality and manage stress",
+          "• Oprah, Jeff Weiner and Jeff Weiner are fans of meditation",
+          "• Expert: \"Meditation is a practice to calm the brain by recentering our attention, most often on our breath\""
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "f7a4ea5b57a5"
+    },
+    {
+      "id": "c087b25e26e6",
+      "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-immigration-policy.html",
+      "published_at": "Thu, 22 Jan 2026 11:12:16 GMT",
+      "bullets": [
+        "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
+        "• Dimon was speaking at the World Economic Forum in Davos, Switzerland",
+        "• He initially praised Trump's moves to secure the borders of the world's largest economy",
+        "• But Dimon also made an apparent reference to videos of ICE officers rounding up undocumented immigrants "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
+          "• Dimon was speaking at the World Economic Forum in Davos, Switzerland"
+        ],
+        "hopeful_bullets": [
+          "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
+          "• Dimon was speaking at the World Economic Forum in Davos, Switzerland"
+        ],
+        "stakes_bullets": [
+          "• JPMorgan Chase CEO Jamie Dimon says he disagrees with President Donald Trump's approach to immigration",
+          "• Dimon was speaking at the World Economic Forum in Davos, Switzerland",
+          "• He initially praised Trump's moves to secure the borders of the world's largest economy"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "58ff733a23c2"
+    },
+    {
+      "id": "cfd8d121c436",
+      "title": "A bid to clean up shipping industry intensified a coral bleaching event on Great Barrier Reef, study says",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/great-barrier-reef-coral-bleaching-shipping-industry-sulphur",
+      "published_at": "Thu, 22 Jan 2026 11:00:53 GMT",
+      "bullets": [
+        "• Sulphur pollution can cause respiratory problems for humans and cause acid rain",
+        "• But it also has a shading effect and can make clouds brighter, providing more shade to areas underneath",
+        "• In 2022, the Great Barrier Reef suffered it’s sixth mass bleaching event and the first to occur in a usually cooler La Niña year "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sulphur pollution can cause respiratory problems for humans and cause acid rain",
+          "• But it also has a shading effect and can make clouds brighter, providing more shade to areas underneath"
+        ],
+        "hopeful_bullets": [
+          "• Sulphur pollution can cause respiratory problems for humans and cause acid rain",
+          "• But it also has a shading effect and can make clouds brighter, providing more shade to areas underneath"
+        ],
+        "stakes_bullets": [
+          "• Sulphur pollution can cause respiratory problems for humans and cause acid rain",
+          "• But it also has a shading effect and can make clouds brighter, providing more shade to areas underneath"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a6f8461b4b40"
+    },
+    {
+      "id": "9636282d6755",
+      "title": "Trump’s bold economic promises on the campaign trail have led to a policy salad",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-campaign-economic-policy",
+      "published_at": "Thu, 22 Jan 2026 11:00:52 GMT",
+      "bullets": [
+        "• Food prices rose faster than they did during Joe Biden’s last year in office",
+        "• Trump is taking a tack that few Republicans have dared contemplate before: spewing out a rain of often incoherent proposals to signal he feels voters’ pain, in order to recapture their affection "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.831
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Food prices rose faster than they did during Joe Biden’s last year in office",
+          "• Trump is taking a tack that few Republicans have dared contemplate before: spewing out a rain of often incoherent proposals to signal he feels voters’ pain, in order to recapture their affection "
+        ],
+        "hopeful_bullets": [
+          "• Trump is taking a tack that few Republicans have dared contemplate before: spewing out a rain of often incoherent proposals to signal he feels voters’ pain, in order to recapture their affection "
+        ],
+        "stakes_bullets": [
+          "• Trump is taking a tack that few Republicans have dared contemplate before: spewing out a rain of often incoherent proposals to signal he feels voters’ pain, in order to recapture their affection "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8f8de858b676"
+    },
+    {
+      "id": "5d8bbc69951f",
+      "title": "‘Endangered lawyer’ day highlights US justice system’s plummeting standing",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/lawyers-judges-intimidation-trump",
+      "published_at": "Thu, 22 Jan 2026 11:00:52 GMT",
+      "bullets": [
+        "• The US has been selected as this year’s focus of an international coalition of legal groups and bar associations as a country where lawyers and judges are so politically intimidated that the rule of law is under threat",
+        "• The “endangered lawyer” epithet brings the US into the company of dictatorships and autocracies that have been previous holders of the title "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.599
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The US has been selected as this year’s focus of an international coalition of legal groups and bar associations as a country where lawyers and judges are so politically intimidated that the rule of law is under threat",
+          "• The “endangered lawyer” epithet brings the US into the company of dictatorships and autocracies that have been previous holders of the title "
+        ],
+        "hopeful_bullets": [
+          "• The US has been selected as this year’s focus of an international coalition of legal groups and bar associations as a country where lawyers and judges are so politically intimidated that the rule of law is under threat",
+          "• The “endangered lawyer” epithet brings the US into the company of dictatorships and autocracies that have been previous holders of the title "
+        ],
+        "stakes_bullets": [
+          "• The US has been selected as this year’s focus of an international coalition of legal groups and bar associations as a country where lawyers and judges are so politically intimidated that the rule of law is under threat",
+          "• The “endangered lawyer” epithet brings the US into the company of dictatorships and autocracies that have been previous holders of the title "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "e3990eb7e39a"
+    },
+    {
+      "id": "908067bf92bd",
+      "title": "Democrats set to vote against ICE bill amid outrage over Trump crackdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/democrats-ice-funding-bill",
+      "published_at": "Thu, 22 Jan 2026 11:00:52 GMT",
+      "bullets": [
+        "• House Democrats expected to vote against bill to fund immigration crackdown",
+        "• They say it is insufficient provisions to rein in immigration enforcement and detention of illegal immigrants",
+        "• The bill also includes $20m for body-worn cameras to be worn by ICE agents",
+        "• It also includes a reduction in the number of detention beds "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House Democrats expected to vote against bill to fund immigration crackdown",
+          "• They say it is insufficient provisions to rein in immigration enforcement and detention of illegal immigrants"
+        ],
+        "hopeful_bullets": [
+          "• House Democrats expected to vote against bill to fund immigration crackdown"
+        ],
+        "stakes_bullets": [
+          "• House Democrats expected to vote against bill to fund immigration crackdown",
+          "• The bill also includes $20m for body-worn cameras to be worn by ICE agents"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e6d9fe9de506"
+    },
+    {
+      "id": "a3ce45cae7cc",
+      "title": "The US Is In For Another Bad Year of Measles Cases",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/",
+      "published_at": "Thu, 22 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• Measles cases in the U.S",
+        "• reached their highest level in more than 30 years in 2025, with 2,242 confirmed infections",
+        "• A particularly bad outbreak in West Texas that began in January of last year was a significant driver of those cases",
+        "• Now, a surge of measles in South Carolina is on track to outpace the West Texas outbreak "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Measles cases in the U.S",
+          "• reached their highest level in more than 30 years in 2025, with 2,242 confirmed infections"
+        ],
+        "hopeful_bullets": [
+          "• Now, a surge of measles in South Carolina is on track to outpace the West Texas outbreak "
+        ],
+        "stakes_bullets": [
+          "• Measles cases in the U.S",
+          "• reached their highest level in more than 30 years in 2025, with 2,242 confirmed infections",
+          "• A particularly bad outbreak in West Texas that began in January of last year was a significant driver of those cases"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7407e568619a"
+    },
+    {
+      "id": "29a4c50fd02f",
+      "title": "We Are Witnessing the Self-Immolation of a Superpower",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/donald-trump-has-fully-set-fire-to-what-made-america-great/",
+      "published_at": "Thu, 22 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• Vladimir Putin and Xi Jinping want to destroy the Western rules-based order that has preserved peace and security for 80 years",
+        "• Trump’s Mad King rantings about Greenland have accelerated into something far more stunning and alarming: A superpower is choosing to self-immolate and torch its remaining global trust and friendships "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Vladimir Putin and Xi Jinping want to destroy the Western rules-based order that has preserved peace and security for 80 years",
+          "• Trump’s Mad King rantings about Greenland have accelerated into something far more stunning and alarming: A superpower is choosing to self-immolate and torch its remaining global trust and friendships "
+        ],
+        "hopeful_bullets": [
+          "• Vladimir Putin and Xi Jinping want to destroy the Western rules-based order that has preserved peace and security for 80 years",
+          "• Trump’s Mad King rantings about Greenland have accelerated into something far more stunning and alarming: A superpower is choosing to self-immolate and torch its remaining global trust and friendships "
+        ],
+        "stakes_bullets": [
+          "• Vladimir Putin and Xi Jinping want to destroy the Western rules-based order that has preserved peace and security for 80 years",
+          "• Trump’s Mad King rantings about Greenland have accelerated into something far more stunning and alarming: A superpower is choosing to self-immolate and torch its remaining global trust and friendships "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "8add6f4b706b"
+    },
+    {
+      "id": "f5e4782ec6af",
+      "title": "Federal appeals court to rehear challenge against Texas’ immigration law",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17259820/texas-immigration-law-senate-bill-4-5th-circuit-court-of-appeals",
+      "published_at": "Thu, 22 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• Texas lawmakers passed a law that would let state police arrest people suspected of having entered the country illegally by crossing the border",
+        "• A federal appeals court has blocked the law from going into effect",
+        "• The case carries high stakes for the future of immigration enforcement and the role states should play "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.895
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas lawmakers passed a law that would let state police arrest people suspected of having entered the country illegally by crossing the border",
+          "• A federal appeals court has blocked the law from going into effect"
+        ],
+        "hopeful_bullets": [
+          "• Texas lawmakers passed a law that would let state police arrest people suspected of having entered the country illegally by crossing the border",
+          "• A federal appeals court has blocked the law from going into effect"
+        ],
+        "stakes_bullets": [
+          "• A federal appeals court has blocked the law from going into effect"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "76aa32944e28"
+    },
+    {
+      "id": "e3b357a8f87a",
+      "title": "Texas lieutenant governor primary: Who is running and what to know",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17259821/2026-texas-lieutenant-governor-primary-guide",
+      "published_at": "Thu, 22 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• The lieutenant governor is Texas’ second-highest state executive",
+        "• The office is often described as the most powerful in Texas government",
+        "• Republican Lt",
+        "• Gov",
+        "• Dan Patrick, a close ally of President Donald Trump, is seeking a fourth term "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The lieutenant governor is Texas’ second-highest state executive",
+          "• The office is often described as the most powerful in Texas government"
+        ],
+        "hopeful_bullets": [
+          "• The lieutenant governor is Texas’ second-highest state executive",
+          "• The office is often described as the most powerful in Texas government"
+        ],
+        "stakes_bullets": [
+          "• The lieutenant governor is Texas’ second-highest state executive"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "3b3c3ed9bfd1"
+    },
+    {
+      "id": "4b0a456d100e",
+      "title": "New red-leaning congressional seat in North Texas draws wide-open GOP primary field",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17259822/32nd-congressional-district-republican-primary-north-texas-2026-election",
+      "published_at": "Thu, 22 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• Texas's 32nd Congressional District will almost certainly go to a Republican under new boundaries that stretch from Dallas into red-leaning East Texas",
+        "• Of the nine Republicans vying for Rep",
+        "• Julie Johnson’s seat, notable names include Ryan Binkley, a businessman and pastor who self-funded a presidential bid in 2024 "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas's 32nd Congressional District will almost certainly go to a Republican under new boundaries that stretch from Dallas into red-leaning East Texas",
+          "• Of the nine Republicans vying for Rep"
+        ],
+        "hopeful_bullets": [
+          "• Texas's 32nd Congressional District will almost certainly go to a Republican under new boundaries that stretch from Dallas into red-leaning East Texas",
+          "• Of the nine Republicans vying for Rep"
+        ],
+        "stakes_bullets": [
+          "• Texas's 32nd Congressional District will almost certainly go to a Republican under new boundaries that stretch from Dallas into red-leaning East Texas"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "6f58727c10c4"
+    },
+    {
+      "id": "5689846509b2",
+      "title": "UK holds off joining Trump's Board of Peace over Putin concerns",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 22 Jan 2026 10:58:35 GMT",
+      "bullets": [
+        "• Foreign Secretary Yvette Cooper says UK will not yet be signing up to US President Donald Trump's Board of Peace",
+        "• Concerns raised over Russian leader Vladimir Putin's possible participation in the initiative",
+        "• Critics say the board appears to be designed to replace some functions of the United Nations "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Foreign Secretary Yvette Cooper says UK will not yet be signing up to US President Donald Trump's Board of Peace",
+          "• Concerns raised over Russian leader Vladimir Putin's possible participation in the initiative"
+        ],
+        "hopeful_bullets": [
+          "• Foreign Secretary Yvette Cooper says UK will not yet be signing up to US President Donald Trump's Board of Peace",
+          "• Concerns raised over Russian leader Vladimir Putin's possible participation in the initiative"
+        ],
+        "stakes_bullets": [
+          "• Foreign Secretary Yvette Cooper says UK will not yet be signing up to US President Donald Trump's Board of Peace",
+          "• Concerns raised over Russian leader Vladimir Putin's possible participation in the initiative"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "0781a5ef4f7a"
+    },
+    {
       "id": "b83ddf410dca",
       "title": "Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More",
       "outlet": "WIRED",
@@ -4834,37 +4958,36 @@
       "cluster_id": "8d94a632fab7"
     },
     {
-      "id": "5689846509b2",
-      "title": "UK holds off joining Trump's Board of Peace over Putin concerns",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 22 Jan 2026 09:27:30 GMT",
+      "id": "30272742abf0",
+      "title": "Ubisoft shares plummet 33% after Assassin’s Creed maker unveils reorganization, cancels six games",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/22/ubisoft-shares-plummet-after-assassins-creed-maker-cancels-six-games.html",
+      "published_at": "Thu, 22 Jan 2026 09:50:17 GMT",
       "bullets": [
-        "• Foreign Secretary Yvette Cooper says UK will not sign up to US President Trump's Board of Peace",
-        "• She says it is a \"legal treaty that raises much broader issues\" than the initial focus on ending the Gaza war in Gaza",
-        "• Russia's President Vladimir Putin has not confirmed he will join the board "
+        "• Ubisoft shares plunge 33% on Thursday morning",
+        "• The maker of the \"Assassin's Creed\" games announced a major organizational shakeup",
+        "• The company said it expected to make an operating loss of around 1 billion euros ($1.17 billion) in the financial year ending 2026 "
       ],
-      "category": "World",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Foreign Secretary Yvette Cooper says UK will not sign up to US President Trump's Board of Peace",
-          "• She says it is a \"legal treaty that raises much broader issues\" than the initial focus on ending the Gaza war in Gaza"
+          "• Ubisoft shares plunge 33% on Thursday morning",
+          "• The maker of the \"Assassin's Creed\" games announced a major organizational shakeup"
         ],
         "hopeful_bullets": [
-          "• Foreign Secretary Yvette Cooper says UK will not sign up to US President Trump's Board of Peace",
-          "• She says it is a \"legal treaty that raises much broader issues\" than the initial focus on ending the Gaza war in Gaza"
+          "• Ubisoft shares plunge 33% on Thursday morning",
+          "• The maker of the \"Assassin's Creed\" games announced a major organizational shakeup"
         ],
         "stakes_bullets": [
-          "• Foreign Secretary Yvette Cooper says UK will not sign up to US President Trump's Board of Peace",
-          "• Russia's President Vladimir Putin has not confirmed he will join the board "
+          "• The company said it expected to make an operating loss of around 1 billion euros ($1.17 billion) in the financial year ending 2026 "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "0781a5ef4f7a"
+      "read_minutes": 1,
+      "cluster_id": "ad2c81d5dfbf"
     },
     {
       "id": "0ca0a7ac5ce7",
@@ -4934,40 +5057,6 @@
       "cluster_id": "67a32a65cfcc"
     },
     {
-      "id": "acee133d59de",
-      "title": "Trump wants Nvidia to sell powerful AI chips to Beijing. Washington’s China hawks are pushing back",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/22/trump-nvidia-ai-chip-exports-china-congress-bill.html",
-      "published_at": "Thu, 22 Jan 2026 09:00:50 GMT",
-      "bullets": [
-        "• The U.S",
-        "• House of Representatives Foreign Affairs Committee is advancing a bill that seeks to expand congressional oversight of AI chip exports",
-        "• The bill would revoke existing licenses for such AI chip transfers and impose a temporary ban until the administration submits a national security strategy on AI exports",
-        "• It comes as the Trump Administration plans to grant licenses allowing Nvidia to sell its H200 chips to China "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• House of Representatives Foreign Affairs Committee is advancing a bill that seeks to expand congressional oversight of AI chip exports"
-        ],
-        "hopeful_bullets": [
-          "• It comes as the Trump Administration plans to grant licenses allowing Nvidia to sell its H200 chips to China "
-        ],
-        "stakes_bullets": [
-          "• House of Representatives Foreign Affairs Committee is advancing a bill that seeks to expand congressional oversight of AI chip exports",
-          "• The bill would revoke existing licenses for such AI chip transfers and impose a temporary ban until the administration submits a national security strategy on AI exports",
-          "• It comes as the Trump Administration plans to grant licenses allowing Nvidia to sell its H200 chips to China "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "94fb70243762"
-    },
-    {
       "id": "b82b3d2b9767",
       "title": "This New Indie Platformer Is The Roguelike Mega Man You Never Knew You Needed",
       "outlet": "CBR",
@@ -5000,6 +5089,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "63346b346806"
+    },
+    {
+      "id": "a7b7bbe32648",
+      "title": "Top business leaders issue an expletive-laced message on the green backlash",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/22/davos-wef-green-energy-climate-change-trump.html",
+      "published_at": "Thu, 22 Jan 2026 08:48:50 GMT",
+      "bullets": [
+        "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
+        "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.956
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
+          "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
+        ],
+        "hopeful_bullets": [
+          "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
+          "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
+        ],
+        "stakes_bullets": [
+          "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
+          "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "722d1e17b82a"
     },
     {
       "id": "f984d8355cc5",
@@ -5366,105 +5487,7 @@
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "4fb8e7134933"
-    },
-    {
-      "id": "58bf00bbacf8",
-      "title": "Nike Promo Codes and Deals: Up to 40% Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "published_at": "Thu, 22 Jan 2026 06:30:00 +0000",
-      "bullets": [
-        "• Now through Dec",
-        "• 19, you can score up to 50% off select shoes, apparel and accessories with our code, LASTSHOT",
-        "• Nike members get rewarded for shopping directly on the Nike app",
-        "• Members get 15% off their first app purchase and free shipping on orders of $50 or more "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Now through Dec",
-          "• 19, you can score up to 50% off select shoes, apparel and accessories with our code, LASTSHOT"
-        ],
-        "hopeful_bullets": [
-          "• Now through Dec",
-          "• 19, you can score up to 50% off select shoes, apparel and accessories with our code, LASTSHOT"
-        ],
-        "stakes_bullets": [
-          "• Now through Dec",
-          "• 19, you can score up to 50% off select shoes, apparel and accessories with our code, LASTSHOT",
-          "• Nike members get rewarded for shopping directly on the Nike app"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "b4058ea70fc0"
-    },
-    {
-      "id": "6a0d05f18a0b",
-      "title": "Peacock Promo Codes: 40% Off January 2026",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "published_at": "Thu, 22 Jan 2026 06:30:00 +0000",
-      "bullets": [
-        "• Save up to 50% on your first 12 months with the latest Peacock promo codes for Black Friday and subscription deals",
-        "• With over 30 million subscribers and various plans, the service has quickly grown to be a popular streaming service",
-        "• With original favorites like The Office, Poker Face, and Brooklyn Nine-Nine, there’s something for everyone in the family "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Save up to 50% on your first 12 months with the latest Peacock promo codes for Black Friday and subscription deals",
-          "• With over 30 million subscribers and various plans, the service has quickly grown to be a popular streaming service"
-        ],
-        "hopeful_bullets": [
-          "• Save up to 50% on your first 12 months with the latest Peacock promo codes for Black Friday and subscription deals",
-          "• With over 30 million subscribers and various plans, the service has quickly grown to be a popular streaming service"
-        ],
-        "stakes_bullets": [
-          "• With over 30 million subscribers and various plans, the service has quickly grown to be a popular streaming service"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "4fb8e7134933"
-    },
-    {
-      "id": "936dfefe6c73",
-      "title": "H&R Block Coupons and Deals: 20% Off Tax Prep in 2026",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "published_at": "Thu, 22 Jan 2026 06:15:00 +0000",
-      "bullets": [
-        "• Tax day may not be until April 15 but as we all know too well, that date comes around quickly each year",
-        "• H&R Block has its classic in-person help from a tax expert along with easy-to-use online tax services that you can complete online while in your pajamas "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.535
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tax day may not be until April 15 but as we all know too well, that date comes around quickly each year",
-          "• H&R Block has its classic in-person help from a tax expert along with easy-to-use online tax services that you can complete online while in your pajamas "
-        ],
-        "hopeful_bullets": [
-          "• H&R Block has its classic in-person help from a tax expert along with easy-to-use online tax services that you can complete online while in your pajamas "
-        ],
-        "stakes_bullets": [
-          "• Tax day may not be until April 15 but as we all know too well, that date comes around quickly each year",
-          "• H&R Block has its classic in-person help from a tax expert along with easy-to-use online tax services that you can complete online while in your pajamas "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c245e61dc1e6"
+      "cluster_id": "0b5031afe4a3"
     },
     {
       "id": "0473349e60ac",
@@ -5602,42 +5625,6 @@
       "cluster_id": "4fd5c19a2b8b"
     },
     {
-      "id": "7b8b04fb6e3d",
-      "title": "Trump vs. U.S. allies: How will this end?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/22/g-s1-106678/trump-allies-nato",
-      "published_at": "Thu, 22 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• President Trump has backed off his threat to take Greenland by force",
-        "• The president made clear he still wants to take the territory",
-        "• Trump's demands have created an increasingly hostile relationship with U.S",
-        "• allies",
-        "• Canadian Prime Minister Mark Carney said the global order is now tumbling down "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump has backed off his threat to take Greenland by force",
-          "• The president made clear he still wants to take the territory"
-        ],
-        "hopeful_bullets": [
-          "• President Trump has backed off his threat to take Greenland by force",
-          "• The president made clear he still wants to take the territory"
-        ],
-        "stakes_bullets": [
-          "• President Trump has backed off his threat to take Greenland by force",
-          "• The president made clear he still wants to take the territory",
-          "• Trump's demands have created an increasingly hostile relationship with U.S"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "027b42aa0109"
-    },
-    {
       "id": "4bc1953e1825",
       "title": "Jack Smith to defend Trump investigations to House Republicans",
       "outlet": "NPR Topics: News",
@@ -5673,6 +5660,42 @@
       "cluster_id": "77428f8b0e35"
     },
     {
+      "id": "7b8b04fb6e3d",
+      "title": "Trump vs. U.S. allies: How will this end?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/22/g-s1-106678/trump-allies-nato",
+      "published_at": "Thu, 22 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• President Trump has backed off his threat to take Greenland by force",
+        "• The president made clear he still wants to take the territory",
+        "• Trump's demands for Greenland have created an increasingly hostile relationship with U.S",
+        "• allies",
+        "• He has crossed a line and prompted blunt responses from some of his allies "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump has backed off his threat to take Greenland by force",
+          "• The president made clear he still wants to take the territory"
+        ],
+        "hopeful_bullets": [
+          "• President Trump has backed off his threat to take Greenland by force",
+          "• The president made clear he still wants to take the territory"
+        ],
+        "stakes_bullets": [
+          "• President Trump has backed off his threat to take Greenland by force",
+          "• The president made clear he still wants to take the territory",
+          "• Trump's demands for Greenland have created an increasingly hostile relationship with U.S"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "027b42aa0109"
+    },
+    {
       "id": "c563485b51cc",
       "title": "Rahm Emanuel steers a course between 'monopolists' and 'Marxists'",
       "outlet": "NPR Topics: News",
@@ -5681,12 +5704,12 @@
       "bullets": [
         "• Rahm Emanuel has been a member of Congress, President Obama's chief of staff, mayor of Chicago and ambassador to Japan",
         "• Emanuel is exploring a campaign for the presidency, an effort that seems designed to challenge some orthodoxies of that same party",
-        "• Emanuel has argued that Democrats have the wrong focus on social issues, education and the economy "
+        "• Emanuel says Democrats have the wrong focus on social issues, education and the economy "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.95
+        "score": 0.652
       },
       "moods": {
         "brief_bullets": [
@@ -5700,7 +5723,7 @@
         "stakes_bullets": [
           "• Rahm Emanuel has been a member of Congress, President Obama's chief of staff, mayor of Chicago and ambassador to Japan",
           "• Emanuel is exploring a campaign for the presidency, an effort that seems designed to challenge some orthodoxies of that same party",
-          "• Emanuel has argued that Democrats have the wrong focus on social issues, education and the economy "
+          "• Emanuel says Democrats have the wrong focus on social issues, education and the economy "
         ]
       },
       "read_minutes": 4,
@@ -5982,23 +6005,26 @@
       "published_at": "Thu, 22 Jan 2026 04:01:00 -0500",
       "bullets": [
         "• The ICE surge is fueling fear and anxiety among Twin Cities children",
+        "• The surge in federal immigration enforcement continues in Minnesota",
         "• The same day an ICE officer shot and killed Renee Macklin Good, immigration officers used chemical irritants on a crowd that included students during dismissal time at a Minneapolis high school "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.922
+        "score": 0.792
       },
       "moods": {
         "brief_bullets": [
           "• The ICE surge is fueling fear and anxiety among Twin Cities children",
-          "• The same day an ICE officer shot and killed Renee Macklin Good, immigration officers used chemical irritants on a crowd that included students during dismissal time at a Minneapolis high school "
+          "• The surge in federal immigration enforcement continues in Minnesota"
         ],
         "hopeful_bullets": [
-          "• The ICE surge is fueling fear and anxiety among Twin Cities children"
+          "• The ICE surge is fueling fear and anxiety among Twin Cities children",
+          "• The surge in federal immigration enforcement continues in Minnesota"
         ],
         "stakes_bullets": [
           "• The ICE surge is fueling fear and anxiety among Twin Cities children",
+          "• The surge in federal immigration enforcement continues in Minnesota",
           "• The same day an ICE officer shot and killed Renee Macklin Good, immigration officers used chemical irritants on a crowd that included students during dismissal time at a Minneapolis high school "
         ]
       },
@@ -6541,42 +6567,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "044380300efa"
-    },
-    {
-      "id": "759e78035c2f",
-      "title": "Jim Cramer says Trump-fueled market volatility once again proves to be a buying opportunity",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/jim-cramer-trump-fueled-market-volatility-proves-to-be-a-buying-opportunity.html",
-      "published_at": "Thu, 22 Jan 2026 00:19:37 GMT",
-      "bullets": [
-        "• President Donald Trump's tariff threats once again rattled the stock market this week",
-        "• CNBC's Jim Cramer said that may be exactly when investors should strike",
-        "• All three major U.S",
-        "• indexes popped more than 1% on Wednesday",
-        "• Cramer: \"You should get plenty of good buying opportunities over the next three years\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.889
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump's tariff threats once again rattled the stock market this week",
-          "• CNBC's Jim Cramer said that may be exactly when investors should strike"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump's tariff threats once again rattled the stock market this week",
-          "• CNBC's Jim Cramer said that may be exactly when investors should strike"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump's tariff threats once again rattled the stock market this week",
-          "• CNBC's Jim Cramer said that may be exactly when investors should strike",
-          "• All three major U.S"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6d2e86a6ff98"
     },
     {
       "id": "b86f5f97fe6a",
@@ -9411,6 +9401,60 @@
       ]
     },
     {
+      "id": "8f8de858b676",
+      "topic": "bold campaign economic promise",
+      "keywords": [
+        "bold",
+        "campaign",
+        "economic",
+        "promise",
+        "trail",
+        "trump"
+      ],
+      "item_ids": [
+        "9636282d6755"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "e3990eb7e39a",
+      "topic": "day endangered highlight justice",
+      "keywords": [
+        "day",
+        "endangered",
+        "highlight",
+        "justice",
+        "lawyer",
+        "system"
+      ],
+      "item_ids": [
+        "5d8bbc69951f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "e6d9fe9de506",
+      "topic": "against bill democrat ice",
+      "keywords": [
+        "against",
+        "bill",
+        "democrat",
+        "ice",
+        "set",
+        "vote"
+      ],
+      "item_ids": [
+        "908067bf92bd"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "f3b7e41fac1f",
       "topic": "greenlandic lawmaker mandate nation",
       "keywords": [
@@ -9519,60 +9563,6 @@
       ]
     },
     {
-      "id": "bfa06539623b",
-      "topic": "asks elizabeth founder holme",
-      "keywords": [
-        "asks",
-        "elizabeth",
-        "founder",
-        "holme",
-        "therano",
-        "trump"
-      ],
-      "item_ids": [
-        "8733501caa6f"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "8663cd5394e3",
-      "topic": "communitie ice maine somali",
-      "keywords": [
-        "communitie",
-        "ice",
-        "maine",
-        "somali",
-        "target",
-        "trump"
-      ],
-      "item_ids": [
-        "e6db9de1d477"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "95f61e2a5d19",
-      "topic": "american brink democracy inauguration",
-      "keywords": [
-        "american",
-        "brink",
-        "democracy",
-        "inauguration",
-        "trump",
-        "year"
-      ],
-      "item_ids": [
-        "fadd30d54818"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "38fc259b50f6",
       "topic": "board briefing going peace",
       "keywords": [
@@ -9609,21 +9599,6 @@
       ]
     },
     {
-      "id": "027b42aa0109",
-      "topic": "allie end trump",
-      "keywords": [
-        "allie",
-        "end",
-        "trump"
-      ],
-      "item_ids": [
-        "7b8b04fb6e3d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "77428f8b0e35",
       "topic": "defend house investigation jack",
       "keywords": [
@@ -9636,6 +9611,21 @@
       ],
       "item_ids": [
         "4bc1953e1825"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "027b42aa0109",
+      "topic": "allie end trump",
+      "keywords": [
+        "allie",
+        "end",
+        "trump"
+      ],
+      "item_ids": [
+        "7b8b04fb6e3d"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9804,60 +9794,6 @@
       ]
     },
     {
-      "id": "e2800b6a9e3e",
-      "topic": "chair down favorite fed",
-      "keywords": [
-        "chair",
-        "down",
-        "favorite",
-        "fed",
-        "signal",
-        "trump"
-      ],
-      "item_ids": [
-        "c1f35b81145a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6d2e86a6ff98",
-      "topic": "cramer fueled jim market",
-      "keywords": [
-        "cramer",
-        "fueled",
-        "jim",
-        "market",
-        "trump",
-        "volatility"
-      ],
-      "item_ids": [
-        "759e78035c2f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "94fb70243762",
-      "topic": "chip nvidia powerful sell",
-      "keywords": [
-        "chip",
-        "nvidia",
-        "powerful",
-        "sell",
-        "trump",
-        "want"
-      ],
-      "item_ids": [
-        "acee133d59de"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "8f6f4d0299d1",
       "topic": "cnbc five interview takeaway",
       "keywords": [
@@ -9870,6 +9806,60 @@
       ],
       "item_ids": [
         "a2ee109299a9"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "722d1e17b82a",
+      "topic": "busines expletive issue laced",
+      "keywords": [
+        "busines",
+        "expletive",
+        "issue",
+        "laced",
+        "leader",
+        "top"
+      ],
+      "item_ids": [
+        "a7b7bbe32648"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "bbba3a921bd4",
+      "topic": "bezo blue jeff launche",
+      "keywords": [
+        "bezo",
+        "blue",
+        "jeff",
+        "launche",
+        "origin",
+        "satellite"
+      ],
+      "item_ids": [
+        "e9a427e87ab7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ad2c81d5dfbf",
+      "topic": "assassin creed maker plummet",
+      "keywords": [
+        "assassin",
+        "creed",
+        "maker",
+        "plummet",
+        "share",
+        "ubisoft"
+      ],
+      "item_ids": [
+        "30272742abf0"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9927,6 +9917,55 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "f7a4ea5b57a5",
+      "topic": "2026 meditate sight without",
+      "keywords": [
+        "2026",
+        "meditate",
+        "sight",
+        "without"
+      ],
+      "item_ids": [
+        "7e5c5da7d3fc"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "7407e568619a",
+      "topic": "another bad case measle",
+      "keywords": [
+        "another",
+        "bad",
+        "case",
+        "measle",
+        "year"
+      ],
+      "item_ids": [
+        "a3ce45cae7cc"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "8add6f4b706b",
+      "topic": "immolation self superpower witnessing",
+      "keywords": [
+        "immolation",
+        "self",
+        "superpower",
+        "witnessing"
+      ],
+      "item_ids": [
+        "29a4c50fd02f"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10035,7 +10074,7 @@
       ]
     },
     {
-      "id": "4fb8e7134933",
+      "id": "0b5031afe4a3",
       "topic": "2026 code coupon january",
       "keywords": [
         "2026",
@@ -10043,47 +10082,10 @@
         "coupon",
         "january",
         "off",
-        "peacock",
         "promo"
       ],
       "item_ids": [
-        "1543f8005f0a",
-        "6a0d05f18a0b"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "b4058ea70fc0",
-      "topic": "code deal nike off",
-      "keywords": [
-        "code",
-        "deal",
-        "nike",
-        "off",
-        "promo"
-      ],
-      "item_ids": [
-        "58bf00bbacf8"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "c245e61dc1e6",
-      "topic": "block coupon deal off",
-      "keywords": [
-        "block",
-        "coupon",
-        "deal",
-        "off",
-        "prep",
-        "tax"
-      ],
-      "item_ids": [
-        "936dfefe6c73"
+        "1543f8005f0a"
       ],
       "outlets": [
         "WIRED"
@@ -11190,6 +11192,24 @@
       ]
     },
     {
+      "id": "a6f8461b4b40",
+      "topic": "bid clean coral industry",
+      "keywords": [
+        "bid",
+        "clean",
+        "coral",
+        "industry",
+        "intensified",
+        "shipping"
+      ],
+      "item_ids": [
+        "cfd8d121c436"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "e69114b10151",
       "topic": "100 citie half high",
       "keywords": [
@@ -11220,24 +11240,6 @@
       ],
       "item_ids": [
         "3bc0156189b6"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "85bba1219def",
-      "topic": "all development green housing",
-      "keywords": [
-        "all",
-        "development",
-        "green",
-        "housing",
-        "norm",
-        "space"
-      ],
-      "item_ids": [
-        "1b85514591e0"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -13555,12 +13557,11 @@
       ]
     },
     {
-      "id": "7976993929a2",
-      "topic": "album announce debut ryyn",
+      "id": "0568396bfb17",
+      "topic": "album announce ryyn share",
       "keywords": [
         "album",
         "announce",
-        "debut",
         "ryyn",
         "share",
         "song"
@@ -13679,6 +13680,24 @@
       ]
     },
     {
+      "id": "76aa32944e28",
+      "topic": "against appeal challenge court",
+      "keywords": [
+        "against",
+        "appeal",
+        "challenge",
+        "court",
+        "federal",
+        "rehear"
+      ],
+      "item_ids": [
+        "f5e4782ec6af"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "d5b73b246734",
       "topic": "former found guilty officer",
       "keywords": [
@@ -13691,6 +13710,42 @@
       ],
       "item_ids": [
         "41bd59413355"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "3b3c3ed9bfd1",
+      "topic": "governor know lieutenant primary",
+      "keywords": [
+        "governor",
+        "know",
+        "lieutenant",
+        "primary",
+        "running",
+        "texa"
+      ],
+      "item_ids": [
+        "e3b357a8f87a"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "6f58727c10c4",
+      "topic": "congressional leaning north red",
+      "keywords": [
+        "congressional",
+        "leaning",
+        "north",
+        "red",
+        "seat",
+        "texa"
+      ],
+      "item_ids": [
+        "4b0a456d100e"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -13799,59 +13854,6 @@
       ],
       "item_ids": [
         "5a45a403173f"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "7a171d7ecba3",
-      "topic": "prepare texan weather weekend",
-      "keywords": [
-        "prepare",
-        "texan",
-        "weather",
-        "weekend",
-        "winter"
-      ],
-      "item_ids": [
-        "6107c501bd94"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "834be142d7ed",
-      "topic": "abbott endorse gov nate",
-      "keywords": [
-        "abbott",
-        "endorse",
-        "gov",
-        "nate",
-        "sheet",
-        "sid"
-      ],
-      "item_ids": [
-        "d283497d65fc"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "277723f15a4c",
-      "topic": "between difference know local",
-      "keywords": [
-        "between",
-        "difference",
-        "know",
-        "local",
-        "outage",
-        "power"
-      ],
-      "item_ids": [
-        "b54b4f327271"
       ],
       "outlets": [
         "The Texas Tribune"
