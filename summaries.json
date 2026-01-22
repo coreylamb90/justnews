@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T05:28:50Z",
+  "generated_at": "2026-01-22T06:02:20Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -101,6 +101,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "4a18121a7022"
+    },
+    {
+      "id": "ea27f89a266e",
+      "title": "A tiny spin change just flipped a famous quantum effect",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260121233400.htm",
+      "published_at": "Wed, 21 Jan 2026 23:43:56 EST",
+      "bullets": [
+        "• Researchers have shown that the Kondo effect behaves very differently depending on spin size",
+        "• In systems with small spins, it suppresses magnetism, but when spins are larger, it actually promotes magnetic order",
+        "• This discovery uncovers a new quantum boundary with major implications for future materials "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers have shown that the Kondo effect behaves very differently depending on spin size",
+          "• In systems with small spins, it suppresses magnetism, but when spins are larger, it actually promotes magnetic order"
+        ],
+        "hopeful_bullets": [
+          "• Researchers have shown that the Kondo effect behaves very differently depending on spin size",
+          "• In systems with small spins, it suppresses magnetism, but when spins are larger, it actually promotes magnetic order"
+        ],
+        "stakes_bullets": [
+          "• Researchers have shown that the Kondo effect behaves very differently depending on spin size"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9ab7a8aa3a5f"
     },
     {
       "id": "85814de551c6",
@@ -1577,39 +1609,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "cbbaa78323c5"
-    },
-    {
-      "id": "4f7f84a551c8",
-      "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 20:15:36 GMT",
-      "bullets": [
-        "• Ghislaine Maxwell to testify before US Congress in Epstein probe",
-        "• Maxwell is serving a 20-year prison sentence for recruiting and trafficking teenage girls for sexual abuse by Jeffrey Epstein",
-        "• Committee chairman James Comer says Maxwell will depose virtually on 9 February",
-        "• Committee declined to offer Maxwell legal immunity in exchange for testimony "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ghislaine Maxwell to testify before US Congress in Epstein probe",
-          "• Maxwell is serving a 20-year prison sentence for recruiting and trafficking teenage girls for sexual abuse by Jeffrey Epstein"
-        ],
-        "hopeful_bullets": [
-          "• Ghislaine Maxwell to testify before US Congress in Epstein probe",
-          "• Maxwell is serving a 20-year prison sentence for recruiting and trafficking teenage girls for sexual abuse by Jeffrey Epstein"
-        ],
-        "stakes_bullets": [
-          "• Committee chairman James Comer says Maxwell will depose virtually on 9 February"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9f6935ac8081"
     },
     {
       "id": "fa8d7e624b37",
@@ -4108,40 +4107,6 @@
       "cluster_id": "3f463ee9ac16"
     },
     {
-      "id": "c6eb70794c12",
-      "title": "Reflecting on Redemtion and Choices – SWR #481",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Reflecting-on-Redemtion-and-Choices--SWR-481-e37kfmh",
-      "published_at": "Wed, 17 Nov 2021 21:32:06 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "2310b1aa0d50"
-    },
-    {
       "id": "40d030e37f88",
       "title": "Nick Cagnetti talks The Spirit of Shadows comic",
       "outlet": "Wicked Horror",
@@ -4175,40 +4140,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "485bdfd86a43"
-    },
-    {
-      "id": "01f62cb17630",
-      "title": "Star Wars Eclipse Revealed + Favorite ROTJ moments – SWR #485",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Star-Wars-Eclipse-Revealed--Favorite-ROTJ-moments--SWR-485-e37kfpg",
-      "published_at": "Wed, 15 Dec 2021 02:48:35 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "4d68b7d6cb41"
     },
     {
       "id": "18402b147234",
@@ -4504,40 +4435,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "5cfc907df0f9"
-    },
-    {
-      "id": "8bc2e543862e",
-      "title": "The Boba Fett Trailer has us Geeking Out Loud – SWR #479",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/The-Boba-Fett-Trailer-has-us-Geeking-Out-Loud--SWR-479-e37knuo",
-      "published_at": "Wed, 03 Nov 2021 17:35:33 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "a98a0ede1c29"
     },
     {
       "id": "2c79ee8b7a0d",
@@ -5136,71 +5033,6 @@
       "cluster_id": "d56d90cfc9da"
     },
     {
-      "id": "1539aa0cec76",
-      "title": "A faint signal from the Universe’s dark ages could reveal dark matter",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260120000318.htm",
-      "published_at": "Tue, 20 Jan 2026 08:34:32 EST",
-      "bullets": [
-        "• A faint signal from the Universeâs dark ages could reveal dark matter",
-        "• Future radio telescopes on the Moon may be able to detect it and shed light on one of astronomyâs greatest mysteries",
-        "• Researchers from the University of Tsukuba and The University of Tokyo explored how this 21-cm signal might behave under different theories "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.965
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A faint signal from the Universeâs dark ages could reveal dark matter",
-          "• Future radio telescopes on the Moon may be able to detect it and shed light on one of astronomyâs greatest mysteries"
-        ],
-        "hopeful_bullets": [
-          "• A faint signal from the Universeâs dark ages could reveal dark matter",
-          "• Future radio telescopes on the Moon may be able to detect it and shed light on one of astronomyâs greatest mysteries"
-        ],
-        "stakes_bullets": [
-          "• A faint signal from the Universeâs dark ages could reveal dark matter"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "57a51de913a3"
-    },
-    {
-      "id": "d1f83478c9f6",
-      "title": "James Webb catches an exoplanet losing its atmosphere in real time",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260120000311.htm",
-      "published_at": "Tue, 20 Jan 2026 08:01:33 EST",
-      "bullets": [
-        "• James Webb catches an exoplanet losing its atmosphere in real time with the James Webb Space Telescope",
-        "• WASP-121b, a scorching gas giant orbiting its star every 30 hours, is bleeding its atmosphere into space",
-        "• Instead of a single stream of escaping gas, the planet is wrapped in two colossal helium tailsâone trailing behind like a comet, the other stretching ahead toward its star "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• James Webb catches an exoplanet losing its atmosphere in real time with the James Webb Space Telescope",
-          "• WASP-121b, a scorching gas giant orbiting its star every 30 hours, is bleeding its atmosphere into space"
-        ],
-        "hopeful_bullets": [
-          "• James Webb catches an exoplanet losing its atmosphere in real time with the James Webb Space Telescope",
-          "• WASP-121b, a scorching gas giant orbiting its star every 30 hours, is bleeding its atmosphere into space"
-        ],
-        "stakes_bullets": [
-          "• James Webb catches an exoplanet losing its atmosphere in real time with the James Webb Space Telescope",
-          "• Instead of a single stream of escaping gas, the planet is wrapped in two colossal helium tailsâone trailing behind like a comet, the other stretching ahead toward its star "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8106ef73c66f"
-    },
-    {
       "id": "bc7fccb7b3ac",
       "title": "Positive News launches podcast about people turning ideals into action",
       "outlet": "Positive News",
@@ -5623,74 +5455,6 @@
       "cluster_id": "1b7961f8997b"
     },
     {
-      "id": "c831e3291d7e",
-      "title": "Galactic Starcruiser Disaster – SWR #484",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Galactic-Starcruiser-Disaster--SWR-484-e37kfm4",
-      "published_at": "Tue, 07 Dec 2021 23:26:35 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "3041f5367d34"
-    },
-    {
-      "id": "2ebb9ebcde07",
-      "title": "Hayden Joins Ahsoka w/ Scott Ryfun – SWR #478",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Hayden-Joins-Ahsoka-w-Scott-Ryfun--SWR-478-e37kfs6",
-      "published_at": "Thu, 28 Oct 2021 02:24:11 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "8af4054e818a"
-    },
-    {
       "id": "bb9f43091b0d",
       "title": "Full Avengers: Doomsday Cast Announcement Breakdown",
       "outlet": "Comic Quarters",
@@ -5724,6 +5488,73 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "4f7f84a551c8",
+      "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 22 Jan 2026 05:14:56 GMT",
+      "bullets": [
+        "• Ghislaine Maxwell to testify before US Congress in Epstein probe",
+        "• Maxwell is serving a 20-year prison sentence for recruiting and trafficking teenage girls for sexual abuse by Jeffrey Epstein",
+        "• Committee chairman James Comer says Maxwell will depose virtually on 9 February",
+        "• Committee declined to offer Maxwell legal immunity in exchange for testimony "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ghislaine Maxwell to testify before US Congress in Epstein probe",
+          "• Maxwell is serving a 20-year prison sentence for recruiting and trafficking teenage girls for sexual abuse by Jeffrey Epstein"
+        ],
+        "hopeful_bullets": [
+          "• Ghislaine Maxwell to testify before US Congress in Epstein probe",
+          "• Maxwell is serving a 20-year prison sentence for recruiting and trafficking teenage girls for sexual abuse by Jeffrey Epstein"
+        ],
+        "stakes_bullets": [
+          "• Committee chairman James Comer says Maxwell will depose virtually on 9 February"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9f6935ac8081"
+    },
+    {
+      "id": "2efec487c102",
+      "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
+      "published_at": "Thu, 22 Jan 2026 05:00:00 GMT",
+      "bullets": [
+        "• Co-foundations are looking at how they can help support children in Africa and Latin America",
+        "• They say they want to change the way they work with the world's poorest people",
+        "• They want to see how they work together to help those in need of children "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.916
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Co-foundations are looking at how they can help support children in Africa and Latin America",
+          "• They say they want to change the way they work with the world's poorest people"
+        ],
+        "hopeful_bullets": [
+          "• Co-foundations are looking at how they can help support children in Africa and Latin America",
+          "• They want to see how they work together to help those in need of children "
+        ],
+        "stakes_bullets": [
+          "• Co-foundations are looking at how they can help support children in Africa and Latin America",
+          "• They say they want to change the way they work with the world's poorest people",
+          "• They want to see how they work together to help those in need of children "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "91ed1fde89b6"
+    },
+    {
       "id": "85339a3d4995",
       "title": "Greenlandic lawmaker says Nato has no mandate to negotiate nation’s status – as it happened",
       "outlet": "US news | The Guardian",
@@ -5731,27 +5562,25 @@
       "published_at": "Thu, 22 Jan 2026 04:53:16 GMT",
       "bullets": [
         "• Donald Trump says he assumes Denmark weighed in on Greenland deal with Nato chief Mark Rutte",
-        "• Danish lawmakers said the claim was ‘not real’ and people in Greenland reacted to it with profound scepticism",
-        "• Trump said: “Well it’s a little bit complex but we’ll explain it down the line – but the secretary general of Nato and I and some other people were talking and it's the kind of deal that I wanted to be able to make”"
+        "• Trump characterised the agreement as “pretty much a concept of a deal” and said it was ‘a little bit complex’ But Danish lawmakers said the claim was “not real’ and people in Greenland reacted with profound scepticism "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
           "• Donald Trump says he assumes Denmark weighed in on Greenland deal with Nato chief Mark Rutte",
-          "• Danish lawmakers said the claim was ‘not real’ and people in Greenland reacted to it with profound scepticism"
+          "• Trump characterised the agreement as “pretty much a concept of a deal” and said it was ‘a little bit complex’ But Danish lawmakers said the claim was “not real’ and people in Greenland reacted with profound scepticism "
         ],
         "hopeful_bullets": [
           "• Donald Trump says he assumes Denmark weighed in on Greenland deal with Nato chief Mark Rutte",
-          "• Danish lawmakers said the claim was ‘not real’ and people in Greenland reacted to it with profound scepticism"
+          "• Trump characterised the agreement as “pretty much a concept of a deal” and said it was ‘a little bit complex’ But Danish lawmakers said the claim was “not real’ and people in Greenland reacted with profound scepticism "
         ],
         "stakes_bullets": [
           "• Donald Trump says he assumes Denmark weighed in on Greenland deal with Nato chief Mark Rutte",
-          "• Danish lawmakers said the claim was ‘not real’ and people in Greenland reacted to it with profound scepticism",
-          "• Trump said: “Well it’s a little bit complex but we’ll explain it down the line – but the secretary general of Nato and I and some other people were talking and it's the kind of deal that I wanted to be able to make”"
+          "• Trump characterised the agreement as “pretty much a concept of a deal” and said it was ‘a little bit complex’ But Danish lawmakers said the claim was “not real’ and people in Greenland reacted with profound scepticism "
         ]
       },
       "read_minutes": 14,
@@ -6666,6 +6495,39 @@
       "cluster_id": "c62a1b226168"
     },
     {
+      "id": "5fe18401de8a",
+      "title": "Researchers unlocked a new shortcut to quantum materials",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
+      "published_at": "Thu, 22 Jan 2026 00:03:43 EST",
+      "bullets": [
+        "• Researchers unlocked a new shortcut to quantum materials by tapping into a materialâs own quantum energy",
+        "• By harnessing excitons, short-lived energy pairs that naturally form inside semiconductors, researchers can alter how electrons behave using far less energy than before",
+        "• This approach achieves powerful quantum effects without damaging the material "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers unlocked a new shortcut to quantum materials by tapping into a materialâs own quantum energy",
+          "• By harnessing excitons, short-lived energy pairs that naturally form inside semiconductors, researchers can alter how electrons behave using far less energy than before"
+        ],
+        "hopeful_bullets": [
+          "• Researchers unlocked a new shortcut to quantum materials by tapping into a materialâs own quantum energy",
+          "• By harnessing excitons, short-lived energy pairs that naturally form inside semiconductors, researchers can alter how electrons behave using far less energy than before"
+        ],
+        "stakes_bullets": [
+          "• Researchers unlocked a new shortcut to quantum materials by tapping into a materialâs own quantum energy",
+          "• This approach achieves powerful quantum effects without damaging the material "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "b7062c6b5b5c"
+    },
+    {
       "id": "b7fc073bbcb6",
       "title": "‘Don’t Move’ Duo Directing ‘Every House Is Haunted’ for Sam Raimi",
       "outlet": "Dread Central",
@@ -7291,40 +7153,6 @@
       "cluster_id": "85c2f547443d"
     },
     {
-      "id": "c1fa9628700b",
-      "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Boba-Fetts-Comeback-W-Scott-Ryfun--SWR-474-e37kfmb",
-      "published_at": "Sun, 03 Oct 2021 19:38:49 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "077fbd269b7a"
-    },
-    {
       "id": "c39d610858a7",
       "title": "Coming to Wicked Horror TV in December",
       "outlet": "Wicked Horror",
@@ -7491,37 +7319,6 @@
       "cluster_id": "e9e064f72806"
     },
     {
-      "id": "7345a44ad034",
-      "title": "Confidence runs high in London’s Little Morocco as Afcon glory beckons",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high",
-      "published_at": "Sat, 17 Jan 2026 13:00:28 GMT",
-      "bullets": [
-        "• Moroccan diaspora in North Kensington is in no doubt Atlas Lions will triumph against Senegal in the final of the Africa Cup of Nations on Sunday",
-        "• Morocco have not lifted the Afcon trophy since 1976, a tournament he cannot even remember",
-        "• Souad Talsi runs the Al-Hasaniya Moroccan women's centre at the base of 31-storey Trellick Tower "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Moroccan diaspora in North Kensington is in no doubt Atlas Lions will triumph against Senegal in the final of the Africa Cup of Nations on Sunday",
-          "• Morocco have not lifted the Afcon trophy since 1976, a tournament he cannot even remember"
-        ],
-        "hopeful_bullets": [
-          "• Moroccan diaspora in North Kensington is in no doubt Atlas Lions will triumph against Senegal in the final of the Africa Cup of Nations on Sunday"
-        ],
-        "stakes_bullets": [
-          "• Moroccan diaspora in North Kensington is in no doubt Atlas Lions will triumph against Senegal in the final of the Africa Cup of Nations on Sunday"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "240dd6148816"
-    },
-    {
       "id": "b3e5080ecdc2",
       "title": "Filoni In, Kennedy Out?",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -7588,40 +7385,6 @@
       "cluster_id": "ae82da00304d"
     },
     {
-      "id": "a6985131ac1a",
-      "title": "Reminiscing with Jimmy Mac – SWR #475",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Reminiscing-with-Jimmy-Mac--SWR-475-e37knuk",
-      "published_at": "Sat, 09 Oct 2021 12:48:47 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "2e116862dfd5"
-    },
-    {
       "id": "40236a8d776a",
       "title": "What If…? Season 3: Uneven Stories, Satisfying Arcs",
       "outlet": "Comic Quarters",
@@ -7654,40 +7417,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ce5a5a3ce234"
-    },
-    {
-      "id": "1b037cbd2fa0",
-      "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/How-the-Force-can-Fix-the-World-w-Stephen-Kent--SWR-482-e37kfof",
-      "published_at": "Mon, 22 Nov 2021 08:33:23 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "9c2a1e3cb2fd"
     },
     {
       "id": "ba0bc378a181",
@@ -8316,40 +8045,6 @@
       "cluster_id": "cf059bc2fec2"
     },
     {
-      "id": "2bd6b95ce75d",
-      "title": "Kenobi Revealed – SWR #480",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/Kenobi-Revealed--SWR-480-e37kfn8",
-      "published_at": "Fri, 12 Nov 2021 02:04:08 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "cc7d025ab986"
-    },
-    {
       "id": "c8177dc31327",
       "title": "Creature Commandos: A Bold and Brilliant Start to the New DCU",
       "outlet": "Comic Quarters",
@@ -8413,40 +8108,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "44eaca14d89c"
-    },
-    {
-      "id": "a14f093f556a",
-      "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
-      "outlet": "The Star Wars Report Podcast",
-      "url": "https://podcasters.spotify.com/pod/show/thestarwarsreport/episodes/2021-Year-in-Review-w-Bruce-Gibson--SWR-483-e37kfr0",
-      "published_at": "Fri, 03 Dec 2021 00:01:30 GMT",
-      "bullets": [
-        "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-        "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-        "• New video re-upload: The Starcruiser to nowhere!"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "hopeful_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Report Podcast: Episode 5:485: Star Wars Eclipse Revealed + Favorite ROTJ moments",
-          "• New Bo-Katan Helmet Revealed and More! New Boba’s Bounty:N/A",
-          "• New video re-upload: The Starcruiser to nowhere!"
-        ]
-      },
-      "read_minutes": 40,
-      "cluster_id": "76c61b84461a"
     },
     {
       "id": "50420a03de13",
@@ -9317,6 +8978,24 @@
       ]
     },
     {
+      "id": "91ed1fde89b6",
+      "topic": "actionaid child part plan",
+      "keywords": [
+        "actionaid",
+        "child",
+        "part",
+        "plan",
+        "rethink",
+        "sponsorship"
+      ],
+      "item_ids": [
+        "2efec487c102"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "1de43ea78c17",
       "topic": "africa bureau head highlight",
       "keywords": [
@@ -9383,24 +9062,6 @@
       ],
       "item_ids": [
         "f3ec94d9ade8"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "240dd6148816",
-      "topic": "confidence high little london",
-      "keywords": [
-        "confidence",
-        "high",
-        "little",
-        "london",
-        "morocco",
-        "runs"
-      ],
-      "item_ids": [
-        "7345a44ad034"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -10565,6 +10226,41 @@
       ]
     },
     {
+      "id": "b7062c6b5b5c",
+      "topic": "material quantum researcher shortcut",
+      "keywords": [
+        "material",
+        "quantum",
+        "researcher",
+        "shortcut",
+        "unlocked"
+      ],
+      "item_ids": [
+        "5fe18401de8a"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "9ab7a8aa3a5f",
+      "topic": "change famou flipped just",
+      "keywords": [
+        "change",
+        "famou",
+        "flipped",
+        "just",
+        "spin",
+        "tiny"
+      ],
+      "item_ids": [
+        "ea27f89a266e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "7a0c325f814b",
       "topic": "decide hidden microbe sourdough",
       "keywords": [
@@ -10701,42 +10397,6 @@
       ],
       "item_ids": [
         "bc51b3fd2c68"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "57a51de913a3",
-      "topic": "ages dark faint reveal",
-      "keywords": [
-        "ages",
-        "dark",
-        "faint",
-        "reveal",
-        "signal",
-        "universe"
-      ],
-      "item_ids": [
-        "1539aa0cec76"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "8106ef73c66f",
-      "topic": "atmosphere catche exoplanet jame",
-      "keywords": [
-        "atmosphere",
-        "catche",
-        "exoplanet",
-        "jame",
-        "losing",
-        "webb"
-      ],
-      "item_ids": [
-        "d1f83478c9f6"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -12593,181 +12253,6 @@
       ],
       "outlets": [
         "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "4d68b7d6cb41",
-      "topic": "eclipse favorite revealed rotj",
-      "keywords": [
-        "eclipse",
-        "favorite",
-        "revealed",
-        "rotj",
-        "star",
-        "wars"
-      ],
-      "item_ids": [
-        "01f62cb17630"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "3041f5367d34",
-      "topic": "484 disaster galactic starcruiser",
-      "keywords": [
-        "484",
-        "disaster",
-        "galactic",
-        "starcruiser",
-        "swr"
-      ],
-      "item_ids": [
-        "c831e3291d7e"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "76c61b84461a",
-      "topic": "2021 bruce gibson review",
-      "keywords": [
-        "2021",
-        "bruce",
-        "gibson",
-        "review",
-        "swr",
-        "year"
-      ],
-      "item_ids": [
-        "a14f093f556a"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "9c2a1e3cb2fd",
-      "topic": "fix force kent stephen",
-      "keywords": [
-        "fix",
-        "force",
-        "kent",
-        "stephen",
-        "swr",
-        "world"
-      ],
-      "item_ids": [
-        "1b037cbd2fa0"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "2310b1aa0d50",
-      "topic": "481 choice redemtion reflecting",
-      "keywords": [
-        "481",
-        "choice",
-        "redemtion",
-        "reflecting",
-        "swr"
-      ],
-      "item_ids": [
-        "c6eb70794c12"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "cc7d025ab986",
-      "topic": "480 kenobi revealed swr",
-      "keywords": [
-        "480",
-        "kenobi",
-        "revealed",
-        "swr"
-      ],
-      "item_ids": [
-        "2bd6b95ce75d"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "a98a0ede1c29",
-      "topic": "boba fett geeking loud",
-      "keywords": [
-        "boba",
-        "fett",
-        "geeking",
-        "loud",
-        "out",
-        "trailer"
-      ],
-      "item_ids": [
-        "8bc2e543862e"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "8af4054e818a",
-      "topic": "ahsoka hayden join ryfun",
-      "keywords": [
-        "ahsoka",
-        "hayden",
-        "join",
-        "ryfun",
-        "scott",
-        "swr"
-      ],
-      "item_ids": [
-        "2ebb9ebcde07"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "2e116862dfd5",
-      "topic": "475 jimmy mac reminiscing",
-      "keywords": [
-        "475",
-        "jimmy",
-        "mac",
-        "reminiscing",
-        "swr"
-      ],
-      "item_ids": [
-        "a6985131ac1a"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
-      ]
-    },
-    {
-      "id": "077fbd269b7a",
-      "topic": "boba comeback fett ryfun",
-      "keywords": [
-        "boba",
-        "comeback",
-        "fett",
-        "ryfun",
-        "scott",
-        "swr"
-      ],
-      "item_ids": [
-        "c1fa9628700b"
-      ],
-      "outlets": [
-        "The Star Wars Report Podcast"
       ]
     },
     {
