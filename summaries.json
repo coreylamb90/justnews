@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T10:13:05Z",
+  "generated_at": "2026-01-22T11:09:44Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -465,6 +465,40 @@
       "cluster_id": "58ff733a23c2"
     },
     {
+      "id": "a2ee109299a9",
+      "title": "Top five takeaways from Trump's interview with CNBC",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/trump-cnbc-greenland-fed-iran-credit-cards-homes.html",
+      "published_at": "Wed, 21 Jan 2026 22:05:42 GMT",
+      "bullets": [
+        "• President Donald Trump gave an interview to CNBC's Joe Kernen on the sidelines of the World Economic Forum in Davos, Switzerland",
+        "• Trump said he struck a \"concept of a deal\" on Greenland after meeting with North Atlantic Treaty Organization Secretary General Mark Rutte on Wednesday",
+        "• Trump also said he may have made his pick for the next chair of the Federal Reserve "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.879
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump gave an interview to CNBC's Joe Kernen on the sidelines of the World Economic Forum in Davos, Switzerland",
+          "• Trump said he struck a \"concept of a deal\" on Greenland after meeting with North Atlantic Treaty Organization Secretary General Mark Rutte on Wednesday"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump gave an interview to CNBC's Joe Kernen on the sidelines of the World Economic Forum in Davos, Switzerland",
+          "• Trump said he struck a \"concept of a deal\" on Greenland after meeting with North Atlantic Treaty Organization Secretary General Mark Rutte on Wednesday"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump gave an interview to CNBC's Joe Kernen on the sidelines of the World Economic Forum in Davos, Switzerland",
+          "• Trump said he struck a \"concept of a deal\" on Greenland after meeting with North Atlantic Treaty Organization Secretary General Mark Rutte on Wednesday",
+          "• Trump also said he may have made his pick for the next chair of the Federal Reserve "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8f6f4d0299d1"
+    },
+    {
       "id": "c80dbf742e4a",
       "title": "Elissa Dowling, Debra Lamb,Harley Wallen and more in new horror film ”The Mourning Architect”",
       "outlet": "HorrorFix",
@@ -491,34 +525,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7a53530c13b6"
-    },
-    {
-      "id": "fe2724292dd5",
-      "title": "Trump says he reached Greenland deal 'framework' with NATO, backs off Europe tariffs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/21/trump-tariffs-nato-greenland-davos.html",
-      "published_at": "Wed, 21 Jan 2026 21:57:09 GMT",
-      "bullets": [
-        "• President Donald Trump says he and NATO Secretary General Mark Rutte have \"formed the framework of a future deal with respect to Greenland\" Trump: \"It's a little bit complex, but we'll explain it down the line\" Trump suggested that the framework involves mineral rights for the U.S., as well as the \"Golden Dome\" missile defense system "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump says he and NATO Secretary General Mark Rutte have \"formed the framework of a future deal with respect to Greenland\" Trump: \"It's a little bit complex, but we'll explain it down the line\" Trump suggested that the framework involves mineral rights for the U.S., as well as the \"Golden Dome\" missile defense system "
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says he and NATO Secretary General Mark Rutte have \"formed the framework of a future deal with respect to Greenland\" Trump: \"It's a little bit complex, but we'll explain it down the line\" Trump suggested that the framework involves mineral rights for the U.S., as well as the \"Golden Dome\" missile defense system "
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says he and NATO Secretary General Mark Rutte have \"formed the framework of a future deal with respect to Greenland\" Trump: \"It's a little bit complex, but we'll explain it down the line\" Trump suggested that the framework involves mineral rights for the U.S., as well as the \"Golden Dome\" missile defense system "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "aba314e1d7f4"
     },
     {
       "id": "e6db9de1d477",
@@ -818,6 +824,40 @@
       "cluster_id": "95f61e2a5d19"
     },
     {
+      "id": "733f420bbef8",
+      "title": "Trump says Greenland framework with NATO involves mineral rights for U.S.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/trump-says-greenland-framework-with-nato-involves-mineral-rights-for-us.html",
+      "published_at": "Wed, 21 Jan 2026 21:19:47 GMT",
+      "bullets": [
+        "• President Donald Trump says he has reached a deal with NATO on Greenland",
+        "• The deal involves access to mineral rights for the U.S",
+        "• and its European allies",
+        "• Trump has made developing a rare earth supply chain a central objective of industrial policy",
+        "• Rare earths are used to make magnets that are key inputs in weapons systems "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.888
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump says he has reached a deal with NATO on Greenland",
+          "• The deal involves access to mineral rights for the U.S"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump says he has reached a deal with NATO on Greenland",
+          "• The deal involves access to mineral rights for the U.S"
+        ],
+        "stakes_bullets": [
+          "• Trump has made developing a rare earth supply chain a central objective of industrial policy"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0825232b602c"
+    },
+    {
       "id": "8e5f96779849",
       "title": "Charlotte Hope, Jessica McNamee, Zach Gilford, More to Star in Francis Galluppi’s ‘Evil Dead’ Film",
       "outlet": "Bloody Disgusting!",
@@ -1111,40 +1151,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e2800b6a9e3e"
-    },
-    {
-      "id": "29f1248eccca",
-      "title": "Israeli strike in Gaza kills three journalists, first responders say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 21 Jan 2026 20:44:23 GMT",
-      "bullets": [
-        "• Israeli strike in Gaza kills three journalists, first responders say",
-        "• They are understood to have been working for an Egyptian relief organisation",
-        "• Another eight people, including a 10-year-old boy, were killed by Israeli artillery and gunfire on Wednesday",
-        "• At least 466 Palestinians have been killed in Gaza since ceasefire began on 10 October "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israeli strike in Gaza kills three journalists, first responders say",
-          "• They are understood to have been working for an Egyptian relief organisation"
-        ],
-        "hopeful_bullets": [
-          "• They are understood to have been working for an Egyptian relief organisation"
-        ],
-        "stakes_bullets": [
-          "• Israeli strike in Gaza kills three journalists, first responders say",
-          "• They are understood to have been working for an Egyptian relief organisation",
-          "• Another eight people, including a 10-year-old boy, were killed by Israeli artillery and gunfire on Wednesday"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "76ad415ea7bc"
     },
     {
       "id": "3412f10edf7c",
@@ -2202,41 +2208,6 @@
       "cluster_id": "e3c50aabed85"
     },
     {
-      "id": "89ff54a1463e",
-      "title": "In Davos speech, Trump ruled out using military force to acquire Greenland",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5684015/in-davos-speech-trump-ruled-out-using-military-force-to-acquire-greenland",
-      "published_at": "Wed, 21 Jan 2026 17:36:58 -0500",
-      "bullets": [
-        "• In Davos speech, Trump ruled out using military force to acquire Greenland",
-        "• But he left many questions about the U.S",
-        "• role in the world",
-        "• Trump also ended up backing down from an earlier threat of higher tariffs on eight European countries "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In Davos speech, Trump ruled out using military force to acquire Greenland",
-          "• But he left many questions about the U.S"
-        ],
-        "hopeful_bullets": [
-          "• In Davos speech, Trump ruled out using military force to acquire Greenland",
-          "• But he left many questions about the U.S"
-        ],
-        "stakes_bullets": [
-          "• In Davos speech, Trump ruled out using military force to acquire Greenland",
-          "• But he left many questions about the U.S",
-          "• role in the world"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b42e4af010d5"
-    },
-    {
       "id": "89aa0783022b",
       "title": "Snow, ice and subzero temperatures to sweep across US this weekend",
       "outlet": "Environment | The Guardian",
@@ -2502,7 +2473,7 @@
     {
       "id": "5ef9ca712efe",
       "title": "House Oversight panel votes to hold Bill and Hillary Clinton in contempt of Congress",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/21/nx-s1-5684152/bill-clinton-hillary-clinton-contempt-of-congress-vote",
       "published_at": "Wed, 21 Jan 2026 16:30:20 -0500",
       "bullets": [
@@ -2511,7 +2482,7 @@
         "• The issue will head next to the full House",
         "• If the House approves the referrals, they would move to the Justice Department for potential prosecution "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "neutral",
         "score": 0.592
@@ -2737,14 +2708,14 @@
     {
       "id": "42dc483d4d79",
       "title": "Lindsey Halligan, Trump's former personal attorney, exits federal prosecutor post",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/21/nx-s1-5684189/lindsey-halligan-trump-justice-us-attorney",
       "published_at": "Wed, 21 Jan 2026 15:33:52 -0500",
       "bullets": [
         "• Lindsey Halligan, a former White House aide with no prior experience as a prosecutor, is now out of the post that President Trump appointed her to in eastern Virginia",
         "• Her status as an interim federal prosecutor led to the dismissal of controversial Justice Department cases against former FBI Director James Comey and New York Attorney General Letitia James "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -2960,74 +2931,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "7eeeee069a91"
-    },
-    {
-      "id": "5490f7d21fc5",
-      "title": "Global buzzwords that will be buzzing in your ear in 2026",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/21/g-s1-106572/global-buzzwords-disease-x-aid-cuts-health",
-      "published_at": "Wed, 21 Jan 2026 12:55:20 -0500",
-      "bullets": [
-        "• Global buzzwords that will be buzzing in the world's ears in 2026 include resilience, resilience and solidarity",
-        "• The United States dismantled the U.S",
-        "• Agency for International Development, terminating billions of dollars in aid",
-        "• Climate change, conflict and the threat of disease threats have also been on the agenda this year "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.877
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Global buzzwords that will be buzzing in the world's ears in 2026 include resilience, resilience and solidarity",
-          "• The United States dismantled the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Global buzzwords that will be buzzing in the world's ears in 2026 include resilience, resilience and solidarity",
-          "• The United States dismantled the U.S"
-        ],
-        "stakes_bullets": [
-          "• Global buzzwords that will be buzzing in the world's ears in 2026 include resilience, resilience and solidarity",
-          "• Agency for International Development, terminating billions of dollars in aid"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "56ad74771659"
-    },
-    {
-      "id": "b905cee3b79a",
-      "title": "Are ICE agents in Minneapolis breaking the law?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5683915/are-ice-agents-in-minneapolis-breaking-the-law",
-      "published_at": "Wed, 21 Jan 2026 12:33:16 -0500",
-      "bullets": [
-        "• President Donald Trump has said he would institute the Insurrection Act in Minneapolis",
-        "• There are now about 3,000 federal immigration agents in the Twin Cities",
-        "• Emmanuel Mauleón is a law professor at the University of Minnesota Law School",
-        "• Elizabeth Goitein is a Brennan Center for Justice analyst "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.793
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump has said he would institute the Insurrection Act in Minneapolis",
-          "• There are now about 3,000 federal immigration agents in the Twin Cities"
-        ],
-        "hopeful_bullets": [
-          "• There are now about 3,000 federal immigration agents in the Twin Cities"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump has said he would institute the Insurrection Act in Minneapolis",
-          "• There are now about 3,000 federal immigration agents in the Twin Cities",
-          "• Emmanuel Mauleón is a law professor at the University of Minnesota Law School"
-        ]
-      },
-      "read_minutes": 32,
-      "cluster_id": "cf38daf1ff2f"
     },
     {
       "id": "b1849a7602ec",
@@ -3287,39 +3190,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "f833226838aa"
-    },
-    {
-      "id": "f33525841c87",
-      "title": "How ICE grew to be the highest-funded U.S. law enforcement agency",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump",
-      "published_at": "Wed, 21 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Immigration and Customs Enforcement is now the highest-funded U.S",
-        "• law enforcement agency",
-        "• The agency's budget has skyrocketed during President Trump's second term",
-        "• The One Big Beautiful Bill Act, enacted last July, gave the agency $85 billion "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Immigration and Customs Enforcement is now the highest-funded U.S",
-          "• law enforcement agency"
-        ],
-        "hopeful_bullets": [
-          "• Immigration and Customs Enforcement is now the highest-funded U.S",
-          "• law enforcement agency"
-        ],
-        "stakes_bullets": [
-          "• The One Big Beautiful Bill Act, enacted last July, gave the agency $85 billion "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "6d39ae6fc076"
     },
     {
       "id": "e928fb6c1498",
@@ -4051,42 +3921,6 @@
       "cluster_id": "138272cb19ae"
     },
     {
-      "id": "755ce7ead8a0",
-      "title": "Minnesota Gov. Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/20/nx-s1-5683321/minnesota-tim-walz-mayor-jacob-frey-subpoena",
-      "published_at": "Tue, 20 Jan 2026 20:08:13 -0500",
-      "bullets": [
-        "• Minnesota Gov",
-        "• Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ",
-        "• The DOJ is investigating whether Minnesota officials conspired to impede law enforcement amid the Trump administration's immigration crackdown",
-        "• Minnesota Attorney General Keith Ellison and St",
-        "• Paul Mayor Kaohly Her have also been issued subpoenas "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.947
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Minnesota Gov",
-          "• Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ"
-        ],
-        "hopeful_bullets": [
-          "• Minnesota Gov",
-          "• Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ"
-        ],
-        "stakes_bullets": [
-          "• Minnesota Gov",
-          "• Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ",
-          "• The DOJ is investigating whether Minnesota officials conspired to impede law enforcement amid the Trump administration's immigration crackdown"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ff88941c36ef"
-    },
-    {
       "id": "76131e9a8813",
       "title": "Horror Highlights: SACCHARINE, THE PROWLER, THE SILENCE AFTER",
       "outlet": "Daily Dead",
@@ -4150,41 +3984,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1de43ea78c17"
-    },
-    {
-      "id": "0f06728210e4",
-      "title": "Trump speaks at length with reporters before heading off to Davos",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/20/nx-s1-5683255/trump-speaks-at-length-with-reporters-before-heading-off-to-davos",
-      "published_at": "Tue, 20 Jan 2026 16:41:28 -0500",
-      "bullets": [
-        "• President Trump held court with reporters for more than 90 minutes marking the first year anniversary of his second term",
-        "• Trump spoke for 80 minutes before taking a question",
-        "• This all occurred just before Trump heads to the World Economic Forum in Davos, Switzerland, where Europeans are trying to head off conflict over Trump's insistence that the U.S",
-        "• takes over Greenland from Denmark "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.849
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump held court with reporters for more than 90 minutes marking the first year anniversary of his second term",
-          "• Trump spoke for 80 minutes before taking a question"
-        ],
-        "hopeful_bullets": [
-          "• President Trump held court with reporters for more than 90 minutes marking the first year anniversary of his second term",
-          "• Trump spoke for 80 minutes before taking a question"
-        ],
-        "stakes_bullets": [
-          "• President Trump held court with reporters for more than 90 minutes marking the first year anniversary of his second term",
-          "• Trump spoke for 80 minutes before taking a question",
-          "• This all occurred just before Trump heads to the World Economic Forum in Davos, Switzerland, where Europeans are trying to head off conflict over Trump's insistence that the U.S"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "792c1bbd5974"
     },
     {
       "id": "7d21998d66fc",
@@ -4840,6 +4639,201 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "b83ddf410dca",
+      "title": "Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-organic-mattress/",
+      "published_at": "Thu, 22 Jan 2026 10:36:00 +0000",
+      "bullets": [
+        "• The Best Organic Mattresses, Fully Vetted and Tested, are easier on the environment and your health",
+        "• Most natural mattresses are made of wool, natural latex, and cotton",
+        "• The construction is similar to conventional mattresses, but without the chemicals "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Organic Mattresses, Fully Vetted and Tested, are easier on the environment and your health",
+          "• Most natural mattresses are made of wool, natural latex, and cotton"
+        ],
+        "hopeful_bullets": [
+          "• The Best Organic Mattresses, Fully Vetted and Tested, are easier on the environment and your health",
+          "• Most natural mattresses are made of wool, natural latex, and cotton"
+        ],
+        "stakes_bullets": [
+          "• The Best Organic Mattresses, Fully Vetted and Tested, are easier on the environment and your health",
+          "• Most natural mattresses are made of wool, natural latex, and cotton",
+          "• The construction is similar to conventional mattresses, but without the chemicals "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "2b81ba03fea5"
+    },
+    {
+      "id": "6609e498efda",
+      "title": "Livestream: Welcome to the Chinese Century",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/livestream-welcome-to-the-chinese-century/",
+      "published_at": "Thu, 22 Jan 2026 10:35:53 +0000",
+      "bullets": [
+        "• China is ahead of the US in a space race called by Trump",
+        "• China is putting up buildings in a day’s time when it comes to solar energy",
+        "• You can sign up for our Made in China newsletter to get a clear-eyed view of the biggest news from China "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China is ahead of the US in a space race called by Trump",
+          "• China is putting up buildings in a day’s time when it comes to solar energy"
+        ],
+        "hopeful_bullets": [
+          "• China is ahead of the US in a space race called by Trump",
+          "• China is putting up buildings in a day’s time when it comes to solar energy"
+        ],
+        "stakes_bullets": [
+          "• China is ahead of the US in a space race called by Trump",
+          "• China is putting up buildings in a day’s time when it comes to solar energy",
+          "• You can sign up for our Made in China newsletter to get a clear-eyed view of the biggest news from China "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d7d243061e6e"
+    },
+    {
+      "id": "0f7a3961ad29",
+      "title": "DHS’s Data Grab Is Getting Citizens Kicked Off Voter Rolls, New Complaint Says",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/dhs-data-grab-getting-citizens-kicked-off-voter-rolls/",
+      "published_at": "Thu, 22 Jan 2026 10:30:00 +0000",
+      "bullets": [
+        "• President Donald Trump ordered states to check their voter rolls against immigration data",
+        "• A new legal complaint alleges that citizens are being kicked off of voting rolls",
+        "• Experts have warned that using disparate sources of data could lead to errors, including identifying US citizens as noncitizens",
+        "• The League of Women Voters and the Electronic Privacy Information Center filed the suit "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump ordered states to check their voter rolls against immigration data",
+          "• A new legal complaint alleges that citizens are being kicked off of voting rolls"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump ordered states to check their voter rolls against immigration data"
+        ],
+        "stakes_bullets": [
+          "• Experts have warned that using disparate sources of data could lead to errors, including identifying US citizens as noncitizens"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d9d0d4daf571"
+    },
+    {
+      "id": "66949bb83264",
+      "title": "Ex-intelligence officer in Austria's biggest spy trial for years",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz0pnjv1zy5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 22 Jan 2026 10:29:49 GMT",
+      "bullets": [
+        "• Ex-intelligence officer Egisto Ott accused of spying for Russia in Austria's biggest spy trial for years",
+        "• He is accused of handing over information to Russian intelligence officers and to Jan Marsalek, the fugitive executive of collapsed German payments firm Wirecard",
+        "• Ott denies the charges "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ex-intelligence officer Egisto Ott accused of spying for Russia in Austria's biggest spy trial for years",
+          "• He is accused of handing over information to Russian intelligence officers and to Jan Marsalek, the fugitive executive of collapsed German payments firm Wirecard"
+        ],
+        "hopeful_bullets": [
+          "• Ex-intelligence officer Egisto Ott accused of spying for Russia in Austria's biggest spy trial for years",
+          "• He is accused of handing over information to Russian intelligence officers and to Jan Marsalek, the fugitive executive of collapsed German payments firm Wirecard"
+        ],
+        "stakes_bullets": [
+          "• He is accused of handing over information to Russian intelligence officers and to Jan Marsalek, the fugitive executive of collapsed German payments firm Wirecard"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7b0aa97540c0"
+    },
+    {
+      "id": "db1196cc9338",
+      "title": "Zelensky and Trump to meet as US envoy says ending war with Russia down to one issue",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 22 Jan 2026 10:11:03 GMT",
+      "bullets": [
+        "• US President Donald Trump to meet Volodymyr Zelensky at Davos on Thursday",
+        "• US envoy Steve Witkoff says ending Ukraine war with Russia down to one issue",
+        "• Trump will travel to Moscow for talks with Russia's Vladimir Putin "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US President Donald Trump to meet Volodymyr Zelensky at Davos on Thursday",
+          "• US envoy Steve Witkoff says ending Ukraine war with Russia down to one issue"
+        ],
+        "hopeful_bullets": [
+          "• US President Donald Trump to meet Volodymyr Zelensky at Davos on Thursday",
+          "• US envoy Steve Witkoff says ending Ukraine war with Russia down to one issue"
+        ],
+        "stakes_bullets": [
+          "• Trump will travel to Moscow for talks with Russia's Vladimir Putin "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0b7c7d6afe40"
+    },
+    {
+      "id": "d96fcdd82da9",
+      "title": "On Michigan Cherry Farms, Small Falcons Are Improving Food Safety",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/22012026/michigan-cherry-farms-american-kestrel-food-safety/",
+      "published_at": "Thu, 22 Jan 2026 09:55:00 +0000",
+      "bullets": [
+        "• Research suggests kestrels help keep harmful pathogens off of fruit headed to consumers",
+        "• Orchards housing the birds in nest boxes saw fewer cherry-eating birds than orchards without birds on site",
+        "• This translated to an 81 percent reduction in crop damage and a 66 percent decrease in bird feces "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Research suggests kestrels help keep harmful pathogens off of fruit headed to consumers",
+          "• Orchards housing the birds in nest boxes saw fewer cherry-eating birds than orchards without birds on site"
+        ],
+        "hopeful_bullets": [
+          "• Research suggests kestrels help keep harmful pathogens off of fruit headed to consumers"
+        ],
+        "stakes_bullets": [
+          "• This translated to an 81 percent reduction in crop damage and a 66 percent decrease in bird feces "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "8d94a632fab7"
+    },
+    {
       "id": "5689846509b2",
       "title": "UK holds off joining Trump's Board of Peace over Putin concerns",
       "outlet": "BBC News",
@@ -4874,71 +4868,38 @@
     },
     {
       "id": "0ca0a7ac5ce7",
-      "title": "Two dead and several missing as New Zealand reels from deadly landslides",
+      "title": "Two dead and several missing in New Zealand landslides",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 22 Jan 2026 09:14:40 GMT",
       "bullets": [
-        "• Two dead and several missing as New Zealand reels from deadly landslides",
-        "• Several feared buried after landslides in popular campground on Mount Maunganui",
-        "• One minister said the east coast resembled \"a war zone\" after heavy rains "
+        "• Two dead and several missing after landslides in New Zealand's North Island",
+        "• Rescue workers still searching through rubble at a different site in a popular campground on Mount Maunganui",
+        "• There are no \"signs of life\" and several people are feared buried",
+        "• The landslides were triggered by heavy rains over the last few days "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• Two dead and several missing as New Zealand reels from deadly landslides",
-          "• Several feared buried after landslides in popular campground on Mount Maunganui"
+          "• Two dead and several missing after landslides in New Zealand's North Island",
+          "• Rescue workers still searching through rubble at a different site in a popular campground on Mount Maunganui"
         ],
         "hopeful_bullets": [
-          "• Two dead and several missing as New Zealand reels from deadly landslides",
-          "• Several feared buried after landslides in popular campground on Mount Maunganui"
+          "• Two dead and several missing after landslides in New Zealand's North Island",
+          "• Rescue workers still searching through rubble at a different site in a popular campground on Mount Maunganui"
         ],
         "stakes_bullets": [
-          "• Two dead and several missing as New Zealand reels from deadly landslides",
-          "• Several feared buried after landslides in popular campground on Mount Maunganui",
-          "• One minister said the east coast resembled \"a war zone\" after heavy rains "
+          "• Two dead and several missing after landslides in New Zealand's North Island",
+          "• Rescue workers still searching through rubble at a different site in a popular campground on Mount Maunganui",
+          "• There are no \"signs of life\" and several people are feared buried"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "10a070096d4d"
-    },
-    {
-      "id": "d2edb7da03ed",
-      "title": "'Abnormal hatred' between Putin and Zelenskyy making it hard to reach peace deal, Trump says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/22/russia-ukraine-peace-deal-threat-risk-moscow-poland.html",
-      "published_at": "Thu, 22 Jan 2026 09:11:03 GMT",
-      "bullets": [
-        "• President Donald Trump to meet Ukrainian President Volodymyr Zelenskyy in Davos on Thursday",
-        "• Special Envoy Steve Witkoff and Trump's son-in-law Jared Kushner set to meet Russian President Vladimir Putin in Moscow later in the day",
-        "• Trump said both sides were \"reasonably close\" to a deal, adding: \"If they don't, they're stupid\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump to meet Ukrainian President Volodymyr Zelenskyy in Davos on Thursday",
-          "• Special Envoy Steve Witkoff and Trump's son-in-law Jared Kushner set to meet Russian President Vladimir Putin in Moscow later in the day"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump to meet Ukrainian President Volodymyr Zelenskyy in Davos on Thursday",
-          "• Special Envoy Steve Witkoff and Trump's son-in-law Jared Kushner set to meet Russian President Vladimir Putin in Moscow later in the day"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump to meet Ukrainian President Volodymyr Zelenskyy in Davos on Thursday",
-          "• Special Envoy Steve Witkoff and Trump's son-in-law Jared Kushner set to meet Russian President Vladimir Putin in Moscow later in the day",
-          "• Trump said both sides were \"reasonably close\" to a deal, adding: \"If they don't, they're stupid\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f62f4118447c"
+      "cluster_id": "11d19ecb6883"
     },
     {
       "id": "3b9eaf1761a8",
@@ -5039,38 +5000,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "63346b346806"
-    },
-    {
-      "id": "a7b7bbe32648",
-      "title": "Top business leaders issue an expletive-laced message on the green backlash",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/22/davos-wef-green-energy-climate-change-trump.html",
-      "published_at": "Thu, 22 Jan 2026 08:48:50 GMT",
-      "bullets": [
-        "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
-        "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
-          "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
-        ],
-        "hopeful_bullets": [
-          "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
-          "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
-        ],
-        "stakes_bullets": [
-          "• Allianz CEO Oliver Bäte says short-term thinking on climate change is \"bulls---\" He said anyone who has children \"will have to worry\" about the planet's future",
-          "• The CEO of the world's biggest insurer said it was integral for business and political leaders to stay the course on energy transition targets "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "722d1e17b82a"
     },
     {
       "id": "f984d8355cc5",
@@ -5538,36 +5467,36 @@
       "cluster_id": "c245e61dc1e6"
     },
     {
-      "id": "b69a3f2e64ad",
-      "title": "HBO Max Promo Code: 50% Off | January",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/max-promo-code/",
-      "published_at": "Thu, 22 Jan 2026 06:10:00 +0000",
+      "id": "0473349e60ac",
+      "title": "Half the world’s 100 largest cities are in high water stress areas, analysis finds",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/half-world-100-largest-cities-in-high-water-stress-areas-analysis-finds",
+      "published_at": "Thu, 22 Jan 2026 06:00:03 GMT",
       "bullets": [
-        "• HBO Max is offering a Student Discount, where you can save and get 50% off subscriptions with a promo code",
-        "• This means the price is only $5 a month",
-        "• This discounted plan is eligible for The HBO Max Basic With Ads monthly plan, so you’ll get unlimited access to HBO, movies, news, sports, and more on up to two devices at once "
+        "• 39 of the world’s 100 largest cities are experiencing high levels of water stress",
+        "• Beijing, New York, Los Angeles, Rio de Janeiro and Delhi are among those facing extreme stress",
+        "• London, Bangkok and Jakarta are classed as being highly stressed "
       ],
-      "category": "Technology",
+      "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.951
       },
       "moods": {
         "brief_bullets": [
-          "• HBO Max is offering a Student Discount, where you can save and get 50% off subscriptions with a promo code",
-          "• This means the price is only $5 a month"
+          "• 39 of the world’s 100 largest cities are experiencing high levels of water stress",
+          "• Beijing, New York, Los Angeles, Rio de Janeiro and Delhi are among those facing extreme stress"
         ],
         "hopeful_bullets": [
-          "• HBO Max is offering a Student Discount, where you can save and get 50% off subscriptions with a promo code",
-          "• This means the price is only $5 a month"
+          "• 39 of the world’s 100 largest cities are experiencing high levels of water stress",
+          "• Beijing, New York, Los Angeles, Rio de Janeiro and Delhi are among those facing extreme stress"
         ],
         "stakes_bullets": [
-          "• This discounted plan is eligible for The HBO Max Basic With Ads monthly plan, so you’ll get unlimited access to HBO, movies, news, sports, and more on up to two devices at once "
+          "• London, Bangkok and Jakarta are classed as being highly stressed "
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "c667965f0512"
+      "cluster_id": "e69114b10151"
     },
     {
       "id": "3bc0156189b6",
@@ -5605,105 +5534,6 @@
       "cluster_id": "c7f82dc4997c"
     },
     {
-      "id": "0473349e60ac",
-      "title": "Half the world’s 100 largest cities are in high water stress areas, analysis finds",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jan/22/half-world-100-largest-cities-in-high-water-stress-areas-analysis-finds",
-      "published_at": "Thu, 22 Jan 2026 06:00:03 GMT",
-      "bullets": [
-        "• 39 of the world’s 100 largest cities are experiencing high levels of water stress",
-        "• Beijing, New York, Los Angeles, Rio de Janeiro and Delhi are among those facing extreme stress",
-        "• London, Bangkok and Jakarta are classed as being highly stressed "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 39 of the world’s 100 largest cities are experiencing high levels of water stress",
-          "• Beijing, New York, Los Angeles, Rio de Janeiro and Delhi are among those facing extreme stress"
-        ],
-        "hopeful_bullets": [
-          "• 39 of the world’s 100 largest cities are experiencing high levels of water stress",
-          "• Beijing, New York, Los Angeles, Rio de Janeiro and Delhi are among those facing extreme stress"
-        ],
-        "stakes_bullets": [
-          "• London, Bangkok and Jakarta are classed as being highly stressed "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e69114b10151"
-    },
-    {
-      "id": "c161cabf163e",
-      "title": "Govee Discount Codes and Deals: 30% Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/govee-discount-code/",
-      "published_at": "Thu, 22 Jan 2026 06:00:00 +0000",
-      "bullets": [
-        "• Smart lighting may be the quickest and easiest way to transform a space",
-        "• Govee has quickly become one of our favorite brands for smart lighting",
-        "• We feel as though there’s a smart light product for pretty much every need, room, or vibe",
-        "• When you register your email, you’ll get a $5 coupon on your first order "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.606
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Smart lighting may be the quickest and easiest way to transform a space",
-          "• Govee has quickly become one of our favorite brands for smart lighting"
-        ],
-        "hopeful_bullets": [
-          "• Smart lighting may be the quickest and easiest way to transform a space",
-          "• Govee has quickly become one of our favorite brands for smart lighting"
-        ],
-        "stakes_bullets": [
-          "• Smart lighting may be the quickest and easiest way to transform a space",
-          "• Govee has quickly become one of our favorite brands for smart lighting",
-          "• We feel as though there’s a smart light product for pretty much every need, room, or vibe"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "300def5b4272"
-    },
-    {
-      "id": "1605aaf7bfe1",
-      "title": "KitchenAid Promo Code: $200 Off This Month",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "published_at": "Thu, 22 Jan 2026 06:00:00 +0000",
-      "bullets": [
-        "• KitchenAid’s heralded and beloved kitchen appliances run regular sales so that you can get these great, but pricey, essentials for less",
-        "• The KitchenAid Artisan 7-Quart Lift Stand Mixer is an “everlasting” kitchen must-have "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• KitchenAid’s heralded and beloved kitchen appliances run regular sales so that you can get these great, but pricey, essentials for less",
-          "• The KitchenAid Artisan 7-Quart Lift Stand Mixer is an “everlasting” kitchen must-have "
-        ],
-        "hopeful_bullets": [
-          "• KitchenAid’s heralded and beloved kitchen appliances run regular sales so that you can get these great, but pricey, essentials for less",
-          "• The KitchenAid Artisan 7-Quart Lift Stand Mixer is an “everlasting” kitchen must-have "
-        ],
-        "stakes_bullets": [
-          "• KitchenAid’s heralded and beloved kitchen appliances run regular sales so that you can get these great, but pricey, essentials for less",
-          "• The KitchenAid Artisan 7-Quart Lift Stand Mixer is an “everlasting” kitchen must-have "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e02723579b8d"
-    },
-    {
       "id": "2efec487c102",
       "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
       "outlet": "World news | The Guardian",
@@ -5736,6 +5566,145 @@
       },
       "read_minutes": 3,
       "cluster_id": "91ed1fde89b6"
+    },
+    {
+      "id": "37bad71c8667",
+      "title": "Some voters who backed Trump say ICE is going 'too far'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/22/nx-s1-5683936/trump-ice-greenland-focus-group",
+      "published_at": "Thu, 22 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Some swing voters who supported President Trump say ICE is going \"too far\" in carrying out deportation orders",
+        "• NPR observed online focus groups with 14 voters from Pennsylvania who supported Joe Biden in 2020 and then swung to Trump in 2024",
+        "• The focus groups were part of the Swing Voter Project, conducted by the companies Engagious and Sago "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some swing voters who supported President Trump say ICE is going \"too far\" in carrying out deportation orders",
+          "• NPR observed online focus groups with 14 voters from Pennsylvania who supported Joe Biden in 2020 and then swung to Trump in 2024"
+        ],
+        "hopeful_bullets": [
+          "• Some swing voters who supported President Trump say ICE is going \"too far\" in carrying out deportation orders",
+          "• The focus groups were part of the Swing Voter Project, conducted by the companies Engagious and Sago "
+        ],
+        "stakes_bullets": [
+          "• Some swing voters who supported President Trump say ICE is going \"too far\" in carrying out deportation orders",
+          "• NPR observed online focus groups with 14 voters from Pennsylvania who supported Joe Biden in 2020 and then swung to Trump in 2024",
+          "• The focus groups were part of the Swing Voter Project, conducted by the companies Engagious and Sago "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4fd5c19a2b8b"
+    },
+    {
+      "id": "7b8b04fb6e3d",
+      "title": "Trump vs. U.S. allies: How will this end?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/22/g-s1-106678/trump-allies-nato",
+      "published_at": "Thu, 22 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• President Trump has backed off his threat to take Greenland by force",
+        "• The president made clear he still wants to take the territory",
+        "• Trump's demands have created an increasingly hostile relationship with U.S",
+        "• allies",
+        "• Canadian Prime Minister Mark Carney said the global order is now tumbling down "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump has backed off his threat to take Greenland by force",
+          "• The president made clear he still wants to take the territory"
+        ],
+        "hopeful_bullets": [
+          "• President Trump has backed off his threat to take Greenland by force",
+          "• The president made clear he still wants to take the territory"
+        ],
+        "stakes_bullets": [
+          "• President Trump has backed off his threat to take Greenland by force",
+          "• The president made clear he still wants to take the territory",
+          "• Trump's demands have created an increasingly hostile relationship with U.S"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "027b42aa0109"
+    },
+    {
+      "id": "4bc1953e1825",
+      "title": "Jack Smith to defend Trump investigations to House Republicans",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/22/nx-s1-5683973/jack-smith-house-trump-investigations",
+      "published_at": "Thu, 22 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• The president of the U.S",
+        "• should be held accountable for his actions",
+        "• He is accused of being the most corrupt politician in the world",
+        "• The White House says it is investigating the president's actions in the wake of his election victory",
+        "• The president has been accused of lying to the public about his election win "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The president of the U.S",
+          "• should be held accountable for his actions"
+        ],
+        "hopeful_bullets": [
+          "• The president has been accused of lying to the public about his election win "
+        ],
+        "stakes_bullets": [
+          "• The president of the U.S",
+          "• should be held accountable for his actions",
+          "• He is accused of being the most corrupt politician in the world"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "77428f8b0e35"
+    },
+    {
+      "id": "c563485b51cc",
+      "title": "Rahm Emanuel steers a course between 'monopolists' and 'Marxists'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/22/nx-s1-5675190/rahm-emanuel-midterms-democrats-trump",
+      "published_at": "Thu, 22 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Rahm Emanuel has been a member of Congress, President Obama's chief of staff, mayor of Chicago and ambassador to Japan",
+        "• Emanuel is exploring a campaign for the presidency, an effort that seems designed to challenge some orthodoxies of that same party",
+        "• Emanuel has argued that Democrats have the wrong focus on social issues, education and the economy "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.95
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rahm Emanuel has been a member of Congress, President Obama's chief of staff, mayor of Chicago and ambassador to Japan",
+          "• Emanuel is exploring a campaign for the presidency, an effort that seems designed to challenge some orthodoxies of that same party"
+        ],
+        "hopeful_bullets": [
+          "• Rahm Emanuel has been a member of Congress, President Obama's chief of staff, mayor of Chicago and ambassador to Japan",
+          "• Emanuel is exploring a campaign for the presidency, an effort that seems designed to challenge some orthodoxies of that same party"
+        ],
+        "stakes_bullets": [
+          "• Rahm Emanuel has been a member of Congress, President Obama's chief of staff, mayor of Chicago and ambassador to Japan",
+          "• Emanuel is exploring a campaign for the presidency, an effort that seems designed to challenge some orthodoxies of that same party",
+          "• Emanuel has argued that Democrats have the wrong focus on social issues, education and the economy "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9d82f706baf8"
     },
     {
       "id": "85339a3d4995",
@@ -6013,26 +5982,23 @@
       "published_at": "Thu, 22 Jan 2026 04:01:00 -0500",
       "bullets": [
         "• The ICE surge is fueling fear and anxiety among Twin Cities children",
-        "• The surge in federal immigration enforcement continues in Minnesota",
         "• The same day an ICE officer shot and killed Renee Macklin Good, immigration officers used chemical irritants on a crowd that included students during dismissal time at a Minneapolis high school "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.792
+        "score": 0.922
       },
       "moods": {
         "brief_bullets": [
           "• The ICE surge is fueling fear and anxiety among Twin Cities children",
-          "• The surge in federal immigration enforcement continues in Minnesota"
+          "• The same day an ICE officer shot and killed Renee Macklin Good, immigration officers used chemical irritants on a crowd that included students during dismissal time at a Minneapolis high school "
         ],
         "hopeful_bullets": [
-          "• The ICE surge is fueling fear and anxiety among Twin Cities children",
-          "• The surge in federal immigration enforcement continues in Minnesota"
+          "• The ICE surge is fueling fear and anxiety among Twin Cities children"
         ],
         "stakes_bullets": [
           "• The ICE surge is fueling fear and anxiety among Twin Cities children",
-          "• The surge in federal immigration enforcement continues in Minnesota",
           "• The same day an ICE officer shot and killed Renee Macklin Good, immigration officers used chemical irritants on a crowd that included students during dismissal time at a Minneapolis high school "
         ]
       },
@@ -6543,38 +6509,6 @@
       "cluster_id": "eb48a396ab21"
     },
     {
-      "id": "66949bb83264",
-      "title": "Ex-intelligence officer in Austria's biggest spy trial for years",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz0pnjv1zy5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 22 Jan 2026 01:00:06 GMT",
-      "bullets": [
-        "• Ex-intelligence officer in Austria's biggest spy trial for years accused of spying for Russia",
-        "• Egisto Ott, 63, accused of handing over information to Russian intelligence officers and to Jan Marsalek, who is wanted by German police for alleged fraud "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ex-intelligence officer in Austria's biggest spy trial for years accused of spying for Russia",
-          "• Egisto Ott, 63, accused of handing over information to Russian intelligence officers and to Jan Marsalek, who is wanted by German police for alleged fraud "
-        ],
-        "hopeful_bullets": [
-          "• Ex-intelligence officer in Austria's biggest spy trial for years accused of spying for Russia",
-          "• Egisto Ott, 63, accused of handing over information to Russian intelligence officers and to Jan Marsalek, who is wanted by German police for alleged fraud "
-        ],
-        "stakes_bullets": [
-          "• Ex-intelligence officer in Austria's biggest spy trial for years accused of spying for Russia",
-          "• Egisto Ott, 63, accused of handing over information to Russian intelligence officers and to Jan Marsalek, who is wanted by German police for alleged fraud "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7b0aa97540c0"
-    },
-    {
       "id": "ec5609504f9e",
       "title": "New York must redraw congressional map before midterms, judge rules",
       "outlet": "US news | The Guardian",
@@ -6607,6 +6541,42 @@
       },
       "read_minutes": 3,
       "cluster_id": "044380300efa"
+    },
+    {
+      "id": "759e78035c2f",
+      "title": "Jim Cramer says Trump-fueled market volatility once again proves to be a buying opportunity",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/21/jim-cramer-trump-fueled-market-volatility-proves-to-be-a-buying-opportunity.html",
+      "published_at": "Thu, 22 Jan 2026 00:19:37 GMT",
+      "bullets": [
+        "• President Donald Trump's tariff threats once again rattled the stock market this week",
+        "• CNBC's Jim Cramer said that may be exactly when investors should strike",
+        "• All three major U.S",
+        "• indexes popped more than 1% on Wednesday",
+        "• Cramer: \"You should get plenty of good buying opportunities over the next three years\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.889
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump's tariff threats once again rattled the stock market this week",
+          "• CNBC's Jim Cramer said that may be exactly when investors should strike"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump's tariff threats once again rattled the stock market this week",
+          "• CNBC's Jim Cramer said that may be exactly when investors should strike"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump's tariff threats once again rattled the stock market this week",
+          "• CNBC's Jim Cramer said that may be exactly when investors should strike",
+          "• All three major U.S"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6d2e86a6ff98"
     },
     {
       "id": "b86f5f97fe6a",
@@ -7233,38 +7203,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "53b2eecd9bd4"
-    },
-    {
-      "id": "6e859b8a87a8",
-      "title": "A Small Oil Company Polluted Midland’s Water Reserve. The Cleanup Has Dragged on for Years.",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/18012026/west-texas-oil-cleanup-drags-on/",
-      "published_at": "Sun, 18 Jan 2026 10:00:00 +0000",
-      "bullets": [
-        "• City of Midland, Texas, purchased 20,000 acres spanning Winkler and Loving Counties in 1965",
-        "• The city purchased the property in anticipation of needing to pump water from the property",
-        "• Extra salts in the aquifer was not part of the plan",
-        "• Heritage Standard Corporation operated wells and a disposal well near Midland’s water source "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• City of Midland, Texas, purchased 20,000 acres spanning Winkler and Loving Counties in 1965",
-          "• The city purchased the property in anticipation of needing to pump water from the property"
-        ],
-        "hopeful_bullets": [
-          "• City of Midland, Texas, purchased 20,000 acres spanning Winkler and Loving Counties in 1965"
-        ],
-        "stakes_bullets": [
-          "• Extra salts in the aquifer was not part of the plan"
-        ]
-      },
-      "read_minutes": 17,
-      "cluster_id": "eeab3ed1eff0"
     },
     {
       "id": "eb57e9ca09a9",
@@ -8435,24 +8373,24 @@
       "published_at": "2026-01-22T00:01:00-05:00",
       "bullets": [
         "• Around 800 artists, writers, actors, and musicians signed on to a new campaign against what they call “theft at a grand scale” by AI companies",
-        "• The signatories of the campaign — called “Stealing Isn’t Innovation” — include authors George Saunders and Jodi Picoult "
+        "• The signatories of the campaign — called “Stealing Isn’t Innovation’ — include authors George Saunders and Jodi Picoult, actors Cate Blanchett and Scarlett Johansson "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
           "• Around 800 artists, writers, actors, and musicians signed on to a new campaign against what they call “theft at a grand scale” by AI companies",
-          "• The signatories of the campaign — called “Stealing Isn’t Innovation” — include authors George Saunders and Jodi Picoult "
+          "• The signatories of the campaign — called “Stealing Isn’t Innovation’ — include authors George Saunders and Jodi Picoult, actors Cate Blanchett and Scarlett Johansson "
         ],
         "hopeful_bullets": [
           "• Around 800 artists, writers, actors, and musicians signed on to a new campaign against what they call “theft at a grand scale” by AI companies"
         ],
         "stakes_bullets": [
           "• Around 800 artists, writers, actors, and musicians signed on to a new campaign against what they call “theft at a grand scale” by AI companies",
-          "• The signatories of the campaign — called “Stealing Isn’t Innovation” — include authors George Saunders and Jodi Picoult "
+          "• The signatories of the campaign — called “Stealing Isn’t Innovation’ — include authors George Saunders and Jodi Picoult, actors Cate Blanchett and Scarlett Johansson "
         ]
       },
       "read_minutes": 2,
@@ -9118,13 +9056,12 @@
   ],
   "clusters": [
     {
-      "id": "10a070096d4d",
-      "topic": "dead deadly missing reel",
+      "id": "11d19ecb6883",
+      "topic": "dead landslide missing several",
       "keywords": [
         "dead",
-        "deadly",
+        "landslide",
         "missing",
-        "reel",
         "several",
         "zealand"
       ],
@@ -9166,6 +9103,24 @@
       ],
       "item_ids": [
         "5689846509b2"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "0b7c7d6afe40",
+      "topic": "ending envoy meet trump",
+      "keywords": [
+        "ending",
+        "envoy",
+        "meet",
+        "trump",
+        "war",
+        "zelensky"
+      ],
+      "item_ids": [
+        "db1196cc9338"
       ],
       "outlets": [
         "BBC News"
@@ -9241,24 +9196,6 @@
       ]
     },
     {
-      "id": "fb3386ab5d33",
-      "topic": "cold fallout gamer income",
-      "keywords": [
-        "cold",
-        "fallout",
-        "gamer",
-        "income",
-        "slashed",
-        "turkey"
-      ],
-      "item_ids": [
-        "e227c1abe3d9"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "7b0aa97540c0",
       "topic": "austria biggest intelligence officer",
       "keywords": [
@@ -9277,18 +9214,18 @@
       ]
     },
     {
-      "id": "76ad415ea7bc",
-      "topic": "first gaza israeli journalist",
+      "id": "fb3386ab5d33",
+      "topic": "cold fallout gamer income",
       "keywords": [
-        "first",
-        "gaza",
-        "israeli",
-        "journalist",
-        "kill",
-        "strike"
+        "cold",
+        "fallout",
+        "gamer",
+        "income",
+        "slashed",
+        "turkey"
       ],
       "item_ids": [
-        "29f1248eccca"
+        "e227c1abe3d9"
       ],
       "outlets": [
         "BBC News"
@@ -9654,6 +9591,75 @@
       ]
     },
     {
+      "id": "4fd5c19a2b8b",
+      "topic": "backed ice say some",
+      "keywords": [
+        "backed",
+        "ice",
+        "say",
+        "some",
+        "trump",
+        "voter"
+      ],
+      "item_ids": [
+        "37bad71c8667"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "027b42aa0109",
+      "topic": "allie end trump",
+      "keywords": [
+        "allie",
+        "end",
+        "trump"
+      ],
+      "item_ids": [
+        "7b8b04fb6e3d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "77428f8b0e35",
+      "topic": "defend house investigation jack",
+      "keywords": [
+        "defend",
+        "house",
+        "investigation",
+        "jack",
+        "smith",
+        "trump"
+      ],
+      "item_ids": [
+        "4bc1953e1825"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "9d82f706baf8",
+      "topic": "between course emanuel monopolist",
+      "keywords": [
+        "between",
+        "course",
+        "emanuel",
+        "monopolist",
+        "rahm",
+        "steer"
+      ],
+      "item_ids": [
+        "c563485b51cc"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "d5d71a6c83d7",
       "topic": "among anxiety fear fueling",
       "keywords": [
@@ -9744,90 +9750,21 @@
       ]
     },
     {
-      "id": "b42e4af010d5",
-      "topic": "davo out ruled speech",
+      "id": "a2e62c202b1d",
+      "topic": "busines cool leader tariff",
       "keywords": [
-        "davo",
-        "out",
-        "ruled",
-        "speech",
-        "trump",
-        "using"
+        "busines",
+        "cool",
+        "leader",
+        "tariff",
+        "tell",
+        "tension"
       ],
       "item_ids": [
-        "89ff54a1463e"
+        "a51a36ed5ac8"
       ],
       "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "8252f92ec208",
-      "topic": "bill hold house oversight",
-      "keywords": [
-        "bill",
-        "hold",
-        "house",
-        "oversight",
-        "panel",
-        "vote"
-      ],
-      "item_ids": [
-        "5ef9ca712efe"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "4b7a47306b40",
-      "topic": "attorney former halligan lindsey",
-      "keywords": [
-        "attorney",
-        "former",
-        "halligan",
-        "lindsey",
-        "personal",
-        "trump"
-      ],
-      "item_ids": [
-        "42dc483d4d79"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "56ad74771659",
-      "topic": "2026 buzzing buzzword ear",
-      "keywords": [
-        "2026",
-        "buzzing",
-        "buzzword",
-        "ear",
-        "global"
-      ],
-      "item_ids": [
-        "5490f7d21fc5"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "cf38daf1ff2f",
-      "topic": "agent ice law minneapoli",
-      "keywords": [
-        "agent",
-        "ice",
-        "law",
-        "minneapoli"
-      ],
-      "item_ids": [
-        "b905cee3b79a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
+        "US Top News and Analysis"
       ]
     },
     {
@@ -9843,42 +9780,6 @@
       ],
       "item_ids": [
         "76c300ed5b4e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "f62f4118447c",
-      "topic": "abnormal between hatred making",
-      "keywords": [
-        "abnormal",
-        "between",
-        "hatred",
-        "making",
-        "putin",
-        "zelenskyy"
-      ],
-      "item_ids": [
-        "d2edb7da03ed"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "94fb70243762",
-      "topic": "chip nvidia powerful sell",
-      "keywords": [
-        "chip",
-        "nvidia",
-        "powerful",
-        "sell",
-        "trump",
-        "want"
-      ],
-      "item_ids": [
-        "acee133d59de"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9903,54 +9804,90 @@
       ]
     },
     {
-      "id": "722d1e17b82a",
-      "topic": "busines expletive issue laced",
+      "id": "e2800b6a9e3e",
+      "topic": "chair down favorite fed",
       "keywords": [
-        "busines",
-        "expletive",
-        "issue",
-        "laced",
-        "leader",
-        "top"
-      ],
-      "item_ids": [
-        "a7b7bbe32648"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a2e62c202b1d",
-      "topic": "busines cool leader tariff",
-      "keywords": [
-        "busines",
-        "cool",
-        "leader",
-        "tariff",
-        "tell",
-        "tension"
-      ],
-      "item_ids": [
-        "a51a36ed5ac8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "aba314e1d7f4",
-      "topic": "deal framework greenland nato",
-      "keywords": [
-        "deal",
-        "framework",
-        "greenland",
-        "nato",
-        "reached",
+        "chair",
+        "down",
+        "favorite",
+        "fed",
+        "signal",
         "trump"
       ],
       "item_ids": [
-        "fe2724292dd5"
+        "c1f35b81145a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "6d2e86a6ff98",
+      "topic": "cramer fueled jim market",
+      "keywords": [
+        "cramer",
+        "fueled",
+        "jim",
+        "market",
+        "trump",
+        "volatility"
+      ],
+      "item_ids": [
+        "759e78035c2f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "94fb70243762",
+      "topic": "chip nvidia powerful sell",
+      "keywords": [
+        "chip",
+        "nvidia",
+        "powerful",
+        "sell",
+        "trump",
+        "want"
+      ],
+      "item_ids": [
+        "acee133d59de"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8f6f4d0299d1",
+      "topic": "cnbc five interview takeaway",
+      "keywords": [
+        "cnbc",
+        "five",
+        "interview",
+        "takeaway",
+        "top",
+        "trump"
+      ],
+      "item_ids": [
+        "a2ee109299a9"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "0825232b602c",
+      "topic": "framework greenland involve mineral",
+      "keywords": [
+        "framework",
+        "greenland",
+        "involve",
+        "mineral",
+        "nato",
+        "trump"
+      ],
+      "item_ids": [
+        "733f420bbef8"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9993,21 +9930,55 @@
       ]
     },
     {
-      "id": "e2800b6a9e3e",
-      "topic": "chair down favorite fed",
+      "id": "2b81ba03fea5",
+      "topic": "2026 avocado best birch",
       "keywords": [
-        "chair",
-        "down",
-        "favorite",
-        "fed",
-        "signal",
-        "trump"
+        "2026",
+        "avocado",
+        "best",
+        "birch",
+        "mattresse",
+        "organic"
       ],
       "item_ids": [
-        "c1f35b81145a"
+        "b83ddf410dca"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
+      ]
+    },
+    {
+      "id": "d7d243061e6e",
+      "topic": "century chinese livestream welcome",
+      "keywords": [
+        "century",
+        "chinese",
+        "livestream",
+        "welcome"
+      ],
+      "item_ids": [
+        "6609e498efda"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "d9d0d4daf571",
+      "topic": "citizen data dhs getting",
+      "keywords": [
+        "citizen",
+        "data",
+        "dhs",
+        "getting",
+        "grab",
+        "kicked"
+      ],
+      "item_ids": [
+        "0f7a3961ad29"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10113,59 +10084,6 @@
       ],
       "item_ids": [
         "936dfefe6c73"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "c667965f0512",
-      "topic": "code hbo january max",
-      "keywords": [
-        "code",
-        "hbo",
-        "january",
-        "max",
-        "off",
-        "promo"
-      ],
-      "item_ids": [
-        "b69a3f2e64ad"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "300def5b4272",
-      "topic": "code deal discount govee",
-      "keywords": [
-        "code",
-        "deal",
-        "discount",
-        "govee",
-        "off"
-      ],
-      "item_ids": [
-        "c161cabf163e"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "e02723579b8d",
-      "topic": "200 code kitchenaid month",
-      "keywords": [
-        "200",
-        "code",
-        "kitchenaid",
-        "month",
-        "off",
-        "promo"
-      ],
-      "item_ids": [
-        "1605aaf7bfe1"
       ],
       "outlets": [
         "WIRED"
@@ -10922,6 +10840,42 @@
       ]
     },
     {
+      "id": "8252f92ec208",
+      "topic": "bill hold house oversight",
+      "keywords": [
+        "bill",
+        "hold",
+        "house",
+        "oversight",
+        "panel",
+        "vote"
+      ],
+      "item_ids": [
+        "5ef9ca712efe"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "4b7a47306b40",
+      "topic": "attorney former halligan lindsey",
+      "keywords": [
+        "attorney",
+        "former",
+        "halligan",
+        "lindsey",
+        "personal",
+        "trump"
+      ],
+      "item_ids": [
+        "42dc483d4d79"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "4e0683b8adb9",
       "topic": "davo doj expect speech",
       "keywords": [
@@ -10940,24 +10894,6 @@
       ]
     },
     {
-      "id": "6d39ae6fc076",
-      "topic": "enforcement funded grew highest",
-      "keywords": [
-        "enforcement",
-        "funded",
-        "grew",
-        "highest",
-        "ice",
-        "law"
-      ],
-      "item_ids": [
-        "f33525841c87"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "6404036db3a8",
       "topic": "back hail off tariff",
       "keywords": [
@@ -10970,42 +10906,6 @@
       ],
       "item_ids": [
         "e928fb6c1498"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "ff88941c36ef",
-      "topic": "gov mayor minneapoli minnesota",
-      "keywords": [
-        "gov",
-        "mayor",
-        "minneapoli",
-        "minnesota",
-        "tim",
-        "walz"
-      ],
-      "item_ids": [
-        "755ce7ead8a0"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "792c1bbd5974",
-      "topic": "before heading length reporter",
-      "keywords": [
-        "before",
-        "heading",
-        "length",
-        "reporter",
-        "speak",
-        "trump"
-      ],
-      "item_ids": [
-        "0f06728210e4"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11290,24 +11190,6 @@
       ]
     },
     {
-      "id": "c7f82dc4997c",
-      "topic": "airport architect high rise",
-      "keywords": [
-        "airport",
-        "architect",
-        "high",
-        "rise",
-        "school",
-        "tower"
-      ],
-      "item_ids": [
-        "3bc0156189b6"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "e69114b10151",
       "topic": "100 citie half high",
       "keywords": [
@@ -11320,6 +11202,24 @@
       ],
       "item_ids": [
         "0473349e60ac"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "c7f82dc4997c",
+      "topic": "airport architect high rise",
+      "keywords": [
+        "airport",
+        "architect",
+        "high",
+        "rise",
+        "school",
+        "tower"
+      ],
+      "item_ids": [
+        "3bc0156189b6"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11341,6 +11241,24 @@
       ],
       "outlets": [
         "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "8d94a632fab7",
+      "topic": "cherry falcon farm improving",
+      "keywords": [
+        "cherry",
+        "falcon",
+        "farm",
+        "improving",
+        "michigan",
+        "small"
+      ],
+      "item_ids": [
+        "d96fcdd82da9"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11496,24 +11414,6 @@
       ],
       "item_ids": [
         "5522d6770591"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "eeab3ed1eff0",
-      "topic": "company midland oil polluted",
-      "keywords": [
-        "company",
-        "midland",
-        "oil",
-        "polluted",
-        "small",
-        "water"
-      ],
-      "item_ids": [
-        "6e859b8a87a8"
       ],
       "outlets": [
         "Inside Climate News"
