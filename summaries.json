@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T17:04:50Z",
+  "generated_at": "2026-01-23T18:04:04Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -868,37 +868,6 @@
       "cluster_id": "4f261b904813"
     },
     {
-      "id": "a5a643e0a42c",
-      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
-      "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-        "• This is the first medical evacuation of the International Space Station in its 25-year history "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
-        ],
-        "hopeful_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
-        ],
-        "stakes_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2269beb3081d"
-    },
-    {
       "id": "ea2446435dc9",
       "title": "The long-term health impacts from the LA wildfires are just becoming clear",
       "outlet": "NPR Topics: Science",
@@ -929,6 +898,37 @@
       },
       "read_minutes": 9,
       "cluster_id": "5cfc907df0f9"
+    },
+    {
+      "id": "a5a643e0a42c",
+      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
+      "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+        "• This is the first medical evacuation of the International Space Station in its 25-year history "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        ],
+        "hopeful_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
+          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        ],
+        "stakes_bullets": [
+          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2269beb3081d"
     },
     {
       "id": "2c79ee8b7a0d",
@@ -1386,38 +1386,6 @@
       "cluster_id": "cfbb41388719"
     },
     {
-      "id": "c5a768d1e892",
-      "title": "US carbon pollution rose in 2025 in reversal of previous years’ reductions",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/13/us-carbon-emissions-increase-2025",
-      "published_at": "Tue, 13 Jan 2026 21:09:20 GMT",
-      "bullets": [
-        "• The US spewed 2.4% more heat-trapping gases from fossil fuels in 2025 than in the year before",
-        "• The increase in greenhouse gas emissions is attributable to a cool winter, the explosive growth of datacenters and cryptocurrency mining",
-        "• Environmental policy rollbacks by Donald Trump’s administration were not significant factors in the increase "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The US spewed 2.4% more heat-trapping gases from fossil fuels in 2025 than in the year before",
-          "• The increase in greenhouse gas emissions is attributable to a cool winter, the explosive growth of datacenters and cryptocurrency mining"
-        ],
-        "hopeful_bullets": [
-          "• The increase in greenhouse gas emissions is attributable to a cool winter, the explosive growth of datacenters and cryptocurrency mining"
-        ],
-        "stakes_bullets": [
-          "• The increase in greenhouse gas emissions is attributable to a cool winter, the explosive growth of datacenters and cryptocurrency mining",
-          "• Environmental policy rollbacks by Donald Trump’s administration were not significant factors in the increase "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "20b831fb411f"
-    },
-    {
       "id": "8953ea815541",
       "title": "With the lightest touch, scientists search da Vinci's art for DNA",
       "outlet": "NPR Topics: Science",
@@ -1848,39 +1816,6 @@
       "cluster_id": "277c06cbb18a"
     },
     {
-      "id": "7194d370c321",
-      "title": "‘undertone’ Director Looked to ‘The Exorcist’ to Traumatize Viewers [Sundance]",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/555109/undertone-director-looked-to-the-exorcist-to-traumatize-viewers-sundance/",
-      "published_at": "Thu, 22 Jan 2026 21:16:14 +0000",
-      "bullets": [
-        "• The film follows a podcast host caring for her dying mother",
-        "• Writer/director Ian Tuason says he looked to The Exorcist in order to learn how to weaponize the movie against the viewer",
-        "• The chilling horror film is heading to Sundance this weekend "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.946
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The film follows a podcast host caring for her dying mother",
-          "• Writer/director Ian Tuason says he looked to The Exorcist in order to learn how to weaponize the movie against the viewer"
-        ],
-        "hopeful_bullets": [
-          "• Writer/director Ian Tuason says he looked to The Exorcist in order to learn how to weaponize the movie against the viewer"
-        ],
-        "stakes_bullets": [
-          "• The film follows a podcast host caring for her dying mother",
-          "• Writer/director Ian Tuason says he looked to The Exorcist in order to learn how to weaponize the movie against the viewer",
-          "• The chilling horror film is heading to Sundance this weekend "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3ebabf760b28"
-    },
-    {
       "id": "bb214a2b4b1f",
       "title": "Clipse, Pharrell Williams to Perform at 2026 Grammy Awards",
       "outlet": "Music News",
@@ -2115,38 +2050,6 @@
       "cluster_id": "fc778395b4b2"
     },
     {
-      "id": "ada77cabf328",
-      "title": "Eli Roth Teases Nasty ‘Ice Cream Man’ Scene [Exclusive]",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/555093/eli-roth-teases-nasty-ice-cream-man-scene-exclusive/",
-      "published_at": "Thu, 22 Jan 2026 19:22:30 +0000",
-      "bullets": [
-        "• Eli Roth's next film, Ice Cream Man, is the most extreme project of his career",
-        "• The film follows an idyllic summer town descending into madness when an ice cream man serves kids sweet delights with horrifying results",
-        "• The production involved 100 children covered in blood and wielding prop weapons "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Eli Roth's next film, Ice Cream Man, is the most extreme project of his career",
-          "• The film follows an idyllic summer town descending into madness when an ice cream man serves kids sweet delights with horrifying results"
-        ],
-        "hopeful_bullets": [
-          "• Eli Roth's next film, Ice Cream Man, is the most extreme project of his career",
-          "• The film follows an idyllic summer town descending into madness when an ice cream man serves kids sweet delights with horrifying results"
-        ],
-        "stakes_bullets": [
-          "• The film follows an idyllic summer town descending into madness when an ice cream man serves kids sweet delights with horrifying results"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b20261084982"
-    },
-    {
       "id": "e6e7d8e76f86",
       "title": "Republican-led House blocks effort to limit President Trump's war powers in Venezuela",
       "outlet": "NPR Topics: Politics",
@@ -2213,38 +2116,6 @@
       "cluster_id": "6504b4ebb3a5"
     },
     {
-      "id": "7e1789df17db",
-      "title": "Because of Aunt Gladys: Why Amy Madigan’s ‘Weapons’ Performance Changes Everything",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/editorials/555056/because-of-aunt-gladys-why-amy-madigans-weapons-performance-changes-everything/",
-      "published_at": "Thu, 22 Jan 2026 18:53:52 +0000",
-      "bullets": [
-        "• Amy Madigan is nominated for Best Supporting Actress for her performance in the horror horror film Weapons",
-        "• Director Zach Cregger has confirmed that a prequel centered on Aunt Gladys is officially in the works, signaling just how deeply the character resonated with fans "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amy Madigan is nominated for Best Supporting Actress for her performance in the horror horror film Weapons",
-          "• Director Zach Cregger has confirmed that a prequel centered on Aunt Gladys is officially in the works, signaling just how deeply the character resonated with fans "
-        ],
-        "hopeful_bullets": [
-          "• Amy Madigan is nominated for Best Supporting Actress for her performance in the horror horror film Weapons",
-          "• Director Zach Cregger has confirmed that a prequel centered on Aunt Gladys is officially in the works, signaling just how deeply the character resonated with fans "
-        ],
-        "stakes_bullets": [
-          "• Amy Madigan is nominated for Best Supporting Actress for her performance in the horror horror film Weapons",
-          "• Director Zach Cregger has confirmed that a prequel centered on Aunt Gladys is officially in the works, signaling just how deeply the character resonated with fans "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "bc8a0bbc4b6a"
-    },
-    {
       "id": "8acb9a32de8c",
       "title": "Canada’s Mining Firms Are Big Beneficiaries of the Global Order Its Prime Minister Just Criticized",
       "outlet": "Inside Climate News",
@@ -2309,37 +2180,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "94955822176c"
-    },
-    {
-      "id": "3312dc00a593",
-      "title": "Oscars Best Song Nominees: Nick Cave and More to Face Off With ‘KPop Demon Hunters’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/oscars-2026-best-original-song-nominees-1235503344/",
-      "published_at": "Thu, 22 Jan 2026 17:51:43 +0000",
-      "bullets": [
-        "• Songwriter Diane Warren has been nominated for 17 Best Original Song Oscars since 1988",
-        "• Her song “Dear Me,” sung by Kesha, is up against KPop Demon Hunters’ “Golden” Other nominees include Nick Cave, Raphael Saadiq, Nick Cave and Nicholas Pike "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Songwriter Diane Warren has been nominated for 17 Best Original Song Oscars since 1988",
-          "• Her song “Dear Me,” sung by Kesha, is up against KPop Demon Hunters’ “Golden” Other nominees include Nick Cave, Raphael Saadiq, Nick Cave and Nicholas Pike "
-        ],
-        "hopeful_bullets": [
-          "• Her song “Dear Me,” sung by Kesha, is up against KPop Demon Hunters’ “Golden” Other nominees include Nick Cave, Raphael Saadiq, Nick Cave and Nicholas Pike "
-        ],
-        "stakes_bullets": [
-          "• Songwriter Diane Warren has been nominated for 17 Best Original Song Oscars since 1988",
-          "• Her song “Dear Me,” sung by Kesha, is up against KPop Demon Hunters’ “Golden” Other nominees include Nick Cave, Raphael Saadiq, Nick Cave and Nicholas Pike "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c6a08f5cc9c0"
     },
     {
       "id": "f3b10609c783",
@@ -3930,6 +3770,398 @@
       "cluster_id": "cc7520fb12b9"
     },
     {
+      "id": "87d2d534ea1a",
+      "title": "The Ultimate Guide to Every 2026 Grammy Party and Event",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/2026-grammys-party-event-guide-1235494255/",
+      "published_at": "Fri, 23 Jan 2026 17:54:00 +0000",
+      "bullets": [
+        "• The 68th Grammy Awards will be broadcast live on Sunday, Feb",
+        "• 1st from the Crypto.com Arena in Los Angeles",
+        "• A-list musicians, celebrities, and industry legends will descend on Los Angeles in the week-long lead-up to the Grammys "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 68th Grammy Awards will be broadcast live on Sunday, Feb",
+          "• 1st from the Crypto.com Arena in Los Angeles"
+        ],
+        "hopeful_bullets": [
+          "• The 68th Grammy Awards will be broadcast live on Sunday, Feb"
+        ],
+        "stakes_bullets": [
+          "• The 68th Grammy Awards will be broadcast live on Sunday, Feb",
+          "• A-list musicians, celebrities, and industry legends will descend on Los Angeles in the week-long lead-up to the Grammys "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "f98caa01c878"
+    },
+    {
+      "id": "592af698c721",
+      "title": "Magenta Edge Films Acquires AI Thriller ‘Appofeniacs’",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/555189/magenta-edge-films-acquires-ai-thriller-appofeniacs/",
+      "published_at": "Fri, 23 Jan 2026 17:44:38 +0000",
+      "bullets": [
+        "• Appofeniacs focuses on what happens when AI-generated deepfakes spread amongst a group of interconnected lives, blurring reality and unleashing violent consequences",
+        "• The company said Friday that Magenta Edge will foremost be a home for original stories "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Appofeniacs focuses on what happens when AI-generated deepfakes spread amongst a group of interconnected lives, blurring reality and unleashing violent consequences",
+          "• The company said Friday that Magenta Edge will foremost be a home for original stories "
+        ],
+        "hopeful_bullets": [
+          "• Appofeniacs focuses on what happens when AI-generated deepfakes spread amongst a group of interconnected lives, blurring reality and unleashing violent consequences",
+          "• The company said Friday that Magenta Edge will foremost be a home for original stories "
+        ],
+        "stakes_bullets": [
+          "• The company said Friday that Magenta Edge will foremost be a home for original stories "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "439aade496de"
+    },
+    {
+      "id": "3fd7a349a73a",
+      "title": "Ryan Murphy’s Monster Season 4 Filmed In Rome For A Crucial Reason",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/ryan-murphy-monster-season-4-michael-bauman-rome-scenes/",
+      "published_at": "Fri, 23 Jan 2026 17:42:51 GMT",
+      "bullets": [
+        "• Ryan Murphy's Monster has kept true crime junkies tuned in",
+        "• The fourth season of the series airs in Rome",
+        "• Cinematographer Michael Bauman has hinted at another thrilling chapter of the serial killer saga",
+        "• Bauman was drawn to Monster: The Ed Gein Story, which revealed a personal connection "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ryan Murphy's Monster has kept true crime junkies tuned in",
+          "• The fourth season of the series airs in Rome"
+        ],
+        "hopeful_bullets": [
+          "• Ryan Murphy's Monster has kept true crime junkies tuned in",
+          "• The fourth season of the series airs in Rome"
+        ],
+        "stakes_bullets": [
+          "• Ryan Murphy's Monster has kept true crime junkies tuned in",
+          "• The fourth season of the series airs in Rome",
+          "• Cinematographer Michael Bauman has hinted at another thrilling chapter of the serial killer saga"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b64fb26f0ce1"
+    },
+    {
+      "id": "1f44b9cd07e3",
+      "title": "5 Unmissable Horror Movies Now Streaming Mike Flanagan Highly Reccomends",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/streaming-news/554523/mike-flanagan-recommends-these-5-horror-hits-now-streaming/",
+      "published_at": "Fri, 23 Jan 2026 17:32:47 +0000",
+      "bullets": [
+        "• Mike Flanagan is part and parcel with the modern horror genre",
+        "• From Absentia to his upcoming retooling of The Exorcist, Flanagan has dabbled in IP, original conceits, and—pretty profoundly—the Stephen King multiverse",
+        "• Here are five recent recommendations of his, along with where to stream them "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.928
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mike Flanagan is part and parcel with the modern horror genre",
+          "• From Absentia to his upcoming retooling of The Exorcist, Flanagan has dabbled in IP, original conceits, and—pretty profoundly—the Stephen King multiverse"
+        ],
+        "hopeful_bullets": [
+          "• Mike Flanagan is part and parcel with the modern horror genre",
+          "• From Absentia to his upcoming retooling of The Exorcist, Flanagan has dabbled in IP, original conceits, and—pretty profoundly—the Stephen King multiverse"
+        ],
+        "stakes_bullets": [
+          "• Mike Flanagan is part and parcel with the modern horror genre",
+          "• From Absentia to his upcoming retooling of The Exorcist, Flanagan has dabbled in IP, original conceits, and—pretty profoundly—the Stephen King multiverse",
+          "• Here are five recent recommendations of his, along with where to stream them "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e7f9fbab0608"
+    },
+    {
+      "id": "7fedb9f2ef80",
+      "title": "Trump says the big US winter storm is proof of climate hoax – here’s why he’s wrong",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/23/trump-winter-storm-climate-crisis",
+      "published_at": "Fri, 23 Jan 2026 17:17:13 GMT",
+      "bullets": [
+        "• At least 230 million people are expected to be affected in some way by the storm",
+        "• Storm is being caused by a mass of frigid air from the Arctic hitting warmer, moister air in the US",
+        "• Colder Arctic air is usually confined to the far northern latitudes by the polar vortex "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 230 million people are expected to be affected in some way by the storm",
+          "• Storm is being caused by a mass of frigid air from the Arctic hitting warmer, moister air in the US"
+        ],
+        "hopeful_bullets": [
+          "• At least 230 million people are expected to be affected in some way by the storm",
+          "• Storm is being caused by a mass of frigid air from the Arctic hitting warmer, moister air in the US"
+        ],
+        "stakes_bullets": [
+          "• At least 230 million people are expected to be affected in some way by the storm",
+          "• Storm is being caused by a mass of frigid air from the Arctic hitting warmer, moister air in the US"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8be55cf4f028"
+    },
+    {
+      "id": "cb6ef1ad404a",
+      "title": "Trump’s second term has been rife with bizarre moments – here are seven",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/23/trump-concerning-moments",
+      "published_at": "Fri, 23 Jan 2026 17:16:56 GMT",
+      "bullets": [
+        "• Donald Trump vowed to “plant the stars and stripes on the planet Mars” during his inauguration speech last year",
+        "• But during the first year of his second term, it has been a forceful few months",
+        "• Trump has deployed troops to US cities, as waves of ICE agents terrorize communities "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump vowed to “plant the stars and stripes on the planet Mars” during his inauguration speech last year",
+          "• But during the first year of his second term, it has been a forceful few months"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump vowed to “plant the stars and stripes on the planet Mars” during his inauguration speech last year",
+          "• But during the first year of his second term, it has been a forceful few months"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump vowed to “plant the stars and stripes on the planet Mars” during his inauguration speech last year"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "0ca551ef7a9d"
+    },
+    {
+      "id": "fca56570821f",
+      "title": "Julio Iglesias sex assault investigation dropped by Spanish prosecutors",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9vx0p3gl71o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 23 Jan 2026 17:15:28 GMT",
+      "bullets": [
+        "• Spanish prosecutors dismiss Julio Iglesias sex assault complaint",
+        "• Two female former employees had alleged that the 82-year-old singer \"normalised abuse\" in a coercive, threatening and violent environment while they were working at his properties in the Bahamas and Dominican Republic in 2021 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Spanish prosecutors dismiss Julio Iglesias sex assault complaint",
+          "• Two female former employees had alleged that the 82-year-old singer \"normalised abuse\" in a coercive, threatening and violent environment while they were working at his properties in the Bahamas and Dominican Republic in 2021 "
+        ],
+        "hopeful_bullets": [
+          "• Spanish prosecutors dismiss Julio Iglesias sex assault complaint",
+          "• Two female former employees had alleged that the 82-year-old singer \"normalised abuse\" in a coercive, threatening and violent environment while they were working at his properties in the Bahamas and Dominican Republic in 2021 "
+        ],
+        "stakes_bullets": [
+          "• Spanish prosecutors dismiss Julio Iglesias sex assault complaint"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6a8290a00b00"
+    },
+    {
+      "id": "bc7cdfd95654",
+      "title": "7 Underrated Ninja Anime That Are More Well-Written Than Naruto",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/underrated-ninja-anime-better-written-than-naruto/",
+      "published_at": "Fri, 23 Jan 2026 17:15:12 GMT",
+      "bullets": [
+        "• The ninja genre in anime thrives on secrets, divided allegiances, and the difficult space between obligation and desire",
+        "• Ninja Scroll is remembered for its graphic violence, but it is its clean storytelling that has allowed it to endure",
+        "• Hell’s Paradise and Ninja Scroll demonstrate how a ninja anime can be romantic, violent, funny and haunting "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The ninja genre in anime thrives on secrets, divided allegiances, and the difficult space between obligation and desire",
+          "• Ninja Scroll is remembered for its graphic violence, but it is its clean storytelling that has allowed it to endure"
+        ],
+        "hopeful_bullets": [
+          "• The ninja genre in anime thrives on secrets, divided allegiances, and the difficult space between obligation and desire",
+          "• Ninja Scroll is remembered for its graphic violence, but it is its clean storytelling that has allowed it to endure"
+        ],
+        "stakes_bullets": [
+          "• The ninja genre in anime thrives on secrets, divided allegiances, and the difficult space between obligation and desire",
+          "• Ninja Scroll is remembered for its graphic violence, but it is its clean storytelling that has allowed it to endure",
+          "• Hell’s Paradise and Ninja Scroll demonstrate how a ninja anime can be romantic, violent, funny and haunting "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "52c975bb7f85"
+    },
+    {
+      "id": "c2688a8ba043",
+      "title": "ICE protests: Minnesotans urged not to work or shop in economic blackout over surge of immigration agents – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/23/ice-immigration-protests-trump-minnesota-economic-blackout-latest-news",
+      "published_at": "Fri, 23 Jan 2026 17:13:09 GMT",
+      "bullets": [
+        "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
+        "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
+          "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
+        ],
+        "hopeful_bullets": [
+          "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
+          "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
+        ],
+        "stakes_bullets": [
+          "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
+          "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "30c0155ad7b5"
+    },
+    {
+      "id": "7d9f63138b4b",
+      "title": "7 New Must-Have Horror Collectibles, Including ‘Dream Eater’ Blu-ray & Horror Air Freshener Trading Cards",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/home-video/3930167/7-new-must-have-horror-collectibles-including-dream-eater-blu-ray-horror-air-freshener-trading-cards/",
+      "published_at": "Fri, 23 Jan 2026 17:10:02 +0000",
+      "bullets": [
+        "• Horror Air Freshener Trading Cards from Xyrena has launched Stubz, the first-ever air freshener trading cards",
+        "• The Reel Fresh series, featuring officially licensed film and TV properties, includes: Sleepaway Camp (Arawak Pine sce)"
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Horror Air Freshener Trading Cards from Xyrena has launched Stubz, the first-ever air freshener trading cards",
+          "• The Reel Fresh series, featuring officially licensed film and TV properties, includes: Sleepaway Camp (Arawak Pine sce)"
+        ],
+        "hopeful_bullets": [
+          "• Horror Air Freshener Trading Cards from Xyrena has launched Stubz, the first-ever air freshener trading cards",
+          "• The Reel Fresh series, featuring officially licensed film and TV properties, includes: Sleepaway Camp (Arawak Pine sce)"
+        ],
+        "stakes_bullets": [
+          "• Horror Air Freshener Trading Cards from Xyrena has launched Stubz, the first-ever air freshener trading cards",
+          "• The Reel Fresh series, featuring officially licensed film and TV properties, includes: Sleepaway Camp (Arawak Pine sce)"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7f8277f7452b"
+    },
+    {
+      "id": "efc2ad6d8627",
+      "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+      "published_at": "Fri, 23 Jan 2026 17:09:46 GMT",
+      "bullets": [
+        "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
+        "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule",
+        "• US health officials insisted it was still on "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
+          "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule"
+        ],
+        "hopeful_bullets": [
+          "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
+          "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule"
+        ],
+        "stakes_bullets": [
+          "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
+          "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule",
+          "• US health officials insisted it was still on "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "ce67720abb6f"
+    },
+    {
+      "id": "bca51004e5f7",
+      "title": "CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/",
+      "published_at": "Fri, 23 Jan 2026 17:08:30 +0000",
+      "bullets": [
+        "• United States Customs and Border Protection is paying General Dynamics to create a prototype of “quantum sensors” alongside a “Database with artificial intelligence” designed “to detect illicit objects and substances (such as fentanyl) in vehicles, containers, and other devices",
+        "• The document redacts the name of the company developing the prototype "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• United States Customs and Border Protection is paying General Dynamics to create a prototype of “quantum sensors” alongside a “Database with artificial intelligence” designed “to detect illicit objects and substances (such as fentanyl) in vehicles, containers, and other devices",
+          "• The document redacts the name of the company developing the prototype "
+        ],
+        "hopeful_bullets": [
+          "• United States Customs and Border Protection is paying General Dynamics to create a prototype of “quantum sensors” alongside a “Database with artificial intelligence” designed “to detect illicit objects and substances (such as fentanyl) in vehicles, containers, and other devices",
+          "• The document redacts the name of the company developing the prototype "
+        ],
+        "stakes_bullets": [
+          "• United States Customs and Border Protection is paying General Dynamics to create a prototype of “quantum sensors” alongside a “Database with artificial intelligence” designed “to detect illicit objects and substances (such as fentanyl) in vehicles, containers, and other devices",
+          "• The document redacts the name of the company developing the prototype "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "77dbdc1f0b5e"
+    },
+    {
       "id": "23f9759f687f",
       "title": "The Lost Bus Becomes a Streaming Hit After Surprise Oscar Nomination",
       "outlet": "CBR",
@@ -4035,6 +4267,37 @@
       "cluster_id": "3089d5767161"
     },
     {
+      "id": "6d8eb9ff63d5",
+      "title": "‘28 Years Later: The Bone Temple’ Delivered a Scene that Horror Fans Will Be Talking About for Ages",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/editorials/555068/28-years-later-the-bone-temple-delivered-a-scene-that-horror-fans-will-be-talking-about-for-ages/",
+      "published_at": "Fri, 23 Jan 2026 17:00:00 +0000",
+      "bullets": [
+        "• ‘28 Years Later: The Bone Temple’ delivered one of the most metal scenes I’ve witnessed in a horror film for quite some time",
+        "• Director Nia DaCosta melds gruesome violence and despair with a surprising ray of hope that shines through film’s darkest corners "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ‘28 Years Later: The Bone Temple’ delivered one of the most metal scenes I’ve witnessed in a horror film for quite some time",
+          "• Director Nia DaCosta melds gruesome violence and despair with a surprising ray of hope that shines through film’s darkest corners "
+        ],
+        "hopeful_bullets": [
+          "• Director Nia DaCosta melds gruesome violence and despair with a surprising ray of hope that shines through film’s darkest corners "
+        ],
+        "stakes_bullets": [
+          "• ‘28 Years Later: The Bone Temple’ delivered one of the most metal scenes I’ve witnessed in a horror film for quite some time",
+          "• Director Nia DaCosta melds gruesome violence and despair with a surprising ray of hope that shines through film’s darkest corners "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d4e219be7485"
+    },
+    {
       "id": "e43b4d84155e",
       "title": "Francis Buchholz, Scorpions’ Hurricane-Rocking Ex-Bassist, Dead at 71",
       "outlet": "Music News",
@@ -4066,6 +4329,140 @@
       },
       "read_minutes": 3,
       "cluster_id": "70d0f83c0a38"
+    },
+    {
+      "id": "cf4bd0aa483a",
+      "title": "Somaliland president pitches business opportunities to Trump's son",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cje11eg7lp5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 23 Jan 2026 16:59:41 GMT",
+      "bullets": [
+        "• President Abdirahman Mohamed Abdullahi met with Eric Trump at the World Economic Forum in Davos",
+        "• Talks focused on 'strengthening and advancing bilateral relations' with Israel",
+        "• Last month, Israel became the first country to recognise the breakaway region "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Abdirahman Mohamed Abdullahi met with Eric Trump at the World Economic Forum in Davos",
+          "• Talks focused on 'strengthening and advancing bilateral relations' with Israel"
+        ],
+        "hopeful_bullets": [
+          "• President Abdirahman Mohamed Abdullahi met with Eric Trump at the World Economic Forum in Davos",
+          "• Talks focused on 'strengthening and advancing bilateral relations' with Israel"
+        ],
+        "stakes_bullets": [
+          "• President Abdirahman Mohamed Abdullahi met with Eric Trump at the World Economic Forum in Davos",
+          "• Talks focused on 'strengthening and advancing bilateral relations' with Israel",
+          "• Last month, Israel became the first country to recognise the breakaway region "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3df1f33ea007"
+    },
+    {
+      "id": "e1057fa588f9",
+      "title": "Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html",
+      "published_at": "Fri, 23 Jan 2026 16:49:34 GMT",
+      "bullets": [
+        "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
+        "• Zhao was released in September 2024",
+        "• Trump's pardon in October 2025 drew attention to Binance's ties to a crypto company run by the president's family "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.863
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
+          "• Zhao was released in September 2024"
+        ],
+        "hopeful_bullets": [
+          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
+          "• Zhao was released in September 2024"
+        ],
+        "stakes_bullets": [
+          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ea09f98119f3"
+    },
+    {
+      "id": "c48791ef02cf",
+      "title": "A former Trump official wants to build a massive data center in a remote corner of Greenland. Will it work?",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/23/greenland-data-center-trump-greenmet.html",
+      "published_at": "Fri, 23 Jan 2026 16:47:22 GMT",
+      "bullets": [
+        "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
+        "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028",
+        "• The project has binding commitments with investors to finance half of its initial phase "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.526
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
+          "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028"
+        ],
+        "hopeful_bullets": [
+          "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
+          "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028"
+        ],
+        "stakes_bullets": [
+          "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
+          "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028",
+          "• The project has binding commitments with investors to finance half of its initial phase "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "9a204f55393d"
+    },
+    {
+      "id": "7055eade25bc",
+      "title": "Spanish track was fractured before high-speed train disaster, report finds",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 23 Jan 2026 16:43:31 GMT",
+      "bullets": [
+        "• Preliminary report finds fracture in straight section of track \"occurred prior to passage\" of high-speed train that derailed",
+        "• 45 people killed and injured in Spanish rail disaster in which 45 people died last Sunday",
+        "• Private train run by private company Iryo derailed and its rear carriages crossed on to opposite track into path of oncoming train "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Preliminary report finds fracture in straight section of track \"occurred prior to passage\" of high-speed train that derailed",
+          "• 45 people killed and injured in Spanish rail disaster in which 45 people died last Sunday"
+        ],
+        "hopeful_bullets": [
+          "• Preliminary report finds fracture in straight section of track \"occurred prior to passage\" of high-speed train that derailed",
+          "• 45 people killed and injured in Spanish rail disaster in which 45 people died last Sunday"
+        ],
+        "stakes_bullets": [
+          "• Preliminary report finds fracture in straight section of track \"occurred prior to passage\" of high-speed train that derailed",
+          "• 45 people killed and injured in Spanish rail disaster in which 45 people died last Sunday",
+          "• Private train run by private company Iryo derailed and its rear carriages crossed on to opposite track into path of oncoming train "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "39016061ff01"
     },
     {
       "id": "1d73db8e1bd2",
@@ -4272,61 +4669,34 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/23/pentagon-contractor-indicted-washington-post-reporter",
       "published_at": "Fri, 23 Jan 2026 16:24:15 GMT",
       "bullets": [
-        "• A federal grand jury in Maryland indicts a Washington Post reporter for leaking classified documents",
-        "• The FBI raided the home of Post reporter Hannah Natanson in what the newspaper called a “highly unusual and aggressive” move",
-        "• A federal judge temporarily blocked prosecutors from reviewing material taken in the raid "
+        "• The suspect is accused of illegally removing documents from his home",
+        "• The suspect has been in jail since January",
+        "• He has been charged with illegally removing the documents",
+        "• The case is the first to be investigated by the U.S",
+        "• Attorney General for a breach of the law "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.978
       },
       "moods": {
         "brief_bullets": [
-          "• A federal grand jury in Maryland indicts a Washington Post reporter for leaking classified documents",
-          "• The FBI raided the home of Post reporter Hannah Natanson in what the newspaper called a “highly unusual and aggressive” move"
+          "• The suspect is accused of illegally removing documents from his home",
+          "• The suspect has been in jail since January"
         ],
         "hopeful_bullets": [
-          "• A federal judge temporarily blocked prosecutors from reviewing material taken in the raid "
+          "• The suspect is accused of illegally removing documents from his home",
+          "• The suspect has been in jail since January"
         ],
         "stakes_bullets": [
-          "• A federal judge temporarily blocked prosecutors from reviewing material taken in the raid "
+          "• The suspect is accused of illegally removing documents from his home",
+          "• The suspect has been in jail since January",
+          "• He has been charged with illegally removing the documents"
         ]
       },
       "read_minutes": 3,
       "cluster_id": "da3a45c9a0a5"
-    },
-    {
-      "id": "c2688a8ba043",
-      "title": "ICE protests: Minnesotans urged not to work or shop in economic blackout over surge of immigration agents – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/23/ice-immigration-protests-trump-minnesota-economic-blackout-latest-news",
-      "published_at": "Fri, 23 Jan 2026 16:21:51 GMT",
-      "bullets": [
-        "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
-        "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
-          "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
-        ],
-        "hopeful_bullets": [
-          "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
-          "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
-        ],
-        "stakes_bullets": [
-          "• The Day of Truth & Freedom protest comes in the wake of the killing of Renee Good, the unarmed woman killed by a federal immigration officer in Minneapolis earlier this month",
-          "• Their demands include that ICE leave Minnesota, that the officer who killed Good be legally held accountable, an end to additional federal funding for ICE "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "30c0155ad7b5"
     },
     {
       "id": "af0f7eed24a4",
@@ -4463,42 +4833,8 @@
       "cluster_id": "e354e60f3520"
     },
     {
-      "id": "c48791ef02cf",
-      "title": "A former Trump official wants to build a massive data center in a remote corner of Greenland. Will it work?",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/23/greenland-data-center-trump-greenmet.html",
-      "published_at": "Fri, 23 Jan 2026 16:09:55 GMT",
-      "bullets": [
-        "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
-        "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028",
-        "• The project has binding commitments with investors to finance half of its initial phase "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.526
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
-          "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028"
-        ],
-        "hopeful_bullets": [
-          "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
-          "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028"
-        ],
-        "stakes_bullets": [
-          "• The project aims to be operational at 300 megawatts (MW) by mid-2027",
-          "• Further expansion would see it hit 1.5 gigawatts (GW) by the end of 2028",
-          "• The project has binding commitments with investors to finance half of its initial phase "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "9a204f55393d"
-    },
-    {
       "id": "b5470992d6b7",
-      "title": "Monster winter storm threatens half of US with 13 states already declaring emergencies",
+      "title": "Monster winter storm threatens half of US with 13 states declaring emergencies",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jan/23/winter-storm-emergency-declarations",
       "published_at": "Fri, 23 Jan 2026 16:06:33 GMT",
@@ -4512,7 +4848,7 @@
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.965
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
@@ -4532,65 +4868,31 @@
       "cluster_id": "dffe67b71d96"
     },
     {
-      "id": "4413b7805baf",
-      "title": "As federal ACA subsidies lapse, blue states offer their own",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/23/aca-subsidies-state-premium-tax-credits.html",
-      "published_at": "Fri, 23 Jan 2026 16:06:29 GMT",
-      "bullets": [
-        "• California, Colorado, Connecticut, Maryland, Massachusetts and New Mexico have all started offering additional state-funded premium subsidies in 2026",
-        "• In most cases, the state assistance is less generous than the lapsed federal aid, experts say",
-        "• The maneuvers may deepen the political divide on the issue of health insurance subsidies, experts said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• California, Colorado, Connecticut, Maryland, Massachusetts and New Mexico have all started offering additional state-funded premium subsidies in 2026",
-          "• In most cases, the state assistance is less generous than the lapsed federal aid, experts say"
-        ],
-        "hopeful_bullets": [
-          "• California, Colorado, Connecticut, Maryland, Massachusetts and New Mexico have all started offering additional state-funded premium subsidies in 2026",
-          "• In most cases, the state assistance is less generous than the lapsed federal aid, experts say"
-        ],
-        "stakes_bullets": [
-          "• California, Colorado, Connecticut, Maryland, Massachusetts and New Mexico have all started offering additional state-funded premium subsidies in 2026"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "0008b8e0eaf8"
-    },
-    {
       "id": "d0455b75e568",
       "title": "‘Pinocchio Unleashed’ Teaser Trailer – The Enchanted Puppet Breaks Free in Practical Effects-Driven Indie Horror",
       "outlet": "Bloody Disgusting!",
       "url": "https://bloody-disgusting.com/movie/3930597/pinocchio-unleashed-teaser-trailer-the-enchanted-puppet-breaks-free-in-practical-effects-driven-indie-horror/",
       "published_at": "Fri, 23 Jan 2026 16:03:56 +0000",
       "bullets": [
-        "• An enchanted puppet breaks free from his creator’s workshop and enters a fractured world ruled by fear and facades",
-        "• James Wingate, Stephen Guy, Jerome Wise, and Katie Jarvis star in the fantastical horror movie",
-        "• Currently in production in London, Pinocchio Unleashed is aiming for a release later this year "
+        "• The Enchanted Puppet Breaks Free in Practical Effects-Driven Indie Horror",
+        "• The film explores what it means to be human through the trials that forge one’s character",
+        "• James Wingate, Stephen Guy, Jerome Wise, and Katie Jarvis star in the fantastical horror movie "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 0.988
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• An enchanted puppet breaks free from his creator’s workshop and enters a fractured world ruled by fear and facades",
-          "• James Wingate, Stephen Guy, Jerome Wise, and Katie Jarvis star in the fantastical horror movie"
+          "• The Enchanted Puppet Breaks Free in Practical Effects-Driven Indie Horror",
+          "• The film explores what it means to be human through the trials that forge one’s character"
         ],
         "hopeful_bullets": [
-          "• James Wingate, Stephen Guy, Jerome Wise, and Katie Jarvis star in the fantastical horror movie"
+          "• James Wingate, Stephen Guy, Jerome Wise, and Katie Jarvis star in the fantastical horror movie "
         ],
         "stakes_bullets": [
-          "• An enchanted puppet breaks free from his creator’s workshop and enters a fractured world ruled by fear and facades",
-          "• James Wingate, Stephen Guy, Jerome Wise, and Katie Jarvis star in the fantastical horror movie",
-          "• Currently in production in London, Pinocchio Unleashed is aiming for a release later this year "
+          "• The Enchanted Puppet Breaks Free in Practical Effects-Driven Indie Horror"
         ]
       },
       "read_minutes": 1,
@@ -4732,38 +5034,6 @@
       "cluster_id": "94aa34dea1cf"
     },
     {
-      "id": "0a2dda74e18d",
-      "title": "Adam Driver’s 65 is the Perfect Jurassic Park Replacement",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/adam-driver-jurassic-park-replacement-65-hidden-gem/",
-      "published_at": "Fri, 23 Jan 2026 16:00:12 GMT",
-      "bullets": [
-        "• 65 is currently sitting in HBO Max’s top 10",
-        "• The film stars Adam Driver as a spaceship pilot who crash-landed on an alien planet 65 million years in the past",
-        "• The action genre has seen its fair share of prehistoric creatures in recent years "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 65 is currently sitting in HBO Max’s top 10",
-          "• The film stars Adam Driver as a spaceship pilot who crash-landed on an alien planet 65 million years in the past"
-        ],
-        "hopeful_bullets": [
-          "• 65 is currently sitting in HBO Max’s top 10",
-          "• The film stars Adam Driver as a spaceship pilot who crash-landed on an alien planet 65 million years in the past"
-        ],
-        "stakes_bullets": [
-          "• The film stars Adam Driver as a spaceship pilot who crash-landed on an alien planet 65 million years in the past"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "f48a305fb9f7"
-    },
-    {
       "id": "1215fab6bd90",
       "title": "The Math on AI Agents Doesn’t Add Up",
       "outlet": "WIRED",
@@ -4790,36 +5060,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "8ef3e7b341dd"
-    },
-    {
-      "id": "e1057fa588f9",
-      "title": "Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html",
-      "published_at": "Fri, 23 Jan 2026 15:57:26 GMT",
-      "bullets": [
-        "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
-        "• Trump pardoned Binance in October 2025, drawing attention to Binance's ties to World Liberty Financial, a crypto company run by the president's family "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.537
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
-          "• Trump pardoned Binance in October 2025, drawing attention to Binance's ties to World Liberty Financial, a crypto company run by the president's family "
-        ],
-        "hopeful_bullets": [
-          "• Trump pardoned Binance in October 2025, drawing attention to Binance's ties to World Liberty Financial, a crypto company run by the president's family "
-        ],
-        "stakes_bullets": [
-          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ea09f98119f3"
     },
     {
       "id": "90fa78eb14c2",
@@ -4920,7 +5160,7 @@
     },
     {
       "id": "a9239e6768a9",
-      "title": "High stakes but low expectations ahead of Ukraine talks with Russia and US",
+      "title": "High stakes but low expectations for Ukraine talks with Russia and US",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 23 Jan 2026 15:36:52 GMT",
@@ -4932,7 +5172,7 @@
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
@@ -4949,7 +5189,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "dcd6ff5e73f3"
+      "cluster_id": "7df022038ac3"
     },
     {
       "id": "fee3905583d1",
@@ -5054,38 +5294,6 @@
       "cluster_id": "e2c36bcb2c0b"
     },
     {
-      "id": "987a02c3237b",
-      "title": "Percy Jackson Season 2 Finale Post-Credits Scene: Walker Scobell Reacts",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/percy-jackson-season-2-finale-post-credits-scene-walker-scobell-reacts/",
-      "published_at": "Fri, 23 Jan 2026 15:28:17 GMT",
-      "bullets": [
-        "• Season 2 of Percy Jackson & the Olympians ended with a surprising post-credits scene",
-        "• Walker Scobell said he \"loves that ending,\" suggesting that the \"world just goes on\" The latest season adapts the second book in Rick Riordan's book series "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Season 2 of Percy Jackson & the Olympians ended with a surprising post-credits scene",
-          "• Walker Scobell said he \"loves that ending,\" suggesting that the \"world just goes on\" The latest season adapts the second book in Rick Riordan's book series "
-        ],
-        "hopeful_bullets": [
-          "• Season 2 of Percy Jackson & the Olympians ended with a surprising post-credits scene",
-          "• Walker Scobell said he \"loves that ending,\" suggesting that the \"world just goes on\" The latest season adapts the second book in Rick Riordan's book series "
-        ],
-        "stakes_bullets": [
-          "• Season 2 of Percy Jackson & the Olympians ended with a surprising post-credits scene",
-          "• Walker Scobell said he \"loves that ending,\" suggesting that the \"world just goes on\" The latest season adapts the second book in Rick Riordan's book series "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3716d3c2e567"
-    },
-    {
       "id": "cefc33921afe",
       "title": "“The Walking Dead” Star Ross Marquand Comes Across a UFO in ‘Unknown Company’",
       "outlet": "Dread Central",
@@ -5180,40 +5388,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "31a5500abb0d"
-    },
-    {
-      "id": "53a82ef44f0e",
-      "title": "10 Dragon Ball Details That Make No Sense Now That Everything Is Canon",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-details-that-make-no-sense-everything-is-canon/",
-      "published_at": "Fri, 23 Jan 2026 15:15:12 GMT",
-      "bullets": [
-        "• There’s no right or wrong way to experience Dragon Ball, yet there are some fans consumed with what officially qualifies as canon and represents the “real” series",
-        "• The prospect of Dragon Ball Z movie villains, Dragon Ball GT elements, and more material now being canon is incredibly exciting for several reasons",
-        "• However, it also creates some inherent plot holes and inconsistencies that don’t make any sense "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.831
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There’s no right or wrong way to experience Dragon Ball, yet there are some fans consumed with what officially qualifies as canon and represents the “real” series",
-          "• The prospect of Dragon Ball Z movie villains, Dragon Ball GT elements, and more material now being canon is incredibly exciting for several reasons"
-        ],
-        "hopeful_bullets": [
-          "• There’s no right or wrong way to experience Dragon Ball, yet there are some fans consumed with what officially qualifies as canon and represents the “real” series",
-          "• The prospect of Dragon Ball Z movie villains, Dragon Ball GT elements, and more material now being canon is incredibly exciting for several reasons"
-        ],
-        "stakes_bullets": [
-          "• There’s no right or wrong way to experience Dragon Ball, yet there are some fans consumed with what officially qualifies as canon and represents the “real” series",
-          "• The prospect of Dragon Ball Z movie villains, Dragon Ball GT elements, and more material now being canon is incredibly exciting for several reasons",
-          "• However, it also creates some inherent plot holes and inconsistencies that don’t make any sense "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "0bc9161749b3"
     },
     {
       "id": "db69ab643581",
@@ -5674,38 +5848,6 @@
       "cluster_id": "9306c773d6e4"
     },
     {
-      "id": "ee5fef476a85",
-      "title": "‘Terrifier 2’s “Clown Cafe” Song Is Now on Streaming Services",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/music/3930559/terrifier-2s-clown-cafe-song-is-now-on-streaming-services/",
-      "published_at": "Fri, 23 Jan 2026 14:28:12 +0000",
-      "bullets": [
-        "• ‘Terrifier 2’s “Clown Cafe” Song is finally available on streaming services",
-        "• The infectious jingle is performed by actress Leah Voysey",
-        "• The song is written by Jon Kaplan & Al Kaplan, who returned to compose “It's a Terrifier Christmas” for Terrifier 3 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ‘Terrifier 2’s “Clown Cafe” Song is finally available on streaming services",
-          "• The infectious jingle is performed by actress Leah Voysey"
-        ],
-        "hopeful_bullets": [
-          "• ‘Terrifier 2’s “Clown Cafe” Song is finally available on streaming services",
-          "• The infectious jingle is performed by actress Leah Voysey"
-        ],
-        "stakes_bullets": [
-          "• The song is written by Jon Kaplan & Al Kaplan, who returned to compose “It's a Terrifier Christmas” for Terrifier 3 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "841628cbd35e"
-    },
-    {
       "id": "a9bd662a2301",
       "title": "Trump withdraws 'Board of Peace' invitation to Carney in widening rift with Canada",
       "outlet": "US Top News and Analysis",
@@ -5735,7 +5877,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "6851a50b5d90"
+      "cluster_id": "f8c8b0e0df75"
     },
     {
       "id": "369936a1cd2d",
@@ -5969,38 +6111,38 @@
       "cluster_id": "e3fc82d7e3c4"
     },
     {
-      "id": "c7e9e08a718d",
-      "title": "Democratic lawmakers accuse Trump of letting white-collar criminals ‘off the hook’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/23/elizabeth-warren-democrats-trump-white-collar-criminals-letter",
-      "published_at": "Fri, 23 Jan 2026 13:21:14 GMT",
+      "id": "ede5e18c915a",
+      "title": "Social Security has 'no bankruptcy or collapse in the cards,' economist says — but benefits may change",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/23/will-social-security-run-out-is-the-wrong-question-economist-says.html",
+      "published_at": "Fri, 23 Jan 2026 13:19:24 GMT",
       "bullets": [
-        "• Democrats demand investigation into US president for diverting resources to immigration crackdown",
-        "• More than 25,000 personnel have been shifted away from investigating fraud, tax evasion and money laundering in favour of his immigration enforcement agenda",
-        "• Senator Elizabeth Warren accuses the administration of letting white-collar criminals ‘off the hook’"
+        "• Survey: 74% of Americans worry Social Security will run out in their lifetimes",
+        "• Survey: 30% of respondents don't believe benefits will be there for them when they retire",
+        "• 70% expect benefits to face future cuts, Cato Institute survey finds "
       ],
-      "category": "US",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.908
       },
       "moods": {
         "brief_bullets": [
-          "• Democrats demand investigation into US president for diverting resources to immigration crackdown",
-          "• More than 25,000 personnel have been shifted away from investigating fraud, tax evasion and money laundering in favour of his immigration enforcement agenda"
+          "• Survey: 74% of Americans worry Social Security will run out in their lifetimes",
+          "• Survey: 30% of respondents don't believe benefits will be there for them when they retire"
         ],
         "hopeful_bullets": [
-          "• Democrats demand investigation into US president for diverting resources to immigration crackdown",
-          "• More than 25,000 personnel have been shifted away from investigating fraud, tax evasion and money laundering in favour of his immigration enforcement agenda"
+          "• Survey: 74% of Americans worry Social Security will run out in their lifetimes",
+          "• Survey: 30% of respondents don't believe benefits will be there for them when they retire"
         ],
         "stakes_bullets": [
-          "• Democrats demand investigation into US president for diverting resources to immigration crackdown",
-          "• More than 25,000 personnel have been shifted away from investigating fraud, tax evasion and money laundering in favour of his immigration enforcement agenda",
-          "• Senator Elizabeth Warren accuses the administration of letting white-collar criminals ‘off the hook’"
+          "• Survey: 74% of Americans worry Social Security will run out in their lifetimes",
+          "• Survey: 30% of respondents don't believe benefits will be there for them when they retire",
+          "• 70% expect benefits to face future cuts, Cato Institute survey finds "
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "e62c8accf451"
+      "read_minutes": 5,
+      "cluster_id": "0be6137c9ff2"
     },
     {
       "id": "0cfce7d41ca1",
@@ -6269,41 +6411,6 @@
       "cluster_id": "f283d377128d"
     },
     {
-      "id": "a9721d05399a",
-      "title": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 23 Jan 2026 12:16:21 GMT",
-      "bullets": [
-        "• The items include a key from Mandela's prison and a pair of his shirts",
-        "• They were due to be exported to the US for $1.35 million",
-        "• The South African Heritage Resources Agency said they were part of the country's heritage",
-        "• They said the items were legally protected from export "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The items include a key from Mandela's prison and a pair of his shirts",
-          "• They were due to be exported to the US for $1.35 million"
-        ],
-        "hopeful_bullets": [
-          "• The items include a key from Mandela's prison and a pair of his shirts",
-          "• They were due to be exported to the US for $1.35 million"
-        ],
-        "stakes_bullets": [
-          "• The items include a key from Mandela's prison and a pair of his shirts",
-          "• They were due to be exported to the US for $1.35 million",
-          "• The South African Heritage Resources Agency said they were part of the country's heritage"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ac424e57afc6"
-    },
-    {
       "id": "0eabb68cc0ce",
       "title": "US braces for 'extremely dangerous' winter storm",
       "outlet": "BBC News",
@@ -6411,60 +6518,31 @@
       "url": "https://www.theguardian.com/world/2026/jan/23/venezuela-leaked-video-delcy-rodriguez-maduro",
       "published_at": "Fri, 23 Jan 2026 12:00:11 GMT",
       "bullets": [
-        "• The president of the United States has called for a halt to the rule of lawmaking in Venezuela",
-        "• He has been accused of being a dictator of his own country’s sovereignty",
-        "• The US government has refused to negotiate with the president of Venezuela and the Venezuelan government "
+        "• Leaked recording gives rare glimpse into workings of Venezuela’s Chavista regime",
+        "• It reveals how the rulers rushed to regain control of the narrative after Washington removed its figurehead",
+        "• It also reveals the surviving regime figures’ concerns that they would be branded traitors "
       ],
       "category": "World",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "positive",
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• The president of the United States has called for a halt to the rule of lawmaking in Venezuela",
-          "• He has been accused of being a dictator of his own country’s sovereignty"
+          "• Leaked recording gives rare glimpse into workings of Venezuela’s Chavista regime",
+          "• It reveals how the rulers rushed to regain control of the narrative after Washington removed its figurehead"
         ],
         "hopeful_bullets": [
-          "• The president of the United States has called for a halt to the rule of lawmaking in Venezuela",
-          "• He has been accused of being a dictator of his own country’s sovereignty"
+          "• Leaked recording gives rare glimpse into workings of Venezuela’s Chavista regime"
         ],
         "stakes_bullets": [
-          "• The president of the United States has called for a halt to the rule of lawmaking in Venezuela",
-          "• He has been accused of being a dictator of his own country’s sovereignty",
-          "• The US government has refused to negotiate with the president of Venezuela and the Venezuelan government "
+          "• Leaked recording gives rare glimpse into workings of Venezuela’s Chavista regime",
+          "• It reveals how the rulers rushed to regain control of the narrative after Washington removed its figurehead",
+          "• It also reveals the surviving regime figures’ concerns that they would be branded traitors "
         ]
       },
       "read_minutes": 4,
       "cluster_id": "570841403655"
-    },
-    {
-      "id": "83535719d89e",
-      "title": "CDC seeks to block ‘never use alone’ messaging used by overdose prevention groups",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/23/trump-cdc-overdose-prevention-messaging",
-      "published_at": "Fri, 23 Jan 2026 12:00:11 GMT",
-      "bullets": [
-        "• Officials at the Centers for Disease Control and Prevention suggested overdose-prevention funding recipients may no longer be allowed to promote the message to “never use alone” The July order “Ending Crime and Disorder on America’s Streets” prohibits federally funded “harm reduction” and “safe consumption” efforts "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Officials at the Centers for Disease Control and Prevention suggested overdose-prevention funding recipients may no longer be allowed to promote the message to “never use alone” The July order “Ending Crime and Disorder on America’s Streets” prohibits federally funded “harm reduction” and “safe consumption” efforts "
-        ],
-        "hopeful_bullets": [
-          "• Officials at the Centers for Disease Control and Prevention suggested overdose-prevention funding recipients may no longer be allowed to promote the message to “never use alone” The July order “Ending Crime and Disorder on America’s Streets” prohibits federally funded “harm reduction” and “safe consumption” efforts "
-        ],
-        "stakes_bullets": [
-          "• Officials at the Centers for Disease Control and Prevention suggested overdose-prevention funding recipients may no longer be allowed to promote the message to “never use alone” The July order “Ending Crime and Disorder on America’s Streets” prohibits federally funded “harm reduction” and “safe consumption” efforts "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e1bcb78faa01"
     },
     {
       "id": "6ead38e98d1a",
@@ -6532,74 +6610,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "199f8f0bca3b"
-    },
-    {
-      "id": "efc2ad6d8627",
-      "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
-      "published_at": "Fri, 23 Jan 2026 11:00:14 GMT",
-      "bullets": [
-        "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
-        "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule",
-        "• US health officials insisted it was still on "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
-          "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule"
-        ],
-        "hopeful_bullets": [
-          "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
-          "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule"
-        ],
-        "stakes_bullets": [
-          "• Guinea-Bissau is one of the poorest countries in the world and proposed site of a hotly debated US-funded study on vaccines",
-          "• The study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule",
-          "• US health officials insisted it was still on "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "ce67720abb6f"
-    },
-    {
-      "id": "15534162a955",
-      "title": "149 Million Usernames and Passwords Exposed by Unsecured Database",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/149-million-stolen-usernames-passwords/",
-      "published_at": "Fri, 23 Jan 2026 11:00:00 +0000",
-      "bullets": [
-        "• A researcher found 149 million account usernames and passwords for social networks and government systems",
-        "• The database was hosted by a service that violated terms-of-service agreement",
-        "• The researcher suspects that the database had been assembled by infostealing malware "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A researcher found 149 million account usernames and passwords for social networks and government systems",
-          "• The database was hosted by a service that violated terms-of-service agreement"
-        ],
-        "hopeful_bullets": [
-          "• A researcher found 149 million account usernames and passwords for social networks and government systems",
-          "• The database was hosted by a service that violated terms-of-service agreement"
-        ],
-        "stakes_bullets": [
-          "• A researcher found 149 million account usernames and passwords for social networks and government systems",
-          "• The database was hosted by a service that violated terms-of-service agreement",
-          "• The researcher suspects that the database had been assembled by infostealing malware "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5e7303dbbb17"
     },
     {
       "id": "314553c98f75",
@@ -6697,39 +6707,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "28cd97b3641b"
-    },
-    {
-      "id": "1094200d8638",
-      "title": "Pakistan mall fire death toll jumps to 67",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy11485jeno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 23 Jan 2026 10:40:06 GMT",
-      "bullets": [
-        "• Police confirm death toll at Gul Plaza in Karachi, Pakistan, has risen to 67",
-        "• 77 people are reported as missing by their families, police say",
-        "• The fire engulfed the shopping centre on Saturday evening, taking more than 24 hours to put out",
-        "• The cause of the fire is still unknown, but witnesses say it was a lack of working fire exits "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Police confirm death toll at Gul Plaza in Karachi, Pakistan, has risen to 67",
-          "• 77 people are reported as missing by their families, police say"
-        ],
-        "hopeful_bullets": [
-          "• Police confirm death toll at Gul Plaza in Karachi, Pakistan, has risen to 67",
-          "• 77 people are reported as missing by their families, police say"
-        ],
-        "stakes_bullets": [
-          "• The cause of the fire is still unknown, but witnesses say it was a lack of working fire exits "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3c820f930a98"
     },
     {
       "id": "c719b57f6945",
@@ -7094,38 +7071,6 @@
       "cluster_id": "72263da466ef"
     },
     {
-      "id": "f7266ad0f39e",
-      "title": "Trump withdraws Canada's invitation to  Board of Peace",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 23 Jan 2026 05:16:46 GMT",
-      "bullets": [
-        "• Trump withdraws invitation for Canada to join his newly constituted Board of Peace",
-        "• The board is being billed by the US as a new international organisation for resolving conflicts",
-        "• Canada indicated last week that while it would not pay to be on the board, it would join "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump withdraws invitation for Canada to join his newly constituted Board of Peace",
-          "• The board is being billed by the US as a new international organisation for resolving conflicts"
-        ],
-        "hopeful_bullets": [
-          "• Trump withdraws invitation for Canada to join his newly constituted Board of Peace",
-          "• The board is being billed by the US as a new international organisation for resolving conflicts"
-        ],
-        "stakes_bullets": [
-          "• The board is being billed by the US as a new international organisation for resolving conflicts"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6851a50b5d90"
-    },
-    {
       "id": "cc826b85330c",
       "title": "How cuts to federal climate funds could threaten polar vortex research",
       "outlet": "NPR Topics: News",
@@ -7158,39 +7103,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f7e863bf7381"
-    },
-    {
-      "id": "fe7ce13054e8",
-      "title": "How President Trump has challenged a constitutional foundation",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/23/g-s1-106562/trump-democracy-constitution-executive-power",
-      "published_at": "Fri, 23 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
-        "• Critics say that these moves are unprecedented in U.S",
-        "• history and that he has pushed the U.K",
-        "• toward authoritarianism "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
-          "• Critics say that these moves are unprecedented in U.S"
-        ],
-        "hopeful_bullets": [
-          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
-          "• Critics say that these moves are unprecedented in U.S"
-        ],
-        "stakes_bullets": [
-          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4fe72395c231"
     },
     {
       "id": "887a5dd2da3a",
@@ -7364,6 +7276,39 @@
       "cluster_id": "a84c548d386b"
     },
     {
+      "id": "fe7ce13054e8",
+      "title": "How President Trump has challenged a constitutional foundation",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/23/g-s1-106562/trump-democracy-constitution-executive-power",
+      "published_at": "Fri, 23 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
+        "• Critics say that these moves are unprecedented in U.S",
+        "• history and that he has pushed the U.K",
+        "• toward authoritarianism "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
+          "• Critics say that these moves are unprecedented in U.S"
+        ],
+        "hopeful_bullets": [
+          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
+          "• Critics say that these moves are unprecedented in U.S"
+        ],
+        "stakes_bullets": [
+          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4fe72395c231"
+    },
+    {
       "id": "38907ee2a354",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -7526,36 +7471,36 @@
     },
     {
       "id": "35ca552d33d8",
-      "title": "Listen to Harry Styles’ New Song “Aperture”",
+      "title": "Harry Styles Releases “Aperture” Video",
       "outlet": "RSS: News",
       "url": "https://pitchfork.com/news/listen-to-harry-styles-new-song-aperture/",
       "published_at": "Fri, 23 Jan 2026 00:04:37 +0000",
       "bullets": [
-        "• Harry Styles has a new song out",
-        "• \"Aperture\" is the lead single from his fourth album",
-        "• The full album Kiss All the Time is out March 6",
-        "• It's the same album Styles' most recent solo album, Harry’s House "
+        "• Harry Styles has released a new song and music video",
+        "• \"Aperture\" is the lead single from his fourth album Kiss All the Time",
+        "• The full album is out March 6",
+        "• He has also announced a 30-night residency at New York's Madison Square Garden "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.981
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• Harry Styles has a new song out",
-          "• \"Aperture\" is the lead single from his fourth album"
+          "• Harry Styles has released a new song and music video",
+          "• \"Aperture\" is the lead single from his fourth album Kiss All the Time"
         ],
         "hopeful_bullets": [
-          "• Harry Styles has a new song out",
-          "• \"Aperture\" is the lead single from his fourth album"
+          "• Harry Styles has released a new song and music video",
+          "• \"Aperture\" is the lead single from his fourth album Kiss All the Time"
         ],
         "stakes_bullets": [
-          "• \"Aperture\" is the lead single from his fourth album"
+          "• \"Aperture\" is the lead single from his fourth album Kiss All the Time"
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "b2720a6a46ab"
+      "cluster_id": "f2bba804faa7"
     },
     {
       "id": "d9567017a64f",
@@ -7955,15 +7900,77 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "96885c03d972",
+      "title": "Hang on, there’s a Trump Phone Ultra coming too?",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview",
+      "published_at": "2026-01-23T12:27:22-05:00",
+      "bullets": [
+        "• The Trump Phone may be no more than a whisper in the wind, but Trump Mobile is already planning a second",
+        "• One of the company’s top executives revealed in an interview that a “T1 Ultra” is also in the works "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Trump Phone may be no more than a whisper in the wind, but Trump Mobile is already planning a second",
+          "• One of the company’s top executives revealed in an interview that a “T1 Ultra” is also in the works "
+        ],
+        "hopeful_bullets": [
+          "• The Trump Phone may be no more than a whisper in the wind, but Trump Mobile is already planning a second"
+        ],
+        "stakes_bullets": [
+          "• The Trump Phone may be no more than a whisper in the wind, but Trump Mobile is already planning a second",
+          "• One of the company’s top executives revealed in an interview that a “T1 Ultra” is also in the works "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "06aac3570b5f"
+    },
+    {
+      "id": "b01e63b4bca8",
+      "title": "Marshall’s new hub connects to multiple Bluetooth speakers without pairing",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers",
+      "published_at": "2026-01-23T11:54:01-05:00",
+      "bullets": [
+        "• Marshall has announced a new music streaming hub called the Heddon that can broadcast to multiple speakers using the Bluetooth Auracast feature",
+        "• Similar to Sennheiser’s BTA1 TV Transmitter announced earlier this week, the new hub doesn’t require wireless audio devices to go through a pairing process to stream audio "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.864
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marshall has announced a new music streaming hub called the Heddon that can broadcast to multiple speakers using the Bluetooth Auracast feature",
+          "• Similar to Sennheiser’s BTA1 TV Transmitter announced earlier this week, the new hub doesn’t require wireless audio devices to go through a pairing process to stream audio "
+        ],
+        "hopeful_bullets": [
+          "• Marshall has announced a new music streaming hub called the Heddon that can broadcast to multiple speakers using the Bluetooth Auracast feature",
+          "• Similar to Sennheiser’s BTA1 TV Transmitter announced earlier this week, the new hub doesn’t require wireless audio devices to go through a pairing process to stream audio "
+        ],
+        "stakes_bullets": [
+          "• Similar to Sennheiser’s BTA1 TV Transmitter announced earlier this week, the new hub doesn’t require wireless audio devices to go through a pairing process to stream audio "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4abc02392ec2"
+    },
+    {
       "id": "9e4789836838",
       "title": "Today only, you can buy the AirPods Pro 3 for less than $200",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale",
       "published_at": "2026-01-23T11:40:56-05:00",
       "bullets": [
-        "• Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off), matching their all-time low",
-        "• The AirPods Pro 3 also feature a new XXS ear tip size and a more robust IP57 sweat and water resistance rating, making them better suited for workouts",
-        "• Plus, we found deals on Super Mario Bros and the Amazon Smart Thermostat "
+        "• Today only, Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off) Plus, we found deals on Super Mario Bros",
+        "• and the Amazon Smart Thermostat",
+        "• The AirPods Pro 3 also feature a new XXS ear tip size and a more robust IP57 sweat and water resistance rating, making them better suited for workouts "
       ],
       "category": "Technology",
       "sentiment": {
@@ -7972,17 +7979,17 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off), matching their all-time low",
-          "• The AirPods Pro 3 also feature a new XXS ear tip size and a more robust IP57 sweat and water resistance rating, making them better suited for workouts"
+          "• Today only, Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off) Plus, we found deals on Super Mario Bros",
+          "• and the Amazon Smart Thermostat"
         ],
         "hopeful_bullets": [
-          "• Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off), matching their all-time low",
-          "• The AirPods Pro 3 also feature a new XXS ear tip size and a more robust IP57 sweat and water resistance rating, making them better suited for workouts"
+          "• Today only, Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off) Plus, we found deals on Super Mario Bros",
+          "• and the Amazon Smart Thermostat"
         ],
         "stakes_bullets": [
-          "• Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off), matching their all-time low",
-          "• The AirPods Pro 3 also feature a new XXS ear tip size and a more robust IP57 sweat and water resistance rating, making them better suited for workouts",
-          "• Plus, we found deals on Super Mario Bros and the Amazon Smart Thermostat "
+          "• Today only, Best Buy is selling the noise-canceling earbuds for $199.99 ($50 off) Plus, we found deals on Super Mario Bros",
+          "• and the Amazon Smart Thermostat",
+          "• The AirPods Pro 3 also feature a new XXS ear tip size and a more robust IP57 sweat and water resistance rating, making them better suited for workouts "
         ]
       },
       "read_minutes": 2,
@@ -8214,71 +8221,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "35dfe255f152"
-    },
-    {
-      "id": "2aea79232312",
-      "title": "Google won’t stop replacing our news headlines with terrible AI",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
-      "published_at": "2026-01-23T07:00:00-05:00",
-      "bullets": [
-        "• Google now says its AI headlines in Google Discover are a feature that “performs well for user satisfaction’s” I once again see lots of misleading claims every time I check my phone",
-        "• These AI headlines are akin to a bookstore replacing the covers of the books it puts on display "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.892
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Google now says its AI headlines in Google Discover are a feature that “performs well for user satisfaction’s” I once again see lots of misleading claims every time I check my phone",
-          "• These AI headlines are akin to a bookstore replacing the covers of the books it puts on display "
-        ],
-        "hopeful_bullets": [
-          "• Google now says its AI headlines in Google Discover are a feature that “performs well for user satisfaction’s” I once again see lots of misleading claims every time I check my phone",
-          "• These AI headlines are akin to a bookstore replacing the covers of the books it puts on display "
-        ],
-        "stakes_bullets": [
-          "• Google now says its AI headlines in Google Discover are a feature that “performs well for user satisfaction’s” I once again see lots of misleading claims every time I check my phone"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "9ad5c350ebc0"
-    },
-    {
-      "id": "f4a28348a67f",
-      "title": "Microsoft Paint can now make AI coloring books",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
-      "published_at": "2026-01-23T06:06:39-05:00",
-      "bullets": [
-        "• Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations",
-        "• The latter feature is aptly called “Coloring book,” and lets you make blank coloring templates in Paint based on a text prompt",
-        "• The feature is notably only available on Copilot Plus PCs, so it's more likely that Microsoft is exploring novel ways to make its AI-infused Windows 11 devices more marketable "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations",
-          "• The latter feature is aptly called “Coloring book,” and lets you make blank coloring templates in Paint based on a text prompt"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations",
-          "• The feature is notably only available on Copilot Plus PCs, so it's more likely that Microsoft is exploring novel ways to make its AI-infused Windows 11 devices more marketable "
-        ],
-        "stakes_bullets": [
-          "• Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations",
-          "• The latter feature is aptly called “Coloring book,” and lets you make blank coloring templates in Paint based on a text prompt",
-          "• The feature is notably only available on Copilot Plus PCs, so it's more likely that Microsoft is exploring novel ways to make its AI-infused Windows 11 devices more marketable "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "175b490c9392"
     },
     {
       "id": "c41ff758b36a",
@@ -8696,14 +8638,14 @@
       ]
     },
     {
-      "id": "dcd6ff5e73f3",
-      "topic": "ahead expectation high low",
+      "id": "7df022038ac3",
+      "topic": "expectation high low stake",
       "keywords": [
-        "ahead",
         "expectation",
         "high",
         "low",
         "stake",
+        "talk",
         "ukraine"
       ],
       "item_ids": [
@@ -8726,6 +8668,24 @@
       ],
       "item_ids": [
         "c89081b54766"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "39016061ff01",
+      "topic": "before fractured high spanish",
+      "keywords": [
+        "before",
+        "fractured",
+        "high",
+        "spanish",
+        "speed",
+        "track"
+      ],
+      "item_ids": [
+        "7055eade25bc"
       ],
       "outlets": [
         "BBC News"
@@ -8767,6 +8727,42 @@
       ]
     },
     {
+      "id": "3df1f33ea007",
+      "topic": "busines opportunitie pitche president",
+      "keywords": [
+        "busines",
+        "opportunitie",
+        "pitche",
+        "president",
+        "somaliland",
+        "trump"
+      ],
+      "item_ids": [
+        "cf4bd0aa483a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "6a8290a00b00",
+      "topic": "assault dropped iglesia investigation",
+      "keywords": [
+        "assault",
+        "dropped",
+        "iglesia",
+        "investigation",
+        "julio",
+        "sex"
+      ],
+      "item_ids": [
+        "fca56570821f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "ff0883b4550f",
       "topic": "australian beach canadian dead",
       "keywords": [
@@ -8797,63 +8793,6 @@
       ],
       "item_ids": [
         "1eff2715f5a9"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3c820f930a98",
-      "topic": "death fire jump mall",
-      "keywords": [
-        "death",
-        "fire",
-        "jump",
-        "mall",
-        "pakistan",
-        "toll"
-      ],
-      "item_ids": [
-        "1094200d8638"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "6851a50b5d90",
-      "topic": "board canada carney invitation",
-      "keywords": [
-        "board",
-        "canada",
-        "carney",
-        "invitation",
-        "peace",
-        "trump",
-        "withdraw"
-      ],
-      "item_ids": [
-        "f7266ad0f39e",
-        "a9bd662a2301"
-      ],
-      "outlets": [
-        "BBC News",
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ac424e57afc6",
-      "topic": "key mandela prison shirt",
-      "keywords": [
-        "key",
-        "mandela",
-        "prison",
-        "shirt",
-        "sold",
-        "sunglasse"
-      ],
-      "item_ids": [
-        "a9721d05399a"
       ],
       "outlets": [
         "BBC News"
@@ -9040,18 +8979,36 @@
       ]
     },
     {
-      "id": "da3a45c9a0a5",
-      "topic": "alleged contractor indicted leak",
+      "id": "8be55cf4f028",
+      "topic": "big climate proof storm",
       "keywords": [
-        "alleged",
-        "contractor",
-        "indicted",
-        "leak",
-        "pentagon",
-        "tied"
+        "big",
+        "climate",
+        "proof",
+        "storm",
+        "trump",
+        "winter"
       ],
       "item_ids": [
-        "b5549920cee3"
+        "7fedb9f2ef80"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0ca551ef7a9d",
+      "topic": "bizarre moment rife second",
+      "keywords": [
+        "bizarre",
+        "moment",
+        "rife",
+        "second",
+        "term",
+        "trump"
+      ],
+      "item_ids": [
+        "cb6ef1ad404a"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9070,6 +9027,24 @@
       ],
       "item_ids": [
         "c2688a8ba043"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "da3a45c9a0a5",
+      "topic": "alleged contractor indicted leak",
+      "keywords": [
+        "alleged",
+        "contractor",
+        "indicted",
+        "leak",
+        "pentagon",
+        "tied"
+      ],
+      "item_ids": [
+        "b5549920cee3"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9166,24 +9141,6 @@
       ]
     },
     {
-      "id": "e62c8accf451",
-      "topic": "accuse democratic lawmaker letting",
-      "keywords": [
-        "accuse",
-        "democratic",
-        "lawmaker",
-        "letting",
-        "trump",
-        "white"
-      ],
-      "item_ids": [
-        "c7e9e08a718d"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "3411486aaa4c",
       "topic": "fuel gilded pay play",
       "keywords": [
@@ -9196,24 +9153,6 @@
       ],
       "item_ids": [
         "0cfce7d41ca1"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "e1bcb78faa01",
-      "topic": "alone block cdc never",
-      "keywords": [
-        "alone",
-        "block",
-        "cdc",
-        "never",
-        "seek",
-        "use"
-      ],
-      "item_ids": [
-        "83535719d89e"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9268,23 +9207,6 @@
       ],
       "item_ids": [
         "cc826b85330c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "4fe72395c231",
-      "topic": "challenged constitutional foundation president",
-      "keywords": [
-        "challenged",
-        "constitutional",
-        "foundation",
-        "president",
-        "trump"
-      ],
-      "item_ids": [
-        "fe7ce13054e8"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9374,6 +9296,23 @@
       ],
       "item_ids": [
         "defab65f47f1"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "4fe72395c231",
+      "topic": "challenged constitutional foundation president",
+      "keywords": [
+        "challenged",
+        "constitutional",
+        "foundation",
+        "president",
+        "trump"
+      ],
+      "item_ids": [
+        "fe7ce13054e8"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9470,6 +9409,24 @@
       ]
     },
     {
+      "id": "f8c8b0e0df75",
+      "topic": "board carney invitation peace",
+      "keywords": [
+        "board",
+        "carney",
+        "invitation",
+        "peace",
+        "trump",
+        "withdraw"
+      ],
+      "item_ids": [
+        "a9bd662a2301"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "07fde6ab379c",
       "topic": "billion brex buying capital",
       "keywords": [
@@ -9482,24 +9439,6 @@
       ],
       "item_ids": [
         "d96ac7729572"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "0008b8e0eaf8",
-      "topic": "aca blue federal lapse",
-      "keywords": [
-        "aca",
-        "blue",
-        "federal",
-        "lapse",
-        "state",
-        "subsidie"
-      ],
-      "item_ids": [
-        "4413b7805baf"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9539,6 +9478,42 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "0be6137c9ff2",
+      "topic": "bankruptcy card collapse economist",
+      "keywords": [
+        "bankruptcy",
+        "card",
+        "collapse",
+        "economist",
+        "security",
+        "social"
+      ],
+      "item_ids": [
+        "ede5e18c915a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "77dbdc1f0b5e",
+      "topic": "cbp finding powered quantum",
+      "keywords": [
+        "cbp",
+        "finding",
+        "powered",
+        "quantum",
+        "sensor",
+        "want"
+      ],
+      "item_ids": [
+        "bca51004e5f7"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9702,21 +9677,39 @@
       ]
     },
     {
-      "id": "5e7303dbbb17",
-      "topic": "149 exposed million password",
+      "id": "06aac3570b5f",
+      "topic": "coming hang phone there",
       "keywords": [
-        "149",
-        "exposed",
-        "million",
-        "password",
-        "unsecured",
-        "username"
+        "coming",
+        "hang",
+        "phone",
+        "there",
+        "trump",
+        "ultra"
       ],
       "item_ids": [
-        "15534162a955"
+        "96885c03d972"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
+      ]
+    },
+    {
+      "id": "4abc02392ec2",
+      "topic": "bluetooth connect hub marshall",
+      "keywords": [
+        "bluetooth",
+        "connect",
+        "hub",
+        "marshall",
+        "multiple",
+        "speaker"
+      ],
+      "item_ids": [
+        "b01e63b4bca8"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -9854,42 +9847,6 @@
       ],
       "item_ids": [
         "090f14dff425"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9ad5c350ebc0",
-      "topic": "google headline replacing stop",
-      "keywords": [
-        "google",
-        "headline",
-        "replacing",
-        "stop",
-        "terrible",
-        "won"
-      ],
-      "item_ids": [
-        "2aea79232312"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "175b490c9392",
-      "topic": "book coloring make microsoft",
-      "keywords": [
-        "book",
-        "coloring",
-        "make",
-        "microsoft",
-        "now",
-        "paint"
-      ],
-      "item_ids": [
-        "f4a28348a67f"
       ],
       "outlets": [
         "The Verge"
@@ -10380,24 +10337,6 @@
       ]
     },
     {
-      "id": "2269beb3081d",
-      "topic": "astronaut bring crew nasa",
-      "keywords": [
-        "astronaut",
-        "bring",
-        "crew",
-        "nasa",
-        "rest",
-        "set"
-      ],
-      "item_ids": [
-        "a5a643e0a42c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "5cfc907df0f9",
       "topic": "health impact just long",
       "keywords": [
@@ -10410,6 +10349,24 @@
       ],
       "item_ids": [
         "ea2446435dc9"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "2269beb3081d",
+      "topic": "astronaut bring crew nasa",
+      "keywords": [
+        "astronaut",
+        "bring",
+        "crew",
+        "nasa",
+        "rest",
+        "set"
+      ],
+      "item_ids": [
+        "a5a643e0a42c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10760,24 +10717,6 @@
       ],
       "item_ids": [
         "29823c42f759"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "20b831fb411f",
-      "topic": "2025 carbon pollution previou",
-      "keywords": [
-        "2025",
-        "carbon",
-        "pollution",
-        "previou",
-        "reversal",
-        "rose"
-      ],
-      "item_ids": [
-        "c5a768d1e892"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11162,6 +11101,24 @@
       ]
     },
     {
+      "id": "7f8277f7452b",
+      "topic": "collectible dream eater horror",
+      "keywords": [
+        "collectible",
+        "dream",
+        "eater",
+        "horror",
+        "including",
+        "must"
+      ],
+      "item_ids": [
+        "7d9f63138b4b"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "9ca750bd7c66",
       "topic": "drop music rob rock",
       "keywords": [
@@ -11321,24 +11278,6 @@
       ],
       "item_ids": [
         "34c20fdd4f92"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "841628cbd35e",
-      "topic": "cafe clown now song",
-      "keywords": [
-        "cafe",
-        "clown",
-        "now",
-        "song",
-        "streaming",
-        "terrifier"
-      ],
-      "item_ids": [
-        "ee5fef476a85"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -11524,6 +11463,60 @@
       ]
     },
     {
+      "id": "439aade496de",
+      "topic": "acquire appofeniac edge film",
+      "keywords": [
+        "acquire",
+        "appofeniac",
+        "edge",
+        "film",
+        "magenta",
+        "thriller"
+      ],
+      "item_ids": [
+        "592af698c721"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
+      "id": "e7f9fbab0608",
+      "topic": "horror mike movie now",
+      "keywords": [
+        "horror",
+        "mike",
+        "movie",
+        "now",
+        "streaming",
+        "unmissable"
+      ],
+      "item_ids": [
+        "1f44b9cd07e3"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
+      "id": "d4e219be7485",
+      "topic": "bone delivered later scene",
+      "keywords": [
+        "bone",
+        "delivered",
+        "later",
+        "scene",
+        "temple",
+        "year"
+      ],
+      "item_ids": [
+        "6d8eb9ff63d5"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
       "id": "711d36cf30e5",
       "topic": "campy hand horror idle",
       "keywords": [
@@ -11626,60 +11619,6 @@
       ],
       "item_ids": [
         "f790e85147d9"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "3ebabf760b28",
-      "topic": "director exorcist looked traumatize",
-      "keywords": [
-        "director",
-        "exorcist",
-        "looked",
-        "traumatize",
-        "undertone",
-        "viewer"
-      ],
-      "item_ids": [
-        "7194d370c321"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "b20261084982",
-      "topic": "cream eli ice nasty",
-      "keywords": [
-        "cream",
-        "eli",
-        "ice",
-        "nasty",
-        "roth",
-        "tease"
-      ],
-      "item_ids": [
-        "ada77cabf328"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "bc8a0bbc4b6a",
-      "topic": "amy aunt because glady",
-      "keywords": [
-        "amy",
-        "aunt",
-        "because",
-        "glady",
-        "madigan",
-        "weapon"
-      ],
-      "item_ids": [
-        "7e1789df17db"
       ],
       "outlets": [
         "Dread Central"
@@ -12424,6 +12363,42 @@
       ]
     },
     {
+      "id": "b64fb26f0ce1",
+      "topic": "filmed monster murphy rome",
+      "keywords": [
+        "filmed",
+        "monster",
+        "murphy",
+        "rome",
+        "ryan",
+        "season"
+      ],
+      "item_ids": [
+        "3fd7a349a73a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "52c975bb7f85",
+      "topic": "anime naruto ninja underrated",
+      "keywords": [
+        "anime",
+        "naruto",
+        "ninja",
+        "underrated",
+        "well",
+        "written"
+      ],
+      "item_ids": [
+        "bc7cdfd95654"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "92de594bb877",
       "topic": "become bus hit lost",
       "keywords": [
@@ -12544,60 +12519,6 @@
       ],
       "item_ids": [
         "c27768e698df"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f48a305fb9f7",
-      "topic": "adam driver jurassic park",
-      "keywords": [
-        "adam",
-        "driver",
-        "jurassic",
-        "park",
-        "perfect",
-        "replacement"
-      ],
-      "item_ids": [
-        "0a2dda74e18d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3716d3c2e567",
-      "topic": "credit finale jackson percy",
-      "keywords": [
-        "credit",
-        "finale",
-        "jackson",
-        "percy",
-        "post",
-        "season"
-      ],
-      "item_ids": [
-        "987a02c3237b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0bc9161749b3",
-      "topic": "ball detail dragon make",
-      "keywords": [
-        "ball",
-        "detail",
-        "dragon",
-        "make",
-        "now",
-        "sense"
-      ],
-      "item_ids": [
-        "53a82ef44f0e"
       ],
       "outlets": [
         "CBR"
@@ -12782,6 +12703,24 @@
       ]
     },
     {
+      "id": "f98caa01c878",
+      "topic": "2026 every grammy guide",
+      "keywords": [
+        "2026",
+        "every",
+        "grammy",
+        "guide",
+        "party",
+        "ultimate"
+      ],
+      "item_ids": [
+        "87d2d534ea1a"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "70d0f83c0a38",
       "topic": "bassist buchholz franci hurricane",
       "keywords": [
@@ -12944,24 +12883,6 @@
       ]
     },
     {
-      "id": "c6a08f5cc9c0",
-      "topic": "best cave nick nominee",
-      "keywords": [
-        "best",
-        "cave",
-        "nick",
-        "nominee",
-        "oscar",
-        "song"
-      ],
-      "item_ids": [
-        "3312dc00a593"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
       "id": "8016aa4014e6",
       "topic": "album ari lennox listen",
       "keywords": [
@@ -12998,14 +12919,14 @@
       ]
     },
     {
-      "id": "b2720a6a46ab",
-      "topic": "aperture harry listen song",
+      "id": "f2bba804faa7",
+      "topic": "aperture harry release style",
       "keywords": [
         "aperture",
         "harry",
-        "listen",
-        "song",
-        "style"
+        "release",
+        "style",
+        "video"
       ],
       "item_ids": [
         "35ca552d33d8"
