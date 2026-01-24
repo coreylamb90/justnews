@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T07:15:27Z",
+  "generated_at": "2026-01-24T07:59:39Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -726,35 +726,36 @@
       "cluster_id": "4f261b904813"
     },
     {
-      "id": "a5a643e0a42c",
-      "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
+      "id": "ea2446435dc9",
+      "title": "The long-term health impacts from the LA wildfires are just becoming clear",
       "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
+      "url": "https://www.npr.org/2026/01/14/nx-s1-5630989/la-fires-health-impact-smoke",
       "published_at": "Wed, 14 Jan 2026 05:00:00 -0500",
       "bullets": [
-        "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-        "• This is the first medical evacuation of the International Space Station in its 25-year history "
+        "• The long-term health impacts from the LA wildfires are just becoming clear",
+        "• Researchers from Los Angeles and around the country scrambled into action as fires burned through the Pacific Palisades and Altadena",
+        "• They soon joined together to form a consortium that tied together 10 research institutions to explore some of the most pressing questions "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.968
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+          "• The long-term health impacts from the LA wildfires are just becoming clear",
+          "• Researchers from Los Angeles and around the country scrambled into action as fires burned through the Pacific Palisades and Altadena"
         ],
         "hopeful_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning",
-          "• This is the first medical evacuation of the International Space Station in its 25-year history "
+          "• The long-term health impacts from the LA wildfires are just becoming clear",
+          "• Researchers from Los Angeles and around the country scrambled into action as fires burned through the Pacific Palisades and Altadena"
         ],
         "stakes_bullets": [
-          "• Astronauts Zena Cardman and Mike Fincke, along with Russian cosmonaut Oleg Platonov and an astronaut from Japan named Kimiya Yui, are expected to splash down off the coast of California early Thursday morning"
+          "• The long-term health impacts from the LA wildfires are just becoming clear"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "2269beb3081d"
+      "read_minutes": 9,
+      "cluster_id": "5cfc907df0f9"
     },
     {
       "id": "8bc2e543862e",
@@ -2607,6 +2608,70 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "307a53906a19",
+      "title": "‘Unfathomable’: Australian veterans disgusted by Trump’s claim allied troops ‘stayed a little back’ from frontline",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
+      "published_at": "Sat, 24 Jan 2026 06:32:25 GMT",
+      "bullets": [
+        "• The president of the Returned and Armed Services League of Australia has slammed the decision to withdraw troops from Afghanistan",
+        "• He said it was “completely affronted’s as senseless as throwing paint on a piece of land and only serves to hurt.’"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The president of the Returned and Armed Services League of Australia has slammed the decision to withdraw troops from Afghanistan",
+          "• He said it was “completely affronted’s as senseless as throwing paint on a piece of land and only serves to hurt.’"
+        ],
+        "hopeful_bullets": [
+          "• He said it was “completely affronted’s as senseless as throwing paint on a piece of land and only serves to hurt.’"
+        ],
+        "stakes_bullets": [
+          "• The president of the Returned and Armed Services League of Australia has slammed the decision to withdraw troops from Afghanistan",
+          "• He said it was “completely affronted’s as senseless as throwing paint on a piece of land and only serves to hurt.’"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fd0835fedfe4"
+    },
+    {
+      "id": "337084fc6ad7",
+      "title": "I spent the week with tech CEOs. Here's what they're talking about",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/24/tech-davos-ai-agentic-robotics.html",
+      "published_at": "Sat, 24 Jan 2026 06:27:01 GMT",
+      "bullets": [
+        "• Businesses will be more selective with the type of AI they're adopting this year, says Dowson Tong, CEO of Tencent's cloud group",
+        "• Many companies were doing pilot projects with AI that didn't go into full production last year",
+        "• The approach will differ markedly from 2025, Tong says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Businesses will be more selective with the type of AI they're adopting this year, says Dowson Tong, CEO of Tencent's cloud group",
+          "• Many companies were doing pilot projects with AI that didn't go into full production last year"
+        ],
+        "hopeful_bullets": [
+          "• Businesses will be more selective with the type of AI they're adopting this year, says Dowson Tong, CEO of Tencent's cloud group",
+          "• Many companies were doing pilot projects with AI that didn't go into full production last year"
+        ],
+        "stakes_bullets": [
+          "• Businesses will be more selective with the type of AI they're adopting this year, says Dowson Tong, CEO of Tencent's cloud group",
+          "• The approach will differ markedly from 2025, Tong says "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ac9cecca6180"
+    },
+    {
       "id": "ebf3953fd8a5",
       "title": "TopResume Free Review, Discounts & Packages for 2026",
       "outlet": "WIRED",
@@ -2936,38 +3001,6 @@
       "cluster_id": "6792664fe63a"
     },
     {
-      "id": "307a53906a19",
-      "title": "‘Unfathomable’: Australian veterans disgusted by Trump’s claim allied troops ‘stayed a little back’ from frontline",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
-      "published_at": "Sat, 24 Jan 2026 04:29:02 GMT",
-      "bullets": [
-        "• The president of the Returned and Armed Services League of Australia has slammed the comments",
-        "• He said the families of those who died would be “completely affronted’ by the fact that they were not needed’s by the US government "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The president of the Returned and Armed Services League of Australia has slammed the comments",
-          "• He said the families of those who died would be “completely affronted’ by the fact that they were not needed’s by the US government "
-        ],
-        "hopeful_bullets": [
-          "• The president of the Returned and Armed Services League of Australia has slammed the comments",
-          "• He said the families of those who died would be “completely affronted’ by the fact that they were not needed’s by the US government "
-        ],
-        "stakes_bullets": [
-          "• The president of the Returned and Armed Services League of Australia has slammed the comments",
-          "• He said the families of those who died would be “completely affronted’ by the fact that they were not needed’s by the US government "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "fd0835fedfe4"
-    },
-    {
       "id": "399c106ffe68",
       "title": "10 Perfect Sega Genesis Games Nobody Remembers",
       "outlet": "CBR",
@@ -3076,29 +3109,30 @@
       "url": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 24 Jan 2026 03:55:30 GMT",
       "bullets": [
-        "• Hundreds of businesses close their doors in protest against immigration crackdown",
-        "• Organisers encouraged residents to skip work or school and refrain from shopping",
-        "• US Immigration and Customs Enforcement (ICE) operation has been going on for more than six weeks",
-        "• Hundreds of federal officers have been deployed to Minnesota as part of \"Operation Metro Surge\""
+        "• \"We want ICE out of Minnesota, with their extreme overrelict overreaches,\" says Minnesota official",
+        "• The federal government is trying to deport illegal immigrants from the U.S",
+        "• to the state of Minnesota",
+        "• The U.N",
+        "• government has been trying to get rid of the illegal immigrants in the state "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.969
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
-          "• Hundreds of businesses close their doors in protest against immigration crackdown",
-          "• Organisers encouraged residents to skip work or school and refrain from shopping"
+          "• \"We want ICE out of Minnesota, with their extreme overrelict overreaches,\" says Minnesota official",
+          "• The federal government is trying to deport illegal immigrants from the U.S"
         ],
         "hopeful_bullets": [
-          "• Hundreds of businesses close their doors in protest against immigration crackdown",
-          "• Hundreds of federal officers have been deployed to Minnesota as part of \"Operation Metro Surge\""
+          "• \"We want ICE out of Minnesota, with their extreme overrelict overreaches,\" says Minnesota official",
+          "• The federal government is trying to deport illegal immigrants from the U.S"
         ],
         "stakes_bullets": [
-          "• Hundreds of businesses close their doors in protest against immigration crackdown",
-          "• Organisers encouraged residents to skip work or school and refrain from shopping",
-          "• US Immigration and Customs Enforcement (ICE) operation has been going on for more than six weeks"
+          "• \"We want ICE out of Minnesota, with their extreme overrelict overreaches,\" says Minnesota official",
+          "• The federal government is trying to deport illegal immigrants from the U.S",
+          "• to the state of Minnesota"
         ]
       },
       "read_minutes": 4,
@@ -4625,6 +4659,38 @@
       "cluster_id": "cf70bffd7094"
     },
     {
+      "id": "6e1ac1c0ba2b",
+      "title": "Major winter storm may affect over 170 million Americans — how much it could cost you",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/23/winter-storm-and-your-money.html",
+      "published_at": "Fri, 23 Jan 2026 22:23:06 GMT",
+      "bullets": [
+        "• The National Weather Service says it expects a \"significant, long-duration winter storm\" to hit the U.S",
+        "• from Friday through Monday",
+        "• Heavy snow, sleet and freezing rain are expected to cause long-term damage to homes and businesses",
+        "• People should prepare for the storm, experts say "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The National Weather Service says it expects a \"significant, long-duration winter storm\" to hit the U.S",
+          "• from Friday through Monday"
+        ],
+        "hopeful_bullets": [
+          "• The National Weather Service says it expects a \"significant, long-duration winter storm\" to hit the U.S"
+        ],
+        "stakes_bullets": [
+          "• Heavy snow, sleet and freezing rain are expected to cause long-term damage to homes and businesses"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a7c39f0581c8"
+    },
+    {
       "id": "0b6fa6354a56",
       "title": "Slipknot Dismiss Suit Against Slipknot.com",
       "outlet": "Music News",
@@ -5648,41 +5714,6 @@
       "cluster_id": "41d370c5f16e"
     },
     {
-      "id": "9638465514df",
-      "title": "Iran is not a major oil producer, but it still moves prices. Here's why",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/23/iran-protests-why-oil-markets-care-so-much-about-the-country.html",
-      "published_at": "Fri, 23 Jan 2026 18:55:50 GMT",
-      "bullets": [
-        "• Oil prices rise as tensions between Iran and the U.S",
-        "• escalate",
-        "• Iran is not a major oil producer, but it has been rocked by a wave of anti-government protests",
-        "• President Donald Trump has threatened to take military action against Iran",
-        "• Oil markets are moving on fear, an analyst says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.755
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Oil prices rise as tensions between Iran and the U.S",
-          "• escalate"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump has threatened to take military action against Iran"
-        ],
-        "stakes_bullets": [
-          "• Oil prices rise as tensions between Iran and the U.S",
-          "• escalate",
-          "• Iran is not a major oil producer, but it has been rocked by a wave of anti-government protests"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6aab901e10ed"
-    },
-    {
       "id": "5136faeacbdb",
       "title": "FOUND TV to Debut Human Hibachi 3: The Last Supper as a World Premiere",
       "outlet": "HorrorFix",
@@ -6140,38 +6171,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7dd44baad4c6"
-    },
-    {
-      "id": "e1057fa588f9",
-      "title": "Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html",
-      "published_at": "Fri, 23 Jan 2026 18:14:38 GMT",
-      "bullets": [
-        "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
-        "• Zhao was released in September 2024; he remains a major shareholder of Binance",
-        "• Trump's pardon in October 2025 drew attention to Binance's ties to World Liberty Financial, a crypto company founded by president's family "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.5
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
-          "• Zhao was released in September 2024; he remains a major shareholder of Binance"
-        ],
-        "hopeful_bullets": [
-          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering",
-          "• Zhao was released in September 2024; he remains a major shareholder of Binance"
-        ],
-        "stakes_bullets": [
-          "• Binance founder Changpeng \"CZ\" Zhao served four months in prison after pleading guilty in 2023 to charges he enabled money laundering"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ea09f98119f3"
     },
     {
       "id": "7b6e10b2afec",
@@ -8772,7 +8771,7 @@
           "• Soft images and imperfections are often a big part of the allure of the old-school instant camera "
         ]
       },
-      "read_minutes": 24,
+      "read_minutes": 23,
       "cluster_id": "f24410b9a3ea"
     },
     {
@@ -8834,7 +8833,7 @@
           "• Similar to Sennheiser’s BTA1 TV Transmitter announced earlier this week, the new hub doesn’t require wireless audio devices to go through a pairing process to stream audio "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "4abc02392ec2"
     },
     {
@@ -10006,6 +10005,24 @@
       ]
     },
     {
+      "id": "ac9cecca6180",
+      "topic": "ceos here spent talking",
+      "keywords": [
+        "ceos",
+        "here",
+        "spent",
+        "talking",
+        "tech",
+        "week"
+      ],
+      "item_ids": [
+        "337084fc6ad7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "6f4b602d99a7",
       "topic": "braced credit meltdown private",
       "keywords": [
@@ -10114,60 +10131,6 @@
       ]
     },
     {
-      "id": "32a56fd1883e",
-      "topic": "agriculture gillibrand kirsten optimistic",
-      "keywords": [
-        "agriculture",
-        "gillibrand",
-        "kirsten",
-        "optimistic",
-        "sen",
-        "senate"
-      ],
-      "item_ids": [
-        "1df6322740a3"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6aab901e10ed",
-      "topic": "iran major move oil",
-      "keywords": [
-        "iran",
-        "major",
-        "move",
-        "oil",
-        "producer",
-        "still"
-      ],
-      "item_ids": [
-        "9638465514df"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ea09f98119f3",
-      "topic": "binance busines founder pardoned",
-      "keywords": [
-        "binance",
-        "busines",
-        "founder",
-        "pardoned",
-        "relationship",
-        "zhao"
-      ],
-      "item_ids": [
-        "e1057fa588f9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "66ccb9eeb058",
       "topic": "000 airline cancel flight",
       "keywords": [
@@ -10180,6 +10143,42 @@
       ],
       "item_ids": [
         "db69ab643581"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a7c39f0581c8",
+      "topic": "170 affect major million",
+      "keywords": [
+        "170",
+        "affect",
+        "major",
+        "million",
+        "storm",
+        "winter"
+      ],
+      "item_ids": [
+        "6e1ac1c0ba2b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "32a56fd1883e",
+      "topic": "agriculture gillibrand kirsten optimistic",
+      "keywords": [
+        "agriculture",
+        "gillibrand",
+        "kirsten",
+        "optimistic",
+        "sen",
+        "senate"
+      ],
+      "item_ids": [
+        "1df6322740a3"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11042,18 +11041,18 @@
       ]
     },
     {
-      "id": "2269beb3081d",
-      "topic": "astronaut bring crew nasa",
+      "id": "5cfc907df0f9",
+      "topic": "health impact just long",
       "keywords": [
-        "astronaut",
-        "bring",
-        "crew",
-        "nasa",
-        "rest",
-        "set"
+        "health",
+        "impact",
+        "just",
+        "long",
+        "term",
+        "wildfire"
       ],
       "item_ids": [
-        "a5a643e0a42c"
+        "ea2446435dc9"
       ],
       "outlets": [
         "NPR Topics: Science"
