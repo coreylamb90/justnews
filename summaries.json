@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T04:21:51Z",
+  "generated_at": "2026-01-24T05:13:49Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2047,40 +2047,6 @@
       "cluster_id": "91ed1fde89b6"
     },
     {
-      "id": "5179a5a2ec2a",
-      "title": "NASA astronaut Suni Williams retires after 608 days in space and nine spacewalks",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260122032004.htm",
-      "published_at": "Thu, 22 Jan 2026 04:11:44 EST",
-      "bullets": [
-        "• NASA astronaut Suni Williams retires after 27 years of service and a career defined by endurance, leadership, and firsts in space",
-        "• Williams spent 608 days in space, completed nine spacewalks, and twice commanded the International Space Station",
-        "• Williams flew on everything from the space shuttle to Boeingâs Starliner "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NASA astronaut Suni Williams retires after 27 years of service and a career defined by endurance, leadership, and firsts in space",
-          "• Williams spent 608 days in space, completed nine spacewalks, and twice commanded the International Space Station"
-        ],
-        "hopeful_bullets": [
-          "• NASA astronaut Suni Williams retires after 27 years of service and a career defined by endurance, leadership, and firsts in space",
-          "• Williams spent 608 days in space, completed nine spacewalks, and twice commanded the International Space Station"
-        ],
-        "stakes_bullets": [
-          "• NASA astronaut Suni Williams retires after 27 years of service and a career defined by endurance, leadership, and firsts in space",
-          "• Williams spent 608 days in space, completed nine spacewalks, and twice commanded the International Space Station",
-          "• Williams flew on everything from the space shuttle to Boeingâs Starliner "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bd0e13cf4ca1"
-    },
-    {
       "id": "6689cb054e2c",
       "title": "As winter storm approaches, Texas officials say the state is ready, won’t repeat 2021 catastrophe",
       "outlet": "The Texas Tribune",
@@ -2642,6 +2608,104 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "b08ce36bfe60",
+      "title": "The 15 Worst DC Character Redesigns, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dc-worst-character-redesigns/",
+      "published_at": "Sat, 24 Jan 2026 04:58:51 GMT",
+      "bullets": [
+        "• The list of the worst DC character costume redesigns of all-time has been updated by adding five more entries to the list",
+        "• I might not necessarily agree with the top ten, but I agree with most of them, so I'll just leave it as is "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The list of the worst DC character costume redesigns of all-time has been updated by adding five more entries to the list",
+          "• I might not necessarily agree with the top ten, but I agree with most of them, so I'll just leave it as is "
+        ],
+        "hopeful_bullets": [
+          "• The list of the worst DC character costume redesigns of all-time has been updated by adding five more entries to the list",
+          "• I might not necessarily agree with the top ten, but I agree with most of them, so I'll just leave it as is "
+        ],
+        "stakes_bullets": [
+          "• The list of the worst DC character costume redesigns of all-time has been updated by adding five more entries to the list",
+          "• I might not necessarily agree with the top ten, but I agree with most of them, so I'll just leave it as is "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "b6dd6e2c3f23"
+    },
+    {
+      "id": "6bbe11cb5b7b",
+      "title": "Neon Genesis Evangelion's Biggest Flaw is Shinji Hikari",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/neon-genesis-evangelion-shinji-ikari-biggest-flaw/",
+      "published_at": "Sat, 24 Jan 2026 04:45:12 GMT",
+      "bullets": [
+        "• Neon Genesis Evangelion earns its reputation because almost every part of it works in harmony",
+        "• The story instills fear, not only in action, but in the quiet moments as well",
+        "• The show treats its world like a place with rules",
+        "• The Angels feel strange and threatening, not like typical monster antagonists",
+        "• Each opponent forces a new plan, a new tactic, or a new cost "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Neon Genesis Evangelion earns its reputation because almost every part of it works in harmony",
+          "• The story instills fear, not only in action, but in the quiet moments as well"
+        ],
+        "hopeful_bullets": [
+          "• Neon Genesis Evangelion earns its reputation because almost every part of it works in harmony",
+          "• The story instills fear, not only in action, but in the quiet moments as well"
+        ],
+        "stakes_bullets": [
+          "• Neon Genesis Evangelion earns its reputation because almost every part of it works in harmony",
+          "• Each opponent forces a new plan, a new tactic, or a new cost "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "562e7a4bdd72"
+    },
+    {
+      "id": "abfca515b14b",
+      "title": "Taron Egerton's The Kingsman Franchise Deserves a Resurrection",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/taron-egerton-kingsman-return/",
+      "published_at": "Sat, 24 Jan 2026 04:30:12 GMT",
+      "bullets": [
+        "• 2014's Kingsman: The Secret Service was the surprise hit of the year, launching a new spy-thriller franchise that aimed to become a full-fledged cinematic universe that could rival the likes of the James Bond and Mission: Impossible movies",
+        "• The sequel's overly ridiculous nature, frustrating retcons, and franchise-bait plot points left a sour taste for its fans "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.93
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 2014's Kingsman: The Secret Service was the surprise hit of the year, launching a new spy-thriller franchise that aimed to become a full-fledged cinematic universe that could rival the likes of the James Bond and Mission: Impossible movies",
+          "• The sequel's overly ridiculous nature, frustrating retcons, and franchise-bait plot points left a sour taste for its fans "
+        ],
+        "hopeful_bullets": [
+          "• 2014's Kingsman: The Secret Service was the surprise hit of the year, launching a new spy-thriller franchise that aimed to become a full-fledged cinematic universe that could rival the likes of the James Bond and Mission: Impossible movies",
+          "• The sequel's overly ridiculous nature, frustrating retcons, and franchise-bait plot points left a sour taste for its fans "
+        ],
+        "stakes_bullets": [
+          "• 2014's Kingsman: The Secret Service was the surprise hit of the year, launching a new spy-thriller franchise that aimed to become a full-fledged cinematic universe that could rival the likes of the James Bond and Mission: Impossible movies"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6792664fe63a"
+    },
+    {
       "id": "399c106ffe68",
       "title": "10 Perfect Sega Genesis Games Nobody Remembers",
       "outlet": "CBR",
@@ -2776,6 +2840,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "b50311c3aad2"
+    },
+    {
+      "id": "6841af20607e",
+      "title": "Danish PM in Greenland for 'show of support' after Trump threats",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 24 Jan 2026 03:52:40 GMT",
+      "bullets": [
+        "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
+        "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday",
+        "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
+          "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday"
+        ],
+        "hopeful_bullets": [
+          "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
+        ],
+        "stakes_bullets": [
+          "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
+          "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday",
+          "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3b264eb204d8"
     },
     {
       "id": "615b2f14d314",
@@ -2945,39 +3042,6 @@
       "cluster_id": "ecdad2ad3a10"
     },
     {
-      "id": "b50bb1f6bc6e",
-      "title": "Dragon Ball Officially Eliminates Vegeta in First Worldwide Top 5 Character Ranking",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-most-popular-character-final-ranking-2026/",
-      "published_at": "Sat, 24 Jan 2026 03:14:35 GMT",
-      "bullets": [
-        "• Dragon Ball has revealed the single most popular Dragon Ball character in the world, according to a new survey",
-        "• The poll was held in an elimination style, starting with 212 characters from Akira Toriyama’s Dragon Ball manga",
-        "• The final voting period was held from 12/17-12/26, 2025, narrowing this to the top 21 most popular characters "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dragon Ball has revealed the single most popular Dragon Ball character in the world, according to a new survey",
-          "• The poll was held in an elimination style, starting with 212 characters from Akira Toriyama’s Dragon Ball manga"
-        ],
-        "hopeful_bullets": [
-          "• The final voting period was held from 12/17-12/26, 2025, narrowing this to the top 21 most popular characters "
-        ],
-        "stakes_bullets": [
-          "• Dragon Ball has revealed the single most popular Dragon Ball character in the world, according to a new survey",
-          "• The poll was held in an elimination style, starting with 212 characters from Akira Toriyama’s Dragon Ball manga",
-          "• The final voting period was held from 12/17-12/26, 2025, narrowing this to the top 21 most popular characters "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "608a6951c8a3"
-    },
-    {
       "id": "c2688a8ba043",
       "title": "Federal prosecutors reportedly blocked from investigating Renee Good’s killing – as it happened",
       "outlet": "US news | The Guardian",
@@ -3009,76 +3073,6 @@
       },
       "read_minutes": 25,
       "cluster_id": "268ca5d5ea6d"
-    },
-    {
-      "id": "5523e088ad72",
-      "title": "5 A Knight of the Seven Kingdom Premiere Scenes That Confirm It's Game of Thrones' Best Show",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/a-knight-of-the-seven-kingdom-scenes-best-game-of-thrones-show/",
-      "published_at": "Sat, 24 Jan 2026 03:00:23 GMT",
-      "bullets": [
-        "• A Knight of the Seven Kingdoms is based on the Tales of Dunk and Egg series by George R.R",
-        "• Martin",
-        "• The second Game of Thrones spinoff, after House of the Dragon, is very different from the other two shows that are set in Westeros",
-        "• There are already some amazing scenes in the premiere episode that prove this series is the best "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Knight of the Seven Kingdoms is based on the Tales of Dunk and Egg series by George R.R",
-          "• Martin"
-        ],
-        "hopeful_bullets": [
-          "• A Knight of the Seven Kingdoms is based on the Tales of Dunk and Egg series by George R.R",
-          "• Martin"
-        ],
-        "stakes_bullets": [
-          "• A Knight of the Seven Kingdoms is based on the Tales of Dunk and Egg series by George R.R",
-          "• Martin",
-          "• The second Game of Thrones spinoff, after House of the Dragon, is very different from the other two shows that are set in Westeros"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "458c589beb1e"
-    },
-    {
-      "id": "38b18ec1c6a5",
-      "title": "Steam Users Have Until January 26 to Play Free Open World Game",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/steam-free-games-this-week-january-open-world-pax-dei/",
-      "published_at": "Sat, 24 Jan 2026 02:45:12 GMT",
-      "bullets": [
-        "• Pax Dei is an open-world sandbox MMO set in the medieval era",
-        "• It's free-to-play on Steam until January 26",
-        "• The game lets players visit a medieval world inspired by fantasy stories and explore it in their own way",
-        "• Players can craft all the tools they need at the game's many crafting stations "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pax Dei is an open-world sandbox MMO set in the medieval era",
-          "• It's free-to-play on Steam until January 26"
-        ],
-        "hopeful_bullets": [
-          "• Pax Dei is an open-world sandbox MMO set in the medieval era",
-          "• It's free-to-play on Steam until January 26"
-        ],
-        "stakes_bullets": [
-          "• Pax Dei is an open-world sandbox MMO set in the medieval era",
-          "• It's free-to-play on Steam until January 26",
-          "• The game lets players visit a medieval world inspired by fantasy stories and explore it in their own way"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ab660c8a8689"
     },
     {
       "id": "fb977e29624e",
@@ -4042,6 +4036,37 @@
       },
       "read_minutes": 1,
       "cluster_id": "e1bcc252e768"
+    },
+    {
+      "id": "0490ec6b30ea",
+      "title": "Ancient giant kangaroos could hop after all",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260123225925.htm",
+      "published_at": "Fri, 23 Jan 2026 23:21:29 EST",
+      "bullets": [
+        "• Ancient giant kangaroos that lived during the Ice Age may not have been as slow and grounded as once believed",
+        "• Study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size",
+        "• This ability could have played a key role in escaping predators "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.756
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ancient giant kangaroos that lived during the Ice Age may not have been as slow and grounded as once believed",
+          "• Study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size"
+        ],
+        "hopeful_bullets": [
+          "• Study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size"
+        ],
+        "stakes_bullets": [
+          "• This ability could have played a key role in escaping predators "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "63658e367d59"
     },
     {
       "id": "8280f2ec989b",
@@ -5223,39 +5248,6 @@
       "cluster_id": "7d61c95f5673"
     },
     {
-      "id": "6841af20607e",
-      "title": "Danish PM in Greenland for 'show of support' after Trump threats",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 23 Jan 2026 19:25:27 GMT",
-      "bullets": [
-        "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
-        "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday",
-        "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
-          "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday"
-        ],
-        "hopeful_bullets": [
-          "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
-        ],
-        "stakes_bullets": [
-          "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
-          "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday",
-          "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3b264eb204d8"
-    },
-    {
       "id": "c938f201974a",
       "title": "RETURN TO SILENT HILL Video Interview with Christophe Gans",
       "outlet": "Daily Dead",
@@ -6062,12 +6054,12 @@
       "bullets": [
         "• The 68th Grammy Awards will be broadcast live on Sunday, Feb",
         "• 1st from the Crypto.com Arena in Los Angeles",
-        "• A-list musicians, celebrities, and industry legends will descend on Los Angeles in the week-long lead-up to the Grammys "
+        "• A-list musicians, celebrities, and industry legends will descend on Los Angeles in the week-long lead up to Music’s Biggest Night "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
@@ -6079,10 +6071,10 @@
         ],
         "stakes_bullets": [
           "• The 68th Grammy Awards will be broadcast live on Sunday, Feb",
-          "• A-list musicians, celebrities, and industry legends will descend on Los Angeles in the week-long lead-up to the Grammys "
+          "• A-list musicians, celebrities, and industry legends will descend on Los Angeles in the week-long lead up to Music’s Biggest Night "
         ]
       },
-      "read_minutes": 10,
+      "read_minutes": 11,
       "cluster_id": "f98caa01c878"
     },
     {
@@ -10726,6 +10718,23 @@
       ]
     },
     {
+      "id": "63658e367d59",
+      "topic": "all ancient giant hop",
+      "keywords": [
+        "all",
+        "ancient",
+        "giant",
+        "hop",
+        "kangaroo"
+      ],
+      "item_ids": [
+        "0490ec6b30ea"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "9a863578ff75",
       "topic": "advantage genetic help people",
       "keywords": [
@@ -10881,24 +10890,6 @@
       ],
       "item_ids": [
         "cf003f60e348"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "bd0e13cf4ca1",
-      "topic": "608 astronaut nasa retire",
-      "keywords": [
-        "608",
-        "astronaut",
-        "nasa",
-        "retire",
-        "suni",
-        "william"
-      ],
-      "item_ids": [
-        "5179a5a2ec2a"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -13405,6 +13396,58 @@
       ]
     },
     {
+      "id": "b6dd6e2c3f23",
+      "topic": "character ranked redesign worst",
+      "keywords": [
+        "character",
+        "ranked",
+        "redesign",
+        "worst"
+      ],
+      "item_ids": [
+        "b08ce36bfe60"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "562e7a4bdd72",
+      "topic": "biggest evangelion flaw genesi",
+      "keywords": [
+        "biggest",
+        "evangelion",
+        "flaw",
+        "genesi",
+        "neon",
+        "shinji"
+      ],
+      "item_ids": [
+        "6bbe11cb5b7b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "6792664fe63a",
+      "topic": "deserve egerton franchise kingsman",
+      "keywords": [
+        "deserve",
+        "egerton",
+        "franchise",
+        "kingsman",
+        "resurrection",
+        "taron"
+      ],
+      "item_ids": [
+        "abfca515b14b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "e1b01e0a1aa7",
       "topic": "game genesi nobody perfect",
       "keywords": [
@@ -13525,60 +13568,6 @@
       ],
       "item_ids": [
         "fe5feb8b815b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "608a6951c8a3",
-      "topic": "ball dragon eliminate first",
-      "keywords": [
-        "ball",
-        "dragon",
-        "eliminate",
-        "first",
-        "officially",
-        "vegeta"
-      ],
-      "item_ids": [
-        "b50bb1f6bc6e"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "458c589beb1e",
-      "topic": "confirm kingdom knight premiere",
-      "keywords": [
-        "confirm",
-        "kingdom",
-        "knight",
-        "premiere",
-        "scene",
-        "seven"
-      ],
-      "item_ids": [
-        "5523e088ad72"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ab660c8a8689",
-      "topic": "free january play steam",
-      "keywords": [
-        "free",
-        "january",
-        "play",
-        "steam",
-        "until",
-        "user"
-      ],
-      "item_ids": [
-        "38b18ec1c6a5"
       ],
       "outlets": [
         "CBR"
