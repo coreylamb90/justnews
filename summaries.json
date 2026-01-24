@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T09:12:32Z",
+  "generated_at": "2026-01-24T10:01:50Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1712,39 +1712,6 @@
       "cluster_id": "997670532345"
     },
     {
-      "id": "ed6d575e3606",
-      "title": "What Pennsylvania swing voters think of Trump's first year back in office",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/22/nx-s1-5678853/what-pennsylvania-swing-voters-think-of-trumps-first-year-back-in-office",
-      "published_at": "Thu, 22 Jan 2026 16:24:32 -0500",
-      "bullets": [
-        "• How do Biden-to-Trump voters feel about year one of Trump's second term? A focus group of Pennsylvania voters provides some unique insight",
-        "• They voted for Joe Biden in 2020, then swung to Donald Trump in 2024",
-        "• This is part of NPR's Swing Voter Project, and it's conducted by two research firms "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• How do Biden-to-Trump voters feel about year one of Trump's second term? A focus group of Pennsylvania voters provides some unique insight",
-          "• They voted for Joe Biden in 2020, then swung to Donald Trump in 2024"
-        ],
-        "hopeful_bullets": [
-          "• This is part of NPR's Swing Voter Project, and it's conducted by two research firms "
-        ],
-        "stakes_bullets": [
-          "• How do Biden-to-Trump voters feel about year one of Trump's second term? A focus group of Pennsylvania voters provides some unique insight",
-          "• They voted for Joe Biden in 2020, then swung to Donald Trump in 2024",
-          "• This is part of NPR's Swing Voter Project, and it's conducted by two research firms "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4a61e2b91fda"
-    },
-    {
       "id": "4c433977d158",
       "title": "As the U.S. and Canada Clash, China Stands Ready to Step in and Sell the Cars of the Future",
       "outlet": "Inside Climate News",
@@ -2540,6 +2507,41 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "ad53fd70bc0a",
+      "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 24 Jan 2026 08:48:40 GMT",
+      "bullets": [
+        "• Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks with US",
+        "• Foreign Minister Andrii Sybiha condemns 'barbaric' attack in Kharkiv, Ukraine",
+        "• One person killed and 23 injured in fresh wave of Russian strikes overnight",
+        "• First trilateral talks since Kremlin launched full-scale invasion of neighbour in 2022 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks with US",
+          "• Foreign Minister Andrii Sybiha condemns 'barbaric' attack in Kharkiv, Ukraine"
+        ],
+        "hopeful_bullets": [
+          "• Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks with US",
+          "• Foreign Minister Andrii Sybiha condemns 'barbaric' attack in Kharkiv, Ukraine"
+        ],
+        "stakes_bullets": [
+          "• Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks with US",
+          "• Foreign Minister Andrii Sybiha condemns 'barbaric' attack in Kharkiv, Ukraine",
+          "• One person killed and 23 injured in fresh wave of Russian strikes overnight"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9056fbdba963"
+    },
+    {
       "id": "d005e763b28e",
       "title": "‘Repatriate the gold’: German economists advise withdrawal from US vaults",
       "outlet": "US news | The Guardian",
@@ -2603,41 +2605,6 @@
       "cluster_id": "9339c9bda833"
     },
     {
-      "id": "ad53fd70bc0a",
-      "title": "Russia strikes Ukraine as talks with US to end war continue",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 24 Jan 2026 07:59:48 GMT",
-      "bullets": [
-        "• Russia strikes Ukraine as talks with US to end war continue",
-        "• Russia launches drone and missile attacks on Ukraine, killing one person and injuring 23 others",
-        "• Three-way talks between Russia, Ukraine and the US enter second day in Abu Dhabi",
-        "• Russia occupies roughly 20% of Ukraine, including parts of eastern Donbas region "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.582
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russia strikes Ukraine as talks with US to end war continue",
-          "• Russia launches drone and missile attacks on Ukraine, killing one person and injuring 23 others"
-        ],
-        "hopeful_bullets": [
-          "• Russia strikes Ukraine as talks with US to end war continue",
-          "• Russia launches drone and missile attacks on Ukraine, killing one person and injuring 23 others"
-        ],
-        "stakes_bullets": [
-          "• Russia strikes Ukraine as talks with US to end war continue",
-          "• Russia launches drone and missile attacks on Ukraine, killing one person and injuring 23 others",
-          "• Three-way talks between Russia, Ukraine and the US enter second day in Abu Dhabi"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8a14d33e0381"
-    },
-    {
       "id": "d03a6bf3fb19",
       "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
       "outlet": "BBC News",
@@ -2646,12 +2613,12 @@
       "bullets": [
         "• Pentagon to offer 'more limited' support to US allies in defence strategy shift",
         "• US Department of Defense now considers security of US homeland and Western Hemisphere as primary concern",
-        "• New strategy calls on US allies to step up in countering threats posed by Russia and North Korea "
+        "• Relations with China will now be approached through \"strength, not confrontation\", report says "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.97
+        "score": 0.876
       },
       "moods": {
         "brief_bullets": [
@@ -2663,9 +2630,7 @@
           "• US Department of Defense now considers security of US homeland and Western Hemisphere as primary concern"
         ],
         "stakes_bullets": [
-          "• Pentagon to offer 'more limited' support to US allies in defence strategy shift",
-          "• US Department of Defense now considers security of US homeland and Western Hemisphere as primary concern",
-          "• New strategy calls on US allies to step up in countering threats posed by Russia and North Korea "
+          "• Relations with China will now be approached through \"strength, not confrontation\", report says "
         ]
       },
       "read_minutes": 3,
@@ -2839,30 +2804,30 @@
       "url": "https://www.wired.com/story/home-depot-promo-code/",
       "published_at": "Sat, 24 Jan 2026 06:00:00 +0000",
       "bullets": [
-        "• Home Depot deals are in full swing through the holiday season, with huge discounts on a myriad of gifts and home project-related items",
-        "• The company pretty much invented the hardware superstore when it began in 1978, just by being so big",
-        "• While it doesn't smell like sawdust, it’s easier to find stuff on the website "
+        "• Home Depot deals are in full swing through the start of the new year",
+        "• The company invented the hardware superstore when it began in 1978",
+        "• The Home Depot smell is buried deep in my childhood, filed somewhere between “building a deck” and “first day of spring”"
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.981
+        "label": "neutral",
+        "score": 0.577
       },
       "moods": {
         "brief_bullets": [
-          "• Home Depot deals are in full swing through the holiday season, with huge discounts on a myriad of gifts and home project-related items",
-          "• The company pretty much invented the hardware superstore when it began in 1978, just by being so big"
+          "• Home Depot deals are in full swing through the start of the new year",
+          "• The company invented the hardware superstore when it began in 1978"
         ],
         "hopeful_bullets": [
-          "• Home Depot deals are in full swing through the holiday season, with huge discounts on a myriad of gifts and home project-related items"
+          "• Home Depot deals are in full swing through the start of the new year"
         ],
         "stakes_bullets": [
-          "• Home Depot deals are in full swing through the holiday season, with huge discounts on a myriad of gifts and home project-related items",
-          "• The company pretty much invented the hardware superstore when it began in 1978, just by being so big",
-          "• While it doesn't smell like sawdust, it’s easier to find stuff on the website "
+          "• Home Depot deals are in full swing through the start of the new year",
+          "• The company invented the hardware superstore when it began in 1978",
+          "• The Home Depot smell is buried deep in my childhood, filed somewhere between “building a deck” and “first day of spring”"
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "617c56e66811"
     },
     {
@@ -3030,6 +2995,75 @@
       "cluster_id": "6792664fe63a"
     },
     {
+      "id": "d37c40e9b62d",
+      "title": "Trump administration's defense strategy tells allies to handle their own security",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/24/nx-s1-5687168/trump-administration-defense-strategy",
+      "published_at": "Sat, 24 Jan 2026 04:17:04 -0500",
+      "bullets": [
+        "• U.S",
+        "• National Defense Strategy calls for allies to take control of their own security",
+        "• The document is the first since 2012",
+        "• It calls for a \"sharp shift — in approach, focus and tone\" to allies",
+        "• It comes after a week of tensions between the United States and its allies "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.956
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• National Defense Strategy calls for allies to take control of their own security"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• National Defense Strategy calls for allies to take control of their own security"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• National Defense Strategy calls for allies to take control of their own security",
+          "• The document is the first since 2012"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "48a9be3a4c60"
+    },
+    {
+      "id": "d547410532ab",
+      "title": "New catalyst makes plastic upcycling 10x more efficient than platinum",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260124003806.htm",
+      "published_at": "Sat, 24 Jan 2026 04:15:29 EST",
+      "bullets": [
+        "• New catalyst makes plastic upcycling 10x more efficient than platinum",
+        "• Researchers found tungsten carbide can rival platinum in key chemical reactions",
+        "• Material outperforms platinum by more than tenfold",
+        "• Material already widely used in industrial machinery, cutting tools, and chisels "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New catalyst makes plastic upcycling 10x more efficient than platinum",
+          "• Researchers found tungsten carbide can rival platinum in key chemical reactions"
+        ],
+        "hopeful_bullets": [
+          "• New catalyst makes plastic upcycling 10x more efficient than platinum",
+          "• Researchers found tungsten carbide can rival platinum in key chemical reactions"
+        ],
+        "stakes_bullets": [
+          "• Material already widely used in industrial machinery, cutting tools, and chisels "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "aa661f0cf300"
+    },
+    {
       "id": "399c106ffe68",
       "title": "10 Perfect Sega Genesis Games Nobody Remembers",
       "outlet": "CBR",
@@ -3130,6 +3164,40 @@
       },
       "read_minutes": 5,
       "cluster_id": "17c12fe79628"
+    },
+    {
+      "id": "bd49212243a2",
+      "title": "Astronomers just revealed a stunning new view of the Milky Way in radio colors",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260124003822.htm",
+      "published_at": "Sat, 24 Jan 2026 03:56:41 EST",
+      "bullets": [
+        "• Astronomers at the International Centre of Radio Astronomy Research (ICRAR) have produced the largest low-frequency radio color image of the Milky Way ever assembled",
+        "• The image is sharper, deeper, and wider than anything previously released, uncovering both star-forming regions and the remains of ancient stellar explosions",
+        "• Discovery opens powerful new ways to study the life cycle of stars and the shape of our galaxy "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Astronomers at the International Centre of Radio Astronomy Research (ICRAR) have produced the largest low-frequency radio color image of the Milky Way ever assembled",
+          "• The image is sharper, deeper, and wider than anything previously released, uncovering both star-forming regions and the remains of ancient stellar explosions"
+        ],
+        "hopeful_bullets": [
+          "• Astronomers at the International Centre of Radio Astronomy Research (ICRAR) have produced the largest low-frequency radio color image of the Milky Way ever assembled",
+          "• The image is sharper, deeper, and wider than anything previously released, uncovering both star-forming regions and the remains of ancient stellar explosions"
+        ],
+        "stakes_bullets": [
+          "• Astronomers at the International Centre of Radio Astronomy Research (ICRAR) have produced the largest low-frequency radio color image of the Milky Way ever assembled",
+          "• The image is sharper, deeper, and wider than anything previously released, uncovering both star-forming regions and the remains of ancient stellar explosions",
+          "• Discovery opens powerful new ways to study the life cycle of stars and the shape of our galaxy "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f0a2ddeb100e"
     },
     {
       "id": "0cd316b49711",
@@ -7494,41 +7562,6 @@
       "cluster_id": "1faf9fa9685d"
     },
     {
-      "id": "75f45ca394a9",
-      "title": "This 2.6-million-year-old jawbone changes the human story",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260122073622.htm",
-      "published_at": "Fri, 23 Jan 2026 07:37:31 EST",
-      "bullets": [
-        "• This 2.6-million-year-old jawbone changes the human story",
-        "• It suggests this ancient relative of humans was surprisingly adaptable, not a narrow specialist as once believed",
-        "• Instead of being outmatched by early humans, Paranthropus appears to have been just as widespread and resilient",
-        "• Find forces scientists to rethink how early human relatives livedâand competed"
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This 2.6-million-year-old jawbone changes the human story",
-          "• It suggests this ancient relative of humans was surprisingly adaptable, not a narrow specialist as once believed"
-        ],
-        "hopeful_bullets": [
-          "• This 2.6-million-year-old jawbone changes the human story",
-          "• It suggests this ancient relative of humans was surprisingly adaptable, not a narrow specialist as once believed"
-        ],
-        "stakes_bullets": [
-          "• This 2.6-million-year-old jawbone changes the human story",
-          "• It suggests this ancient relative of humans was surprisingly adaptable, not a narrow specialist as once believed",
-          "• Instead of being outmatched by early humans, Paranthropus appears to have been just as widespread and resilient"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c3dc86ba4196"
-    },
-    {
       "id": "10b572674d6d",
       "title": "Watch Louis Tomlinson Showcase Pulsating Single ‘Imposter’ on ‘Fallon’",
       "outlet": "Music News",
@@ -7624,69 +7657,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "afb83e4a0f5e"
-    },
-    {
-      "id": "810b6c902a96",
-      "title": "Europa’s ice may be feeding a hidden ocean that could support life",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260122073620.htm",
-      "published_at": "Fri, 23 Jan 2026 06:14:45 EST",
-      "bullets": [
-        "• Scientists found salty, nutrient-rich surface ice can break free and sink through Europaâs icy shell, delivering essential ingredients to the ocean below",
-        "• The process is fast, repeatable, and works under many conditions",
-        "• It offers a promising new explanation for how Europa could support life "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists found salty, nutrient-rich surface ice can break free and sink through Europaâs icy shell, delivering essential ingredients to the ocean below",
-          "• The process is fast, repeatable, and works under many conditions"
-        ],
-        "hopeful_bullets": [
-          "• Scientists found salty, nutrient-rich surface ice can break free and sink through Europaâs icy shell, delivering essential ingredients to the ocean below",
-          "• The process is fast, repeatable, and works under many conditions"
-        ],
-        "stakes_bullets": [
-          "• It offers a promising new explanation for how Europa could support life "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "72263da466ef"
-    },
-    {
-      "id": "cc826b85330c",
-      "title": "How cuts to federal climate funds could threaten polar vortex research",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/23/nx-s1-5684971/winter-storm-ice-texas-new-england-climate-science",
-      "published_at": "Fri, 23 Jan 2026 05:12:00 -0500",
-      "bullets": [
-        "• Winter storms are a normal part of life in North America, but winter weather patterns are shifting as the global climate warms",
-        "• Scientists are working to understand those changes and predict better weather forecasts",
-        "• Cuts made by the Trump administration to federal climate research could threaten research "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Winter storms are a normal part of life in North America, but winter weather patterns are shifting as the global climate warms",
-          "• Scientists are working to understand those changes and predict better weather forecasts"
-        ],
-        "hopeful_bullets": [
-          "• Winter storms are a normal part of life in North America, but winter weather patterns are shifting as the global climate warms"
-        ],
-        "stakes_bullets": [
-          "• Cuts made by the Trump administration to federal climate research could threaten research "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f7e863bf7381"
     },
     {
       "id": "fe7ce13054e8",
@@ -9068,15 +9038,15 @@
   ],
   "clusters": [
     {
-      "id": "8a14d33e0381",
-      "topic": "end russia strike talk",
+      "id": "9056fbdba963",
+      "topic": "ahead brutal condemn russian",
       "keywords": [
-        "end",
-        "russia",
+        "ahead",
+        "brutal",
+        "condemn",
+        "russian",
         "strike",
-        "talk",
-        "ukraine",
-        "war"
+        "ukraine"
       ],
       "item_ids": [
         "ad53fd70bc0a"
@@ -9610,6 +9580,24 @@
       ]
     },
     {
+      "id": "48a9be3a4c60",
+      "topic": "administration allie defense strategy",
+      "keywords": [
+        "administration",
+        "allie",
+        "defense",
+        "strategy",
+        "tell",
+        "trump"
+      ],
+      "item_ids": [
+        "d37c40e9b62d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "5cc12c05498a",
       "topic": "cold frigid minnesotan out",
       "keywords": [
@@ -9754,24 +9742,6 @@
       ]
     },
     {
-      "id": "f7e863bf7381",
-      "topic": "climate cuts federal fund",
-      "keywords": [
-        "climate",
-        "cuts",
-        "federal",
-        "fund",
-        "polar",
-        "threaten"
-      ],
-      "item_ids": [
-        "cc826b85330c"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "ac9cecca6180",
       "topic": "ceos here spent talking",
       "keywords": [
@@ -9880,24 +9850,6 @@
       ]
     },
     {
-      "id": "506058bf7c5c",
-      "topic": "director drell million nvidia",
-      "keywords": [
-        "director",
-        "drell",
-        "million",
-        "nvidia",
-        "persi",
-        "resign"
-      ],
-      "item_ids": [
-        "bf4632ad5256"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "66ccb9eeb058",
       "topic": "000 airline cancel flight",
       "keywords": [
@@ -9928,6 +9880,24 @@
       ],
       "item_ids": [
         "6e1ac1c0ba2b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "506058bf7c5c",
+      "topic": "director drell million nvidia",
+      "keywords": [
+        "director",
+        "drell",
+        "million",
+        "nvidia",
+        "persi",
+        "resign"
+      ],
+      "item_ids": [
+        "bf4632ad5256"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10487,6 +10457,24 @@
       ]
     },
     {
+      "id": "f0a2ddeb100e",
+      "topic": "astronomer just milky revealed",
+      "keywords": [
+        "astronomer",
+        "just",
+        "milky",
+        "revealed",
+        "stunning",
+        "view"
+      ],
+      "item_ids": [
+        "bd49212243a2"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "effdb1892827",
       "topic": "astronomer black found growing",
       "keywords": [
@@ -10499,6 +10487,24 @@
       ],
       "item_ids": [
         "8a81403bcdab"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "aa661f0cf300",
+      "topic": "10x catalyst efficient make",
+      "keywords": [
+        "10x",
+        "catalyst",
+        "efficient",
+        "make",
+        "plastic",
+        "upcycling"
+      ],
+      "item_ids": [
+        "d547410532ab"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10623,42 +10629,6 @@
       ],
       "item_ids": [
         "c719b57f6945"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "c3dc86ba4196",
-      "topic": "change human jawbone million",
-      "keywords": [
-        "change",
-        "human",
-        "jawbone",
-        "million",
-        "old",
-        "year"
-      ],
-      "item_ids": [
-        "75f45ca394a9"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "72263da466ef",
-      "topic": "europa feeding hidden ice",
-      "keywords": [
-        "europa",
-        "feeding",
-        "hidden",
-        "ice",
-        "ocean",
-        "support"
-      ],
-      "item_ids": [
-        "810b6c902a96"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10962,24 +10932,6 @@
       ],
       "item_ids": [
         "f3b10609c783"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "4a61e2b91fda",
-      "topic": "first pennsylvania swing think",
-      "keywords": [
-        "first",
-        "pennsylvania",
-        "swing",
-        "think",
-        "trump",
-        "voter"
-      ],
-      "item_ids": [
-        "ed6d575e3606"
       ],
       "outlets": [
         "NPR Topics: Politics"
