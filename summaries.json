@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T06:26:20Z",
+  "generated_at": "2026-01-25T07:14:33Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1389,72 +1389,6 @@
       "cluster_id": "f35950dd47d2"
     },
     {
-      "id": "a3aa3d94cfac",
-      "title": "The genetic advantage that helps some people stay sharp for life",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
-      "published_at": "Thu, 22 Jan 2026 09:41:30 EST",
-      "bullets": [
-        "• Researchers found higher levels of a protective gene variant in this group",
-        "• Super agers are people age 80 or older whose memory and thinking abilities closely resemble those of adults who are 20 or 30 years younger",
-        "• The findings help explain why some people age with remarkably youthful minds "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers found higher levels of a protective gene variant in this group",
-          "• Super agers are people age 80 or older whose memory and thinking abilities closely resemble those of adults who are 20 or 30 years younger"
-        ],
-        "hopeful_bullets": [
-          "• The findings help explain why some people age with remarkably youthful minds "
-        ],
-        "stakes_bullets": [
-          "• Researchers found higher levels of a protective gene variant in this group",
-          "• Super agers are people age 80 or older whose memory and thinking abilities closely resemble those of adults who are 20 or 30 years younger",
-          "• The findings help explain why some people age with remarkably youthful minds "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9a863578ff75"
-    },
-    {
-      "id": "6000f88b290f",
-      "title": "Why some people get bad colds and others don’t",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260122074702.htm",
-      "published_at": "Thu, 22 Jan 2026 08:15:47 EST",
-      "bullets": [
-        "• Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection",
-        "• A fast antiviral response can stop the virus before symptoms appear",
-        "• The study highlights why the bodyâs reaction matters more than the virus alone "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.869
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection",
-          "• A fast antiviral response can stop the virus before symptoms appear"
-        ],
-        "hopeful_bullets": [
-          "• Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection"
-        ],
-        "stakes_bullets": [
-          "• Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection",
-          "• A fast antiviral response can stop the virus before symptoms appear",
-          "• The study highlights why the bodyâs reaction matters more than the virus alone "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "affcbc3c5657"
-    },
-    {
       "id": "2efec487c102",
       "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
       "outlet": "World news | The Guardian",
@@ -1918,15 +1852,50 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "f5b7363933b9",
+      "title": "Jujutsu Kaisen Faces Backlash From Japanese Fans, & They Couldn't Be More Wrong",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jjk-season-3-maki-fight-japanese-backlash/",
+      "published_at": "Sun, 25 Jan 2026 06:41:44 GMT",
+      "bullets": [
+        "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
+        "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode",
+        "• JJK Season 3 pushed the franchise to new heights in only four episodes",
+        "• Some fans were displeased with the stylistic direction of Maki Zenin's rampage "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
+          "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode"
+        ],
+        "hopeful_bullets": [
+          "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
+          "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode"
+        ],
+        "stakes_bullets": [
+          "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
+          "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode",
+          "• JJK Season 3 pushed the franchise to new heights in only four episodes"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "5b3480d4104a"
+    },
+    {
       "id": "597b5c19c724",
       "title": "Minneapolis shooting latest: Alex Pretti’s parents say ‘please get the truth out’ after son fatally shot by federal agents",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
-      "published_at": "Sun, 25 Jan 2026 05:36:56 GMT",
+      "published_at": "Sun, 25 Jan 2026 06:26:59 GMT",
       "bullets": [
         "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday",
-        "• “We are heartbroken but also very angry,” they said in the statement",
-        "• The sickening lies told about their son by the administration are reprehensible and disgusting, they said "
+        "• “We are heartbroken but also very angry,” the statement read aloud on local news channel KARE 11",
+        "• “The sickening lies told about our son by the administration are reprehensible and disgusting.”"
       ],
       "category": "US",
       "sentiment": {
@@ -1936,19 +1905,51 @@
       "moods": {
         "brief_bullets": [
           "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday",
-          "• “We are heartbroken but also very angry,” they said in the statement"
+          "• “We are heartbroken but also very angry,” the statement read aloud on local news channel KARE 11"
         ],
         "hopeful_bullets": [
           "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday"
         ],
         "stakes_bullets": [
           "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday",
-          "• “We are heartbroken but also very angry,” they said in the statement",
-          "• The sickening lies told about their son by the administration are reprehensible and disgusting, they said "
+          "• “We are heartbroken but also very angry,” the statement read aloud on local news channel KARE 11",
+          "• “The sickening lies told about our son by the administration are reprehensible and disgusting.”"
         ]
       },
-      "read_minutes": 11,
+      "read_minutes": 12,
       "cluster_id": "7b7ab5555faa"
+    },
+    {
+      "id": "c089fbdffbfc",
+      "title": "Democratic congressman punched in racist attack at Sundance film festival",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/25/congressman-maxwell-alejandro-frost-attack-police",
+      "published_at": "Sun, 25 Jan 2026 05:53:57 GMT",
+      "bullets": [
+        "• Florida congressman Maxwell Alejandro Frost said he was assaulted by a man who said Donald Trump would deport him",
+        "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress",
+        "• The suspect, identified as Christian Young, was arrested and booked on charges of “aggravated burglary and two counts of simple assault”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Florida congressman Maxwell Alejandro Frost said he was assaulted by a man who said Donald Trump would deport him",
+          "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress"
+        ],
+        "hopeful_bullets": [
+          "• Florida congressman Maxwell Alejandro Frost said he was assaulted by a man who said Donald Trump would deport him",
+          "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress"
+        ],
+        "stakes_bullets": [
+          "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "dc592a10d437"
     },
     {
       "id": "4b3796a04592",
@@ -2350,38 +2351,6 @@
       "cluster_id": "3851fbfab59d"
     },
     {
-      "id": "19e18b44a48d",
-      "title": "New Cyberpunk 2077 Game Officially Announced",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/new-cyberpunk-2077-game-revealed/",
-      "published_at": "Sun, 25 Jan 2026 03:00:22 GMT",
-      "bullets": [
-        "• WeirdCo, a Seattle-based trading card company, has announced a new Cyberpunk 2077 TCG",
-        "• The planned game is officially licensed and will feature fan-favorite characters from the Cyberpunk franchise",
-        "• A Kickstarter campaign for the game is set to launch on March 17, 2026 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• WeirdCo, a Seattle-based trading card company, has announced a new Cyberpunk 2077 TCG",
-          "• The planned game is officially licensed and will feature fan-favorite characters from the Cyberpunk franchise"
-        ],
-        "hopeful_bullets": [
-          "• WeirdCo, a Seattle-based trading card company, has announced a new Cyberpunk 2077 TCG",
-          "• The planned game is officially licensed and will feature fan-favorite characters from the Cyberpunk franchise"
-        ],
-        "stakes_bullets": [
-          "• The planned game is officially licensed and will feature fan-favorite characters from the Cyberpunk franchise"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "05ac33ff464a"
-    },
-    {
       "id": "0e2263906dd5",
       "title": "Large protests spread across US after Alex Pretti fatally shot by federal agents",
       "outlet": "US news | The Guardian",
@@ -2555,27 +2524,27 @@
       "published_at": "Sun, 25 Jan 2026 01:09:22 GMT",
       "bullets": [
         "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-        "• Pretti attended nursing school at the University of Minnesota, where he was also a junior scientist beginning in 2012",
-        "• It’s the second fatal shooting this month in Minneapolis amid a major crackdown in Minnesota by federal agents "
+        "• He was also a junior scientist at the University of Minnesota",
+        "• Pretti's family has pushed back on the Trump administration's account that Pretti threatened to attack officers with a gun "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
           "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-          "• Pretti attended nursing school at the University of Minnesota, where he was also a junior scientist beginning in 2012"
+          "• He was also a junior scientist at the University of Minnesota"
         ],
         "hopeful_bullets": [
           "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-          "• Pretti attended nursing school at the University of Minnesota, where he was also a junior scientist beginning in 2012"
+          "• He was also a junior scientist at the University of Minnesota"
         ],
         "stakes_bullets": [
           "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-          "• Pretti attended nursing school at the University of Minnesota, where he was also a junior scientist beginning in 2012",
-          "• It’s the second fatal shooting this month in Minneapolis amid a major crackdown in Minnesota by federal agents "
+          "• He was also a junior scientist at the University of Minnesota",
+          "• Pretti's family has pushed back on the Trump administration's account that Pretti threatened to attack officers with a gun "
         ]
       },
       "read_minutes": 5,
@@ -2644,6 +2613,37 @@
       },
       "read_minutes": 4,
       "cluster_id": "a284dfd6f2a5"
+    },
+    {
+      "id": "03fdfb4bcd3e",
+      "title": "NASA is set to send astronauts around the Moon again",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260124234535.htm",
+      "published_at": "Sun, 25 Jan 2026 00:25:37 EST",
+      "bullets": [
+        "• NASA is moving into a new phase of space exploration, with major progress across human spaceflight, science missions, and advanced technology",
+        "• With Artemis II set to send astronauts around the Moon for the first time in more than 50 years, NASA is laying the groundwork for a sustained human presence in deep space "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NASA is moving into a new phase of space exploration, with major progress across human spaceflight, science missions, and advanced technology",
+          "• With Artemis II set to send astronauts around the Moon for the first time in more than 50 years, NASA is laying the groundwork for a sustained human presence in deep space "
+        ],
+        "hopeful_bullets": [
+          "• NASA is moving into a new phase of space exploration, with major progress across human spaceflight, science missions, and advanced technology"
+        ],
+        "stakes_bullets": [
+          "• NASA is moving into a new phase of space exploration, with major progress across human spaceflight, science missions, and advanced technology",
+          "• With Artemis II set to send astronauts around the Moon for the first time in more than 50 years, NASA is laying the groundwork for a sustained human presence in deep space "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bb069984c7e7"
     },
     {
       "id": "0a8156dcdb78",
@@ -2915,39 +2915,39 @@
       "cluster_id": "66ccb9eeb058"
     },
     {
-      "id": "ca95b4d8f04f",
-      "title": "Alex Pretti killing in Minneapolis by federal agents: what we know so far",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-minneapolis-what-we-know-so-far",
-      "published_at": "Sat, 24 Jan 2026 22:49:54 GMT",
+      "id": "a74e5190990c",
+      "title": "Earthquake sensors can hear space junk falling to Earth",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260124003808.htm",
+      "published_at": "Sat, 24 Jan 2026 23:11:43 EST",
       "bullets": [
-        "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
-        "• Much remains unknown, unclear or unconfirmed about what happened and why",
-        "• At least five agents surrounded Pretti on the ground, and one appeared to fire a shot at him at close range",
-        "• The shot was followed by a volley of more shots, after which Pretti’s body went still "
+        "• Earthquake sensors can hear space junk falling to Earth",
+        "• Researchers can follow sonic booms created when debris breaks apart",
+        "• The method relies on networks of seismometers, instruments designed to detect ground motion from earthquakes",
+        "• The approach can deliver more precise information in near real time than what is currently available today "
       ],
-      "category": "US",
+      "category": "Science",
       "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "neutral",
+        "score": 0.636
       },
       "moods": {
         "brief_bullets": [
-          "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
-          "• Much remains unknown, unclear or unconfirmed about what happened and why"
+          "• Earthquake sensors can hear space junk falling to Earth",
+          "• Researchers can follow sonic booms created when debris breaks apart"
         ],
         "hopeful_bullets": [
-          "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
-          "• Much remains unknown, unclear or unconfirmed about what happened and why"
+          "• Earthquake sensors can hear space junk falling to Earth",
+          "• Researchers can follow sonic booms created when debris breaks apart"
         ],
         "stakes_bullets": [
-          "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
-          "• Much remains unknown, unclear or unconfirmed about what happened and why",
-          "• At least five agents surrounded Pretti on the ground, and one appeared to fire a shot at him at close range"
+          "• Earthquake sensors can hear space junk falling to Earth",
+          "• Researchers can follow sonic booms created when debris breaks apart",
+          "• The method relies on networks of seismometers, instruments designed to detect ground motion from earthquakes"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "dabc80a5f58d"
+      "read_minutes": 4,
+      "cluster_id": "6b74a4124cbf"
     },
     {
       "id": "3569d0c3534b",
@@ -5153,7 +5153,7 @@
           "• More than 10,000 flights are cancelled across the country this weekend and more than 18,000 expected delays "
         ]
       },
-      "read_minutes": 12,
+      "read_minutes": 15,
       "cluster_id": "24cd1b99c8fc"
     },
     {
@@ -5426,6 +5426,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "effdb1892827"
+    },
+    {
+      "id": "e2652e23282e",
+      "title": "Scientists exposed how cancer hides in plain sight",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260124003811.htm",
+      "published_at": "Sat, 24 Jan 2026 00:38:11 EST",
+      "bullets": [
+        "• Pancreatic cancer may evade the immune system using a clever molecular trick",
+        "• Researchers found that the cancer-driving protein MYC suppresses immune alarm signals, allowing tumors to grow unnoticed",
+        "• When this immune-shielding ability was disabled in animal models, tumors rapidly collapsed "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pancreatic cancer may evade the immune system using a clever molecular trick",
+          "• Researchers found that the cancer-driving protein MYC suppresses immune alarm signals, allowing tumors to grow unnoticed"
+        ],
+        "hopeful_bullets": [
+          "• Researchers found that the cancer-driving protein MYC suppresses immune alarm signals, allowing tumors to grow unnoticed"
+        ],
+        "stakes_bullets": [
+          "• Pancreatic cancer may evade the immune system using a clever molecular trick",
+          "• Researchers found that the cancer-driving protein MYC suppresses immune alarm signals, allowing tumors to grow unnoticed",
+          "• When this immune-shielding ability was disabled in animal models, tumors rapidly collapsed "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "3643743ae806"
     },
     {
       "id": "3682776005b0",
@@ -6020,37 +6053,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "e1bcc252e768"
-    },
-    {
-      "id": "0490ec6b30ea",
-      "title": "Ancient giant kangaroos could hop after all",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260123225925.htm",
-      "published_at": "Fri, 23 Jan 2026 23:21:29 EST",
-      "bullets": [
-        "• Ancient giant kangaroos that lived during the Ice Age may not have been as slow and grounded as once believed",
-        "• Study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size",
-        "• This ability could have played a key role in escaping predators "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.756
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ancient giant kangaroos that lived during the Ice Age may not have been as slow and grounded as once believed",
-          "• Study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size"
-        ],
-        "hopeful_bullets": [
-          "• Study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size"
-        ],
-        "stakes_bullets": [
-          "• This ability could have played a key role in escaping predators "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "63658e367d59"
     },
     {
       "id": "8280f2ec989b",
@@ -9750,6 +9752,24 @@
       ]
     },
     {
+      "id": "dc592a10d437",
+      "topic": "attack congressman democratic punched",
+      "keywords": [
+        "attack",
+        "congressman",
+        "democratic",
+        "punched",
+        "racist",
+        "sundance"
+      ],
+      "item_ids": [
+        "c089fbdffbfc"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "87a4a8fa1941",
       "topic": "block democrat funding include",
       "keywords": [
@@ -9870,24 +9890,6 @@
       ],
       "item_ids": [
         "9cbe554ccbf4"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "dabc80a5f58d",
-      "topic": "agent alex federal killing",
-      "keywords": [
-        "agent",
-        "alex",
-        "federal",
-        "killing",
-        "minneapoli",
-        "pretti"
-      ],
-      "item_ids": [
-        "ca95b4d8f04f"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10182,24 +10184,6 @@
       ]
     },
     {
-      "id": "fc3df4c1c7ab",
-      "topic": "focu musk package pay",
-      "keywords": [
-        "focu",
-        "musk",
-        "package",
-        "pay",
-        "renew",
-        "trillion"
-      ],
-      "item_ids": [
-        "35fb380099af"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "bfa91c8e4c38",
       "topic": "2026 best first homebuyer",
       "keywords": [
@@ -10230,6 +10214,24 @@
       ],
       "item_ids": [
         "fda26131315e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "fc3df4c1c7ab",
+      "topic": "focu musk package pay",
+      "keywords": [
+        "focu",
+        "musk",
+        "package",
+        "pay",
+        "renew",
+        "trillion"
+      ],
+      "item_ids": [
+        "35fb380099af"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10769,6 +10771,24 @@
       ]
     },
     {
+      "id": "bb069984c7e7",
+      "topic": "around astronaut moon nasa",
+      "keywords": [
+        "around",
+        "astronaut",
+        "moon",
+        "nasa",
+        "send",
+        "set"
+      ],
+      "item_ids": [
+        "03fdfb4bcd3e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "396a720e09d0",
       "topic": "cut damage locust small",
       "keywords": [
@@ -10877,6 +10897,42 @@
       ]
     },
     {
+      "id": "3643743ae806",
+      "topic": "cancer exposed hide plain",
+      "keywords": [
+        "cancer",
+        "exposed",
+        "hide",
+        "plain",
+        "scientist",
+        "sight"
+      ],
+      "item_ids": [
+        "e2652e23282e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "6b74a4124cbf",
+      "topic": "earthquake falling hear junk",
+      "keywords": [
+        "earthquake",
+        "falling",
+        "hear",
+        "junk",
+        "sensor",
+        "space"
+      ],
+      "item_ids": [
+        "a74e5190990c"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "aa661f0cf300",
       "topic": "10x catalyst efficient make",
       "keywords": [
@@ -10889,59 +10945,6 @@
       ],
       "item_ids": [
         "d547410532ab"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "63658e367d59",
-      "topic": "all ancient giant hop",
-      "keywords": [
-        "all",
-        "ancient",
-        "giant",
-        "hop",
-        "kangaroo"
-      ],
-      "item_ids": [
-        "0490ec6b30ea"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "9a863578ff75",
-      "topic": "advantage genetic help people",
-      "keywords": [
-        "advantage",
-        "genetic",
-        "help",
-        "people",
-        "some",
-        "stay"
-      ],
-      "item_ids": [
-        "a3aa3d94cfac"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "affcbc3c5657",
-      "topic": "bad cold get other",
-      "keywords": [
-        "bad",
-        "cold",
-        "get",
-        "other",
-        "people",
-        "some"
-      ],
-      "item_ids": [
-        "6000f88b290f"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -13468,6 +13471,24 @@
       ]
     },
     {
+      "id": "5b3480d4104a",
+      "topic": "backlash face fans japanese",
+      "keywords": [
+        "backlash",
+        "face",
+        "fans",
+        "japanese",
+        "jujutsu",
+        "kaisen"
+      ],
+      "item_ids": [
+        "f5b7363933b9"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "e99edbb20f83",
       "topic": "crimson denzel ebert hailed",
       "keywords": [
@@ -13623,23 +13644,6 @@
       ],
       "item_ids": [
         "696bc00f4c54"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "05ac33ff464a",
-      "topic": "2077 announced cyberpunk game",
-      "keywords": [
-        "2077",
-        "announced",
-        "cyberpunk",
-        "game",
-        "officially"
-      ],
-      "item_ids": [
-        "19e18b44a48d"
       ],
       "outlets": [
         "CBR"
