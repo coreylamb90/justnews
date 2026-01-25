@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T07:14:33Z",
+  "generated_at": "2026-01-25T08:01:40Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1423,40 +1423,6 @@
       "cluster_id": "91ed1fde89b6"
     },
     {
-      "id": "6689cb054e2c",
-      "title": "Texas officials say the power grid will hold through winter storm, but local outages are likely",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17259632/texas-winter-storm-watch-prepare-ercot-grid",
-      "published_at": "Thu, 22 Jan 2026 01:47:10 +0000",
-      "bullets": [
-        "• The northern two-thirds of the state is expected to be hit the hardest",
-        "• Gov",
-        "• Greg Abbott issued a disaster declaration for more than 130 counties",
-        "• Officials don’t expect widespread power outages, though there will be a slim difference between power demand and power supply "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The northern two-thirds of the state is expected to be hit the hardest",
-          "• Gov"
-        ],
-        "hopeful_bullets": [
-          "• The northern two-thirds of the state is expected to be hit the hardest",
-          "• Gov"
-        ],
-        "stakes_bullets": [
-          "• The northern two-thirds of the state is expected to be hit the hardest",
-          "• Officials don’t expect widespread power outages, though there will be a slim difference between power demand and power supply "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "0aebe458a470"
-    },
-    {
       "id": "c690784022a8",
       "title": "Your Friendly Neighborhood Spider-Man: A Fresh and Engaging Take",
       "outlet": "Comic Quarters",
@@ -1852,6 +1818,72 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "7b32aa49c633",
+      "title": "‘SNL’: Watch Geese Perform ‘Au Pays du Cocaine,’ ‘Trinidad’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/snl-geese-perform-au-pays-du-cocaine-trinidad-1235504318/",
+      "published_at": "Sun, 25 Jan 2026 07:18:45 +0000",
+      "bullets": [
+        "• Brooklyn-based rock band Geese debuted on Saturday Night Live with two songs from their new album, Getting Killed",
+        "• The group, which the schoolmates formed ten years ago, are touring worldwide",
+        "• They’re also set to perform at Coachella, the Governors Ball, and Bonnaroo "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.945
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brooklyn-based rock band Geese debuted on Saturday Night Live with two songs from their new album, Getting Killed",
+          "• The group, which the schoolmates formed ten years ago, are touring worldwide"
+        ],
+        "hopeful_bullets": [
+          "• Brooklyn-based rock band Geese debuted on Saturday Night Live with two songs from their new album, Getting Killed",
+          "• The group, which the schoolmates formed ten years ago, are touring worldwide"
+        ],
+        "stakes_bullets": [
+          "• Brooklyn-based rock band Geese debuted on Saturday Night Live with two songs from their new album, Getting Killed"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "23b4a312db3e"
+    },
+    {
+      "id": "597b5c19c724",
+      "title": "Minneapolis shooting latest: Witnesses contradict Trump officials’ account of Alex Pretti’s killing: ‘He was only helping’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+      "published_at": "Sun, 25 Jan 2026 06:59:14 GMT",
+      "bullets": [
+        "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
+        "• They say the credibility of Immigration and Customs Enforcement and the U.S",
+        "• Department of Homeland Security is at stake "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
+          "• They say the credibility of Immigration and Customs Enforcement and the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
+          "• They say the credibility of Immigration and Customs Enforcement and the U.S"
+        ],
+        "stakes_bullets": [
+          "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
+          "• They say the credibility of Immigration and Customs Enforcement and the U.S",
+          "• Department of Homeland Security is at stake "
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "c531a9b259b5"
+    },
+    {
       "id": "f5b7363933b9",
       "title": "Jujutsu Kaisen Faces Backlash From Japanese Fans, & They Couldn't Be More Wrong",
       "outlet": "CBR",
@@ -1885,39 +1917,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "5b3480d4104a"
-    },
-    {
-      "id": "597b5c19c724",
-      "title": "Minneapolis shooting latest: Alex Pretti’s parents say ‘please get the truth out’ after son fatally shot by federal agents",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
-      "published_at": "Sun, 25 Jan 2026 06:26:59 GMT",
-      "bullets": [
-        "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday",
-        "• “We are heartbroken but also very angry,” the statement read aloud on local news channel KARE 11",
-        "• “The sickening lies told about our son by the administration are reprehensible and disgusting.”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday",
-          "• “We are heartbroken but also very angry,” the statement read aloud on local news channel KARE 11"
-        ],
-        "hopeful_bullets": [
-          "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday"
-        ],
-        "stakes_bullets": [
-          "• Michael and Susan Pretti issued a statement following their son’s death at the hands of federal agents in Minneapolis on Saturday",
-          "• “We are heartbroken but also very angry,” the statement read aloud on local news channel KARE 11",
-          "• “The sickening lies told about our son by the administration are reprehensible and disgusting.”"
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "7b7ab5555faa"
     },
     {
       "id": "c089fbdffbfc",
@@ -2457,26 +2456,25 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/24/minneapolis-shooting-federal-agents",
       "published_at": "Sun, 25 Jan 2026 01:19:59 GMT",
       "bullets": [
-        "• US citizen Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System",
-        "• Video circulating online shows Pretti being wrestled to the ground by several law enforcement officers before being shot what appears to be several times "
+        "• The man, 37, was an American citizen with no criminal record and a permit to carry a firearm, police say",
+        "• His parents have pleaded to “get the truth out about our son’s death",
+        "• The incident comes after a woman was shot dead by a federal officer in Minneapolis "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• US citizen Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System",
-          "• Video circulating online shows Pretti being wrestled to the ground by several law enforcement officers before being shot what appears to be several times "
+          "• The man, 37, was an American citizen with no criminal record and a permit to carry a firearm, police say",
+          "• His parents have pleaded to “get the truth out about our son’s death"
         ],
         "hopeful_bullets": [
-          "• US citizen Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System",
-          "• Video circulating online shows Pretti being wrestled to the ground by several law enforcement officers before being shot what appears to be several times "
+          "• The man, 37, was an American citizen with no criminal record and a permit to carry a firearm, police say"
         ],
         "stakes_bullets": [
-          "• US citizen Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System",
-          "• Video circulating online shows Pretti being wrestled to the ground by several law enforcement officers before being shot what appears to be several times "
+          "• His parents have pleaded to “get the truth out about our son’s death"
         ]
       },
       "read_minutes": 7,
@@ -4268,38 +4266,6 @@
       "cluster_id": "fc3df4c1c7ab"
     },
     {
-      "id": "f7f91e271690",
-      "title": "3 Best Cheap Gaming Laptops (2026): WIRED-Tested and Approved",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
-      "published_at": "Sat, 24 Jan 2026 12:00:00 +0000",
-      "bullets": [
-        "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
-        "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
-          "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
-        ],
-        "hopeful_bullets": [
-          "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
-          "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
-        ],
-        "stakes_bullets": [
-          "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
-          "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "d5c78954b4e2"
-    },
-    {
       "id": "1802ad4483aa",
       "title": "The 52 Best Movies on Netflix, WIRED’s Picks (January 2026)",
       "outlet": "WIRED",
@@ -4332,6 +4298,38 @@
       },
       "read_minutes": 31,
       "cluster_id": "cb9a318ed099"
+    },
+    {
+      "id": "f7f91e271690",
+      "title": "3 Best Cheap Gaming Laptops (2026): WIRED-Tested and Approved",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
+      "published_at": "Sat, 24 Jan 2026 12:00:00 +0000",
+      "bullets": [
+        "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
+        "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.951
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
+          "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
+        ],
+        "hopeful_bullets": [
+          "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
+          "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
+        ],
+        "stakes_bullets": [
+          "• The Best Cheap Gaming Laptops Actually Worth Buying are all under $1,000 and offer a solid gaming experience for the money if your budget is tight",
+          "• They're all usually between 0.8 and 1.8 inches thick and tend to have bare-bones gaming-capable hardware "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d5c78954b4e2"
     },
     {
       "id": "26a7f076270e",
@@ -7436,37 +7434,6 @@
       "cluster_id": "ce67720abb6f"
     },
     {
-      "id": "e43b4d84155e",
-      "title": "Francis Buchholz, Scorpions’ Hurricane-Rocking Ex-Bassist, Dead at 71",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/francis-buchholz-scorpions-bassist-death-obituary-1235503910/",
-      "published_at": "Fri, 23 Jan 2026 16:59:47 +0000",
-      "bullets": [
-        "• Francis Buchholz played bassist for the Scorpions on hits like \"Rock You Like a Hurricane\" and \"Wind of Change\" He died Thursday after a private battle with cancer, his family said in a social media post",
-        "• “He departed this world peacefully, surrounded by love,” his family wrote "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Francis Buchholz played bassist for the Scorpions on hits like \"Rock You Like a Hurricane\" and \"Wind of Change\" He died Thursday after a private battle with cancer, his family said in a social media post",
-          "• “He departed this world peacefully, surrounded by love,” his family wrote "
-        ],
-        "hopeful_bullets": [
-          "• Francis Buchholz played bassist for the Scorpions on hits like \"Rock You Like a Hurricane\" and \"Wind of Change\" He died Thursday after a private battle with cancer, his family said in a social media post"
-        ],
-        "stakes_bullets": [
-          "• Francis Buchholz played bassist for the Scorpions on hits like \"Rock You Like a Hurricane\" and \"Wind of Change\" He died Thursday after a private battle with cancer, his family said in a social media post",
-          "• “He departed this world peacefully, surrounded by love,” his family wrote "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "70d0f83c0a38"
-    },
-    {
       "id": "5b616c061c3e",
       "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
       "outlet": "Ars Technica - All content",
@@ -9734,15 +9701,15 @@
       ]
     },
     {
-      "id": "7b7ab5555faa",
-      "topic": "alex minneapoli parent pretti",
+      "id": "c531a9b259b5",
+      "topic": "contradict minneapoli official shooting",
       "keywords": [
-        "alex",
+        "contradict",
         "minneapoli",
-        "parent",
-        "pretti",
-        "say",
-        "shooting"
+        "official",
+        "shooting",
+        "trump",
+        "witnesse"
       ],
       "item_ids": [
         "597b5c19c724"
@@ -10328,24 +10295,6 @@
       ]
     },
     {
-      "id": "d5c78954b4e2",
-      "topic": "2026 best cheap gaming",
-      "keywords": [
-        "2026",
-        "best",
-        "cheap",
-        "gaming",
-        "laptop",
-        "wired"
-      ],
-      "item_ids": [
-        "f7f91e271690"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "cb9a318ed099",
       "topic": "best january movie netflix",
       "keywords": [
@@ -10360,6 +10309,24 @@
       "item_ids": [
         "1802ad4483aa",
         "26a7f076270e"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "d5c78954b4e2",
+      "topic": "2026 best cheap gaming",
+      "keywords": [
+        "2026",
+        "best",
+        "cheap",
+        "gaming",
+        "laptop",
+        "wired"
+      ],
+      "item_ids": [
+        "f7f91e271690"
       ],
       "outlets": [
         "WIRED"
@@ -13828,6 +13795,24 @@
       ]
     },
     {
+      "id": "23b4a312db3e",
+      "topic": "cocaine geese pays perform",
+      "keywords": [
+        "cocaine",
+        "geese",
+        "pays",
+        "perform",
+        "snl",
+        "watch"
+      ],
+      "item_ids": [
+        "7b32aa49c633"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "ef86b0a22783",
       "topic": "attend bowl donald super",
       "keywords": [
@@ -13983,24 +13968,6 @@
       ],
       "item_ids": [
         "87d2d534ea1a"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "70d0f83c0a38",
-      "topic": "bassist buchholz franci hurricane",
-      "keywords": [
-        "bassist",
-        "buchholz",
-        "franci",
-        "hurricane",
-        "rocking",
-        "scorpion"
-      ],
-      "item_ids": [
-        "e43b4d84155e"
       ],
       "outlets": [
         "Music News"
@@ -14251,24 +14218,6 @@
       ],
       "item_ids": [
         "7bb9a79f7603"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "0aebe458a470",
-      "topic": "grid hold official power",
-      "keywords": [
-        "grid",
-        "hold",
-        "official",
-        "power",
-        "say",
-        "texa"
-      ],
-      "item_ids": [
-        "6689cb054e2c"
       ],
       "outlets": [
         "The Texas Tribune"
