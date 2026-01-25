@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T10:01:40Z",
+  "generated_at": "2026-01-25T10:12:14Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1852,6 +1852,38 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "80cb26161ab2",
+      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 25 Jan 2026 09:46:03 GMT",
+      "bullets": [
+        "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
+        "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.957
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
+          "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
+        ],
+        "hopeful_bullets": [
+          "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
+          "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
+        ],
+        "stakes_bullets": [
+          "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
+          "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "573f3a1b74cd"
+    },
+    {
       "id": "45dc4500d61c",
       "title": "What Trump Doesn’t Understand About Greenland",
       "outlet": "Inside Climate News",
@@ -1918,38 +1950,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "0db3b0654b00"
-    },
-    {
-      "id": "80cb26161ab2",
-      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 25 Jan 2026 08:06:16 GMT",
-      "bullets": [
-        "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
-        "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
-          "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
-        ],
-        "hopeful_bullets": [
-          "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
-          "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
-        ],
-        "stakes_bullets": [
-          "• Climber Alex Honnold successfully scales Taipei 101 without ropes or safety gear",
-          "• He completed the climb in one hour and 31 minutes and celebrated the achievement with one word: \"Sick\" The building stands at 508m (1,667ft) of steel, glass and concrete "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "573f3a1b74cd"
     },
     {
       "id": "597b5c19c724",
@@ -2151,6 +2151,41 @@
       },
       "read_minutes": 3,
       "cluster_id": "48a67563b614"
+    },
+    {
+      "id": "9f6e2b82134b",
+      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 25 Jan 2026 04:19:46 GMT",
+      "bullets": [
+        "• Federal agents shot and killed a man in Minneapolis on Saturday morning",
+        "• The incident is the latest in a series of incidents in the city in recent weeks",
+        "• The man is the second person to be killed by the federal authorities this month",
+        "• Officials say he resisted their attempts to disarm him, but witnesses say he had a gun "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal agents shot and killed a man in Minneapolis on Saturday morning",
+          "• The incident is the latest in a series of incidents in the city in recent weeks"
+        ],
+        "hopeful_bullets": [
+          "• Federal agents shot and killed a man in Minneapolis on Saturday morning",
+          "• The incident is the latest in a series of incidents in the city in recent weeks"
+        ],
+        "stakes_bullets": [
+          "• Federal agents shot and killed a man in Minneapolis on Saturday morning",
+          "• The incident is the latest in a series of incidents in the city in recent weeks",
+          "• The man is the second person to be killed by the federal authorities this month"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9fc73271cf4f"
     },
     {
       "id": "77b16f6bc3f4",
@@ -5430,39 +5465,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "b50311c3aad2"
-    },
-    {
-      "id": "6841af20607e",
-      "title": "Danish PM in Greenland for 'show of support' after Trump threats",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 24 Jan 2026 03:52:40 GMT",
-      "bullets": [
-        "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
-        "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday",
-        "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
-          "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday"
-        ],
-        "hopeful_bullets": [
-          "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
-        ],
-        "stakes_bullets": [
-          "• Danish PM Mette Frederiksen in Greenland for 'show of support' after Trump threats to forcibly take over the Arctic island",
-          "• US President Donald Trump rolled back his threats to take over Greenland on Wednesday",
-          "• Trump said a \"framework of a future deal with respect to Greenland\" had been reached, following meeting with Nato chief Mark Rutte "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3b264eb204d8"
     },
     {
       "id": "8a81403bcdab",
@@ -9392,6 +9394,42 @@
   ],
   "clusters": [
     {
+      "id": "9fc73271cf4f",
+      "topic": "alex fatal federal know",
+      "keywords": [
+        "alex",
+        "fatal",
+        "federal",
+        "know",
+        "pretti",
+        "shooting"
+      ],
+      "item_ids": [
+        "9f6e2b82134b"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "8b694f88dfc4",
+      "topic": "afghanistan all among greatest",
+      "keywords": [
+        "afghanistan",
+        "all",
+        "among",
+        "greatest",
+        "soldier",
+        "trump"
+      ],
+      "item_ids": [
+        "a67cb8bc80a6"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "f18b0362195f",
       "topic": "100 canada make possible",
       "keywords": [
@@ -9416,24 +9454,6 @@
       ]
     },
     {
-      "id": "8b694f88dfc4",
-      "topic": "afghanistan all among greatest",
-      "keywords": [
-        "afghanistan",
-        "all",
-        "among",
-        "greatest",
-        "soldier",
-        "trump"
-      ],
-      "item_ids": [
-        "a67cb8bc80a6"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "6905e240bf39",
       "topic": "end peace russia talk",
       "keywords": [
@@ -9446,24 +9466,6 @@
       ],
       "item_ids": [
         "ad53fd70bc0a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "afa58390f3e9",
-      "topic": "china general highest place",
-      "keywords": [
-        "china",
-        "general",
-        "highest",
-        "place",
-        "ranking",
-        "under"
-      ],
-      "item_ids": [
-        "9256ada44e9c"
       ],
       "outlets": [
         "BBC News"
@@ -9500,6 +9502,24 @@
       ],
       "item_ids": [
         "80cb26161ab2"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "afa58390f3e9",
+      "topic": "china general highest place",
+      "keywords": [
+        "china",
+        "general",
+        "highest",
+        "place",
+        "ranking",
+        "under"
+      ],
+      "item_ids": [
+        "9256ada44e9c"
       ],
       "outlets": [
         "BBC News"
@@ -9554,24 +9574,6 @@
       ],
       "item_ids": [
         "a87488c07482"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3b264eb204d8",
-      "topic": "danish greenland show support",
-      "keywords": [
-        "danish",
-        "greenland",
-        "show",
-        "support",
-        "threat",
-        "trump"
-      ],
-      "item_ids": [
-        "6841af20607e"
       ],
       "outlets": [
         "BBC News"
