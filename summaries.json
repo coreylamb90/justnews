@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T08:01:40Z",
+  "generated_at": "2026-01-25T08:18:14Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1423,6 +1423,40 @@
       "cluster_id": "91ed1fde89b6"
     },
     {
+      "id": "6689cb054e2c",
+      "title": "Texas officials say the power grid will hold through winter storm, but local outages are likely",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17259632/texas-winter-storm-watch-prepare-ercot-grid",
+      "published_at": "Thu, 22 Jan 2026 01:47:10 +0000",
+      "bullets": [
+        "• The northern two-thirds of the state is expected to be hit the hardest",
+        "• Gov",
+        "• Greg Abbott issued a disaster declaration for more than 130 counties",
+        "• Officials don’t expect widespread power outages, though there will be a slim difference between power demand and power supply "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The northern two-thirds of the state is expected to be hit the hardest",
+          "• Gov"
+        ],
+        "hopeful_bullets": [
+          "• The northern two-thirds of the state is expected to be hit the hardest",
+          "• Gov"
+        ],
+        "stakes_bullets": [
+          "• The northern two-thirds of the state is expected to be hit the hardest",
+          "• Officials don’t expect widespread power outages, though there will be a slim difference between power demand and power supply "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "0aebe458a470"
+    },
+    {
       "id": "c690784022a8",
       "title": "Your Friendly Neighborhood Spider-Man: A Fresh and Engaging Take",
       "outlet": "Comic Quarters",
@@ -1818,6 +1852,74 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "2c5eead1859d",
+      "title": "Minneapolis shooting: parents of Alex Pretti say Trump officials are telling ‘sickening lies’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/25/minneapolis-shooting-parents-of-alex-pretti-say-trump-officials-are-telling-sickening-lies",
+      "published_at": "Sun, 25 Jan 2026 07:34:44 GMT",
+      "bullets": [
+        "• American citizen Alex Pretti, 37, was shot and killed by federal agents in Minneapolis on Saturday",
+        "• Pretti's family said they were “heartbroken but also very angry” after Donald Trump referred to Pretti as a “gunman” Two witnesses to the killing have said in sworn testimony that Pretti was not brandishing a weapon when he approached federal agents "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• American citizen Alex Pretti, 37, was shot and killed by federal agents in Minneapolis on Saturday",
+          "• Pretti's family said they were “heartbroken but also very angry” after Donald Trump referred to Pretti as a “gunman” Two witnesses to the killing have said in sworn testimony that Pretti was not brandishing a weapon when he approached federal agents "
+        ],
+        "hopeful_bullets": [
+          "• American citizen Alex Pretti, 37, was shot and killed by federal agents in Minneapolis on Saturday",
+          "• Pretti's family said they were “heartbroken but also very angry” after Donald Trump referred to Pretti as a “gunman” Two witnesses to the killing have said in sworn testimony that Pretti was not brandishing a weapon when he approached federal agents "
+        ],
+        "stakes_bullets": [
+          "• American citizen Alex Pretti, 37, was shot and killed by federal agents in Minneapolis on Saturday",
+          "• Pretti's family said they were “heartbroken but also very angry” after Donald Trump referred to Pretti as a “gunman” Two witnesses to the killing have said in sworn testimony that Pretti was not brandishing a weapon when he approached federal agents "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0db3b0654b00"
+    },
+    {
+      "id": "597b5c19c724",
+      "title": "Witnesses contradict Trump officials’ account of killing – as it happened",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+      "published_at": "Sun, 25 Jan 2026 07:28:23 GMT",
+      "bullets": [
+        "• “Please get the truth out about our son’s death,” his parents say",
+        "• “I do not throw around the ‘sickening’ term lightly",
+        "• However his last thought and act was to protect a woman.” “He was clearly not holding a gun when",
+        "• He has his empty left hand raised above his",
+        "• hand "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• “Please get the truth out about our son’s death,” his parents say",
+          "• “I do not throw around the ‘sickening’ term lightly"
+        ],
+        "hopeful_bullets": [
+          "• “Please get the truth out about our son’s death,” his parents say",
+          "• “I do not throw around the ‘sickening’ term lightly"
+        ],
+        "stakes_bullets": [
+          "• “Please get the truth out about our son’s death,” his parents say",
+          "• “I do not throw around the ‘sickening’ term lightly",
+          "• However his last thought and act was to protect a woman.” “He was clearly not holding a gun when"
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "1a88e40aaf32"
+    },
+    {
       "id": "7b32aa49c633",
       "title": "‘SNL’: Watch Geese Perform ‘Au Pays du Cocaine,’ ‘Trinidad’",
       "outlet": "Music News",
@@ -1848,40 +1950,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "23b4a312db3e"
-    },
-    {
-      "id": "597b5c19c724",
-      "title": "Minneapolis shooting latest: Witnesses contradict Trump officials’ account of Alex Pretti’s killing: ‘He was only helping’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
-      "published_at": "Sun, 25 Jan 2026 06:59:14 GMT",
-      "bullets": [
-        "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
-        "• They say the credibility of Immigration and Customs Enforcement and the U.S",
-        "• Department of Homeland Security is at stake "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
-          "• They say the credibility of Immigration and Customs Enforcement and the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
-          "• They say the credibility of Immigration and Customs Enforcement and the U.S"
-        ],
-        "stakes_bullets": [
-          "• Alex Pretti's parents urge: 'Please get the truth out about our son' They say they are 'heartbroken' by the death of their son",
-          "• They say the credibility of Immigration and Customs Enforcement and the U.S",
-          "• Department of Homeland Security is at stake "
-        ]
-      },
-      "read_minutes": 14,
-      "cluster_id": "c531a9b259b5"
     },
     {
       "id": "f5b7363933b9",
@@ -2515,40 +2583,6 @@
       "cluster_id": "5de74c02315e"
     },
     {
-      "id": "9cbe554ccbf4",
-      "title": "Man killed in Minneapolis by federal agents identified as VA nurse Alex Pretti: ‘He wanted to help people’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-minneapolis-minnesota-shooting",
-      "published_at": "Sun, 25 Jan 2026 01:09:22 GMT",
-      "bullets": [
-        "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-        "• He was also a junior scientist at the University of Minnesota",
-        "• Pretti's family has pushed back on the Trump administration's account that Pretti threatened to attack officers with a gun "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-          "• He was also a junior scientist at the University of Minnesota"
-        ],
-        "hopeful_bullets": [
-          "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-          "• He was also a junior scientist at the University of Minnesota"
-        ],
-        "stakes_bullets": [
-          "• Alex Pretti, 37, was a registered nurse working in the intensive care unit at the Minneapolis VA Health Care System, which serves veterans",
-          "• He was also a junior scientist at the University of Minnesota",
-          "• Pretti's family has pushed back on the Trump administration's account that Pretti threatened to attack officers with a gun "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "94dbd24af9de"
-    },
-    {
       "id": "160bb4868bf2",
       "title": "‘Mum, I’m Alien Pregnant’ Sundance Review – A Charming Body Horror Comedy",
       "outlet": "Bloody Disgusting!",
@@ -2948,6 +2982,41 @@
       "cluster_id": "6b74a4124cbf"
     },
     {
+      "id": "ca95b4d8f04f",
+      "title": "Alex Pretti killing in Minneapolis by federal agents: what we know so far",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-minneapolis-what-we-know-so-far",
+      "published_at": "Sat, 24 Jan 2026 22:49:54 GMT",
+      "bullets": [
+        "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
+        "• Much remains unknown, unclear or unconfirmed about what happened and why",
+        "• At least five agents surrounded Pretti on the ground, and one appeared to fire a shot at him at close range",
+        "• The shot was followed by a volley of more shots, after which Pretti’s body went still "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
+          "• Much remains unknown, unclear or unconfirmed about what happened and why"
+        ],
+        "hopeful_bullets": [
+          "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
+          "• Much remains unknown, unclear or unconfirmed about what happened and why"
+        ],
+        "stakes_bullets": [
+          "• A 37-year-old nurse named Alex Pretti was shot and killed by federal agents in Minneapolis on Saturday",
+          "• Much remains unknown, unclear or unconfirmed about what happened and why",
+          "• At least five agents surrounded Pretti on the ground, and one appeared to fire a shot at him at close range"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "dabc80a5f58d"
+    },
+    {
       "id": "3569d0c3534b",
       "title": "‘Leviticus’ Sundance Review – Desire is Deadly in Affecting Cursed Horror Movie",
       "outlet": "Bloody Disgusting!",
@@ -3343,38 +3412,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "28df5fe0f81b"
-    },
-    {
-      "id": "264b94ca94c0",
-      "title": "‘How many more Americans need to die?’: Minneapolis mayor condemns Trump",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/24/jacob-frey-full-statement",
-      "published_at": "Sat, 24 Jan 2026 18:28:41 GMT",
-      "bullets": [
-        "• Jacob Frey: How many more lives need to be lost before this administration realizes that a political and partisan narrative is not as important as American values",
-        "• Frey: \"I’m done being told that our local elected officials are solely responsible for turning down the temperature\""
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jacob Frey: How many more lives need to be lost before this administration realizes that a political and partisan narrative is not as important as American values",
-          "• Frey: \"I’m done being told that our local elected officials are solely responsible for turning down the temperature\""
-        ],
-        "hopeful_bullets": [
-          "• Jacob Frey: How many more lives need to be lost before this administration realizes that a political and partisan narrative is not as important as American values",
-          "• Frey: \"I’m done being told that our local elected officials are solely responsible for turning down the temperature\""
-        ],
-        "stakes_bullets": [
-          "• Jacob Frey: How many more lives need to be lost before this administration realizes that a political and partisan narrative is not as important as American values",
-          "• Frey: \"I’m done being told that our local elected officials are solely responsible for turning down the temperature\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "00d2902ae91d"
     },
     {
       "id": "48f92fc32789",
@@ -9701,13 +9738,31 @@
       ]
     },
     {
-      "id": "c531a9b259b5",
-      "topic": "contradict minneapoli official shooting",
+      "id": "0db3b0654b00",
+      "topic": "alex minneapoli parent pretti",
       "keywords": [
-        "contradict",
+        "alex",
         "minneapoli",
+        "parent",
+        "pretti",
+        "say",
+        "shooting"
+      ],
+      "item_ids": [
+        "2c5eead1859d"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "1a88e40aaf32",
+      "topic": "account contradict killing official",
+      "keywords": [
+        "account",
+        "contradict",
+        "killing",
         "official",
-        "shooting",
         "trump",
         "witnesse"
       ],
@@ -9845,36 +9900,18 @@
       ]
     },
     {
-      "id": "94dbd24af9de",
-      "topic": "agent federal identified killed",
+      "id": "dabc80a5f58d",
+      "topic": "agent alex federal killing",
       "keywords": [
         "agent",
+        "alex",
         "federal",
-        "identified",
-        "killed",
-        "man",
-        "minneapoli"
-      ],
-      "item_ids": [
-        "9cbe554ccbf4"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "00d2902ae91d",
-      "topic": "american die many mayor",
-      "keywords": [
-        "american",
-        "die",
-        "many",
-        "mayor",
+        "killing",
         "minneapoli",
-        "need"
+        "pretti"
       ],
       "item_ids": [
-        "264b94ca94c0"
+        "ca95b4d8f04f"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -14218,6 +14255,24 @@
       ],
       "item_ids": [
         "7bb9a79f7603"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "0aebe458a470",
+      "topic": "grid hold official power",
+      "keywords": [
+        "grid",
+        "hold",
+        "official",
+        "power",
+        "say",
+        "texa"
+      ],
+      "item_ids": [
+        "6689cb054e2c"
       ],
       "outlets": [
         "The Texas Tribune"
