@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T16:01:09Z",
+  "generated_at": "2026-01-25T16:18:33Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1819,6 +1819,110 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "026cc52964ff",
+      "title": "Super Mario Galaxy Movie Trailer Reveals First Look at Yoshi",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/super-mario-galaxy-movie-yoshi-first-look-trailer/",
+      "published_at": "Sun, 25 Jan 2026 16:05:46 GMT",
+      "bullets": [
+        "• The Super Mario Galaxy Movie is a sequel to the 2023 film",
+        "• The sequel introduces Yoshi to Mario and Luigi",
+        "• The movie is set to be released in 2023",
+        "• It's the first time the two characters have been together since the film's release "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Super Mario Galaxy Movie is a sequel to the 2023 film",
+          "• The sequel introduces Yoshi to Mario and Luigi"
+        ],
+        "hopeful_bullets": [
+          "• The Super Mario Galaxy Movie is a sequel to the 2023 film",
+          "• The sequel introduces Yoshi to Mario and Luigi"
+        ],
+        "stakes_bullets": [
+          "• The Super Mario Galaxy Movie is a sequel to the 2023 film",
+          "• The sequel introduces Yoshi to Mario and Luigi",
+          "• The movie is set to be released in 2023"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a456ccbd06d8"
+    },
+    {
+      "id": "45fc6bb81da5",
+      "title": "Dwayne Johnson's Box Office Flop The Smashing Machine Finds Redemption on Streaming",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dwayne-johnsons-biopic-flop-hbo-max-success-january-2026/",
+      "published_at": "Sun, 25 Jan 2026 16:00:11 GMT",
+      "bullets": [
+        "• The Smashing Machine debuted on HBO Max on Jan",
+        "• 23, 2026",
+        "• The sports biopic stars Dwayne Johnson as two-time UFC heavyweight champ Mark Kerr",
+        "• It debuted in first place on the Amazon, iTunes, Starz and Rakuten "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Smashing Machine debuted on HBO Max on Jan",
+          "• 23, 2026"
+        ],
+        "hopeful_bullets": [
+          "• The Smashing Machine debuted on HBO Max on Jan",
+          "• 23, 2026"
+        ],
+        "stakes_bullets": [
+          "• The Smashing Machine debuted on HBO Max on Jan",
+          "• 23, 2026",
+          "• The sports biopic stars Dwayne Johnson as two-time UFC heavyweight champ Mark Kerr"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "062c398d451c"
+    },
+    {
+      "id": "11d9575ac2b4",
+      "title": "The Transformer's Technobots Still Has the Show's Darkest Lore",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/transformers-autobot-team-darkest-lore/",
+      "published_at": "Sun, 25 Jan 2026 16:00:11 GMT",
+      "bullets": [
+        "• The Technobots are one of the strangest teams in the Transformers universe",
+        "• Their alt-modes aren't vehicles that exist, and they aren't that distinct in terms of appearance",
+        "• They have a dark origin that ties together the Dinobot Grimlock and the brains of Unicron "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Technobots are one of the strangest teams in the Transformers universe",
+          "• Their alt-modes aren't vehicles that exist, and they aren't that distinct in terms of appearance"
+        ],
+        "hopeful_bullets": [
+          "• The Technobots are one of the strangest teams in the Transformers universe",
+          "• Their alt-modes aren't vehicles that exist, and they aren't that distinct in terms of appearance"
+        ],
+        "stakes_bullets": [
+          "• The Technobots are one of the strangest teams in the Transformers universe",
+          "• Their alt-modes aren't vehicles that exist, and they aren't that distinct in terms of appearance",
+          "• They have a dark origin that ties together the Dinobot Grimlock and the brains of Unicron "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bada2e8f0b40"
+    },
+    {
       "id": "92e3455333fb",
       "title": "Taika Waititi Gives Update on His 'Fun' Star Wars Movie",
       "outlet": "CBR",
@@ -1852,6 +1956,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "3748028dcaca"
+    },
+    {
+      "id": "2c5eead1859d",
+      "title": "Minneapolis shooting: parents of Alex Pretti say Trump officials are telling ‘sickening lies’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/25/minneapolis-shooting-parents-of-alex-pretti-say-trump-officials-are-telling-sickening-lies",
+      "published_at": "Sun, 25 Jan 2026 15:43:45 GMT",
+      "bullets": [
+        "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
+        "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis",
+        "• Pretti’s family released a statement on Saturday evening in which they said they were “heartbroken but also very angry”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
+          "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
+          "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
+          "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis",
+          "• Pretti’s family released a statement on Saturday evening in which they said they were “heartbroken but also very angry”"
+        ]
+      },
+      "read_minutes": 19,
+      "cluster_id": "0db3b0654b00"
     },
     {
       "id": "7e98eccf8906",
@@ -1888,6 +2026,37 @@
       "cluster_id": "4bd827d63baa"
     },
     {
+      "id": "27c318c02e19",
+      "title": "Winter Storm Fern live updates: snow and ice batter east coast",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/25/winter-snow-storm-weather-latest-updates",
+      "published_at": "Sun, 25 Jan 2026 15:38:20 GMT",
+      "bullets": [
+        "• Winter storm Fern continues to hit large parts of the country, dumping snow, sleet and freezing rain",
+        "• Frigid temperatures, power outages, and treacherous road conditions are widespread",
+        "• Ice and snowfall expected to continue through Monday in much of the US "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.929
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Winter storm Fern continues to hit large parts of the country, dumping snow, sleet and freezing rain",
+          "• Frigid temperatures, power outages, and treacherous road conditions are widespread"
+        ],
+        "hopeful_bullets": [
+          "• Winter storm Fern continues to hit large parts of the country, dumping snow, sleet and freezing rain"
+        ],
+        "stakes_bullets": [
+          "• Ice and snowfall expected to continue through Monday in much of the US "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "22a4853642ff"
+    },
+    {
       "id": "f2d0a7371bba",
       "title": "Akira Yamaoka’s ‘Return to Silent Hill’ Soundtrack Now Available to Stream Digitally",
       "outlet": "Bloody Disgusting!",
@@ -1922,38 +2091,38 @@
       "cluster_id": "f04dd196e6cc"
     },
     {
-      "id": "2c5eead1859d",
-      "title": "Minneapolis shooting: parents of Alex Pretti say Trump officials are telling ‘sickening lies’",
+      "id": "b96340b50d44",
+      "title": "Online fundraiser for Alex Pretti raises nearly $400,000 day after fatal shooting",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/25/minneapolis-shooting-parents-of-alex-pretti-say-trump-officials-are-telling-sickening-lies",
-      "published_at": "Sun, 25 Jan 2026 15:01:31 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/jan/25/alex-pretti-fundraiser",
+      "published_at": "Sun, 25 Jan 2026 15:26:22 GMT",
       "bullets": [
-        "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
-        "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis",
-        "• Pretti’s family released a statement on Saturday evening in which they said they were “heartbroken but also very angry”"
+        "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $400,000 by Sunday morning",
+        "• Pretti, a US citizen and nurse, was killed Saturday in a shooting in Minneapolis",
+        "• Organizer says he's working with Pretti's family to make those relatives the campaign's beneficiaries "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.935
       },
       "moods": {
         "brief_bullets": [
-          "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
-          "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis"
+          "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $400,000 by Sunday morning",
+          "• Pretti, a US citizen and nurse, was killed Saturday in a shooting in Minneapolis"
         ],
         "hopeful_bullets": [
-          "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
-          "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis"
+          "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $400,000 by Sunday morning",
+          "• Pretti, a US citizen and nurse, was killed Saturday in a shooting in Minneapolis"
         ],
         "stakes_bullets": [
-          "• Donald Trump referred to Alex Pretti as a 'gunman' who approached US border patrol officers",
-          "• Two witnesses to the killing say Pretti was not brandishing a weapon when he approached federal agents in Minneapolis",
-          "• Pretti’s family released a statement on Saturday evening in which they said they were “heartbroken but also very angry”"
+          "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $400,000 by Sunday morning",
+          "• Pretti, a US citizen and nurse, was killed Saturday in a shooting in Minneapolis",
+          "• Organizer says he's working with Pretti's family to make those relatives the campaign's beneficiaries "
         ]
       },
-      "read_minutes": 18,
-      "cluster_id": "0db3b0654b00"
+      "read_minutes": 2,
+      "cluster_id": "def978ae8774"
     },
     {
       "id": "a9b0487cbf1d",
@@ -2426,38 +2595,6 @@
       "cluster_id": "7a10e1585c85"
     },
     {
-      "id": "d1fcfe5d59ea",
-      "title": "New Master Grade Gunpla Reveal Gives Gundam Seed Anime Fans a New Take on the Cosmic Era",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gundam-seed-destiny-master-grade-gunpla-bandai-release/",
-      "published_at": "Sun, 25 Jan 2026 13:30:12 GMT",
-      "bullets": [
-        "• The MGSD Destiny Gundam is a Master Grade SD SD Gundam, combining a chibi design with impressive detail",
-        "• Recreating the main mobile suit from one of the Cosmic Era anime, the little frame has several major weapons",
-        "• Bandai has revealed the lineup of what fans can expect from the year's upcoming model kits and similar releases "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The MGSD Destiny Gundam is a Master Grade SD SD Gundam, combining a chibi design with impressive detail",
-          "• Recreating the main mobile suit from one of the Cosmic Era anime, the little frame has several major weapons"
-        ],
-        "hopeful_bullets": [
-          "• The MGSD Destiny Gundam is a Master Grade SD SD Gundam, combining a chibi design with impressive detail",
-          "• Recreating the main mobile suit from one of the Cosmic Era anime, the little frame has several major weapons"
-        ],
-        "stakes_bullets": [
-          "• Bandai has revealed the lineup of what fans can expect from the year's upcoming model kits and similar releases "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "37499fd8f581"
-    },
-    {
       "id": "c2a7315e0486",
       "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
       "outlet": "BBC News",
@@ -2488,40 +2625,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "2bbd3d17b990"
-    },
-    {
-      "id": "a26d4973e3cd",
-      "title": "Absolute Batman's Scott Snyder and Jack Created One of Scariest Horror Comics of All Time",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/wytches-scott-snyder-jock-scariest-horror-comic/",
-      "published_at": "Sun, 25 Jan 2026 13:00:12 GMT",
-      "bullets": [
-        "• The all-new Absolute Batman series has quickly become one of the most important comic book series of the last twenty-five years",
-        "• Scott Snyder has teamed up with some of the greatest collaborators in the industry to tell the story of the Joker",
-        "• The creative duo most notably teamed up for Snyder's early Batman story, Batman: The Black Mirror "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The all-new Absolute Batman series has quickly become one of the most important comic book series of the last twenty-five years",
-          "• Scott Snyder has teamed up with some of the greatest collaborators in the industry to tell the story of the Joker"
-        ],
-        "hopeful_bullets": [
-          "• The all-new Absolute Batman series has quickly become one of the most important comic book series of the last twenty-five years",
-          "• Scott Snyder has teamed up with some of the greatest collaborators in the industry to tell the story of the Joker"
-        ],
-        "stakes_bullets": [
-          "• The all-new Absolute Batman series has quickly become one of the most important comic book series of the last twenty-five years",
-          "• Scott Snyder has teamed up with some of the greatest collaborators in the industry to tell the story of the Joker",
-          "• The creative duo most notably teamed up for Snyder's early Batman story, Batman: The Black Mirror "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "50d65a1bf577"
     },
     {
       "id": "986341a9ee54",
@@ -3468,41 +3571,6 @@
       "cluster_id": "de728cc32483"
     },
     {
-      "id": "f5b7363933b9",
-      "title": "Jujutsu Kaisen Faces Backlash From Japanese Fans, & They Couldn't Be More Wrong",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jjk-season-3-maki-fight-japanese-backlash/",
-      "published_at": "Sun, 25 Jan 2026 06:41:44 GMT",
-      "bullets": [
-        "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
-        "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode",
-        "• JJK Season 3 pushed the franchise to new heights in only four episodes",
-        "• Some fans were displeased with the stylistic direction of Maki Zenin's rampage "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
-          "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode"
-        ],
-        "hopeful_bullets": [
-          "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
-          "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode"
-        ],
-        "stakes_bullets": [
-          "• Jujutsu Kaisen Season 3 has already shaken up the shonen anime landscape",
-          "• Japanese fans have criticized the creative liberties MAPPA took in their adaptation of the episode",
-          "• JJK Season 3 pushed the franchise to new heights in only four episodes"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "5b3480d4104a"
-    },
-    {
       "id": "1f59afd2dcf8",
       "title": "5 things to know about the latest Minneapolis shooting",
       "outlet": "NPR Topics: News",
@@ -3569,38 +3637,6 @@
       "cluster_id": "72b1e5aace81"
     },
     {
-      "id": "c089fbdffbfc",
-      "title": "Democratic congressman punched in racist attack at Sundance film festival",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/25/congressman-maxwell-alejandro-frost-attack-police",
-      "published_at": "Sun, 25 Jan 2026 05:53:57 GMT",
-      "bullets": [
-        "• Florida congressman Maxwell Alejandro Frost said he was assaulted by a man who said Donald Trump would deport him",
-        "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress",
-        "• The suspect, identified as Christian Young, was arrested and booked on charges of “aggravated burglary and two counts of simple assault”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Florida congressman Maxwell Alejandro Frost said he was assaulted by a man who said Donald Trump would deport him",
-          "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress"
-        ],
-        "hopeful_bullets": [
-          "• Florida congressman Maxwell Alejandro Frost said he was assaulted by a man who said Donald Trump would deport him",
-          "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress"
-        ],
-        "stakes_bullets": [
-          "• The 29-year-old lawmaker made history as the first Afro-Cuban and the first member of Gen Z to be elected to Congress"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "dc592a10d437"
-    },
-    {
       "id": "057be00864a4",
       "title": "40 years after Challenger: Lingering guilt and lessons learned",
       "outlet": "NPR Topics: News",
@@ -3633,34 +3669,6 @@
       },
       "read_minutes": 15,
       "cluster_id": "35eb59c60389"
-    },
-    {
-      "id": "852c2550c0f3",
-      "title": "Schumer: Democrats will block funding package if it includes homeland security money",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/24/schumer-democrats-dhs-funding-package",
-      "published_at": "Sun, 25 Jan 2026 04:08:44 GMT",
-      "bullets": [
-        "• Senate Democratic leader, Chuck Schumer, said his party would block a funding package next week if it includes money for the Department of Homeland Security (DHS) The announcement comes as anger towards homeland security intensifies among the party after a group of federal agents violently restrained and then fatally shot 37-year-old ICU nurse in Minneapolis "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senate Democratic leader, Chuck Schumer, said his party would block a funding package next week if it includes money for the Department of Homeland Security (DHS) The announcement comes as anger towards homeland security intensifies among the party after a group of federal agents violently restrained and then fatally shot 37-year-old ICU nurse in Minneapolis "
-        ],
-        "hopeful_bullets": [
-          "• Senate Democratic leader, Chuck Schumer, said his party would block a funding package next week if it includes money for the Department of Homeland Security (DHS) The announcement comes as anger towards homeland security intensifies among the party after a group of federal agents violently restrained and then fatally shot 37-year-old ICU nurse in Minneapolis "
-        ],
-        "stakes_bullets": [
-          "• Senate Democratic leader, Chuck Schumer, said his party would block a funding package next week if it includes money for the Department of Homeland Security (DHS) The announcement comes as anger towards homeland security intensifies among the party after a group of federal agents violently restrained and then fatally shot 37-year-old ICU nurse in Minneapolis "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "87a4a8fa1941"
     },
     {
       "id": "f7489dd9ea31",
@@ -9640,6 +9648,42 @@
       ]
     },
     {
+      "id": "22a4853642ff",
+      "topic": "fern ice live snow",
+      "keywords": [
+        "fern",
+        "ice",
+        "live",
+        "snow",
+        "storm",
+        "winter"
+      ],
+      "item_ids": [
+        "27c318c02e19"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "def978ae8774",
+      "topic": "alex fundraiser nearly online",
+      "keywords": [
+        "alex",
+        "fundraiser",
+        "nearly",
+        "online",
+        "pretti",
+        "raise"
+      ],
+      "item_ids": [
+        "b96340b50d44"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "9f09ab5b892f",
       "topic": "cuts home hundred power",
       "keywords": [
@@ -9742,42 +9786,6 @@
       ],
       "item_ids": [
         "597b5c19c724"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "dc592a10d437",
-      "topic": "attack congressman democratic punched",
-      "keywords": [
-        "attack",
-        "congressman",
-        "democratic",
-        "punched",
-        "racist",
-        "sundance"
-      ],
-      "item_ids": [
-        "c089fbdffbfc"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "87a4a8fa1941",
-      "topic": "block democrat funding include",
-      "keywords": [
-        "block",
-        "democrat",
-        "funding",
-        "include",
-        "package",
-        "schumer"
-      ],
-      "item_ids": [
-        "852c2550c0f3"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -13292,6 +13300,60 @@
       ]
     },
     {
+      "id": "a456ccbd06d8",
+      "topic": "galaxy mario movie reveal",
+      "keywords": [
+        "galaxy",
+        "mario",
+        "movie",
+        "reveal",
+        "super",
+        "trailer"
+      ],
+      "item_ids": [
+        "026cc52964ff"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "062c398d451c",
+      "topic": "box dwayne flop johnson",
+      "keywords": [
+        "box",
+        "dwayne",
+        "flop",
+        "johnson",
+        "office",
+        "smashing"
+      ],
+      "item_ids": [
+        "45fc6bb81da5"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "bada2e8f0b40",
+      "topic": "darkest lore show still",
+      "keywords": [
+        "darkest",
+        "lore",
+        "show",
+        "still",
+        "technobot",
+        "transformer"
+      ],
+      "item_ids": [
+        "11d9575ac2b4"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3748028dcaca",
       "topic": "fun give star taika",
       "keywords": [
@@ -13409,60 +13471,6 @@
       ],
       "item_ids": [
         "d03efb6de326"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "37499fd8f581",
-      "topic": "give grade gundam gunpla",
-      "keywords": [
-        "give",
-        "grade",
-        "gundam",
-        "gunpla",
-        "master",
-        "reveal"
-      ],
-      "item_ids": [
-        "d1fcfe5d59ea"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "50d65a1bf577",
-      "topic": "absolute batman created jack",
-      "keywords": [
-        "absolute",
-        "batman",
-        "created",
-        "jack",
-        "scott",
-        "snyder"
-      ],
-      "item_ids": [
-        "a26d4973e3cd"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5b3480d4104a",
-      "topic": "backlash face fans japanese",
-      "keywords": [
-        "backlash",
-        "face",
-        "fans",
-        "japanese",
-        "jujutsu",
-        "kaisen"
-      ],
-      "item_ids": [
-        "f5b7363933b9"
       ],
       "outlets": [
         "CBR"
