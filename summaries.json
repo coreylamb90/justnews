@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T00:01:12Z",
+  "generated_at": "2026-01-26T00:20:16Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1649,6 +1649,38 @@
       "cluster_id": "e21992b886f5"
     },
     {
+      "id": "2c5eead1859d",
+      "title": "Minneapolis shooting: More Republican lawmakers join calls for full investigation into Alex Pretti’s killing – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/25/minneapolis-shooting-parents-of-alex-pretti-say-trump-officials-are-telling-sickening-lies",
+      "published_at": "Sun, 25 Jan 2026 23:34:14 GMT",
+      "bullets": [
+        "• Vermont's governor calls for Donald Trump to de-escalate after fatal Minnesota shootings",
+        "• Another Republican senator has called for an investigation into the killing of Alex Pretti, saying the US has to ‘maintain our core values as a nation’"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.918
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Vermont's governor calls for Donald Trump to de-escalate after fatal Minnesota shootings",
+          "• Another Republican senator has called for an investigation into the killing of Alex Pretti, saying the US has to ‘maintain our core values as a nation’"
+        ],
+        "hopeful_bullets": [
+          "• Vermont's governor calls for Donald Trump to de-escalate after fatal Minnesota shootings",
+          "• Another Republican senator has called for an investigation into the killing of Alex Pretti, saying the US has to ‘maintain our core values as a nation’"
+        ],
+        "stakes_bullets": [
+          "• Vermont's governor calls for Donald Trump to de-escalate after fatal Minnesota shootings",
+          "• Another Republican senator has called for an investigation into the killing of Alex Pretti, saying the US has to ‘maintain our core values as a nation’"
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "85b4e01c06c4"
+    },
+    {
       "id": "7e997bef5fd3",
       "title": "Boruto is Finally a Better Protagonist Than Naruto",
       "outlet": "CBR",
@@ -1711,40 +1743,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "fcdf4199235b"
-    },
-    {
-      "id": "2c5eead1859d",
-      "title": "Minneapolis shooting: More Republican lawmakers join calls for full investigation into Alex Pretti’s killing – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/25/minneapolis-shooting-parents-of-alex-pretti-say-trump-officials-are-telling-sickening-lies",
-      "published_at": "Sun, 25 Jan 2026 23:04:47 GMT",
-      "bullets": [
-        "• 'Enough is enough': Vermont's governor calls for Donald Trump to de-escalate federal actions in Minnesota",
-        "• 'It’s not acceptable for American citizens to be killed by federal agents for exercising their rights to protest their government",
-        "• At worst, it's a deliberate federal incitement of American citizens'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'Enough is enough': Vermont's governor calls for Donald Trump to de-escalate federal actions in Minnesota",
-          "• 'It’s not acceptable for American citizens to be killed by federal agents for exercising their rights to protest their government"
-        ],
-        "hopeful_bullets": [
-          "• 'Enough is enough': Vermont's governor calls for Donald Trump to de-escalate federal actions in Minnesota",
-          "• 'It’s not acceptable for American citizens to be killed by federal agents for exercising their rights to protest their government"
-        ],
-        "stakes_bullets": [
-          "• 'Enough is enough': Vermont's governor calls for Donald Trump to de-escalate federal actions in Minnesota",
-          "• 'It’s not acceptable for American citizens to be killed by federal agents for exercising their rights to protest their government",
-          "• At worst, it's a deliberate federal incitement of American citizens'"
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "85b4e01c06c4"
     },
     {
       "id": "27c318c02e19",
@@ -1881,108 +1879,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "8b3b38faca01"
-    },
-    {
-      "id": "95862339c809",
-      "title": "Robert De Niro's The Alto Knights Misfire Officially Ended a Crime Movie Era",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/robert-de-niro-the-alto-knights-flop-ends-crime-era/",
-      "published_at": "Sun, 25 Jan 2026 22:50:11 GMT",
-      "bullets": [
-        "• The Alto Knights is the latest movie to be released",
-        "• It's about a pair of influential mobsters trying to take control of the country",
-        "• The movie has been released on HBO and Amazon Prime",
-        "• The film has received a mixed reception from critics, with some saying it's not the best "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Alto Knights is the latest movie to be released",
-          "• It's about a pair of influential mobsters trying to take control of the country"
-        ],
-        "hopeful_bullets": [
-          "• The Alto Knights is the latest movie to be released",
-          "• It's about a pair of influential mobsters trying to take control of the country"
-        ],
-        "stakes_bullets": [
-          "• The Alto Knights is the latest movie to be released",
-          "• It's about a pair of influential mobsters trying to take control of the country",
-          "• The movie has been released on HBO and Amazon Prime"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d7073803aa50"
-    },
-    {
-      "id": "c887e811ae9c",
-      "title": "The Best WWII Limited Series of All Time Is a Digital Hit Again 25 Years Later",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/band-of-brothers-historical-ww2-limited-series-pvod-success-january-2026/",
-      "published_at": "Sun, 25 Jan 2026 22:30:11 GMT",
-      "bullets": [
-        "• 2001's Band of Brothers has officially dropped in 18th place on iTunes",
-        "• The critically acclaimed series was created by Tom Hanks and Steven Spielberg",
-        "• It follows a dramatized version of the history of the US Army's \"Easy\" Company, 2nd Battalion, 506th Parachute Infantry Regiment "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 2001's Band of Brothers has officially dropped in 18th place on iTunes",
-          "• The critically acclaimed series was created by Tom Hanks and Steven Spielberg"
-        ],
-        "hopeful_bullets": [
-          "• 2001's Band of Brothers has officially dropped in 18th place on iTunes",
-          "• The critically acclaimed series was created by Tom Hanks and Steven Spielberg"
-        ],
-        "stakes_bullets": [
-          "• 2001's Band of Brothers has officially dropped in 18th place on iTunes"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "536ca52da389"
-    },
-    {
-      "id": "27083526868f",
-      "title": "These 10 Superheroes Are Also Cops - And Fan Tend To Forget That",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/marvel-dc-superheroes-who-are-also-cops/",
-      "published_at": "Sun, 25 Jan 2026 22:30:11 GMT",
-      "bullets": [
-        "• Ryan Murphy's Monster has kept true crime junkies tuned in",
-        "• The fourth season of the series airs in Rome",
-        "• Cinematographer Michael Bauman has hinted at another thrilling chapter of the serial killer saga",
-        "• Bauman was drawn to Monster: The Ed Gein Story, which revealed a personal connection "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.903
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ryan Murphy's Monster has kept true crime junkies tuned in",
-          "• The fourth season of the series airs in Rome"
-        ],
-        "hopeful_bullets": [
-          "• Ryan Murphy's Monster has kept true crime junkies tuned in",
-          "• The fourth season of the series airs in Rome"
-        ],
-        "stakes_bullets": [
-          "• Ryan Murphy's Monster has kept true crime junkies tuned in",
-          "• The fourth season of the series airs in Rome",
-          "• Cinematographer Michael Bauman has hinted at another thrilling chapter of the serial killer saga"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "920a5fe86e86"
     },
     {
       "id": "574b8429f16e",
@@ -2414,6 +2310,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "0fd6457ae25b"
+    },
+    {
+      "id": "2575f84cb96d",
+      "title": "Power outages and canceled flights as winter storm brings snow, sleet and ice",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/25/nx-s1-5687957/weather-snow-ice-winter-storm-power-outages-travel",
+      "published_at": "Sun, 25 Jan 2026 18:36:08 -0500",
+      "bullets": [
+        "• Nearly a million customers across the South are without power on Sunday evening",
+        "• Nearly 11,000 flights have been canceled in the U.S",
+        "• and more than 4,200 are delayed",
+        "• The storm is affecting tens of millions of people from New Mexico to New England "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nearly a million customers across the South are without power on Sunday evening",
+          "• Nearly 11,000 flights have been canceled in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Nearly a million customers across the South are without power on Sunday evening",
+          "• Nearly 11,000 flights have been canceled in the U.S"
+        ],
+        "stakes_bullets": [
+          "• The storm is affecting tens of millions of people from New Mexico to New England "
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "1e47666bb149"
     },
     {
       "id": "f88e4016025d",
@@ -4681,38 +4610,6 @@
       "cluster_id": "96d3ae221693"
     },
     {
-      "id": "9d095ed780ba",
-      "title": "Billions owed: 'The Debt' podcast covers the South's long fight to repay public HBCUs",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/24/nx-s1-5684069/billions-owed-the-debt-podcast-covers-the-souths-long-fight-to-repay-public-hbcus",
-      "published_at": "Sat, 24 Jan 2026 17:36:11 -0500",
-      "bullets": [
-        "• State governments across the South have underfunded their historically Black public colleges and universities, or HBCUs",
-        "• So how should these debts be repaid? States have wrestled with this question for decades, and it's led to lawsuits, university mergers and, in one case, a student-led hunger strike "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• State governments across the South have underfunded their historically Black public colleges and universities, or HBCUs",
-          "• So how should these debts be repaid? States have wrestled with this question for decades, and it's led to lawsuits, university mergers and, in one case, a student-led hunger strike "
-        ],
-        "hopeful_bullets": [
-          "• State governments across the South have underfunded their historically Black public colleges and universities, or HBCUs",
-          "• So how should these debts be repaid? States have wrestled with this question for decades, and it's led to lawsuits, university mergers and, in one case, a student-led hunger strike "
-        ],
-        "stakes_bullets": [
-          "• State governments across the South have underfunded their historically Black public colleges and universities, or HBCUs",
-          "• So how should these debts be repaid? States have wrestled with this question for decades, and it's led to lawsuits, university mergers and, in one case, a student-led hunger strike "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "ed13e5946339"
-    },
-    {
       "id": "a675296889a0",
       "title": "Sundance 2026 Review: SACCHARINE is a Sickly Sweet Take On Body Horror",
       "outlet": "Daily Dead",
@@ -5941,6 +5838,107 @@
       },
       "read_minutes": 2,
       "cluster_id": "ce5a5a3ce234"
+    },
+    {
+      "id": "4bb4dde807f5",
+      "title": "Alien: Romulus’ Smart Twist Fixes a Classic Action Movie Cheat",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/alien-romulus-fixed-weird-action-movie-cheat/",
+      "published_at": "Mon, 26 Jan 2026 00:05:12 GMT",
+      "bullets": [
+        "• Last year, FX released the first-ever Alien television series from Fargo's Noah Hawley",
+        "• In 2024, Fede Álvarez also successfully reinvigorated the sci-fi horror franchise with Alien: Romulus",
+        "• Romulus takes place in the years between the first two films and returns the series to its roots "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Last year, FX released the first-ever Alien television series from Fargo's Noah Hawley",
+          "• In 2024, Fede Álvarez also successfully reinvigorated the sci-fi horror franchise with Alien: Romulus"
+        ],
+        "hopeful_bullets": [
+          "• Last year, FX released the first-ever Alien television series from Fargo's Noah Hawley",
+          "• In 2024, Fede Álvarez also successfully reinvigorated the sci-fi horror franchise with Alien: Romulus"
+        ],
+        "stakes_bullets": [
+          "• Last year, FX released the first-ever Alien television series from Fargo's Noah Hawley",
+          "• In 2024, Fede Álvarez also successfully reinvigorated the sci-fi horror franchise with Alien: Romulus",
+          "• Romulus takes place in the years between the first two films and returns the series to its roots "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3735d5574e99"
+    },
+    {
+      "id": "0e297489053d",
+      "title": "Disney's Sci-Fi Reboot Tron: Ares Returns to the Top of the Charts Despite Bombing in Theaters",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jared-leto-sci-fi-tron-ares-disney-plus-success-january-2026/",
+      "published_at": "Mon, 26 Jan 2026 00:00:12 GMT",
+      "bullets": [
+        "• Evan Peters starred in the sci-fi reboot Tron: Ares",
+        "• The film debuted in theaters on Oct",
+        "• 10",
+        "• It is still the No",
+        "• 1 film globally on Disney+"
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Evan Peters starred in the sci-fi reboot Tron: Ares",
+          "• The film debuted in theaters on Oct"
+        ],
+        "hopeful_bullets": [
+          "• Evan Peters starred in the sci-fi reboot Tron: Ares",
+          "• The film debuted in theaters on Oct"
+        ],
+        "stakes_bullets": [
+          "• Evan Peters starred in the sci-fi reboot Tron: Ares",
+          "• The film debuted in theaters on Oct",
+          "• 10"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d9e2f35c9e51"
+    },
+    {
+      "id": "276b4cd7e4d2",
+      "title": "Amazon Prime Video Joins Netflix in New Anime AI Release Rollout Despite Fall 2025 Failure",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/amazon-prime-video-new-anime-ai-release-2025-failure/",
+      "published_at": "Mon, 26 Jan 2026 00:00:12 GMT",
+      "bullets": [
+        "• Amazon's Prime Video appears to be looking for a new team member to help implement further AI-generated anime dubs",
+        "• The job listing for a creative director included direct references to the dubbing of Prime Video localizations of popular anime using generative AI "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon's Prime Video appears to be looking for a new team member to help implement further AI-generated anime dubs",
+          "• The job listing for a creative director included direct references to the dubbing of Prime Video localizations of popular anime using generative AI "
+        ],
+        "hopeful_bullets": [
+          "• Amazon's Prime Video appears to be looking for a new team member to help implement further AI-generated anime dubs"
+        ],
+        "stakes_bullets": [
+          "• Amazon's Prime Video appears to be looking for a new team member to help implement further AI-generated anime dubs",
+          "• The job listing for a creative director included direct references to the dubbing of Prime Video localizations of popular anime using generative AI "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c8d75545333d"
     },
     {
       "id": "ba0bc378a181",
@@ -9481,6 +9479,24 @@
       ]
     },
     {
+      "id": "1e47666bb149",
+      "topic": "canceled flight outage power",
+      "keywords": [
+        "canceled",
+        "flight",
+        "outage",
+        "power",
+        "storm",
+        "winter"
+      ],
+      "item_ids": [
+        "2575f84cb96d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "327a60a3d926",
       "topic": "account eyewitnesse federal minneapoli",
       "keywords": [
@@ -9635,24 +9651,6 @@
       ],
       "item_ids": [
         "3abb78b7e010"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "ed13e5946339",
-      "topic": "billion cover debt owed",
-      "keywords": [
-        "billion",
-        "cover",
-        "debt",
-        "owed",
-        "podcast",
-        "south"
-      ],
-      "item_ids": [
-        "9d095ed780ba"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -12798,6 +12796,60 @@
       ]
     },
     {
+      "id": "3735d5574e99",
+      "topic": "alien classic fixe romulu",
+      "keywords": [
+        "alien",
+        "classic",
+        "fixe",
+        "romulu",
+        "smart",
+        "twist"
+      ],
+      "item_ids": [
+        "4bb4dde807f5"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d9e2f35c9e51",
+      "topic": "ares disney reboot return",
+      "keywords": [
+        "ares",
+        "disney",
+        "reboot",
+        "return",
+        "sci",
+        "tron"
+      ],
+      "item_ids": [
+        "0e297489053d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c8d75545333d",
+      "topic": "amazon anime join netflix",
+      "keywords": [
+        "amazon",
+        "anime",
+        "join",
+        "netflix",
+        "prime",
+        "video"
+      ],
+      "item_ids": [
+        "276b4cd7e4d2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "8d617c622fce",
       "topic": "chri continue mercy pratt",
       "keywords": [
@@ -12916,60 +12968,6 @@
       ],
       "item_ids": [
         "9938843f1592"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d7073803aa50",
-      "topic": "alto knight misfire niro",
-      "keywords": [
-        "alto",
-        "knight",
-        "misfire",
-        "niro",
-        "officially",
-        "robert"
-      ],
-      "item_ids": [
-        "95862339c809"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "536ca52da389",
-      "topic": "all best limited serie",
-      "keywords": [
-        "all",
-        "best",
-        "limited",
-        "serie",
-        "time",
-        "wwii"
-      ],
-      "item_ids": [
-        "c887e811ae9c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "920a5fe86e86",
-      "topic": "cops fan forget superheroe",
-      "keywords": [
-        "cops",
-        "fan",
-        "forget",
-        "superheroe",
-        "tend",
-        "these"
-      ],
-      "item_ids": [
-        "27083526868f"
       ],
       "outlets": [
         "CBR"
