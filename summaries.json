@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T10:16:20Z",
+  "generated_at": "2026-01-26T11:09:49Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -97,41 +97,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7a53530c13b6"
-    },
-    {
-      "id": "5b30938dc062",
-      "title": "An arctic storm is expected to blanket the state. Here’s what Texans can expect.",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17259506/texas-winter-storm-watch-forecast-ice",
-      "published_at": "Wed, 21 Jan 2026 20:18:33 +0000",
-      "bullets": [
-        "• Frigid air is blowing in from northern Canada",
-        "• It's expected to reach the very southern tip of Texas by Sunday morning",
-        "• Every part of the state, from El Paso to the Houston region, will experience a hard freeze",
-        "• The storm brings a strong chance of ice, which may cause power outages "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Frigid air is blowing in from northern Canada",
-          "• It's expected to reach the very southern tip of Texas by Sunday morning"
-        ],
-        "hopeful_bullets": [
-          "• Frigid air is blowing in from northern Canada",
-          "• The storm brings a strong chance of ice, which may cause power outages "
-        ],
-        "stakes_bullets": [
-          "• It's expected to reach the very southern tip of Texas by Sunday morning",
-          "• Every part of the state, from El Paso to the Houston region, will experience a hard freeze",
-          "• The storm brings a strong chance of ice, which may cause power outages "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9f8d5dfe1a85"
     },
     {
       "id": "cb065d070068",
@@ -892,38 +857,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "7e2edd3fa581"
-    },
-    {
-      "id": "3a9c71c35870",
-      "title": "Texas defends law requiring schools to post Ten Commandments. Here’s what to know.",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17258411/texas-ten-commandments-5th-circuit-court",
-      "published_at": "Tue, 20 Jan 2026 11:00:00 +0000",
-      "bullets": [
-        "• The 5th U.S",
-        "• Circuit Court of Appeals heard arguments over a Texas law requiring public schools to display posters of the Ten Commandments in classrooms",
-        "• The case could play a central role in the national debate over whether the laws violate the First Amendment’s Establishment Clause "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.89
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 5th U.S",
-          "• Circuit Court of Appeals heard arguments over a Texas law requiring public schools to display posters of the Ten Commandments in classrooms"
-        ],
-        "hopeful_bullets": [
-          "• The 5th U.S",
-          "• Circuit Court of Appeals heard arguments over a Texas law requiring public schools to display posters of the Ten Commandments in classrooms"
-        ],
-        "stakes_bullets": [
-          "• The case could play a central role in the national debate over whether the laws violate the First Amendment’s Establishment Clause "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "89ca0843b388"
     },
     {
       "id": "bc7fccb7b3ac",
@@ -1752,39 +1685,6 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
-      "id": "346a64d08a93",
-      "title": "Shutdown odds grow as Senate Republicans won't remove DHS funding after Pretti killing",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/25/minneapolis-shooting-government-shutdown.html",
-      "published_at": "Sun, 25 Jan 2026 23:52:05 GMT",
-      "bullets": [
-        "• Democratic senators say they will not vote for a massive $1.2 trillion package to fund government operations if it includes appropriations for the Department of Homeland Security",
-        "• Without Senate approval of the deal by Friday, the federal government will begin a partial shutdown",
-        "• Republicans are determined to not have another government shutdown, a source says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democratic senators say they will not vote for a massive $1.2 trillion package to fund government operations if it includes appropriations for the Department of Homeland Security",
-          "• Without Senate approval of the deal by Friday, the federal government will begin a partial shutdown"
-        ],
-        "hopeful_bullets": [
-          "• Democratic senators say they will not vote for a massive $1.2 trillion package to fund government operations if it includes appropriations for the Department of Homeland Security",
-          "• Without Senate approval of the deal by Friday, the federal government will begin a partial shutdown"
-        ],
-        "stakes_bullets": [
-          "• Democratic senators say they will not vote for a massive $1.2 trillion package to fund government operations if it includes appropriations for the Department of Homeland Security",
-          "• Without Senate approval of the deal by Friday, the federal government will begin a partial shutdown"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3f24457fccb5"
-    },
-    {
       "id": "27c318c02e19",
       "title": "More than 1 million power outages as deadly Winter Storm Fern pummels eastern US – as it happened",
       "outlet": "US news | The Guardian",
@@ -2011,74 +1911,6 @@
       "cluster_id": "05743fbb0a91"
     },
     {
-      "id": "b96340b50d44",
-      "title": "Fundraiser for Alex Pretti family raises nearly $700,000 day after fatal shooting",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/25/alex-pretti-fundraiser",
-      "published_at": "Sun, 25 Jan 2026 20:54:28 GMT",
-      "bullets": [
-        "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $700,000 by Sunday afternoon",
-        "• Pretti, a US citizen and nurse, was killed by federal agents in Minneapolis on Saturday",
-        "• The shooting ignited another round of protests against Donald Trump’s administration and immigration crackdown in the city "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.945
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $700,000 by Sunday afternoon",
-          "• Pretti, a US citizen and nurse, was killed by federal agents in Minneapolis on Saturday"
-        ],
-        "hopeful_bullets": [
-          "• The shooting ignited another round of protests against Donald Trump’s administration and immigration crackdown in the city "
-        ],
-        "stakes_bullets": [
-          "• An online fundraiser benefiting the family of Alex Pretti had raised nearly $700,000 by Sunday afternoon",
-          "• Pretti, a US citizen and nurse, was killed by federal agents in Minneapolis on Saturday",
-          "• The shooting ignited another round of protests against Donald Trump’s administration and immigration crackdown in the city "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5f26161875f6"
-    },
-    {
-      "id": "6a1cb1c87a19",
-      "title": "Videos of Alex Pretti shooting by federal agents in Minneapolis contradict Trump official claims",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html",
-      "published_at": "Sun, 25 Jan 2026 20:49:35 GMT",
-      "bullets": [
-        "• Alex Pretti, a 37-year-old U.S",
-        "• citizen, was shot and killed by federal immigration agents in Minneapolis",
-        "• DHS Secretary Kristi Noem defended the Border Patrol agent who shot Pretti",
-        "• But videos taken by bystanders tell a different story "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alex Pretti, a 37-year-old U.S",
-          "• citizen, was shot and killed by federal immigration agents in Minneapolis"
-        ],
-        "hopeful_bullets": [
-          "• Alex Pretti, a 37-year-old U.S",
-          "• citizen, was shot and killed by federal immigration agents in Minneapolis"
-        ],
-        "stakes_bullets": [
-          "• Alex Pretti, a 37-year-old U.S",
-          "• citizen, was shot and killed by federal immigration agents in Minneapolis",
-          "• DHS Secretary Kristi Noem defended the Border Patrol agent who shot Pretti"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "81eaed20a66a"
-    },
-    {
       "id": "0366adb0c619",
       "title": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation'",
       "outlet": "US Top News and Analysis",
@@ -2111,72 +1943,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8c029f5998f1"
-    },
-    {
-      "id": "20484c73f996",
-      "title": "US winter storm leaves seven people dead as more than 1 million lose power",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/25/us-storm-cuts-power-cancels-thousands-flights",
-      "published_at": "Sun, 25 Jan 2026 20:11:20 GMT",
-      "bullets": [
-        "• At least seven people have died as a result of a winter storm in New York City",
-        "• More than one million people are without power in the region",
-        "• The storm is expected to bring snow and ice to New England and parts of the Mid-Atlantic "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least seven people have died as a result of a winter storm in New York City",
-          "• More than one million people are without power in the region"
-        ],
-        "hopeful_bullets": [
-          "• At least seven people have died as a result of a winter storm in New York City"
-        ],
-        "stakes_bullets": [
-          "• At least seven people have died as a result of a winter storm in New York City",
-          "• The storm is expected to bring snow and ice to New England and parts of the Mid-Atlantic "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "83337dfb19ce"
-    },
-    {
-      "id": "171913e773d7",
-      "title": "Minneapolis residents, angry and anxious, resolve to fight on as they mourn Alex Pretti",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/25/minneapolis-mourns-alex-pretti",
-      "published_at": "Sun, 25 Jan 2026 19:04:37 GMT",
-      "bullets": [
-        "• Alex Pretti, a 37-year-old nurse, was shot and killed by federal agents in Minneapolis on Saturday",
-        "• His death came less than three weeks after Renee Good, also 37, was killed by a federal agent in the city",
-        "• The city ended its security perimeter that had coralled the area and reopened traffic on Sunday morning "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.862
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alex Pretti, a 37-year-old nurse, was shot and killed by federal agents in Minneapolis on Saturday",
-          "• His death came less than three weeks after Renee Good, also 37, was killed by a federal agent in the city"
-        ],
-        "hopeful_bullets": [
-          "• Alex Pretti, a 37-year-old nurse, was shot and killed by federal agents in Minneapolis on Saturday",
-          "• His death came less than three weeks after Renee Good, also 37, was killed by a federal agent in the city"
-        ],
-        "stakes_bullets": [
-          "• Alex Pretti, a 37-year-old nurse, was shot and killed by federal agents in Minneapolis on Saturday",
-          "• His death came less than three weeks after Renee Good, also 37, was killed by a federal agent in the city",
-          "• The city ended its security perimeter that had coralled the area and reopened traffic on Sunday morning "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "dfe81f2c91b0"
     },
     {
       "id": "2575f84cb96d",
@@ -2243,6 +2009,74 @@
       },
       "read_minutes": 1,
       "cluster_id": "bdb8eb78dd06"
+    },
+    {
+      "id": "df88eeefb88d",
+      "title": "Venezuela frees dozens of political prisoners, human rights group says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 25 Jan 2026 18:29:57 GMT",
+      "bullets": [
+        "• At least 80 political prisoners have been released under pressure from the US, group says",
+        "• Head of Foro Penal says they are verifying the identities of those freed",
+        "• It is the latest batch of detainees released since the US seized Venezuelan President Nicolás Maduro in a raid "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.915
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 80 political prisoners have been released under pressure from the US, group says",
+          "• Head of Foro Penal says they are verifying the identities of those freed"
+        ],
+        "hopeful_bullets": [
+          "• At least 80 political prisoners have been released under pressure from the US, group says",
+          "• Head of Foro Penal says they are verifying the identities of those freed"
+        ],
+        "stakes_bullets": [
+          "• At least 80 political prisoners have been released under pressure from the US, group says",
+          "• Head of Foro Penal says they are verifying the identities of those freed",
+          "• It is the latest batch of detainees released since the US seized Venezuelan President Nicolás Maduro in a raid "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "69c2014896f3"
+    },
+    {
+      "id": "e002671b0f67",
+      "title": "NRA and pro-gun groups call for ‘full investigation’ into killing of Alex Pretti",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/25/alex-pretti-killing-nra-pro-gun-groups",
+      "published_at": "Sun, 25 Jan 2026 18:15:46 GMT",
+      "bullets": [
+        "• Alex Pretti, 37, was shot dead by federal immigration officials in Minneapolis on Saturday",
+        "• He was reportedly legally permitted to carry a gun and is a citizen of the US, where it is a constitutional right to bear arms",
+        "• Video of his shooting death does not depict him ever holding a gun "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alex Pretti, 37, was shot dead by federal immigration officials in Minneapolis on Saturday",
+          "• He was reportedly legally permitted to carry a gun and is a citizen of the US, where it is a constitutional right to bear arms"
+        ],
+        "hopeful_bullets": [
+          "• Alex Pretti, 37, was shot dead by federal immigration officials in Minneapolis on Saturday",
+          "• He was reportedly legally permitted to carry a gun and is a citizen of the US, where it is a constitutional right to bear arms"
+        ],
+        "stakes_bullets": [
+          "• Alex Pretti, 37, was shot dead by federal immigration officials in Minneapolis on Saturday",
+          "• He was reportedly legally permitted to carry a gun and is a citizen of the US, where it is a constitutional right to bear arms",
+          "• Video of his shooting death does not depict him ever holding a gun "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6fc5c0d4392f"
     },
     {
       "id": "72ea533ea66d",
@@ -2343,41 +2177,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0250a6f7710b"
-    },
-    {
-      "id": "1818c2540db3",
-      "title": "Appeals court rejects DoJ push to charge more people over Minnesota church protest",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/25/minnesota-church-protest-doj-appeals-court",
-      "published_at": "Sun, 25 Jan 2026 17:44:19 GMT",
-      "bullets": [
-        "• US appeals court rejects federal justice department's bid to charge five more people accused of disrupting a Minnesota church service",
-        "• The ruling is the latest legal setback for Donald Trump’s justice department as it pursues demonstrators who interrupted a service",
-        "• One judge involved in the case said the department's request appeared to be unprecedented",
-        "• A federal magistrate judge had previously declined to approve arrest warrants for five proposed defendants "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US appeals court rejects federal justice department's bid to charge five more people accused of disrupting a Minnesota church service",
-          "• The ruling is the latest legal setback for Donald Trump’s justice department as it pursues demonstrators who interrupted a service"
-        ],
-        "hopeful_bullets": [
-          "• US appeals court rejects federal justice department's bid to charge five more people accused of disrupting a Minnesota church service",
-          "• The ruling is the latest legal setback for Donald Trump’s justice department as it pursues demonstrators who interrupted a service"
-        ],
-        "stakes_bullets": [
-          "• US appeals court rejects federal justice department's bid to charge five more people accused of disrupting a Minnesota church service",
-          "• The ruling is the latest legal setback for Donald Trump’s justice department as it pursues demonstrators who interrupted a service",
-          "• One judge involved in the case said the department's request appeared to be unprecedented"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d81643775044"
     },
     {
       "id": "f2d0a7371bba",
@@ -2518,39 +2317,6 @@
       "cluster_id": "34f32d61d11d"
     },
     {
-      "id": "b39a8c7db2ed",
-      "title": "The U.S. states where you can retire at 65 with less than $1 million in savings",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/25/us-states-where-you-can-retire-at-65-with-less-than-1-million.html",
-      "published_at": "Sun, 25 Jan 2026 14:00:01 GMT",
-      "bullets": [
-        "• In 32 U.S",
-        "• states, the estimated minimum needed to retire at 65 is less than $1 million",
-        "• That's according to a state-by-state analysis from personal finance website GOBankingRates",
-        "• The study looked at cost of living data for retirees 65 and older, minus average Social Security income "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In 32 U.S",
-          "• states, the estimated minimum needed to retire at 65 is less than $1 million"
-        ],
-        "hopeful_bullets": [
-          "• In 32 U.S",
-          "• states, the estimated minimum needed to retire at 65 is less than $1 million"
-        ],
-        "stakes_bullets": [
-          "• That's according to a state-by-state analysis from personal finance website GOBankingRates"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6d9ca227925d"
-    },
-    {
       "id": "710d47d754eb",
       "title": "Watch: Videos refute DHS account of fatal shooting in Minneapolis",
       "outlet": "NPR Topics: News",
@@ -2583,39 +2349,68 @@
       "cluster_id": "6915160ad630"
     },
     {
-      "id": "0ea3487bc204",
-      "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 25 Jan 2026 12:24:31 GMT",
+      "id": "1b055e9d8eb7",
+      "title": "Trump accounts get supercharged by employer matches — some companies offer up to $1,000",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/25/trump-accounts-employer-matches.html",
+      "published_at": "Sun, 25 Jan 2026 13:35:01 GMT",
       "bullets": [
-        "• Alex Pretti, 37, was an avid outdoorsman who loved mountain biking and mountain biking",
-        "• He was shot dead by ICE agents in Minneapolis earlier this month",
-        "• Department of Homeland Security said he resisted attempts to disarm him",
-        "• His family said he was upset by President Donald Trump's crackdown on immigration "
+        "• A growing list of companies will match the federal $1,000 contribution for employees' children",
+        "• There are no income requirements, and all U.S",
+        "• families are eligible for the initial seed money",
+        "• The goal is to kick-start wealth-building opportunities, experts say "
       ],
-      "category": "World",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.962
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• Alex Pretti, 37, was an avid outdoorsman who loved mountain biking and mountain biking",
-          "• He was shot dead by ICE agents in Minneapolis earlier this month"
+          "• A growing list of companies will match the federal $1,000 contribution for employees' children",
+          "• There are no income requirements, and all U.S"
         ],
         "hopeful_bullets": [
-          "• Alex Pretti, 37, was an avid outdoorsman who loved mountain biking and mountain biking",
-          "• He was shot dead by ICE agents in Minneapolis earlier this month"
+          "• A growing list of companies will match the federal $1,000 contribution for employees' children"
         ],
         "stakes_bullets": [
-          "• Alex Pretti, 37, was an avid outdoorsman who loved mountain biking and mountain biking",
-          "• He was shot dead by ICE agents in Minneapolis earlier this month",
-          "• Department of Homeland Security said he resisted attempts to disarm him"
+          "• A growing list of companies will match the federal $1,000 contribution for employees' children",
+          "• There are no income requirements, and all U.S"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "7fc0eb6095d0"
+      "read_minutes": 3,
+      "cluster_id": "7a10e1585c85"
+    },
+    {
+      "id": "e0541d5243e9",
+      "title": "Auto executives are hoping for the best and planning for the worst in 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/25/auto-industry-2026.html",
+      "published_at": "Sun, 25 Jan 2026 13:00:02 GMT",
+      "bullets": [
+        "• Automotive forecasters are calling for steady to lower sales this year, despite industry sales only hitting 16.3 million units last year",
+        "• Forecasters say sales are down from more than 17 million units for five consecutive years before the pandemic in 2020",
+        "• Automakers have been surprisingly resilient during the challenges, but those issues are now combining with more traditional industry problems of affordability and slowing consumer demand "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Automotive forecasters are calling for steady to lower sales this year, despite industry sales only hitting 16.3 million units last year",
+          "• Forecasters say sales are down from more than 17 million units for five consecutive years before the pandemic in 2020"
+        ],
+        "hopeful_bullets": [
+          "• Automakers have been surprisingly resilient during the challenges, but those issues are now combining with more traditional industry problems of affordability and slowing consumer demand "
+        ],
+        "stakes_bullets": [
+          "• Forecasters say sales are down from more than 17 million units for five consecutive years before the pandemic in 2020"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "00fcba5bffff"
     },
     {
       "id": "6108b8dadc4a",
@@ -2717,6 +2512,42 @@
       },
       "read_minutes": 7,
       "cluster_id": "d74f89381ce8"
+    },
+    {
+      "id": "0a8156dcdb78",
+      "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another fatal shooting",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/24/walz-trump-ice-shooting.html",
+      "published_at": "Sun, 25 Jan 2026 11:56:39 GMT",
+      "bullets": [
+        "• Minnesota Gov",
+        "• Tim Walz: \"Minnesota has had it",
+        "• This is sickening",
+        "• The President must end this operation",
+        "• Pull the thousands of violent, untrained officers out of Minnesota now\" Earlier this month, an ICE agent fatally shot Renee Nicole Good, a 37-year-old Minneapolis resident "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Minnesota Gov",
+          "• Tim Walz: \"Minnesota has had it"
+        ],
+        "hopeful_bullets": [
+          "• Minnesota Gov",
+          "• Tim Walz: \"Minnesota has had it"
+        ],
+        "stakes_bullets": [
+          "• Minnesota Gov",
+          "• Tim Walz: \"Minnesota has had it",
+          "• This is sickening"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "57de3dc3def9"
     },
     {
       "id": "9ccdc0f6637a",
@@ -3229,7 +3060,7 @@
     {
       "id": "1f59afd2dcf8",
       "title": "5 things to know about the latest Minneapolis shooting",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/25/nx-s1-5687361/minneapolis-shooting-latest-alex-pretti",
       "published_at": "Sun, 25 Jan 2026 06:00:16 -0500",
       "bullets": [
@@ -3238,7 +3069,7 @@
         "• Pretti was shot several times when federal officers were conducting a targeted operation against a different man who was undocumented and wanted for assault",
         "• The victim was an ICU nurse who loved the outdoors "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.941
@@ -4607,40 +4438,6 @@
       "cluster_id": "ceb35807f3a1"
     },
     {
-      "id": "fb939b485c90",
-      "title": "Week in Politics: Trump in Davos; Longtime allies regard the U.S. with reserve",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/24/nx-s1-5686534/week-in-politics-trump-in-davos-longtime-allies-regard-the-u-s-with-reserve",
-      "published_at": "Sat, 24 Jan 2026 07:28:18 -0500",
-      "bullets": [
-        "• President Trump announced a framework for a deal on U.S",
-        "• involvement in Greenland this week",
-        "• The deal would bolster the presence of NATO in general in the Arctic and restrict Russian and Chinese efforts to get mining rights for those rare earths in Greenland "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.895
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump announced a framework for a deal on U.S",
-          "• involvement in Greenland this week"
-        ],
-        "hopeful_bullets": [
-          "• President Trump announced a framework for a deal on U.S",
-          "• involvement in Greenland this week"
-        ],
-        "stakes_bullets": [
-          "• President Trump announced a framework for a deal on U.S",
-          "• involvement in Greenland this week",
-          "• The deal would bolster the presence of NATO in general in the Arctic and restrict Russian and Chinese efforts to get mining rights for those rare earths in Greenland "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6a9a22106ad1"
-    },
-    {
       "id": "e2c1ad428a5c",
       "title": "What is 'frost crack' and how does it affects trees?",
       "outlet": "NPR Topics: Science",
@@ -4670,74 +4467,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "c5a4659ba665"
-    },
-    {
-      "id": "f9786cc516b4",
-      "title": "A deadly standoff in 1992 changed federal use-of-force rules. Here's why it matters",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/24/nx-s1-5684002/ice-minnesota-minneapolis-renee-macklin-good-ruby-ridge-idaho-deadly-force",
-      "published_at": "Sat, 24 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• Renee Macklin Good, a Minnesota mother, was shot by an immigration agent in Minneapolis earlier this month",
-        "• Her death has raised questions about the Department of Homeland Security's use-of-force policy",
-        "• A deadly standoff in 1992 changed the rules of engagement in Idaho "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Renee Macklin Good, a Minnesota mother, was shot by an immigration agent in Minneapolis earlier this month",
-          "• Her death has raised questions about the Department of Homeland Security's use-of-force policy"
-        ],
-        "hopeful_bullets": [
-          "• Renee Macklin Good, a Minnesota mother, was shot by an immigration agent in Minneapolis earlier this month",
-          "• Her death has raised questions about the Department of Homeland Security's use-of-force policy"
-        ],
-        "stakes_bullets": [
-          "• Her death has raised questions about the Department of Homeland Security's use-of-force policy"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c7db11454901"
-    },
-    {
-      "id": "d37c40e9b62d",
-      "title": "Trump administration's defense strategy tells allies to handle their own security",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/24/nx-s1-5687168/trump-administration-defense-strategy",
-      "published_at": "Sat, 24 Jan 2026 04:17:04 -0500",
-      "bullets": [
-        "• U.S",
-        "• National Defense Strategy calls for allies to take control of their own security",
-        "• The document is the first since 2012",
-        "• It calls for a \"sharp shift — in approach, focus and tone\" to allies",
-        "• It comes after a week of tensions between the United States and its allies "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• National Defense Strategy calls for allies to take control of their own security"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• National Defense Strategy calls for allies to take control of their own security"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• National Defense Strategy calls for allies to take control of their own security",
-          "• The document is the first since 2012"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "48a9be3a4c60"
     },
     {
       "id": "bd49212243a2",
@@ -5144,6 +4873,274 @@
       "cluster_id": "ce5a5a3ce234"
     },
     {
+      "id": "3614a62359d4",
+      "title": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17263458/texas-el-paso-meta-data-center-natural-gas-power-plant",
+      "published_at": "Mon, 26 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• El Paso, population 700,000, is consistently ranked among the worst cities for air pollution",
+        "• Advocates in El Paso worry that a new gas plant could drive up utility rates, worsen air pollution problem",
+        "• The Sembrando Esperanza Coalition, an El Paso economic and environmental justice group, is calling for the city, county and utilities to terminate their contracts with Meta "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• El Paso, population 700,000, is consistently ranked among the worst cities for air pollution",
+          "• Advocates in El Paso worry that a new gas plant could drive up utility rates, worsen air pollution problem"
+        ],
+        "hopeful_bullets": [
+          "• El Paso, population 700,000, is consistently ranked among the worst cities for air pollution",
+          "• Advocates in El Paso worry that a new gas plant could drive up utility rates, worsen air pollution problem"
+        ],
+        "stakes_bullets": [
+          "• Advocates in El Paso worry that a new gas plant could drive up utility rates, worsen air pollution problem"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f92de9aefca6"
+    },
+    {
+      "id": "1e082cf16502",
+      "title": "Anti-Islam rhetoric takes center stage in Texas Republican primary",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17263459/texas-republicans-sharia-law-anti-muslim-rhetoric",
+      "published_at": "Mon, 26 Jan 2026 11:00:00 +0000",
+      "bullets": [
+        "• Anti-Muslim rhetoric is a central piece of Texas GOP messaging this cycle",
+        "• Opposing Islam has become a key campaign pillar for some Texas Republicans in statewide races",
+        "• Muslim civil rights groups say the negative messaging from Republicans around Islam is broader, more extreme "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.796
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Anti-Muslim rhetoric is a central piece of Texas GOP messaging this cycle",
+          "• Opposing Islam has become a key campaign pillar for some Texas Republicans in statewide races"
+        ],
+        "hopeful_bullets": [
+          "• Anti-Muslim rhetoric is a central piece of Texas GOP messaging this cycle",
+          "• Opposing Islam has become a key campaign pillar for some Texas Republicans in statewide races"
+        ],
+        "stakes_bullets": [
+          "• Anti-Muslim rhetoric is a central piece of Texas GOP messaging this cycle",
+          "• Opposing Islam has become a key campaign pillar for some Texas Republicans in statewide races",
+          "• Muslim civil rights groups say the negative messaging from Republicans around Islam is broader, more extreme "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "81653d766a0f"
+    },
+    {
+      "id": "28100d7a17f2",
+      "title": "Judge to hear case on Minnesota’s ICE crackdown after killings by federal agents – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/26/minnesota-minneapolis-ice-protests-alex-pretti-donald-trump-us-politics-live-news-updates",
+      "published_at": "Mon, 26 Jan 2026 10:23:43 GMT",
+      "bullets": [
+        "• US District Judge Kathleen Menendez will hear arguments today on whether she should halt the brutal immigration crackdown in Minnesota",
+        "• Two 37-year-old US citizens have been killed in under a month by government officers",
+        "• The surge of federal agents – that roughly outnumbers the Minneapolis police force - has caused terror in communities across the state "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US District Judge Kathleen Menendez will hear arguments today on whether she should halt the brutal immigration crackdown in Minnesota",
+          "• Two 37-year-old US citizens have been killed in under a month by government officers"
+        ],
+        "hopeful_bullets": [
+          "• The surge of federal agents – that roughly outnumbers the Minneapolis police force - has caused terror in communities across the state "
+        ],
+        "stakes_bullets": [
+          "• US District Judge Kathleen Menendez will hear arguments today on whether she should halt the brutal immigration crackdown in Minnesota",
+          "• The surge of federal agents – that roughly outnumbers the Minneapolis police force - has caused terror in communities across the state "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "16a2d2106b8c"
+    },
+    {
+      "id": "088383676eee",
+      "title": "Natural gas prices hit $6 for first time since 2022 as massive winter storm sweeps U.S.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/26/us-natural-gas-prices-snow-ice-winter-storm-fern.html",
+      "published_at": "Mon, 26 Jan 2026 10:04:51 GMT",
+      "bullets": [
+        "• U.S",
+        "• natural gas futures for February delivery traded 17.6% higher, or 93 cents, to $6.2 per million British thermal units",
+        "• It is the first time the contract has climbed above the $6 level since Dec",
+        "• 2022",
+        "• More than 822,000 customers were left without power in the wake of a massive winter storm late Sunday afternoon "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• natural gas futures for February delivery traded 17.6% higher, or 93 cents, to $6.2 per million British thermal units"
+        ],
+        "hopeful_bullets": [
+          "• More than 822,000 customers were left without power in the wake of a massive winter storm late Sunday afternoon "
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• natural gas futures for February delivery traded 17.6% higher, or 93 cents, to $6.2 per million British thermal units",
+          "• It is the first time the contract has climbed above the $6 level since Dec"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d5263c186c9f"
+    },
+    {
+      "id": "c9c6fac09e6f",
+      "title": "‘Embarrassed’ v ‘force to be reckoned with’: Americans on Trump’s foreign interventions",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/26/americans-trump-intervention-maduro-greenland",
+      "published_at": "Mon, 26 Jan 2026 10:00:34 GMT",
+      "bullets": [
+        "• Donald Trump continues to call for the US to take control of Greenland",
+        "• We asked people in the US what they thought about Trump’s foreign intervention and rhetoric",
+        "• Here are some of their responses to what they think about the president's foreign intervention "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.879
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump continues to call for the US to take control of Greenland",
+          "• We asked people in the US what they thought about Trump’s foreign intervention and rhetoric"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump continues to call for the US to take control of Greenland",
+          "• We asked people in the US what they thought about Trump’s foreign intervention and rhetoric"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump continues to call for the US to take control of Greenland",
+          "• We asked people in the US what they thought about Trump’s foreign intervention and rhetoric",
+          "• Here are some of their responses to what they think about the president's foreign intervention "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "9d6392a2c3f5"
+    },
+    {
+      "id": "61587fedc4e5",
+      "title": "‘Our spirit can’t be broken’: Minneapolis city council member on resisting Trump’s immigration crackdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/26/minneapolis-trump-ice-immigration-aisha-chughtai",
+      "published_at": "Mon, 26 Jan 2026 10:00:34 GMT",
+      "bullets": [
+        "• Aisha Chughtai represents the district where 37-year-old nurse Alex Pretti was shot and killed by federal agents on Saturday",
+        "• It is the second killing of a Minneapolis resident by a federal agent on the city’s southside this year",
+        "• The area is home to the largest immigrant community in the state "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Aisha Chughtai represents the district where 37-year-old nurse Alex Pretti was shot and killed by federal agents on Saturday",
+          "• It is the second killing of a Minneapolis resident by a federal agent on the city’s southside this year"
+        ],
+        "hopeful_bullets": [
+          "• Aisha Chughtai represents the district where 37-year-old nurse Alex Pretti was shot and killed by federal agents on Saturday",
+          "• It is the second killing of a Minneapolis resident by a federal agent on the city’s southside this year"
+        ],
+        "stakes_bullets": [
+          "• Aisha Chughtai represents the district where 37-year-old nurse Alex Pretti was shot and killed by federal agents on Saturday",
+          "• It is the second killing of a Minneapolis resident by a federal agent on the city’s southside this year",
+          "• The area is home to the largest immigrant community in the state "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "24248f12aef8"
+    },
+    {
+      "id": "9aded292f671",
+      "title": "A Town’s Opposition to Proposed Power Lines Sparks Discussion About the Cost of Texas’ Growth",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/26012026/a-towns-opposition-to-proposed-power-lines-sparks-discussion-about-the-cost-of-texas-growth/",
+      "published_at": "Mon, 26 Jan 2026 10:00:00 +0000",
+      "bullets": [
+        "• The golden-cheeked warbler nests nowhere else in Texas' Hill Country",
+        "• The tiny migrants, weighing next to nothing, are endangered",
+        "• The land here could be next, threatened by a route of proposed high-voltage power lines",
+        "• It’s but the latest flashpoint in a larger controversy across the state "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.936
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The golden-cheeked warbler nests nowhere else in Texas' Hill Country",
+          "• The tiny migrants, weighing next to nothing, are endangered"
+        ],
+        "hopeful_bullets": [
+          "• The golden-cheeked warbler nests nowhere else in Texas' Hill Country",
+          "• The tiny migrants, weighing next to nothing, are endangered"
+        ],
+        "stakes_bullets": [
+          "• The land here could be next, threatened by a route of proposed high-voltage power lines"
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "d261486b7436"
+    },
+    {
+      "id": "1b9425d09ca6",
+      "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 26 Jan 2026 09:52:05 GMT",
+      "bullets": [
+        "• Israel to reopen Gaza crossing after search for last dead body of last remaining Israeli officer",
+        "• Rafah crossing has been closed since May 24, when the Palestinian side was seized by Israeli forces",
+        "• It was meant to have reopened during the first stage of the ceasefire between Israel and Hamas "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel to reopen Gaza crossing after search for last dead body of last remaining Israeli officer",
+          "• Rafah crossing has been closed since May 24, when the Palestinian side was seized by Israeli forces"
+        ],
+        "hopeful_bullets": [
+          "• Israel to reopen Gaza crossing after search for last dead body of last remaining Israeli officer",
+          "• Rafah crossing has been closed since May 24, when the Palestinian side was seized by Israeli forces"
+        ],
+        "stakes_bullets": [
+          "• Israel to reopen Gaza crossing after search for last dead body of last remaining Israeli officer",
+          "• Rafah crossing has been closed since May 24, when the Palestinian side was seized by Israeli forces",
+          "• It was meant to have reopened during the first stage of the ceasefire between Israel and Hamas "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bf2700eb2933"
+    },
+    {
       "id": "936d08b1c30b",
       "title": "Gold tops $5,000 for first time ever, adding to historic rally",
       "outlet": "BBC News",
@@ -5151,7 +5148,7 @@
       "published_at": "Mon, 26 Jan 2026 09:31:37 GMT",
       "bullets": [
         "• Gold and other precious metals seen as so-called safe-haven assets in times of uncertainty",
-        "• It comes as tensions between the US and NATO over Greenland add to financial and geopolitical uncertainty",
+        "• It comes as tensions between the US and Nato over Greenland add to financial and geopolitical uncertainty",
         "• On Friday, silver topped $100 an ounce for the first time, building on its 150% rise last year "
       ],
       "category": "World",
@@ -5162,15 +5159,15 @@
       "moods": {
         "brief_bullets": [
           "• Gold and other precious metals seen as so-called safe-haven assets in times of uncertainty",
-          "• It comes as tensions between the US and NATO over Greenland add to financial and geopolitical uncertainty"
+          "• It comes as tensions between the US and Nato over Greenland add to financial and geopolitical uncertainty"
         ],
         "hopeful_bullets": [
           "• Gold and other precious metals seen as so-called safe-haven assets in times of uncertainty",
-          "• It comes as tensions between the US and NATO over Greenland add to financial and geopolitical uncertainty"
+          "• It comes as tensions between the US and Nato over Greenland add to financial and geopolitical uncertainty"
         ],
         "stakes_bullets": [
           "• Gold and other precious metals seen as so-called safe-haven assets in times of uncertainty",
-          "• It comes as tensions between the US and NATO over Greenland add to financial and geopolitical uncertainty",
+          "• It comes as tensions between the US and Nato over Greenland add to financial and geopolitical uncertainty",
           "• On Friday, silver topped $100 an ounce for the first time, building on its 150% rise last year "
         ]
       },
@@ -5207,41 +5204,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "628227e236cd"
-    },
-    {
-      "id": "088383676eee",
-      "title": "Natural gas prices hit $6 for first time since 2022 as massive winter storm sweeps U.S.",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/26/us-natural-gas-prices-snow-ice-winter-storm-fern.html",
-      "published_at": "Mon, 26 Jan 2026 09:16:38 GMT",
-      "bullets": [
-        "• U.S",
-        "• natural gas futures for February delivery traded 18.6% higher, or 98 cents, to $6.26 per million British thermal units",
-        "• It is the first time the contract has climbed above the $6 level since Dec",
-        "• 2022",
-        "• More than 822,000 customers were left without power in the wake of a massive winter storm late Sunday afternoon "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• natural gas futures for February delivery traded 18.6% higher, or 98 cents, to $6.26 per million British thermal units"
-        ],
-        "hopeful_bullets": [
-          "• More than 822,000 customers were left without power in the wake of a massive winter storm late Sunday afternoon "
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• natural gas futures for February delivery traded 18.6% higher, or 98 cents, to $6.26 per million British thermal units",
-          "• It is the first time the contract has climbed above the $6 level since Dec"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d5263c186c9f"
     },
     {
       "id": "7af1ff27e74f",
@@ -5306,72 +5268,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "0c950af0df3f"
-    },
-    {
-      "id": "ae136c859369",
-      "title": "From Bill Gates to Emmanuel Macron: How the world’s most powerful people communicate and exert influence",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/25/how-worlds-most-powerful-people-communicate-influence.html",
-      "published_at": "Mon, 26 Jan 2026 08:30:51 GMT",
-      "bullets": [
-        "• René Carayol, a leadership coach to Fortune 500 and FTSE 100 executives and world leaders, spoke at the World Economic Forum in Davos, Switzerland",
-        "• He spoke to CNBC about what the most effective communicators did at the Davos summit "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• René Carayol, a leadership coach to Fortune 500 and FTSE 100 executives and world leaders, spoke at the World Economic Forum in Davos, Switzerland",
-          "• He spoke to CNBC about what the most effective communicators did at the Davos summit "
-        ],
-        "hopeful_bullets": [
-          "• René Carayol, a leadership coach to Fortune 500 and FTSE 100 executives and world leaders, spoke at the World Economic Forum in Davos, Switzerland",
-          "• He spoke to CNBC about what the most effective communicators did at the Davos summit "
-        ],
-        "stakes_bullets": [
-          "• René Carayol, a leadership coach to Fortune 500 and FTSE 100 executives and world leaders, spoke at the World Economic Forum in Davos, Switzerland",
-          "• He spoke to CNBC about what the most effective communicators did at the Davos summit "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "be3c1e2b5384"
-    },
-    {
-      "id": "fe7aaf678816",
-      "title": "Trump says administration 'reviewing everything' after shooting of Alex Pretti",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 26 Jan 2026 08:29:04 GMT",
-      "bullets": [
-        "• Trump says administration 'reviewing everything' after shooting of Alex Pretti",
-        "• Trump also indicated that he would eventually withdraw agents from Minneapolis",
-        "• Pretti, 37, was shot by immigration agents in Minneapolis on Saturday",
-        "• It is the second fatal shooting by agents of a US citizen in recent weeks "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says administration 'reviewing everything' after shooting of Alex Pretti",
-          "• Trump also indicated that he would eventually withdraw agents from Minneapolis"
-        ],
-        "hopeful_bullets": [
-          "• Trump says administration 'reviewing everything' after shooting of Alex Pretti"
-        ],
-        "stakes_bullets": [
-          "• Trump says administration 'reviewing everything' after shooting of Alex Pretti",
-          "• Trump also indicated that he would eventually withdraw agents from Minneapolis",
-          "• Pretti, 37, was shot by immigration agents in Minneapolis on Saturday"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "7cda71869079"
     },
     {
       "id": "fab107e50d1a",
@@ -5599,6 +5495,39 @@
       "cluster_id": "9a88ff5df636"
     },
     {
+      "id": "2c37a0d38796",
+      "title": "All eyes on Rubio as he navigates the world in 2 critical roles",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/26/nx-s1-5668228/greenland-iran-venezuela-marco-rubio-ukraine-foreign-policy",
+      "published_at": "Mon, 26 Jan 2026 05:00:00 -0500",
+      "bullets": [
+        "• Rubio is the first person to hold both roles at the same time since the 1970s",
+        "• The White House says the old National Security Council structures were too bloated",
+        "• The president was elected by the U.S",
+        "• to carry out his foreign policy agenda "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rubio is the first person to hold both roles at the same time since the 1970s",
+          "• The White House says the old National Security Council structures were too bloated"
+        ],
+        "hopeful_bullets": [
+          "• Rubio is the first person to hold both roles at the same time since the 1970s",
+          "• The White House says the old National Security Council structures were too bloated"
+        ],
+        "stakes_bullets": [
+          "• to carry out his foreign policy agenda "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "b9cf895c5e3b"
+    },
+    {
       "id": "ec6e25f7d9bd",
       "title": "Frieren Season 2 Episode 2 Recreated the Frieren Looking Up Fanart Meme",
       "outlet": "CBR",
@@ -5662,6 +5591,38 @@
       },
       "read_minutes": 11,
       "cluster_id": "b3da944b19ab"
+    },
+    {
+      "id": "ca193ce05e7e",
+      "title": "Can Captain America's Shield Resist Xenomorph Acid?",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/captain-america-shield-resist-xenomorph-acid-aliens/",
+      "published_at": "Mon, 26 Jan 2026 04:42:20 GMT",
+      "bullets": [
+        "• Comic Book Questions Answered is a feature where I answer whatever questions you folks might have about comic books",
+        "• Today, I will reveal whether Captain America's shield can resist Xenomorphic acid blood",
+        "• This is a funny one, as longtime reader Hunter asked me this a long time ago "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Comic Book Questions Answered is a feature where I answer whatever questions you folks might have about comic books",
+          "• Today, I will reveal whether Captain America's shield can resist Xenomorphic acid blood"
+        ],
+        "hopeful_bullets": [
+          "• Comic Book Questions Answered is a feature where I answer whatever questions you folks might have about comic books",
+          "• Today, I will reveal whether Captain America's shield can resist Xenomorphic acid blood"
+        ],
+        "stakes_bullets": [
+          "• Today, I will reveal whether Captain America's shield can resist Xenomorphic acid blood"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "29d10d773256"
     },
     {
       "id": "02983417edae",
@@ -6032,40 +5993,6 @@
       "cluster_id": "e46cf24fb8ab"
     },
     {
-      "id": "14d8c311b10d",
-      "title": "Every Death in Gachiakuta Season 1, Explained",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/every-death-in-gachiakuta-season-1/",
-      "published_at": "Mon, 26 Jan 2026 03:15:12 GMT",
-      "bullets": [
-        "• Gachiakuta Season 1 kicks off with the brutal kill that starts everything",
-        "• The story centers on Rudo Surebrec, a teen from the slums who fixes broken items",
-        "• The anime adapts the manga's start, from Rudo's drop into the Pit to fierce clashes with Cleaners "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gachiakuta Season 1 kicks off with the brutal kill that starts everything",
-          "• The story centers on Rudo Surebrec, a teen from the slums who fixes broken items"
-        ],
-        "hopeful_bullets": [
-          "• Gachiakuta Season 1 kicks off with the brutal kill that starts everything",
-          "• The story centers on Rudo Surebrec, a teen from the slums who fixes broken items"
-        ],
-        "stakes_bullets": [
-          "• Gachiakuta Season 1 kicks off with the brutal kill that starts everything",
-          "• The story centers on Rudo Surebrec, a teen from the slums who fixes broken items",
-          "• The anime adapts the manga's start, from Rudo's drop into the Pit to fierce clashes with Cleaners "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "71545a826399"
-    },
-    {
       "id": "6b6366225860",
       "title": "Alzheimer’s may trick the brain into erasing its own memories",
       "outlet": "All Top News -- ScienceDaily",
@@ -6227,6 +6154,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "574f333698a1"
+    },
+    {
+      "id": "db69ab643581",
+      "title": "Flight disruptions from massive winter storm will linger Monday",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
+      "published_at": "Mon, 26 Jan 2026 01:41:54 GMT",
+      "bullets": [
+        "• More than 3,000 flights were canceled for Monday, far fewer than over the weekend",
+        "• Airlines are waiving change and cancellation fees as well as fare differences to rebook customers",
+        "• January is a low season for travel but the vast storm was snarling travel across the country for hundreds of thousands "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 3,000 flights were canceled for Monday, far fewer than over the weekend",
+          "• Airlines are waiving change and cancellation fees as well as fare differences to rebook customers"
+        ],
+        "hopeful_bullets": [
+          "• More than 3,000 flights were canceled for Monday, far fewer than over the weekend",
+          "• Airlines are waiving change and cancellation fees as well as fare differences to rebook customers"
+        ],
+        "stakes_bullets": [
+          "• More than 3,000 flights were canceled for Monday, far fewer than over the weekend",
+          "• Airlines are waiving change and cancellation fees as well as fare differences to rebook customers",
+          "• January is a low season for travel but the vast storm was snarling travel across the country for hundreds of thousands "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c328b819264e"
     },
     {
       "id": "5c24370581a1",
@@ -7079,37 +7040,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "c1b480930f2a"
-    },
-    {
-      "id": "c8b733534736",
-      "title": "Virginia Attorney General Takes Steps to Rejoin the Regional Greenhouse Gas Initiative",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/23012026/virginia-attorney-general-takes-steps-to-rejoin-the-regional-greenhouse-gas-initiative/",
-      "published_at": "Fri, 23 Jan 2026 20:03:56 +0000",
-      "bullets": [
-        "• Move is one of several maneuvers Democrats are taking to resume participation in the regional carbon market",
-        "• The move comes after Virginia’s new Democratic leader said in her first State of the Commonwealth address on Monday that she wants to rejoin RGGI "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.88
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Move is one of several maneuvers Democrats are taking to resume participation in the regional carbon market",
-          "• The move comes after Virginia’s new Democratic leader said in her first State of the Commonwealth address on Monday that she wants to rejoin RGGI "
-        ],
-        "hopeful_bullets": [
-          "• Move is one of several maneuvers Democrats are taking to resume participation in the regional carbon market",
-          "• The move comes after Virginia’s new Democratic leader said in her first State of the Commonwealth address on Monday that she wants to rejoin RGGI "
-        ],
-        "stakes_bullets": [
-          "• The move comes after Virginia’s new Democratic leader said in her first State of the Commonwealth address on Monday that she wants to rejoin RGGI "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "e6561693ef33"
     },
     {
       "id": "e475dde0d188",
@@ -8498,6 +8428,40 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "58aeabf12e34",
+      "title": "TikTok broke in its first weekend with US ownership",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review",
+      "published_at": "2026-01-26T05:10:13-05:00",
+      "bullets": [
+        "• Users report problems including difficulty logging in, inability to upload videos and problems loading comments",
+        "• Issues spiked in the early hours of Sunday morning, but some users are still reporting errors",
+        "• TikTok's US operation is under the ownership of an investment consortium including Larry Ellison’s Oracle "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Users report problems including difficulty logging in, inability to upload videos and problems loading comments",
+          "• Issues spiked in the early hours of Sunday morning, but some users are still reporting errors"
+        ],
+        "hopeful_bullets": [
+          "• Users report problems including difficulty logging in, inability to upload videos and problems loading comments",
+          "• Issues spiked in the early hours of Sunday morning, but some users are still reporting errors"
+        ],
+        "stakes_bullets": [
+          "• Users report problems including difficulty logging in, inability to upload videos and problems loading comments",
+          "• Issues spiked in the early hours of Sunday morning, but some users are still reporting errors",
+          "• TikTok's US operation is under the ownership of an investment consortium including Larry Ellison’s Oracle "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "204cee40323e"
+    },
+    {
       "id": "91af38f520b9",
       "title": "Creators and communities everywhere take a stand against ICE",
       "outlet": "The Verge",
@@ -8800,38 +8764,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "258bad7f2b14"
-    },
-    {
-      "id": "35df45355b14",
-      "title": "Gmail’s spam filter and automatic sorting are broken",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/867247/gmails-spam-filter-broken",
-      "published_at": "2026-01-24T12:54:10-05:00",
-      "bullets": [
-        "• Some Gmail users may have noticed that promotional emails that normally go to their own siloed tab have started flooding their inbox",
-        "• Reports hit the Google forums and Reddit that messages are bypassing the Updates and Promotional filters and went straight to Gmail inboxes",
-        "• Some also reported seeing a banner at the top of some messages warning them to “be careful with this message”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some Gmail users may have noticed that promotional emails that normally go to their own siloed tab have started flooding their inbox",
-          "• Reports hit the Google forums and Reddit that messages are bypassing the Updates and Promotional filters and went straight to Gmail inboxes"
-        ],
-        "hopeful_bullets": [
-          "• Some Gmail users may have noticed that promotional emails that normally go to their own siloed tab have started flooding their inbox",
-          "• Reports hit the Google forums and Reddit that messages are bypassing the Updates and Promotional filters and went straight to Gmail inboxes"
-        ],
-        "stakes_bullets": [
-          "• Some also reported seeing a banner at the top of some messages warning them to “be careful with this message”"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "61777709124c"
     },
     {
       "id": "c41ff758b36a",
@@ -9295,24 +9227,6 @@
   ],
   "clusters": [
     {
-      "id": "7cda71869079",
-      "topic": "administration alex everything reviewing",
-      "keywords": [
-        "administration",
-        "alex",
-        "everything",
-        "reviewing",
-        "shooting",
-        "trump"
-      ],
-      "item_ids": [
-        "fe7aaf678816"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "7c26d2aeb3c0",
       "topic": "deadly horrifying minneapoli reel",
       "keywords": [
@@ -9325,24 +9239,6 @@
       ],
       "item_ids": [
         "e22a03fb0ea4"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "7fc0eb6095d0",
-      "topic": "alex care intensive nurse",
-      "keywords": [
-        "alex",
-        "care",
-        "intensive",
-        "nurse",
-        "pretti",
-        "shot"
-      ],
-      "item_ids": [
-        "0ea3487bc204"
       ],
       "outlets": [
         "BBC News"
@@ -9379,6 +9275,24 @@
       ],
       "item_ids": [
         "b9de05435fb1"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "bf2700eb2933",
+      "topic": "crossing gaza israel last",
+      "keywords": [
+        "crossing",
+        "gaza",
+        "israel",
+        "last",
+        "reopen",
+        "search"
+      ],
+      "item_ids": [
+        "1b9425d09ca6"
       ],
       "outlets": [
         "BBC News"
@@ -9469,6 +9383,24 @@
       ],
       "item_ids": [
         "9f18e2e19c0c"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "69c2014896f3",
+      "topic": "dozen free human political",
+      "keywords": [
+        "dozen",
+        "free",
+        "human",
+        "political",
+        "prisoner",
+        "venezuela"
+      ],
+      "item_ids": [
+        "df88eeefb88d"
       ],
       "outlets": [
         "BBC News"
@@ -9655,6 +9587,60 @@
       ]
     },
     {
+      "id": "16a2d2106b8c",
+      "topic": "case crackdown hear ice",
+      "keywords": [
+        "case",
+        "crackdown",
+        "hear",
+        "ice",
+        "judge",
+        "minnesota"
+      ],
+      "item_ids": [
+        "28100d7a17f2"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "9d6392a2c3f5",
+      "topic": "american embarrassed force foreign",
+      "keywords": [
+        "american",
+        "embarrassed",
+        "force",
+        "foreign",
+        "reckoned",
+        "trump"
+      ],
+      "item_ids": [
+        "c9c6fac09e6f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "24248f12aef8",
+      "topic": "broken city council member",
+      "keywords": [
+        "broken",
+        "city",
+        "council",
+        "member",
+        "minneapoli",
+        "spirit"
+      ],
+      "item_ids": [
+        "61587fedc4e5"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "0c950af0df3f",
       "topic": "continue fatal lies official",
       "keywords": [
@@ -9763,75 +9749,39 @@
       ]
     },
     {
-      "id": "5f26161875f6",
-      "topic": "alex family fundraiser nearly",
+      "id": "6fc5c0d4392f",
+      "topic": "call full group gun",
       "keywords": [
-        "alex",
-        "family",
-        "fundraiser",
-        "nearly",
-        "pretti",
-        "raise"
+        "call",
+        "full",
+        "group",
+        "gun",
+        "nra",
+        "pro"
       ],
       "item_ids": [
-        "b96340b50d44"
+        "e002671b0f67"
       ],
       "outlets": [
         "US news | The Guardian"
       ]
     },
     {
-      "id": "83337dfb19ce",
-      "topic": "dead leave people seven",
+      "id": "b9cf895c5e3b",
+      "topic": "all critical eyes navigate",
       "keywords": [
-        "dead",
-        "leave",
-        "people",
-        "seven",
-        "storm",
-        "winter"
+        "all",
+        "critical",
+        "eyes",
+        "navigate",
+        "rubio",
+        "world"
       ],
       "item_ids": [
-        "20484c73f996"
+        "2c37a0d38796"
       ],
       "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "dfe81f2c91b0",
-      "topic": "angry anxiou fight minneapoli",
-      "keywords": [
-        "angry",
-        "anxiou",
-        "fight",
-        "minneapoli",
-        "resident",
-        "resolve"
-      ],
-      "item_ids": [
-        "171913e773d7"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d81643775044",
-      "topic": "appeal charge court doj",
-      "keywords": [
-        "appeal",
-        "charge",
-        "court",
-        "doj",
-        "push",
-        "reject"
-      ],
-      "item_ids": [
-        "1818c2540db3"
-      ],
-      "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9997,22 +9947,6 @@
       ]
     },
     {
-      "id": "550fb63da3c7",
-      "topic": "know minneapoli shooting thing",
-      "keywords": [
-        "know",
-        "minneapoli",
-        "shooting",
-        "thing"
-      ],
-      "item_ids": [
-        "1f59afd2dcf8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "8c029f5998f1",
       "topic": "alex ceos including killing",
       "keywords": [
@@ -10085,24 +10019,6 @@
       ]
     },
     {
-      "id": "3045f0b68f01",
-      "topic": "alphabet arms back nvidia",
-      "keywords": [
-        "alphabet",
-        "arms",
-        "back",
-        "nvidia",
-        "startup",
-        "synthesia"
-      ],
-      "item_ids": [
-        "7af1ff27e74f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "388f33329db5",
       "topic": "chief europe history lowest",
       "keywords": [
@@ -10121,71 +10037,90 @@
       ]
     },
     {
-      "id": "6d9ca227925d",
-      "topic": "less million retire saving",
+      "id": "57de3dc3def9",
+      "topic": "call gov halt ice",
       "keywords": [
-        "less",
-        "million",
-        "retire",
-        "saving",
-        "state"
+        "call",
+        "gov",
+        "halt",
+        "ice",
+        "trump",
+        "walz"
       ],
       "item_ids": [
-        "b39a8c7db2ed"
+        "0a8156dcdb78"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "be3c1e2b5384",
-      "topic": "bill emmanuel gate macron",
+      "id": "7a10e1585c85",
+      "topic": "account employer get matche",
       "keywords": [
-        "bill",
-        "emmanuel",
-        "gate",
-        "macron",
-        "most",
-        "world"
+        "account",
+        "employer",
+        "get",
+        "matche",
+        "supercharged",
+        "trump"
       ],
       "item_ids": [
-        "ae136c859369"
+        "1b055e9d8eb7"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "81eaed20a66a",
-      "topic": "agent alex federal pretti",
+      "id": "c328b819264e",
+      "topic": "disruption flight linger massive",
       "keywords": [
-        "agent",
-        "alex",
-        "federal",
-        "pretti",
-        "shooting",
-        "video"
+        "disruption",
+        "flight",
+        "linger",
+        "massive",
+        "storm",
+        "winter"
       ],
       "item_ids": [
-        "6a1cb1c87a19"
+        "db69ab643581"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "3f24457fccb5",
-      "topic": "grow odds republican senate",
+      "id": "00fcba5bffff",
+      "topic": "auto best executive hoping",
       "keywords": [
-        "grow",
-        "odds",
-        "republican",
-        "senate",
-        "shutdown",
-        "won"
+        "auto",
+        "best",
+        "executive",
+        "hoping",
+        "planning",
+        "worst"
       ],
       "item_ids": [
-        "346a64d08a93"
+        "e0541d5243e9"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "3045f0b68f01",
+      "topic": "alphabet arms back nvidia",
+      "keywords": [
+        "alphabet",
+        "arms",
+        "back",
+        "nvidia",
+        "startup",
+        "synthesia"
+      ],
+      "item_ids": [
+        "7af1ff27e74f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10367,6 +10302,23 @@
       ]
     },
     {
+      "id": "204cee40323e",
+      "topic": "broke first ownership tiktok",
+      "keywords": [
+        "broke",
+        "first",
+        "ownership",
+        "tiktok",
+        "weekend"
+      ],
+      "item_ids": [
+        "58aeabf12e34"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "b32cfaebbec9",
       "topic": "against communitie creator everywhere",
       "keywords": [
@@ -10516,24 +10468,6 @@
       ],
       "item_ids": [
         "503792cc3a2e"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "61777709124c",
-      "topic": "automatic broken filter gmail",
-      "keywords": [
-        "automatic",
-        "broken",
-        "filter",
-        "gmail",
-        "sorting",
-        "spam"
-      ],
-      "item_ids": [
-        "35df45355b14"
       ],
       "outlets": [
         "The Verge"
@@ -11097,6 +11031,22 @@
       ]
     },
     {
+      "id": "550fb63da3c7",
+      "topic": "know minneapoli shooting thing",
+      "keywords": [
+        "know",
+        "minneapoli",
+        "shooting",
+        "thing"
+      ],
+      "item_ids": [
+        "1f59afd2dcf8"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "72b1e5aace81",
       "topic": "act american inclusion opt",
       "keywords": [
@@ -11109,60 +11059,6 @@
       ],
       "item_ids": [
         "04ec1d84090f"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "6a9a22106ad1",
-      "topic": "allie davo longtime politic",
-      "keywords": [
-        "allie",
-        "davo",
-        "longtime",
-        "politic",
-        "trump",
-        "week"
-      ],
-      "item_ids": [
-        "fb939b485c90"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "c7db11454901",
-      "topic": "1992 changed deadly federal",
-      "keywords": [
-        "1992",
-        "changed",
-        "deadly",
-        "federal",
-        "standoff",
-        "use"
-      ],
-      "item_ids": [
-        "f9786cc516b4"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "48a9be3a4c60",
-      "topic": "administration allie defense strategy",
-      "keywords": [
-        "administration",
-        "allie",
-        "defense",
-        "strategy",
-        "tell",
-        "trump"
-      ],
-      "item_ids": [
-        "d37c40e9b62d"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11518,6 +11414,24 @@
       ]
     },
     {
+      "id": "d261486b7436",
+      "topic": "line opposition power proposed",
+      "keywords": [
+        "line",
+        "opposition",
+        "power",
+        "proposed",
+        "spark",
+        "town"
+      ],
+      "item_ids": [
+        "9aded292f671"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "0d1717477e95",
       "topic": "killing onshore power wind",
       "keywords": [
@@ -11668,24 +11582,6 @@
       ],
       "item_ids": [
         "e425a1c943dd"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "e6561693ef33",
-      "topic": "attorney general rejoin step",
-      "keywords": [
-        "attorney",
-        "general",
-        "rejoin",
-        "step",
-        "take",
-        "virginia"
-      ],
-      "item_ids": [
-        "c8b733534736"
       ],
       "outlets": [
         "Inside Climate News"
@@ -13382,6 +13278,24 @@
       ]
     },
     {
+      "id": "29d10d773256",
+      "topic": "acid america captain resist",
+      "keywords": [
+        "acid",
+        "america",
+        "captain",
+        "resist",
+        "shield",
+        "xenomorph"
+      ],
+      "item_ids": [
+        "ca193ce05e7e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "b8674d3ba5e6",
       "topic": "back battlestar brought dark",
       "keywords": [
@@ -13518,23 +13432,6 @@
       ],
       "item_ids": [
         "a4945a4e9e2c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "71545a826399",
-      "topic": "death every explained gachiakuta",
-      "keywords": [
-        "death",
-        "every",
-        "explained",
-        "gachiakuta",
-        "season"
-      ],
-      "item_ids": [
-        "14d8c311b10d"
       ],
       "outlets": [
         "CBR"
@@ -14062,6 +13959,42 @@
       ]
     },
     {
+      "id": "f92de9aefca6",
+      "topic": "build gas natural paso",
+      "keywords": [
+        "build",
+        "gas",
+        "natural",
+        "paso",
+        "plan",
+        "power"
+      ],
+      "item_ids": [
+        "3614a62359d4"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "81653d766a0f",
+      "topic": "anti center islam rhetoric",
+      "keywords": [
+        "anti",
+        "center",
+        "islam",
+        "rhetoric",
+        "stage",
+        "take"
+      ],
+      "item_ids": [
+        "1e082cf16502"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "27ad36183442",
       "topic": "bring extreme storm sunday",
       "keywords": [
@@ -14200,42 +14133,6 @@
       ],
       "item_ids": [
         "c69898cb45c0"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "9f8d5dfe1a85",
-      "topic": "arctic blanket expected here",
-      "keywords": [
-        "arctic",
-        "blanket",
-        "expected",
-        "here",
-        "state",
-        "storm"
-      ],
-      "item_ids": [
-        "5b30938dc062"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "89ca0843b388",
-      "topic": "defend law post requiring",
-      "keywords": [
-        "defend",
-        "law",
-        "post",
-        "requiring",
-        "school",
-        "texa"
-      ],
-      "item_ids": [
-        "3a9c71c35870"
       ],
       "outlets": [
         "The Texas Tribune"
