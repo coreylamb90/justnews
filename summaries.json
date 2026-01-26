@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T07:25:42Z",
+  "generated_at": "2026-01-26T08:09:03Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -3432,7 +3432,7 @@
     {
       "id": "04ec1d84090f",
       "title": "Thousands of new Americans opt for 'ultimate act of inclusion' despite obstacles",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/25/nx-s1-5672653/trump-immigration-citizenship-naturalization-restrictions-visa-ban",
       "published_at": "Sun, 25 Jan 2026 06:00:00 -0500",
       "bullets": [
@@ -3441,7 +3441,7 @@
         "• NPR spoke with more than a dozen naturalized citizens and their families",
         "• The ceremonies took place against the backdrop of a year of unexpected hurdles and changes to the naturalization process in America "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.993
@@ -5409,6 +5409,133 @@
       "cluster_id": "ce5a5a3ce234"
     },
     {
+      "id": "a57af9dac062",
+      "title": "Dave Grohl Confirms New Foo Fighters Album Is ‘Finished’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/dave-grohl-foo-fighters-new-album-finished-1235504460/",
+      "published_at": "Mon, 26 Jan 2026 07:35:30 +0000",
+      "bullets": [
+        "• Foo Fighters' last album, But Here We Are, arrived in 2023",
+        "• Dave Grohl says they have finished work on their new album",
+        "• The band has already announced a North American tour",
+        "• The Foos have also shared a new single titled \"Asking For a Friend\""
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.89
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Foo Fighters' last album, But Here We Are, arrived in 2023",
+          "• Dave Grohl says they have finished work on their new album"
+        ],
+        "hopeful_bullets": [
+          "• Foo Fighters' last album, But Here We Are, arrived in 2023",
+          "• Dave Grohl says they have finished work on their new album"
+        ],
+        "stakes_bullets": [
+          "• The band has already announced a North American tour"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f6faaa173b24"
+    },
+    {
+      "id": "fe7aaf678816",
+      "title": "Minneapolis protesters march against ICE as governor demands Trump remove agents",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 26 Jan 2026 07:31:46 GMT",
+      "bullets": [
+        "• Governor Tim Walz calls for US President Donald Trump to remove federal immigration agents from Minneapolis",
+        "• Pretti, 37, is the second person to be fatally shot in the city during the Trump administration's immigration enforcement crackdown this month",
+        "• Trump has signalled that he might be willing to eventually withdraw ICE agents from the Minneapolis area "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Governor Tim Walz calls for US President Donald Trump to remove federal immigration agents from Minneapolis",
+          "• Pretti, 37, is the second person to be fatally shot in the city during the Trump administration's immigration enforcement crackdown this month"
+        ],
+        "hopeful_bullets": [
+          "• Governor Tim Walz calls for US President Donald Trump to remove federal immigration agents from Minneapolis",
+          "• Pretti, 37, is the second person to be fatally shot in the city during the Trump administration's immigration enforcement crackdown this month"
+        ],
+        "stakes_bullets": [
+          "• Trump has signalled that he might be willing to eventually withdraw ICE agents from the Minneapolis area "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "61e03b00de59"
+    },
+    {
+      "id": "d6fa8a713ff0",
+      "title": "Heatwave warnings across Australia as millions celebrate national day",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 26 Jan 2026 07:15:24 GMT",
+      "bullets": [
+        "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in southern states of Victoria and South Australia",
+        "• South Australia recorded temperatures as high as 48.5C on Sunday",
+        "• Some national day celebrations on Monday have been cancelled out of safety concerns "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in southern states of Victoria and South Australia",
+          "• South Australia recorded temperatures as high as 48.5C on Sunday"
+        ],
+        "hopeful_bullets": [
+          "• South Australia recorded temperatures as high as 48.5C on Sunday"
+        ],
+        "stakes_bullets": [
+          "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in southern states of Victoria and South Australia"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2dd48ebcfa9a"
+    },
+    {
+      "id": "09d40c6ea258",
+      "title": "Another day another high: Gold surges past $5,100 as investors seek shelter from global risks",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/26/gold-record-surges-past-new-5000-record.html",
+      "published_at": "Mon, 26 Jan 2026 07:12:51 GMT",
+      "bullets": [
+        "• Gold prices hit $5,100 an ounce on Monday, reaching a new all-time high",
+        "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk",
+        "• Silver also rallied Monday, with spot prices jumping 4.9% to $107.9 per ounce "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gold prices hit $5,100 an ounce on Monday, reaching a new all-time high",
+          "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk"
+        ],
+        "hopeful_bullets": [
+          "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk"
+        ],
+        "stakes_bullets": [
+          "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "628227e236cd"
+    },
+    {
       "id": "a9d83b4c8d1e",
       "title": "Europe-U.S. ties at their 'lowest' in NATO history, ex-EU chief says, as Trump goes 'America First'",
       "outlet": "US Top News and Analysis",
@@ -5439,40 +5566,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "388f33329db5"
-    },
-    {
-      "id": "fe7aaf678816",
-      "title": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 26 Jan 2026 05:57:05 GMT",
-      "bullets": [
-        "• Minnesota Governor Tim Walz calls for removal of federal agents from state prisons",
-        "• President Donald Trump says he is reviewing everything about the shooting death of Alex Pretti",
-        "• Police chief says federal agents blocked from accessing the scene of the shooting by federal agents",
-        "• Pretti, 37, was shot by immigration agents in Minneapolis on Saturday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Minnesota Governor Tim Walz calls for removal of federal agents from state prisons",
-          "• President Donald Trump says he is reviewing everything about the shooting death of Alex Pretti"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says he is reviewing everything about the shooting death of Alex Pretti"
-        ],
-        "stakes_bullets": [
-          "• Minnesota Governor Tim Walz calls for removal of federal agents from state prisons",
-          "• President Donald Trump says he is reviewing everything about the shooting death of Alex Pretti",
-          "• Police chief says federal agents blocked from accessing the scene of the shooting by federal agents"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "61e03b00de59"
     },
     {
       "id": "319a018b4d07",
@@ -5767,38 +5860,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "9a6282125a46"
-    },
-    {
-      "id": "d6fa8a713ff0",
-      "title": "Heatwave warnings across Australia as millions celebrate national day",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 26 Jan 2026 04:01:00 GMT",
-      "bullets": [
-        "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in Victoria and South Australia",
-        "• Some national day celebrations on Monday have been cancelled out of safety concerns",
-        "• Australia Day is the anniversary of the 1788 landing of Britain's First Fleet "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in Victoria and South Australia",
-          "• Some national day celebrations on Monday have been cancelled out of safety concerns"
-        ],
-        "hopeful_bullets": [
-          "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in Victoria and South Australia",
-          "• Some national day celebrations on Monday have been cancelled out of safety concerns"
-        ],
-        "stakes_bullets": [
-          "• Temperatures are expected to peak on Tuesday, reaching the \"high forties\" Celsius in Victoria and South Australia"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2dd48ebcfa9a"
     },
     {
       "id": "ddc8fa70571c",
@@ -6103,6 +6164,38 @@
       "cluster_id": "f8acd4c3234b"
     },
     {
+      "id": "aac33174fd9d",
+      "title": "DC Delegate Eleanor Holmes Norton is ending her reelection campaign for Congress",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/26/g-s1-107327/eleanor-holmes-norton-ending-reelection-campaign",
+      "published_at": "Mon, 26 Jan 2026 02:03:19 -0500",
+      "bullets": [
+        "• DC Delegate Eleanor Holmes Norton files paperwork to end her reelection campaign",
+        "• Norton, 88, has been the sole representative of the nation's capital in Congress since 1991",
+        "• She faced increasing questions about her effectiveness after the Trump administration began its sweeping intervention into the city last year "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• DC Delegate Eleanor Holmes Norton files paperwork to end her reelection campaign",
+          "• Norton, 88, has been the sole representative of the nation's capital in Congress since 1991"
+        ],
+        "hopeful_bullets": [
+          "• DC Delegate Eleanor Holmes Norton files paperwork to end her reelection campaign",
+          "• Norton, 88, has been the sole representative of the nation's capital in Congress since 1991"
+        ],
+        "stakes_bullets": [
+          "• She faced increasing questions about her effectiveness after the Trump administration began its sweeping intervention into the city last year "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5b6eaec93232"
+    },
+    {
       "id": "6f9e23156430",
       "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens 100% tariffs",
       "outlet": "US Top News and Analysis",
@@ -6204,37 +6297,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a27ced3be76a"
-    },
-    {
-      "id": "09d40c6ea258",
-      "title": "Another day another high: Gold surges past $5,000 as investors seek shelter from global risks",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/26/gold-record-surges-past-new-5000-record.html",
-      "published_at": "Mon, 26 Jan 2026 00:44:22 GMT",
-      "bullets": [
-        "• Gold climbed to a fresh all-time high, crossing $5,000 an ounce on Monday",
-        "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk",
-        "• Silver also rallied Monday, with spot prices jumping 3% to $106.1 per ounce "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gold climbed to a fresh all-time high, crossing $5,000 an ounce on Monday",
-          "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk"
-        ],
-        "hopeful_bullets": [
-          "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk"
-        ],
-        "stakes_bullets": [
-          "• The precious metal's surge comes as recent flashpoints from Greenland and Venezuela to the Middle East underscore higher geopolitical risk"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "628227e236cd"
     },
     {
       "id": "c48e1e679e48",
@@ -7385,39 +7447,6 @@
       "cluster_id": "f73ca393740a"
     },
     {
-      "id": "b7b2db90530e",
-      "title": "Renée Fleming Is Latest Performer to Cancel Appearances at the Kennedy Center",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/kennedy-center-cancellations-renee-fleming-1235503999/",
-      "published_at": "Fri, 23 Jan 2026 18:38:15 +0000",
-      "bullets": [
-        "• Renée Fleming has canceled her scheduled performances at the Kennedy Center for the Performing Arts",
-        "• The Grammy-winning soprano singer joins a long list of musicians who have called off events at the once-heralded institution",
-        "• Fleming resigned from her role as Artistic Advisor-at-Large last year "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Renée Fleming has canceled her scheduled performances at the Kennedy Center for the Performing Arts",
-          "• The Grammy-winning soprano singer joins a long list of musicians who have called off events at the once-heralded institution"
-        ],
-        "hopeful_bullets": [
-          "• The Grammy-winning soprano singer joins a long list of musicians who have called off events at the once-heralded institution"
-        ],
-        "stakes_bullets": [
-          "• Renée Fleming has canceled her scheduled performances at the Kennedy Center for the Performing Arts",
-          "• The Grammy-winning soprano singer joins a long list of musicians who have called off events at the once-heralded institution",
-          "• Fleming resigned from her role as Artistic Advisor-at-Large last year "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cb8b733965a8"
-    },
-    {
       "id": "9aac07db67dc",
       "title": "Aliens Uncovered: Invasion Coming to VOD January 30 ﻿",
       "outlet": "HorrorFix",
@@ -8108,39 +8137,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "704307026369"
-    },
-    {
-      "id": "fe7ce13054e8",
-      "title": "How President Trump has challenged a constitutional foundation",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2026/01/23/g-s1-106562/trump-democracy-constitution-executive-power",
-      "published_at": "Fri, 23 Jan 2026 05:00:00 -0500",
-      "bullets": [
-        "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
-        "• Critics say that these moves are unprecedented in U.S",
-        "• history and that he has pushed the U.K",
-        "• toward authoritarianism "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
-          "• Critics say that these moves are unprecedented in U.S"
-        ],
-        "hopeful_bullets": [
-          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power",
-          "• Critics say that these moves are unprecedented in U.S"
-        ],
-        "stakes_bullets": [
-          "• In his first year back in the White House, President Trump has presided over a sweeping expansion of executive power"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4fe72395c231"
     },
     {
       "id": "38907ee2a354",
@@ -9875,6 +9871,24 @@
       ]
     },
     {
+      "id": "5b6eaec93232",
+      "topic": "delegate eleanor ending holme",
+      "keywords": [
+        "delegate",
+        "eleanor",
+        "ending",
+        "holme",
+        "norton",
+        "reelection"
+      ],
+      "item_ids": [
+        "aac33174fd9d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "534de5a891c2",
       "topic": "israel large launche locate",
       "keywords": [
@@ -10035,24 +10049,6 @@
       ]
     },
     {
-      "id": "72b1e5aace81",
-      "topic": "act american inclusion opt",
-      "keywords": [
-        "act",
-        "american",
-        "inclusion",
-        "opt",
-        "thousand",
-        "ultimate"
-      ],
-      "item_ids": [
-        "04ec1d84090f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "8c029f5998f1",
       "topic": "alex ceos including killing",
       "keywords": [
@@ -10065,6 +10061,24 @@
       ],
       "item_ids": [
         "0366adb0c619"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "628227e236cd",
+      "topic": "another day gold high",
+      "keywords": [
+        "another",
+        "day",
+        "gold",
+        "high",
+        "past",
+        "surge"
+      ],
+      "item_ids": [
+        "09d40c6ea258"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10119,24 +10133,6 @@
       ],
       "item_ids": [
         "6a1cb1c87a19"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "628227e236cd",
-      "topic": "another day gold high",
-      "keywords": [
-        "another",
-        "day",
-        "gold",
-        "high",
-        "past",
-        "surge"
-      ],
-      "item_ids": [
-        "09d40c6ea258"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11137,6 +11133,24 @@
       ]
     },
     {
+      "id": "72b1e5aace81",
+      "topic": "act american inclusion opt",
+      "keywords": [
+        "act",
+        "american",
+        "inclusion",
+        "opt",
+        "thousand",
+        "ultimate"
+      ],
+      "item_ids": [
+        "04ec1d84090f"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "6a9a22106ad1",
       "topic": "allie davo longtime politic",
       "keywords": [
@@ -11203,23 +11217,6 @@
       ],
       "item_ids": [
         "254bc6f294c1"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "4fe72395c231",
-      "topic": "challenged constitutional foundation president",
-      "keywords": [
-        "challenged",
-        "constitutional",
-        "foundation",
-        "president",
-        "trump"
-      ],
-      "item_ids": [
-        "fe7ce13054e8"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13776,6 +13773,24 @@
       ]
     },
     {
+      "id": "f6faaa173b24",
+      "topic": "album confirm dave fighter",
+      "keywords": [
+        "album",
+        "confirm",
+        "dave",
+        "fighter",
+        "foo",
+        "grohl"
+      ],
+      "item_ids": [
+        "a57af9dac062"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "24373be3650d",
       "topic": "death evita flashback madonna",
       "keywords": [
@@ -13934,24 +13949,6 @@
       ],
       "item_ids": [
         "e971e1d778e4"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "cb8b733965a8",
-      "topic": "appearance cancel fleming kennedy",
-      "keywords": [
-        "appearance",
-        "cancel",
-        "fleming",
-        "kennedy",
-        "performer",
-        "ren"
-      ],
-      "item_ids": [
-        "b7b2db90530e"
       ],
       "outlets": [
         "Music News"
